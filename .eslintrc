@@ -1,0 +1,14 @@
+{
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"requireConfigFile": false,
+		"sourceType": "module"
+	},
+	"env": {
+		"node": true,
+		"browser": true
+	},
+	"extends": [
+		"@open-xamu-co/eslint-config"
+	]
+}

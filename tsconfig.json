@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    /* Language and Environment */
+    "baseUrl": ".",
+    "rootDir": "./src",
+    "target": "es2017",
+    "module": "node16",
+    "moduleResolution": "Node",
+    /* Emit */
+    "outDir": "./dist",
+    "declaration": true,
+    /* Interop Constraints */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": true,
+    "skipLibCheck": true,
+    "types": [
+      "node"
+    ]
+  }
+}
