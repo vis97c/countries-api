@@ -1,0 +1,222 @@
+{
+  "id": 4353,
+  "name": "Košice Region",
+  "state_code": "KI",
+  "latitude": "48.63757370",
+  "longitude": "21.08342250",
+  "type": null,
+  "cities": [
+    {
+      "id": 104588,
+      "name": "Čierna nad Tisou",
+      "latitude": "48.41704000",
+      "longitude": "22.08865000"
+    },
+    {
+      "id": 104382,
+      "name": "Dobšiná",
+      "latitude": "48.82073000",
+      "longitude": "20.36988000"
+    },
+    {
+      "id": 104392,
+      "name": "Gelnica",
+      "latitude": "48.85584000",
+      "longitude": "20.93713000"
+    },
+    {
+      "id": 104404,
+      "name": "Kavečany",
+      "latitude": "48.77592000",
+      "longitude": "21.20587000"
+    },
+    {
+      "id": 104409,
+      "name": "Košice",
+      "latitude": "48.71395000",
+      "longitude": "21.25808000"
+    },
+    {
+      "id": 104410,
+      "name": "Košice I",
+      "latitude": "48.72914000",
+      "longitude": "21.25004000"
+    },
+    {
+      "id": 104411,
+      "name": "Košice II",
+      "latitude": "48.69753000",
+      "longitude": "21.22273000"
+    },
+    {
+      "id": 104412,
+      "name": "Košice III",
+      "latitude": "48.73242000",
+      "longitude": "21.29047000"
+    },
+    {
+      "id": 104413,
+      "name": "Košice IV",
+      "latitude": "48.68691000",
+      "longitude": "21.26570000"
+    },
+    {
+      "id": 104416,
+      "name": "Krompachy",
+      "latitude": "48.91447000",
+      "longitude": "20.87514000"
+    },
+    {
+      "id": 104431,
+      "name": "Medzev",
+      "latitude": "48.70041000",
+      "longitude": "20.89367000"
+    },
+    {
+      "id": 104433,
+      "name": "Michalovce",
+      "latitude": "48.75434000",
+      "longitude": "21.91950000"
+    },
+    {
+      "id": 104435,
+      "name": "Moldava nad Bodvou",
+      "latitude": "48.61428000",
+      "longitude": "20.99957000"
+    },
+    {
+      "id": 104462,
+      "name": "Okres Gelnica",
+      "latitude": "48.85207000",
+      "longitude": "20.93385000"
+    },
+    {
+      "id": 104468,
+      "name": "Okres Kosice-okolie",
+      "latitude": "48.77897000",
+      "longitude": "21.41373000"
+    },
+    {
+      "id": 104478,
+      "name": "Okres Michalovce",
+      "latitude": "48.75000000",
+      "longitude": "21.93333000"
+    },
+    {
+      "id": 104494,
+      "name": "Okres Rožňava",
+      "latitude": "48.66667000",
+      "longitude": "20.53333000"
+    },
+    {
+      "id": 104501,
+      "name": "Okres Sobrance",
+      "latitude": "48.74247000",
+      "longitude": "22.18197000"
+    },
+    {
+      "id": 104502,
+      "name": "Okres Spišská Nová Ves",
+      "latitude": "48.95000000",
+      "longitude": "20.56667000"
+    },
+    {
+      "id": 104507,
+      "name": "Okres Trebišov",
+      "latitude": "48.63333000",
+      "longitude": "21.71667000"
+    },
+    {
+      "id": 104537,
+      "name": "Rožňava",
+      "latitude": "48.66009000",
+      "longitude": "20.53758000"
+    },
+    {
+      "id": 104542,
+      "name": "Sečovce",
+      "latitude": "48.70074000",
+      "longitude": "21.66104000"
+    },
+    {
+      "id": 104547,
+      "name": "Sobrance",
+      "latitude": "48.74455000",
+      "longitude": "22.18136000"
+    },
+    {
+      "id": 104549,
+      "name": "Spišská Nová Ves",
+      "latitude": "48.94464000",
+      "longitude": "20.56153000"
+    },
+    {
+      "id": 104554,
+      "name": "Strážske",
+      "latitude": "48.87350000",
+      "longitude": "21.83668000"
+    },
+    {
+      "id": 104565,
+      "name": "Trebišov",
+      "latitude": "48.62858000",
+      "longitude": "21.71954000"
+    },
+    {
+      "id": 104575,
+      "name": "Vinné",
+      "latitude": "48.80965000",
+      "longitude": "21.96757000"
+    },
+    {
+      "id": 104599,
+      "name": "Žehra",
+      "latitude": "48.97960000",
+      "longitude": "20.79170000"
+    }
+  ],
+  "country": {
+    "id": 200,
+    "name": "Slovakia",
+    "iso3": "SVK",
+    "iso2": "SK",
+    "numeric_code": "703",
+    "phone_code": "421",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sk",
+    "native": "Slovensko",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bratislava",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로바키아",
+      "pt-BR": "Eslováquia",
+      "pt": "Eslováquia",
+      "nl": "Slowakije",
+      "hr": "Slovačka",
+      "fa": "اسلواکی",
+      "de": "Slowakei",
+      "es": "República Eslovaca",
+      "fr": "Slovaquie",
+      "ja": "スロバキア",
+      "it": "Slovacchia",
+      "cn": "斯洛伐克",
+      "tr": "Slovakya"
+    },
+    "latitude": "48.66666666",
+    "longitude": "19.50000000",
+    "emoji": "🇸🇰",
+    "emojiU": "U+1F1F8 U+1F1F0"
+  }
+}

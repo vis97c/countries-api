@@ -1,0 +1,126 @@
+{
+  "id": 2199,
+  "name": "Tokat",
+  "state_code": "60",
+  "latitude": "40.39027130",
+  "longitude": "36.62518630",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107131,
+      "name": "Almus",
+      "latitude": "40.37583000",
+      "longitude": "36.90444000"
+    },
+    {
+      "id": 107193,
+      "name": "Artova",
+      "latitude": "40.11578000",
+      "longitude": "36.30010000"
+    },
+    {
+      "id": 107322,
+      "name": "Başçiftlik",
+      "latitude": "40.54694000",
+      "longitude": "37.16917000"
+    },
+    {
+      "id": 107582,
+      "name": "Erbaa",
+      "latitude": "40.71390000",
+      "longitude": "36.59364000"
+    },
+    {
+      "id": 108580,
+      "name": "Merkez",
+      "latitude": "40.31389000",
+      "longitude": "36.55444000"
+    },
+    {
+      "id": 108248,
+      "name": "Niksar",
+      "latitude": "40.60509000",
+      "longitude": "36.97174000"
+    },
+    {
+      "id": 108322,
+      "name": "Pazar",
+      "latitude": "40.27652000",
+      "longitude": "36.28347000"
+    },
+    {
+      "id": 108370,
+      "name": "Reşadiye",
+      "latitude": "40.43284000",
+      "longitude": "37.37652000"
+    },
+    {
+      "id": 108502,
+      "name": "Sulusaray",
+      "latitude": "39.99389000",
+      "longitude": "36.08404000"
+    },
+    {
+      "id": 108602,
+      "name": "Turhal",
+      "latitude": "40.38750000",
+      "longitude": "36.08111000"
+    },
+    {
+      "id": 108729,
+      "name": "Yeşilyurt",
+      "latitude": "39.99916000",
+      "longitude": "36.23479000"
+    },
+    {
+      "id": 108753,
+      "name": "Zile",
+      "latitude": "40.30306000",
+      "longitude": "35.88639000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

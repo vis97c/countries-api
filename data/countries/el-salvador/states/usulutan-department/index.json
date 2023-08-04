@@ -1,0 +1,120 @@
+{
+  "id": 4129,
+  "name": "Usulután Department",
+  "state_code": "US",
+  "latitude": "13.44706340",
+  "longitude": "-88.55653100",
+  "type": null,
+  "cities": [
+    {
+      "id": 104850,
+      "name": "Berlín",
+      "latitude": "13.50000000",
+      "longitude": "-88.53333000"
+    },
+    {
+      "id": 104862,
+      "name": "Concepción Batres",
+      "latitude": "13.35000000",
+      "longitude": "-88.36667000"
+    },
+    {
+      "id": 104878,
+      "name": "Jiquilisco",
+      "latitude": "13.31667000",
+      "longitude": "-88.58333000"
+    },
+    {
+      "id": 104881,
+      "name": "Jucuapa",
+      "latitude": "13.51667000",
+      "longitude": "-88.38333000"
+    },
+    {
+      "id": 104882,
+      "name": "Jucuarán",
+      "latitude": "13.25389000",
+      "longitude": "-88.24778000"
+    },
+    {
+      "id": 104896,
+      "name": "Ozatlán",
+      "latitude": "13.38333000",
+      "longitude": "-88.50000000"
+    },
+    {
+      "id": 104899,
+      "name": "Puerto El Triunfo",
+      "latitude": "13.28333000",
+      "longitude": "-88.55000000"
+    },
+    {
+      "id": 104902,
+      "name": "San Agustín",
+      "latitude": "13.43333000",
+      "longitude": "-88.60000000"
+    },
+    {
+      "id": 104918,
+      "name": "Santa Elena",
+      "latitude": "13.38333000",
+      "longitude": "-88.41667000"
+    },
+    {
+      "id": 104922,
+      "name": "Santiago de María",
+      "latitude": "13.48333000",
+      "longitude": "-88.46667000"
+    },
+    {
+      "id": 104936,
+      "name": "Usulután",
+      "latitude": "13.35000000",
+      "longitude": "-88.45000000"
+    }
+  ],
+  "country": {
+    "id": 66,
+    "name": "El Salvador",
+    "iso3": "SLV",
+    "iso2": "SV",
+    "numeric_code": "222",
+    "phone_code": "503",
+    "capital": "San Salvador",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".sv",
+    "native": "El Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/El_Salvador",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "엘살바도르",
+      "pt-BR": "El Salvador",
+      "pt": "El Salvador",
+      "nl": "El Salvador",
+      "hr": "Salvador",
+      "fa": "السالوادور",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "fr": "Salvador",
+      "ja": "エルサルバドル",
+      "it": "El Salvador",
+      "cn": "萨尔瓦多",
+      "tr": "El Salvador"
+    },
+    "latitude": "13.83333333",
+    "longitude": "-88.91666666",
+    "emoji": "🇸🇻",
+    "emojiU": "U+1F1F8 U+1F1FB"
+  }
+}

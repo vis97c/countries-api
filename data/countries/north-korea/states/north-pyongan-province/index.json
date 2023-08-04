@@ -1,0 +1,126 @@
+{
+  "id": 4002,
+  "name": "North Pyongan Province",
+  "state_code": "03",
+  "latitude": "39.92556180",
+  "longitude": "125.39280250",
+  "type": null,
+  "cities": [
+    {
+      "id": 65191,
+      "name": "Chŏngju",
+      "latitude": "39.69333000",
+      "longitude": "125.21028000"
+    },
+    {
+      "id": 65192,
+      "name": "Chŏngju-gun",
+      "latitude": "39.70944000",
+      "longitude": "125.25278000"
+    },
+    {
+      "id": 65216,
+      "name": "Kujang-ŭp",
+      "latitude": "39.86722000",
+      "longitude": "126.03028000"
+    },
+    {
+      "id": 65217,
+      "name": "Kusŏng",
+      "latitude": "39.98111000",
+      "longitude": "125.24472000"
+    },
+    {
+      "id": 65218,
+      "name": "Kwaksan",
+      "latitude": "39.68750000",
+      "longitude": "125.08278000"
+    },
+    {
+      "id": 65228,
+      "name": "Panghyŏn-dong",
+      "latitude": "39.88722000",
+      "longitude": "125.24139000"
+    },
+    {
+      "id": 65229,
+      "name": "Pukchil-lodongjagu",
+      "latitude": "40.20194000",
+      "longitude": "125.74833000"
+    },
+    {
+      "id": 65234,
+      "name": "Sakchu-ŭp",
+      "latitude": "40.38944000",
+      "longitude": "125.04667000"
+    },
+    {
+      "id": 65242,
+      "name": "Sinŭiju",
+      "latitude": "40.10056000",
+      "longitude": "124.39806000"
+    },
+    {
+      "id": 65259,
+      "name": "Ŭiju",
+      "latitude": "40.19944000",
+      "longitude": "124.53167000"
+    },
+    {
+      "id": 65255,
+      "name": "Yŏmju-ŭp",
+      "latitude": "39.89333000",
+      "longitude": "124.59806000"
+    },
+    {
+      "id": 65257,
+      "name": "Yŏngbyŏn",
+      "latitude": "39.81333000",
+      "longitude": "125.80417000"
+    }
+  ],
+  "country": {
+    "id": 115,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phone_code": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조선민주주의인민공화국",
+      "pt-BR": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "cn": "朝鲜",
+      "tr": "Kuzey Kore"
+    },
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  }
+}

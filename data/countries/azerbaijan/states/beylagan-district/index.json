@@ -1,0 +1,84 @@
+{
+  "id": 554,
+  "name": "Beylagan District",
+  "state_code": "BEY",
+  "latitude": "39.77230730",
+  "longitude": "47.61541660",
+  "type": null,
+  "cities": [
+    {
+      "id": 8059,
+      "name": "Beylagan",
+      "latitude": "39.77556000",
+      "longitude": "47.61861000"
+    },
+    {
+      "id": 8064,
+      "name": "Birinci Aşıqlı",
+      "latitude": "39.81917000",
+      "longitude": "47.67944000"
+    },
+    {
+      "id": 8078,
+      "name": "Dünyamalılar",
+      "latitude": "39.77278000",
+      "longitude": "47.75889000"
+    },
+    {
+      "id": 8128,
+      "name": "Orjonikidze",
+      "latitude": "39.63571000",
+      "longitude": "47.71199000"
+    },
+    {
+      "id": 8200,
+      "name": "Yuxarı Aran",
+      "latitude": "39.73361000",
+      "longitude": "47.65500000"
+    }
+  ],
+  "country": {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "numeric_code": "031",
+    "phone_code": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "native": "Azərbaycan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아제르바이잔",
+      "pt-BR": "Azerbaijão",
+      "pt": "Azerbaijão",
+      "nl": "Azerbeidzjan",
+      "hr": "Azerbajdžan",
+      "fa": "آذربایجان",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "ja": "アゼルバイジャン",
+      "it": "Azerbaijan",
+      "cn": "阿塞拜疆",
+      "tr": "Azerbaycan"
+    },
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  }
+}

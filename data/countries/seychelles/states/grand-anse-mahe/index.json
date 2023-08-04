@@ -1,0 +1,53 @@
+{
+  "id": 500,
+  "name": "Grand'Anse Mahé",
+  "state_code": "13",
+  "latitude": "-4.67739200",
+  "longitude": "55.46377700",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 197,
+    "name": "Seychelles",
+    "iso3": "SYC",
+    "iso2": "SC",
+    "numeric_code": "690",
+    "phone_code": "248",
+    "capital": "Victoria",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "native": "Seychelles",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "translations": {
+      "kr": "세이셸",
+      "pt-BR": "Seicheles",
+      "pt": "Seicheles",
+      "nl": "Seychellen",
+      "hr": "Sejšeli",
+      "fa": "سیشل",
+      "de": "Seychellen",
+      "es": "Seychelles",
+      "fr": "Seychelles",
+      "ja": "セーシェル",
+      "it": "Seychelles",
+      "cn": "塞舌尔",
+      "tr": "Seyşeller"
+    },
+    "latitude": "-4.58333333",
+    "longitude": "55.66666666",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  }
+}

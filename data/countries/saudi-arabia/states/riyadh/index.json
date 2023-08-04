@@ -1,0 +1,204 @@
+{
+  "id": 2849,
+  "name": "Riyadh",
+  "state_code": "01",
+  "latitude": "22.75543850",
+  "longitude": "46.20915470",
+  "type": "region",
+  "cities": [
+    {
+      "id": 102808,
+      "name": "Ad Dawādimī",
+      "latitude": "24.50772000",
+      "longitude": "44.39237000"
+    },
+    {
+      "id": 102809,
+      "name": "Ad Dilam",
+      "latitude": "23.99104000",
+      "longitude": "47.16181000"
+    },
+    {
+      "id": 102811,
+      "name": "Afif",
+      "latitude": "23.90650000",
+      "longitude": "42.91724000"
+    },
+    {
+      "id": 102812,
+      "name": "Ain AlBaraha",
+      "latitude": "24.75806000",
+      "longitude": "43.77389000"
+    },
+    {
+      "id": 102813,
+      "name": "Al Arţāwīyah",
+      "latitude": "26.50387000",
+      "longitude": "45.34813000"
+    },
+    {
+      "id": 149017,
+      "name": "Al Bir",
+      "latitude": "25.30000000",
+      "longitude": "45.96670000"
+    },
+    {
+      "id": 149018,
+      "name": "Al Hair",
+      "latitude": "24.39072000",
+      "longitude": "46.98677000"
+    },
+    {
+      "id": 149019,
+      "name": "Al Jurayfah",
+      "latitude": "25.52932000",
+      "longitude": "45.25644000"
+    },
+    {
+      "id": 102826,
+      "name": "Al Kharj",
+      "latitude": "24.15541000",
+      "longitude": "47.33457000"
+    },
+    {
+      "id": 149020,
+      "name": "Ar Rayn",
+      "latitude": "23.54995000",
+      "longitude": "45.50463000"
+    },
+    {
+      "id": 149021,
+      "name": "As Salamiyah",
+      "latitude": "24.20154000",
+      "longitude": "47.28872000"
+    },
+    {
+      "id": 102844,
+      "name": "As Sulayyil",
+      "latitude": "20.46067000",
+      "longitude": "45.57792000"
+    },
+    {
+      "id": 102847,
+      "name": "Az Zulfī",
+      "latitude": "26.29945000",
+      "longitude": "44.81542000"
+    },
+    {
+      "id": 149022,
+      "name": "Dawadmi",
+      "latitude": "24.50772000",
+      "longitude": "44.39237000"
+    },
+    {
+      "id": 149023,
+      "name": "Diriyah",
+      "latitude": "24.75187000",
+      "longitude": "46.53874000"
+    },
+    {
+      "id": 149024,
+      "name": "Harmah",
+      "latitude": "25.91666667",
+      "longitude": "45.33333333"
+    },
+    {
+      "id": 149025,
+      "name": "Jalajil",
+      "latitude": "25.66666667",
+      "longitude": "45.45000000"
+    },
+    {
+      "id": 149026,
+      "name": "Layla",
+      "latitude": "22.28330000",
+      "longitude": "46.73330000"
+    },
+    {
+      "id": 149027,
+      "name": "Manfuha",
+      "latitude": "24.59611111",
+      "longitude": "46.72722222"
+    },
+    {
+      "id": 102863,
+      "name": "Marāt",
+      "latitude": "25.07064000",
+      "longitude": "45.45775000"
+    },
+    {
+      "id": 149028,
+      "name": "Najan",
+      "latitude": "24.07746000",
+      "longitude": "47.16590000"
+    },
+    {
+      "id": 102874,
+      "name": "Riyadh",
+      "latitude": "24.68773000",
+      "longitude": "46.72185000"
+    },
+    {
+      "id": 102880,
+      "name": "Sājir",
+      "latitude": "25.18251000",
+      "longitude": "44.59964000"
+    },
+    {
+      "id": 102893,
+      "name": "shokhaibٍ",
+      "latitude": "24.49023000",
+      "longitude": "46.26871000"
+    },
+    {
+      "id": 102885,
+      "name": "Tumayr",
+      "latitude": "25.70347000",
+      "longitude": "45.86835000"
+    }
+  ],
+  "country": {
+    "id": 194,
+    "name": "Saudi Arabia",
+    "iso3": "SAU",
+    "iso2": "SA",
+    "numeric_code": "682",
+    "phone_code": "966",
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "currency_name": "Saudi riyal",
+    "currency_symbol": "﷼",
+    "tld": ".sa",
+    "native": "المملكة العربية السعودية",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Riyadh",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "사우디아라비아",
+      "pt-BR": "Arábia Saudita",
+      "pt": "Arábia Saudita",
+      "nl": "Saoedi-Arabië",
+      "hr": "Saudijska Arabija",
+      "fa": "عربستان سعودی",
+      "de": "Saudi-Arabien",
+      "es": "Arabia Saudí",
+      "fr": "Arabie Saoudite",
+      "ja": "サウジアラビア",
+      "it": "Arabia Saudita",
+      "cn": "沙特阿拉伯",
+      "tr": "Suudi Arabistan"
+    },
+    "latitude": "25.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇸🇦",
+    "emojiU": "U+1F1F8 U+1F1E6"
+  }
+}

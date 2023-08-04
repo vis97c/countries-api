@@ -1,0 +1,96 @@
+{
+  "id": 964,
+  "name": "Ma'an",
+  "state_code": "MN",
+  "latitude": "30.19267890",
+  "longitude": "35.72493190",
+  "type": null,
+  "cities": [
+    {
+      "id": 63131,
+      "name": "Al Jafr",
+      "latitude": "30.31840000",
+      "longitude": "36.17775000"
+    },
+    {
+      "id": 63139,
+      "name": "Al Quwayrah",
+      "latitude": "29.80045000",
+      "longitude": "35.31160000"
+    },
+    {
+      "id": 63147,
+      "name": "Ash Shawbak",
+      "latitude": "30.52134000",
+      "longitude": "35.57135000"
+    },
+    {
+      "id": 63150,
+      "name": "Aţ Ţayyibah",
+      "latitude": "30.25125000",
+      "longitude": "35.46570000"
+    },
+    {
+      "id": 63170,
+      "name": "Ma'an",
+      "latitude": "30.19624000",
+      "longitude": "35.73405000"
+    },
+    {
+      "id": 63174,
+      "name": "Petra",
+      "latitude": "30.32096000",
+      "longitude": "35.47895000"
+    },
+    {
+      "id": 63177,
+      "name": "Qīr Moāv",
+      "latitude": "31.18248000",
+      "longitude": "35.69999000"
+    }
+  ],
+  "country": {
+    "id": 111,
+    "name": "Jordan",
+    "iso3": "JOR",
+    "iso2": "JO",
+    "numeric_code": "400",
+    "phone_code": "962",
+    "capital": "Amman",
+    "currency": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "ا.د",
+    "tld": ".jo",
+    "native": "الأردن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Amman",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "요르단",
+      "pt-BR": "Jordânia",
+      "pt": "Jordânia",
+      "nl": "Jordanië",
+      "hr": "Jordan",
+      "fa": "اردن",
+      "de": "Jordanien",
+      "es": "Jordania",
+      "fr": "Jordanie",
+      "ja": "ヨルダン",
+      "it": "Giordania",
+      "cn": "约旦",
+      "tr": "Ürdün"
+    },
+    "latitude": "31.00000000",
+    "longitude": "36.00000000",
+    "emoji": "🇯🇴",
+    "emojiU": "U+1F1EF U+1F1F4"
+  }
+}

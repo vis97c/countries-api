@@ -1,0 +1,228 @@
+{
+  "id": 4699,
+  "name": "Blagoevgrad Province",
+  "state_code": "01",
+  "latitude": "42.02086140",
+  "longitude": "23.09433560",
+  "type": null,
+  "cities": [
+    {
+      "id": 9265,
+      "name": "Bansko",
+      "latitude": "41.83830000",
+      "longitude": "23.48851000"
+    },
+    {
+      "id": 9270,
+      "name": "Belitsa",
+      "latitude": "41.95694000",
+      "longitude": "23.57250000"
+    },
+    {
+      "id": 9275,
+      "name": "Blagoevgrad",
+      "latitude": "42.01667000",
+      "longitude": "23.10000000"
+    },
+    {
+      "id": 9329,
+      "name": "Garmen",
+      "latitude": "41.60000000",
+      "longitude": "23.81667000"
+    },
+    {
+      "id": 9335,
+      "name": "Gotse Delchev",
+      "latitude": "41.56667000",
+      "longitude": "23.73333000"
+    },
+    {
+      "id": 9341,
+      "name": "Hadzhidimovo",
+      "latitude": "41.52222000",
+      "longitude": "23.86861000"
+    },
+    {
+      "id": 9368,
+      "name": "Kolarovo",
+      "latitude": "41.36385000",
+      "longitude": "23.10669000"
+    },
+    {
+      "id": 9374,
+      "name": "Kresna",
+      "latitude": "41.73333000",
+      "longitude": "23.15000000"
+    },
+    {
+      "id": 9422,
+      "name": "Obshtina Bansko",
+      "latitude": "41.80000000",
+      "longitude": "23.60000000"
+    },
+    {
+      "id": 9425,
+      "name": "Obshtina Belitsa",
+      "latitude": "42.01667000",
+      "longitude": "23.58333000"
+    },
+    {
+      "id": 9429,
+      "name": "Obshtina Blagoevgrad",
+      "latitude": "42.01667000",
+      "longitude": "23.16667000"
+    },
+    {
+      "id": 9476,
+      "name": "Obshtina Garmen",
+      "latitude": "41.70000000",
+      "longitude": "23.85000000"
+    },
+    {
+      "id": 9482,
+      "name": "Obshtina Gotse Delchev",
+      "latitude": "41.63333000",
+      "longitude": "23.68333000"
+    },
+    {
+      "id": 9511,
+      "name": "Obshtina Kresna",
+      "latitude": "41.76667000",
+      "longitude": "23.23333000"
+    },
+    {
+      "id": 9555,
+      "name": "Obshtina Petrich",
+      "latitude": "41.45000000",
+      "longitude": "23.16667000"
+    },
+    {
+      "id": 9571,
+      "name": "Obshtina Razlog",
+      "latitude": "41.95000000",
+      "longitude": "23.46667000"
+    },
+    {
+      "id": 9582,
+      "name": "Obshtina Sandanski",
+      "latitude": "41.56667000",
+      "longitude": "23.45000000"
+    },
+    {
+      "id": 9584,
+      "name": "Obshtina Satovcha",
+      "latitude": "41.59848000",
+      "longitude": "24.00781000"
+    },
+    {
+      "id": 9589,
+      "name": "Obshtina Simitli",
+      "latitude": "41.88333000",
+      "longitude": "23.16667000"
+    },
+    {
+      "id": 9603,
+      "name": "Obshtina Strumyani",
+      "latitude": "41.63333000",
+      "longitude": "23.20000000"
+    },
+    {
+      "id": 9633,
+      "name": "Obshtina Yakoruda",
+      "latitude": "42.08333000",
+      "longitude": "23.70000000"
+    },
+    {
+      "id": 9653,
+      "name": "Petrich",
+      "latitude": "41.39846000",
+      "longitude": "23.20702000"
+    },
+    {
+      "id": 9670,
+      "name": "Razlog",
+      "latitude": "41.88630000",
+      "longitude": "23.46714000"
+    },
+    {
+      "id": 9681,
+      "name": "Sandanski",
+      "latitude": "41.56667000",
+      "longitude": "23.28333000"
+    },
+    {
+      "id": 9686,
+      "name": "Satovcha",
+      "latitude": "41.61667000",
+      "longitude": "23.98333000"
+    },
+    {
+      "id": 9694,
+      "name": "Simitli",
+      "latitude": "41.88333000",
+      "longitude": "23.11667000"
+    },
+    {
+      "id": 9705,
+      "name": "Stara Kresna",
+      "latitude": "41.80000000",
+      "longitude": "23.18333000"
+    },
+    {
+      "id": 9711,
+      "name": "Strumyani",
+      "latitude": "41.63333000",
+      "longitude": "23.20000000"
+    },
+    {
+      "id": 9745,
+      "name": "Yakoruda",
+      "latitude": "42.02528000",
+      "longitude": "23.68417000"
+    }
+  ],
+  "country": {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "numeric_code": "100",
+    "phone_code": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "native": "България",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "불가리아",
+      "pt-BR": "Bulgária",
+      "pt": "Bulgária",
+      "nl": "Bulgarije",
+      "hr": "Bugarska",
+      "fa": "بلغارستان",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア",
+      "it": "Bulgaria",
+      "cn": "保加利亚",
+      "tr": "Bulgaristan"
+    },
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  }
+}

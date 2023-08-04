@@ -1,0 +1,66 @@
+{
+  "id": 3392,
+  "name": "Umm al-Quwain",
+  "state_code": "UQ",
+  "latitude": "25.54263240",
+  "longitude": "55.54753480",
+  "type": null,
+  "cities": [
+    {
+      "id": 47,
+      "name": "Umm AL Quwain",
+      "latitude": "25.49326000",
+      "longitude": "55.73520000"
+    },
+    {
+      "id": 48,
+      "name": "Umm Al Quwain City",
+      "latitude": "25.56473000",
+      "longitude": "55.55517000"
+    }
+  ],
+  "country": {
+    "id": 231,
+    "name": "United Arab Emirates",
+    "iso3": "ARE",
+    "iso2": "AE",
+    "numeric_code": "784",
+    "phone_code": "971",
+    "capital": "Abu Dhabi",
+    "currency": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "currency_symbol": "إ.د",
+    "tld": ".ae",
+    "native": "دولة الإمارات العربية المتحدة",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dubai",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "아랍에미리트",
+      "pt-BR": "Emirados árabes Unidos",
+      "pt": "Emirados árabes Unidos",
+      "nl": "Verenigde Arabische Emiraten",
+      "hr": "Ujedinjeni Arapski Emirati",
+      "fa": "امارات متحده عربی",
+      "de": "Vereinigte Arabische Emirate",
+      "es": "Emiratos Árabes Unidos",
+      "fr": "Émirats arabes unis",
+      "ja": "アラブ首長国連邦",
+      "it": "Emirati Arabi Uniti",
+      "cn": "阿拉伯联合酋长国",
+      "tr": "Birleşik Arap Emirlikleri"
+    },
+    "latitude": "24.00000000",
+    "longitude": "54.00000000",
+    "emoji": "🇦🇪",
+    "emojiU": "U+1F1E6 U+1F1EA"
+  }
+}

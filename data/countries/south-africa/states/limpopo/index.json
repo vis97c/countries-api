@@ -1,0 +1,192 @@
+{
+  "id": 933,
+  "name": "Limpopo",
+  "state_code": "LP",
+  "latitude": "-23.40129460",
+  "longitude": "29.41793240",
+  "type": null,
+  "cities": [
+    {
+      "id": 131040,
+      "name": "Bochum",
+      "latitude": "-23.28609000",
+      "longitude": "29.13964000"
+    },
+    {
+      "id": 131061,
+      "name": "Capricorn District Municipality",
+      "latitude": "-23.48163000",
+      "longitude": "29.18350000"
+    },
+    {
+      "id": 131090,
+      "name": "Duiwelskloof",
+      "latitude": "-23.69339000",
+      "longitude": "30.14002000"
+    },
+    {
+      "id": 131113,
+      "name": "Ga-Kgapane",
+      "latitude": "-23.64378000",
+      "longitude": "30.22324000"
+    },
+    {
+      "id": 131117,
+      "name": "Giyani",
+      "latitude": "-23.30246000",
+      "longitude": "30.71868000"
+    },
+    {
+      "id": 131160,
+      "name": "Lebowakgomo",
+      "latitude": "-24.20000000",
+      "longitude": "29.50000000"
+    },
+    {
+      "id": 131164,
+      "name": "Louis Trichardt",
+      "latitude": "-23.04385000",
+      "longitude": "29.90319000"
+    },
+    {
+      "id": 131171,
+      "name": "Mankoeng",
+      "latitude": "-23.90000000",
+      "longitude": "29.81667000"
+    },
+    {
+      "id": 131180,
+      "name": "Modimolle",
+      "latitude": "-24.70000000",
+      "longitude": "28.40000000"
+    },
+    {
+      "id": 131181,
+      "name": "Mokopane",
+      "latitude": "-24.19436000",
+      "longitude": "29.00974000"
+    },
+    {
+      "id": 131187,
+      "name": "Mopani District Municipality",
+      "latitude": "-23.76661000",
+      "longitude": "30.83600000"
+    },
+    {
+      "id": 131194,
+      "name": "Musina",
+      "latitude": "-22.34881000",
+      "longitude": "30.04074000"
+    },
+    {
+      "id": 131204,
+      "name": "Nkowakowa",
+      "latitude": "-23.88782000",
+      "longitude": "30.28708000"
+    },
+    {
+      "id": 131215,
+      "name": "Phalaborwa",
+      "latitude": "-23.94299000",
+      "longitude": "31.14107000"
+    },
+    {
+      "id": 131223,
+      "name": "Polokwane",
+      "latitude": "-23.90449000",
+      "longitude": "29.46885000"
+    },
+    {
+      "id": 131254,
+      "name": "Sekhukhune District Municipality",
+      "latitude": "-24.82806000",
+      "longitude": "29.83803000"
+    },
+    {
+      "id": 131272,
+      "name": "Thabazimbi",
+      "latitude": "-24.59165000",
+      "longitude": "27.41155000"
+    },
+    {
+      "id": 131275,
+      "name": "Thohoyandou",
+      "latitude": "-22.94564000",
+      "longitude": "30.48497000"
+    },
+    {
+      "id": 131276,
+      "name": "Thulamahashi",
+      "latitude": "-24.72459000",
+      "longitude": "31.19939000"
+    },
+    {
+      "id": 131277,
+      "name": "Tzaneen",
+      "latitude": "-23.83322000",
+      "longitude": "30.16351000"
+    },
+    {
+      "id": 131287,
+      "name": "Vhembe District Municipality",
+      "latitude": "-22.75467000",
+      "longitude": "30.19360000"
+    },
+    {
+      "id": 131298,
+      "name": "Warmbaths",
+      "latitude": "-24.88333000",
+      "longitude": "28.28333000"
+    },
+    {
+      "id": 131300,
+      "name": "Waterberg District Municipality",
+      "latitude": "-24.20514000",
+      "longitude": "27.97870000"
+    }
+  ],
+  "country": {
+    "id": 204,
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "numeric_code": "710",
+    "phone_code": "27",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "tld": ".za",
+    "native": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "남아프리카 공화국",
+      "pt-BR": "República Sul-Africana",
+      "pt": "República Sul-Africana",
+      "nl": "Zuid-Afrika",
+      "hr": "Južnoafrička Republika",
+      "fa": "آفریقای جنوبی",
+      "de": "Republik Südafrika",
+      "es": "República de Sudáfrica",
+      "fr": "Afrique du Sud",
+      "ja": "南アフリカ",
+      "it": "Sud Africa",
+      "cn": "南非",
+      "tr": "Güney Afrika Cumhuriyeti"
+    },
+    "latitude": "-29.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇿🇦",
+    "emojiU": "U+1F1FF U+1F1E6"
+  }
+}

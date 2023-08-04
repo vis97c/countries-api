@@ -1,0 +1,2020 @@
+{
+  "id": 1430,
+  "name": "Mississippi",
+  "state_code": "MS",
+  "latitude": "32.35466790",
+  "longitude": "-89.39852830",
+  "type": "state",
+  "cities": [
+    {
+      "id": 110974,
+      "name": "Aberdeen",
+      "latitude": "33.82511000",
+      "longitude": "-88.54366000"
+    },
+    {
+      "id": 110996,
+      "name": "Ackerman",
+      "latitude": "33.31012000",
+      "longitude": "-89.17284000"
+    },
+    {
+      "id": 111018,
+      "name": "Adams County",
+      "latitude": "31.48294000",
+      "longitude": "-91.35350000"
+    },
+    {
+      "id": 111134,
+      "name": "Alcorn County",
+      "latitude": "34.88077000",
+      "longitude": "-88.58026000"
+    },
+    {
+      "id": 111289,
+      "name": "Amite County",
+      "latitude": "31.17440000",
+      "longitude": "-90.80443000"
+    },
+    {
+      "id": 111294,
+      "name": "Amory",
+      "latitude": "33.98428000",
+      "longitude": "-88.48810000"
+    },
+    {
+      "id": 111489,
+      "name": "Arnold Line",
+      "latitude": "31.33517000",
+      "longitude": "-89.37340000"
+    },
+    {
+      "id": 111530,
+      "name": "Ashland",
+      "latitude": "34.83287000",
+      "longitude": "-89.17590000"
+    },
+    {
+      "id": 111607,
+      "name": "Attala County",
+      "latitude": "33.08629000",
+      "longitude": "-89.58155000"
+    },
+    {
+      "id": 111766,
+      "name": "Baldwyn",
+      "latitude": "34.50954000",
+      "longitude": "-88.63533000"
+    },
+    {
+      "id": 111894,
+      "name": "Batesville",
+      "latitude": "34.31150000",
+      "longitude": "-89.94426000"
+    },
+    {
+      "id": 111933,
+      "name": "Bay Saint Louis",
+      "latitude": "30.30881000",
+      "longitude": "-89.33005000"
+    },
+    {
+      "id": 111935,
+      "name": "Bay Springs",
+      "latitude": "31.97904000",
+      "longitude": "-89.28728000"
+    },
+    {
+      "id": 112041,
+      "name": "Beechwood",
+      "latitude": "32.32765000",
+      "longitude": "-90.82677000"
+    },
+    {
+      "id": 112135,
+      "name": "Belmont",
+      "latitude": "34.50982000",
+      "longitude": "-88.20921000"
+    },
+    {
+      "id": 112158,
+      "name": "Belzoni",
+      "latitude": "33.18429000",
+      "longitude": "-90.48926000"
+    },
+    {
+      "id": 112201,
+      "name": "Benton County",
+      "latitude": "34.81729000",
+      "longitude": "-89.18848000"
+    },
+    {
+      "id": 112347,
+      "name": "Biloxi",
+      "latitude": "30.39603000",
+      "longitude": "-88.88531000"
+    },
+    {
+      "id": 112521,
+      "name": "Bolivar County",
+      "latitude": "33.79554000",
+      "longitude": "-90.88040000"
+    },
+    {
+      "id": 112564,
+      "name": "Booneville",
+      "latitude": "34.65815000",
+      "longitude": "-88.56672000"
+    },
+    {
+      "id": 112689,
+      "name": "Brandon",
+      "latitude": "32.27320000",
+      "longitude": "-89.98592000"
+    },
+    {
+      "id": 112857,
+      "name": "Brookhaven",
+      "latitude": "31.57906000",
+      "longitude": "-90.44065000"
+    },
+    {
+      "id": 112892,
+      "name": "Brooksville",
+      "latitude": "33.23457000",
+      "longitude": "-88.58227000"
+    },
+    {
+      "id": 112942,
+      "name": "Bruce",
+      "latitude": "33.99206000",
+      "longitude": "-89.34896000"
+    },
+    {
+      "id": 112995,
+      "name": "Bude",
+      "latitude": "31.46295000",
+      "longitude": "-90.85010000"
+    },
+    {
+      "id": 113135,
+      "name": "Byhalia",
+      "latitude": "34.87232000",
+      "longitude": "-89.69064000"
+    },
+    {
+      "id": 113139,
+      "name": "Byram",
+      "latitude": "32.17932000",
+      "longitude": "-90.24537000"
+    },
+    {
+      "id": 113188,
+      "name": "Caledonia",
+      "latitude": "33.68289000",
+      "longitude": "-88.32448000"
+    },
+    {
+      "id": 113199,
+      "name": "Calhoun City",
+      "latitude": "33.85539000",
+      "longitude": "-89.31146000"
+    },
+    {
+      "id": 113205,
+      "name": "Calhoun County",
+      "latitude": "33.93645000",
+      "longitude": "-89.33645000"
+    },
+    {
+      "id": 113340,
+      "name": "Canton",
+      "latitude": "32.61264000",
+      "longitude": "-90.03675000"
+    },
+    {
+      "id": 113445,
+      "name": "Carriere",
+      "latitude": "30.61686000",
+      "longitude": "-89.65256000"
+    },
+    {
+      "id": 113455,
+      "name": "Carroll County",
+      "latitude": "33.44853000",
+      "longitude": "-89.92020000"
+    },
+    {
+      "id": 113468,
+      "name": "Carrollton",
+      "latitude": "33.50818000",
+      "longitude": "-89.92036000"
+    },
+    {
+      "id": 113492,
+      "name": "Carthage",
+      "latitude": "32.73264000",
+      "longitude": "-89.53618000"
+    },
+    {
+      "id": 113694,
+      "name": "Centreville",
+      "latitude": "31.08962000",
+      "longitude": "-91.06844000"
+    },
+    {
+      "id": 113764,
+      "name": "Charleston",
+      "latitude": "34.00678000",
+      "longitude": "-90.05676000"
+    },
+    {
+      "id": 113939,
+      "name": "Chickasaw County",
+      "latitude": "33.92080000",
+      "longitude": "-88.94786000"
+    },
+    {
+      "id": 113987,
+      "name": "Choctaw County",
+      "latitude": "33.34731000",
+      "longitude": "-89.24838000"
+    },
+    {
+      "id": 114093,
+      "name": "Claiborne County",
+      "latitude": "31.97369000",
+      "longitude": "-90.91181000"
+    },
+    {
+      "id": 114136,
+      "name": "Clarke County",
+      "latitude": "32.04140000",
+      "longitude": "-88.68940000"
+    },
+    {
+      "id": 114145,
+      "name": "Clarksdale",
+      "latitude": "34.20011000",
+      "longitude": "-90.57093000"
+    },
+    {
+      "id": 114182,
+      "name": "Clay County",
+      "latitude": "33.65567000",
+      "longitude": "-88.78157000"
+    },
+    {
+      "id": 114228,
+      "name": "Cleary",
+      "latitude": "32.16543000",
+      "longitude": "-90.18064000"
+    },
+    {
+      "id": 114243,
+      "name": "Cleveland",
+      "latitude": "33.74400000",
+      "longitude": "-90.72482000"
+    },
+    {
+      "id": 114274,
+      "name": "Clinton",
+      "latitude": "32.34153000",
+      "longitude": "-90.32176000"
+    },
+    {
+      "id": 114325,
+      "name": "Coahoma County",
+      "latitude": "34.22917000",
+      "longitude": "-90.60269000"
+    },
+    {
+      "id": 114393,
+      "name": "Coldwater",
+      "latitude": "34.69177000",
+      "longitude": "-89.97731000"
+    },
+    {
+      "id": 114431,
+      "name": "Collins",
+      "latitude": "31.64544000",
+      "longitude": "-89.55535000"
+    },
+    {
+      "id": 114435,
+      "name": "Collinsville",
+      "latitude": "32.49792000",
+      "longitude": "-88.84588000"
+    },
+    {
+      "id": 114469,
+      "name": "Columbia",
+      "latitude": "31.25184000",
+      "longitude": "-89.83758000"
+    },
+    {
+      "id": 114494,
+      "name": "Columbus",
+      "latitude": "33.49567000",
+      "longitude": "-88.42726000"
+    },
+    {
+      "id": 114501,
+      "name": "Columbus Air Force Base",
+      "latitude": "33.63239000",
+      "longitude": "-88.45153000"
+    },
+    {
+      "id": 114527,
+      "name": "Como",
+      "latitude": "34.51066000",
+      "longitude": "-89.93981000"
+    },
+    {
+      "id": 114551,
+      "name": "Conehatta",
+      "latitude": "32.45125000",
+      "longitude": "-89.28534000"
+    },
+    {
+      "id": 114617,
+      "name": "Copiah County",
+      "latitude": "31.86924000",
+      "longitude": "-90.44880000"
+    },
+    {
+      "id": 114643,
+      "name": "Corinth",
+      "latitude": "34.93425000",
+      "longitude": "-88.52227000"
+    },
+    {
+      "id": 114743,
+      "name": "Covington County",
+      "latitude": "31.63322000",
+      "longitude": "-89.55263000"
+    },
+    {
+      "id": 114884,
+      "name": "Crystal Springs",
+      "latitude": "31.98738000",
+      "longitude": "-90.35704000"
+    },
+    {
+      "id": 114961,
+      "name": "D'Iberville",
+      "latitude": "30.42631000",
+      "longitude": "-88.89086000"
+    },
+    {
+      "id": 115106,
+      "name": "De Kalb",
+      "latitude": "32.76763000",
+      "longitude": "-88.65088000"
+    },
+    {
+      "id": 115111,
+      "name": "De Lisle",
+      "latitude": "30.37936000",
+      "longitude": "-89.26449000"
+    },
+    {
+      "id": 115119,
+      "name": "De Soto County",
+      "latitude": "34.87540000",
+      "longitude": "-89.99178000"
+    },
+    {
+      "id": 115153,
+      "name": "Decatur",
+      "latitude": "32.43903000",
+      "longitude": "-89.10839000"
+    },
+    {
+      "id": 115263,
+      "name": "Derma",
+      "latitude": "33.85567000",
+      "longitude": "-89.28452000"
+    },
+    {
+      "id": 115317,
+      "name": "Diamondhead",
+      "latitude": "30.39464000",
+      "longitude": "-89.36394000"
+    },
+    {
+      "id": 115473,
+      "name": "Drew",
+      "latitude": "33.80956000",
+      "longitude": "-90.52648000"
+    },
+    {
+      "id": 115504,
+      "name": "Duck Hill",
+      "latitude": "33.63318000",
+      "longitude": "-89.71119000"
+    },
+    {
+      "id": 115566,
+      "name": "Durant",
+      "latitude": "33.07513000",
+      "longitude": "-89.85453000"
+    },
+    {
+      "id": 115886,
+      "name": "Edwards",
+      "latitude": "32.33015000",
+      "longitude": "-90.60565000"
+    },
+    {
+      "id": 116035,
+      "name": "Ellisville",
+      "latitude": "31.60405000",
+      "longitude": "-89.19561000"
+    },
+    {
+      "id": 116182,
+      "name": "Escatawpa",
+      "latitude": "30.44048000",
+      "longitude": "-88.54363000"
+    },
+    {
+      "id": 116231,
+      "name": "Eupora",
+      "latitude": "33.54068000",
+      "longitude": "-89.26701000"
+    },
+    {
+      "id": 116414,
+      "name": "Farmington",
+      "latitude": "34.93009000",
+      "longitude": "-88.45227000"
+    },
+    {
+      "id": 116440,
+      "name": "Fayette",
+      "latitude": "31.71155000",
+      "longitude": "-91.06066000"
+    },
+    {
+      "id": 116571,
+      "name": "Flora",
+      "latitude": "32.54320000",
+      "longitude": "-90.30926000"
+    },
+    {
+      "id": 116579,
+      "name": "Florence",
+      "latitude": "32.15348000",
+      "longitude": "-90.13120000"
+    },
+    {
+      "id": 116604,
+      "name": "Flowood",
+      "latitude": "32.30959000",
+      "longitude": "-90.13898000"
+    },
+    {
+      "id": 116643,
+      "name": "Forest",
+      "latitude": "32.36459000",
+      "longitude": "-89.47423000"
+    },
+    {
+      "id": 116680,
+      "name": "Forrest County",
+      "latitude": "31.18887000",
+      "longitude": "-89.25786000"
+    },
+    {
+      "id": 116852,
+      "name": "Franklin County",
+      "latitude": "31.47715000",
+      "longitude": "-90.89785000"
+    },
+    {
+      "id": 116942,
+      "name": "Friars Point",
+      "latitude": "34.37088000",
+      "longitude": "-90.63834000"
+    },
+    {
+      "id": 116988,
+      "name": "Fulton",
+      "latitude": "34.27399000",
+      "longitude": "-88.40921000"
+    },
+    {
+      "id": 117126,
+      "name": "Gautier",
+      "latitude": "30.38575000",
+      "longitude": "-88.61169000"
+    },
+    {
+      "id": 117153,
+      "name": "George County",
+      "latitude": "30.86261000",
+      "longitude": "-88.64403000"
+    },
+    {
+      "id": 117281,
+      "name": "Glendale",
+      "latitude": "31.36462000",
+      "longitude": "-89.30617000"
+    },
+    {
+      "id": 117388,
+      "name": "Goodman",
+      "latitude": "32.97013000",
+      "longitude": "-89.91231000"
+    },
+    {
+      "id": 117637,
+      "name": "Greene County",
+      "latitude": "31.21422000",
+      "longitude": "-88.63916000"
+    },
+    {
+      "id": 117686,
+      "name": "Greenville",
+      "latitude": "33.40898000",
+      "longitude": "-91.05978000"
+    },
+    {
+      "id": 117705,
+      "name": "Greenwood",
+      "latitude": "33.51623000",
+      "longitude": "-90.17953000"
+    },
+    {
+      "id": 117720,
+      "name": "Grenada",
+      "latitude": "33.76900000",
+      "longitude": "-89.80842000"
+    },
+    {
+      "id": 117721,
+      "name": "Grenada County",
+      "latitude": "33.76995000",
+      "longitude": "-89.80201000"
+    },
+    {
+      "id": 117793,
+      "name": "Gulf Hills",
+      "latitude": "30.43048000",
+      "longitude": "-88.84225000"
+    },
+    {
+      "id": 117794,
+      "name": "Gulf Park Estates",
+      "latitude": "30.39187000",
+      "longitude": "-88.76114000"
+    },
+    {
+      "id": 117797,
+      "name": "Gulfport",
+      "latitude": "30.36742000",
+      "longitude": "-89.09282000"
+    },
+    {
+      "id": 117807,
+      "name": "Guntown",
+      "latitude": "34.44316000",
+      "longitude": "-88.65978000"
+    },
+    {
+      "id": 117953,
+      "name": "Hancock County",
+      "latitude": "30.39378000",
+      "longitude": "-89.47456000"
+    },
+    {
+      "id": 118064,
+      "name": "Harrison County",
+      "latitude": "30.41605000",
+      "longitude": "-89.08164000"
+    },
+    {
+      "id": 118140,
+      "name": "Hattiesburg",
+      "latitude": "31.32712000",
+      "longitude": "-89.29034000"
+    },
+    {
+      "id": 118212,
+      "name": "Hazlehurst",
+      "latitude": "31.86044000",
+      "longitude": "-90.39593000"
+    },
+    {
+      "id": 118249,
+      "name": "Helena",
+      "latitude": "30.49464000",
+      "longitude": "-88.49585000"
+    },
+    {
+      "id": 118333,
+      "name": "Hernando",
+      "latitude": "34.82399000",
+      "longitude": "-89.99370000"
+    },
+    {
+      "id": 118368,
+      "name": "Hickory Hills",
+      "latitude": "30.45687000",
+      "longitude": "-88.63919000"
+    },
+    {
+      "id": 118381,
+      "name": "Hide-A-Way Lake",
+      "latitude": "30.56492000",
+      "longitude": "-89.64020000"
+    },
+    {
+      "id": 118448,
+      "name": "Hillsboro",
+      "latitude": "32.45931000",
+      "longitude": "-89.51146000"
+    },
+    {
+      "id": 118479,
+      "name": "Hinds County",
+      "latitude": "32.26670000",
+      "longitude": "-90.44282000"
+    },
+    {
+      "id": 118541,
+      "name": "Hollandale",
+      "latitude": "33.16901000",
+      "longitude": "-90.85399000"
+    },
+    {
+      "id": 118563,
+      "name": "Holly Springs",
+      "latitude": "34.76760000",
+      "longitude": "-89.44869000"
+    },
+    {
+      "id": 118572,
+      "name": "Holmes County",
+      "latitude": "33.12351000",
+      "longitude": "-90.09205000"
+    },
+    {
+      "id": 118666,
+      "name": "Horn Lake",
+      "latitude": "34.95537000",
+      "longitude": "-90.03481000"
+    },
+    {
+      "id": 118698,
+      "name": "Houston",
+      "latitude": "33.89845000",
+      "longitude": "-88.99923000"
+    },
+    {
+      "id": 118784,
+      "name": "Humphreys County",
+      "latitude": "33.12870000",
+      "longitude": "-90.52662000"
+    },
+    {
+      "id": 118819,
+      "name": "Hurley",
+      "latitude": "30.66103000",
+      "longitude": "-88.49418000"
+    },
+    {
+      "id": 118925,
+      "name": "Indianola",
+      "latitude": "33.45095000",
+      "longitude": "-90.65509000"
+    },
+    {
+      "id": 119037,
+      "name": "Issaquena County",
+      "latitude": "32.74139000",
+      "longitude": "-90.98921000"
+    },
+    {
+      "id": 119042,
+      "name": "Itawamba County",
+      "latitude": "34.27999000",
+      "longitude": "-88.36132000"
+    },
+    {
+      "id": 119045,
+      "name": "Itta Bena",
+      "latitude": "33.49512000",
+      "longitude": "-90.31981000"
+    },
+    {
+      "id": 119046,
+      "name": "Iuka",
+      "latitude": "34.81176000",
+      "longitude": "-88.19004000"
+    },
+    {
+      "id": 119065,
+      "name": "Jackson",
+      "latitude": "32.29876000",
+      "longitude": "-90.18481000"
+    },
+    {
+      "id": 119084,
+      "name": "Jackson County",
+      "latitude": "30.46289000",
+      "longitude": "-88.62284000"
+    },
+    {
+      "id": 119148,
+      "name": "Jasper County",
+      "latitude": "32.01911000",
+      "longitude": "-89.11886000"
+    },
+    {
+      "id": 119184,
+      "name": "Jefferson County",
+      "latitude": "31.73421000",
+      "longitude": "-91.03718000"
+    },
+    {
+      "id": 119199,
+      "name": "Jefferson Davis County",
+      "latitude": "31.56964000",
+      "longitude": "-89.82300000"
+    },
+    {
+      "id": 119293,
+      "name": "Jones County",
+      "latitude": "31.62256000",
+      "longitude": "-89.16879000"
+    },
+    {
+      "id": 119306,
+      "name": "Jonestown",
+      "latitude": "34.31955000",
+      "longitude": "-90.45565000"
+    },
+    {
+      "id": 119410,
+      "name": "Kearney Park",
+      "latitude": "32.58903000",
+      "longitude": "-90.31537000"
+    },
+    {
+      "id": 119437,
+      "name": "Kemper County",
+      "latitude": "32.75456000",
+      "longitude": "-88.64116000"
+    },
+    {
+      "id": 119564,
+      "name": "Kiln",
+      "latitude": "30.40908000",
+      "longitude": "-89.43505000"
+    },
+    {
+      "id": 119709,
+      "name": "Kosciusko",
+      "latitude": "33.05800000",
+      "longitude": "-89.58956000"
+    },
+    {
+      "id": 119841,
+      "name": "Lafayette County",
+      "latitude": "34.35675000",
+      "longitude": "-89.48492000"
+    },
+    {
+      "id": 120063,
+      "name": "Lamar County",
+      "latitude": "31.20587000",
+      "longitude": "-89.50869000"
+    },
+    {
+      "id": 120067,
+      "name": "Lambert",
+      "latitude": "34.20178000",
+      "longitude": "-90.28343000"
+    },
+    {
+      "id": 120172,
+      "name": "Latimer",
+      "latitude": "30.53464000",
+      "longitude": "-88.86670000"
+    },
+    {
+      "id": 120180,
+      "name": "Lauderdale County",
+      "latitude": "32.40429000",
+      "longitude": "-88.66254000"
+    },
+    {
+      "id": 120190,
+      "name": "Laurel",
+      "latitude": "31.69405000",
+      "longitude": "-89.13061000"
+    },
+    {
+      "id": 120235,
+      "name": "Lawrence County",
+      "latitude": "31.55020000",
+      "longitude": "-90.10699000"
+    },
+    {
+      "id": 120275,
+      "name": "Leake County",
+      "latitude": "32.75353000",
+      "longitude": "-89.52406000"
+    },
+    {
+      "id": 120276,
+      "name": "Leakesville",
+      "latitude": "31.15574000",
+      "longitude": "-88.55780000"
+    },
+    {
+      "id": 120311,
+      "name": "Lee County",
+      "latitude": "34.28989000",
+      "longitude": "-88.68042000"
+    },
+    {
+      "id": 120331,
+      "name": "Leflore County",
+      "latitude": "33.55052000",
+      "longitude": "-90.30106000"
+    },
+    {
+      "id": 120349,
+      "name": "Leland",
+      "latitude": "33.40539000",
+      "longitude": "-90.89760000"
+    },
+    {
+      "id": 120441,
+      "name": "Lexington",
+      "latitude": "33.11318000",
+      "longitude": "-90.05314000"
+    },
+    {
+      "id": 120463,
+      "name": "Liberty",
+      "latitude": "31.15823000",
+      "longitude": "-90.81232000"
+    },
+    {
+      "id": 120521,
+      "name": "Lincoln County",
+      "latitude": "31.53239000",
+      "longitude": "-90.45400000"
+    },
+    {
+      "id": 120735,
+      "name": "Long Beach",
+      "latitude": "30.35048000",
+      "longitude": "-89.15282000"
+    },
+    {
+      "id": 120814,
+      "name": "Louisville",
+      "latitude": "33.12374000",
+      "longitude": "-89.05506000"
+    },
+    {
+      "id": 120848,
+      "name": "Lowndes County",
+      "latitude": "33.47291000",
+      "longitude": "-88.44331000"
+    },
+    {
+      "id": 120864,
+      "name": "Lucedale",
+      "latitude": "30.92519000",
+      "longitude": "-88.59002000"
+    },
+    {
+      "id": 120879,
+      "name": "Lumberton",
+      "latitude": "31.00129000",
+      "longitude": "-89.45229000"
+    },
+    {
+      "id": 120908,
+      "name": "Lyman",
+      "latitude": "30.49474000",
+      "longitude": "-89.12561000"
+    },
+    {
+      "id": 120914,
+      "name": "Lynchburg",
+      "latitude": "34.96232000",
+      "longitude": "-90.09593000"
+    },
+    {
+      "id": 120966,
+      "name": "Macon",
+      "latitude": "33.10540000",
+      "longitude": "-88.56088000"
+    },
+    {
+      "id": 120989,
+      "name": "Madison",
+      "latitude": "32.46181000",
+      "longitude": "-90.11536000"
+    },
+    {
+      "id": 121009,
+      "name": "Madison County",
+      "latitude": "32.63466000",
+      "longitude": "-90.03376000"
+    },
+    {
+      "id": 121032,
+      "name": "Magee",
+      "latitude": "31.87377000",
+      "longitude": "-89.73369000"
+    },
+    {
+      "id": 121036,
+      "name": "Magnolia",
+      "latitude": "31.14323000",
+      "longitude": "-90.45871000"
+    },
+    {
+      "id": 121153,
+      "name": "Mantachie",
+      "latitude": "34.32427000",
+      "longitude": "-88.49116000"
+    },
+    {
+      "id": 121237,
+      "name": "Marion",
+      "latitude": "32.41736000",
+      "longitude": "-88.64782000"
+    },
+    {
+      "id": 121256,
+      "name": "Marion County",
+      "latitude": "31.23082000",
+      "longitude": "-89.82244000"
+    },
+    {
+      "id": 121272,
+      "name": "Marks",
+      "latitude": "34.25683000",
+      "longitude": "-90.27298000"
+    },
+    {
+      "id": 121313,
+      "name": "Marshall County",
+      "latitude": "34.76225000",
+      "longitude": "-89.50305000"
+    },
+    {
+      "id": 121434,
+      "name": "Mayersville",
+      "latitude": "32.90207000",
+      "longitude": "-91.05122000"
+    },
+    {
+      "id": 121474,
+      "name": "McComb",
+      "latitude": "31.24379000",
+      "longitude": "-90.45315000"
+    },
+    {
+      "id": 121574,
+      "name": "Meadville",
+      "latitude": "31.47239000",
+      "longitude": "-90.89677000"
+    },
+    {
+      "id": 121650,
+      "name": "Mendenhall",
+      "latitude": "31.96182000",
+      "longitude": "-89.87008000"
+    },
+    {
+      "id": 121690,
+      "name": "Meridian",
+      "latitude": "32.36431000",
+      "longitude": "-88.70366000"
+    },
+    {
+      "id": 121697,
+      "name": "Meridian Station",
+      "latitude": "32.55049000",
+      "longitude": "-88.61849000"
+    },
+    {
+      "id": 121732,
+      "name": "Metcalfe",
+      "latitude": "33.45400000",
+      "longitude": "-91.00733000"
+    },
+    {
+      "id": 121830,
+      "name": "Mikoma",
+      "latitude": "33.95039000",
+      "longitude": "-90.28398000"
+    },
+    {
+      "id": 122075,
+      "name": "Monroe County",
+      "latitude": "33.89224000",
+      "longitude": "-88.48047000"
+    },
+    {
+      "id": 122147,
+      "name": "Montgomery County",
+      "latitude": "33.49410000",
+      "longitude": "-89.61640000"
+    },
+    {
+      "id": 122163,
+      "name": "Monticello",
+      "latitude": "31.55378000",
+      "longitude": "-90.10731000"
+    },
+    {
+      "id": 122211,
+      "name": "Moorhead",
+      "latitude": "33.45012000",
+      "longitude": "-90.50564000"
+    },
+    {
+      "id": 122252,
+      "name": "Morgantown",
+      "latitude": "31.57267000",
+      "longitude": "-91.34761000"
+    },
+    {
+      "id": 122291,
+      "name": "Morton",
+      "latitude": "32.35376000",
+      "longitude": "-89.65452000"
+    },
+    {
+      "id": 122309,
+      "name": "Moss Point",
+      "latitude": "30.41159000",
+      "longitude": "-88.53446000"
+    },
+    {
+      "id": 122319,
+      "name": "Mound Bayou",
+      "latitude": "33.87817000",
+      "longitude": "-90.72732000"
+    },
+    {
+      "id": 122587,
+      "name": "Natchez",
+      "latitude": "31.56017000",
+      "longitude": "-91.40329000"
+    },
+    {
+      "id": 122621,
+      "name": "Nellieburg",
+      "latitude": "32.40681000",
+      "longitude": "-88.77727000"
+    },
+    {
+      "id": 122641,
+      "name": "Neshoba County",
+      "latitude": "32.75350000",
+      "longitude": "-89.11757000"
+    },
+    {
+      "id": 122646,
+      "name": "Nettleton",
+      "latitude": "34.08900000",
+      "longitude": "-88.62227000"
+    },
+    {
+      "id": 122655,
+      "name": "New Albany",
+      "latitude": "34.49427000",
+      "longitude": "-89.00784000"
+    },
+    {
+      "id": 122657,
+      "name": "New Augusta",
+      "latitude": "31.20263000",
+      "longitude": "-89.03668000"
+    },
+    {
+      "id": 122724,
+      "name": "New Hope",
+      "latitude": "33.46817000",
+      "longitude": "-88.32670000"
+    },
+    {
+      "id": 122860,
+      "name": "Newton",
+      "latitude": "32.32126000",
+      "longitude": "-89.16339000"
+    },
+    {
+      "id": 122871,
+      "name": "Newton County",
+      "latitude": "32.40023000",
+      "longitude": "-89.11881000"
+    },
+    {
+      "id": 122893,
+      "name": "Nicholson",
+      "latitude": "30.47714000",
+      "longitude": "-89.69367000"
+    },
+    {
+      "id": 123116,
+      "name": "North Tunica",
+      "latitude": "34.70093000",
+      "longitude": "-90.37815000"
+    },
+    {
+      "id": 123212,
+      "name": "Noxubee County",
+      "latitude": "33.11011000",
+      "longitude": "-88.56982000"
+    },
+    {
+      "id": 123337,
+      "name": "Ocean Springs",
+      "latitude": "30.41131000",
+      "longitude": "-88.82781000"
+    },
+    {
+      "id": 123409,
+      "name": "Okolona",
+      "latitude": "34.00178000",
+      "longitude": "-88.75533000"
+    },
+    {
+      "id": 123410,
+      "name": "Oktibbeha County",
+      "latitude": "33.42495000",
+      "longitude": "-88.87930000"
+    },
+    {
+      "id": 123439,
+      "name": "Olive Branch",
+      "latitude": "34.96176000",
+      "longitude": "-89.82953000"
+    },
+    {
+      "id": 123678,
+      "name": "Oxford",
+      "latitude": "34.36650000",
+      "longitude": "-89.51925000"
+    },
+    {
+      "id": 123803,
+      "name": "Panola County",
+      "latitude": "34.36394000",
+      "longitude": "-89.95057000"
+    },
+    {
+      "id": 123900,
+      "name": "Pascagoula",
+      "latitude": "30.36576000",
+      "longitude": "-88.55613000"
+    },
+    {
+      "id": 123906,
+      "name": "Pass Christian",
+      "latitude": "30.31575000",
+      "longitude": "-89.24754000"
+    },
+    {
+      "id": 123963,
+      "name": "Pearl",
+      "latitude": "32.27459000",
+      "longitude": "-90.13203000"
+    },
+    {
+      "id": 123967,
+      "name": "Pearl River",
+      "latitude": "32.78347000",
+      "longitude": "-89.22784000"
+    },
+    {
+      "id": 123969,
+      "name": "Pearl River County",
+      "latitude": "30.76858000",
+      "longitude": "-89.58978000"
+    },
+    {
+      "id": 123971,
+      "name": "Pearlington",
+      "latitude": "30.24658000",
+      "longitude": "-89.61117000"
+    },
+    {
+      "id": 123987,
+      "name": "Pelahatchie",
+      "latitude": "32.31292000",
+      "longitude": "-89.79841000"
+    },
+    {
+      "id": 124080,
+      "name": "Perry County",
+      "latitude": "31.17202000",
+      "longitude": "-88.99233000"
+    },
+    {
+      "id": 124100,
+      "name": "Petal",
+      "latitude": "31.34656000",
+      "longitude": "-89.26006000"
+    },
+    {
+      "id": 124125,
+      "name": "Philadelphia",
+      "latitude": "32.77152000",
+      "longitude": "-89.11673000"
+    },
+    {
+      "id": 124153,
+      "name": "Picayune",
+      "latitude": "30.52556000",
+      "longitude": "-89.67788000"
+    },
+    {
+      "id": 124154,
+      "name": "Pickens",
+      "latitude": "32.88374000",
+      "longitude": "-89.97147000"
+    },
+    {
+      "id": 124192,
+      "name": "Pike County",
+      "latitude": "31.17491000",
+      "longitude": "-90.40416000"
+    },
+    {
+      "id": 124290,
+      "name": "Pittsboro",
+      "latitude": "33.94039000",
+      "longitude": "-89.33757000"
+    },
+    {
+      "id": 124348,
+      "name": "Plantersville",
+      "latitude": "34.21344000",
+      "longitude": "-88.66450000"
+    },
+    {
+      "id": 124476,
+      "name": "Pontotoc",
+      "latitude": "34.24788000",
+      "longitude": "-88.99867000"
+    },
+    {
+      "id": 124477,
+      "name": "Pontotoc County",
+      "latitude": "34.22544000",
+      "longitude": "-89.03741000"
+    },
+    {
+      "id": 124487,
+      "name": "Poplarville",
+      "latitude": "30.84019000",
+      "longitude": "-89.53423000"
+    },
+    {
+      "id": 124507,
+      "name": "Port Gibson",
+      "latitude": "31.96099000",
+      "longitude": "-90.98399000"
+    },
+    {
+      "id": 124640,
+      "name": "Prentiss",
+      "latitude": "31.59850000",
+      "longitude": "-89.86702000"
+    },
+    {
+      "id": 124641,
+      "name": "Prentiss County",
+      "latitude": "34.61829000",
+      "longitude": "-88.52010000"
+    },
+    {
+      "id": 124758,
+      "name": "Purvis",
+      "latitude": "31.14324000",
+      "longitude": "-89.40979000"
+    },
+    {
+      "id": 124806,
+      "name": "Quitman",
+      "latitude": "32.04015000",
+      "longitude": "-88.72810000"
+    },
+    {
+      "id": 124809,
+      "name": "Quitman County",
+      "latitude": "34.25141000",
+      "longitude": "-90.28912000"
+    },
+    {
+      "id": 124830,
+      "name": "Raleigh",
+      "latitude": "32.03349000",
+      "longitude": "-89.52229000"
+    },
+    {
+      "id": 124885,
+      "name": "Rankin County",
+      "latitude": "32.26412000",
+      "longitude": "-89.94580000"
+    },
+    {
+      "id": 124914,
+      "name": "Rawls Springs",
+      "latitude": "31.38073000",
+      "longitude": "-89.37145000"
+    },
+    {
+      "id": 124917,
+      "name": "Raymond",
+      "latitude": "32.25931000",
+      "longitude": "-90.42260000"
+    },
+    {
+      "id": 125069,
+      "name": "Richland",
+      "latitude": "32.23904000",
+      "longitude": "-90.15842000"
+    },
+    {
+      "id": 125107,
+      "name": "Richton",
+      "latitude": "31.34934000",
+      "longitude": "-88.94005000"
+    },
+    {
+      "id": 125123,
+      "name": "Ridgeland",
+      "latitude": "32.42848000",
+      "longitude": "-90.13231000"
+    },
+    {
+      "id": 125162,
+      "name": "Ripley",
+      "latitude": "34.72982000",
+      "longitude": "-88.95062000"
+    },
+    {
+      "id": 125365,
+      "name": "Rolling Fork",
+      "latitude": "32.90652000",
+      "longitude": "-90.87816000"
+    },
+    {
+      "id": 125417,
+      "name": "Rosedale",
+      "latitude": "33.85344000",
+      "longitude": "-91.02789000"
+    },
+    {
+      "id": 125506,
+      "name": "Ruleville",
+      "latitude": "33.72595000",
+      "longitude": "-90.55148000"
+    },
+    {
+      "id": 125686,
+      "name": "Saint Martin",
+      "latitude": "30.43798000",
+      "longitude": "-88.86809000"
+    },
+    {
+      "id": 125769,
+      "name": "Saltillo",
+      "latitude": "34.37649000",
+      "longitude": "-88.68172000"
+    },
+    {
+      "id": 125948,
+      "name": "Sardis",
+      "latitude": "34.43705000",
+      "longitude": "-89.91592000"
+    },
+    {
+      "id": 125958,
+      "name": "Saucier",
+      "latitude": "30.63575000",
+      "longitude": "-89.13504000"
+    },
+    {
+      "id": 126048,
+      "name": "Scott County",
+      "latitude": "32.40638000",
+      "longitude": "-89.53764000"
+    },
+    {
+      "id": 126153,
+      "name": "Senatobia",
+      "latitude": "34.61760000",
+      "longitude": "-89.96870000"
+    },
+    {
+      "id": 126219,
+      "name": "Shannon",
+      "latitude": "34.11622000",
+      "longitude": "-88.71172000"
+    },
+    {
+      "id": 126226,
+      "name": "Sharkey County",
+      "latitude": "32.87972000",
+      "longitude": "-90.81321000"
+    },
+    {
+      "id": 126227,
+      "name": "Sharon",
+      "latitude": "31.78960000",
+      "longitude": "-89.09867000"
+    },
+    {
+      "id": 126245,
+      "name": "Shaw",
+      "latitude": "33.60211000",
+      "longitude": "-90.77458000"
+    },
+    {
+      "id": 126269,
+      "name": "Shelby",
+      "latitude": "33.95094000",
+      "longitude": "-90.76788000"
+    },
+    {
+      "id": 126450,
+      "name": "Simpson County",
+      "latitude": "31.91317000",
+      "longitude": "-89.91949000"
+    },
+    {
+      "id": 126513,
+      "name": "Smith County",
+      "latitude": "32.01769000",
+      "longitude": "-89.50668000"
+    },
+    {
+      "id": 126760,
+      "name": "Southaven",
+      "latitude": "34.98898000",
+      "longitude": "-90.01259000"
+    },
+    {
+      "id": 126989,
+      "name": "Starkville",
+      "latitude": "33.45049000",
+      "longitude": "-88.81961000"
+    },
+    {
+      "id": 127082,
+      "name": "Stone County",
+      "latitude": "30.78995000",
+      "longitude": "-89.11771000"
+    },
+    {
+      "id": 127092,
+      "name": "Stonewall",
+      "latitude": "32.13181000",
+      "longitude": "-88.79338000"
+    },
+    {
+      "id": 127211,
+      "name": "Summit",
+      "latitude": "31.28379000",
+      "longitude": "-90.46843000"
+    },
+    {
+      "id": 127226,
+      "name": "Sumrall",
+      "latitude": "31.41739000",
+      "longitude": "-89.54229000"
+    },
+    {
+      "id": 127251,
+      "name": "Sunflower",
+      "latitude": "33.54290000",
+      "longitude": "-90.53703000"
+    },
+    {
+      "id": 127252,
+      "name": "Sunflower County",
+      "latitude": "33.60231000",
+      "longitude": "-90.58862000"
+    },
+    {
+      "id": 127392,
+      "name": "Tallahatchie County",
+      "latitude": "33.95047000",
+      "longitude": "-90.17326000"
+    },
+    {
+      "id": 127438,
+      "name": "Tate County",
+      "latitude": "34.65032000",
+      "longitude": "-89.94478000"
+    },
+    {
+      "id": 127464,
+      "name": "Taylorsville",
+      "latitude": "31.82960000",
+      "longitude": "-89.42812000"
+    },
+    {
+      "id": 127472,
+      "name": "Tchula",
+      "latitude": "33.18290000",
+      "longitude": "-90.22286000"
+    },
+    {
+      "id": 127530,
+      "name": "Terry",
+      "latitude": "32.09626000",
+      "longitude": "-90.29426000"
+    },
+    {
+      "id": 127672,
+      "name": "Tippah County",
+      "latitude": "34.76840000",
+      "longitude": "-88.90890000"
+    },
+    {
+      "id": 127683,
+      "name": "Tishomingo County",
+      "latitude": "34.74043000",
+      "longitude": "-88.23932000"
+    },
+    {
+      "id": 127891,
+      "name": "Tunica",
+      "latitude": "34.68455000",
+      "longitude": "-90.38288000"
+    },
+    {
+      "id": 127892,
+      "name": "Tunica County",
+      "latitude": "34.65194000",
+      "longitude": "-90.37551000"
+    },
+    {
+      "id": 127893,
+      "name": "Tunica Resorts",
+      "latitude": "34.83613000",
+      "longitude": "-90.34723000"
+    },
+    {
+      "id": 127897,
+      "name": "Tupelo",
+      "latitude": "34.25807000",
+      "longitude": "-88.70464000"
+    },
+    {
+      "id": 127919,
+      "name": "Tutwiler",
+      "latitude": "34.01483000",
+      "longitude": "-90.43176000"
+    },
+    {
+      "id": 127944,
+      "name": "Tylertown",
+      "latitude": "31.11601000",
+      "longitude": "-90.14203000"
+    },
+    {
+      "id": 127972,
+      "name": "Union",
+      "latitude": "32.57153000",
+      "longitude": "-89.12145000"
+    },
+    {
+      "id": 127994,
+      "name": "Union County",
+      "latitude": "34.49047000",
+      "longitude": "-89.00386000"
+    },
+    {
+      "id": 128024,
+      "name": "University",
+      "latitude": "34.36594000",
+      "longitude": "-89.52536000"
+    },
+    {
+      "id": 128143,
+      "name": "Vancleave",
+      "latitude": "30.54047000",
+      "longitude": "-88.68752000"
+    },
+    {
+      "id": 128154,
+      "name": "Vardaman",
+      "latitude": "33.87567000",
+      "longitude": "-89.17729000"
+    },
+    {
+      "id": 128201,
+      "name": "Verona",
+      "latitude": "34.19427000",
+      "longitude": "-88.71977000"
+    },
+    {
+      "id": 128215,
+      "name": "Vicksburg",
+      "latitude": "32.35265000",
+      "longitude": "-90.87788000"
+    },
+    {
+      "id": 128319,
+      "name": "Wade",
+      "latitude": "30.64242000",
+      "longitude": "-88.56974000"
+    },
+    {
+      "id": 128412,
+      "name": "Walls",
+      "latitude": "34.95824000",
+      "longitude": "-90.15256000"
+    },
+    {
+      "id": 128418,
+      "name": "Walnut Grove",
+      "latitude": "32.59042000",
+      "longitude": "-89.45840000"
+    },
+    {
+      "id": 128430,
+      "name": "Walthall",
+      "latitude": "33.60734000",
+      "longitude": "-89.27729000"
+    },
+    {
+      "id": 128431,
+      "name": "Walthall County",
+      "latitude": "31.14842000",
+      "longitude": "-90.10614000"
+    },
+    {
+      "id": 128489,
+      "name": "Warren County",
+      "latitude": "32.35723000",
+      "longitude": "-90.85201000"
+    },
+    {
+      "id": 128562,
+      "name": "Washington County",
+      "latitude": "33.28370000",
+      "longitude": "-90.94745000"
+    },
+    {
+      "id": 128600,
+      "name": "Water Valley",
+      "latitude": "34.15150000",
+      "longitude": "-89.63147000"
+    },
+    {
+      "id": 128664,
+      "name": "Waveland",
+      "latitude": "30.28686000",
+      "longitude": "-89.37616000"
+    },
+    {
+      "id": 128694,
+      "name": "Wayne County",
+      "latitude": "31.64078000",
+      "longitude": "-88.69580000"
+    },
+    {
+      "id": 128706,
+      "name": "Waynesboro",
+      "latitude": "31.67488000",
+      "longitude": "-88.64615000"
+    },
+    {
+      "id": 128739,
+      "name": "Webster County",
+      "latitude": "33.61307000",
+      "longitude": "-89.28482000"
+    },
+    {
+      "id": 128814,
+      "name": "Wesson",
+      "latitude": "31.70128000",
+      "longitude": "-90.39759000"
+    },
+    {
+      "id": 128882,
+      "name": "West Gulfport",
+      "latitude": "30.40409000",
+      "longitude": "-89.09420000"
+    },
+    {
+      "id": 128886,
+      "name": "West Hattiesburg",
+      "latitude": "31.31906000",
+      "longitude": "-89.37506000"
+    },
+    {
+      "id": 128959,
+      "name": "West Point",
+      "latitude": "33.60762000",
+      "longitude": "-88.65033000"
+    },
+    {
+      "id": 129223,
+      "name": "Wiggins",
+      "latitude": "30.85824000",
+      "longitude": "-89.13533000"
+    },
+    {
+      "id": 129251,
+      "name": "Wilkinson County",
+      "latitude": "31.16107000",
+      "longitude": "-91.31092000"
+    },
+    {
+      "id": 129422,
+      "name": "Winona",
+      "latitude": "33.48207000",
+      "longitude": "-89.72814000"
+    },
+    {
+      "id": 129435,
+      "name": "Winston County",
+      "latitude": "33.08849000",
+      "longitude": "-89.03443000"
+    },
+    {
+      "id": 129571,
+      "name": "Woodville",
+      "latitude": "31.10462000",
+      "longitude": "-91.29956000"
+    },
+    {
+      "id": 129656,
+      "name": "Yalobusha County",
+      "latitude": "34.02821000",
+      "longitude": "-89.70763000"
+    },
+    {
+      "id": 129673,
+      "name": "Yazoo City",
+      "latitude": "32.85513000",
+      "longitude": "-90.40565000"
+    },
+    {
+      "id": 129674,
+      "name": "Yazoo County",
+      "latitude": "32.78031000",
+      "longitude": "-90.39642000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

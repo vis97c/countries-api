@@ -1,0 +1,78 @@
+{
+  "id": 3439,
+  "name": "Kié-Ntem Province",
+  "state_code": "KN",
+  "latitude": "2.02809300",
+  "longitude": "11.07117580",
+  "type": null,
+  "cities": [
+    {
+      "id": 52383,
+      "name": "Ebebiyin",
+      "latitude": "2.15106000",
+      "longitude": "11.33528000"
+    },
+    {
+      "id": 52390,
+      "name": "Mikomeseng",
+      "latitude": "2.13609000",
+      "longitude": "10.61322000"
+    },
+    {
+      "id": 52392,
+      "name": "Ncue",
+      "latitude": "2.01643000",
+      "longitude": "10.47066000"
+    },
+    {
+      "id": 52393,
+      "name": "Nsang",
+      "latitude": "2.02475000",
+      "longitude": "10.94599000"
+    }
+  ],
+  "country": {
+    "id": 67,
+    "name": "Equatorial Guinea",
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "numeric_code": "226",
+    "phone_code": "240",
+    "capital": "Malabo",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".gq",
+    "native": "Guinea Ecuatorial",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "적도 기니",
+      "pt-BR": "Guiné Equatorial",
+      "pt": "Guiné Equatorial",
+      "nl": "Equatoriaal-Guinea",
+      "hr": "Ekvatorijalna Gvineja",
+      "fa": "گینه استوایی",
+      "de": "Äquatorial-Guinea",
+      "es": "Guinea Ecuatorial",
+      "fr": "Guinée-Équatoriale",
+      "ja": "赤道ギニア",
+      "it": "Guinea Equatoriale",
+      "cn": "赤道几内亚",
+      "tr": "Ekvator Ginesi"
+    },
+    "latitude": "2.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇬🇶",
+    "emojiU": "U+1F1EC U+1F1F6"
+  }
+}

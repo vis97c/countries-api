@@ -1,0 +1,517 @@
+{
+  "id": 1898,
+  "name": "Republic of Mordovia",
+  "state_code": "MO",
+  "latitude": "54.23694410",
+  "longitude": "44.06839700",
+  "type": null,
+  "cities": [
+    {
+      "id": 97654,
+      "name": "Ardatov",
+      "latitude": "54.84767000",
+      "longitude": "46.23878000"
+    },
+    {
+      "id": 97656,
+      "name": "Ardatovskiy Rayon",
+      "latitude": "54.83333000",
+      "longitude": "46.25000000"
+    },
+    {
+      "id": 97709,
+      "name": "Atemar",
+      "latitude": "54.18097000",
+      "longitude": "45.40909000"
+    },
+    {
+      "id": 97717,
+      "name": "Atyashevo",
+      "latitude": "54.56443000",
+      "longitude": "46.06905000"
+    },
+    {
+      "id": 97718,
+      "name": "Atyashevskiy Rayon",
+      "latitude": "54.58333000",
+      "longitude": "46.08333000"
+    },
+    {
+      "id": 97719,
+      "name": "Atyur’yevskiy Rayon",
+      "latitude": "54.33333000",
+      "longitude": "43.41667000"
+    },
+    {
+      "id": 97792,
+      "name": "Barashevo",
+      "latitude": "54.53250000",
+      "longitude": "42.87917000"
+    },
+    {
+      "id": 98002,
+      "name": "Bol’shebereznikovskiy Rayon",
+      "latitude": "54.16667000",
+      "longitude": "45.83333000"
+    },
+    {
+      "id": 98112,
+      "name": "Chamzinka",
+      "latitude": "54.40188000",
+      "longitude": "45.78387000"
+    },
+    {
+      "id": 98113,
+      "name": "Chamzinskiy Rayon",
+      "latitude": "54.41667000",
+      "longitude": "45.75000000"
+    },
+    {
+      "id": 98675,
+      "name": "Insar",
+      "latitude": "53.86531000",
+      "longitude": "44.37382000"
+    },
+    {
+      "id": 98676,
+      "name": "Insarskiy Rayon",
+      "latitude": "53.83333000",
+      "longitude": "44.41667000"
+    },
+    {
+      "id": 98770,
+      "name": "Kadoshkino",
+      "latitude": "54.02570000",
+      "longitude": "44.41910000"
+    },
+    {
+      "id": 98938,
+      "name": "Kemlya",
+      "latitude": "54.69630000",
+      "longitude": "45.24240000"
+    },
+    {
+      "id": 99122,
+      "name": "Kochkurovo",
+      "latitude": "54.03576000",
+      "longitude": "45.41845000"
+    },
+    {
+      "id": 99123,
+      "name": "Kochkurovskiy Rayon",
+      "latitude": "54.00000000",
+      "longitude": "45.41667000"
+    },
+    {
+      "id": 99256,
+      "name": "Kovylkino",
+      "latitude": "54.03876000",
+      "longitude": "43.91385000"
+    },
+    {
+      "id": 99334,
+      "name": "Krasnoslobodsk",
+      "latitude": "54.42530000",
+      "longitude": "43.78963000"
+    },
+    {
+      "id": 99335,
+      "name": "Krasnoslobodskiy Rayon",
+      "latitude": "54.41667000",
+      "longitude": "43.75000000"
+    },
+    {
+      "id": 99583,
+      "name": "Lepley",
+      "latitude": "54.30920000",
+      "longitude": "42.85990000"
+    },
+    {
+      "id": 99685,
+      "name": "Lukhovka",
+      "latitude": "54.14844000",
+      "longitude": "45.25728000"
+    },
+    {
+      "id": 99702,
+      "name": "Lyambir’",
+      "latitude": "54.28172000",
+      "longitude": "45.12494000"
+    },
+    {
+      "id": 99701,
+      "name": "Lyambirskiy Rayon",
+      "latitude": "54.33333000",
+      "longitude": "45.25000000"
+    },
+    {
+      "id": 100133,
+      "name": "Nikolayevka",
+      "latitude": "54.14510000",
+      "longitude": "45.14440000"
+    },
+    {
+      "id": 100558,
+      "name": "Partsa",
+      "latitude": "54.36530000",
+      "longitude": "42.86170000"
+    },
+    {
+      "id": 100994,
+      "name": "Romodanovo",
+      "latitude": "54.42753000",
+      "longitude": "45.32962000"
+    },
+    {
+      "id": 100995,
+      "name": "Romodanovskiy Rayon",
+      "latitude": "54.41667000",
+      "longitude": "45.33333000"
+    },
+    {
+      "id": 101038,
+      "name": "Ruzayevka",
+      "latitude": "54.06387000",
+      "longitude": "44.95090000"
+    },
+    {
+      "id": 101039,
+      "name": "Ruzayevskiy Rayon",
+      "latitude": "54.08333000",
+      "longitude": "44.83333000"
+    },
+    {
+      "id": 101110,
+      "name": "Saransk",
+      "latitude": "54.18380000",
+      "longitude": "45.17490000"
+    },
+    {
+      "id": 101327,
+      "name": "Shiringushi",
+      "latitude": "53.84851000",
+      "longitude": "42.76759000"
+    },
+    {
+      "id": 101489,
+      "name": "Sosnovka",
+      "latitude": "54.71161000",
+      "longitude": "43.29774000"
+    },
+    {
+      "id": 101593,
+      "name": "Staroshaygovskiy Rayon",
+      "latitude": "54.33333000",
+      "longitude": "44.50000000"
+    },
+    {
+      "id": 101794,
+      "name": "Tatarskaya Pishlya",
+      "latitude": "54.06085000",
+      "longitude": "44.89978000"
+    },
+    {
+      "id": 101818,
+      "name": "Temnikov",
+      "latitude": "54.63023000",
+      "longitude": "43.21483000"
+    },
+    {
+      "id": 101819,
+      "name": "Temnikovskiy Rayon",
+      "latitude": "54.66667000",
+      "longitude": "43.16667000"
+    },
+    {
+      "id": 101823,
+      "name": "Ten’gushevo",
+      "latitude": "54.76861000",
+      "longitude": "42.71889000"
+    },
+    {
+      "id": 101824,
+      "name": "Ten’gushevskiy Rayon",
+      "latitude": "54.66667000",
+      "longitude": "42.75000000"
+    },
+    {
+      "id": 101897,
+      "name": "Torbeyevo",
+      "latitude": "54.07972000",
+      "longitude": "43.24732000"
+    },
+    {
+      "id": 101974,
+      "name": "Turgenevo",
+      "latitude": "54.84555000",
+      "longitude": "46.32968000"
+    },
+    {
+      "id": 102018,
+      "name": "Udarnyy",
+      "latitude": "54.34090000",
+      "longitude": "42.86110000"
+    },
+    {
+      "id": 102056,
+      "name": "Umet",
+      "latitude": "54.11611000",
+      "longitude": "42.69750000"
+    },
+    {
+      "id": 102438,
+      "name": "Vysha",
+      "latitude": "53.84768000",
+      "longitude": "42.37766000"
+    },
+    {
+      "id": 102516,
+      "name": "Yavas",
+      "latitude": "54.41590000",
+      "longitude": "42.84910000"
+    },
+    {
+      "id": 102550,
+      "name": "Yel’nikovskiy Rayon",
+      "latitude": "54.58333000",
+      "longitude": "43.83333000"
+    },
+    {
+      "id": 102770,
+      "name": "Zubova Polyana",
+      "latitude": "54.07710000",
+      "longitude": "42.83720000"
+    },
+    {
+      "id": 102772,
+      "name": "Zubovo-Polyanskiy Rayon",
+      "latitude": "54.00000000",
+      "longitude": "42.75000000"
+    },
+    {
+      "id": 102785,
+      "name": "Zykovo",
+      "latitude": "54.06853000",
+      "longitude": "45.08633000"
+    }
+  ],
+  "country": {
+    "id": 182,
+    "name": "Russia",
+    "iso3": "RUS",
+    "iso2": "RU",
+    "numeric_code": "643",
+    "phone_code": "7",
+    "capital": "Moscow",
+    "currency": "RUB",
+    "currency_name": "Russian ruble",
+    "currency_symbol": "₽",
+    "tld": ".ru",
+    "native": "Россия",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Anadyr",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "ANAT",
+        "tzName": "Anadyr Time[4"
+      },
+      {
+        "zoneName": "Asia/Barnaul",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Chita",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Irkutsk",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "IRKT",
+        "tzName": "Irkutsk Time"
+      },
+      {
+        "zoneName": "Asia/Kamchatka",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "PETT",
+        "tzName": "Kamchatka Time"
+      },
+      {
+        "zoneName": "Asia/Khandyga",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Krasnoyarsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Magadan",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MAGT",
+        "tzName": "Magadan Time"
+      },
+      {
+        "zoneName": "Asia/Novokuznetsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Novosibirsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "NOVT",
+        "tzName": "Novosibirsk Time"
+      },
+      {
+        "zoneName": "Asia/Omsk",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "OMST",
+        "tzName": "Omsk Time"
+      },
+      {
+        "zoneName": "Asia/Sakhalin",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SAKT",
+        "tzName": "Sakhalin Island Time"
+      },
+      {
+        "zoneName": "Asia/Srednekolymsk",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SRET",
+        "tzName": "Srednekolymsk Time"
+      },
+      {
+        "zoneName": "Asia/Tomsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "MSD+3",
+        "tzName": "Moscow Daylight Time+3"
+      },
+      {
+        "zoneName": "Asia/Ust-Nera",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Vladivostok",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Yakutsk",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Yekaterinburg",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "YEKT",
+        "tzName": "Yekaterinburg Time"
+      },
+      {
+        "zoneName": "Europe/Astrakhan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Kaliningrad",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Kirov",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Moscow",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Samara",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Saratov",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSD",
+        "tzName": "Moscow Daylight Time+4"
+      },
+      {
+        "zoneName": "Europe/Ulyanovsk",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Volgograd",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "러시아",
+      "pt-BR": "Rússia",
+      "pt": "Rússia",
+      "nl": "Rusland",
+      "hr": "Rusija",
+      "fa": "روسیه",
+      "de": "Russland",
+      "es": "Rusia",
+      "fr": "Russie",
+      "ja": "ロシア連邦",
+      "it": "Russia",
+      "cn": "俄罗斯联邦",
+      "tr": "Rusya"
+    },
+    "latitude": "60.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇷🇺",
+    "emojiU": "U+1F1F7 U+1F1FA"
+  }
+}

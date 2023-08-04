@@ -1,0 +1,114 @@
+{
+  "id": 319,
+  "name": "Taraba",
+  "state_code": "TA",
+  "latitude": "7.99936160",
+  "longitude": "10.77398630",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76792,
+      "name": "Baissa",
+      "latitude": "7.23087000",
+      "longitude": "10.62444000"
+    },
+    {
+      "id": 76797,
+      "name": "Beli",
+      "latitude": "7.85868000",
+      "longitude": "10.97187000"
+    },
+    {
+      "id": 76879,
+      "name": "Gassol",
+      "latitude": "8.53535000",
+      "longitude": "10.44615000"
+    },
+    {
+      "id": 76883,
+      "name": "Gembu",
+      "latitude": "6.72556000",
+      "longitude": "11.25652000"
+    },
+    {
+      "id": 76908,
+      "name": "Ibi",
+      "latitude": "8.18122000",
+      "longitude": "9.74431000"
+    },
+    {
+      "id": 76957,
+      "name": "Jalingo",
+      "latitude": "8.89367000",
+      "longitude": "11.35960000"
+    },
+    {
+      "id": 77008,
+      "name": "Lau",
+      "latitude": "9.20827000",
+      "longitude": "11.27541000"
+    },
+    {
+      "id": 77036,
+      "name": "Mutum Biyu",
+      "latitude": "8.64138000",
+      "longitude": "10.77355000"
+    },
+    {
+      "id": 77092,
+      "name": "Riti",
+      "latitude": "7.90844000",
+      "longitude": "9.61688000"
+    },
+    {
+      "id": 77136,
+      "name": "Wukari",
+      "latitude": "7.87139000",
+      "longitude": "9.77786000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": 3376,
+  "name": "Oruro Department",
+  "state_code": "O",
+  "latitude": "-18.57115790",
+  "longitude": "-67.76159830",
+  "type": null,
+  "cities": [
+    {
+      "id": 9843,
+      "name": "Challapata",
+      "latitude": "-18.90208000",
+      "longitude": "-66.77048000"
+    },
+    {
+      "id": 9868,
+      "name": "Huanuni",
+      "latitude": "-18.28900000",
+      "longitude": "-66.83583000"
+    },
+    {
+      "id": 9879,
+      "name": "Litoral de Atacama",
+      "latitude": "-18.76071000",
+      "longitude": "-68.24295000"
+    },
+    {
+      "id": 9882,
+      "name": "Machacamarca",
+      "latitude": "-18.17251000",
+      "longitude": "-67.02099000"
+    },
+    {
+      "id": 9889,
+      "name": "Nor Carangas Province",
+      "latitude": "-17.83750000",
+      "longitude": "-67.94330000"
+    },
+    {
+      "id": 9891,
+      "name": "Oruro",
+      "latitude": "-17.98333000",
+      "longitude": "-67.15000000"
+    },
+    {
+      "id": 9896,
+      "name": "Poopó",
+      "latitude": "-18.38026000",
+      "longitude": "-66.96695000"
+    },
+    {
+      "id": 9906,
+      "name": "Provincia Avaroa",
+      "latitude": "-19.00000000",
+      "longitude": "-66.66667000"
+    },
+    {
+      "id": 9915,
+      "name": "Provincia Carangas",
+      "latitude": "-18.33333000",
+      "longitude": "-67.75000000"
+    },
+    {
+      "id": 9917,
+      "name": "Provincia Cercado",
+      "latitude": "-17.91667000",
+      "longitude": "-67.08333000"
+    },
+    {
+      "id": 9942,
+      "name": "Provincia Ladislao Cabrera",
+      "latitude": "-19.50000000",
+      "longitude": "-67.66667000"
+    },
+    {
+      "id": 9969,
+      "name": "Provincia Pantaleón Dalence",
+      "latitude": "-18.33333000",
+      "longitude": "-66.91667000"
+    },
+    {
+      "id": 9970,
+      "name": "Provincia Poopó",
+      "latitude": "-18.50000000",
+      "longitude": "-66.91667000"
+    },
+    {
+      "id": 9976,
+      "name": "Provincia Sabaya",
+      "latitude": "-19.00000000",
+      "longitude": "-68.58333000"
+    },
+    {
+      "id": 9977,
+      "name": "Provincia Sajama",
+      "latitude": "-18.20000000",
+      "longitude": "-68.55000000"
+    },
+    {
+      "id": 9978,
+      "name": "Provincia San Pedro de Totora",
+      "latitude": "-17.83333000",
+      "longitude": "-68.20000000"
+    },
+    {
+      "id": 9981,
+      "name": "Provincia Saucari",
+      "latitude": "-18.25000000",
+      "longitude": "-67.41667000"
+    },
+    {
+      "id": 9988,
+      "name": "Provincia Tomás Barron",
+      "latitude": "-17.83333000",
+      "longitude": "-68.25000000"
+    },
+    {
+      "id": 10000,
+      "name": "Puerto de Mejillones",
+      "latitude": "-18.99266000",
+      "longitude": "-68.68446000"
+    },
+    {
+      "id": 10028,
+      "name": "Sebastian Pagador Province",
+      "latitude": "-19.21667000",
+      "longitude": "-66.21667000"
+    },
+    {
+      "id": 10032,
+      "name": "Sud Carangas Province",
+      "latitude": "-18.50000000",
+      "longitude": "-68.25000000"
+    },
+    {
+      "id": 10040,
+      "name": "Totoral",
+      "latitude": "-18.49587000",
+      "longitude": "-66.87380000"
+    }
+  ],
+  "country": {
+    "id": 27,
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "numeric_code": "068",
+    "phone_code": "591",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "currency_symbol": "Bs.",
+    "tld": ".bo",
+    "native": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/La_Paz",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BOT",
+        "tzName": "Bolivia Time"
+      }
+    ],
+    "translations": {
+      "kr": "볼리비아",
+      "pt-BR": "Bolívia",
+      "pt": "Bolívia",
+      "nl": "Bolivia",
+      "hr": "Bolivija",
+      "fa": "بولیوی",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fr": "Bolivie",
+      "ja": "ボリビア多民族国",
+      "it": "Bolivia",
+      "cn": "玻利维亚",
+      "tr": "Bolivya"
+    },
+    "latitude": "-17.00000000",
+    "longitude": "-65.00000000",
+    "emoji": "🇧🇴",
+    "emojiU": "U+1F1E7 U+1F1F4"
+  }
+}

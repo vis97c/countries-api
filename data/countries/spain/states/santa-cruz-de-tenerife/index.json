@@ -1,0 +1,392 @@
+{
+  "id": 5112,
+  "name": "Santa Cruz de Tenerife",
+  "state_code": "TF",
+  "latitude": "28.45789140",
+  "longitude": "-16.32135390",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31931,
+      "name": "Adeje",
+      "latitude": "28.12271000",
+      "longitude": "-16.72600000"
+    },
+    {
+      "id": 31969,
+      "name": "Agulo",
+      "latitude": "28.18778000",
+      "longitude": "-17.19678000"
+    },
+    {
+      "id": 31993,
+      "name": "Alajeró",
+      "latitude": "28.06205000",
+      "longitude": "-17.24073000"
+    },
+    {
+      "id": 32400,
+      "name": "Arafo",
+      "latitude": "28.33971000",
+      "longitude": "-16.42244000"
+    },
+    {
+      "id": 152448,
+      "name": "Arico",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32497,
+      "name": "Arona",
+      "latitude": "28.09962000",
+      "longitude": "-16.68102000"
+    },
+    {
+      "id": 32666,
+      "name": "Barlovento",
+      "latitude": "28.82708000",
+      "longitude": "-17.80377000"
+    },
+    {
+      "id": 32980,
+      "name": "Breña Alta",
+      "latitude": "28.65000000",
+      "longitude": "-17.78333000"
+    },
+    {
+      "id": 32981,
+      "name": "Breña Baja",
+      "latitude": "28.63011000",
+      "longitude": "-17.78953000"
+    },
+    {
+      "id": 33005,
+      "name": "Buenavista del Norte",
+      "latitude": "28.37458000",
+      "longitude": "-16.86098000"
+    },
+    {
+      "id": 33226,
+      "name": "Candelaria",
+      "latitude": "28.35480000",
+      "longitude": "-16.37268000"
+    },
+    {
+      "id": 34167,
+      "name": "Fasnia",
+      "latitude": "28.23638000",
+      "longitude": "-16.43886000"
+    },
+    {
+      "id": 34268,
+      "name": "Frontera",
+      "latitude": "27.75404000",
+      "longitude": "-18.00367000"
+    },
+    {
+      "id": 34276,
+      "name": "Fuencaliente de la Palma",
+      "latitude": "28.49236000",
+      "longitude": "-17.84529000"
+    },
+    {
+      "id": 34405,
+      "name": "Garachico",
+      "latitude": "28.37365000",
+      "longitude": "-16.76342000"
+    },
+    {
+      "id": 34406,
+      "name": "Garafía",
+      "latitude": "28.81667000",
+      "longitude": "-17.93333000"
+    },
+    {
+      "id": 34498,
+      "name": "Granadilla de Abona",
+      "latitude": "28.11882000",
+      "longitude": "-16.57599000"
+    },
+    {
+      "id": 152449,
+      "name": "Guancha La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34557,
+      "name": "Guía de Isora",
+      "latitude": "28.21154000",
+      "longitude": "-16.77947000"
+    },
+    {
+      "id": 34569,
+      "name": "Güimar",
+      "latitude": "28.31122000",
+      "longitude": "-16.41276000"
+    },
+    {
+      "id": 34586,
+      "name": "Hermigua",
+      "latitude": "28.16766000",
+      "longitude": "-17.19051000"
+    },
+    {
+      "id": 34732,
+      "name": "Icod de los Vinos",
+      "latitude": "28.37241000",
+      "longitude": "-16.71188000"
+    },
+    {
+      "id": 152451,
+      "name": "Llanos de Aridane Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152452,
+      "name": "Matanza de Acentejo La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152453,
+      "name": "Orotava La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152454,
+      "name": "Paso El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152465,
+      "name": "Pinar de El Hierro El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36454,
+      "name": "Puerto de la Cruz",
+      "latitude": "28.41397000",
+      "longitude": "-16.54867000"
+    },
+    {
+      "id": 36472,
+      "name": "Puntagorda",
+      "latitude": "28.77490000",
+      "longitude": "-17.97741000"
+    },
+    {
+      "id": 36473,
+      "name": "Puntallana",
+      "latitude": "28.73333000",
+      "longitude": "-17.73333000"
+    },
+    {
+      "id": 152455,
+      "name": "Realejos Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152456,
+      "name": "Rosario El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152457,
+      "name": "San Andrés y Sauces",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152450,
+      "name": "San Cristóbal de La Laguna",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36848,
+      "name": "San Juan de la Rambla",
+      "latitude": "28.39276000",
+      "longitude": "-16.65015000"
+    },
+    {
+      "id": 36879,
+      "name": "San Miguel De Abona",
+      "latitude": "28.09826000",
+      "longitude": "-16.61708000"
+    },
+    {
+      "id": 36920,
+      "name": "San Sebastián de la Gomera",
+      "latitude": "28.09163000",
+      "longitude": "-17.11331000"
+    },
+    {
+      "id": 37038,
+      "name": "Santa Cruz de la Palma",
+      "latitude": "28.68351000",
+      "longitude": "-17.76421000"
+    },
+    {
+      "id": 37036,
+      "name": "Santa Cruz de Tenerife",
+      "latitude": "28.46824000",
+      "longitude": "-16.25462000"
+    },
+    {
+      "id": 37102,
+      "name": "Santa Úrsula",
+      "latitude": "28.42613000",
+      "longitude": "-16.48876000"
+    },
+    {
+      "id": 37119,
+      "name": "Santiago del Teide",
+      "latitude": "28.29400000",
+      "longitude": "-16.81618000"
+    },
+    {
+      "id": 152458,
+      "name": "Sauzal El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152459,
+      "name": "Silos Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37347,
+      "name": "Tacoronte",
+      "latitude": "28.47688000",
+      "longitude": "-16.41016000"
+    },
+    {
+      "id": 152460,
+      "name": "Tanque El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37389,
+      "name": "Tazacorte",
+      "latitude": "28.64186000",
+      "longitude": "-17.93394000"
+    },
+    {
+      "id": 37391,
+      "name": "Tegueste",
+      "latitude": "28.51667000",
+      "longitude": "-16.31667000"
+    },
+    {
+      "id": 37425,
+      "name": "Tijarafe",
+      "latitude": "28.70000000",
+      "longitude": "-17.95000000"
+    },
+    {
+      "id": 152461,
+      "name": "Valle Gran Rey",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152462,
+      "name": "Vallehermoso",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37881,
+      "name": "Valverde",
+      "latitude": "27.80628000",
+      "longitude": "-17.91578000"
+    },
+    {
+      "id": 152463,
+      "name": "Victoria de Acentejo La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37982,
+      "name": "Vilaflor",
+      "latitude": "28.15623000",
+      "longitude": "-16.63592000"
+    },
+    {
+      "id": 152464,
+      "name": "Villa de Mazo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 886,
+  "name": "Al Qadarif",
+  "state_code": "GD",
+  "latitude": "14.02430700",
+  "longitude": "35.36856790",
+  "type": null,
+  "cities": [
+    {
+      "id": 102931,
+      "name": "Al Ḩawātah",
+      "latitude": "13.41667000",
+      "longitude": "34.63333000"
+    },
+    {
+      "id": 102929,
+      "name": "Al Qadarif",
+      "latitude": "14.03493000",
+      "longitude": "35.38344000"
+    },
+    {
+      "id": 102942,
+      "name": "Doka",
+      "latitude": "13.51667000",
+      "longitude": "35.76667000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

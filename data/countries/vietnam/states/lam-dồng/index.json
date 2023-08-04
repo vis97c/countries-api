@@ -1,0 +1,120 @@
+{
+  "id": 3818,
+  "name": "Lâm Đồng",
+  "state_code": "35",
+  "latitude": "11.57527910",
+  "longitude": "108.14286690",
+  "type": null,
+  "cities": [
+    {
+      "id": 130176,
+      "name": "Bảo Lộc",
+      "latitude": "11.54798000",
+      "longitude": "107.80772000"
+    },
+    {
+      "id": 130632,
+      "name": "Đam Rong",
+      "latitude": "12.05409000",
+      "longitude": "108.14941000"
+    },
+    {
+      "id": 130633,
+      "name": "Đinh Văn",
+      "latitude": "11.78624000",
+      "longitude": "108.24282000"
+    },
+    {
+      "id": 130634,
+      "name": "Đưc Trọng",
+      "latitude": "11.73559000",
+      "longitude": "108.37330000"
+    },
+    {
+      "id": 130630,
+      "name": "Ðà Lạt",
+      "latitude": "11.94646000",
+      "longitude": "108.44193000"
+    },
+    {
+      "id": 130230,
+      "name": "Huyện Bảo Lâm",
+      "latitude": "11.71163000",
+      "longitude": "107.75338000"
+    },
+    {
+      "id": 130536,
+      "name": "Huyện Đạ Huoai",
+      "latitude": "11.42465000",
+      "longitude": "107.63825000"
+    },
+    {
+      "id": 130537,
+      "name": "Huyện Đạ Tẻh",
+      "latitude": "11.58446000",
+      "longitude": "107.52792000"
+    },
+    {
+      "id": 130535,
+      "name": "Huyện Đơn Dương",
+      "latitude": "11.75308000",
+      "longitude": "108.55397000"
+    },
+    {
+      "id": 130553,
+      "name": "Huyện Đức Trọng",
+      "latitude": "11.62686000",
+      "longitude": "108.35330000"
+    },
+    {
+      "id": 130346,
+      "name": "Huyện Lâm Hà",
+      "latitude": "11.81890000",
+      "longitude": "108.21215000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

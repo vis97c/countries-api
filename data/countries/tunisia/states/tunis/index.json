@@ -1,0 +1,90 @@
+{
+  "id": 2554,
+  "name": "Tunis",
+  "state_code": "11",
+  "latitude": "36.83749460",
+  "longitude": "10.19273890",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106912,
+      "name": "Al Marsá",
+      "latitude": "36.87818000",
+      "longitude": "10.32466000"
+    },
+    {
+      "id": 106931,
+      "name": "Carthage",
+      "latitude": "36.85961000",
+      "longitude": "10.32978000"
+    },
+    {
+      "id": 106975,
+      "name": "La Goulette",
+      "latitude": "36.81825000",
+      "longitude": "10.30520000"
+    },
+    {
+      "id": 106976,
+      "name": "La Mohammedia",
+      "latitude": "36.67446000",
+      "longitude": "10.15633000"
+    },
+    {
+      "id": 107023,
+      "name": "Sidi Bou Saïd",
+      "latitude": "36.86870000",
+      "longitude": "10.34174000"
+    },
+    {
+      "id": 107039,
+      "name": "Tunis",
+      "latitude": "36.81897000",
+      "longitude": "10.16579000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

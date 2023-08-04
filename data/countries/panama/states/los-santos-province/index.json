@@ -1,0 +1,516 @@
+{
+  "id": 1390,
+  "name": "Los Santos Province",
+  "state_code": "7",
+  "latitude": "7.59093020",
+  "longitude": "-80.36586500",
+  "type": null,
+  "cities": [
+    {
+      "id": 79955,
+      "name": "Agua Buena",
+      "latitude": "7.83465000",
+      "longitude": "-80.39405000"
+    },
+    {
+      "id": 79976,
+      "name": "Ave María",
+      "latitude": "7.32481000",
+      "longitude": "-80.45361000"
+    },
+    {
+      "id": 79978,
+      "name": "Bahía Honda",
+      "latitude": "7.70517000",
+      "longitude": "-80.45342000"
+    },
+    {
+      "id": 79980,
+      "name": "Bajo Corral",
+      "latitude": "7.60463000",
+      "longitude": "-80.26016000"
+    },
+    {
+      "id": 79988,
+      "name": "Bayano",
+      "latitude": "7.63014000",
+      "longitude": "-80.38201000"
+    },
+    {
+      "id": 79990,
+      "name": "Bella Vista",
+      "latitude": "7.75000000",
+      "longitude": "-80.23333000"
+    },
+    {
+      "id": 80029,
+      "name": "Cambutal",
+      "latitude": "7.26534000",
+      "longitude": "-80.49105000"
+    },
+    {
+      "id": 80037,
+      "name": "Cañas",
+      "latitude": "7.44713000",
+      "longitude": "-80.26480000"
+    },
+    {
+      "id": 80042,
+      "name": "Cedro Arriba",
+      "latitude": "7.78097000",
+      "longitude": "-80.53057000"
+    },
+    {
+      "id": 80111,
+      "name": "Distrito de Guararé",
+      "latitude": "7.77021000",
+      "longitude": "-80.37515000"
+    },
+    {
+      "id": 80117,
+      "name": "Distrito de Las Tablas",
+      "latitude": "7.64843000",
+      "longitude": "-80.29933000"
+    },
+    {
+      "id": 80119,
+      "name": "Distrito de Los Santos",
+      "latitude": "7.88333000",
+      "longitude": "-80.45000000"
+    },
+    {
+      "id": 80120,
+      "name": "Distrito de Macaracas",
+      "latitude": "7.65817000",
+      "longitude": "-80.53526000"
+    },
+    {
+      "id": 80127,
+      "name": "Distrito de Pedasí",
+      "latitude": "7.48528000",
+      "longitude": "-80.12747000"
+    },
+    {
+      "id": 80130,
+      "name": "Distrito de Pocrí",
+      "latitude": "7.63721000",
+      "longitude": "-80.16470000"
+    },
+    {
+      "id": 80146,
+      "name": "Distrito de Tonosí",
+      "latitude": "7.43597000",
+      "longitude": "-80.45828000"
+    },
+    {
+      "id": 80151,
+      "name": "El Cacao",
+      "latitude": "7.44570000",
+      "longitude": "-80.40938000"
+    },
+    {
+      "id": 80156,
+      "name": "El Cañafístulo",
+      "latitude": "7.61768000",
+      "longitude": "-80.23322000"
+    },
+    {
+      "id": 80155,
+      "name": "El Carate",
+      "latitude": "7.73124000",
+      "longitude": "-80.29691000"
+    },
+    {
+      "id": 80161,
+      "name": "El Cocal",
+      "latitude": "7.73697000",
+      "longitude": "-80.27980000"
+    },
+    {
+      "id": 80166,
+      "name": "El Cortezo",
+      "latitude": "7.42661000",
+      "longitude": "-80.63311000"
+    },
+    {
+      "id": 80169,
+      "name": "El Ejido",
+      "latitude": "7.91634000",
+      "longitude": "-80.38686000"
+    },
+    {
+      "id": 80176,
+      "name": "El Guásimo",
+      "latitude": "7.80640000",
+      "longitude": "-80.52991000"
+    },
+    {
+      "id": 80177,
+      "name": "El Hato",
+      "latitude": "7.79316000",
+      "longitude": "-80.38267000"
+    },
+    {
+      "id": 80180,
+      "name": "El Macano",
+      "latitude": "7.68489000",
+      "longitude": "-80.40309000"
+    },
+    {
+      "id": 80181,
+      "name": "El Manantial",
+      "latitude": "7.78245000",
+      "longitude": "-80.24713000"
+    },
+    {
+      "id": 80184,
+      "name": "El Muñoz",
+      "latitude": "7.67582000",
+      "longitude": "-80.32130000"
+    },
+    {
+      "id": 80189,
+      "name": "El Pedregoso",
+      "latitude": "7.69173000",
+      "longitude": "-80.32793000"
+    },
+    {
+      "id": 80211,
+      "name": "Flores",
+      "latitude": "7.48157000",
+      "longitude": "-80.40695000"
+    },
+    {
+      "id": 80221,
+      "name": "Guararé",
+      "latitude": "7.81531000",
+      "longitude": "-80.28345000"
+    },
+    {
+      "id": 80222,
+      "name": "Guararé Arriba",
+      "latitude": "7.80023000",
+      "longitude": "-80.35983000"
+    },
+    {
+      "id": 80246,
+      "name": "La Colorada",
+      "latitude": "7.82362000",
+      "longitude": "-80.55552000"
+    },
+    {
+      "id": 80248,
+      "name": "La Enea",
+      "latitude": "7.83333000",
+      "longitude": "-80.27417000"
+    },
+    {
+      "id": 80253,
+      "name": "La Espigadilla",
+      "latitude": "7.88389000",
+      "longitude": "-80.39039000"
+    },
+    {
+      "id": 80260,
+      "name": "La Laja",
+      "latitude": "7.73102000",
+      "longitude": "-80.25298000"
+    },
+    {
+      "id": 80266,
+      "name": "La Mesa",
+      "latitude": "7.65670000",
+      "longitude": "-80.61794000"
+    },
+    {
+      "id": 80267,
+      "name": "La Miel",
+      "latitude": "7.56022000",
+      "longitude": "-80.32736000"
+    },
+    {
+      "id": 80271,
+      "name": "La Palma",
+      "latitude": "7.71667000",
+      "longitude": "-80.38333000"
+    },
+    {
+      "id": 80272,
+      "name": "La Pasera",
+      "latitude": "7.79757000",
+      "longitude": "-80.30342000"
+    },
+    {
+      "id": 80278,
+      "name": "La Tiza",
+      "latitude": "7.75110000",
+      "longitude": "-80.29216000"
+    },
+    {
+      "id": 80280,
+      "name": "La Tronosa",
+      "latitude": "7.43609000",
+      "longitude": "-80.58698000"
+    },
+    {
+      "id": 80282,
+      "name": "Lajamina",
+      "latitude": "7.58587000",
+      "longitude": "-80.13212000"
+    },
+    {
+      "id": 80287,
+      "name": "Las Cruces",
+      "latitude": "7.82285000",
+      "longitude": "-80.43003000"
+    },
+    {
+      "id": 80290,
+      "name": "Las Guabas",
+      "latitude": "7.81469000",
+      "longitude": "-80.50155000"
+    },
+    {
+      "id": 80303,
+      "name": "Las Palmas",
+      "latitude": "7.68314000",
+      "longitude": "-80.49728000"
+    },
+    {
+      "id": 80304,
+      "name": "Las Palmitas",
+      "latitude": "7.76523000",
+      "longitude": "-80.29350000"
+    },
+    {
+      "id": 80306,
+      "name": "Las Tablas",
+      "latitude": "7.76472000",
+      "longitude": "-80.27483000"
+    },
+    {
+      "id": 80307,
+      "name": "Las Trancas",
+      "latitude": "7.73400000",
+      "longitude": "-80.37384000"
+    },
+    {
+      "id": 80313,
+      "name": "Llano Abajo",
+      "latitude": "7.78598000",
+      "longitude": "-80.41060000"
+    },
+    {
+      "id": 80322,
+      "name": "Llano de Piedra",
+      "latitude": "7.65972000",
+      "longitude": "-80.56347000"
+    },
+    {
+      "id": 80319,
+      "name": "Llano Largo",
+      "latitude": "7.90607000",
+      "longitude": "-80.42561000"
+    },
+    {
+      "id": 80343,
+      "name": "Los Ángeles",
+      "latitude": "7.88422000",
+      "longitude": "-80.35772000"
+    },
+    {
+      "id": 80329,
+      "name": "Los Asientos",
+      "latitude": "7.51656000",
+      "longitude": "-80.13521000"
+    },
+    {
+      "id": 80339,
+      "name": "Los Olivos",
+      "latitude": "7.91589000",
+      "longitude": "-80.48884000"
+    },
+    {
+      "id": 80342,
+      "name": "Los Santos",
+      "latitude": "7.93333000",
+      "longitude": "-80.41667000"
+    },
+    {
+      "id": 80346,
+      "name": "Macaracas",
+      "latitude": "7.73168000",
+      "longitude": "-80.55364000"
+    },
+    {
+      "id": 80357,
+      "name": "Mogollón",
+      "latitude": "7.64261000",
+      "longitude": "-80.45950000"
+    },
+    {
+      "id": 80369,
+      "name": "Nuario",
+      "latitude": "7.53047000",
+      "longitude": "-80.32692000"
+    },
+    {
+      "id": 80385,
+      "name": "Oria Arriba",
+      "latitude": "7.50505000",
+      "longitude": "-80.20567000"
+    },
+    {
+      "id": 80390,
+      "name": "Palmira",
+      "latitude": "7.66347000",
+      "longitude": "-80.35728000"
+    },
+    {
+      "id": 80396,
+      "name": "Paraíso",
+      "latitude": "7.68510000",
+      "longitude": "-80.16082000"
+    },
+    {
+      "id": 80399,
+      "name": "Paritilla",
+      "latitude": "7.62848000",
+      "longitude": "-80.17240000"
+    },
+    {
+      "id": 80403,
+      "name": "Pedasí",
+      "latitude": "7.53034000",
+      "longitude": "-80.02699000"
+    },
+    {
+      "id": 80409,
+      "name": "Peña Blanca",
+      "latitude": "7.71931000",
+      "longitude": "-80.28366000"
+    },
+    {
+      "id": 80407,
+      "name": "Perales",
+      "latitude": "7.77461000",
+      "longitude": "-80.32494000"
+    },
+    {
+      "id": 80419,
+      "name": "Pocrí",
+      "latitude": "7.65816000",
+      "longitude": "-80.12119000"
+    },
+    {
+      "id": 80463,
+      "name": "Río Hondo",
+      "latitude": "7.71192000",
+      "longitude": "-80.35904000"
+    },
+    {
+      "id": 80468,
+      "name": "Sabana Grande",
+      "latitude": "7.83543000",
+      "longitude": "-80.36490000"
+    },
+    {
+      "id": 80481,
+      "name": "San José",
+      "latitude": "7.67395000",
+      "longitude": "-80.24438000"
+    },
+    {
+      "id": 80496,
+      "name": "Santa Ana Arriba",
+      "latitude": "7.93300000",
+      "longitude": "-80.36369000"
+    },
+    {
+      "id": 80509,
+      "name": "Santo Domingo",
+      "latitude": "7.74614000",
+      "longitude": "-80.24173000"
+    },
+    {
+      "id": 80512,
+      "name": "Sesteadero",
+      "latitude": "7.73885000",
+      "longitude": "-80.24854000"
+    },
+    {
+      "id": 80526,
+      "name": "Tonosí",
+      "latitude": "7.40684000",
+      "longitude": "-80.44217000"
+    },
+    {
+      "id": 80529,
+      "name": "Tres Quebradas",
+      "latitude": "7.84018000",
+      "longitude": "-80.40740000"
+    },
+    {
+      "id": 80536,
+      "name": "Valle Rico",
+      "latitude": "7.62011000",
+      "longitude": "-80.35076000"
+    },
+    {
+      "id": 80538,
+      "name": "Vallerriquito",
+      "latitude": "7.62163000",
+      "longitude": "-80.31975000"
+    },
+    {
+      "id": 80544,
+      "name": "Villa Lourdes",
+      "latitude": "7.81141000",
+      "longitude": "-80.47029000"
+    }
+  ],
+  "country": {
+    "id": 170,
+    "name": "Panama",
+    "iso3": "PAN",
+    "iso2": "PA",
+    "numeric_code": "591",
+    "phone_code": "507",
+    "capital": "Panama City",
+    "currency": "PAB",
+    "currency_name": "Panamanian balboa",
+    "currency_symbol": "B/.",
+    "tld": ".pa",
+    "native": "Panamá",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Panama",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "파나마",
+      "pt-BR": "Panamá",
+      "pt": "Panamá",
+      "nl": "Panama",
+      "hr": "Panama",
+      "fa": "پاناما",
+      "de": "Panama",
+      "es": "Panamá",
+      "fr": "Panama",
+      "ja": "パナマ",
+      "it": "Panama",
+      "cn": "巴拿马",
+      "tr": "Panama"
+    },
+    "latitude": "9.00000000",
+    "longitude": "-80.00000000",
+    "emoji": "🇵🇦",
+    "emojiU": "U+1F1F5 U+1F1E6"
+  }
+}

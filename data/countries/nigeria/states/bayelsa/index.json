@@ -1,0 +1,72 @@
+{
+  "id": 305,
+  "name": "Bayelsa",
+  "state_code": "BY",
+  "latitude": "4.77190710",
+  "longitude": "6.06985260",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76770,
+      "name": "Amassoma",
+      "latitude": "4.97032000",
+      "longitude": "6.10915000"
+    },
+    {
+      "id": 77116,
+      "name": "Twon-Brass",
+      "latitude": "4.31231000",
+      "longitude": "6.24091000"
+    },
+    {
+      "id": 77145,
+      "name": "Yenagoa",
+      "latitude": "4.92675000",
+      "longitude": "6.26764000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

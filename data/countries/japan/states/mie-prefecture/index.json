@@ -1,0 +1,222 @@
+{
+  "id": 833,
+  "name": "Mie Prefecture",
+  "state_code": "24",
+  "latitude": "33.81439010",
+  "longitude": "136.04870470",
+  "type": null,
+  "cities": [
+    {
+      "id": 63501,
+      "name": "Hisai-motomachi",
+      "latitude": "34.66667000",
+      "longitude": "136.46667000"
+    },
+    {
+      "id": 63546,
+      "name": "Iga-shi",
+      "latitude": "34.76855000",
+      "longitude": "136.13013000"
+    },
+    {
+      "id": 63567,
+      "name": "Inabe",
+      "latitude": "35.11344000",
+      "longitude": "136.57205000"
+    },
+    {
+      "id": 63568,
+      "name": "Inabe-shi",
+      "latitude": "35.16061000",
+      "longitude": "136.50788000"
+    },
+    {
+      "id": 63584,
+      "name": "Ise",
+      "latitude": "34.48333000",
+      "longitude": "136.70000000"
+    },
+    {
+      "id": 63585,
+      "name": "Ise-shi",
+      "latitude": "34.46740000",
+      "longitude": "136.71585000"
+    },
+    {
+      "id": 63685,
+      "name": "Kameyama",
+      "latitude": "34.85000000",
+      "longitude": "136.45000000"
+    },
+    {
+      "id": 63686,
+      "name": "Kameyama Shi",
+      "latitude": "34.86866000",
+      "longitude": "136.39345000"
+    },
+    {
+      "id": 63767,
+      "name": "Kawage",
+      "latitude": "34.80447000",
+      "longitude": "136.54645000"
+    },
+    {
+      "id": 63840,
+      "name": "Komono",
+      "latitude": "35.00000000",
+      "longitude": "136.51667000"
+    },
+    {
+      "id": 63861,
+      "name": "Kumano",
+      "latitude": "33.90389000",
+      "longitude": "136.12214000"
+    },
+    {
+      "id": 63862,
+      "name": "Kumano-shi",
+      "latitude": "33.92290000",
+      "longitude": "136.02646000"
+    },
+    {
+      "id": 63888,
+      "name": "Kuwana",
+      "latitude": "35.05192000",
+      "longitude": "136.66958000"
+    },
+    {
+      "id": 63889,
+      "name": "Kuwana-shi",
+      "latitude": "35.06176000",
+      "longitude": "136.68348000"
+    },
+    {
+      "id": 63942,
+      "name": "Matsuzaka-shi",
+      "latitude": "34.56667000",
+      "longitude": "136.53333000"
+    },
+    {
+      "id": 64057,
+      "name": "Nabari",
+      "latitude": "34.61667000",
+      "longitude": "136.08333000"
+    },
+    {
+      "id": 64058,
+      "name": "Nabari-shi",
+      "latitude": "34.62643000",
+      "longitude": "136.10825000"
+    },
+    {
+      "id": 64219,
+      "name": "Owase",
+      "latitude": "34.06667000",
+      "longitude": "136.20000000"
+    },
+    {
+      "id": 64323,
+      "name": "Shima",
+      "latitude": "34.33333000",
+      "longitude": "136.83333000"
+    },
+    {
+      "id": 64324,
+      "name": "Shima-shi",
+      "latitude": "34.33795000",
+      "longitude": "136.81336000"
+    },
+    {
+      "id": 64396,
+      "name": "Suzuka",
+      "latitude": "34.88333000",
+      "longitude": "136.58333000"
+    },
+    {
+      "id": 64397,
+      "name": "Suzuka-shi",
+      "latitude": "34.88114000",
+      "longitude": "136.58443000"
+    },
+    {
+      "id": 64485,
+      "name": "Toba",
+      "latitude": "34.48330000",
+      "longitude": "136.84186000"
+    },
+    {
+      "id": 64486,
+      "name": "Toba-shi",
+      "latitude": "34.48333000",
+      "longitude": "136.83333000"
+    },
+    {
+      "id": 64535,
+      "name": "Tsu",
+      "latitude": "34.73333000",
+      "longitude": "136.51667000"
+    },
+    {
+      "id": 64536,
+      "name": "Tsu-shi",
+      "latitude": "34.71706000",
+      "longitude": "136.50616000"
+    },
+    {
+      "id": 64581,
+      "name": "Ueno-ebisumachi",
+      "latitude": "34.75856000",
+      "longitude": "136.13108000"
+    },
+    {
+      "id": 64669,
+      "name": "Yokkaichi-shi",
+      "latitude": "34.96475000",
+      "longitude": "136.62443000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

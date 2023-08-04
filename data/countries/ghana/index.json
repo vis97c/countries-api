@@ -1,0 +1,932 @@
+{
+  "id": 83,
+  "name": "Ghana",
+  "iso3": "GHA",
+  "iso2": "GH",
+  "numeric_code": "288",
+  "phone_code": "233",
+  "capital": "Accra",
+  "currency": "GHS",
+  "currency_name": "Ghanaian cedi",
+  "currency_symbol": "GH₵",
+  "tld": ".gh",
+  "native": "Ghana",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Accra",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "kr": "가나",
+    "pt-BR": "Gana",
+    "pt": "Gana",
+    "nl": "Ghana",
+    "hr": "Gana",
+    "fa": "غنا",
+    "de": "Ghana",
+    "es": "Ghana",
+    "fr": "Ghana",
+    "ja": "ガーナ",
+    "it": "Ghana",
+    "cn": "加纳",
+    "tr": "Gana"
+  },
+  "latitude": "8.00000000",
+  "longitude": "-2.00000000",
+  "emoji": "🇬🇭",
+  "emojiU": "U+1F1EC U+1F1ED",
+  "states": [
+    {
+      "id": 53,
+      "name": "Ahafo",
+      "state_code": "AF",
+      "latitude": "7.58213720",
+      "longitude": "-2.54974630",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149070,
+          "name": "Asunafo North",
+          "latitude": "6.81968910",
+          "longitude": "-2.80770500"
+        },
+        {
+          "id": 149071,
+          "name": "Asunafo South",
+          "latitude": "6.64801380",
+          "longitude": "-2.68874370"
+        },
+        {
+          "id": 149072,
+          "name": "Asutifi North",
+          "latitude": "6.94774860",
+          "longitude": "-2.76757160"
+        },
+        {
+          "id": 149073,
+          "name": "Asutifi South",
+          "latitude": "6.64801380",
+          "longitude": "-2.68874370"
+        },
+        {
+          "id": 149069,
+          "name": "Tano North",
+          "latitude": "7.22603010",
+          "longitude": "-2.30456560"
+        },
+        {
+          "id": 149068,
+          "name": "Tano South",
+          "latitude": "7.19537930",
+          "longitude": "-2.12586610"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Ashanti",
+      "state_code": "AH",
+      "latitude": "6.74704360",
+      "longitude": "-1.52086240",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52151,
+          "name": "Agogo",
+          "latitude": "6.80004000",
+          "longitude": "-1.08193000"
+        },
+        {
+          "id": 52164,
+          "name": "Bekwai",
+          "latitude": "6.45195000",
+          "longitude": "-1.57866000"
+        },
+        {
+          "id": 52172,
+          "name": "Ejura",
+          "latitude": "7.38558000",
+          "longitude": "-1.35617000"
+        },
+        {
+          "id": 52185,
+          "name": "Konongo",
+          "latitude": "6.61667000",
+          "longitude": "-1.21667000"
+        },
+        {
+          "id": 52188,
+          "name": "Kumasi",
+          "latitude": "6.68848000",
+          "longitude": "-1.62443000"
+        },
+        {
+          "id": 52189,
+          "name": "Mampong",
+          "latitude": "7.06273000",
+          "longitude": "-1.40010000"
+        },
+        {
+          "id": 52196,
+          "name": "Obuase",
+          "latitude": "6.20228000",
+          "longitude": "-1.66796000"
+        },
+        {
+          "id": 52206,
+          "name": "Tafo",
+          "latitude": "6.73156000",
+          "longitude": "-1.61370000"
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "name": "Bono",
+      "state_code": "BO",
+      "latitude": "7.65000000",
+      "longitude": "-2.50000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149086,
+          "name": "Banda",
+          "latitude": "8.14956710",
+          "longitude": "-2.36639500"
+        },
+        {
+          "id": 149087,
+          "name": "Berekum East",
+          "latitude": "7.51117580",
+          "longitude": "-2.75998310"
+        },
+        {
+          "id": 149088,
+          "name": "Berekum West",
+          "latitude": "7.51117580",
+          "longitude": "-2.75998310"
+        },
+        {
+          "id": 149089,
+          "name": "Dormaa Central",
+          "latitude": "7.27750000",
+          "longitude": "-2.87833300"
+        },
+        {
+          "id": 149090,
+          "name": "Dormaa East",
+          "latitude": "7.30000000",
+          "longitude": "-2.70000000"
+        },
+        {
+          "id": 149091,
+          "name": "Dormaa West",
+          "latitude": "7.01666700",
+          "longitude": "-3.05000000"
+        },
+        {
+          "id": 149092,
+          "name": "Jaman North",
+          "latitude": "7.98832340",
+          "longitude": "-2.96858690"
+        },
+        {
+          "id": 149093,
+          "name": "Jaman South",
+          "latitude": "7.70843750",
+          "longitude": "-3.07501700"
+        },
+        {
+          "id": 149094,
+          "name": "Sunyani",
+          "latitude": "7.33803320",
+          "longitude": "-2.34871460"
+        },
+        {
+          "id": 149095,
+          "name": "Sunyani West",
+          "latitude": "7.35660520",
+          "longitude": "-2.44618620"
+        },
+        {
+          "id": 149096,
+          "name": "Tain",
+          "latitude": "8.18114110",
+          "longitude": "-2.86487620"
+        },
+        {
+          "id": 149097,
+          "name": "Wenchi",
+          "latitude": "7.74059920",
+          "longitude": "-2.12267880"
+        }
+      ]
+    },
+    {
+      "id": 4958,
+      "name": "Bono East",
+      "state_code": "BE",
+      "latitude": "7.75000000",
+      "longitude": "-1.05000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149076,
+          "name": "Atebubu-Amantin",
+          "latitude": "7.70237000",
+          "longitude": "-1.21979430"
+        },
+        {
+          "id": 149077,
+          "name": "Kintampo North",
+          "latitude": "8.39635790",
+          "longitude": "-1.82000070"
+        },
+        {
+          "id": 149078,
+          "name": "Kintampo South",
+          "latitude": "7.98971320",
+          "longitude": "-2.00711150"
+        },
+        {
+          "id": 149079,
+          "name": "Nkoranza North",
+          "latitude": "7.56603310",
+          "longitude": "-1.72365200"
+        },
+        {
+          "id": 149080,
+          "name": "Nkoranza South",
+          "latitude": "7.62405120",
+          "longitude": "-1.79974460"
+        },
+        {
+          "id": 149082,
+          "name": "Pru East",
+          "latitude": "8.22620000",
+          "longitude": "-0.65360000"
+        },
+        {
+          "id": 149081,
+          "name": "Pru West",
+          "latitude": "8.07359930",
+          "longitude": "-1.29055410"
+        },
+        {
+          "id": 149083,
+          "name": "Sene East",
+          "latitude": "7.78300000",
+          "longitude": "-0.21700000"
+        },
+        {
+          "id": 149084,
+          "name": "Sene West",
+          "latitude": "7.73420000",
+          "longitude": "-0.68180000"
+        },
+        {
+          "id": 149074,
+          "name": "Techiman",
+          "latitude": "7.58968560",
+          "longitude": "-1.95122140"
+        },
+        {
+          "id": 149075,
+          "name": "Techiman North",
+          "latitude": "7.70428020",
+          "longitude": "-2.08140570"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Central",
+      "state_code": "CP",
+      "latitude": "5.50000000",
+      "longitude": "-1.00000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52157,
+          "name": "Apam",
+          "latitude": "5.28483000",
+          "longitude": "-0.73711000"
+        },
+        {
+          "id": 52168,
+          "name": "Cape Coast",
+          "latitude": "5.10535000",
+          "longitude": "-1.24660000"
+        },
+        {
+          "id": 52171,
+          "name": "Dunkwa",
+          "latitude": "5.95996000",
+          "longitude": "-1.77792000"
+        },
+        {
+          "id": 52173,
+          "name": "Elmina",
+          "latitude": "5.08470000",
+          "longitude": "-1.35093000"
+        },
+        {
+          "id": 52174,
+          "name": "Foso",
+          "latitude": "5.70119000",
+          "longitude": "-1.28657000"
+        },
+        {
+          "id": 52179,
+          "name": "Kasoa",
+          "latitude": "5.53449000",
+          "longitude": "-0.41679000"
+        },
+        {
+          "id": 52192,
+          "name": "Mumford",
+          "latitude": "5.26176000",
+          "longitude": "-0.75897000"
+        },
+        {
+          "id": 52199,
+          "name": "Saltpond",
+          "latitude": "5.20913000",
+          "longitude": "-1.06058000"
+        },
+        {
+          "id": 52205,
+          "name": "Swedru",
+          "latitude": "5.53711000",
+          "longitude": "-0.69984000"
+        },
+        {
+          "id": 52215,
+          "name": "Winneba",
+          "latitude": "5.35113000",
+          "longitude": "-0.62313000"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Eastern",
+      "state_code": "EP",
+      "latitude": "6.50000000",
+      "longitude": "-0.50000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52148,
+          "name": "Aburi",
+          "latitude": "5.84802000",
+          "longitude": "-0.17449000"
+        },
+        {
+          "id": 52152,
+          "name": "Akim Oda",
+          "latitude": "5.92665000",
+          "longitude": "-0.98577000"
+        },
+        {
+          "id": 52153,
+          "name": "Akim Swedru",
+          "latitude": "5.89380000",
+          "longitude": "-1.01636000"
+        },
+        {
+          "id": 52154,
+          "name": "Akropong",
+          "latitude": "5.97462000",
+          "longitude": "-0.08542000"
+        },
+        {
+          "id": 52155,
+          "name": "Akwatia",
+          "latitude": "6.04024000",
+          "longitude": "-0.80876000"
+        },
+        {
+          "id": 52158,
+          "name": "Asamankese",
+          "latitude": "5.86006000",
+          "longitude": "-0.66350000"
+        },
+        {
+          "id": 52163,
+          "name": "Begoro",
+          "latitude": "6.38706000",
+          "longitude": "-0.37738000"
+        },
+        {
+          "id": 52182,
+          "name": "Kibi",
+          "latitude": "6.16494000",
+          "longitude": "-0.55376000"
+        },
+        {
+          "id": 52184,
+          "name": "Koforidua",
+          "latitude": "6.09408000",
+          "longitude": "-0.25913000"
+        },
+        {
+          "id": 52191,
+          "name": "Mpraeso",
+          "latitude": "6.59321000",
+          "longitude": "-0.73462000"
+        },
+        {
+          "id": 52194,
+          "name": "Nsawam",
+          "latitude": "5.80893000",
+          "longitude": "-0.35026000"
+        },
+        {
+          "id": 52203,
+          "name": "Suhum",
+          "latitude": "6.04089000",
+          "longitude": "-0.45004000"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Greater Accra",
+      "state_code": "AA",
+      "latitude": "5.81428360",
+      "longitude": "0.07467670",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52149,
+          "name": "Accra",
+          "latitude": "5.55602000",
+          "longitude": "-0.19690000"
+        },
+        {
+          "id": 52159,
+          "name": "Atsiaman",
+          "latitude": "5.69775000",
+          "longitude": "-0.32824000"
+        },
+        {
+          "id": 52169,
+          "name": "Dome",
+          "latitude": "5.65003000",
+          "longitude": "-0.23610000"
+        },
+        {
+          "id": 52175,
+          "name": "Gbawe",
+          "latitude": "5.57692000",
+          "longitude": "-0.31038000"
+        },
+        {
+          "id": 52190,
+          "name": "Medina Estates",
+          "latitude": "5.66580000",
+          "longitude": "-0.16307000"
+        },
+        {
+          "id": 52195,
+          "name": "Nungua",
+          "latitude": "5.60105000",
+          "longitude": "-0.07713000"
+        },
+        {
+          "id": 52211,
+          "name": "Tema",
+          "latitude": "5.66980000",
+          "longitude": "-0.01657000"
+        },
+        {
+          "id": 52212,
+          "name": "Teshi Old Town",
+          "latitude": "5.58365000",
+          "longitude": "-0.10722000"
+        }
+      ]
+    },
+    {
+      "id": 4960,
+      "name": "North East",
+      "state_code": "NE",
+      "latitude": "10.51666700",
+      "longitude": "-0.36666700",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149098,
+          "name": "Bunkpurugu-Nyakpanduri",
+          "latitude": "10.46609170",
+          "longitude": "-0.22711950"
+        },
+        {
+          "id": 149099,
+          "name": "Chereponi",
+          "latitude": "10.13827720",
+          "longitude": "0.28242580"
+        },
+        {
+          "id": 149100,
+          "name": "East Mamprusi",
+          "latitude": "10.42931860",
+          "longitude": "-0.53078850"
+        },
+        {
+          "id": 149101,
+          "name": "Mamprugu-Moagduri",
+          "latitude": "10.23290000",
+          "longitude": "-1.28360000"
+        },
+        {
+          "id": 149102,
+          "name": "West Mamprusi",
+          "latitude": "10.29906060",
+          "longitude": "-1.36750100"
+        },
+        {
+          "id": 149103,
+          "name": "Yunyoo-Nasuan",
+          "latitude": "10.48400000",
+          "longitude": "-0.00900000"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Northern",
+      "state_code": "NP",
+      "latitude": "9.50000000",
+      "longitude": "-1.00000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52186,
+          "name": "Kpandae",
+          "latitude": "8.46885000",
+          "longitude": "-0.01127000"
+        },
+        {
+          "id": 52198,
+          "name": "Salaga",
+          "latitude": "8.55083000",
+          "longitude": "-0.51875000"
+        },
+        {
+          "id": 52200,
+          "name": "Savelugu",
+          "latitude": "9.62441000",
+          "longitude": "-0.82530000"
+        },
+        {
+          "id": 52208,
+          "name": "Tamale",
+          "latitude": "9.40079000",
+          "longitude": "-0.83930000"
+        },
+        {
+          "id": 52216,
+          "name": "Yendi",
+          "latitude": "9.44272000",
+          "longitude": "-0.00991000"
+        }
+      ]
+    },
+    {
+      "id": 4961,
+      "name": "Oti",
+      "state_code": "OT",
+      "latitude": "7.90000000",
+      "longitude": "0.30000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149104,
+          "name": "Biakoye",
+          "latitude": "7.11698690",
+          "longitude": "0.32324300"
+        },
+        {
+          "id": 149105,
+          "name": "Jasikan",
+          "latitude": "7.40940880",
+          "longitude": "0.44301500"
+        },
+        {
+          "id": 149106,
+          "name": "Kadjebi",
+          "latitude": "7.52631920",
+          "longitude": "0.46704770"
+        },
+        {
+          "id": 149107,
+          "name": "Krachi East",
+          "latitude": "7.77196980",
+          "longitude": "-0.07763760"
+        },
+        {
+          "id": 149108,
+          "name": "Krachi Nchumuru",
+          "latitude": "8.14849800",
+          "longitude": "-0.16349880"
+        },
+        {
+          "id": 149109,
+          "name": "Krachi West",
+          "latitude": "7.98282160",
+          "longitude": "-0.34886270"
+        },
+        {
+          "id": 149110,
+          "name": "Nkwanta North",
+          "latitude": "8.35180760",
+          "longitude": "0.12217620"
+        },
+        {
+          "id": 149111,
+          "name": "Nkwanta South",
+          "latitude": "8.25931340",
+          "longitude": "0.50185190"
+        }
+      ]
+    },
+    {
+      "id": 4962,
+      "name": "Savannah",
+      "state_code": "SV",
+      "latitude": "9.08333300",
+      "longitude": "-1.81666700",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149112,
+          "name": "Bole",
+          "latitude": "9.02996640",
+          "longitude": "-2.50694300"
+        },
+        {
+          "id": 149113,
+          "name": "Central Gonja",
+          "latitude": "8.92784320",
+          "longitude": "-1.95369720"
+        },
+        {
+          "id": 149115,
+          "name": "East Gonja",
+          "latitude": "8.72568400",
+          "longitude": "-1.07135790"
+        },
+        {
+          "id": 149116,
+          "name": "North East Gonja",
+          "latitude": "9.11746690",
+          "longitude": "-0.55579360"
+        },
+        {
+          "id": 149114,
+          "name": "North Gonja",
+          "latitude": "9.54130850",
+          "longitude": "-1.39766920"
+        },
+        {
+          "id": 149117,
+          "name": "Sawla-Tuna-Kalba",
+          "latitude": "9.39114570",
+          "longitude": "-2.70611660"
+        },
+        {
+          "id": 149118,
+          "name": "West Gonja",
+          "latitude": "9.57513170",
+          "longitude": "-2.26440410"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Upper East",
+      "state_code": "UE",
+      "latitude": "10.70824990",
+      "longitude": "-0.98206680",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52161,
+          "name": "Bawku",
+          "latitude": "11.06160000",
+          "longitude": "-0.24169000"
+        },
+        {
+          "id": 52167,
+          "name": "Bolgatanga",
+          "latitude": "10.78556000",
+          "longitude": "-0.85139000"
+        },
+        {
+          "id": 52193,
+          "name": "Navrongo",
+          "latitude": "10.89557000",
+          "longitude": "-1.09210000"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Upper West",
+      "state_code": "UW",
+      "latitude": "10.25297570",
+      "longitude": "-2.14502450",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52213,
+          "name": "Wa",
+          "latitude": "10.06069000",
+          "longitude": "-2.50192000"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Volta",
+      "state_code": "TV",
+      "latitude": "6.57813730",
+      "longitude": "0.45023680",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52150,
+          "name": "Aflao",
+          "latitude": "6.11982000",
+          "longitude": "1.19012000"
+        },
+        {
+          "id": 52156,
+          "name": "Anloga",
+          "latitude": "5.79473000",
+          "longitude": "0.89728000"
+        },
+        {
+          "id": 52176,
+          "name": "Ho",
+          "latitude": "6.60084000",
+          "longitude": "0.47130000"
+        },
+        {
+          "id": 52177,
+          "name": "Hohoe",
+          "latitude": "7.15181000",
+          "longitude": "0.47362000"
+        },
+        {
+          "id": 52180,
+          "name": "Keta",
+          "latitude": "5.91793000",
+          "longitude": "0.98789000"
+        },
+        {
+          "id": 52181,
+          "name": "Kete Krachi",
+          "latitude": "7.79391000",
+          "longitude": "-0.04980000"
+        },
+        {
+          "id": 52187,
+          "name": "Kpandu",
+          "latitude": "6.99536000",
+          "longitude": "0.29306000"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Western",
+      "state_code": "WP",
+      "latitude": "5.50000000",
+      "longitude": "-2.50000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 52147,
+          "name": "Aboso",
+          "latitude": "5.36073000",
+          "longitude": "-1.94856000"
+        },
+        {
+          "id": 52160,
+          "name": "Axim",
+          "latitude": "4.86641000",
+          "longitude": "-2.24181000"
+        },
+        {
+          "id": 52166,
+          "name": "Bibiani",
+          "latitude": "6.46346000",
+          "longitude": "-2.31938000"
+        },
+        {
+          "id": 52197,
+          "name": "Prestea",
+          "latitude": "5.43385000",
+          "longitude": "-2.14295000"
+        },
+        {
+          "id": 52201,
+          "name": "Sekondi-Takoradi",
+          "latitude": "4.92678000",
+          "longitude": "-1.75773000"
+        },
+        {
+          "id": 52202,
+          "name": "Shama Junction",
+          "latitude": "5.01806000",
+          "longitude": "-1.66437000"
+        },
+        {
+          "id": 52207,
+          "name": "Takoradi",
+          "latitude": "4.89816000",
+          "longitude": "-1.76029000"
+        },
+        {
+          "id": 52209,
+          "name": "Tarkwa",
+          "latitude": "5.30383000",
+          "longitude": "-1.98956000"
+        }
+      ]
+    },
+    {
+      "id": 4963,
+      "name": "Western North",
+      "state_code": "WN",
+      "latitude": "6.30000000",
+      "longitude": "-2.80000000",
+      "type": "region",
+      "cities": [
+        {
+          "id": 149119,
+          "name": "Aowin",
+          "latitude": "5.75309280",
+          "longitude": "-3.07518870"
+        },
+        {
+          "id": 149120,
+          "name": "Bia East",
+          "latitude": "6.76860400",
+          "longitude": "-3.33302410"
+        },
+        {
+          "id": 149121,
+          "name": "Bia West",
+          "latitude": "6.76860400",
+          "longitude": "-3.33302410"
+        },
+        {
+          "id": 149122,
+          "name": "Bibiani-Anhwiaso-Bekwai",
+          "latitude": "6.30210040",
+          "longitude": "-2.35675070"
+        },
+        {
+          "id": 149123,
+          "name": "Bodi",
+          "latitude": "6.22240910",
+          "longitude": "-2.76615150"
+        },
+        {
+          "id": 149124,
+          "name": "Juaboso",
+          "latitude": "6.33331570",
+          "longitude": "-2.84206140"
+        },
+        {
+          "id": 149125,
+          "name": "Sefwi-Akontombra",
+          "latitude": "6.04285480",
+          "longitude": "-2.88133620"
+        },
+        {
+          "id": 149126,
+          "name": "Sefwi-Wiawso",
+          "latitude": "6.21965670",
+          "longitude": "-2.50059150"
+        },
+        {
+          "id": 149127,
+          "name": "Suaman",
+          "latitude": "5.75309280",
+          "longitude": "-3.07518870"
+        }
+      ]
+    }
+  ]
+}

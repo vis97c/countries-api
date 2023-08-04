@@ -1,0 +1,90 @@
+{
+  "id": 2223,
+  "name": "Karabük",
+  "state_code": "78",
+  "latitude": "41.18748900",
+  "longitude": "32.74174190",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107554,
+      "name": "Eflani",
+      "latitude": "41.42289000",
+      "longitude": "32.95761000"
+    },
+    {
+      "id": 107607,
+      "name": "Eskipazar",
+      "latitude": "40.95207000",
+      "longitude": "32.54604000"
+    },
+    {
+      "id": 107889,
+      "name": "Merkez",
+      "latitude": "41.20488000",
+      "longitude": "32.62768000"
+    },
+    {
+      "id": 108299,
+      "name": "Ovacık",
+      "latitude": "41.08029000",
+      "longitude": "32.93224000"
+    },
+    {
+      "id": 108372,
+      "name": "Safranbolu",
+      "latitude": "41.25083000",
+      "longitude": "32.69417000"
+    },
+    {
+      "id": 108693,
+      "name": "Yenice",
+      "latitude": "41.19962000",
+      "longitude": "32.33133000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

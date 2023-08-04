@@ -1,0 +1,311 @@
+{
+  "id": 3635,
+  "name": "Santiago del Estero",
+  "state_code": "G",
+  "latitude": "-27.78335740",
+  "longitude": "-64.26416700",
+  "type": "province",
+  "cities": [
+    {
+      "id": 679,
+      "name": "Añatuya",
+      "latitude": "-28.46064000",
+      "longitude": "-62.83472000"
+    },
+    {
+      "id": 691,
+      "name": "Beltrán",
+      "latitude": "-27.82913000",
+      "longitude": "-64.06098000"
+    },
+    {
+      "id": 717,
+      "name": "Campo Gallo",
+      "latitude": "-26.58333000",
+      "longitude": "-62.85000000"
+    },
+    {
+      "id": 771,
+      "name": "Clodomira",
+      "latitude": "-27.57440000",
+      "longitude": "-64.13108000"
+    },
+    {
+      "id": 777,
+      "name": "Colonia Dora",
+      "latitude": "-28.60000000",
+      "longitude": "-62.95000000"
+    },
+    {
+      "id": 820,
+      "name": "Departamento de Aguirre",
+      "latitude": "-29.33333000",
+      "longitude": "-62.50000000"
+    },
+    {
+      "id": 834,
+      "name": "Departamento de Banda",
+      "latitude": "-27.50000000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 861,
+      "name": "Departamento de Choya",
+      "latitude": "-28.75000000",
+      "longitude": "-64.75000000"
+    },
+    {
+      "id": 904,
+      "name": "Departamento de Guasayán",
+      "latitude": "-28.00000000",
+      "longitude": "-64.83333000"
+    },
+    {
+      "id": 930,
+      "name": "Departamento de Loreto",
+      "latitude": "-28.55000000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 948,
+      "name": "Departamento de Moreno",
+      "latitude": "-27.33333000",
+      "longitude": "-62.50000000"
+    },
+    {
+      "id": 975,
+      "name": "Departamento de Río Hondo",
+      "latitude": "-27.58333000",
+      "longitude": "-64.75000000"
+    },
+    {
+      "id": 969,
+      "name": "Departamento de Robles",
+      "latitude": "-27.83333000",
+      "longitude": "-63.91667000"
+    },
+    {
+      "id": 997,
+      "name": "Departamento de San Martín",
+      "latitude": "-28.16667000",
+      "longitude": "-63.83333000"
+    },
+    {
+      "id": 1011,
+      "name": "Departamento de Sarmiento",
+      "latitude": "-28.08333000",
+      "longitude": "-63.41667000"
+    },
+    {
+      "id": 1056,
+      "name": "El Hoyo",
+      "latitude": "-27.02872000",
+      "longitude": "-63.23197000"
+    },
+    {
+      "id": 1176,
+      "name": "La Banda",
+      "latitude": "-27.73348000",
+      "longitude": "-64.24278000"
+    },
+    {
+      "id": 1251,
+      "name": "Los Juríes",
+      "latitude": "-28.46539000",
+      "longitude": "-62.10862000"
+    },
+    {
+      "id": 1255,
+      "name": "Los Telares",
+      "latitude": "-28.98479000",
+      "longitude": "-63.44889000"
+    },
+    {
+      "id": 1315,
+      "name": "Pampa de los Guanacos",
+      "latitude": "-26.23002000",
+      "longitude": "-61.83774000"
+    },
+    {
+      "id": 1369,
+      "name": "Quimilí",
+      "latitude": "-27.64615000",
+      "longitude": "-62.41655000"
+    },
+    {
+      "id": 1445,
+      "name": "San Pedro",
+      "latitude": "-27.95386000",
+      "longitude": "-65.16651000"
+    },
+    {
+      "id": 1473,
+      "name": "Santiago del Estero",
+      "latitude": "-27.79511000",
+      "longitude": "-64.26149000"
+    },
+    {
+      "id": 1489,
+      "name": "Sumampa",
+      "latitude": "-29.38470000",
+      "longitude": "-63.46907000"
+    },
+    {
+      "id": 1491,
+      "name": "Suncho Corral",
+      "latitude": "-27.93357000",
+      "longitude": "-63.42938000"
+    },
+    {
+      "id": 1501,
+      "name": "Termas de Río Hondo",
+      "latitude": "-27.49362000",
+      "longitude": "-64.85972000"
+    },
+    {
+      "id": 1506,
+      "name": "Tintina",
+      "latitude": "-27.02687000",
+      "longitude": "-62.70643000"
+    },
+    {
+      "id": 1539,
+      "name": "Villa Atamisqui",
+      "latitude": "-28.49609000",
+      "longitude": "-63.81609000"
+    },
+    {
+      "id": 1554,
+      "name": "Villa General Mitre",
+      "latitude": "-29.14310000",
+      "longitude": "-62.65248000"
+    },
+    {
+      "id": 1569,
+      "name": "Villa Ojo de Agua",
+      "latitude": "-29.50003000",
+      "longitude": "-63.69377000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

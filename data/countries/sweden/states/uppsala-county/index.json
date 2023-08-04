@@ -1,0 +1,246 @@
+{
+  "id": 1545,
+  "name": "Uppsala County",
+  "state_code": "C",
+  "latitude": "60.00922620",
+  "longitude": "17.27145880",
+  "type": null,
+  "cities": [
+    {
+      "id": 102993,
+      "name": "Alsike",
+      "latitude": "59.75324000",
+      "longitude": "17.77331000"
+    },
+    {
+      "id": 102994,
+      "name": "Alunda",
+      "latitude": "60.26667000",
+      "longitude": "18.40000000"
+    },
+    {
+      "id": 103991,
+      "name": "Älvkarleby",
+      "latitude": "60.57081000",
+      "longitude": "17.44895000"
+    },
+    {
+      "id": 103005,
+      "name": "Anneberg",
+      "latitude": "60.24167000",
+      "longitude": "18.41667000"
+    },
+    {
+      "id": 103102,
+      "name": "Bälinge",
+      "latitude": "59.95000000",
+      "longitude": "17.53333000"
+    },
+    {
+      "id": 103103,
+      "name": "Bålsta",
+      "latitude": "59.56710000",
+      "longitude": "17.52781000"
+    },
+    {
+      "id": 103053,
+      "name": "Björklinge",
+      "latitude": "60.03004000",
+      "longitude": "17.55203000"
+    },
+    {
+      "id": 103145,
+      "name": "Enköping",
+      "latitude": "59.63607000",
+      "longitude": "17.07768000"
+    },
+    {
+      "id": 103200,
+      "name": "Gamla Uppsala",
+      "latitude": "59.89817000",
+      "longitude": "17.63386000"
+    },
+    {
+      "id": 103208,
+      "name": "Gimo",
+      "latitude": "60.17304000",
+      "longitude": "18.18507000"
+    },
+    {
+      "id": 103222,
+      "name": "Grillby",
+      "latitude": "59.62603000",
+      "longitude": "17.25787000"
+    },
+    {
+      "id": 103272,
+      "name": "Heby",
+      "latitude": "59.93815000",
+      "longitude": "16.86217000"
+    },
+    {
+      "id": 103350,
+      "name": "Irsta",
+      "latitude": "59.70000000",
+      "longitude": "16.93333000"
+    },
+    {
+      "id": 103374,
+      "name": "Karlholmsbruk",
+      "latitude": "60.52091000",
+      "longitude": "17.63152000"
+    },
+    {
+      "id": 103403,
+      "name": "Knivsta",
+      "latitude": "59.72564000",
+      "longitude": "17.78753000"
+    },
+    {
+      "id": 103511,
+      "name": "Lövstalöt",
+      "latitude": "59.95740000",
+      "longitude": "17.57826000"
+    },
+    {
+      "id": 103524,
+      "name": "Marieberg",
+      "latitude": "60.23333000",
+      "longitude": "18.50000000"
+    },
+    {
+      "id": 103547,
+      "name": "Morgongåva",
+      "latitude": "59.93395000",
+      "longitude": "16.96353000"
+    },
+    {
+      "id": 104033,
+      "name": "Örbyhus",
+      "latitude": "60.22407000",
+      "longitude": "17.70138000"
+    },
+    {
+      "id": 104036,
+      "name": "Öregrund",
+      "latitude": "60.33333000",
+      "longitude": "18.43333000"
+    },
+    {
+      "id": 104041,
+      "name": "Örsundsbro",
+      "latitude": "59.73333000",
+      "longitude": "17.30000000"
+    },
+    {
+      "id": 104043,
+      "name": "Österbybruk",
+      "latitude": "60.20000000",
+      "longitude": "17.90000000"
+    },
+    {
+      "id": 104046,
+      "name": "Östervåla",
+      "latitude": "60.18333000",
+      "longitude": "17.18333000"
+    },
+    {
+      "id": 104048,
+      "name": "Östhammar",
+      "latitude": "60.25909000",
+      "longitude": "18.37408000"
+    },
+    {
+      "id": 103813,
+      "name": "Sävja",
+      "latitude": "59.81872000",
+      "longitude": "17.69958000"
+    },
+    {
+      "id": 103716,
+      "name": "Skutskär",
+      "latitude": "60.62507000",
+      "longitude": "17.41552000"
+    },
+    {
+      "id": 103817,
+      "name": "Söderfors",
+      "latitude": "60.38333000",
+      "longitude": "17.23333000"
+    },
+    {
+      "id": 103769,
+      "name": "Storvreta",
+      "latitude": "59.95933000",
+      "longitude": "17.70588000"
+    },
+    {
+      "id": 103889,
+      "name": "Tärnsjö",
+      "latitude": "60.15000000",
+      "longitude": "16.93333000"
+    },
+    {
+      "id": 103846,
+      "name": "Tierp",
+      "latitude": "60.34269000",
+      "longitude": "17.51812000"
+    },
+    {
+      "id": 103903,
+      "name": "Uppsala",
+      "latitude": "59.85882000",
+      "longitude": "17.63889000"
+    },
+    {
+      "id": 103928,
+      "name": "Vattholma",
+      "latitude": "60.01667000",
+      "longitude": "17.73333000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

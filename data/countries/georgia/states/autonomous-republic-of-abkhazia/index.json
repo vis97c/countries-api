@@ -1,0 +1,126 @@
+{
+  "id": 901,
+  "name": "Autonomous Republic of Abkhazia",
+  "state_code": "AB",
+  "latitude": "43.00155440",
+  "longitude": "41.02340700",
+  "type": null,
+  "cities": [
+    {
+      "id": 52054,
+      "name": "Bich’vinta",
+      "latitude": "43.16197000",
+      "longitude": "40.34102000"
+    },
+    {
+      "id": 52063,
+      "name": "Dranda",
+      "latitude": "42.87167000",
+      "longitude": "41.15333000"
+    },
+    {
+      "id": 52065,
+      "name": "Gagra",
+      "latitude": "43.27858000",
+      "longitude": "40.27124000"
+    },
+    {
+      "id": 52066,
+      "name": "Gali",
+      "latitude": "42.62655000",
+      "longitude": "41.73808000"
+    },
+    {
+      "id": 52067,
+      "name": "Gantiadi",
+      "latitude": "43.38111000",
+      "longitude": "40.07944000"
+    },
+    {
+      "id": 52073,
+      "name": "Gudauta",
+      "latitude": "43.10547000",
+      "longitude": "40.62067000"
+    },
+    {
+      "id": 52078,
+      "name": "Kelasuri",
+      "latitude": "42.97877000",
+      "longitude": "41.07067000"
+    },
+    {
+      "id": 52105,
+      "name": "Och’amch’ire",
+      "latitude": "42.71232000",
+      "longitude": "41.46863000"
+    },
+    {
+      "id": 52111,
+      "name": "P’rimorsk’oe",
+      "latitude": "43.09236000",
+      "longitude": "40.69650000"
+    },
+    {
+      "id": 52122,
+      "name": "Sokhumi",
+      "latitude": "43.00697000",
+      "longitude": "40.98930000"
+    },
+    {
+      "id": 52123,
+      "name": "Stantsiya Novyy Afon",
+      "latitude": "43.08056000",
+      "longitude": "40.83833000"
+    },
+    {
+      "id": 52130,
+      "name": "Tqvarch'eli",
+      "latitude": "42.84035000",
+      "longitude": "41.68007000"
+    }
+  ],
+  "country": {
+    "id": 81,
+    "name": "Georgia",
+    "iso3": "GEO",
+    "iso2": "GE",
+    "numeric_code": "268",
+    "phone_code": "995",
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "currency_name": "Georgian lari",
+    "currency_symbol": "ლ",
+    "tld": ".ge",
+    "native": "საქართველო",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tbilisi",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GET",
+        "tzName": "Georgia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조지아",
+      "pt-BR": "Geórgia",
+      "pt": "Geórgia",
+      "nl": "Georgië",
+      "hr": "Gruzija",
+      "fa": "گرجستان",
+      "de": "Georgien",
+      "es": "Georgia",
+      "fr": "Géorgie",
+      "ja": "グルジア",
+      "it": "Georgia",
+      "cn": "格鲁吉亚",
+      "tr": "Gürcistan"
+    },
+    "latitude": "42.00000000",
+    "longitude": "43.50000000",
+    "emoji": "🇬🇪",
+    "emojiU": "U+1F1EC U+1F1EA"
+  }
+}

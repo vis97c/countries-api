@@ -1,0 +1,78 @@
+{
+  "id": 1124,
+  "name": "Mascara",
+  "state_code": "29",
+  "latitude": "35.39041250",
+  "longitude": "0.14949880",
+  "type": null,
+  "cities": [
+    {
+      "id": 31282,
+      "name": "Bou Hanifia el Hamamat",
+      "latitude": "35.31473000",
+      "longitude": "-0.05037000"
+    },
+    {
+      "id": 31375,
+      "name": "Mascara",
+      "latitude": "35.39664000",
+      "longitude": "0.14027000"
+    },
+    {
+      "id": 31400,
+      "name": "Oued el Abtal",
+      "latitude": "35.45595000",
+      "longitude": "0.68778000"
+    },
+    {
+      "id": 31433,
+      "name": "Sig",
+      "latitude": "35.52832000",
+      "longitude": "-0.19369000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

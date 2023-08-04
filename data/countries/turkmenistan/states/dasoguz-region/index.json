@@ -1,0 +1,90 @@
+{
+  "id": 3373,
+  "name": "Daşoguz Region",
+  "state_code": "D",
+  "latitude": "41.83687370",
+  "longitude": "59.96519040",
+  "type": null,
+  "cities": [
+    {
+      "id": 106881,
+      "name": "Akdepe",
+      "latitude": "42.05513000",
+      "longitude": "59.37877000"
+    },
+    {
+      "id": 106890,
+      "name": "Boldumsaz",
+      "latitude": "42.12824000",
+      "longitude": "59.67101000"
+    },
+    {
+      "id": 106891,
+      "name": "Daşoguz",
+      "latitude": "41.83625000",
+      "longitude": "59.96661000"
+    },
+    {
+      "id": 106897,
+      "name": "Köneürgench",
+      "latitude": "42.32773000",
+      "longitude": "59.15442000"
+    },
+    {
+      "id": 106904,
+      "name": "Tagta",
+      "latitude": "41.65041000",
+      "longitude": "59.91640000"
+    },
+    {
+      "id": 106909,
+      "name": "Yylanly",
+      "latitude": "41.83333000",
+      "longitude": "59.65000000"
+    }
+  ],
+  "country": {
+    "id": 226,
+    "name": "Turkmenistan",
+    "iso3": "TKM",
+    "iso2": "TM",
+    "numeric_code": "795",
+    "phone_code": "993",
+    "capital": "Ashgabat",
+    "currency": "TMT",
+    "currency_name": "Turkmenistan manat",
+    "currency_symbol": "T",
+    "tld": ".tm",
+    "native": "Türkmenistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ashgabat",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TMT",
+        "tzName": "Turkmenistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "투르크메니스탄",
+      "pt-BR": "Turcomenistão",
+      "pt": "Turquemenistão",
+      "nl": "Turkmenistan",
+      "hr": "Turkmenistan",
+      "fa": "ترکمنستان",
+      "de": "Turkmenistan",
+      "es": "Turkmenistán",
+      "fr": "Turkménistan",
+      "ja": "トルクメニスタン",
+      "it": "Turkmenistan",
+      "cn": "土库曼斯坦",
+      "tr": "Türkmenistan"
+    },
+    "latitude": "40.00000000",
+    "longitude": "60.00000000",
+    "emoji": "🇹🇲",
+    "emojiU": "U+1F1F9 U+1F1F2"
+  }
+}

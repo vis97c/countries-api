@@ -1,0 +1,138 @@
+{
+  "id": 621,
+  "name": "Gjirokastër District",
+  "state_code": "GJ",
+  "latitude": "40.06728740",
+  "longitude": "20.10452290",
+  "type": null,
+  "cities": [
+    {
+      "id": 158,
+      "name": "Bashkia Dropull",
+      "latitude": "39.98584000",
+      "longitude": "20.30529000"
+    },
+    {
+      "id": 164,
+      "name": "Bashkia Kelcyrë",
+      "latitude": "40.36196000",
+      "longitude": "20.16476000"
+    },
+    {
+      "id": 172,
+      "name": "Bashkia Libohovë",
+      "latitude": "40.10754000",
+      "longitude": "20.25753000"
+    },
+    {
+      "id": 177,
+      "name": "Bashkia Memaliaj",
+      "latitude": "40.41524000",
+      "longitude": "19.96911000"
+    },
+    {
+      "id": 183,
+      "name": "Bashkia Përmet",
+      "latitude": "40.23246000",
+      "longitude": "20.41091000"
+    },
+    {
+      "id": 187,
+      "name": "Bashkia Tepelenë",
+      "latitude": "40.26736000",
+      "longitude": "19.97003000"
+    },
+    {
+      "id": 204,
+      "name": "Gjinkar",
+      "latitude": "40.19944000",
+      "longitude": "20.40611000"
+    },
+    {
+      "id": 205,
+      "name": "Gjirokastër",
+      "latitude": "40.07583000",
+      "longitude": "20.13889000"
+    },
+    {
+      "id": 220,
+      "name": "Këlcyrë",
+      "latitude": "40.31306000",
+      "longitude": "20.18944000"
+    },
+    {
+      "id": 221,
+      "name": "Lazarat",
+      "latitude": "40.04667000",
+      "longitude": "20.14750000"
+    },
+    {
+      "id": 225,
+      "name": "Libohovë",
+      "latitude": "40.03111000",
+      "longitude": "20.26306000"
+    },
+    {
+      "id": 231,
+      "name": "Memaliaj",
+      "latitude": "40.35167000",
+      "longitude": "19.98028000"
+    },
+    {
+      "id": 240,
+      "name": "Përmet",
+      "latitude": "40.23361000",
+      "longitude": "20.35167000"
+    },
+    {
+      "id": 270,
+      "name": "Tepelenë",
+      "latitude": "40.29583000",
+      "longitude": "20.01917000"
+    }
+  ],
+  "country": {
+    "id": 3,
+    "name": "Albania",
+    "iso3": "ALB",
+    "iso2": "AL",
+    "numeric_code": "008",
+    "phone_code": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "native": "Shqipëria",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알바니아",
+      "pt-BR": "Albânia",
+      "pt": "Albânia",
+      "nl": "Albanië",
+      "hr": "Albanija",
+      "fa": "آلبانی",
+      "de": "Albanien",
+      "es": "Albania",
+      "fr": "Albanie",
+      "ja": "アルバニア",
+      "it": "Albania",
+      "cn": "阿尔巴尼亚",
+      "tr": "Arnavutluk"
+    },
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  }
+}

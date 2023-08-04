@@ -1,0 +1,234 @@
+{
+  "id": 2898,
+  "name": "Córdoba",
+  "state_code": "COR",
+  "latitude": "8.04929300",
+  "longitude": "-75.57405000",
+  "type": null,
+  "cities": [
+    {
+      "id": 20558,
+      "name": "Ayapel",
+      "latitude": "8.31372000",
+      "longitude": "-75.13982000"
+    },
+    {
+      "id": 20608,
+      "name": "Buenavista",
+      "latitude": "9.04963000",
+      "longitude": "-76.00280000"
+    },
+    {
+      "id": 20642,
+      "name": "Canalete",
+      "latitude": "8.67611000",
+      "longitude": "-76.20417000"
+    },
+    {
+      "id": 20669,
+      "name": "Cereté",
+      "latitude": "8.88479000",
+      "longitude": "-75.79052000"
+    },
+    {
+      "id": 20686,
+      "name": "Chimá",
+      "latitude": "9.14893000",
+      "longitude": "-75.62841000"
+    },
+    {
+      "id": 20690,
+      "name": "Chinú",
+      "latitude": "9.03869000",
+      "longitude": "-75.34273000"
+    },
+    {
+      "id": 20713,
+      "name": "Ciénaga de Oro",
+      "latitude": "8.83581000",
+      "longitude": "-75.60425000"
+    },
+    {
+      "id": 20742,
+      "name": "Cotorra",
+      "latitude": "9.03886000",
+      "longitude": "-75.78969000"
+    },
+    {
+      "id": 20970,
+      "name": "La Apartada",
+      "latitude": "8.04787000",
+      "longitude": "-75.30097000"
+    },
+    {
+      "id": 21031,
+      "name": "Lorica",
+      "latitude": "9.23648000",
+      "longitude": "-75.81350000"
+    },
+    {
+      "id": 21033,
+      "name": "Los Córdobas",
+      "latitude": "8.89403000",
+      "longitude": "-76.35455000"
+    },
+    {
+      "id": 21092,
+      "name": "Momil",
+      "latitude": "9.23767000",
+      "longitude": "-75.67489000"
+    },
+    {
+      "id": 21112,
+      "name": "Moñitos",
+      "latitude": "9.22615000",
+      "longitude": "-76.13594000"
+    },
+    {
+      "id": 21099,
+      "name": "Montelíbano",
+      "latitude": "7.97917000",
+      "longitude": "-75.42020000"
+    },
+    {
+      "id": 21102,
+      "name": "Montería",
+      "latitude": "8.74798000",
+      "longitude": "-75.88143000"
+    },
+    {
+      "id": 21213,
+      "name": "Planeta Rica",
+      "latitude": "8.41150000",
+      "longitude": "-75.58508000"
+    },
+    {
+      "id": 21225,
+      "name": "Pueblo Nuevo",
+      "latitude": "8.24110000",
+      "longitude": "-74.95815000"
+    },
+    {
+      "id": 21241,
+      "name": "Puerto Escondido",
+      "latitude": "8.99453000",
+      "longitude": "-76.19351000"
+    },
+    {
+      "id": 21245,
+      "name": "Puerto Libertador",
+      "latitude": "7.68181000",
+      "longitude": "-75.78312000"
+    },
+    {
+      "id": 21266,
+      "name": "Purísima",
+      "latitude": "9.23657000",
+      "longitude": "-75.72191000"
+    },
+    {
+      "id": 21316,
+      "name": "Sahagún",
+      "latitude": "8.94617000",
+      "longitude": "-75.44275000"
+    },
+    {
+      "id": 21333,
+      "name": "San Andrés de Sotavento",
+      "latitude": "9.12183000",
+      "longitude": "-75.51627000"
+    },
+    {
+      "id": 21335,
+      "name": "San Antero",
+      "latitude": "9.37410000",
+      "longitude": "-75.75891000"
+    },
+    {
+      "id": 21343,
+      "name": "San Bernardo del Viento",
+      "latitude": "9.35330000",
+      "longitude": "-75.95244000"
+    },
+    {
+      "id": 21346,
+      "name": "San Carlos",
+      "latitude": "8.79577000",
+      "longitude": "-75.69947000"
+    },
+    {
+      "id": 149251,
+      "name": "San José de Uré",
+      "latitude": "7.78722222",
+      "longitude": "-75.53305666"
+    },
+    {
+      "id": 21401,
+      "name": "San Pelayo",
+      "latitude": "8.95833000",
+      "longitude": "-75.83627000"
+    },
+    {
+      "id": 21527,
+      "name": "Tierralta",
+      "latitude": "7.87863000",
+      "longitude": "-76.21307000"
+    },
+    {
+      "id": 149258,
+      "name": "Tuchín",
+      "latitude": "9.18583333",
+      "longitude": "-75.55527888"
+    },
+    {
+      "id": 21578,
+      "name": "Valencia",
+      "latitude": "8.23350000",
+      "longitude": "-76.21428000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

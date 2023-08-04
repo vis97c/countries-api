@@ -1,0 +1,60 @@
+{
+  "id": 2991,
+  "name": "Maio Municipality",
+  "state_code": "MA",
+  "latitude": "15.20030980",
+  "longitude": "-23.16797930",
+  "type": null,
+  "cities": [
+    {
+      "id": 22010,
+      "name": "Vila do Maio",
+      "latitude": "15.13823000",
+      "longitude": "-23.21158000"
+    }
+  ],
+  "country": {
+    "id": 40,
+    "name": "Cape Verde",
+    "iso3": "CPV",
+    "iso2": "CV",
+    "numeric_code": "132",
+    "phone_code": "238",
+    "capital": "Praia",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "native": "Cabo Verde",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "translations": {
+      "kr": "카보베르데",
+      "pt-BR": "Cabo Verde",
+      "pt": "Cabo Verde",
+      "nl": "Kaapverdië",
+      "hr": "Zelenortska Republika",
+      "fa": "کیپ ورد",
+      "de": "Kap Verde",
+      "es": "Cabo Verde",
+      "fr": "Cap Vert",
+      "ja": "カーボベルデ",
+      "it": "Capo Verde",
+      "cn": "佛得角",
+      "tr": "Cabo Verde"
+    },
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  }
+}

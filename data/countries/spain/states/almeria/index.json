@@ -1,0 +1,680 @@
+{
+  "id": 5095,
+  "name": "Almeria",
+  "state_code": "AL",
+  "latitude": "36.84152680",
+  "longitude": "-2.47462610",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31915,
+      "name": "Abla",
+      "latitude": "37.14245000",
+      "longitude": "-2.77808000"
+    },
+    {
+      "id": 31918,
+      "name": "Abrucena",
+      "latitude": "37.13226000",
+      "longitude": "-2.79711000"
+    },
+    {
+      "id": 31936,
+      "name": "Adra",
+      "latitude": "36.74961000",
+      "longitude": "-3.02055000"
+    },
+    {
+      "id": 32063,
+      "name": "Albánchez",
+      "latitude": "37.28361000",
+      "longitude": "-2.18229000"
+    },
+    {
+      "id": 151347,
+      "name": "Alboloduy",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32056,
+      "name": "Albox",
+      "latitude": "37.38856000",
+      "longitude": "-2.14949000"
+    },
+    {
+      "id": 32103,
+      "name": "Alcolea",
+      "latitude": "36.97458000",
+      "longitude": "-2.96150000"
+    },
+    {
+      "id": 32138,
+      "name": "Alcóntar",
+      "latitude": "37.33647000",
+      "longitude": "-2.59725000"
+    },
+    {
+      "id": 32130,
+      "name": "Alcudia de Monteagud",
+      "latitude": "37.23529000",
+      "longitude": "-2.26650000"
+    },
+    {
+      "id": 32232,
+      "name": "Alhabia",
+      "latitude": "36.99003000",
+      "longitude": "-2.58655000"
+    },
+    {
+      "id": 32233,
+      "name": "Alhama de Almería",
+      "latitude": "36.95692000",
+      "longitude": "-2.56861000"
+    },
+    {
+      "id": 32245,
+      "name": "Alicún",
+      "latitude": "36.96580000",
+      "longitude": "-2.60212000"
+    },
+    {
+      "id": 32290,
+      "name": "Almería",
+      "latitude": "37.16667000",
+      "longitude": "-2.33333000"
+    },
+    {
+      "id": 32316,
+      "name": "Almócita",
+      "latitude": "37.00262000",
+      "longitude": "-2.79051000"
+    },
+    {
+      "id": 32336,
+      "name": "Alsodux",
+      "latitude": "37.00247000",
+      "longitude": "-2.59476000"
+    },
+    {
+      "id": 32390,
+      "name": "Antas",
+      "latitude": "37.24536000",
+      "longitude": "-1.91760000"
+    },
+    {
+      "id": 32426,
+      "name": "Arboleas",
+      "latitude": "37.35024000",
+      "longitude": "-2.07384000"
+    },
+    {
+      "id": 32491,
+      "name": "Armuña de Almanzora",
+      "latitude": "37.35030000",
+      "longitude": "-2.41150000"
+    },
+    {
+      "id": 151348,
+      "name": "Bacares",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32699,
+      "name": "Bayárcal",
+      "latitude": "37.03073000",
+      "longitude": "-2.99606000"
+    },
+    {
+      "id": 32696,
+      "name": "Bayarque",
+      "latitude": "37.33062000",
+      "longitude": "-2.43610000"
+    },
+    {
+      "id": 33057,
+      "name": "Bédar",
+      "latitude": "37.19389000",
+      "longitude": "-1.98166000"
+    },
+    {
+      "id": 32732,
+      "name": "Beires",
+      "latitude": "37.01237000",
+      "longitude": "-2.79134000"
+    },
+    {
+      "id": 32762,
+      "name": "Benahadux",
+      "latitude": "36.92493000",
+      "longitude": "-2.45941000"
+    },
+    {
+      "id": 32823,
+      "name": "Benitagla",
+      "latitude": "37.23138000",
+      "longitude": "-2.23935000"
+    },
+    {
+      "id": 32824,
+      "name": "Benizalón",
+      "latitude": "37.21213000",
+      "longitude": "-2.24180000"
+    },
+    {
+      "id": 32827,
+      "name": "Bentarique",
+      "latitude": "36.98823000",
+      "longitude": "-2.61991000"
+    },
+    {
+      "id": 32853,
+      "name": "Berja",
+      "latitude": "36.84693000",
+      "longitude": "-2.94966000"
+    },
+    {
+      "id": 33245,
+      "name": "Canjáyar",
+      "latitude": "37.00959000",
+      "longitude": "-2.73943000"
+    },
+    {
+      "id": 33260,
+      "name": "Cantoria",
+      "latitude": "37.35146000",
+      "longitude": "-2.19209000"
+    },
+    {
+      "id": 33285,
+      "name": "Carboneras",
+      "latitude": "36.99666000",
+      "longitude": "-1.89651000"
+    },
+    {
+      "id": 33488,
+      "name": "Castro de Filabres",
+      "latitude": "37.18484000",
+      "longitude": "-2.44024000"
+    },
+    {
+      "id": 33627,
+      "name": "Chercos",
+      "latitude": "37.25450000",
+      "longitude": "-2.26657000"
+    },
+    {
+      "id": 33643,
+      "name": "Chirivel",
+      "latitude": "37.59527000",
+      "longitude": "-2.26844000"
+    },
+    {
+      "id": 33902,
+      "name": "Cóbdar",
+      "latitude": "37.26166000",
+      "longitude": "-2.21098000"
+    },
+    {
+      "id": 33876,
+      "name": "Cuevas del Almanzora",
+      "latitude": "37.29678000",
+      "longitude": "-1.88218000"
+    },
+    {
+      "id": 33911,
+      "name": "Dalías",
+      "latitude": "36.82179000",
+      "longitude": "-2.87138000"
+    },
+    {
+      "id": 151359,
+      "name": "Ejido El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34060,
+      "name": "Enix",
+      "latitude": "36.87732000",
+      "longitude": "-2.60180000"
+    },
+    {
+      "id": 151349,
+      "name": "Felix",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34194,
+      "name": "Fiñana",
+      "latitude": "37.17150000",
+      "longitude": "-2.84011000"
+    },
+    {
+      "id": 34188,
+      "name": "Fines",
+      "latitude": "37.36074000",
+      "longitude": "-2.25810000"
+    },
+    {
+      "id": 34205,
+      "name": "Fondón",
+      "latitude": "36.98020000",
+      "longitude": "-2.85957000"
+    },
+    {
+      "id": 34558,
+      "name": "Gádor",
+      "latitude": "36.95322000",
+      "longitude": "-2.49254000"
+    },
+    {
+      "id": 151350,
+      "name": "Gallardos Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34427,
+      "name": "Garrucha",
+      "latitude": "37.18141000",
+      "longitude": "-1.82252000"
+    },
+    {
+      "id": 34562,
+      "name": "Gérgal",
+      "latitude": "37.11886000",
+      "longitude": "-2.54012000"
+    },
+    {
+      "id": 34706,
+      "name": "Huécija",
+      "latitude": "36.96804000",
+      "longitude": "-2.60941000"
+    },
+    {
+      "id": 34711,
+      "name": "Huércal de Almería",
+      "latitude": "36.88507000",
+      "longitude": "-2.43760000"
+    },
+    {
+      "id": 34712,
+      "name": "Huércal-Overa",
+      "latitude": "37.38918000",
+      "longitude": "-1.94300000"
+    },
+    {
+      "id": 34746,
+      "name": "Illar",
+      "latitude": "36.98562000",
+      "longitude": "-2.63871000"
+    },
+    {
+      "id": 34757,
+      "name": "Instinción",
+      "latitude": "36.99344000",
+      "longitude": "-2.66046000"
+    },
+    {
+      "id": 34977,
+      "name": "Laroya",
+      "latitude": "37.29771000",
+      "longitude": "-2.33419000"
+    },
+    {
+      "id": 35004,
+      "name": "Laujar de Andarax",
+      "latitude": "36.99516000",
+      "longitude": "-2.89033000"
+    },
+    {
+      "id": 151351,
+      "name": "Líjar",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35147,
+      "name": "Lubrín",
+      "latitude": "37.21538000",
+      "longitude": "-2.06677000"
+    },
+    {
+      "id": 35148,
+      "name": "Lucainena de las Torres",
+      "latitude": "37.04037000",
+      "longitude": "-2.20095000"
+    },
+    {
+      "id": 35177,
+      "name": "Lúcar",
+      "latitude": "37.40035000",
+      "longitude": "-2.42496000"
+    },
+    {
+      "id": 35179,
+      "name": "Macael",
+      "latitude": "37.33318000",
+      "longitude": "-2.30087000"
+    },
+    {
+      "id": 35312,
+      "name": "María",
+      "latitude": "37.71023000",
+      "longitude": "-2.16454000"
+    },
+    {
+      "id": 35473,
+      "name": "Mojacar",
+      "latitude": "37.14020000",
+      "longitude": "-1.85102000"
+    },
+    {
+      "id": 151360,
+      "name": "Mojonera La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151352,
+      "name": "Nacimiento",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35844,
+      "name": "Níjar",
+      "latitude": "36.96655000",
+      "longitude": "-2.20595000"
+    },
+    {
+      "id": 35863,
+      "name": "Ohanes",
+      "latitude": "37.03861000",
+      "longitude": "-2.74524000"
+    },
+    {
+      "id": 35914,
+      "name": "Olula de Castro",
+      "latitude": "37.17475000",
+      "longitude": "-2.47430000"
+    },
+    {
+      "id": 35915,
+      "name": "Olula del Río",
+      "latitude": "37.35445000",
+      "longitude": "-2.29754000"
+    },
+    {
+      "id": 35948,
+      "name": "Oria",
+      "latitude": "37.48530000",
+      "longitude": "-2.29292000"
+    },
+    {
+      "id": 35997,
+      "name": "Padules",
+      "latitude": "36.99813000",
+      "longitude": "-2.77367000"
+    },
+    {
+      "id": 36072,
+      "name": "Partaloa",
+      "latitude": "37.40764000",
+      "longitude": "-2.22526000"
+    },
+    {
+      "id": 36081,
+      "name": "Paterna del Río",
+      "latitude": "37.02222000",
+      "longitude": "-2.95343000"
+    },
+    {
+      "id": 151353,
+      "name": "Pechina",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36469,
+      "name": "Pulpí",
+      "latitude": "37.41154000",
+      "longitude": "-1.74496000"
+    },
+    {
+      "id": 36475,
+      "name": "Purchena",
+      "latitude": "37.34744000",
+      "longitude": "-2.36080000"
+    },
+    {
+      "id": 36714,
+      "name": "Rágol",
+      "latitude": "36.99523000",
+      "longitude": "-2.68178000"
+    },
+    {
+      "id": 36630,
+      "name": "Rioja",
+      "latitude": "36.94508000",
+      "longitude": "-2.46302000"
+    },
+    {
+      "id": 36675,
+      "name": "Roquetas de Mar",
+      "latitude": "36.76419000",
+      "longitude": "-2.61475000"
+    },
+    {
+      "id": 151354,
+      "name": "Santa Cruz de Marchena",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37059,
+      "name": "Santa Fe de Mondújar",
+      "latitude": "36.97479000",
+      "longitude": "-2.53126000"
+    },
+    {
+      "id": 151355,
+      "name": "Senés",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37228,
+      "name": "Serón",
+      "latitude": "37.34485000",
+      "longitude": "-2.50913000"
+    },
+    {
+      "id": 37248,
+      "name": "Sierro",
+      "latitude": "37.32237000",
+      "longitude": "-2.39844000"
+    },
+    {
+      "id": 37288,
+      "name": "Somontín",
+      "latitude": "37.39176000",
+      "longitude": "-2.38828000"
+    },
+    {
+      "id": 37298,
+      "name": "Sorbas",
+      "latitude": "37.09761000",
+      "longitude": "-2.12349000"
+    },
+    {
+      "id": 37331,
+      "name": "Suflí",
+      "latitude": "37.33866000",
+      "longitude": "-2.38817000"
+    },
+    {
+      "id": 37343,
+      "name": "Tabernas",
+      "latitude": "37.04992000",
+      "longitude": "-2.39084000"
+    },
+    {
+      "id": 151356,
+      "name": "Taberno",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37350,
+      "name": "Tahal",
+      "latitude": "37.22797000",
+      "longitude": "-2.28470000"
+    },
+    {
+      "id": 37406,
+      "name": "Terque",
+      "latitude": "36.98393000",
+      "longitude": "-2.59679000"
+    },
+    {
+      "id": 37667,
+      "name": "Tíjola",
+      "latitude": "37.34606000",
+      "longitude": "-2.43326000"
+    },
+    {
+      "id": 151358,
+      "name": "Tres Villas Las",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37656,
+      "name": "Turre",
+      "latitude": "37.15224000",
+      "longitude": "-1.89497000"
+    },
+    {
+      "id": 37657,
+      "name": "Turrillas",
+      "latitude": "37.02948000",
+      "longitude": "-2.26607000"
+    },
+    {
+      "id": 37679,
+      "name": "Uleila del Campo",
+      "latitude": "37.18460000",
+      "longitude": "-2.20491000"
+    },
+    {
+      "id": 37697,
+      "name": "Urrácal",
+      "latitude": "37.39740000",
+      "longitude": "-2.36485000"
+    },
+    {
+      "id": 37926,
+      "name": "Velefique",
+      "latitude": "37.19407000",
+      "longitude": "-2.40155000"
+    },
+    {
+      "id": 38415,
+      "name": "Vélez-Blanco",
+      "latitude": "37.69178000",
+      "longitude": "-2.09587000"
+    },
+    {
+      "id": 151357,
+      "name": "Vélez-Rubio",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37947,
+      "name": "Vera",
+      "latitude": "37.24345000",
+      "longitude": "-1.85905000"
+    },
+    {
+      "id": 37961,
+      "name": "Viator",
+      "latitude": "36.89006000",
+      "longitude": "-2.42695000"
+    },
+    {
+      "id": 38417,
+      "name": "Vícar",
+      "latitude": "36.83155000",
+      "longitude": "-2.64273000"
+    },
+    {
+      "id": 38510,
+      "name": "Zurgena",
+      "latitude": "37.34218000",
+      "longitude": "-2.03985000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

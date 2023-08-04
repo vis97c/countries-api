@@ -1,0 +1,832 @@
+{
+  "id": 3477,
+  "name": "Nayarit",
+  "state_code": "NAY",
+  "latitude": "21.75138440",
+  "longitude": "-104.84546190",
+  "type": "state",
+  "cities": [
+    {
+      "id": 68038,
+      "name": "Acaponeta",
+      "latitude": "22.49396000",
+      "longitude": "-105.36369000"
+    },
+    {
+      "id": 68136,
+      "name": "Ahuacatlán",
+      "latitude": "21.05405000",
+      "longitude": "-104.48398000"
+    },
+    {
+      "id": 68236,
+      "name": "Amapa",
+      "latitude": "21.78359000",
+      "longitude": "-105.25482000"
+    },
+    {
+      "id": 68244,
+      "name": "Amatlán de Cañas",
+      "latitude": "20.80699000",
+      "longitude": "-104.40408000"
+    },
+    {
+      "id": 68321,
+      "name": "Aquiles Serdán",
+      "latitude": "21.38198000",
+      "longitude": "-104.88891000"
+    },
+    {
+      "id": 68404,
+      "name": "Aticama",
+      "latitude": "21.48387000",
+      "longitude": "-105.19787000"
+    },
+    {
+      "id": 68427,
+      "name": "Atonalisco",
+      "latitude": "21.66551000",
+      "longitude": "-104.83949000"
+    },
+    {
+      "id": 68447,
+      "name": "Aután",
+      "latitude": "21.68973000",
+      "longitude": "-105.30750000"
+    },
+    {
+      "id": 68579,
+      "name": "Bellavista",
+      "latitude": "21.56236000",
+      "longitude": "-104.88267000"
+    },
+    {
+      "id": 68656,
+      "name": "Bucerías",
+      "latitude": "20.75626000",
+      "longitude": "-105.33438000"
+    },
+    {
+      "id": 68756,
+      "name": "Camalotita",
+      "latitude": "22.40453000",
+      "longitude": "-105.43156000"
+    },
+    {
+      "id": 68764,
+      "name": "Camichín de Jauja",
+      "latitude": "21.46532000",
+      "longitude": "-104.80080000"
+    },
+    {
+      "id": 68881,
+      "name": "Cañada del Tabaco",
+      "latitude": "21.70972000",
+      "longitude": "-105.35417000"
+    },
+    {
+      "id": 68979,
+      "name": "Chapalilla",
+      "latitude": "21.18852000",
+      "longitude": "-104.63783000"
+    },
+    {
+      "id": 69064,
+      "name": "Chilapa",
+      "latitude": "22.03138000",
+      "longitude": "-105.23057000"
+    },
+    {
+      "id": 69295,
+      "name": "Colonia Emiliano Zapata",
+      "latitude": "21.82861000",
+      "longitude": "-105.21972000"
+    },
+    {
+      "id": 69348,
+      "name": "Colonia Paraíso Escondido",
+      "latitude": "21.05333000",
+      "longitude": "-105.23833000"
+    },
+    {
+      "id": 69429,
+      "name": "Compostela",
+      "latitude": "21.23777000",
+      "longitude": "-104.90010000"
+    },
+    {
+      "id": 69489,
+      "name": "Corral del Risco (Punta de Mita)",
+      "latitude": "20.77361000",
+      "longitude": "-105.51667000"
+    },
+    {
+      "id": 69546,
+      "name": "Cruz de Huanacaxtle",
+      "latitude": "20.75415000",
+      "longitude": "-105.37734000"
+    },
+    {
+      "id": 69555,
+      "name": "Cuamiles",
+      "latitude": "21.92347000",
+      "longitude": "-105.25405000"
+    },
+    {
+      "id": 69827,
+      "name": "El Ahuacate",
+      "latitude": "21.51535000",
+      "longitude": "-104.94436000"
+    },
+    {
+      "id": 69849,
+      "name": "El Botadero",
+      "latitude": "21.75404000",
+      "longitude": "-105.28640000"
+    },
+    {
+      "id": 69861,
+      "name": "El Capomal",
+      "latitude": "21.83935000",
+      "longitude": "-105.12116000"
+    },
+    {
+      "id": 69928,
+      "name": "El Corte",
+      "latitude": "21.72025000",
+      "longitude": "-105.24488000"
+    },
+    {
+      "id": 70005,
+      "name": "El Jicote",
+      "latitude": "21.72545000",
+      "longitude": "-105.05787000"
+    },
+    {
+      "id": 70022,
+      "name": "El Llano",
+      "latitude": "21.41854000",
+      "longitude": "-105.17963000"
+    },
+    {
+      "id": 70175,
+      "name": "El Rosario",
+      "latitude": "20.89195000",
+      "longitude": "-104.46836000"
+    },
+    {
+      "id": 70211,
+      "name": "El Tamarindo",
+      "latitude": "21.95810000",
+      "longitude": "-105.23220000"
+    },
+    {
+      "id": 70230,
+      "name": "El Tizate",
+      "latitude": "21.80179000",
+      "longitude": "-105.11670000"
+    },
+    {
+      "id": 70247,
+      "name": "El Vado de San Pedro",
+      "latitude": "21.94742000",
+      "longitude": "-105.18005000"
+    },
+    {
+      "id": 70253,
+      "name": "El Venado",
+      "latitude": "21.94426000",
+      "longitude": "-105.00100000"
+    },
+    {
+      "id": 70283,
+      "name": "Emiliano Zapata",
+      "latitude": "21.36477000",
+      "longitude": "-104.91283000"
+    },
+    {
+      "id": 70398,
+      "name": "Felipe Carrillo Puerto",
+      "latitude": "21.13200000",
+      "longitude": "-104.86068000"
+    },
+    {
+      "id": 70468,
+      "name": "Francisco I. Madero",
+      "latitude": "21.58186000",
+      "longitude": "-104.81927000"
+    },
+    {
+      "id": 70601,
+      "name": "Guadalupe Victoria",
+      "latitude": "21.67972000",
+      "longitude": "-105.32750000"
+    },
+    {
+      "id": 70692,
+      "name": "Higuera Blanca",
+      "latitude": "20.79746000",
+      "longitude": "-105.46747000"
+    },
+    {
+      "id": 70718,
+      "name": "Huajicori",
+      "latitude": "22.63667000",
+      "longitude": "-105.31972000"
+    },
+    {
+      "id": 70719,
+      "name": "Huajimic",
+      "latitude": "21.68347000",
+      "longitude": "-104.31542000"
+    },
+    {
+      "id": 70930,
+      "name": "Ixtapan de la Concepción",
+      "latitude": "21.30774000",
+      "longitude": "-105.15773000"
+    },
+    {
+      "id": 70946,
+      "name": "Ixtlán del Río",
+      "latitude": "21.03907000",
+      "longitude": "-104.37116000"
+    },
+    {
+      "id": 70969,
+      "name": "Jalcocotán",
+      "latitude": "21.48122000",
+      "longitude": "-105.09851000"
+    },
+    {
+      "id": 71030,
+      "name": "Jesús María",
+      "latitude": "22.25056000",
+      "longitude": "-104.51792000"
+    },
+    {
+      "id": 71077,
+      "name": "Jomulco",
+      "latitude": "21.10394000",
+      "longitude": "-104.42378000"
+    },
+    {
+      "id": 71118,
+      "name": "Juan Escutia (Borbollón)",
+      "latitude": "21.16741000",
+      "longitude": "-104.86698000"
+    },
+    {
+      "id": 71200,
+      "name": "La Cantera",
+      "latitude": "21.50308000",
+      "longitude": "-104.82237000"
+    },
+    {
+      "id": 71246,
+      "name": "La Corregidora",
+      "latitude": "21.44417000",
+      "longitude": "-104.81222000"
+    },
+    {
+      "id": 71295,
+      "name": "La Fortuna",
+      "latitude": "21.55285000",
+      "longitude": "-104.95077000"
+    },
+    {
+      "id": 71312,
+      "name": "La Guásima",
+      "latitude": "22.40607000",
+      "longitude": "-105.38767000"
+    },
+    {
+      "id": 71339,
+      "name": "La Labor",
+      "latitude": "21.37299000",
+      "longitude": "-104.71910000"
+    },
+    {
+      "id": 71355,
+      "name": "La Libertad",
+      "latitude": "21.59347000",
+      "longitude": "-105.17365000"
+    },
+    {
+      "id": 71422,
+      "name": "La Palma",
+      "latitude": "21.49172000",
+      "longitude": "-105.17817000"
+    },
+    {
+      "id": 71444,
+      "name": "La Peñita de Jaltomba",
+      "latitude": "21.03884000",
+      "longitude": "-105.24792000"
+    },
+    {
+      "id": 71457,
+      "name": "La Presa",
+      "latitude": "22.34358000",
+      "longitude": "-105.39350000"
+    },
+    {
+      "id": 71537,
+      "name": "La Yesca",
+      "latitude": "21.31871000",
+      "longitude": "-104.01161000"
+    },
+    {
+      "id": 71606,
+      "name": "Las Jarretaderas",
+      "latitude": "20.69250000",
+      "longitude": "-105.27389000"
+    },
+    {
+      "id": 71648,
+      "name": "Las Varas",
+      "latitude": "21.18021000",
+      "longitude": "-105.13595000"
+    },
+    {
+      "id": 71697,
+      "name": "Llano del Tigre",
+      "latitude": "22.12707000",
+      "longitude": "-105.30581000"
+    },
+    {
+      "id": 71702,
+      "name": "Lo de Lamedo",
+      "latitude": "21.53843000",
+      "longitude": "-104.93945000"
+    },
+    {
+      "id": 71703,
+      "name": "Lo de Marcos",
+      "latitude": "20.95509000",
+      "longitude": "-105.35223000"
+    },
+    {
+      "id": 71765,
+      "name": "Los Aguajes",
+      "latitude": "21.10729000",
+      "longitude": "-104.35447000"
+    },
+    {
+      "id": 71826,
+      "name": "Los Otates",
+      "latitude": "21.70427000",
+      "longitude": "-105.37622000"
+    },
+    {
+      "id": 72057,
+      "name": "Mecatán",
+      "latitude": "21.53643000",
+      "longitude": "-105.11946000"
+    },
+    {
+      "id": 72082,
+      "name": "Mesa del Nayar",
+      "latitude": "22.21770000",
+      "longitude": "-104.65352000"
+    },
+    {
+      "id": 72263,
+      "name": "Méxpan",
+      "latitude": "21.03567000",
+      "longitude": "-104.41479000"
+    },
+    {
+      "id": 72106,
+      "name": "Mezcales",
+      "latitude": "20.73072000",
+      "longitude": "-105.28257000"
+    },
+    {
+      "id": 72139,
+      "name": "Milpas Viejas",
+      "latitude": "22.36478000",
+      "longitude": "-105.47549000"
+    },
+    {
+      "id": 72180,
+      "name": "Mojarras",
+      "latitude": "21.42592000",
+      "longitude": "-104.60851000"
+    },
+    {
+      "id": 72220,
+      "name": "Monteón",
+      "latitude": "20.99108000",
+      "longitude": "-105.29988000"
+    },
+    {
+      "id": 72295,
+      "name": "Navarrete",
+      "latitude": "21.64841000",
+      "longitude": "-105.11539000"
+    },
+    {
+      "id": 72418,
+      "name": "Nuevo Vallarta",
+      "latitude": "20.70169000",
+      "longitude": "-105.29417000"
+    },
+    {
+      "id": 72585,
+      "name": "Palma Grande",
+      "latitude": "21.99333000",
+      "longitude": "-105.38944000"
+    },
+    {
+      "id": 72592,
+      "name": "Palmar de Cuautla",
+      "latitude": "22.21972000",
+      "longitude": "-105.64750000"
+    },
+    {
+      "id": 72624,
+      "name": "Pantanal",
+      "latitude": "21.42824000",
+      "longitude": "-104.86122000"
+    },
+    {
+      "id": 72734,
+      "name": "Pericos",
+      "latitude": "22.04925000",
+      "longitude": "-105.35402000"
+    },
+    {
+      "id": 72872,
+      "name": "Pozo de Ibarra",
+      "latitude": "21.86692000",
+      "longitude": "-105.27949000"
+    },
+    {
+      "id": 72961,
+      "name": "Puerta de Mangos",
+      "latitude": "21.71853000",
+      "longitude": "-105.33534000"
+    },
+    {
+      "id": 72982,
+      "name": "Puga",
+      "latitude": "21.58443000",
+      "longitude": "-104.82318000"
+    },
+    {
+      "id": 73032,
+      "name": "Quimichis",
+      "latitude": "22.36122000",
+      "longitude": "-105.53913000"
+    },
+    {
+      "id": 73128,
+      "name": "Rincón de Guayabitos",
+      "latitude": "21.02315000",
+      "longitude": "-105.27054000"
+    },
+    {
+      "id": 73158,
+      "name": "Rosa Blanca",
+      "latitude": "21.12454000",
+      "longitude": "-104.35811000"
+    },
+    {
+      "id": 73161,
+      "name": "Rosamorada",
+      "latitude": "22.12208000",
+      "longitude": "-105.20640000"
+    },
+    {
+      "id": 73166,
+      "name": "Ruíz",
+      "latitude": "21.95107000",
+      "longitude": "-105.14380000"
+    },
+    {
+      "id": 73445,
+      "name": "San Blas",
+      "latitude": "21.54333000",
+      "longitude": "-105.28558000"
+    },
+    {
+      "id": 73464,
+      "name": "San Cayetano",
+      "latitude": "21.44949000",
+      "longitude": "-104.81702000"
+    },
+    {
+      "id": 73469,
+      "name": "San Clemente de Lima",
+      "latitude": "20.73722000",
+      "longitude": "-105.27083000"
+    },
+    {
+      "id": 73513,
+      "name": "San Felipe Aztatán",
+      "latitude": "22.38374000",
+      "longitude": "-105.41980000"
+    },
+    {
+      "id": 73541,
+      "name": "San Francisco",
+      "latitude": "20.90196000",
+      "longitude": "-105.41279000"
+    },
+    {
+      "id": 73818,
+      "name": "San José de Gracia",
+      "latitude": "22.48105000",
+      "longitude": "-105.37869000"
+    },
+    {
+      "id": 73870,
+      "name": "San Juan Bautista",
+      "latitude": "22.14359000",
+      "longitude": "-105.09750000"
+    },
+    {
+      "id": 73958,
+      "name": "San Juan de Abajo",
+      "latitude": "20.81484000",
+      "longitude": "-105.19154000"
+    },
+    {
+      "id": 74059,
+      "name": "San Luis de Lozada",
+      "latitude": "21.50297000",
+      "longitude": "-104.70552000"
+    },
+    {
+      "id": 74349,
+      "name": "San Pedro Lagunillas",
+      "latitude": "21.21920000",
+      "longitude": "-104.75228000"
+    },
+    {
+      "id": 74493,
+      "name": "San Vicente",
+      "latitude": "21.95043000",
+      "longitude": "-105.29710000"
+    },
+    {
+      "id": 74611,
+      "name": "Santa Cruz",
+      "latitude": "21.98118000",
+      "longitude": "-105.60169000"
+    },
+    {
+      "id": 74672,
+      "name": "Santa Isabel",
+      "latitude": "21.16304000",
+      "longitude": "-104.62374000"
+    },
+    {
+      "id": 74815,
+      "name": "Santa María del Oro",
+      "latitude": "21.33390000",
+      "longitude": "-104.58696000"
+    },
+    {
+      "id": 74859,
+      "name": "Santa Teresa",
+      "latitude": "22.49730000",
+      "longitude": "-104.76547000"
+    },
+    {
+      "id": 74984,
+      "name": "Santiago de Pochotitán",
+      "latitude": "21.58159000",
+      "longitude": "-104.69858000"
+    },
+    {
+      "id": 74907,
+      "name": "Santiago Ixcuintla",
+      "latitude": "21.81295000",
+      "longitude": "-105.20844000"
+    },
+    {
+      "id": 75045,
+      "name": "Sauta",
+      "latitude": "21.72116000",
+      "longitude": "-105.14249000"
+    },
+    {
+      "id": 75048,
+      "name": "Sayulilla",
+      "latitude": "22.43822000",
+      "longitude": "-105.39137000"
+    },
+    {
+      "id": 75049,
+      "name": "Sayulita",
+      "latitude": "20.87006000",
+      "longitude": "-105.43992000"
+    },
+    {
+      "id": 75060,
+      "name": "Sentispac",
+      "latitude": "21.80478000",
+      "longitude": "-105.34593000"
+    },
+    {
+      "id": 75289,
+      "name": "Tecuala",
+      "latitude": "22.39815000",
+      "longitude": "-105.45808000"
+    },
+    {
+      "id": 75447,
+      "name": "Tepic",
+      "latitude": "21.50951000",
+      "longitude": "-104.89569000"
+    },
+    {
+      "id": 75455,
+      "name": "Tequepexpan",
+      "latitude": "21.21571000",
+      "longitude": "-104.56958000"
+    },
+    {
+      "id": 75473,
+      "name": "Testerazo",
+      "latitude": "21.40242000",
+      "longitude": "-104.89420000"
+    },
+    {
+      "id": 75488,
+      "name": "Tetitlán",
+      "latitude": "21.12903000",
+      "longitude": "-104.61613000"
+    },
+    {
+      "id": 75887,
+      "name": "Unión de Corrientes",
+      "latitude": "21.97644000",
+      "longitude": "-105.43026000"
+    },
+    {
+      "id": 75904,
+      "name": "Uzeta",
+      "latitude": "21.11497000",
+      "longitude": "-104.60171000"
+    },
+    {
+      "id": 75920,
+      "name": "Valle de Banderas",
+      "latitude": "20.80792000",
+      "longitude": "-105.24813000"
+    },
+    {
+      "id": 76013,
+      "name": "Villa Hidalgo",
+      "latitude": "21.74185000",
+      "longitude": "-105.23096000"
+    },
+    {
+      "id": 76020,
+      "name": "Villa Juárez",
+      "latitude": "21.68917000",
+      "longitude": "-105.38972000"
+    },
+    {
+      "id": 76209,
+      "name": "Yago",
+      "latitude": "21.83601000",
+      "longitude": "-105.06451000"
+    },
+    {
+      "id": 76284,
+      "name": "Zacualpan",
+      "latitude": "21.24715000",
+      "longitude": "-105.16570000"
+    },
+    {
+      "id": 76313,
+      "name": "Zapotán",
+      "latitude": "21.08936000",
+      "longitude": "-104.86246000"
+    },
+    {
+      "id": 76301,
+      "name": "Zapotanito",
+      "latitude": "21.30533000",
+      "longitude": "-104.60899000"
+    }
+  ],
+  "country": {
+    "id": 142,
+    "name": "Mexico",
+    "iso3": "MEX",
+    "iso2": "MX",
+    "numeric_code": "484",
+    "phone_code": "52",
+    "capital": "Ciudad de México",
+    "currency": "MXN",
+    "currency_name": "Mexican peso",
+    "currency_symbol": "$",
+    "tld": ".mx",
+    "native": "México",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Bahia_Banderas",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Cancun",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chihuahua",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Hermosillo",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Matamoros",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mazatlan",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Merida",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mexico_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Monterrey",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Ojinaga",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Tijuana",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "멕시코",
+      "pt-BR": "México",
+      "pt": "México",
+      "nl": "Mexico",
+      "hr": "Meksiko",
+      "fa": "مکزیک",
+      "de": "Mexiko",
+      "es": "México",
+      "fr": "Mexique",
+      "ja": "メキシコ",
+      "it": "Messico",
+      "cn": "墨西哥",
+      "tr": "Meksika"
+    },
+    "latitude": "23.00000000",
+    "longitude": "-102.00000000",
+    "emoji": "🇲🇽",
+    "emojiU": "U+1F1F2 U+1F1FD"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 27,
+  "name": "Podgorica Municipality",
+  "state_code": "16",
+  "latitude": "42.36938340",
+  "longitude": "19.28315310",
+  "type": null,
+  "cities": [
+    {
+      "id": 67351,
+      "name": "Golubovci",
+      "latitude": "42.33500000",
+      "longitude": "19.23111000"
+    },
+    {
+      "id": 67352,
+      "name": "Goričani",
+      "latitude": "42.33222000",
+      "longitude": "19.21194000"
+    },
+    {
+      "id": 67356,
+      "name": "Mataguži",
+      "latitude": "42.32361000",
+      "longitude": "19.27278000"
+    },
+    {
+      "id": 67357,
+      "name": "Mojanovići",
+      "latitude": "42.34167000",
+      "longitude": "19.22139000"
+    },
+    {
+      "id": 67364,
+      "name": "Podgorica",
+      "latitude": "42.44111000",
+      "longitude": "19.26361000"
+    },
+    {
+      "id": 67372,
+      "name": "Tuzi",
+      "latitude": "42.36556000",
+      "longitude": "19.33139000"
+    }
+  ],
+  "country": {
+    "id": 147,
+    "name": "Montenegro",
+    "iso3": "MNE",
+    "iso2": "ME",
+    "numeric_code": "499",
+    "phone_code": "382",
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".me",
+    "native": "Црна Гора",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Podgorica",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몬테네그로",
+      "pt-BR": "Montenegro",
+      "pt": "Montenegro",
+      "nl": "Montenegro",
+      "hr": "Crna Gora",
+      "fa": "مونته‌نگرو",
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "fr": "Monténégro",
+      "ja": "モンテネグロ",
+      "it": "Montenegro",
+      "cn": "黑山",
+      "tr": "Karadağ"
+    },
+    "latitude": "42.50000000",
+    "longitude": "19.30000000",
+    "emoji": "🇲🇪",
+    "emojiU": "U+1F1F2 U+1F1EA"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 896,
+  "name": "Central Darfur",
+  "state_code": "DC",
+  "latitude": "14.37827470",
+  "longitude": "24.90422080",
+  "type": null,
+  "cities": [
+    {
+      "id": 102984,
+      "name": "Zalingei",
+      "latitude": "12.90918000",
+      "longitude": "23.47058000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 589,
+  "name": "Gədəbəy",
+  "state_code": "GAD",
+  "latitude": "40.56996390",
+  "longitude": "45.81068830",
+  "type": null,
+  "cities": [
+    {
+      "id": 8044,
+      "name": "Arıqdam",
+      "latitude": "40.59313000",
+      "longitude": "45.79900000"
+    },
+    {
+      "id": 8045,
+      "name": "Arıqıran",
+      "latitude": "40.53971000",
+      "longitude": "45.61414000"
+    },
+    {
+      "id": 8067,
+      "name": "Böyük Qaramurad",
+      "latitude": "40.57626000",
+      "longitude": "45.63727000"
+    },
+    {
+      "id": 8105,
+      "name": "Kyadabek",
+      "latitude": "40.57055000",
+      "longitude": "45.81229000"
+    },
+    {
+      "id": 8124,
+      "name": "Novosaratovka",
+      "latitude": "40.59811000",
+      "longitude": "45.60079000"
+    }
+  ],
+  "country": {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "numeric_code": "031",
+    "phone_code": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "native": "Azərbaycan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아제르바이잔",
+      "pt-BR": "Azerbaijão",
+      "pt": "Azerbaijão",
+      "nl": "Azerbeidzjan",
+      "hr": "Azerbajdžan",
+      "fa": "آذربایجان",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "ja": "アゼルバイジャン",
+      "it": "Azerbaijan",
+      "cn": "阿塞拜疆",
+      "tr": "Azerbaycan"
+    },
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  }
+}

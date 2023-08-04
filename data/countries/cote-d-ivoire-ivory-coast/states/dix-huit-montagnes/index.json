@@ -1,0 +1,114 @@
+{
+  "id": 2645,
+  "name": "Dix-Huit Montagnes",
+  "state_code": "06",
+  "latitude": "7.37623730",
+  "longitude": "-7.43813550",
+  "type": null,
+  "cities": [
+    {
+      "id": 18874,
+      "name": "Bangolo",
+      "latitude": "7.01232000",
+      "longitude": "-7.48639000"
+    },
+    {
+      "id": 18875,
+      "name": "Biankouma",
+      "latitude": "7.73909000",
+      "longitude": "-7.61377000"
+    },
+    {
+      "id": 18889,
+      "name": "Cavally",
+      "latitude": "6.56343000",
+      "longitude": "-7.92526000"
+    },
+    {
+      "id": 18893,
+      "name": "Danané",
+      "latitude": "7.25957000",
+      "longitude": "-8.15498000"
+    },
+    {
+      "id": 18897,
+      "name": "Duekoué",
+      "latitude": "6.74202000",
+      "longitude": "-7.34918000"
+    },
+    {
+      "id": 18908,
+      "name": "Guémon",
+      "latitude": "7.09300000",
+      "longitude": "-7.17785000"
+    },
+    {
+      "id": 18907,
+      "name": "Guiglo",
+      "latitude": "6.54368000",
+      "longitude": "-7.49350000"
+    },
+    {
+      "id": 18919,
+      "name": "Man",
+      "latitude": "7.41251000",
+      "longitude": "-7.55383000"
+    },
+    {
+      "id": 18936,
+      "name": "Tonkpi",
+      "latitude": "7.56785000",
+      "longitude": "-7.60941000"
+    },
+    {
+      "id": 18938,
+      "name": "Toulépleu Gueré",
+      "latitude": "6.57395000",
+      "longitude": "-8.42592000"
+    }
+  ],
+  "country": {
+    "id": 54,
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "iso3": "CIV",
+    "iso2": "CI",
+    "numeric_code": "384",
+    "phone_code": "225",
+    "capital": "Yamoussoukro",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ci",
+    "native": null,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Abidjan",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "코트디부아르",
+      "pt-BR": "Costa do Marfim",
+      "pt": "Costa do Marfim",
+      "nl": "Ivoorkust",
+      "hr": "Obala Bjelokosti",
+      "fa": "ساحل عاج",
+      "de": "Elfenbeinküste",
+      "es": "Costa de Marfil",
+      "fr": "Côte d'Ivoire",
+      "ja": "コートジボワール",
+      "it": "Costa D'Avorio",
+      "cn": "科特迪瓦",
+      "tr": "Kotdivuar"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇨🇮",
+    "emojiU": "U+1F1E8 U+1F1EE"
+  }
+}

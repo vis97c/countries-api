@@ -1,0 +1,72 @@
+{
+  "id": 3986,
+  "name": "Kratie",
+  "state_code": "10",
+  "latitude": "12.50436080",
+  "longitude": "105.96998780",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64958,
+      "name": "Kracheh",
+      "latitude": "12.57000000",
+      "longitude": "106.20000000"
+    },
+    {
+      "id": 64960,
+      "name": "Kratié",
+      "latitude": "12.48811000",
+      "longitude": "106.01879000"
+    },
+    {
+      "id": 64983,
+      "name": "Snuol",
+      "latitude": "12.19373000",
+      "longitude": "106.47361000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

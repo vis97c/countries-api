@@ -1,0 +1,198 @@
+{
+  "id": 934,
+  "name": "North West",
+  "state_code": "NW",
+  "latitude": "32.75885200",
+  "longitude": "-97.32880600",
+  "type": null,
+  "cities": [
+    {
+      "id": 131039,
+      "name": "Bloemhof",
+      "latitude": "-27.64685000",
+      "longitude": "25.60697000"
+    },
+    {
+      "id": 131041,
+      "name": "Bojanala Platinum District Municipality",
+      "latitude": "-25.42612000",
+      "longitude": "27.22430000"
+    },
+    {
+      "id": 131050,
+      "name": "Brits",
+      "latitude": "-25.63473000",
+      "longitude": "27.78022000"
+    },
+    {
+      "id": 131069,
+      "name": "Christiana",
+      "latitude": "-27.91402000",
+      "longitude": "25.16111000"
+    },
+    {
+      "id": 131087,
+      "name": "Dr Kenneth Kaunda District Municipality",
+      "latitude": "-26.80678000",
+      "longitude": "26.56926000"
+    },
+    {
+      "id": 131088,
+      "name": "Dr Ruth Segomotsi Mompati District Municipality",
+      "latitude": "-26.63765000",
+      "longitude": "24.27462000"
+    },
+    {
+      "id": 131108,
+      "name": "Fochville",
+      "latitude": "-26.48862000",
+      "longitude": "27.49387000"
+    },
+    {
+      "id": 131114,
+      "name": "Ga-Rankuwa",
+      "latitude": "-25.61692000",
+      "longitude": "27.99471000"
+    },
+    {
+      "id": 131134,
+      "name": "Jan Kempdorp",
+      "latitude": "-27.92246000",
+      "longitude": "24.83051000"
+    },
+    {
+      "id": 131142,
+      "name": "Klerksdorp",
+      "latitude": "-26.85213000",
+      "longitude": "26.66672000"
+    },
+    {
+      "id": 131147,
+      "name": "Koster",
+      "latitude": "-25.86301000",
+      "longitude": "26.89756000"
+    },
+    {
+      "id": 131162,
+      "name": "Lichtenburg",
+      "latitude": "-26.15200000",
+      "longitude": "26.15968000"
+    },
+    {
+      "id": 131167,
+      "name": "Mahikeng",
+      "latitude": "-25.86522000",
+      "longitude": "25.64421000"
+    },
+    {
+      "id": 131168,
+      "name": "Maile",
+      "latitude": "-25.44152000",
+      "longitude": "27.28165000"
+    },
+    {
+      "id": 131178,
+      "name": "Mmabatho",
+      "latitude": "-25.85000000",
+      "longitude": "25.63333000"
+    },
+    {
+      "id": 131201,
+      "name": "Ngaka Modiri Molema District Municipality",
+      "latitude": "-25.95559000",
+      "longitude": "25.80782000"
+    },
+    {
+      "id": 131209,
+      "name": "Orkney",
+      "latitude": "-26.98023000",
+      "longitude": "26.67272000"
+    },
+    {
+      "id": 131229,
+      "name": "Potchefstroom",
+      "latitude": "-26.71667000",
+      "longitude": "27.10000000"
+    },
+    {
+      "id": 131247,
+      "name": "Rustenburg",
+      "latitude": "-25.66756000",
+      "longitude": "27.24208000"
+    },
+    {
+      "id": 131250,
+      "name": "Schweizer-Reneke",
+      "latitude": "-27.18871000",
+      "longitude": "25.32931000"
+    },
+    {
+      "id": 131265,
+      "name": "Stilfontein",
+      "latitude": "-26.84493000",
+      "longitude": "26.76829000"
+    },
+    {
+      "id": 131296,
+      "name": "Vryburg",
+      "latitude": "-26.95659000",
+      "longitude": "24.72840000"
+    },
+    {
+      "id": 131312,
+      "name": "Wolmaransstad",
+      "latitude": "-27.19740000",
+      "longitude": "25.98311000"
+    },
+    {
+      "id": 131316,
+      "name": "Zeerust",
+      "latitude": "-25.53695000",
+      "longitude": "26.07512000"
+    }
+  ],
+  "country": {
+    "id": 204,
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "numeric_code": "710",
+    "phone_code": "27",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "tld": ".za",
+    "native": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "남아프리카 공화국",
+      "pt-BR": "República Sul-Africana",
+      "pt": "República Sul-Africana",
+      "nl": "Zuid-Afrika",
+      "hr": "Južnoafrička Republika",
+      "fa": "آفریقای جنوبی",
+      "de": "Republik Südafrika",
+      "es": "República de Sudáfrica",
+      "fr": "Afrique du Sud",
+      "ja": "南アフリカ",
+      "it": "Sud Africa",
+      "cn": "南非",
+      "tr": "Güney Afrika Cumhuriyeti"
+    },
+    "latitude": "-29.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇿🇦",
+    "emojiU": "U+1F1FF U+1F1E6"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": 2553,
+  "name": "Monastir",
+  "state_code": "52",
+  "latitude": "35.76425150",
+  "longitude": "10.81128850",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106918,
+      "name": "Banbalah",
+      "latitude": "35.70000000",
+      "longitude": "10.80000000"
+    },
+    {
+      "id": 106919,
+      "name": "Bekalta",
+      "latitude": "35.61739000",
+      "longitude": "10.99466000"
+    },
+    {
+      "id": 106922,
+      "name": "Beni Hassane",
+      "latitude": "35.56720000",
+      "longitude": "10.80869000"
+    },
+    {
+      "id": 106937,
+      "name": "Djemmal",
+      "latitude": "35.62231000",
+      "longitude": "10.75696000"
+    },
+    {
+      "id": 106972,
+      "name": "Ksar Hellal",
+      "latitude": "35.64773000",
+      "longitude": "10.89046000"
+    },
+    {
+      "id": 106973,
+      "name": "Ksibet el Mediouni",
+      "latitude": "35.68561000",
+      "longitude": "10.84256000"
+    },
+    {
+      "id": 106979,
+      "name": "Lemta",
+      "latitude": "35.66667000",
+      "longitude": "10.88333000"
+    },
+    {
+      "id": 106991,
+      "name": "Menzel Kamel",
+      "latitude": "35.62477000",
+      "longitude": "10.66727000"
+    },
+    {
+      "id": 106993,
+      "name": "Mesdour",
+      "latitude": "35.68206000",
+      "longitude": "10.72746000"
+    },
+    {
+      "id": 106997,
+      "name": "Monastir",
+      "latitude": "35.77799000",
+      "longitude": "10.82617000"
+    },
+    {
+      "id": 107003,
+      "name": "Ouardenine",
+      "latitude": "35.70915000",
+      "longitude": "10.67397000"
+    },
+    {
+      "id": 107012,
+      "name": "Sahline",
+      "latitude": "35.75166000",
+      "longitude": "10.71109000"
+    },
+    {
+      "id": 107018,
+      "name": "Seïada",
+      "latitude": "35.66887000",
+      "longitude": "10.89246000"
+    },
+    {
+      "id": 107021,
+      "name": "Sidi Ben Nour",
+      "latitude": "35.53333000",
+      "longitude": "10.91667000"
+    },
+    {
+      "id": 107027,
+      "name": "Skanes",
+      "latitude": "35.78333000",
+      "longitude": "10.80000000"
+    },
+    {
+      "id": 107037,
+      "name": "Touza",
+      "latitude": "35.63544000",
+      "longitude": "10.82732000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

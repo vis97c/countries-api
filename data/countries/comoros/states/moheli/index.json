@@ -1,0 +1,96 @@
+{
+  "id": 2820,
+  "name": "Mohéli",
+  "state_code": "M",
+  "latitude": "-12.33773760",
+  "longitude": "43.73340890",
+  "type": null,
+  "cities": [
+    {
+      "id": 65098,
+      "name": "Djoyézi",
+      "latitude": "-12.30587000",
+      "longitude": "43.77425000"
+    },
+    {
+      "id": 65103,
+      "name": "Fomboni",
+      "latitude": "-12.28759000",
+      "longitude": "43.74344000"
+    },
+    {
+      "id": 65108,
+      "name": "Hoani",
+      "latitude": "-12.25083000",
+      "longitude": "43.67472000"
+    },
+    {
+      "id": 65140,
+      "name": "Mtakoudja",
+      "latitude": "-12.26111000",
+      "longitude": "43.70361000"
+    },
+    {
+      "id": 65143,
+      "name": "Nioumachoua",
+      "latitude": "-12.36139000",
+      "longitude": "43.71528000"
+    },
+    {
+      "id": 65148,
+      "name": "Ouanani",
+      "latitude": "-12.33750000",
+      "longitude": "43.79750000"
+    },
+    {
+      "id": 65166,
+      "name": "Ziroudani",
+      "latitude": "-12.33250000",
+      "longitude": "43.77750000"
+    }
+  ],
+  "country": {
+    "id": 49,
+    "name": "Comoros",
+    "iso3": "COM",
+    "iso2": "KM",
+    "numeric_code": "174",
+    "phone_code": "269",
+    "capital": "Moroni",
+    "currency": "KMF",
+    "currency_name": "Comorian franc",
+    "currency_symbol": "CF",
+    "tld": ".km",
+    "native": "Komori",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Indian/Comoro",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "코모로",
+      "pt-BR": "Comores",
+      "pt": "Comores",
+      "nl": "Comoren",
+      "hr": "Komori",
+      "fa": "کومور",
+      "de": "Union der Komoren",
+      "es": "Comoras",
+      "fr": "Comores",
+      "ja": "コモロ",
+      "it": "Comore",
+      "cn": "科摩罗",
+      "tr": "Komorlar"
+    },
+    "latitude": "-12.16666666",
+    "longitude": "44.25000000",
+    "emoji": "🇰🇲",
+    "emojiU": "U+1F1F0 U+1F1F2"
+  }
+}

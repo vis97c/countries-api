@@ -1,0 +1,432 @@
+{
+  "id": 823,
+  "name": "Tokyo",
+  "state_code": "13",
+  "latitude": "35.67619190",
+  "longitude": "139.65031060",
+  "type": null,
+  "cities": [
+    {
+      "id": 63215,
+      "name": "Adachi Ku",
+      "latitude": "35.77880000",
+      "longitude": "139.79509000"
+    },
+    {
+      "id": 63231,
+      "name": "Akiruno-shi",
+      "latitude": "35.73285000",
+      "longitude": "139.22525000"
+    },
+    {
+      "id": 63232,
+      "name": "Akishima-shi",
+      "latitude": "35.70782000",
+      "longitude": "139.36418000"
+    },
+    {
+      "id": 63252,
+      "name": "Arakawa Ku",
+      "latitude": "35.73993000",
+      "longitude": "139.78130000"
+    },
+    {
+      "id": 63289,
+      "name": "Bunkyō-ku",
+      "latitude": "35.71745000",
+      "longitude": "139.74729000"
+    },
+    {
+      "id": 63311,
+      "name": "Chiyoda-ku",
+      "latitude": "35.69402000",
+      "longitude": "139.75363000"
+    },
+    {
+      "id": 63312,
+      "name": "Chōfu",
+      "latitude": "35.65924000",
+      "longitude": "139.54837000"
+    },
+    {
+      "id": 63313,
+      "name": "Chōfu-shi",
+      "latitude": "35.65000000",
+      "longitude": "139.55000000"
+    },
+    {
+      "id": 63315,
+      "name": "Chūō Ku",
+      "latitude": "35.66993000",
+      "longitude": "139.77705000"
+    },
+    {
+      "id": 63330,
+      "name": "Edogawa Ku",
+      "latitude": "35.69242000",
+      "longitude": "139.87567000"
+    },
+    {
+      "id": 63336,
+      "name": "Fuchū-shi",
+      "latitude": "35.66667000",
+      "longitude": "139.50000000"
+    },
+    {
+      "id": 63380,
+      "name": "Fussa",
+      "latitude": "35.73667000",
+      "longitude": "139.32361000"
+    },
+    {
+      "id": 63410,
+      "name": "Hachiōji",
+      "latitude": "35.65583000",
+      "longitude": "139.32389000"
+    },
+    {
+      "id": 63429,
+      "name": "Hamura-shi",
+      "latitude": "35.76351000",
+      "longitude": "139.31411000"
+    },
+    {
+      "id": 63458,
+      "name": "Higashi-murayama-shi",
+      "latitude": "35.75529000",
+      "longitude": "139.46972000"
+    },
+    {
+      "id": 63461,
+      "name": "Higashikurume-shi",
+      "latitude": "35.75821000",
+      "longitude": "139.52954000"
+    },
+    {
+      "id": 63465,
+      "name": "Higashimurayama",
+      "latitude": "35.75459000",
+      "longitude": "139.46852000"
+    },
+    {
+      "id": 63468,
+      "name": "Higashiyamato",
+      "latitude": "35.76298000",
+      "longitude": "139.44575000"
+    },
+    {
+      "id": 63469,
+      "name": "Higashiyamato-shi",
+      "latitude": "35.75031000",
+      "longitude": "139.42660000"
+    },
+    {
+      "id": 63483,
+      "name": "Hino",
+      "latitude": "35.67306000",
+      "longitude": "139.40028000"
+    },
+    {
+      "id": 63484,
+      "name": "Hino-shi",
+      "latitude": "35.66333000",
+      "longitude": "139.39865000"
+    },
+    {
+      "id": 63569,
+      "name": "Inagi-shi",
+      "latitude": "35.63290000",
+      "longitude": "139.49291000"
+    },
+    {
+      "id": 63605,
+      "name": "Itabashi-ku",
+      "latitude": "35.75118000",
+      "longitude": "139.70927000"
+    },
+    {
+      "id": 63615,
+      "name": "Itsukaichi",
+      "latitude": "35.72528000",
+      "longitude": "139.21778000"
+    },
+    {
+      "id": 63697,
+      "name": "Kamirenjaku",
+      "latitude": "35.69423000",
+      "longitude": "139.55495000"
+    },
+    {
+      "id": 63758,
+      "name": "Katsushika Ku",
+      "latitude": "35.75324000",
+      "longitude": "139.85567000"
+    },
+    {
+      "id": 63797,
+      "name": "Kita-ku",
+      "latitude": "35.75264000",
+      "longitude": "139.73348000"
+    },
+    {
+      "id": 63815,
+      "name": "Kiyose-shi",
+      "latitude": "35.78551000",
+      "longitude": "139.52628000"
+    },
+    {
+      "id": 63821,
+      "name": "Kodaira-shi",
+      "latitude": "35.72738000",
+      "longitude": "139.48173000"
+    },
+    {
+      "id": 63827,
+      "name": "Koganei-shi",
+      "latitude": "35.70108000",
+      "longitude": "139.51104000"
+    },
+    {
+      "id": 63830,
+      "name": "Kokubunji",
+      "latitude": "35.70222000",
+      "longitude": "139.47556000"
+    },
+    {
+      "id": 63831,
+      "name": "Kokubunji-shi",
+      "latitude": "35.70552000",
+      "longitude": "139.46125000"
+    },
+    {
+      "id": 63832,
+      "name": "Komae-shi",
+      "latitude": "35.63487000",
+      "longitude": "139.57723000"
+    },
+    {
+      "id": 63903,
+      "name": "Kōtō-ku",
+      "latitude": "35.66667000",
+      "longitude": "139.81667000"
+    },
+    {
+      "id": 63864,
+      "name": "Kunitachi-shi",
+      "latitude": "35.68634000",
+      "longitude": "139.43878000"
+    },
+    {
+      "id": 63905,
+      "name": "Machida",
+      "latitude": "35.54028000",
+      "longitude": "139.45083000"
+    },
+    {
+      "id": 63906,
+      "name": "Machida-shi",
+      "latitude": "35.57626000",
+      "longitude": "139.42998000"
+    },
+    {
+      "id": 63943,
+      "name": "Meguro-ku",
+      "latitude": "35.64146000",
+      "longitude": "139.69817000"
+    },
+    {
+      "id": 63974,
+      "name": "Minato-ku",
+      "latitude": "35.65000000",
+      "longitude": "139.73333000"
+    },
+    {
+      "id": 63988,
+      "name": "Mitaka-shi",
+      "latitude": "35.68351000",
+      "longitude": "139.55963000"
+    },
+    {
+      "id": 64051,
+      "name": "Musashimurayama-shi",
+      "latitude": "35.75037000",
+      "longitude": "139.38391000"
+    },
+    {
+      "id": 64052,
+      "name": "Musashino",
+      "latitude": "35.70611000",
+      "longitude": "139.55944000"
+    },
+    {
+      "id": 64053,
+      "name": "Musashino-shi",
+      "latitude": "35.71771000",
+      "longitude": "139.56600000"
+    },
+    {
+      "id": 64087,
+      "name": "Nakano-ku",
+      "latitude": "35.71091000",
+      "longitude": "139.66248000"
+    },
+    {
+      "id": 64122,
+      "name": "Nerima-ku",
+      "latitude": "35.73551000",
+      "longitude": "139.65168000"
+    },
+    {
+      "id": 64146,
+      "name": "Nishi-Tokyo-shi",
+      "latitude": "35.72526000",
+      "longitude": "139.53830000"
+    },
+    {
+      "id": 64155,
+      "name": "Nishitōkyō-shi",
+      "latitude": "35.73485000",
+      "longitude": "139.54624000"
+    },
+    {
+      "id": 64738,
+      "name": "Ōme",
+      "latitude": "35.78389000",
+      "longitude": "139.24306000"
+    },
+    {
+      "id": 64739,
+      "name": "Ōme-shi",
+      "latitude": "35.78814000",
+      "longitude": "139.27501000"
+    },
+    {
+      "id": 64758,
+      "name": "Ōta-ku",
+      "latitude": "35.56126000",
+      "longitude": "139.71605000"
+    },
+    {
+      "id": 64302,
+      "name": "Setagaya-ku",
+      "latitude": "35.64657000",
+      "longitude": "139.65325000"
+    },
+    {
+      "id": 64316,
+      "name": "Shibuya-ku",
+      "latitude": "35.66404000",
+      "longitude": "139.69821000"
+    },
+    {
+      "id": 64338,
+      "name": "Shinagawa-ku",
+      "latitude": "35.60902000",
+      "longitude": "139.73017000"
+    },
+    {
+      "id": 64342,
+      "name": "Shinjuku-ku",
+      "latitude": "35.69384000",
+      "longitude": "139.70355000"
+    },
+    {
+      "id": 64376,
+      "name": "Suginami-ku",
+      "latitude": "35.69951000",
+      "longitude": "139.63641000"
+    },
+    {
+      "id": 64383,
+      "name": "Sumida-ku",
+      "latitude": "35.71072000",
+      "longitude": "139.80150000"
+    },
+    {
+      "id": 64405,
+      "name": "Tachikawa-shi",
+      "latitude": "35.71447000",
+      "longitude": "139.40453000"
+    },
+    {
+      "id": 64414,
+      "name": "Taitō-ku",
+      "latitude": "35.71261000",
+      "longitude": "139.78000000"
+    },
+    {
+      "id": 64455,
+      "name": "Tama-shi",
+      "latitude": "35.63054000",
+      "longitude": "139.43976000"
+    },
+    {
+      "id": 64465,
+      "name": "Tanashichō",
+      "latitude": "35.72922000",
+      "longitude": "139.53813000"
+    },
+    {
+      "id": 64500,
+      "name": "Tokyo",
+      "latitude": "35.68950000",
+      "longitude": "139.69171000"
+    },
+    {
+      "id": 64517,
+      "name": "Toshima-ku",
+      "latitude": "35.73246000",
+      "longitude": "139.71540000"
+    },
+    {
+      "id": 64597,
+      "name": "Urayasu",
+      "latitude": "35.67056000",
+      "longitude": "139.88861000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

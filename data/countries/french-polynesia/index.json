@@ -1,0 +1,59 @@
+{
+  "id": 77,
+  "name": "French Polynesia",
+  "iso3": "PYF",
+  "iso2": "PF",
+  "numeric_code": "258",
+  "phone_code": "689",
+  "capital": "Papeete",
+  "currency": "XPF",
+  "currency_name": "CFP franc",
+  "currency_symbol": "₣",
+  "tld": ".pf",
+  "native": "Polynésie française",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Gambier",
+      "gmtOffset": -32400,
+      "gmtOffsetName": "UTC-09:00",
+      "abbreviation": "GAMT",
+      "tzName": "Gambier Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Marquesas",
+      "gmtOffset": -34200,
+      "gmtOffsetName": "UTC-09:30",
+      "abbreviation": "MART",
+      "tzName": "Marquesas Islands Time"
+    },
+    {
+      "zoneName": "Pacific/Tahiti",
+      "gmtOffset": -36000,
+      "gmtOffsetName": "UTC-10:00",
+      "abbreviation": "TAHT",
+      "tzName": "Tahiti Time"
+    }
+  ],
+  "translations": {
+    "kr": "프랑스령 폴리네시아",
+    "pt-BR": "Polinésia Francesa",
+    "pt": "Polinésia Francesa",
+    "nl": "Frans-Polynesië",
+    "hr": "Francuska Polinezija",
+    "fa": "پلی‌نزی فرانسه",
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fr": "Polynésie française",
+    "ja": "フランス領ポリネシア",
+    "it": "Polinesia Francese",
+    "cn": "法属波利尼西亚",
+    "tr": "Fransiz Polinezyasi"
+  },
+  "latitude": "-15.00000000",
+  "longitude": "-140.00000000",
+  "emoji": "🇵🇫",
+  "emojiU": "U+1F1F5 U+1F1EB",
+  "states": []
+}

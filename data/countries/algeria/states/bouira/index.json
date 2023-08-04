@@ -1,0 +1,90 @@
+{
+  "id": 1104,
+  "name": "Bouïra",
+  "state_code": "10",
+  "latitude": "36.36918460",
+  "longitude": "3.90061940",
+  "type": null,
+  "cities": [
+    {
+      "id": 31241,
+      "name": "Aïn Bessem",
+      "latitude": "36.29333000",
+      "longitude": "3.67319000"
+    },
+    {
+      "id": 31295,
+      "name": "Bouïra",
+      "latitude": "36.37489000",
+      "longitude": "3.90200000"
+    },
+    {
+      "id": 31309,
+      "name": "Chorfa",
+      "latitude": "36.36505000",
+      "longitude": "4.32636000"
+    },
+    {
+      "id": 31322,
+      "name": "Draa el Mizan",
+      "latitude": "36.53628000",
+      "longitude": "3.83340000"
+    },
+    {
+      "id": 31368,
+      "name": "Lakhdaria",
+      "latitude": "36.56463000",
+      "longitude": "3.59330000"
+    },
+    {
+      "id": 31439,
+      "name": "Sour el Ghozlane",
+      "latitude": "36.14766000",
+      "longitude": "3.69123000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

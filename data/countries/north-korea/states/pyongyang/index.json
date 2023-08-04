@@ -1,0 +1,84 @@
+{
+  "id": 4005,
+  "name": "Pyongyang",
+  "state_code": "01",
+  "latitude": "39.03921930",
+  "longitude": "125.76252410",
+  "type": null,
+  "cities": [
+    {
+      "id": 65190,
+      "name": "Chunghwa",
+      "latitude": "38.86389000",
+      "longitude": "125.80000000"
+    },
+    {
+      "id": 65207,
+      "name": "Kangdong-ŭp",
+      "latitude": "39.14250000",
+      "longitude": "126.09611000"
+    },
+    {
+      "id": 65231,
+      "name": "Pyongyang",
+      "latitude": "39.03385000",
+      "longitude": "125.75432000"
+    },
+    {
+      "id": 65244,
+      "name": "Sunan",
+      "latitude": "39.19833000",
+      "longitude": "125.69000000"
+    },
+    {
+      "id": 65248,
+      "name": "Sŭngho 1-tong",
+      "latitude": "38.99139000",
+      "longitude": "125.97778000"
+    }
+  ],
+  "country": {
+    "id": 115,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phone_code": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조선민주주의인민공화국",
+      "pt-BR": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "cn": "朝鲜",
+      "tr": "Kuzey Kore"
+    },
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  }
+}

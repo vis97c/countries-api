@@ -1,0 +1,120 @@
+{
+  "id": 320,
+  "name": "Adamawa",
+  "state_code": "AD",
+  "latitude": "9.32647510",
+  "longitude": "12.39838530",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76876,
+      "name": "Ganye",
+      "latitude": "8.43497000",
+      "longitude": "12.05107000"
+    },
+    {
+      "id": 76885,
+      "name": "Gombi",
+      "latitude": "10.16756000",
+      "longitude": "12.73684000"
+    },
+    {
+      "id": 76904,
+      "name": "Holma",
+      "latitude": "9.89863000",
+      "longitude": "13.05450000"
+    },
+    {
+      "id": 76962,
+      "name": "Jimeta",
+      "latitude": "9.27949000",
+      "longitude": "12.45819000"
+    },
+    {
+      "id": 77013,
+      "name": "Madagali",
+      "latitude": "10.88942000",
+      "longitude": "13.62832000"
+    },
+    {
+      "id": 77027,
+      "name": "Mayo-Belwa",
+      "latitude": "9.05421000",
+      "longitude": "12.05794000"
+    },
+    {
+      "id": 77035,
+      "name": "Mubi",
+      "latitude": "10.26858000",
+      "longitude": "13.26701000"
+    },
+    {
+      "id": 77041,
+      "name": "Ngurore",
+      "latitude": "9.28871000",
+      "longitude": "12.24026000"
+    },
+    {
+      "id": 77046,
+      "name": "Numan",
+      "latitude": "9.46374000",
+      "longitude": "12.03062000"
+    },
+    {
+      "id": 77114,
+      "name": "Toungo",
+      "latitude": "8.11733000",
+      "longitude": "12.04611000"
+    },
+    {
+      "id": 77146,
+      "name": "Yola",
+      "latitude": "9.20839000",
+      "longitude": "12.48146000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

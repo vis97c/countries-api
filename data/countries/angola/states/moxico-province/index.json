@@ -1,0 +1,78 @@
+{
+  "id": 219,
+  "name": "Moxico Province",
+  "state_code": "MOX",
+  "latitude": "-13.42935790",
+  "longitude": "20.33088140",
+  "type": null,
+  "cities": [
+    {
+      "id": 621,
+      "name": "Léua",
+      "latitude": "-11.65000000",
+      "longitude": "20.45000000"
+    },
+    {
+      "id": 616,
+      "name": "Luau",
+      "latitude": "-10.70727000",
+      "longitude": "22.22466000"
+    },
+    {
+      "id": 619,
+      "name": "Luena",
+      "latitude": "-11.78333000",
+      "longitude": "19.91667000"
+    },
+    {
+      "id": 620,
+      "name": "Lumeje",
+      "latitude": "-11.55000000",
+      "longitude": "20.78333000"
+    }
+  ],
+  "country": {
+    "id": 7,
+    "name": "Angola",
+    "iso3": "AGO",
+    "iso2": "AO",
+    "numeric_code": "024",
+    "phone_code": "244",
+    "capital": "Luanda",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "native": "Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "앙골라",
+      "pt-BR": "Angola",
+      "pt": "Angola",
+      "nl": "Angola",
+      "hr": "Angola",
+      "fa": "آنگولا",
+      "de": "Angola",
+      "es": "Angola",
+      "fr": "Angola",
+      "ja": "アンゴラ",
+      "it": "Angola",
+      "cn": "安哥拉",
+      "tr": "Angola"
+    },
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  }
+}

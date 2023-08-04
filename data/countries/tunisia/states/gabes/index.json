@@ -1,0 +1,78 @@
+{
+  "id": 2558,
+  "name": "Gabès",
+  "state_code": "81",
+  "latitude": "33.94596480",
+  "longitude": "9.72326730",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106929,
+      "name": "Bou Attouche",
+      "latitude": "33.89927000",
+      "longitude": "9.78496000"
+    },
+    {
+      "id": 106945,
+      "name": "El Hamma",
+      "latitude": "33.89152000",
+      "longitude": "9.79629000"
+    },
+    {
+      "id": 106952,
+      "name": "Gabès",
+      "latitude": "33.88146000",
+      "longitude": "10.09820000"
+    },
+    {
+      "id": 106984,
+      "name": "Matmata",
+      "latitude": "33.54445000",
+      "longitude": "9.97157000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

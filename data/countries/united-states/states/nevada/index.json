@@ -1,0 +1,742 @@
+{
+  "id": 1458,
+  "name": "Nevada",
+  "state_code": "NV",
+  "latitude": "38.80260970",
+  "longitude": "-116.41938900",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111095,
+      "name": "Alamo",
+      "latitude": "37.36496000",
+      "longitude": "-115.16446000"
+    },
+    {
+      "id": 111908,
+      "name": "Battle Mountain",
+      "latitude": "40.64213000",
+      "longitude": "-116.93427000"
+    },
+    {
+      "id": 111982,
+      "name": "Beatty",
+      "latitude": "36.90856000",
+      "longitude": "-116.75923000"
+    },
+    {
+      "id": 112602,
+      "name": "Boulder City",
+      "latitude": "35.97859000",
+      "longitude": "-114.83249000"
+    },
+    {
+      "id": 113043,
+      "name": "Bunkerville",
+      "latitude": "36.77303000",
+      "longitude": "-114.12802000"
+    },
+    {
+      "id": 113213,
+      "name": "Caliente",
+      "latitude": "37.61496000",
+      "longitude": "-114.51194000"
+    },
+    {
+      "id": 113399,
+      "name": "Carlin",
+      "latitude": "40.71381000",
+      "longitude": "-116.10397000"
+    },
+    {
+      "id": 113478,
+      "name": "Carson City",
+      "latitude": "39.16380000",
+      "longitude": "-119.76740000"
+    },
+    {
+      "id": 114012,
+      "name": "Churchill County",
+      "latitude": "39.58088000",
+      "longitude": "-118.33578000"
+    },
+    {
+      "id": 114129,
+      "name": "Clark County",
+      "latitude": "36.21520000",
+      "longitude": "-115.01356000"
+    },
+    {
+      "id": 114389,
+      "name": "Cold Springs",
+      "latitude": "39.68019000",
+      "longitude": "-119.97659000"
+    },
+    {
+      "id": 115098,
+      "name": "Dayton",
+      "latitude": "39.23714000",
+      "longitude": "-119.59295000"
+    },
+    {
+      "id": 115434,
+      "name": "Douglas County",
+      "latitude": "38.91224000",
+      "longitude": "-119.61637000"
+    },
+    {
+      "id": 115768,
+      "name": "East Valley",
+      "latitude": "38.94340000",
+      "longitude": "-119.69923000"
+    },
+    {
+      "id": 116008,
+      "name": "Elko",
+      "latitude": "40.83242000",
+      "longitude": "-115.76312000"
+    },
+    {
+      "id": 116009,
+      "name": "Elko County",
+      "latitude": "41.14583000",
+      "longitude": "-115.35776000"
+    },
+    {
+      "id": 116086,
+      "name": "Ely",
+      "latitude": "39.24744000",
+      "longitude": "-114.88863000"
+    },
+    {
+      "id": 116149,
+      "name": "Enterprise",
+      "latitude": "36.02525000",
+      "longitude": "-115.24194000"
+    },
+    {
+      "id": 116186,
+      "name": "Esmeralda County",
+      "latitude": "37.78470000",
+      "longitude": "-117.63237000"
+    },
+    {
+      "id": 116237,
+      "name": "Eureka",
+      "latitude": "39.51271000",
+      "longitude": "-115.96061000"
+    },
+    {
+      "id": 116238,
+      "name": "Eureka County",
+      "latitude": "39.98389000",
+      "longitude": "-116.26856000"
+    },
+    {
+      "id": 116378,
+      "name": "Fallon",
+      "latitude": "39.47353000",
+      "longitude": "-118.77737000"
+    },
+    {
+      "id": 116491,
+      "name": "Fernley",
+      "latitude": "39.60797000",
+      "longitude": "-119.25183000"
+    },
+    {
+      "id": 117078,
+      "name": "Gardnerville",
+      "latitude": "38.94130000",
+      "longitude": "-119.74962000"
+    },
+    {
+      "id": 117079,
+      "name": "Gardnerville Ranchos",
+      "latitude": "38.88824000",
+      "longitude": "-119.74129000"
+    },
+    {
+      "id": 117357,
+      "name": "Golden Valley",
+      "latitude": "39.61547000",
+      "longitude": "-119.82658000"
+    },
+    {
+      "id": 117363,
+      "name": "Goldfield",
+      "latitude": "37.70854000",
+      "longitude": "-117.23563000"
+    },
+    {
+      "id": 118176,
+      "name": "Hawthorne",
+      "latitude": "38.52464000",
+      "longitude": "-118.62458000"
+    },
+    {
+      "id": 118278,
+      "name": "Henderson",
+      "latitude": "36.03970000",
+      "longitude": "-114.98194000"
+    },
+    {
+      "id": 118780,
+      "name": "Humboldt County",
+      "latitude": "41.40684000",
+      "longitude": "-118.11197000"
+    },
+    {
+      "id": 118888,
+      "name": "Incline Village",
+      "latitude": "39.25130000",
+      "longitude": "-119.97297000"
+    },
+    {
+      "id": 118909,
+      "name": "Indian Hills",
+      "latitude": "39.08602000",
+      "longitude": "-119.78407000"
+    },
+    {
+      "id": 119057,
+      "name": "Jackpot",
+      "latitude": "41.98324000",
+      "longitude": "-114.67476000"
+    },
+    {
+      "id": 119273,
+      "name": "Johnson Lane",
+      "latitude": "39.04796000",
+      "longitude": "-119.72212000"
+    },
+    {
+      "id": 119610,
+      "name": "Kingsbury",
+      "latitude": "38.97713000",
+      "longitude": "-119.90685000"
+    },
+    {
+      "id": 120097,
+      "name": "Lander County",
+      "latitude": "39.93381000",
+      "longitude": "-117.03791000"
+    },
+    {
+      "id": 120163,
+      "name": "Las Vegas",
+      "latitude": "36.17497000",
+      "longitude": "-115.13722000"
+    },
+    {
+      "id": 120185,
+      "name": "Laughlin",
+      "latitude": "35.16778000",
+      "longitude": "-114.57302000"
+    },
+    {
+      "id": 120358,
+      "name": "Lemmon Valley",
+      "latitude": "39.63602000",
+      "longitude": "-119.84325000"
+    },
+    {
+      "id": 120532,
+      "name": "Lincoln County",
+      "latitude": "37.64335000",
+      "longitude": "-114.87755000"
+    },
+    {
+      "id": 120825,
+      "name": "Lovelock",
+      "latitude": "40.17935000",
+      "longitude": "-118.47348000"
+    },
+    {
+      "id": 120939,
+      "name": "Lyon County",
+      "latitude": "39.02040000",
+      "longitude": "-119.18920000"
+    },
+    {
+      "id": 121502,
+      "name": "McGill",
+      "latitude": "39.40494000",
+      "longitude": "-114.77863000"
+    },
+    {
+      "id": 121727,
+      "name": "Mesquite",
+      "latitude": "36.80553000",
+      "longitude": "-114.06719000"
+    },
+    {
+      "id": 121930,
+      "name": "Minden",
+      "latitude": "38.95407000",
+      "longitude": "-119.76573000"
+    },
+    {
+      "id": 121936,
+      "name": "Mineral County",
+      "latitude": "38.53881000",
+      "longitude": "-118.43521000"
+    },
+    {
+      "id": 122007,
+      "name": "Moapa Town",
+      "latitude": "36.68219000",
+      "longitude": "-114.59416000"
+    },
+    {
+      "id": 122008,
+      "name": "Moapa Valley",
+      "latitude": "36.58053000",
+      "longitude": "-114.47026000"
+    },
+    {
+      "id": 122017,
+      "name": "Mogul",
+      "latitude": "39.51380000",
+      "longitude": "-119.92603000"
+    },
+    {
+      "id": 122622,
+      "name": "Nellis Air Force Base",
+      "latitude": "36.24607000",
+      "longitude": "-115.05721000"
+    },
+    {
+      "id": 123052,
+      "name": "North Las Vegas",
+      "latitude": "36.19886000",
+      "longitude": "-115.11750000"
+    },
+    {
+      "id": 123222,
+      "name": "Nye County",
+      "latitude": "38.04238000",
+      "longitude": "-116.47193000"
+    },
+    {
+      "id": 123724,
+      "name": "Pahrump",
+      "latitude": "36.20829000",
+      "longitude": "-115.98391000"
+    },
+    {
+      "id": 123819,
+      "name": "Paradise",
+      "latitude": "36.09719000",
+      "longitude": "-115.14666000"
+    },
+    {
+      "id": 124091,
+      "name": "Pershing County",
+      "latitude": "40.44036000",
+      "longitude": "-118.40444000"
+    },
+    {
+      "id": 124273,
+      "name": "Pioche",
+      "latitude": "37.92969000",
+      "longitude": "-114.45221000"
+    },
+    {
+      "id": 125020,
+      "name": "Reno",
+      "latitude": "39.52963000",
+      "longitude": "-119.81380000"
+    },
+    {
+      "id": 125885,
+      "name": "Sandy Valley",
+      "latitude": "35.81692000",
+      "longitude": "-115.63223000"
+    },
+    {
+      "id": 126435,
+      "name": "Silver Springs",
+      "latitude": "39.41547000",
+      "longitude": "-119.22461000"
+    },
+    {
+      "id": 126510,
+      "name": "Smith",
+      "latitude": "38.80047000",
+      "longitude": "-119.32738000"
+    },
+    {
+      "id": 126517,
+      "name": "Smith Valley",
+      "latitude": "38.78421000",
+      "longitude": "-119.34425000"
+    },
+    {
+      "id": 126801,
+      "name": "Spanish Springs",
+      "latitude": "39.64908000",
+      "longitude": "-119.70741000"
+    },
+    {
+      "id": 126805,
+      "name": "Sparks",
+      "latitude": "39.53491000",
+      "longitude": "-119.75269000"
+    },
+    {
+      "id": 126854,
+      "name": "Spring Creek",
+      "latitude": "40.72659000",
+      "longitude": "-115.58590000"
+    },
+    {
+      "id": 126881,
+      "name": "Spring Valley",
+      "latitude": "36.10803000",
+      "longitude": "-115.24500000"
+    },
+    {
+      "id": 126939,
+      "name": "Stagecoach",
+      "latitude": "39.37380000",
+      "longitude": "-119.37406000"
+    },
+    {
+      "id": 127102,
+      "name": "Storey County",
+      "latitude": "39.44653000",
+      "longitude": "-119.52917000"
+    },
+    {
+      "id": 127205,
+      "name": "Summerlin South",
+      "latitude": "36.11708000",
+      "longitude": "-115.33001000"
+    },
+    {
+      "id": 127242,
+      "name": "Sun Valley",
+      "latitude": "39.59630000",
+      "longitude": "-119.77602000"
+    },
+    {
+      "id": 127269,
+      "name": "Sunrise Manor",
+      "latitude": "36.21108000",
+      "longitude": "-115.07306000"
+    },
+    {
+      "id": 127722,
+      "name": "Tonopah",
+      "latitude": "38.06716000",
+      "longitude": "-117.23008000"
+    },
+    {
+      "id": 127731,
+      "name": "Topaz Ranch Estates",
+      "latitude": "38.73565000",
+      "longitude": "-119.50079000"
+    },
+    {
+      "id": 128180,
+      "name": "Verdi",
+      "latitude": "39.51824000",
+      "longitude": "-119.98881000"
+    },
+    {
+      "id": 128290,
+      "name": "Virginia City",
+      "latitude": "39.30963000",
+      "longitude": "-119.64962000"
+    },
+    {
+      "id": 128590,
+      "name": "Washoe County",
+      "latitude": "40.66542000",
+      "longitude": "-119.66430000"
+    },
+    {
+      "id": 128783,
+      "name": "Wells",
+      "latitude": "41.11159000",
+      "longitude": "-114.96449000"
+    },
+    {
+      "id": 129004,
+      "name": "West Wendover",
+      "latitude": "40.73910000",
+      "longitude": "-114.07335000"
+    },
+    {
+      "id": 129153,
+      "name": "White Pine County",
+      "latitude": "39.44216000",
+      "longitude": "-114.90159000"
+    },
+    {
+      "id": 129209,
+      "name": "Whitney",
+      "latitude": "36.09831000",
+      "longitude": "-115.03630000"
+    },
+    {
+      "id": 129361,
+      "name": "Winchester",
+      "latitude": "36.12997000",
+      "longitude": "-115.11889000"
+    },
+    {
+      "id": 129411,
+      "name": "Winnemucca",
+      "latitude": "40.97296000",
+      "longitude": "-117.73568000"
+    },
+    {
+      "id": 129682,
+      "name": "Yerington",
+      "latitude": "38.98575000",
+      "longitude": "-119.16293000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

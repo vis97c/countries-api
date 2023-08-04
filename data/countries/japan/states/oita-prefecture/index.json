@@ -1,0 +1,210 @@
+{
+  "id": 822,
+  "name": "Ōita Prefecture",
+  "state_code": "44",
+  "latitude": "33.15892990",
+  "longitude": "131.36111210",
+  "type": null,
+  "cities": [
+    {
+      "id": 63283,
+      "name": "Beppu",
+      "latitude": "33.27945000",
+      "longitude": "131.49751000"
+    },
+    {
+      "id": 63284,
+      "name": "Beppu Shi",
+      "latitude": "33.28573000",
+      "longitude": "131.45280000"
+    },
+    {
+      "id": 63288,
+      "name": "Bungo-ōno Shi",
+      "latitude": "32.97249000",
+      "longitude": "131.51210000"
+    },
+    {
+      "id": 63287,
+      "name": "Bungo-Takada-shi",
+      "latitude": "33.55670000",
+      "longitude": "131.44506000"
+    },
+    {
+      "id": 63472,
+      "name": "Hiji",
+      "latitude": "33.37081000",
+      "longitude": "131.53025000"
+    },
+    {
+      "id": 63502,
+      "name": "Hita",
+      "latitude": "33.32130000",
+      "longitude": "130.94098000"
+    },
+    {
+      "id": 63503,
+      "name": "Hita Shi",
+      "latitude": "33.24452000",
+      "longitude": "130.95063000"
+    },
+    {
+      "id": 63813,
+      "name": "Kitsuki",
+      "latitude": "33.41998000",
+      "longitude": "131.61837000"
+    },
+    {
+      "id": 63814,
+      "name": "Kitsuki Shi",
+      "latitude": "33.44729000",
+      "longitude": "131.53670000"
+    },
+    {
+      "id": 63863,
+      "name": "Kunisaki-shi",
+      "latitude": "33.56543000",
+      "longitude": "131.73157000"
+    },
+    {
+      "id": 64089,
+      "name": "Nakatsu",
+      "latitude": "33.59811000",
+      "longitude": "131.18830000"
+    },
+    {
+      "id": 64090,
+      "name": "Nakatsu Shi",
+      "latitude": "33.46458000",
+      "longitude": "131.12642000"
+    },
+    {
+      "id": 64728,
+      "name": "Ōita",
+      "latitude": "33.23333000",
+      "longitude": "131.60000000"
+    },
+    {
+      "id": 64729,
+      "name": "Ōita-shi",
+      "latitude": "33.17980000",
+      "longitude": "131.64085000"
+    },
+    {
+      "id": 64248,
+      "name": "Saiki",
+      "latitude": "32.95000000",
+      "longitude": "131.90000000"
+    },
+    {
+      "id": 64249,
+      "name": "Saiki-shi",
+      "latitude": "32.88598000",
+      "longitude": "131.77600000"
+    },
+    {
+      "id": 64443,
+      "name": "Takedamachi",
+      "latitude": "32.96667000",
+      "longitude": "131.40000000"
+    },
+    {
+      "id": 64449,
+      "name": "Taketa-shi",
+      "latitude": "32.99774000",
+      "longitude": "131.32724000"
+    },
+    {
+      "id": 64544,
+      "name": "Tsukawaki",
+      "latitude": "33.27668000",
+      "longitude": "131.15628000"
+    },
+    {
+      "id": 64549,
+      "name": "Tsukumi-shi",
+      "latitude": "33.06667000",
+      "longitude": "131.86667000"
+    },
+    {
+      "id": 64550,
+      "name": "Tsukumiura",
+      "latitude": "33.07539000",
+      "longitude": "131.86907000"
+    },
+    {
+      "id": 64559,
+      "name": "Tsurusaki",
+      "latitude": "33.24528000",
+      "longitude": "131.69165000"
+    },
+    {
+      "id": 64601,
+      "name": "Usa Shi",
+      "latitude": "33.44996000",
+      "longitude": "131.33662000"
+    },
+    {
+      "id": 64605,
+      "name": "Usuki",
+      "latitude": "33.12342000",
+      "longitude": "131.80401000"
+    },
+    {
+      "id": 64606,
+      "name": "Usuki Shi",
+      "latitude": "33.07223000",
+      "longitude": "131.74457000"
+    },
+    {
+      "id": 64694,
+      "name": "Yufu-shi",
+      "latitude": "33.17923000",
+      "longitude": "131.43219000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

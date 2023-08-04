@@ -1,0 +1,192 @@
+{
+  "id": 1064,
+  "name": "Budapest",
+  "state_code": "BU",
+  "latitude": "47.49791200",
+  "longitude": "19.04023500",
+  "type": "capital city",
+  "cities": [
+    {
+      "id": 55263,
+      "name": "Budapest",
+      "latitude": "47.49835000",
+      "longitude": "19.04045000"
+    },
+    {
+      "id": 55264,
+      "name": "Budapest I. kerület",
+      "latitude": "47.49705000",
+      "longitude": "19.03961000"
+    },
+    {
+      "id": 55265,
+      "name": "Budapest II. kerület",
+      "latitude": "47.51984000",
+      "longitude": "19.02218000"
+    },
+    {
+      "id": 55266,
+      "name": "Budapest III. kerület",
+      "latitude": "47.54157000",
+      "longitude": "19.04501000"
+    },
+    {
+      "id": 55267,
+      "name": "Budapest IV. kerület",
+      "latitude": "47.56182000",
+      "longitude": "19.08909000"
+    },
+    {
+      "id": 55268,
+      "name": "Budapest VI. kerület",
+      "latitude": "47.50369000",
+      "longitude": "19.06583000"
+    },
+    {
+      "id": 55269,
+      "name": "Budapest VIII. kerület",
+      "latitude": "47.48919000",
+      "longitude": "19.07012000"
+    },
+    {
+      "id": 55270,
+      "name": "Budapest X. kerület",
+      "latitude": "47.47910000",
+      "longitude": "19.15835000"
+    },
+    {
+      "id": 55271,
+      "name": "Budapest XI. kerület",
+      "latitude": "47.47603000",
+      "longitude": "19.03605000"
+    },
+    {
+      "id": 55272,
+      "name": "Budapest XII. kerület",
+      "latitude": "47.49192000",
+      "longitude": "19.01493000"
+    },
+    {
+      "id": 55273,
+      "name": "Budapest XIII. kerület",
+      "latitude": "47.52978000",
+      "longitude": "19.08068000"
+    },
+    {
+      "id": 55274,
+      "name": "Budapest XV. kerület",
+      "latitude": "47.56263000",
+      "longitude": "19.11681000"
+    },
+    {
+      "id": 55275,
+      "name": "Budapest XVI. kerület",
+      "latitude": "47.51482000",
+      "longitude": "19.17028000"
+    },
+    {
+      "id": 55276,
+      "name": "Budapest XVII. kerület",
+      "latitude": "47.47997000",
+      "longitude": "19.25388000"
+    },
+    {
+      "id": 55277,
+      "name": "Budapest XVIII. kerület",
+      "latitude": "47.44417000",
+      "longitude": "19.17595000"
+    },
+    {
+      "id": 55278,
+      "name": "Budapest XX. kerület",
+      "latitude": "47.43674000",
+      "longitude": "19.10093000"
+    },
+    {
+      "id": 55279,
+      "name": "Budapest XXI. kerület",
+      "latitude": "47.43047000",
+      "longitude": "19.07098000"
+    },
+    {
+      "id": 55280,
+      "name": "Budapest XXII. kerület",
+      "latitude": "47.42698000",
+      "longitude": "19.04016000"
+    },
+    {
+      "id": 55281,
+      "name": "Budapest XXIII. kerület",
+      "latitude": "47.39788000",
+      "longitude": "19.11492000"
+    },
+    {
+      "id": 55413,
+      "name": "Erzsébetváros",
+      "latitude": "47.50207000",
+      "longitude": "19.07218000"
+    },
+    {
+      "id": 55554,
+      "name": "Józsefváros",
+      "latitude": "47.48938000",
+      "longitude": "19.07292000"
+    },
+    {
+      "id": 55607,
+      "name": "Kispest",
+      "latitude": "47.45150000",
+      "longitude": "19.14017000"
+    },
+    {
+      "id": 56133,
+      "name": "Zugló",
+      "latitude": "47.51758000",
+      "longitude": "19.10549000"
+    }
+  ],
+  "country": {
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phone_code": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "헝가리",
+      "pt-BR": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "cn": "匈牙利",
+      "tr": "Macaristan"
+    },
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  }
+}

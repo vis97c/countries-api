@@ -1,0 +1,78 @@
+{
+  "id": 481,
+  "name": "Kédougou",
+  "state_code": "KE",
+  "latitude": "12.56046070",
+  "longitude": "-12.17470770",
+  "type": null,
+  "cities": [
+    {
+      "id": 104709,
+      "name": "Département de Salémata",
+      "latitude": "12.59971000",
+      "longitude": "-12.77619000"
+    },
+    {
+      "id": 104727,
+      "name": "Kédougou",
+      "latitude": "12.55561000",
+      "longitude": "-12.18076000"
+    },
+    {
+      "id": 104728,
+      "name": "Kédougou Department",
+      "latitude": "12.81716000",
+      "longitude": "-12.17834000"
+    },
+    {
+      "id": 104758,
+      "name": "Saraya",
+      "latitude": "13.00150000",
+      "longitude": "-11.79627000"
+    }
+  ],
+  "country": {
+    "id": 195,
+    "name": "Senegal",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "numeric_code": "686",
+    "phone_code": "221",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "native": "Sénégal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "세네갈",
+      "pt-BR": "Senegal",
+      "pt": "Senegal",
+      "nl": "Senegal",
+      "hr": "Senegal",
+      "fa": "سنگال",
+      "de": "Senegal",
+      "es": "Senegal",
+      "fr": "Sénégal",
+      "ja": "セネガル",
+      "it": "Senegal",
+      "cn": "塞内加尔",
+      "tr": "Senegal"
+    },
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
+  }
+}

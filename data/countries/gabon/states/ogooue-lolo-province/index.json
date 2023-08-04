@@ -1,0 +1,66 @@
+{
+  "id": 2729,
+  "name": "Ogooué-Lolo Province",
+  "state_code": "7",
+  "latitude": "-0.88440930",
+  "longitude": "12.43805810",
+  "type": null,
+  "cities": [
+    {
+      "id": 48135,
+      "name": "Koulamoutou",
+      "latitude": "-1.13667000",
+      "longitude": "12.46399000"
+    },
+    {
+      "id": 48137,
+      "name": "Lastoursville",
+      "latitude": "-0.81742000",
+      "longitude": "12.70818000"
+    }
+  ],
+  "country": {
+    "id": 79,
+    "name": "Gabon",
+    "iso3": "GAB",
+    "iso2": "GA",
+    "numeric_code": "266",
+    "phone_code": "241",
+    "capital": "Libreville",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".ga",
+    "native": "Gabon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Libreville",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "가봉",
+      "pt-BR": "Gabão",
+      "pt": "Gabão",
+      "nl": "Gabon",
+      "hr": "Gabon",
+      "fa": "گابن",
+      "de": "Gabun",
+      "es": "Gabón",
+      "fr": "Gabon",
+      "ja": "ガボン",
+      "it": "Gabon",
+      "cn": "加蓬",
+      "tr": "Gabon"
+    },
+    "latitude": "-1.00000000",
+    "longitude": "11.75000000",
+    "emoji": "🇬🇦",
+    "emojiU": "U+1F1EC U+1F1E6"
+  }
+}

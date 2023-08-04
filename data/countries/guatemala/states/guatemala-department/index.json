@@ -1,0 +1,156 @@
+{
+  "id": 3672,
+  "name": "Guatemala Department",
+  "state_code": "GU",
+  "latitude": "14.56494010",
+  "longitude": "-90.52578230",
+  "type": null,
+  "cities": [
+    {
+      "id": 53430,
+      "name": "Amatitlán",
+      "latitude": "14.47740000",
+      "longitude": "-90.63489000"
+    },
+    {
+      "id": 53453,
+      "name": "Chinautla",
+      "latitude": "14.70289000",
+      "longitude": "-90.49983000"
+    },
+    {
+      "id": 53458,
+      "name": "Chuarrancho",
+      "latitude": "14.81794000",
+      "longitude": "-90.51568000"
+    },
+    {
+      "id": 53496,
+      "name": "Fraijanes",
+      "latitude": "14.46528000",
+      "longitude": "-90.44083000"
+    },
+    {
+      "id": 53500,
+      "name": "Guatemala City",
+      "latitude": "14.64072000",
+      "longitude": "-90.51327000"
+    },
+    {
+      "id": 53534,
+      "name": "Mixco",
+      "latitude": "14.63077000",
+      "longitude": "-90.60711000"
+    },
+    {
+      "id": 53616,
+      "name": "Palencia",
+      "latitude": "14.66715000",
+      "longitude": "-90.35721000"
+    },
+    {
+      "id": 53628,
+      "name": "Petapa",
+      "latitude": "14.50189000",
+      "longitude": "-90.56196000"
+    },
+    {
+      "id": 53690,
+      "name": "San José del Golfo",
+      "latitude": "14.76414000",
+      "longitude": "-90.37228000"
+    },
+    {
+      "id": 53688,
+      "name": "San José Pinula",
+      "latitude": "14.54600000",
+      "longitude": "-90.41288000"
+    },
+    {
+      "id": 53698,
+      "name": "San Juan Sacatepéquez",
+      "latitude": "14.71889000",
+      "longitude": "-90.64417000"
+    },
+    {
+      "id": 53724,
+      "name": "San Pedro Ayampuc",
+      "latitude": "14.77943000",
+      "longitude": "-90.45318000"
+    },
+    {
+      "id": 53730,
+      "name": "San Pedro Sacatepéquez",
+      "latitude": "14.68612000",
+      "longitude": "-90.64253000"
+    },
+    {
+      "id": 53736,
+      "name": "San Raimundo",
+      "latitude": "14.76462000",
+      "longitude": "-90.59493000"
+    },
+    {
+      "id": 53752,
+      "name": "Santa Catarina Pinula",
+      "latitude": "14.57047000",
+      "longitude": "-90.49925000"
+    },
+    {
+      "id": 53798,
+      "name": "Villa Canales",
+      "latitude": "14.48285000",
+      "longitude": "-90.53425000"
+    },
+    {
+      "id": 53799,
+      "name": "Villa Nueva",
+      "latitude": "14.52512000",
+      "longitude": "-90.58544000"
+    }
+  ],
+  "country": {
+    "id": 90,
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "iso2": "GT",
+    "numeric_code": "320",
+    "phone_code": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "tld": ".gt",
+    "native": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Guatemala",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "과테말라",
+      "pt-BR": "Guatemala",
+      "pt": "Guatemala",
+      "nl": "Guatemala",
+      "hr": "Gvatemala",
+      "fa": "گواتمالا",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fr": "Guatemala",
+      "ja": "グアテマラ",
+      "it": "Guatemala",
+      "cn": "危地马拉",
+      "tr": "Guatemala"
+    },
+    "latitude": "15.50000000",
+    "longitude": "-90.25000000",
+    "emoji": "🇬🇹",
+    "emojiU": "U+1F1EC U+1F1F9"
+  }
+}

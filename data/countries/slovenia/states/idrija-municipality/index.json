@@ -1,0 +1,66 @@
+{
+  "id": 4152,
+  "name": "Idrija Municipality",
+  "state_code": "036",
+  "latitude": "46.00409390",
+  "longitude": "13.97754930",
+  "type": null,
+  "cities": [
+    {
+      "id": 104122,
+      "name": "Idrija",
+      "latitude": "46.00278000",
+      "longitude": "14.03056000"
+    },
+    {
+      "id": 104280,
+      "name": "Spodnja Idrija",
+      "latitude": "46.03194000",
+      "longitude": "14.02722000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

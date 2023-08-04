@@ -1,0 +1,72 @@
+{
+  "id": 4086,
+  "name": "El Seibo Province",
+  "state_code": "08",
+  "latitude": "18.76584960",
+  "longitude": "-69.04066800",
+  "type": null,
+  "cities": [
+    {
+      "id": 31131,
+      "name": "Miches",
+      "latitude": "18.98364000",
+      "longitude": "-69.04760000"
+    },
+    {
+      "id": 31151,
+      "name": "Pedro Sánchez",
+      "latitude": "18.86375000",
+      "longitude": "-69.10868000"
+    },
+    {
+      "id": 31195,
+      "name": "Santa Cruz de El Seibo",
+      "latitude": "18.76559000",
+      "longitude": "-69.03886000"
+    }
+  ],
+  "country": {
+    "id": 62,
+    "name": "Dominican Republic",
+    "iso3": "DOM",
+    "iso2": "DO",
+    "numeric_code": "214",
+    "phone_code": "+1-809 and 1-829",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "currency_name": "Dominican peso",
+    "currency_symbol": "$",
+    "tld": ".do",
+    "native": "República Dominicana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Santo_Domingo",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "도미니카 공화국",
+      "pt-BR": "República Dominicana",
+      "pt": "República Dominicana",
+      "nl": "Dominicaanse Republiek",
+      "hr": "Dominikanska Republika",
+      "fa": "جمهوری دومینیکن",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "fr": "République dominicaine",
+      "ja": "ドミニカ共和国",
+      "it": "Repubblica Dominicana",
+      "cn": "多明尼加共和国",
+      "tr": "Dominik Cumhuriyeti"
+    },
+    "latitude": "19.00000000",
+    "longitude": "-70.66666666",
+    "emoji": "🇩🇴",
+    "emojiU": "U+1F1E9 U+1F1F4"
+  }
+}

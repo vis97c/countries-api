@@ -1,0 +1,182 @@
+{
+  "id": 2582,
+  "name": "Yap State",
+  "state_code": "YAP",
+  "latitude": "8.67164900",
+  "longitude": "142.84393350",
+  "type": null,
+  "cities": [
+    {
+      "id": 39153,
+      "name": "Colonia",
+      "latitude": "9.51638000",
+      "longitude": "138.12167000"
+    },
+    {
+      "id": 39154,
+      "name": "Dalipebinaw Municipality",
+      "latitude": "9.52229000",
+      "longitude": "138.08540000"
+    },
+    {
+      "id": 39157,
+      "name": "Fais",
+      "latitude": "9.76600000",
+      "longitude": "140.52000000"
+    },
+    {
+      "id": 39158,
+      "name": "Fais Municipality",
+      "latitude": "9.76600000",
+      "longitude": "140.51900000"
+    },
+    {
+      "id": 39161,
+      "name": "Fanif Municipality",
+      "latitude": "9.56056000",
+      "longitude": "138.11333000"
+    },
+    {
+      "id": 39162,
+      "name": "Faraulep Municipality",
+      "latitude": "8.58800000",
+      "longitude": "144.50650000"
+    },
+    {
+      "id": 39165,
+      "name": "Gagil Municipality",
+      "latitude": "9.54722000",
+      "longitude": "138.19028000"
+    },
+    {
+      "id": 39166,
+      "name": "Gilman Municipality",
+      "latitude": "9.44611000",
+      "longitude": "138.06389000"
+    },
+    {
+      "id": 39168,
+      "name": "Kanifay Municipality",
+      "latitude": "9.46735000",
+      "longitude": "138.05935000"
+    },
+    {
+      "id": 39174,
+      "name": "Lamotrek Municipality",
+      "latitude": "7.49100000",
+      "longitude": "146.30300000"
+    },
+    {
+      "id": 39178,
+      "name": "Maap Municipality",
+      "latitude": "9.58975000",
+      "longitude": "138.17119000"
+    },
+    {
+      "id": 39191,
+      "name": "Ngulu Municipality",
+      "latitude": "8.45000000",
+      "longitude": "137.48100000"
+    },
+    {
+      "id": 39208,
+      "name": "Rull Municipality",
+      "latitude": "9.50773000",
+      "longitude": "138.11540000"
+    },
+    {
+      "id": 39209,
+      "name": "Rumung Municipality",
+      "latitude": "9.62428000",
+      "longitude": "138.15745000"
+    },
+    {
+      "id": 39212,
+      "name": "Satawal Municipality",
+      "latitude": "7.38200000",
+      "longitude": "147.03180000"
+    },
+    {
+      "id": 39221,
+      "name": "Tomil Municipality",
+      "latitude": "9.52517000",
+      "longitude": "138.15488000"
+    },
+    {
+      "id": 39225,
+      "name": "Ulithi Municipality",
+      "latitude": "9.90000000",
+      "longitude": "139.60000000"
+    },
+    {
+      "id": 39229,
+      "name": "Weloy Municipality",
+      "latitude": "9.52712000",
+      "longitude": "138.11909000"
+    },
+    {
+      "id": 39232,
+      "name": "Woleai Municipality",
+      "latitude": "7.34500000",
+      "longitude": "143.85700000"
+    }
+  ],
+  "country": {
+    "id": 143,
+    "name": "Micronesia",
+    "iso3": "FSM",
+    "iso2": "FM",
+    "numeric_code": "583",
+    "phone_code": "691",
+    "capital": "Palikir",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".fm",
+    "native": "Micronesia",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Chuuk",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "CHUT",
+        "tzName": "Chuuk Time"
+      },
+      {
+        "zoneName": "Pacific/Kosrae",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "KOST",
+        "tzName": "Kosrae Time"
+      },
+      {
+        "zoneName": "Pacific/Pohnpei",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "PONT",
+        "tzName": "Pohnpei Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미크로네시아 연방",
+      "pt-BR": "Micronésia",
+      "pt": "Micronésia",
+      "nl": "Micronesië",
+      "hr": "Mikronezija",
+      "fa": "ایالات فدرال میکرونزی",
+      "de": "Mikronesien",
+      "es": "Micronesia",
+      "fr": "Micronésie",
+      "ja": "ミクロネシア連邦",
+      "it": "Micronesia",
+      "cn": "密克罗尼西亚",
+      "tr": "Mikronezya"
+    },
+    "latitude": "6.91666666",
+    "longitude": "158.25000000",
+    "emoji": "🇫🇲",
+    "emojiU": "U+1F1EB U+1F1F2"
+  }
+}

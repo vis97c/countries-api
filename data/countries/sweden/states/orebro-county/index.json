@@ -1,0 +1,198 @@
+{
+  "id": 1539,
+  "name": "Örebro County",
+  "state_code": "T",
+  "latitude": "59.53503600",
+  "longitude": "15.00657310",
+  "type": null,
+  "cities": [
+    {
+      "id": 104017,
+      "name": "Åsbro",
+      "latitude": "59.00000000",
+      "longitude": "15.05000000"
+    },
+    {
+      "id": 103019,
+      "name": "Askersund",
+      "latitude": "58.87988000",
+      "longitude": "14.90230000"
+    },
+    {
+      "id": 103115,
+      "name": "Degerfors",
+      "latitude": "59.23797000",
+      "longitude": "14.43077000"
+    },
+    {
+      "id": 103131,
+      "name": "Ekeby-Almby",
+      "latitude": "59.26000000",
+      "longitude": "15.33000000"
+    },
+    {
+      "id": 103163,
+      "name": "Fellingsbro",
+      "latitude": "59.43333000",
+      "longitude": "15.58333000"
+    },
+    {
+      "id": 103170,
+      "name": "Fjugesta",
+      "latitude": "59.17375000",
+      "longitude": "14.87227000"
+    },
+    {
+      "id": 103187,
+      "name": "Frövi",
+      "latitude": "59.46667000",
+      "longitude": "15.36667000"
+    },
+    {
+      "id": 103204,
+      "name": "Garphyttan",
+      "latitude": "59.30429000",
+      "longitude": "14.94623000"
+    },
+    {
+      "id": 103316,
+      "name": "Hällabrottet",
+      "latitude": "59.11667000",
+      "longitude": "15.20000000"
+    },
+    {
+      "id": 103318,
+      "name": "Hällefors",
+      "latitude": "59.78388000",
+      "longitude": "14.52197000"
+    },
+    {
+      "id": 103253,
+      "name": "Hallsberg",
+      "latitude": "59.06463000",
+      "longitude": "15.10993000"
+    },
+    {
+      "id": 103302,
+      "name": "Hovsta",
+      "latitude": "59.35000000",
+      "longitude": "15.21667000"
+    },
+    {
+      "id": 103379,
+      "name": "Karlskoga",
+      "latitude": "59.32667000",
+      "longitude": "14.52386000"
+    },
+    {
+      "id": 103409,
+      "name": "Kopparberg",
+      "latitude": "59.87597000",
+      "longitude": "14.99436000"
+    },
+    {
+      "id": 103420,
+      "name": "Kumla",
+      "latitude": "59.12770000",
+      "longitude": "15.14341000"
+    },
+    {
+      "id": 103453,
+      "name": "Laxå",
+      "latitude": "58.98630000",
+      "longitude": "14.61904000"
+    },
+    {
+      "id": 103469,
+      "name": "Lindesberg",
+      "latitude": "59.59202000",
+      "longitude": "15.23040000"
+    },
+    {
+      "id": 103577,
+      "name": "Nora",
+      "latitude": "59.51926000",
+      "longitude": "15.03979000"
+    },
+    {
+      "id": 103609,
+      "name": "Odensbacken",
+      "latitude": "59.16667000",
+      "longitude": "15.53333000"
+    },
+    {
+      "id": 104034,
+      "name": "Örebro",
+      "latitude": "59.27412000",
+      "longitude": "15.20660000"
+    },
+    {
+      "id": 103640,
+      "name": "Pålsboda",
+      "latitude": "59.06565000",
+      "longitude": "15.33747000"
+    },
+    {
+      "id": 103723,
+      "name": "Sköllersta",
+      "latitude": "59.13738000",
+      "longitude": "15.33940000"
+    },
+    {
+      "id": 103770,
+      "name": "Storå",
+      "latitude": "59.71409000",
+      "longitude": "15.13169000"
+    },
+    {
+      "id": 103955,
+      "name": "Vintrosa",
+      "latitude": "59.25000000",
+      "longitude": "14.95000000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

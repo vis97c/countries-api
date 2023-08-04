@@ -1,0 +1,192 @@
+{
+  "id": 4357,
+  "name": "Nitra Region",
+  "state_code": "NI",
+  "latitude": "48.01437650",
+  "longitude": "18.54165040",
+  "type": null,
+  "cities": [
+    {
+      "id": 104400,
+      "name": "Hurbanovo",
+      "latitude": "47.86984000",
+      "longitude": "18.19233000"
+    },
+    {
+      "id": 104406,
+      "name": "Kolárovo",
+      "latitude": "47.92294000",
+      "longitude": "17.98467000"
+    },
+    {
+      "id": 104407,
+      "name": "Komárno",
+      "latitude": "47.76356000",
+      "longitude": "18.12263000"
+    },
+    {
+      "id": 104421,
+      "name": "Levice",
+      "latitude": "48.21563000",
+      "longitude": "18.60705000"
+    },
+    {
+      "id": 104438,
+      "name": "Nitra",
+      "latitude": "48.30763000",
+      "longitude": "18.08453000"
+    },
+    {
+      "id": 104445,
+      "name": "Nové Zámky",
+      "latitude": "47.98544000",
+      "longitude": "18.16195000"
+    },
+    {
+      "id": 104467,
+      "name": "Okres Komárno",
+      "latitude": "47.76667000",
+      "longitude": "18.13333000"
+    },
+    {
+      "id": 104471,
+      "name": "Okres Levice",
+      "latitude": "48.21667000",
+      "longitude": "18.60000000"
+    },
+    {
+      "id": 104481,
+      "name": "Okres Nitra",
+      "latitude": "48.31667000",
+      "longitude": "18.08333000"
+    },
+    {
+      "id": 104483,
+      "name": "Okres Nové Zámky",
+      "latitude": "47.98333000",
+      "longitude": "18.16667000"
+    },
+    {
+      "id": 104517,
+      "name": "Okres Šaľa",
+      "latitude": "48.14770000",
+      "longitude": "17.87306000"
+    },
+    {
+      "id": 104506,
+      "name": "Okres Topoľčany",
+      "latitude": "48.56667000",
+      "longitude": "18.18333000"
+    },
+    {
+      "id": 104514,
+      "name": "Okres Zlaté Moravce",
+      "latitude": "48.38294000",
+      "longitude": "18.39842000"
+    },
+    {
+      "id": 104591,
+      "name": "Šahy",
+      "latitude": "48.07408000",
+      "longitude": "18.94946000"
+    },
+    {
+      "id": 104593,
+      "name": "Šaľa",
+      "latitude": "48.15127000",
+      "longitude": "17.88062000"
+    },
+    {
+      "id": 104595,
+      "name": "Štúrovo",
+      "latitude": "47.79495000",
+      "longitude": "18.71750000"
+    },
+    {
+      "id": 104596,
+      "name": "Šurany",
+      "latitude": "48.08613000",
+      "longitude": "18.18447000"
+    },
+    {
+      "id": 104558,
+      "name": "Svodín",
+      "latitude": "47.91054000",
+      "longitude": "18.49967000"
+    },
+    {
+      "id": 104563,
+      "name": "Tlmače",
+      "latitude": "48.28926000",
+      "longitude": "18.53152000"
+    },
+    {
+      "id": 104564,
+      "name": "Topoľčany",
+      "latitude": "48.56361000",
+      "longitude": "18.16712000"
+    },
+    {
+      "id": 104580,
+      "name": "Vráble",
+      "latitude": "48.24371000",
+      "longitude": "18.30846000"
+    },
+    {
+      "id": 104600,
+      "name": "Želiezovce",
+      "latitude": "48.05075000",
+      "longitude": "18.65421000"
+    },
+    {
+      "id": 104584,
+      "name": "Zlaté Moravce",
+      "latitude": "48.38553000",
+      "longitude": "18.40063000"
+    }
+  ],
+  "country": {
+    "id": 200,
+    "name": "Slovakia",
+    "iso3": "SVK",
+    "iso2": "SK",
+    "numeric_code": "703",
+    "phone_code": "421",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sk",
+    "native": "Slovensko",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bratislava",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로바키아",
+      "pt-BR": "Eslováquia",
+      "pt": "Eslováquia",
+      "nl": "Slowakije",
+      "hr": "Slovačka",
+      "fa": "اسلواکی",
+      "de": "Slowakei",
+      "es": "República Eslovaca",
+      "fr": "Slovaquie",
+      "ja": "スロバキア",
+      "it": "Slovacchia",
+      "cn": "斯洛伐克",
+      "tr": "Slovakya"
+    },
+    "latitude": "48.66666666",
+    "longitude": "19.50000000",
+    "emoji": "🇸🇰",
+    "emojiU": "U+1F1F8 U+1F1F0"
+  }
+}

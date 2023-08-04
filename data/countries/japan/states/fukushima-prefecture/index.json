@@ -1,0 +1,234 @@
+{
+  "id": 847,
+  "name": "Fukushima Prefecture",
+  "state_code": "07",
+  "latitude": "37.38343730",
+  "longitude": "140.18325160",
+  "type": null,
+  "cities": [
+    {
+      "id": 63224,
+      "name": "Aizu-wakamatsu Shi",
+      "latitude": "37.45071000",
+      "longitude": "139.96814000"
+    },
+    {
+      "id": 63323,
+      "name": "Date-shi",
+      "latitude": "37.81667000",
+      "longitude": "140.51667000"
+    },
+    {
+      "id": 63370,
+      "name": "Fukushima",
+      "latitude": "37.75000000",
+      "longitude": "140.46667000"
+    },
+    {
+      "id": 63371,
+      "name": "Fukushima Shi",
+      "latitude": "37.78643000",
+      "longitude": "140.38849000"
+    },
+    {
+      "id": 63377,
+      "name": "Funehikimachi-funehiki",
+      "latitude": "37.44722000",
+      "longitude": "140.57710000"
+    },
+    {
+      "id": 63513,
+      "name": "Hobaramachi",
+      "latitude": "37.81667000",
+      "longitude": "140.55000000"
+    },
+    {
+      "id": 63572,
+      "name": "Inawashiro",
+      "latitude": "37.56667000",
+      "longitude": "140.11667000"
+    },
+    {
+      "id": 63597,
+      "name": "Ishikawa",
+      "latitude": "37.15000000",
+      "longitude": "140.45000000"
+    },
+    {
+      "id": 63621,
+      "name": "Iwaki",
+      "latitude": "37.05000000",
+      "longitude": "140.88333000"
+    },
+    {
+      "id": 63622,
+      "name": "Iwaki-shi",
+      "latitude": "37.08333000",
+      "longitude": "140.83333000"
+    },
+    {
+      "id": 63806,
+      "name": "Kitakata",
+      "latitude": "37.65000000",
+      "longitude": "139.86667000"
+    },
+    {
+      "id": 63807,
+      "name": "Kitakata-shi",
+      "latitude": "37.68333000",
+      "longitude": "139.90000000"
+    },
+    {
+      "id": 63899,
+      "name": "Kōriyama",
+      "latitude": "37.40000000",
+      "longitude": "140.38333000"
+    },
+    {
+      "id": 63900,
+      "name": "Kōriyama Shi",
+      "latitude": "37.41277000",
+      "longitude": "140.29507000"
+    },
+    {
+      "id": 63950,
+      "name": "Miharu",
+      "latitude": "37.43333000",
+      "longitude": "140.48333000"
+    },
+    {
+      "id": 63962,
+      "name": "Minami-Sōma",
+      "latitude": "37.62908000",
+      "longitude": "140.97868000"
+    },
+    {
+      "id": 63971,
+      "name": "Minamisōma Shi",
+      "latitude": "37.63108000",
+      "longitude": "140.92852000"
+    },
+    {
+      "id": 64039,
+      "name": "Motomiya",
+      "latitude": "37.51391000",
+      "longitude": "140.40063000"
+    },
+    {
+      "id": 64040,
+      "name": "Motomiya-shi",
+      "latitude": "37.51218000",
+      "longitude": "140.39841000"
+    },
+    {
+      "id": 64097,
+      "name": "Namie",
+      "latitude": "37.48333000",
+      "longitude": "141.00000000"
+    },
+    {
+      "id": 64127,
+      "name": "Nihommatsu",
+      "latitude": "37.58333000",
+      "longitude": "140.43333000"
+    },
+    {
+      "id": 64128,
+      "name": "Nihonmatsu Shi",
+      "latitude": "37.58402000",
+      "longitude": "140.49543000"
+    },
+    {
+      "id": 64353,
+      "name": "Shirakawa Shi",
+      "latitude": "37.12225000",
+      "longitude": "140.24963000"
+    },
+    {
+      "id": 64402,
+      "name": "Sōma",
+      "latitude": "37.79283000",
+      "longitude": "140.92941000"
+    },
+    {
+      "id": 64403,
+      "name": "Sōma Shi",
+      "latitude": "37.78193000",
+      "longitude": "140.87321000"
+    },
+    {
+      "id": 64381,
+      "name": "Sukagawa",
+      "latitude": "37.28333000",
+      "longitude": "140.38333000"
+    },
+    {
+      "id": 64382,
+      "name": "Sukagawa Shi",
+      "latitude": "37.29342000",
+      "longitude": "140.31691000"
+    },
+    {
+      "id": 64461,
+      "name": "Tamura",
+      "latitude": "37.43055000",
+      "longitude": "140.60335000"
+    },
+    {
+      "id": 64462,
+      "name": "Tamura-shi",
+      "latitude": "37.43793000",
+      "longitude": "140.57384000"
+    },
+    {
+      "id": 64652,
+      "name": "Yanagawamachi-saiwaichō",
+      "latitude": "37.85000000",
+      "longitude": "140.60000000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

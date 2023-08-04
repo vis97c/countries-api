@@ -1,0 +1,109 @@
+{
+  "id": 2270,
+  "name": "Qinghai",
+  "state_code": "QH",
+  "latitude": "35.74479800",
+  "longitude": "96.40773580",
+  "type": "province",
+  "cities": [
+    {
+      "id": 19448,
+      "name": "Delingha",
+      "latitude": "37.37600000",
+      "longitude": "97.37457000"
+    },
+    {
+      "id": 19554,
+      "name": "Golmud",
+      "latitude": "36.40672000",
+      "longitude": "94.90061000"
+    },
+    {
+      "id": 19555,
+      "name": "Golog Tibetan Autonomous Prefecture",
+      "latitude": "34.08595000",
+      "longitude": "99.55181000"
+    },
+    {
+      "id": 19582,
+      "name": "Haibei Tibetan Autonomous Prefecture",
+      "latitude": "37.71919000",
+      "longitude": "100.45656000"
+    },
+    {
+      "id": 19652,
+      "name": "Huangnan Zangzu Zizhizhou",
+      "latitude": "35.06316000",
+      "longitude": "101.65149000"
+    },
+    {
+      "id": 20300,
+      "name": "Xining",
+      "latitude": "36.62554000",
+      "longitude": "101.75739000"
+    },
+    {
+      "id": 20320,
+      "name": "Xireg",
+      "latitude": "36.91866000",
+      "longitude": "98.44463000"
+    },
+    {
+      "id": 20407,
+      "name": "Yushu Zangzu Zizhizhou",
+      "latitude": "34.39802000",
+      "longitude": "94.19021000"
+    }
+  ],
+  "country": {
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phone_code": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "중국",
+      "pt-BR": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین",
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "cn": "中国",
+      "tr": "Çin"
+    },
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  }
+}

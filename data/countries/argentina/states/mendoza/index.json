@@ -1,0 +1,263 @@
+{
+  "id": 3646,
+  "name": "Mendoza",
+  "state_code": "M",
+  "latitude": "-32.88945870",
+  "longitude": "-68.84583860",
+  "type": "province",
+  "cities": [
+    {
+      "id": 850,
+      "name": "Departamento de Capital",
+      "latitude": "-32.88469000",
+      "longitude": "-68.85826000"
+    },
+    {
+      "id": 889,
+      "name": "Departamento de General Alvear",
+      "latitude": "-35.16667000",
+      "longitude": "-67.33333000"
+    },
+    {
+      "id": 898,
+      "name": "Departamento de Godoy Cruz",
+      "latitude": "-32.93333000",
+      "longitude": "-68.86667000"
+    },
+    {
+      "id": 905,
+      "name": "Departamento de Guaymallén",
+      "latitude": "-32.88333000",
+      "longitude": "-68.70000000"
+    },
+    {
+      "id": 919,
+      "name": "Departamento de La Paz",
+      "latitude": "-33.66667000",
+      "longitude": "-67.25000000"
+    },
+    {
+      "id": 924,
+      "name": "Departamento de Las Heras",
+      "latitude": "-32.50000000",
+      "longitude": "-69.50000000"
+    },
+    {
+      "id": 926,
+      "name": "Departamento de Lavalle",
+      "latitude": "-32.50000000",
+      "longitude": "-68.00000000"
+    },
+    {
+      "id": 932,
+      "name": "Departamento de Luján",
+      "latitude": "-33.00000000",
+      "longitude": "-69.33333000"
+    },
+    {
+      "id": 936,
+      "name": "Departamento de Maipú",
+      "latitude": "-33.00000000",
+      "longitude": "-68.58333000"
+    },
+    {
+      "id": 938,
+      "name": "Departamento de Malargüe",
+      "latitude": "-36.25000000",
+      "longitude": "-69.25000000"
+    },
+    {
+      "id": 967,
+      "name": "Departamento de Rivadavia",
+      "latitude": "-33.18000000",
+      "longitude": "-68.46600000"
+    },
+    {
+      "id": 983,
+      "name": "Departamento de San Carlos",
+      "latitude": "-34.00000000",
+      "longitude": "-69.00000000"
+    },
+    {
+      "id": 999,
+      "name": "Departamento de San Martín",
+      "latitude": "-32.83730000",
+      "longitude": "-68.24922000"
+    },
+    {
+      "id": 1003,
+      "name": "Departamento de San Rafael",
+      "latitude": "-35.00000000",
+      "longitude": "-68.83333000"
+    },
+    {
+      "id": 1008,
+      "name": "Departamento de Santa Rosa",
+      "latitude": "-33.50000000",
+      "longitude": "-68.00000000"
+    },
+    {
+      "id": 1026,
+      "name": "Departamento de Tunuyán",
+      "latitude": "-33.66667000",
+      "longitude": "-69.50000000"
+    },
+    {
+      "id": 1027,
+      "name": "Departamento de Tupungato",
+      "latitude": "-33.25000000",
+      "longitude": "-69.25000000"
+    },
+    {
+      "id": 1122,
+      "name": "Godoy Cruz",
+      "latitude": "-32.92863000",
+      "longitude": "-68.83510000"
+    },
+    {
+      "id": 1219,
+      "name": "Las Heras",
+      "latitude": "-32.85273000",
+      "longitude": "-68.82837000"
+    },
+    {
+      "id": 1278,
+      "name": "Mendoza",
+      "latitude": "-32.89084000",
+      "longitude": "-68.82717000"
+    },
+    {
+      "id": 1440,
+      "name": "San Martín",
+      "latitude": "-33.08103000",
+      "longitude": "-68.46814000"
+    },
+    {
+      "id": 1448,
+      "name": "San Rafael",
+      "latitude": "-34.61772000",
+      "longitude": "-68.33007000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

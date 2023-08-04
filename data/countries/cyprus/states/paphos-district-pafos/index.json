@@ -1,0 +1,151 @@
+{
+  "id": 746,
+  "name": "Paphos District (Pafos)",
+  "state_code": "05",
+  "latitude": "34.91645940",
+  "longitude": "32.49200880",
+  "type": "district",
+  "cities": [
+    {
+      "id": 22017,
+      "name": "Argáka",
+      "latitude": "35.06646000",
+      "longitude": "32.49446000"
+    },
+    {
+      "id": 22022,
+      "name": "Chlórakas",
+      "latitude": "34.79768000",
+      "longitude": "32.41207000"
+    },
+    {
+      "id": 22026,
+      "name": "Emba",
+      "latitude": "34.80700000",
+      "longitude": "32.42406000"
+    },
+    {
+      "id": 22032,
+      "name": "Geroskipou",
+      "latitude": "34.75498000",
+      "longitude": "32.45155000"
+    },
+    {
+      "id": 22033,
+      "name": "Geroskípou (quarter)",
+      "latitude": "34.76190000",
+      "longitude": "32.45135000"
+    },
+    {
+      "id": 22034,
+      "name": "Geroskípou Municipality",
+      "latitude": "34.75142000",
+      "longitude": "32.45449000"
+    },
+    {
+      "id": 22037,
+      "name": "Kissonerga",
+      "latitude": "34.82279000",
+      "longitude": "32.40131000"
+    },
+    {
+      "id": 22041,
+      "name": "Koloni",
+      "latitude": "34.75228000",
+      "longitude": "32.46487000"
+    },
+    {
+      "id": 22043,
+      "name": "Konia",
+      "latitude": "34.78516000",
+      "longitude": "32.45900000"
+    },
+    {
+      "id": 22063,
+      "name": "Mesógi",
+      "latitude": "34.81577000",
+      "longitude": "32.45542000"
+    },
+    {
+      "id": 22071,
+      "name": "Paphos",
+      "latitude": "34.77679000",
+      "longitude": "32.42451000"
+    },
+    {
+      "id": 22085,
+      "name": "Pégeia",
+      "latitude": "34.88341000",
+      "longitude": "32.38166000"
+    },
+    {
+      "id": 22088,
+      "name": "Pólis",
+      "latitude": "35.03534000",
+      "longitude": "32.42575000"
+    },
+    {
+      "id": 22098,
+      "name": "Tála",
+      "latitude": "34.83745000",
+      "longitude": "32.43272000"
+    },
+    {
+      "id": 22096,
+      "name": "Tsáda",
+      "latitude": "34.83801000",
+      "longitude": "32.47547000"
+    }
+  ],
+  "country": {
+    "id": 57,
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "iso2": "CY",
+    "numeric_code": "196",
+    "phone_code": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "native": "Κύπρος",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Famagusta",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Nicosia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "키프로스",
+      "pt-BR": "Chipre",
+      "pt": "Chipre",
+      "nl": "Cyprus",
+      "hr": "Cipar",
+      "fa": "قبرس",
+      "de": "Zypern",
+      "es": "Chipre",
+      "fr": "Chypre",
+      "ja": "キプロス",
+      "it": "Cipro",
+      "cn": "塞浦路斯",
+      "tr": "Kuzey Kıbrıs Türk Cumhuriyeti"
+    },
+    "latitude": "35.00000000",
+    "longitude": "33.00000000",
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE"
+  }
+}

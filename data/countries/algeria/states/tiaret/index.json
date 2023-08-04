@@ -1,0 +1,96 @@
+{
+  "id": 1106,
+  "name": "Tiaret",
+  "state_code": "14",
+  "latitude": "35.37086890",
+  "longitude": "1.32178520",
+  "type": null,
+  "cities": [
+    {
+      "id": 31472,
+      "name": "’Aïn Deheb",
+      "latitude": "34.84218000",
+      "longitude": "1.54697000"
+    },
+    {
+      "id": 31317,
+      "name": "Djebilet Rosfa",
+      "latitude": "34.86375000",
+      "longitude": "0.83496000"
+    },
+    {
+      "id": 31346,
+      "name": "Frenda",
+      "latitude": "35.06544000",
+      "longitude": "1.04945000"
+    },
+    {
+      "id": 31365,
+      "name": "Ksar Chellala",
+      "latitude": "35.21222000",
+      "longitude": "2.31889000"
+    },
+    {
+      "id": 31379,
+      "name": "Mehdia daira de meghila",
+      "latitude": "35.43058000",
+      "longitude": "1.75714000"
+    },
+    {
+      "id": 31436,
+      "name": "Sougueur",
+      "latitude": "35.18568000",
+      "longitude": "1.49612000"
+    },
+    {
+      "id": 31449,
+      "name": "Tiaret",
+      "latitude": "35.37103000",
+      "longitude": "1.31699000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

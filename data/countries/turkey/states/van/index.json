@@ -1,0 +1,132 @@
+{
+  "id": 2152,
+  "name": "Van",
+  "state_code": "65",
+  "latitude": "38.36794170",
+  "longitude": "43.71827870",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107262,
+      "name": "Bahçesaray",
+      "latitude": "38.12460000",
+      "longitude": "42.79825000"
+    },
+    {
+      "id": 107315,
+      "name": "Başkale",
+      "latitude": "38.04526000",
+      "longitude": "44.01718000"
+    },
+    {
+      "id": 108760,
+      "name": "Çaldıran",
+      "latitude": "39.14317000",
+      "longitude": "43.91068000"
+    },
+    {
+      "id": 108787,
+      "name": "Çatak",
+      "latitude": "38.00780000",
+      "longitude": "43.06195000"
+    },
+    {
+      "id": 107551,
+      "name": "Edremit",
+      "latitude": "38.37889000",
+      "longitude": "43.29717000"
+    },
+    {
+      "id": 107583,
+      "name": "Erciş",
+      "latitude": "39.15123000",
+      "longitude": "43.33705000"
+    },
+    {
+      "id": 107670,
+      "name": "Gevaş",
+      "latitude": "38.29210000",
+      "longitude": "43.10189000"
+    },
+    {
+      "id": 107753,
+      "name": "Gürpınar",
+      "latitude": "38.32372000",
+      "longitude": "43.40991000"
+    },
+    {
+      "id": 108908,
+      "name": "İpekyolu",
+      "latitude": "38.49041000",
+      "longitude": "43.34690000"
+    },
+    {
+      "id": 108220,
+      "name": "Muradiye",
+      "latitude": "38.97889000",
+      "longitude": "43.75374000"
+    },
+    {
+      "id": 108866,
+      "name": "Özalp",
+      "latitude": "38.65455000",
+      "longitude": "43.98869000"
+    },
+    {
+      "id": 108387,
+      "name": "Saray",
+      "latitude": "38.64691000",
+      "longitude": "44.16116000"
+    },
+    {
+      "id": 153361,
+      "name": "Tuşba",
+      "latitude": "38.52117800",
+      "longitude": "43.34909300"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 628,
+  "name": "Kolonjë District",
+  "state_code": "ER",
+  "latitude": "40.33732620",
+  "longitude": "20.67946760",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 3,
+    "name": "Albania",
+    "iso3": "ALB",
+    "iso2": "AL",
+    "numeric_code": "008",
+    "phone_code": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "native": "Shqipëria",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알바니아",
+      "pt-BR": "Albânia",
+      "pt": "Albânia",
+      "nl": "Albanië",
+      "hr": "Albanija",
+      "fa": "آلبانی",
+      "de": "Albanien",
+      "es": "Albania",
+      "fr": "Albanie",
+      "ja": "アルバニア",
+      "it": "Albania",
+      "cn": "阿尔巴尼亚",
+      "tr": "Arnavutluk"
+    },
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  }
+}

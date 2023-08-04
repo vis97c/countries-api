@@ -1,0 +1,267 @@
+{
+  "id": 4674,
+  "name": "Ternopilska oblast",
+  "state_code": "61",
+  "latitude": "49.55351700",
+  "longitude": "25.59476700",
+  "type": "region",
+  "cities": [
+    {
+      "id": 109362,
+      "name": "Belaya",
+      "latitude": "49.02900000",
+      "longitude": "25.77059000"
+    },
+    {
+      "id": 109434,
+      "name": "Borshchiv",
+      "latitude": "48.80332000",
+      "longitude": "26.04347000"
+    },
+    {
+      "id": 109457,
+      "name": "Buchach",
+      "latitude": "49.06254000",
+      "longitude": "25.38798000"
+    },
+    {
+      "id": 109517,
+      "name": "Chortkiv",
+      "latitude": "49.01709000",
+      "longitude": "25.79804000"
+    },
+    {
+      "id": 109579,
+      "name": "Druzhba",
+      "latitude": "49.04251000",
+      "longitude": "25.45055000"
+    },
+    {
+      "id": 109657,
+      "name": "Hrymayliv",
+      "latitude": "49.33208000",
+      "longitude": "26.01112000"
+    },
+    {
+      "id": 109662,
+      "name": "Husiatyn",
+      "latitude": "49.07290000",
+      "longitude": "26.18480000"
+    },
+    {
+      "id": 109738,
+      "name": "Khorostkiv",
+      "latitude": "49.21114000",
+      "longitude": "25.92165000"
+    },
+    {
+      "id": 109793,
+      "name": "Kopychyntsi",
+      "latitude": "49.10441000",
+      "longitude": "25.91026000"
+    },
+    {
+      "id": 109826,
+      "name": "Kozova",
+      "latitude": "49.43544000",
+      "longitude": "25.15086000"
+    },
+    {
+      "id": 109858,
+      "name": "Kremenets",
+      "latitude": "50.09693000",
+      "longitude": "25.72459000"
+    },
+    {
+      "id": 109904,
+      "name": "Lanivtsi",
+      "latitude": "49.86328000",
+      "longitude": "26.09082000"
+    },
+    {
+      "id": 110029,
+      "name": "Mikulintsy",
+      "latitude": "49.39600000",
+      "longitude": "25.60518000"
+    },
+    {
+      "id": 110163,
+      "name": "Nyrkiv",
+      "latitude": "48.81492000",
+      "longitude": "25.59989000"
+    },
+    {
+      "id": 110216,
+      "name": "Ozerna",
+      "latitude": "49.62891000",
+      "longitude": "25.32895000"
+    },
+    {
+      "id": 110256,
+      "name": "Petrikov",
+      "latitude": "49.53122000",
+      "longitude": "25.57901000"
+    },
+    {
+      "id": 110265,
+      "name": "Pidhaytsi",
+      "latitude": "49.26853000",
+      "longitude": "25.13341000"
+    },
+    {
+      "id": 110270,
+      "name": "Pidvolochysk",
+      "latitude": "49.53472000",
+      "longitude": "26.14585000"
+    },
+    {
+      "id": 110282,
+      "name": "Pochaiv",
+      "latitude": "50.00509000",
+      "longitude": "25.51183000"
+    },
+    {
+      "id": 110467,
+      "name": "Skala-Podil’s’ka",
+      "latitude": "48.85149000",
+      "longitude": "26.19909000"
+    },
+    {
+      "id": 110468,
+      "name": "Skalat",
+      "latitude": "49.42732000",
+      "longitude": "25.97869000"
+    },
+    {
+      "id": 110601,
+      "name": "Terebovlya",
+      "latitude": "49.30187000",
+      "longitude": "25.70997000"
+    },
+    {
+      "id": 110602,
+      "name": "Ternopil",
+      "latitude": "49.55342000",
+      "longitude": "25.58918000"
+    },
+    {
+      "id": 110619,
+      "name": "Tovste",
+      "latitude": "48.84663000",
+      "longitude": "25.72621000"
+    },
+    {
+      "id": 110682,
+      "name": "Velikiye Borki",
+      "latitude": "49.52363000",
+      "longitude": "25.75753000"
+    },
+    {
+      "id": 110772,
+      "name": "Yahil’nytsya",
+      "latitude": "48.94248000",
+      "longitude": "25.74375000"
+    },
+    {
+      "id": 110814,
+      "name": "Zalishchyky",
+      "latitude": "48.64331000",
+      "longitude": "25.73794000"
+    },
+    {
+      "id": 110818,
+      "name": "Zaliztsi",
+      "latitude": "49.79188000",
+      "longitude": "25.37297000"
+    },
+    {
+      "id": 110831,
+      "name": "Zbarazh",
+      "latitude": "49.66357000",
+      "longitude": "25.77616000"
+    },
+    {
+      "id": 110832,
+      "name": "Zboriv",
+      "latitude": "49.66484000",
+      "longitude": "25.14097000"
+    },
+    {
+      "id": 110863,
+      "name": "Zolotyy Potik",
+      "latitude": "48.90950000",
+      "longitude": "25.33926000"
+    },
+    {
+      "id": 110873,
+      "name": "Бережани",
+      "latitude": "49.45000000",
+      "longitude": "24.93333000"
+    }
+  ],
+  "country": {
+    "id": 230,
+    "name": "Ukraine",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "numeric_code": "804",
+    "phone_code": "380",
+    "capital": "Kiev",
+    "currency": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "tld": ".ua",
+    "native": "Україна",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Kiev",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Simferopol",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Uzhgorod",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Zaporozhye",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "우크라이나",
+      "pt-BR": "Ucrânia",
+      "pt": "Ucrânia",
+      "nl": "Oekraïne",
+      "hr": "Ukrajina",
+      "fa": "وکراین",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ",
+      "it": "Ucraina",
+      "cn": "乌克兰",
+      "tr": "Ukrayna"
+    },
+    "latitude": "49.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇦",
+    "emojiU": "U+1F1FA U+1F1E6"
+  }
+}

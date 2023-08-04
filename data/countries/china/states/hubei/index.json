@@ -1,0 +1,391 @@
+{
+  "id": 2274,
+  "name": "Hubei",
+  "state_code": "HB",
+  "latitude": "30.73781180",
+  "longitude": "112.23840170",
+  "type": "province",
+  "cities": [
+    {
+      "id": 19282,
+      "name": "Anlu",
+      "latitude": "31.25750000",
+      "longitude": "113.67833000"
+    },
+    {
+      "id": 19353,
+      "name": "Buhe",
+      "latitude": "30.28757000",
+      "longitude": "112.22979000"
+    },
+    {
+      "id": 19355,
+      "name": "Caidian",
+      "latitude": "30.58333000",
+      "longitude": "114.03333000"
+    },
+    {
+      "id": 19359,
+      "name": "Caohe",
+      "latitude": "30.22970000",
+      "longitude": "115.43346000"
+    },
+    {
+      "id": 19396,
+      "name": "Chengzhong",
+      "latitude": "30.94454000",
+      "longitude": "113.55284000"
+    },
+    {
+      "id": 19425,
+      "name": "Danjiangkou",
+      "latitude": "32.54278000",
+      "longitude": "111.50861000"
+    },
+    {
+      "id": 19440,
+      "name": "Daye",
+      "latitude": "30.08333000",
+      "longitude": "114.95000000"
+    },
+    {
+      "id": 19486,
+      "name": "Duobao",
+      "latitude": "30.67000000",
+      "longitude": "112.68952000"
+    },
+    {
+      "id": 19491,
+      "name": "Enshi",
+      "latitude": "30.30000000",
+      "longitude": "109.48333000"
+    },
+    {
+      "id": 19492,
+      "name": "Enshi Tujiazu Miaozu Zizhizhou",
+      "latitude": "30.19810000",
+      "longitude": "109.67555000"
+    },
+    {
+      "id": 19495,
+      "name": "Ezhou",
+      "latitude": "30.40000000",
+      "longitude": "114.83333000"
+    },
+    {
+      "id": 19496,
+      "name": "Ezhou Shi",
+      "latitude": "30.48832000",
+      "longitude": "114.77979000"
+    },
+    {
+      "id": 19507,
+      "name": "Fengkou",
+      "latitude": "30.08268000",
+      "longitude": "113.33346000"
+    },
+    {
+      "id": 19560,
+      "name": "Guangshui",
+      "latitude": "31.61990000",
+      "longitude": "113.99780000"
+    },
+    {
+      "id": 19567,
+      "name": "Gucheng Chengguanzhen",
+      "latitude": "32.26604000",
+      "longitude": "111.63476000"
+    },
+    {
+      "id": 19596,
+      "name": "Hanchuan",
+      "latitude": "30.65000000",
+      "longitude": "113.76667000"
+    },
+    {
+      "id": 19647,
+      "name": "Huanggang",
+      "latitude": "30.45143000",
+      "longitude": "114.87035000"
+    },
+    {
+      "id": 19651,
+      "name": "Huangmei",
+      "latitude": "30.19235000",
+      "longitude": "116.02496000"
+    },
+    {
+      "id": 19654,
+      "name": "Huangpi",
+      "latitude": "30.88453000",
+      "longitude": "114.37789000"
+    },
+    {
+      "id": 19658,
+      "name": "Huangshi",
+      "latitude": "30.24706000",
+      "longitude": "115.04814000"
+    },
+    {
+      "id": 19663,
+      "name": "Huangzhou",
+      "latitude": "30.45000000",
+      "longitude": "114.80000000"
+    },
+    {
+      "id": 19735,
+      "name": "Jingling",
+      "latitude": "30.65000000",
+      "longitude": "113.10000000"
+    },
+    {
+      "id": 19736,
+      "name": "Jingmen",
+      "latitude": "31.03361000",
+      "longitude": "112.20472000"
+    },
+    {
+      "id": 19737,
+      "name": "Jingmen Shi",
+      "latitude": "31.11244000",
+      "longitude": "112.64310000"
+    },
+    {
+      "id": 19738,
+      "name": "Jingzhou",
+      "latitude": "30.35028000",
+      "longitude": "112.19028000"
+    },
+    {
+      "id": 19805,
+      "name": "Laohekou",
+      "latitude": "32.38583000",
+      "longitude": "111.66778000"
+    },
+    {
+      "id": 19834,
+      "name": "Lichuan",
+      "latitude": "30.30000000",
+      "longitude": "108.85000000"
+    },
+    {
+      "id": 19900,
+      "name": "Macheng",
+      "latitude": "31.18013000",
+      "longitude": "115.02213000"
+    },
+    {
+      "id": 19951,
+      "name": "Nanzhang Chengguanzhen",
+      "latitude": "31.78394000",
+      "longitude": "111.82752000"
+    },
+    {
+      "id": 19997,
+      "name": "Puqi",
+      "latitude": "29.71667000",
+      "longitude": "113.88333000"
+    },
+    {
+      "id": 20008,
+      "name": "Qianjiang",
+      "latitude": "30.42100000",
+      "longitude": "112.89190000"
+    },
+    {
+      "id": 20022,
+      "name": "Qingquan",
+      "latitude": "30.45113000",
+      "longitude": "115.25593000"
+    },
+    {
+      "id": 20085,
+      "name": "Shashi",
+      "latitude": "30.30722000",
+      "longitude": "112.24472000"
+    },
+    {
+      "id": 20089,
+      "name": "Shennongjia",
+      "latitude": "31.58339000",
+      "longitude": "110.49720000"
+    },
+    {
+      "id": 20109,
+      "name": "Shiyan",
+      "latitude": "32.64750000",
+      "longitude": "110.77806000"
+    },
+    {
+      "id": 20145,
+      "name": "Suizhou",
+      "latitude": "31.71111000",
+      "longitude": "113.36306000"
+    },
+    {
+      "id": 20233,
+      "name": "Wuhan",
+      "latitude": "30.58333000",
+      "longitude": "114.26667000"
+    },
+    {
+      "id": 20240,
+      "name": "Wuxue",
+      "latitude": "29.85058000",
+      "longitude": "115.55250000"
+    },
+    {
+      "id": 20258,
+      "name": "Xiangyang",
+      "latitude": "32.04220000",
+      "longitude": "112.14479000"
+    },
+    {
+      "id": 20261,
+      "name": "Xianning",
+      "latitude": "29.84347000",
+      "longitude": "114.32201000"
+    },
+    {
+      "id": 20262,
+      "name": "Xianning Prefecture",
+      "latitude": "29.66609000",
+      "longitude": "114.26389000"
+    },
+    {
+      "id": 20266,
+      "name": "Xiantao",
+      "latitude": "30.37080000",
+      "longitude": "113.44294000"
+    },
+    {
+      "id": 20269,
+      "name": "Xiaogan",
+      "latitude": "30.92689000",
+      "longitude": "113.92221000"
+    },
+    {
+      "id": 20282,
+      "name": "Xihe",
+      "latitude": "31.68635000",
+      "longitude": "113.46585000"
+    },
+    {
+      "id": 20290,
+      "name": "Xindi",
+      "latitude": "29.81667000",
+      "longitude": "113.46667000"
+    },
+    {
+      "id": 20305,
+      "name": "Xinshi",
+      "latitude": "31.04704000",
+      "longitude": "113.14098000"
+    },
+    {
+      "id": 20317,
+      "name": "Xinzhou",
+      "latitude": "30.86667000",
+      "longitude": "114.80000000"
+    },
+    {
+      "id": 20323,
+      "name": "Xiulin",
+      "latitude": "29.71667000",
+      "longitude": "112.40000000"
+    },
+    {
+      "id": 20366,
+      "name": "Yichang",
+      "latitude": "30.71444000",
+      "longitude": "111.28472000"
+    },
+    {
+      "id": 20367,
+      "name": "Yicheng",
+      "latitude": "31.70472000",
+      "longitude": "112.25611000"
+    },
+    {
+      "id": 20402,
+      "name": "Yunmeng Chengguanzhen",
+      "latitude": "31.06251000",
+      "longitude": "113.76545000"
+    },
+    {
+      "id": 20414,
+      "name": "Zaoyang",
+      "latitude": "32.12722000",
+      "longitude": "112.75417000"
+    },
+    {
+      "id": 20445,
+      "name": "Zhicheng",
+      "latitude": "30.29556000",
+      "longitude": "111.50472000"
+    },
+    {
+      "id": 20446,
+      "name": "Zhijiang",
+      "latitude": "30.42139000",
+      "longitude": "111.75333000"
+    },
+    {
+      "id": 20455,
+      "name": "Zhongxiang",
+      "latitude": "31.16611000",
+      "longitude": "112.58306000"
+    }
+  ],
+  "country": {
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phone_code": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "중국",
+      "pt-BR": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین",
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "cn": "中国",
+      "tr": "Çin"
+    },
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  }
+}

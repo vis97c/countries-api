@@ -1,0 +1,78 @@
+{
+  "id": 3327,
+  "name": "Cabo Delgado Province",
+  "state_code": "P",
+  "latitude": "-12.33354740",
+  "longitude": "39.32062410",
+  "type": null,
+  "cities": [
+    {
+      "id": 76595,
+      "name": "Chiure",
+      "latitude": "-13.46665000",
+      "longitude": "39.70317000"
+    },
+    {
+      "id": 76614,
+      "name": "Mocímboa",
+      "latitude": "-11.31667000",
+      "longitude": "40.35000000"
+    },
+    {
+      "id": 76615,
+      "name": "Montepuez",
+      "latitude": "-13.12556000",
+      "longitude": "38.99972000"
+    },
+    {
+      "id": 76621,
+      "name": "Pemba",
+      "latitude": "-12.97395000",
+      "longitude": "40.51775000"
+    }
+  ],
+  "country": {
+    "id": 150,
+    "name": "Mozambique",
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "numeric_code": "508",
+    "phone_code": "258",
+    "capital": "Maputo",
+    "currency": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "tld": ".mz",
+    "native": "Moçambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "모잠비크",
+      "pt-BR": "Moçambique",
+      "pt": "Moçambique",
+      "nl": "Mozambique",
+      "hr": "Mozambik",
+      "fa": "موزامبیک",
+      "de": "Mosambik",
+      "es": "Mozambique",
+      "fr": "Mozambique",
+      "ja": "モザンビーク",
+      "it": "Mozambico",
+      "cn": "莫桑比克",
+      "tr": "Mozambik"
+    },
+    "latitude": "-18.25000000",
+    "longitude": "35.00000000",
+    "emoji": "🇲🇿",
+    "emojiU": "U+1F1F2 U+1F1FF"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": 4043,
+  "name": "El Paraíso Department",
+  "state_code": "EP",
+  "latitude": "13.98212940",
+  "longitude": "-86.49965460",
+  "type": null,
+  "cities": [
+    {
+      "id": 53846,
+      "name": "Alauca",
+      "latitude": "13.84020000",
+      "longitude": "-86.69526000"
+    },
+    {
+      "id": 53854,
+      "name": "Araulí",
+      "latitude": "13.95000000",
+      "longitude": "-86.55000000"
+    },
+    {
+      "id": 53930,
+      "name": "Cuyalí",
+      "latitude": "13.88333000",
+      "longitude": "-86.55000000"
+    },
+    {
+      "id": 53932,
+      "name": "Danlí",
+      "latitude": "14.03333000",
+      "longitude": "-86.58333000"
+    },
+    {
+      "id": 53942,
+      "name": "El Benque",
+      "latitude": "14.03333000",
+      "longitude": "-86.46667000"
+    },
+    {
+      "id": 53944,
+      "name": "El Chichicaste",
+      "latitude": "14.06667000",
+      "longitude": "-86.30000000"
+    },
+    {
+      "id": 53966,
+      "name": "El Obraje",
+      "latitude": "14.00000000",
+      "longitude": "-86.43333000"
+    },
+    {
+      "id": 53970,
+      "name": "El Paraíso",
+      "latitude": "13.85381000",
+      "longitude": "-86.53094000"
+    },
+    {
+      "id": 54024,
+      "name": "Güinope",
+      "latitude": "13.88333000",
+      "longitude": "-86.93333000"
+    },
+    {
+      "id": 54030,
+      "name": "Jacaleapa",
+      "latitude": "14.01667000",
+      "longitude": "-86.66667000"
+    },
+    {
+      "id": 54040,
+      "name": "Jutiapa",
+      "latitude": "13.98333000",
+      "longitude": "-86.40000000"
+    },
+    {
+      "id": 54098,
+      "name": "Las Ánimas",
+      "latitude": "14.25000000",
+      "longitude": "-86.56667000"
+    },
+    {
+      "id": 54094,
+      "name": "Las Trojes",
+      "latitude": "14.06667000",
+      "longitude": "-85.98333000"
+    },
+    {
+      "id": 54104,
+      "name": "Liure",
+      "latitude": "13.53583000",
+      "longitude": "-87.09194000"
+    },
+    {
+      "id": 54134,
+      "name": "Morocelí",
+      "latitude": "14.11667000",
+      "longitude": "-86.86667000"
+    },
+    {
+      "id": 54138,
+      "name": "Municipio de Texiguat",
+      "latitude": "13.66372000",
+      "longitude": "-87.03479000"
+    },
+    {
+      "id": 54154,
+      "name": "Ojo de Agua",
+      "latitude": "14.01667000",
+      "longitude": "-86.35000000"
+    },
+    {
+      "id": 54163,
+      "name": "Oropolí",
+      "latitude": "13.81667000",
+      "longitude": "-86.81667000"
+    },
+    {
+      "id": 54177,
+      "name": "Potrerillos",
+      "latitude": "14.04478000",
+      "longitude": "-86.76201000"
+    },
+    {
+      "id": 54190,
+      "name": "Quebrada Larga",
+      "latitude": "14.10000000",
+      "longitude": "-86.36667000"
+    },
+    {
+      "id": 54217,
+      "name": "San Antonio de Flores",
+      "latitude": "13.71089000",
+      "longitude": "-86.84226000"
+    },
+    {
+      "id": 54223,
+      "name": "San Diego",
+      "latitude": "14.05000000",
+      "longitude": "-86.46667000"
+    },
+    {
+      "id": 54264,
+      "name": "San Lucas",
+      "latitude": "13.74586000",
+      "longitude": "-86.95163000"
+    },
+    {
+      "id": 54275,
+      "name": "San Matías",
+      "latitude": "13.95966000",
+      "longitude": "-86.64032000"
+    },
+    {
+      "id": 54296,
+      "name": "Santa Cruz",
+      "latitude": "13.86667000",
+      "longitude": "-86.63333000"
+    },
+    {
+      "id": 54320,
+      "name": "Soledad",
+      "latitude": "13.58333000",
+      "longitude": "-87.11667000"
+    },
+    {
+      "id": 54337,
+      "name": "Teupasenti",
+      "latitude": "14.21667000",
+      "longitude": "-86.70000000"
+    },
+    {
+      "id": 54338,
+      "name": "Texíguat",
+      "latitude": "13.64972000",
+      "longitude": "-87.02250000"
+    },
+    {
+      "id": 54348,
+      "name": "Trojes",
+      "latitude": "14.05966000",
+      "longitude": "-86.00166000"
+    },
+    {
+      "id": 54352,
+      "name": "Vado Ancho",
+      "latitude": "13.64355000",
+      "longitude": "-86.95546000"
+    },
+    {
+      "id": 54372,
+      "name": "Yauyupe",
+      "latitude": "13.74867000",
+      "longitude": "-87.07610000"
+    },
+    {
+      "id": 54376,
+      "name": "Yuscarán",
+      "latitude": "13.95708000",
+      "longitude": "-86.83170000"
+    }
+  ],
+  "country": {
+    "id": 97,
+    "name": "Honduras",
+    "iso3": "HND",
+    "iso2": "HN",
+    "numeric_code": "340",
+    "phone_code": "504",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "currency_name": "Honduran lempira",
+    "currency_symbol": "L",
+    "tld": ".hn",
+    "native": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Tegucigalpa",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "온두라스",
+      "pt-BR": "Honduras",
+      "pt": "Honduras",
+      "nl": "Honduras",
+      "hr": "Honduras",
+      "fa": "هندوراس",
+      "de": "Honduras",
+      "es": "Honduras",
+      "fr": "Honduras",
+      "ja": "ホンジュラス",
+      "it": "Honduras",
+      "cn": "洪都拉斯",
+      "tr": "Honduras"
+    },
+    "latitude": "15.00000000",
+    "longitude": "-86.50000000",
+    "emoji": "🇭🇳",
+    "emojiU": "U+1F1ED U+1F1F3"
+  }
+}

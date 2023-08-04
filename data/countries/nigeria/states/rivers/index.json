@@ -1,0 +1,132 @@
+{
+  "id": 4926,
+  "name": "Rivers",
+  "state_code": "RI",
+  "latitude": "5.02134200",
+  "longitude": "6.43760220",
+  "type": "state",
+  "cities": [
+    {
+      "id": 148541,
+      "name": "Abalama",
+      "latitude": "4.76305556",
+      "longitude": "6.84027778"
+    },
+    {
+      "id": 148542,
+      "name": "Abonnema",
+      "latitude": "4.72311690",
+      "longitude": "6.77884610"
+    },
+    {
+      "id": 148543,
+      "name": "Ahoada",
+      "latitude": "5.08333333",
+      "longitude": "6.65000000"
+    },
+    {
+      "id": 148544,
+      "name": "Bori",
+      "latitude": "4.67277778",
+      "longitude": "7.37027778"
+    },
+    {
+      "id": 148545,
+      "name": "Buguma",
+      "latitude": "4.73333333",
+      "longitude": "6.86666667"
+    },
+    {
+      "id": 148546,
+      "name": "Chokocho",
+      "latitude": "4.99083300",
+      "longitude": "7.05444400"
+    },
+    {
+      "id": 148547,
+      "name": "Elele",
+      "latitude": "5.10184167",
+      "longitude": "6.81902222"
+    },
+    {
+      "id": 148548,
+      "name": "Obonoma",
+      "latitude": "4.71138889",
+      "longitude": "6.79083333"
+    },
+    {
+      "id": 148549,
+      "name": "Omoku",
+      "latitude": "5.34200000",
+      "longitude": "6.65600000"
+    },
+    {
+      "id": 148550,
+      "name": "Onne",
+      "latitude": "4.74444444",
+      "longitude": "7.03611111"
+    },
+    {
+      "id": 148551,
+      "name": "Opobo",
+      "latitude": "4.51138889",
+      "longitude": "7.54000000"
+    },
+    {
+      "id": 148552,
+      "name": "Port Harcourt",
+      "latitude": "4.75000000",
+      "longitude": "7.00000000"
+    },
+    {
+      "id": 148553,
+      "name": "Rumuokoro",
+      "latitude": "4.86666667",
+      "longitude": "6.98333333"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1213,
+  "name": "Limón Province",
+  "state_code": "L",
+  "latitude": "9.98963980",
+  "longitude": "-83.03324170",
+  "type": null,
+  "cities": [
+    {
+      "id": 21650,
+      "name": "Batán",
+      "latitude": "10.08354000",
+      "longitude": "-83.33413000"
+    },
+    {
+      "id": 21688,
+      "name": "Guácimo",
+      "latitude": "10.20000000",
+      "longitude": "-83.66667000"
+    },
+    {
+      "id": 21689,
+      "name": "Guápiles",
+      "latitude": "10.21682000",
+      "longitude": "-83.78483000"
+    },
+    {
+      "id": 21703,
+      "name": "Limón",
+      "latitude": "9.99074000",
+      "longitude": "-83.03596000"
+    },
+    {
+      "id": 21706,
+      "name": "Matina",
+      "latitude": "10.00000000",
+      "longitude": "-83.25000000"
+    },
+    {
+      "id": 21730,
+      "name": "Pococí",
+      "latitude": "10.50000000",
+      "longitude": "-83.63333000"
+    },
+    {
+      "id": 21731,
+      "name": "Pocora",
+      "latitude": "10.17185000",
+      "longitude": "-83.60439000"
+    },
+    {
+      "id": 21740,
+      "name": "Roxana",
+      "latitude": "10.26712000",
+      "longitude": "-83.75110000"
+    },
+    {
+      "id": 21782,
+      "name": "Siquirres",
+      "latitude": "10.11667000",
+      "longitude": "-83.50000000"
+    },
+    {
+      "id": 21783,
+      "name": "Sixaola",
+      "latitude": "9.52766000",
+      "longitude": "-82.62185000"
+    },
+    {
+      "id": 21785,
+      "name": "Talamanca",
+      "latitude": "9.50000000",
+      "longitude": "-83.08333000"
+    }
+  ],
+  "country": {
+    "id": 53,
+    "name": "Costa Rica",
+    "iso3": "CRI",
+    "iso2": "CR",
+    "numeric_code": "188",
+    "phone_code": "506",
+    "capital": "San Jose",
+    "currency": "CRC",
+    "currency_name": "Costa Rican colón",
+    "currency_symbol": "₡",
+    "tld": ".cr",
+    "native": "Costa Rica",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Costa_Rica",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "코스타리카",
+      "pt-BR": "Costa Rica",
+      "pt": "Costa Rica",
+      "nl": "Costa Rica",
+      "hr": "Kostarika",
+      "fa": "کاستاریکا",
+      "de": "Costa Rica",
+      "es": "Costa Rica",
+      "fr": "Costa Rica",
+      "ja": "コスタリカ",
+      "it": "Costa Rica",
+      "cn": "哥斯达黎加",
+      "tr": "Kosta Rika"
+    },
+    "latitude": "10.00000000",
+    "longitude": "-84.00000000",
+    "emoji": "🇨🇷",
+    "emojiU": "U+1F1E8 U+1F1F7"
+  }
+}

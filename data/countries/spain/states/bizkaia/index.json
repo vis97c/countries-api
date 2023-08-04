@@ -1,0 +1,740 @@
+{
+  "id": 5094,
+  "name": "Bizkaia",
+  "state_code": "BI",
+  "latitude": "43.21921990",
+  "longitude": "-3.21110870",
+  "type": "province",
+  "cities": [
+    {
+      "id": 151259,
+      "name": "Abadiño",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151260,
+      "name": "Abanto y Ciérvana-Abanto Zierbena",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151318,
+      "name": "Ajangiz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32319,
+      "name": "Alonsotegi",
+      "latitude": "43.24483000",
+      "longitude": "-2.98759000"
+    },
+    {
+      "id": 151261,
+      "name": "Amorebieta-Etxano",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32357,
+      "name": "Amoroto",
+      "latitude": "43.32634000",
+      "longitude": "-2.51349000"
+    },
+    {
+      "id": 151262,
+      "name": "Arakaldo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151263,
+      "name": "Arantzazu",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151311,
+      "name": "Areatza",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151266,
+      "name": "Arrankudiaga",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151319,
+      "name": "Arratzu",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151267,
+      "name": "Arrieta",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32507,
+      "name": "Arrigorriaga",
+      "latitude": "43.21006000",
+      "longitude": "-2.88562000"
+    },
+    {
+      "id": 151271,
+      "name": "Artea",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151265,
+      "name": "Artzentales",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151309,
+      "name": "Atxondo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32557,
+      "name": "Aulesti",
+      "latitude": "43.30000000",
+      "longitude": "-2.56667000"
+    },
+    {
+      "id": 32618,
+      "name": "Bakio",
+      "latitude": "43.42917000",
+      "longitude": "-2.80881000"
+    },
+    {
+      "id": 151308,
+      "name": "Balmaseda",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32638,
+      "name": "Barakaldo",
+      "latitude": "43.29639000",
+      "longitude": "-2.98813000"
+    },
+    {
+      "id": 151268,
+      "name": "Barrika",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32688,
+      "name": "Basauri",
+      "latitude": "43.23970000",
+      "longitude": "-2.88580000"
+    },
+    {
+      "id": 151310,
+      "name": "Bedia",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32831,
+      "name": "Berango",
+      "latitude": "43.36500000",
+      "longitude": "-2.99601000"
+    },
+    {
+      "id": 32859,
+      "name": "Bermeo",
+      "latitude": "43.42088000",
+      "longitude": "-2.72152000"
+    },
+    {
+      "id": 32863,
+      "name": "Berriatua",
+      "latitude": "43.31667000",
+      "longitude": "-2.46667000"
+    },
+    {
+      "id": 32866,
+      "name": "Berriz",
+      "latitude": "43.16667000",
+      "longitude": "-2.56667000"
+    },
+    {
+      "id": 32895,
+      "name": "Bilbao",
+      "latitude": "43.26271000",
+      "longitude": "-2.92528000"
+    },
+    {
+      "id": 151269,
+      "name": "Busturia",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33927,
+      "name": "Derio",
+      "latitude": "43.30544000",
+      "longitude": "-2.88116000"
+    },
+    {
+      "id": 151273,
+      "name": "Dima",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33961,
+      "name": "Durango",
+      "latitude": "43.17124000",
+      "longitude": "-2.63380000"
+    },
+    {
+      "id": 33968,
+      "name": "Ea",
+      "latitude": "43.37985000",
+      "longitude": "-2.58556000"
+    },
+    {
+      "id": 151276,
+      "name": "Elantxobe",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34038,
+      "name": "Elorrio",
+      "latitude": "43.12924000",
+      "longitude": "-2.54056000"
+    },
+    {
+      "id": 34066,
+      "name": "Erandio",
+      "latitude": "43.30438000",
+      "longitude": "-2.97352000"
+    },
+    {
+      "id": 151277,
+      "name": "Ereño",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34069,
+      "name": "Ermua",
+      "latitude": "43.18725000",
+      "longitude": "-2.50261000"
+    },
+    {
+      "id": 34071,
+      "name": "Errigoiti",
+      "latitude": "43.31667000",
+      "longitude": "-2.71667000"
+    },
+    {
+      "id": 151274,
+      "name": "Etxebarri",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151275,
+      "name": "Etxebarria",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34232,
+      "name": "Forua",
+      "latitude": "43.33343000",
+      "longitude": "-2.67504000"
+    },
+    {
+      "id": 151278,
+      "name": "Fruiz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34378,
+      "name": "Galdakao",
+      "latitude": "43.23073000",
+      "longitude": "-2.84290000"
+    },
+    {
+      "id": 151279,
+      "name": "Galdames",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151280,
+      "name": "Gamiz-Fika",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151281,
+      "name": "Garai",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34436,
+      "name": "Gatika",
+      "latitude": "43.36313000",
+      "longitude": "-2.87294000"
+    },
+    {
+      "id": 151282,
+      "name": "Gautegiz Arteaga",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34457,
+      "name": "Gernika-Lumo",
+      "latitude": "43.31667000",
+      "longitude": "-2.68333000"
+    },
+    {
+      "id": 34461,
+      "name": "Getxo",
+      "latitude": "43.35689000",
+      "longitude": "-3.01146000"
+    },
+    {
+      "id": 151285,
+      "name": "Gizaburuaga",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151283,
+      "name": "Gordexola",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151284,
+      "name": "Gorliz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34568,
+      "name": "Güeñes",
+      "latitude": "43.21252000",
+      "longitude": "-3.09497000"
+    },
+    {
+      "id": 34724,
+      "name": "Ibarrangelu",
+      "latitude": "43.39027000",
+      "longitude": "-2.63423000"
+    },
+    {
+      "id": 151312,
+      "name": "Igorre",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151286,
+      "name": "Ispaster",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151317,
+      "name": "Iurreta",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34783,
+      "name": "Izurtza",
+      "latitude": "43.15000000",
+      "longitude": "-2.63333000"
+    },
+    {
+      "id": 151270,
+      "name": "Karrantza Harana/Valle de Carranza",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151314,
+      "name": "Kortezubi",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34961,
+      "name": "Lanestosa",
+      "latitude": "43.21986000",
+      "longitude": "-3.43920000"
+    },
+    {
+      "id": 151287,
+      "name": "Larrabetzu",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151288,
+      "name": "Laukiz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35026,
+      "name": "Leioa",
+      "latitude": "43.32686000",
+      "longitude": "-2.98884000"
+    },
+    {
+      "id": 35028,
+      "name": "Lekeitio",
+      "latitude": "43.36417000",
+      "longitude": "-2.50492000"
+    },
+    {
+      "id": 151289,
+      "name": "Lemoa",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151290,
+      "name": "Lemoiz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35041,
+      "name": "Lezama",
+      "latitude": "43.02799000",
+      "longitude": "-2.97257000"
+    },
+    {
+      "id": 151313,
+      "name": "Loiu",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151291,
+      "name": "Mallabia",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35361,
+      "name": "Mañaria",
+      "latitude": "43.13819000",
+      "longitude": "-2.66104000"
+    },
+    {
+      "id": 35294,
+      "name": "Markina-Xemein",
+      "latitude": "43.26667000",
+      "longitude": "-2.50000000"
+    },
+    {
+      "id": 151292,
+      "name": "Maruri-Jatabe",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151294,
+      "name": "Meñaka",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151293,
+      "name": "Mendata",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35400,
+      "name": "Mendexa",
+      "latitude": "43.34590000",
+      "longitude": "-2.48420000"
+    },
+    {
+      "id": 151296,
+      "name": "Morga",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35662,
+      "name": "Mundaka",
+      "latitude": "43.40804000",
+      "longitude": "-2.69852000"
+    },
+    {
+      "id": 35664,
+      "name": "Mungia",
+      "latitude": "43.35461000",
+      "longitude": "-2.84524000"
+    },
+    {
+      "id": 151264,
+      "name": "Munitibar-Arbatzegi Gerrikaitz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151315,
+      "name": "Murueta",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151298,
+      "name": "Muskiz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151297,
+      "name": "Muxika",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151316,
+      "name": "Nabarniz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35924,
+      "name": "Ondarroa",
+      "latitude": "43.31667000",
+      "longitude": "-2.41667000"
+    },
+    {
+      "id": 151301,
+      "name": "Orozko",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35964,
+      "name": "Ortuella",
+      "latitude": "43.31113000",
+      "longitude": "-3.05617000"
+    },
+    {
+      "id": 151299,
+      "name": "Otxandio",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36244,
+      "name": "Plentzia",
+      "latitude": "43.40530000",
+      "longitude": "-2.94794000"
+    },
+    {
+      "id": 36300,
+      "name": "Portugalete",
+      "latitude": "43.32099000",
+      "longitude": "-3.02064000"
+    },
+    {
+      "id": 37155,
+      "name": "Santurtzi",
+      "latitude": "43.32842000",
+      "longitude": "-3.03248000"
+    },
+    {
+      "id": 37233,
+      "name": "Sestao",
+      "latitude": "43.30975000",
+      "longitude": "-3.00716000"
+    },
+    {
+      "id": 37292,
+      "name": "Sondika",
+      "latitude": "43.30020000",
+      "longitude": "-2.92442000"
+    },
+    {
+      "id": 151304,
+      "name": "Sopelana",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37297,
+      "name": "Sopuerta",
+      "latitude": "43.26239000",
+      "longitude": "-3.15505000"
+    },
+    {
+      "id": 151302,
+      "name": "Sukarrieta",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151305,
+      "name": "Trucios-Turtzioz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151306,
+      "name": "Ubide",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151295,
+      "name": "Ugao-Miraballes",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151307,
+      "name": "Urduliz",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151300,
+      "name": "Urduña/Orduña",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151303,
+      "name": "Valle de Trápaga-Trapagaran",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38460,
+      "name": "Zaldibar",
+      "latitude": "43.16667000",
+      "longitude": "-2.53333000"
+    },
+    {
+      "id": 38461,
+      "name": "Zalla",
+      "latitude": "43.23333000",
+      "longitude": "-3.13333000"
+    },
+    {
+      "id": 38466,
+      "name": "Zamudio",
+      "latitude": "43.28600000",
+      "longitude": "-2.87000000"
+    },
+    {
+      "id": 38472,
+      "name": "Zaratamo",
+      "latitude": "43.21667000",
+      "longitude": "-2.86667000"
+    },
+    {
+      "id": 38490,
+      "name": "Zeanuri",
+      "latitude": "43.10000000",
+      "longitude": "-2.75000000"
+    },
+    {
+      "id": 151272,
+      "name": "Zeberio",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38493,
+      "name": "Zierbena",
+      "latitude": "43.35000000",
+      "longitude": "-3.08333000"
+    },
+    {
+      "id": 151320,
+      "name": "Ziortza-Bolibar",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

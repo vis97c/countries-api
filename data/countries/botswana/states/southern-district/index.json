@@ -1,0 +1,78 @@
+{
+  "id": 3063,
+  "name": "Southern District",
+  "state_code": "SO",
+  "latitude": null,
+  "longitude": null,
+  "type": null,
+  "cities": [
+    {
+      "id": 15744,
+      "name": "Kanye",
+      "latitude": "-24.96675000",
+      "longitude": "25.33273000"
+    },
+    {
+      "id": 15745,
+      "name": "Khakhea",
+      "latitude": "-24.68954000",
+      "longitude": "23.49403000"
+    },
+    {
+      "id": 15777,
+      "name": "Mosopa",
+      "latitude": "-24.77180000",
+      "longitude": "25.42156000"
+    },
+    {
+      "id": 15794,
+      "name": "Sekoma",
+      "latitude": "-24.40000000",
+      "longitude": "23.88333000"
+    }
+  ],
+  "country": {
+    "id": 29,
+    "name": "Botswana",
+    "iso3": "BWA",
+    "iso2": "BW",
+    "numeric_code": "072",
+    "phone_code": "267",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "native": "Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "보츠와나",
+      "pt-BR": "Botsuana",
+      "pt": "Botsuana",
+      "nl": "Botswana",
+      "hr": "Bocvana",
+      "fa": "بوتسوانا",
+      "de": "Botswana",
+      "es": "Botswana",
+      "fr": "Botswana",
+      "ja": "ボツワナ",
+      "it": "Botswana",
+      "cn": "博茨瓦纳",
+      "tr": "Botsvana"
+    },
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
+  }
+}

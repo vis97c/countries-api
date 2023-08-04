@@ -1,0 +1,84 @@
+{
+  "id": 3873,
+  "name": "Helmand",
+  "state_code": "HEL",
+  "latitude": "39.29893610",
+  "longitude": "-76.61604720",
+  "type": null,
+  "cities": [
+    {
+      "id": 141,
+      "name": "‘Alāqahdārī Dīshū",
+      "latitude": "30.43206000",
+      "longitude": "63.29802000"
+    },
+    {
+      "id": 70,
+      "name": "Gereshk",
+      "latitude": "31.82089000",
+      "longitude": "64.57005000"
+    },
+    {
+      "id": 93,
+      "name": "Lashkar Gāh",
+      "latitude": "31.59382000",
+      "longitude": "64.37161000"
+    },
+    {
+      "id": 95,
+      "name": "Markaz-e Ḩukūmat-e Darwēshān",
+      "latitude": "31.13231000",
+      "longitude": "64.19340000"
+    },
+    {
+      "id": 118,
+      "name": "Sangīn",
+      "latitude": "32.07275000",
+      "longitude": "64.83590000"
+    }
+  ],
+  "country": {
+    "id": 1,
+    "name": "Afghanistan",
+    "iso3": "AFG",
+    "iso2": "AF",
+    "numeric_code": "004",
+    "phone_code": "93",
+    "capital": "Kabul",
+    "currency": "AFN",
+    "currency_name": "Afghan afghani",
+    "currency_symbol": "؋",
+    "tld": ".af",
+    "native": "افغانستان",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아프가니스탄",
+      "pt-BR": "Afeganistão",
+      "pt": "Afeganistão",
+      "nl": "Afghanistan",
+      "hr": "Afganistan",
+      "fa": "افغانستان",
+      "de": "Afghanistan",
+      "es": "Afganistán",
+      "fr": "Afghanistan",
+      "ja": "アフガニスタン",
+      "it": "Afghanistan",
+      "cn": "阿富汗",
+      "tr": "Afganistan"
+    },
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "emoji": "🇦🇫",
+    "emojiU": "U+1F1E6 U+1F1EB"
+  }
+}

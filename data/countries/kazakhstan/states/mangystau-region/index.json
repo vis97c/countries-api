@@ -1,0 +1,168 @@
+{
+  "id": 141,
+  "name": "Mangystau Region",
+  "state_code": "MAN",
+  "latitude": "44.59080200",
+  "longitude": "53.84995080",
+  "type": null,
+  "cities": [
+    {
+      "id": 65604,
+      "name": "Aktau",
+      "latitude": "43.65000000",
+      "longitude": "51.16667000"
+    },
+    {
+      "id": 65641,
+      "name": "Baūtīno",
+      "latitude": "44.54479000",
+      "longitude": "50.24629000"
+    },
+    {
+      "id": 65648,
+      "name": "Beyneu",
+      "latitude": "45.31667000",
+      "longitude": "55.20000000"
+    },
+    {
+      "id": 65678,
+      "name": "Fort-Shevchenko",
+      "latitude": "44.50654000",
+      "longitude": "50.26388000"
+    },
+    {
+      "id": 65732,
+      "name": "Munayshy",
+      "latitude": "43.49111000",
+      "longitude": "52.10861000"
+    },
+    {
+      "id": 65851,
+      "name": "Ömirzaq",
+      "latitude": "43.59786000",
+      "longitude": "51.24171000"
+    },
+    {
+      "id": 65772,
+      "name": "Sayötesh",
+      "latitude": "44.32781000",
+      "longitude": "53.53246000"
+    },
+    {
+      "id": 65786,
+      "name": "Shetpe",
+      "latitude": "44.16667000",
+      "longitude": "52.11667000"
+    },
+    {
+      "id": 65806,
+      "name": "Taūshyq",
+      "latitude": "44.34678000",
+      "longitude": "51.34932000"
+    },
+    {
+      "id": 65829,
+      "name": "Yeraliyev",
+      "latitude": "43.18032000",
+      "longitude": "51.68116000"
+    },
+    {
+      "id": 65837,
+      "name": "Zhanaozen",
+      "latitude": "43.34116000",
+      "longitude": "52.86192000"
+    },
+    {
+      "id": 65844,
+      "name": "Zhetibay",
+      "latitude": "43.59417000",
+      "longitude": "52.07889000"
+    }
+  ],
+  "country": {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "numeric_code": "398",
+    "phone_code": "7",
+    "capital": "Astana",
+    "currency": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "лв",
+    "tld": ".kz",
+    "native": "Қазақстан",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Almaty",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "tzName": "Alma-Ata Time[1"
+      },
+      {
+        "zoneName": "Asia/Aqtau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Aqtobe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Atyrau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "tzName": "Moscow Daylight Time+1"
+      },
+      {
+        "zoneName": "Asia/Oral",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "tzName": "Oral Time"
+      },
+      {
+        "zoneName": "Asia/Qostanay",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "tzName": "Qyzylorda Summer Time"
+      },
+      {
+        "zoneName": "Asia/Qyzylorda",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "tzName": "Qyzylorda Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "카자흐스탄",
+      "pt-BR": "Cazaquistão",
+      "pt": "Cazaquistão",
+      "nl": "Kazachstan",
+      "hr": "Kazahstan",
+      "fa": "قزاقستان",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "fr": "Kazakhstan",
+      "ja": "カザフスタン",
+      "it": "Kazakistan",
+      "cn": "哈萨克斯坦",
+      "tr": "Kazakistan"
+    },
+    "latitude": "48.00000000",
+    "longitude": "68.00000000",
+    "emoji": "🇰🇿",
+    "emojiU": "U+1F1F0 U+1F1FF"
+  }
+}

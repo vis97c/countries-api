@@ -1,0 +1,96 @@
+{
+  "id": 3228,
+  "name": "Monufia",
+  "state_code": "MNF",
+  "latitude": "30.59724550",
+  "longitude": "30.98763210",
+  "type": null,
+  "cities": [
+    {
+      "id": 31767,
+      "name": "Al Bājūr",
+      "latitude": "30.43046000",
+      "longitude": "31.03679000"
+    },
+    {
+      "id": 31789,
+      "name": "Ash Shuhadā’",
+      "latitude": "30.59683000",
+      "longitude": "30.89931000"
+    },
+    {
+      "id": 31790,
+      "name": "Ashmūn",
+      "latitude": "30.29735000",
+      "longitude": "30.97641000"
+    },
+    {
+      "id": 31846,
+      "name": "Munūf",
+      "latitude": "30.46597000",
+      "longitude": "30.93199000"
+    },
+    {
+      "id": 31854,
+      "name": "Quwaysinā",
+      "latitude": "30.56482000",
+      "longitude": "31.15777000"
+    },
+    {
+      "id": 31863,
+      "name": "Shibīn al Kawm",
+      "latitude": "30.55258000",
+      "longitude": "31.00904000"
+    },
+    {
+      "id": 31871,
+      "name": "Talā",
+      "latitude": "30.67980000",
+      "longitude": "30.94364000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

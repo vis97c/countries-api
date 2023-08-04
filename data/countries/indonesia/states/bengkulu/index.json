@@ -1,0 +1,147 @@
+{
+  "id": 1793,
+  "name": "Bengkulu",
+  "state_code": "BE",
+  "latitude": "-3.79284510",
+  "longitude": "102.26076410",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56217,
+      "name": "Bengkulu",
+      "latitude": "-3.80044000",
+      "longitude": "102.26554000"
+    },
+    {
+      "id": 56258,
+      "name": "Curup",
+      "latitude": "-3.47030000",
+      "longitude": "102.52070000"
+    },
+    {
+      "id": 56355,
+      "name": "Kabupaten Bengkulu Selatan",
+      "latitude": "-4.35000000",
+      "longitude": "103.03333000"
+    },
+    {
+      "id": 56356,
+      "name": "Kabupaten Bengkulu Tengah",
+      "latitude": "-3.20679000",
+      "longitude": "102.12616000"
+    },
+    {
+      "id": 56357,
+      "name": "Kabupaten Bengkulu Utara",
+      "latitude": "-3.33333000",
+      "longitude": "102.05000000"
+    },
+    {
+      "id": 56444,
+      "name": "Kabupaten Kaur",
+      "latitude": "-4.78179000",
+      "longitude": "103.36109000"
+    },
+    {
+      "id": 56449,
+      "name": "Kabupaten Kepahiang",
+      "latitude": "-3.60194000",
+      "longitude": "102.56424000"
+    },
+    {
+      "id": 56492,
+      "name": "Kabupaten Lebong",
+      "latitude": "-3.24278000",
+      "longitude": "102.33490000"
+    },
+    {
+      "id": 56544,
+      "name": "Kabupaten Mukomuko",
+      "latitude": "-3.07438000",
+      "longitude": "101.54766000"
+    },
+    {
+      "id": 56609,
+      "name": "Kabupaten Rejang Lebong",
+      "latitude": "-3.43333000",
+      "longitude": "102.71667000"
+    },
+    {
+      "id": 56619,
+      "name": "Kabupaten Seluma",
+      "latitude": "-3.96644000",
+      "longitude": "102.47429000"
+    },
+    {
+      "id": 56739,
+      "name": "Kota Bengkulu",
+      "latitude": "-3.81667000",
+      "longitude": "102.31667000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

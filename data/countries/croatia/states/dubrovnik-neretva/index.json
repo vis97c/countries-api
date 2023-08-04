@@ -1,0 +1,210 @@
+{
+  "id": 728,
+  "name": "Dubrovnik-Neretva",
+  "state_code": "19",
+  "latitude": "43.07665880",
+  "longitude": "17.52684710",
+  "type": "county",
+  "cities": [
+    {
+      "id": 54437,
+      "name": "Cavtat",
+      "latitude": "42.58111000",
+      "longitude": "18.21806000"
+    },
+    {
+      "id": 55022,
+      "name": "Čibača",
+      "latitude": "42.62889000",
+      "longitude": "18.17111000"
+    },
+    {
+      "id": 54471,
+      "name": "Dubrovačko primorje",
+      "latitude": "42.78988000",
+      "longitude": "17.86240000"
+    },
+    {
+      "id": 54513,
+      "name": "Grad Dubrovnik",
+      "latitude": "42.64861000",
+      "longitude": "18.09397000"
+    },
+    {
+      "id": 54525,
+      "name": "Grad Korčula",
+      "latitude": "42.95693000",
+      "longitude": "17.13181000"
+    },
+    {
+      "id": 54544,
+      "name": "Grad Ploče",
+      "latitude": "43.06667000",
+      "longitude": "17.43333000"
+    },
+    {
+      "id": 54653,
+      "name": "Komin",
+      "latitude": "43.04083000",
+      "longitude": "17.53694000"
+    },
+    {
+      "id": 54656,
+      "name": "Konavle",
+      "latitude": "42.54010000",
+      "longitude": "18.33944000"
+    },
+    {
+      "id": 54662,
+      "name": "Korčula",
+      "latitude": "42.96038000",
+      "longitude": "17.13525000"
+    },
+    {
+      "id": 54684,
+      "name": "Lastovo",
+      "latitude": "42.76757000",
+      "longitude": "16.89708000"
+    },
+    {
+      "id": 54704,
+      "name": "Lumbarda",
+      "latitude": "42.92278000",
+      "longitude": "17.16722000"
+    },
+    {
+      "id": 54728,
+      "name": "Metković",
+      "latitude": "43.05417000",
+      "longitude": "17.64833000"
+    },
+    {
+      "id": 54736,
+      "name": "Mljet",
+      "latitude": "42.74439000",
+      "longitude": "17.53645000"
+    },
+    {
+      "id": 54737,
+      "name": "Mokošica",
+      "latitude": "42.67556000",
+      "longitude": "18.09028000"
+    },
+    {
+      "id": 54785,
+      "name": "Općina Lastovo",
+      "latitude": "42.75000000",
+      "longitude": "16.90000000"
+    },
+    {
+      "id": 54780,
+      "name": "Opuzen",
+      "latitude": "43.01528000",
+      "longitude": "17.56556000"
+    },
+    {
+      "id": 54787,
+      "name": "Orebić",
+      "latitude": "42.98556000",
+      "longitude": "17.17472000"
+    },
+    {
+      "id": 54813,
+      "name": "Podgora",
+      "latitude": "42.84861000",
+      "longitude": "17.83639000"
+    },
+    {
+      "id": 54821,
+      "name": "Pojezerje",
+      "latitude": "43.15741000",
+      "longitude": "17.45152000"
+    },
+    {
+      "id": 54898,
+      "name": "Slivno",
+      "latitude": "42.95864000",
+      "longitude": "17.54431000"
+    },
+    {
+      "id": 54900,
+      "name": "Smokvica",
+      "latitude": "42.93056000",
+      "longitude": "16.89639000"
+    },
+    {
+      "id": 54914,
+      "name": "Ston",
+      "latitude": "42.83861000",
+      "longitude": "17.69639000"
+    },
+    {
+      "id": 54954,
+      "name": "Vela Luka",
+      "latitude": "42.96333000",
+      "longitude": "16.72250000"
+    },
+    {
+      "id": 55007,
+      "name": "Zažablje",
+      "latitude": "43.01113000",
+      "longitude": "17.65683000"
+    },
+    {
+      "id": 55041,
+      "name": "Žrnovo",
+      "latitude": "42.95111000",
+      "longitude": "17.11417000"
+    },
+    {
+      "id": 55042,
+      "name": "Župa dubrovačka",
+      "latitude": "42.62683000",
+      "longitude": "18.19475000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

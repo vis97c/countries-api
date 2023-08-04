@@ -1,0 +1,429 @@
+{
+  "id": 139,
+  "name": "Mauritania",
+  "iso3": "MRT",
+  "iso2": "MR",
+  "numeric_code": "478",
+  "phone_code": "222",
+  "capital": "Nouakchott",
+  "currency": "MRO",
+  "currency_name": "Mauritanian ouguiya",
+  "currency_symbol": "MRU",
+  "tld": ".mr",
+  "native": "موريتانيا",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Nouakchott",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "kr": "모리타니",
+    "pt-BR": "Mauritânia",
+    "pt": "Mauritânia",
+    "nl": "Mauritanië",
+    "hr": "Mauritanija",
+    "fa": "موریتانی",
+    "de": "Mauretanien",
+    "es": "Mauritania",
+    "fr": "Mauritanie",
+    "ja": "モーリタニア",
+    "it": "Mauritania",
+    "cn": "毛里塔尼亚",
+    "tr": "Moritanya"
+  },
+  "latitude": "20.00000000",
+  "longitude": "-12.00000000",
+  "emoji": "🇲🇷",
+  "emojiU": "U+1F1F2 U+1F1F7",
+  "states": [
+    {
+      "id": 3344,
+      "name": "Adrar",
+      "state_code": "07",
+      "latitude": "19.86521760",
+      "longitude": "-12.80547530",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67746,
+          "name": "Atar",
+          "latitude": "20.51770000",
+          "longitude": "-13.04857000"
+        },
+        {
+          "id": 150074,
+          "name": "Azougui",
+          "latitude": "20.56764000",
+          "longitude": "-13.11191000"
+        },
+        {
+          "id": 67748,
+          "name": "Chingueṭṭi",
+          "latitude": "20.46300000",
+          "longitude": "-12.36200000"
+        },
+        {
+          "id": 150075,
+          "name": "Ksar el Khali",
+          "latitude": "20.93333333",
+          "longitude": "-11.61666667"
+        }
+      ]
+    },
+    {
+      "id": 3349,
+      "name": "Assaba",
+      "state_code": "03",
+      "latitude": "16.77595580",
+      "longitude": "-11.52480550",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67747,
+          "name": "Barkéwol",
+          "latitude": "16.64039000",
+          "longitude": "-12.49849000"
+        },
+        {
+          "id": 67750,
+          "name": "Kiffa",
+          "latitude": "16.62073000",
+          "longitude": "-11.40208000"
+        }
+      ]
+    },
+    {
+      "id": 3339,
+      "name": "Brakna",
+      "state_code": "05",
+      "latitude": "17.23175610",
+      "longitude": "-13.17403480",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67757,
+          "name": "’Elb el Jmel",
+          "latitude": "17.01050000",
+          "longitude": "-13.97102000"
+        },
+        {
+          "id": 67745,
+          "name": "Aleg",
+          "latitude": "17.05314000",
+          "longitude": "-13.91312000"
+        },
+        {
+          "id": 150071,
+          "name": "Bofal",
+          "latitude": "16.41666667",
+          "longitude": "-13.80000000"
+        },
+        {
+          "id": 150072,
+          "name": "Sori Malé",
+          "latitude": "16.95416667",
+          "longitude": "-13.37916667"
+        }
+      ]
+    },
+    {
+      "id": 3346,
+      "name": "Dakhlet Nouadhibou",
+      "state_code": "08",
+      "latitude": "20.59855880",
+      "longitude": "-16.25221430",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150076,
+          "name": "Cansado",
+          "latitude": "20.85333333",
+          "longitude": "-17.03250000"
+        },
+        {
+          "id": 150077,
+          "name": "Iouik",
+          "latitude": "19.84944444",
+          "longitude": "-16.33083333"
+        },
+        {
+          "id": 67751,
+          "name": "Nouadhibou",
+          "latitude": "20.94188000",
+          "longitude": "-17.03842000"
+        }
+      ]
+    },
+    {
+      "id": 3341,
+      "name": "Gorgol",
+      "state_code": "04",
+      "latitude": "15.97173570",
+      "longitude": "-12.62162110",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67749,
+          "name": "Kaédi",
+          "latitude": "16.15027000",
+          "longitude": "-13.50370000"
+        }
+      ]
+    },
+    {
+      "id": 3350,
+      "name": "Guidimaka",
+      "state_code": "10",
+      "latitude": "15.25573310",
+      "longitude": "-12.25479190",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67754,
+          "name": "Sélibaby",
+          "latitude": "15.15846000",
+          "longitude": "-12.18430000"
+        }
+      ]
+    },
+    {
+      "id": 3338,
+      "name": "Hodh Ech Chargui",
+      "state_code": "01",
+      "latitude": "18.67370260",
+      "longitude": "-7.09287700",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150066,
+          "name": "Diade",
+          "latitude": "16.23333333",
+          "longitude": "-7.41666667"
+        },
+        {
+          "id": 150067,
+          "name": "Kataouane",
+          "latitude": "16.06888889",
+          "longitude": "-6.49888889"
+        },
+        {
+          "id": 67752,
+          "name": "Néma",
+          "latitude": "16.61702000",
+          "longitude": "-7.25649000"
+        },
+        {
+          "id": 150068,
+          "name": "Timbedra",
+          "latitude": "16.24472222",
+          "longitude": "-8.16750000"
+        }
+      ]
+    },
+    {
+      "id": 3351,
+      "name": "Hodh El Gharbi",
+      "state_code": "02",
+      "latitude": "16.69121490",
+      "longitude": "-9.54509740",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67743,
+          "name": "Aioun",
+          "latitude": "16.66140000",
+          "longitude": "-9.61490000"
+        },
+        {
+          "id": 150069,
+          "name": "Ayoun el Atrous",
+          "latitude": "16.66666667",
+          "longitude": "-9.61666667"
+        },
+        {
+          "id": 150070,
+          "name": "Togba",
+          "latitude": "17.40000000",
+          "longitude": "-10.36666667"
+        }
+      ]
+    },
+    {
+      "id": 3342,
+      "name": "Inchiri",
+      "state_code": "12",
+      "latitude": "20.02805610",
+      "longitude": "-15.40680790",
+      "type": "region",
+      "cities": [
+        {
+          "id": 67744,
+          "name": "Akjoujt",
+          "latitude": "19.74657000",
+          "longitude": "-14.38531000"
+        }
+      ]
+    },
+    {
+      "id": 3343,
+      "name": "Nouakchott-Nord",
+      "state_code": "14",
+      "latitude": "18.11302050",
+      "longitude": "-15.89949560",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150085,
+          "name": "Dar-Naim",
+          "latitude": "18.03333333",
+          "longitude": "-15.96666667"
+        },
+        {
+          "id": 150086,
+          "name": "Teyarett",
+          "latitude": "18.12895720",
+          "longitude": "-15.93778340"
+        },
+        {
+          "id": 150087,
+          "name": "Toujouonine",
+          "latitude": "18.07169000",
+          "longitude": "-15.90311000"
+        }
+      ]
+    },
+    {
+      "id": 3352,
+      "name": "Nouakchott-Ouest",
+      "state_code": "13",
+      "latitude": "18.15113570",
+      "longitude": "-15.99349100",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150082,
+          "name": "Ksar",
+          "latitude": "18.10222222",
+          "longitude": "-15.95500000"
+        },
+        {
+          "id": 150083,
+          "name": "Sebkha",
+          "latitude": "18.07555556",
+          "longitude": "-16.00194444"
+        },
+        {
+          "id": 150084,
+          "name": "Tevragh-Zeina",
+          "latitude": "18.11011000",
+          "longitude": "-15.99931000"
+        }
+      ]
+    },
+    {
+      "id": 3347,
+      "name": "Nouakchott-Sud",
+      "state_code": "15",
+      "latitude": "17.97092880",
+      "longitude": "-15.94648740",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150088,
+          "name": "Arafat",
+          "latitude": "18.04639000",
+          "longitude": "-15.97194000"
+        },
+        {
+          "id": 150089,
+          "name": "Riyad",
+          "latitude": "18.10222222",
+          "longitude": "-15.95500000"
+        }
+      ]
+    },
+    {
+      "id": 3345,
+      "name": "Tagant",
+      "state_code": "09",
+      "latitude": "18.54675270",
+      "longitude": "-9.90181310",
+      "type": "region",
+      "cities": []
+    },
+    {
+      "id": 3340,
+      "name": "Tiris Zemmour",
+      "state_code": "11",
+      "latitude": "24.57737640",
+      "longitude": "-9.90181310",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150078,
+          "name": "Ain Ben Tili",
+          "latitude": "25.99444444",
+          "longitude": "-9.55333333"
+        },
+        {
+          "id": 150079,
+          "name": "Chegga",
+          "latitude": "25.37194444",
+          "longitude": "-5.78666667"
+        },
+        {
+          "id": 150080,
+          "name": "Fderîck",
+          "latitude": "22.67777778",
+          "longitude": "-12.70750000"
+        },
+        {
+          "id": 150081,
+          "name": "Zouérat",
+          "latitude": "22.73444444",
+          "longitude": "-12.47250000"
+        },
+        {
+          "id": 67756,
+          "name": "Zouerate",
+          "latitude": "22.73542000",
+          "longitude": "-12.47134000"
+        }
+      ]
+    },
+    {
+      "id": 3348,
+      "name": "Trarza",
+      "state_code": "06",
+      "latitude": "17.86649640",
+      "longitude": "-14.65878210",
+      "type": "region",
+      "cities": [
+        {
+          "id": 150073,
+          "name": "Legat",
+          "latitude": "16.75000000",
+          "longitude": "-14.83333333"
+        },
+        {
+          "id": 67753,
+          "name": "Rosso",
+          "latitude": "16.51378000",
+          "longitude": "-15.80503000"
+        },
+        {
+          "id": 67755,
+          "name": "Tékane",
+          "latitude": "16.60175000",
+          "longitude": "-15.34866000"
+        }
+      ]
+    }
+  ]
+}

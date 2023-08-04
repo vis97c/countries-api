@@ -1,0 +1,804 @@
+{
+  "id": 2890,
+  "name": "Antioquia",
+  "state_code": "ANT",
+  "latitude": "7.19860640",
+  "longitude": "-75.34121790",
+  "type": null,
+  "cities": [
+    {
+      "id": 20485,
+      "name": "Abejorral",
+      "latitude": "5.78928000",
+      "longitude": "-75.42725000"
+    },
+    {
+      "id": 20487,
+      "name": "Abriaquí",
+      "latitude": "6.63148000",
+      "longitude": "-76.06444000"
+    },
+    {
+      "id": 20504,
+      "name": "Alejandría",
+      "latitude": "6.36667000",
+      "longitude": "-75.08333000"
+    },
+    {
+      "id": 20512,
+      "name": "Amagá",
+      "latitude": "6.04001000",
+      "longitude": "-75.70315000"
+    },
+    {
+      "id": 20513,
+      "name": "Amalfi",
+      "latitude": "6.91016000",
+      "longitude": "-75.07764000"
+    },
+    {
+      "id": 20520,
+      "name": "Andes",
+      "latitude": "5.66974000",
+      "longitude": "-75.89905000"
+    },
+    {
+      "id": 20521,
+      "name": "Angelópolis",
+      "latitude": "6.12228000",
+      "longitude": "-75.71432000"
+    },
+    {
+      "id": 20522,
+      "name": "Angostura",
+      "latitude": "6.87120000",
+      "longitude": "-75.35947000"
+    },
+    {
+      "id": 20747,
+      "name": "Anorí",
+      "latitude": "7.07361111",
+      "longitude": "-75.14694444"
+    },
+    {
+      "id": 20527,
+      "name": "Anza",
+      "latitude": "6.33333000",
+      "longitude": "-75.91667000"
+    },
+    {
+      "id": 20529,
+      "name": "Apartadó",
+      "latitude": "7.88299000",
+      "longitude": "-76.62587000"
+    },
+    {
+      "id": 20541,
+      "name": "Arboletes",
+      "latitude": "8.85051000",
+      "longitude": "-76.42694000"
+    },
+    {
+      "id": 20544,
+      "name": "Argelia",
+      "latitude": "5.73127000",
+      "longitude": "-75.14257000"
+    },
+    {
+      "id": 20551,
+      "name": "Armenia",
+      "latitude": "6.17554000",
+      "longitude": "-75.81230000"
+    },
+    {
+      "id": 20566,
+      "name": "Barbosa",
+      "latitude": "6.43809000",
+      "longitude": "-75.33136000"
+    },
+    {
+      "id": 20579,
+      "name": "Bello",
+      "latitude": "6.36160000",
+      "longitude": "-75.58728000"
+    },
+    {
+      "id": 20580,
+      "name": "Belmira",
+      "latitude": "6.60508000",
+      "longitude": "-75.66619000"
+    },
+    {
+      "id": 20588,
+      "name": "Betania",
+      "latitude": "5.73571000",
+      "longitude": "-75.98964000"
+    },
+    {
+      "id": 20589,
+      "name": "Betulia",
+      "latitude": "6.11284000",
+      "longitude": "-75.98378000"
+    },
+    {
+      "id": 20602,
+      "name": "Briceño",
+      "latitude": "7.05001000",
+      "longitude": "-75.50903000"
+    },
+    {
+      "id": 20613,
+      "name": "Buriticá",
+      "latitude": "6.80549000",
+      "longitude": "-75.92093000"
+    },
+    {
+      "id": 20763,
+      "name": "Cáceres",
+      "latitude": "7.68252000",
+      "longitude": "-75.22481000"
+    },
+    {
+      "id": 20621,
+      "name": "Caicedo",
+      "latitude": "6.42805000",
+      "longitude": "-75.99715000"
+    },
+    {
+      "id": 20631,
+      "name": "Caldas",
+      "latitude": "6.09106000",
+      "longitude": "-75.63569000"
+    },
+    {
+      "id": 20638,
+      "name": "Campamento",
+      "latitude": "7.03910000",
+      "longitude": "-75.28938000"
+    },
+    {
+      "id": 20667,
+      "name": "Cañasgordas",
+      "latitude": "6.80951000",
+      "longitude": "-76.03954000"
+    },
+    {
+      "id": 20649,
+      "name": "Caracolí",
+      "latitude": "6.40920000",
+      "longitude": "-74.75715000"
+    },
+    {
+      "id": 20650,
+      "name": "Caramanta",
+      "latitude": "5.54144000",
+      "longitude": "-75.66961000"
+    },
+    {
+      "id": 20652,
+      "name": "Carepa",
+      "latitude": "7.75849000",
+      "longitude": "-76.65255000"
+    },
+    {
+      "id": 20658,
+      "name": "Carolina",
+      "latitude": "6.74807000",
+      "longitude": "-75.32131000"
+    },
+    {
+      "id": 20666,
+      "name": "Caucasia",
+      "latitude": "7.98654000",
+      "longitude": "-75.19349000"
+    },
+    {
+      "id": 20683,
+      "name": "Chigorodó",
+      "latitude": "7.66638000",
+      "longitude": "-76.68106000"
+    },
+    {
+      "id": 20710,
+      "name": "Cisneros",
+      "latitude": "6.54507000",
+      "longitude": "-75.09415000"
+    },
+    {
+      "id": 20711,
+      "name": "Ciudad Bolívar",
+      "latitude": "5.85389000",
+      "longitude": "-76.02528000"
+    },
+    {
+      "id": 20716,
+      "name": "Cocorná",
+      "latitude": "6.00579000",
+      "longitude": "-75.16984000"
+    },
+    {
+      "id": 20724,
+      "name": "Concepción",
+      "latitude": "6.39408000",
+      "longitude": "-75.25830000"
+    },
+    {
+      "id": 20727,
+      "name": "Concordia",
+      "latitude": "6.04639000",
+      "longitude": "-75.90705000"
+    },
+    {
+      "id": 20735,
+      "name": "Copacabana",
+      "latitude": "6.36230000",
+      "longitude": "-75.49922000"
+    },
+    {
+      "id": 20773,
+      "name": "Dabeiba",
+      "latitude": "7.03367000",
+      "longitude": "-76.34161000"
+    },
+    {
+      "id": 20781,
+      "name": "Donmatías",
+      "latitude": "6.48569000",
+      "longitude": "-75.39496000"
+    },
+    {
+      "id": 20785,
+      "name": "Ebéjico",
+      "latitude": "6.32598000",
+      "longitude": "-75.76835000"
+    },
+    {
+      "id": 20786,
+      "name": "El Bagre",
+      "latitude": "7.60347000",
+      "longitude": "-74.80951000"
+    },
+    {
+      "id": 20656,
+      "name": "El Carmen de Viboral",
+      "latitude": "6.08236000",
+      "longitude": "-75.33509000"
+    },
+    {
+      "id": 21441,
+      "name": "El Santuario",
+      "latitude": "6.13833000",
+      "longitude": "-75.26417000"
+    },
+    {
+      "id": 20838,
+      "name": "Entrerrios",
+      "latitude": "6.58333000",
+      "longitude": "-75.58333000"
+    },
+    {
+      "id": 20840,
+      "name": "Envigado",
+      "latitude": "6.17591000",
+      "longitude": "-75.59174000"
+    },
+    {
+      "id": 20859,
+      "name": "Fredonia",
+      "latitude": "5.89239000",
+      "longitude": "-75.68546000"
+    },
+    {
+      "id": 20861,
+      "name": "Frontino",
+      "latitude": "6.77133000",
+      "longitude": "-76.13324000"
+    },
+    {
+      "id": 20885,
+      "name": "Giraldo",
+      "latitude": "6.66667000",
+      "longitude": "-75.95346000"
+    },
+    {
+      "id": 20888,
+      "name": "Girardota",
+      "latitude": "6.36789000",
+      "longitude": "-75.46231000"
+    },
+    {
+      "id": 20931,
+      "name": "Gómez Plata",
+      "latitude": "6.68178000",
+      "longitude": "-75.21907000"
+    },
+    {
+      "id": 20893,
+      "name": "Granada",
+      "latitude": "6.14353000",
+      "longitude": "-75.18532000"
+    },
+    {
+      "id": 20901,
+      "name": "Guadalupe",
+      "latitude": "6.81449000",
+      "longitude": "-75.24063000"
+    },
+    {
+      "id": 20913,
+      "name": "Guarne",
+      "latitude": "6.28345000",
+      "longitude": "-75.44363000"
+    },
+    {
+      "id": 20915,
+      "name": "Guatapé",
+      "latitude": "6.25548000",
+      "longitude": "-75.16432000"
+    },
+    {
+      "id": 20939,
+      "name": "Heliconia",
+      "latitude": "6.20831000",
+      "longitude": "-75.73565000"
+    },
+    {
+      "id": 20942,
+      "name": "Hispania",
+      "latitude": "5.79925000",
+      "longitude": "-75.90718000"
+    },
+    {
+      "id": 20953,
+      "name": "Itagui",
+      "latitude": "6.17874000",
+      "longitude": "-75.63117000"
+    },
+    {
+      "id": 20955,
+      "name": "Ituango",
+      "latitude": "7.17117000",
+      "longitude": "-75.76404000"
+    },
+    {
+      "id": 20959,
+      "name": "Jardín",
+      "latitude": "5.59038000",
+      "longitude": "-75.81846000"
+    },
+    {
+      "id": 20961,
+      "name": "Jericó",
+      "latitude": "5.79211000",
+      "longitude": "-75.78601000"
+    },
+    {
+      "id": 20974,
+      "name": "La Ceja",
+      "latitude": "6.00000000",
+      "longitude": "-75.43311000"
+    },
+    {
+      "id": 20983,
+      "name": "La Estrella",
+      "latitude": "6.14239000",
+      "longitude": "-75.65257000"
+    },
+    {
+      "id": 21000,
+      "name": "La Pintada",
+      "latitude": "5.74867000",
+      "longitude": "-75.60626000"
+    },
+    {
+      "id": 21009,
+      "name": "La Unión",
+      "latitude": "5.94642000",
+      "longitude": "-75.35917000"
+    },
+    {
+      "id": 21028,
+      "name": "Liborina",
+      "latitude": "6.67790000",
+      "longitude": "-75.81218000"
+    },
+    {
+      "id": 21044,
+      "name": "Maceo",
+      "latitude": "6.55196000",
+      "longitude": "-74.78741000"
+    },
+    {
+      "id": 21066,
+      "name": "Marinilla",
+      "latitude": "6.19609000",
+      "longitude": "-75.30313000"
+    },
+    {
+      "id": 21074,
+      "name": "Medellín",
+      "latitude": "6.25184000",
+      "longitude": "-75.56359000"
+    },
+    {
+      "id": 21097,
+      "name": "Montebello",
+      "latitude": "5.93703000",
+      "longitude": "-75.52741000"
+    },
+    {
+      "id": 21120,
+      "name": "Murindó",
+      "latitude": "6.84698000",
+      "longitude": "-76.71544000"
+    },
+    {
+      "id": 21121,
+      "name": "Mutatá",
+      "latitude": "7.24407000",
+      "longitude": "-76.43564000"
+    },
+    {
+      "id": 21126,
+      "name": "Nariño",
+      "latitude": "5.60893000",
+      "longitude": "-75.17656000"
+    },
+    {
+      "id": 21129,
+      "name": "Nechí",
+      "latitude": "8.09419000",
+      "longitude": "-74.77573000"
+    },
+    {
+      "id": 21130,
+      "name": "Necoclí",
+      "latitude": "8.42627000",
+      "longitude": "-76.78926000"
+    },
+    {
+      "id": 21149,
+      "name": "Olaya",
+      "latitude": "6.62773000",
+      "longitude": "-75.81270000"
+    },
+    {
+      "id": 21197,
+      "name": "Peñol",
+      "latitude": "6.23434000",
+      "longitude": "-75.22573000"
+    },
+    {
+      "id": 21194,
+      "name": "Peque",
+      "latitude": "7.02123000",
+      "longitude": "-75.90926000"
+    },
+    {
+      "id": 21227,
+      "name": "Pueblorrico",
+      "latitude": "5.80000000",
+      "longitude": "-75.85000000"
+    },
+    {
+      "id": 21234,
+      "name": "Puerto Berrío",
+      "latitude": "6.50749000",
+      "longitude": "-74.52271000"
+    },
+    {
+      "id": 21248,
+      "name": "Puerto Nare",
+      "latitude": "6.19167000",
+      "longitude": "-74.58670000"
+    },
+    {
+      "id": 21258,
+      "name": "Puerto Triunfo",
+      "latitude": "5.87259000",
+      "longitude": "-74.64050000"
+    },
+    {
+      "id": 21281,
+      "name": "Remedios",
+      "latitude": "7.02835000",
+      "longitude": "-74.69379000"
+    },
+    {
+      "id": 21286,
+      "name": "Retiro",
+      "latitude": "6.05906000",
+      "longitude": "-75.51488000"
+    },
+    {
+      "id": 21293,
+      "name": "Rionegro",
+      "latitude": "6.16667000",
+      "longitude": "-75.41667000"
+    },
+    {
+      "id": 21311,
+      "name": "Sabanalarga",
+      "latitude": "6.84893000",
+      "longitude": "-75.81711000"
+    },
+    {
+      "id": 21314,
+      "name": "Sabaneta",
+      "latitude": "6.15153000",
+      "longitude": "-75.61657000"
+    },
+    {
+      "id": 21323,
+      "name": "Salgar",
+      "latitude": "5.96711000",
+      "longitude": "-75.98747000"
+    },
+    {
+      "id": 21330,
+      "name": "San Andrés de Cuerquía",
+      "latitude": "6.90333000",
+      "longitude": "-75.68250000"
+    },
+    {
+      "id": 21345,
+      "name": "San Carlos",
+      "latitude": "7.79177000",
+      "longitude": "-74.77316000"
+    },
+    {
+      "id": 21357,
+      "name": "San Francisco",
+      "latitude": "6.11667000",
+      "longitude": "-75.98333000"
+    },
+    {
+      "id": 21362,
+      "name": "San Jerónimo",
+      "latitude": "6.44139000",
+      "longitude": "-75.70783000"
+    },
+    {
+      "id": 21366,
+      "name": "San José de la Montaña",
+      "latitude": "6.82205000",
+      "longitude": "-75.69757000"
+    },
+    {
+      "id": 21376,
+      "name": "San Juan de Urabá",
+      "latitude": "8.75924000",
+      "longitude": "-76.52969000"
+    },
+    {
+      "id": 149253,
+      "name": "San Luis",
+      "latitude": "6.04222222",
+      "longitude": "-74.99333333"
+    },
+    {
+      "id": 21117,
+      "name": "San Pedro de los Milagros",
+      "latitude": "6.45944444",
+      "longitude": "-75.55777888"
+    },
+    {
+      "id": 21399,
+      "name": "San Pedro de Uraba",
+      "latitude": "8.42291000",
+      "longitude": "-76.31747000"
+    },
+    {
+      "id": 21402,
+      "name": "San Rafael",
+      "latitude": "6.31234000",
+      "longitude": "-75.02426000"
+    },
+    {
+      "id": 21403,
+      "name": "San Roque",
+      "latitude": "6.48511000",
+      "longitude": "-75.01960000"
+    },
+    {
+      "id": 21407,
+      "name": "San Vicente Ferrer",
+      "latitude": "6.32237000",
+      "longitude": "-75.33020000"
+    },
+    {
+      "id": 21414,
+      "name": "Santa Bárbara",
+      "latitude": "5.88937000",
+      "longitude": "-75.58255000"
+    },
+    {
+      "id": 21417,
+      "name": "Santa Fe de Antioquia",
+      "latitude": "6.55687000",
+      "longitude": "-75.82806000"
+    },
+    {
+      "id": 21425,
+      "name": "Santa Rosa de Osos",
+      "latitude": "6.64738000",
+      "longitude": "-75.46031000"
+    },
+    {
+      "id": 21439,
+      "name": "Santo Domingo",
+      "latitude": "6.47282000",
+      "longitude": "-75.16547000"
+    },
+    {
+      "id": 21449,
+      "name": "Segovia",
+      "latitude": "7.28132000",
+      "longitude": "-74.64273000"
+    },
+    {
+      "id": 21474,
+      "name": "Sonson",
+      "latitude": "5.75000000",
+      "longitude": "-75.00000000"
+    },
+    {
+      "id": 21476,
+      "name": "Sopetrán",
+      "latitude": "6.52271000",
+      "longitude": "-75.74608000"
+    },
+    {
+      "id": 21562,
+      "name": "Támesis",
+      "latitude": "5.66462000",
+      "longitude": "-75.71339000"
+    },
+    {
+      "id": 21513,
+      "name": "Tarazá",
+      "latitude": "7.58358000",
+      "longitude": "-75.40068000"
+    },
+    {
+      "id": 21514,
+      "name": "Tarso",
+      "latitude": "5.86467000",
+      "longitude": "-75.82192000"
+    },
+    {
+      "id": 21532,
+      "name": "Titiribí",
+      "latitude": "6.06276000",
+      "longitude": "-75.79370000"
+    },
+    {
+      "id": 21537,
+      "name": "Toledo",
+      "latitude": "7.01306000",
+      "longitude": "-75.69528000"
+    },
+    {
+      "id": 21557,
+      "name": "Turbo",
+      "latitude": "8.09263000",
+      "longitude": "-76.72822000"
+    },
+    {
+      "id": 21572,
+      "name": "Uramita",
+      "latitude": "6.89944000",
+      "longitude": "-76.17417000"
+    },
+    {
+      "id": 21574,
+      "name": "Urrao",
+      "latitude": "6.31696000",
+      "longitude": "-76.13420000"
+    },
+    {
+      "id": 21577,
+      "name": "Valdivia",
+      "latitude": "7.29382000",
+      "longitude": "-75.39190000"
+    },
+    {
+      "id": 21584,
+      "name": "Valparaíso",
+      "latitude": "5.61500000",
+      "longitude": "-75.62422000"
+    },
+    {
+      "id": 21585,
+      "name": "Vegachí",
+      "latitude": "6.76141000",
+      "longitude": "-74.79473000"
+    },
+    {
+      "id": 21588,
+      "name": "Venecia",
+      "latitude": "5.95417000",
+      "longitude": "-75.79904000"
+    },
+    {
+      "id": 21595,
+      "name": "Vigía del Fuerte",
+      "latitude": "6.58933000",
+      "longitude": "-76.89599000"
+    },
+    {
+      "id": 21621,
+      "name": "Yalí",
+      "latitude": "6.70257000",
+      "longitude": "-74.79018000"
+    },
+    {
+      "id": 21622,
+      "name": "Yarumal",
+      "latitude": "6.98532000",
+      "longitude": "-75.45402000"
+    },
+    {
+      "id": 21624,
+      "name": "Yolombó",
+      "latitude": "6.66569000",
+      "longitude": "-74.99120000"
+    },
+    {
+      "id": 21625,
+      "name": "Yondó",
+      "latitude": "6.90738000",
+      "longitude": "-74.17686000"
+    },
+    {
+      "id": 21632,
+      "name": "Zaragoza",
+      "latitude": "7.48971000",
+      "longitude": "-74.86919000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

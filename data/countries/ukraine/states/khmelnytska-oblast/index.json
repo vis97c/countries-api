@@ -1,0 +1,249 @@
+{
+  "id": 4681,
+  "name": "Khmelnytska oblast",
+  "state_code": "68",
+  "latitude": "49.42298300",
+  "longitude": "26.98713310",
+  "type": "region",
+  "cities": [
+    {
+      "id": 109322,
+      "name": "Antoniny",
+      "latitude": "49.80974000",
+      "longitude": "26.87714000"
+    },
+    {
+      "id": 109360,
+      "name": "Bazaliya",
+      "latitude": "49.71267000",
+      "longitude": "26.47331000"
+    },
+    {
+      "id": 109537,
+      "name": "Derazhnya",
+      "latitude": "49.26920000",
+      "longitude": "27.43382000"
+    },
+    {
+      "id": 109538,
+      "name": "Derazhnyans’kyy Rayon",
+      "latitude": "49.22676000",
+      "longitude": "27.46603000"
+    },
+    {
+      "id": 109589,
+      "name": "Dunaivtsi",
+      "latitude": "48.88909000",
+      "longitude": "26.85636000"
+    },
+    {
+      "id": 109650,
+      "name": "Horodok",
+      "latitude": "49.16374000",
+      "longitude": "26.58394000"
+    },
+    {
+      "id": 109690,
+      "name": "Izyaslav",
+      "latitude": "50.11947000",
+      "longitude": "26.82125000"
+    },
+    {
+      "id": 109708,
+      "name": "Kamianets-Podilskyi",
+      "latitude": "48.68450000",
+      "longitude": "26.58559000"
+    },
+    {
+      "id": 109731,
+      "name": "Khmel’nyts’kyy Rayon",
+      "latitude": "49.44511000",
+      "longitude": "26.93268000"
+    },
+    {
+      "id": 109730,
+      "name": "Khmelnytskyi",
+      "latitude": "49.42161000",
+      "longitude": "26.99653000"
+    },
+    {
+      "id": 109856,
+      "name": "Krasyliv",
+      "latitude": "49.65186000",
+      "longitude": "26.97253000"
+    },
+    {
+      "id": 109916,
+      "name": "Letychiv",
+      "latitude": "49.38263000",
+      "longitude": "27.63051000"
+    },
+    {
+      "id": 109975,
+      "name": "Makiv",
+      "latitude": "48.79487000",
+      "longitude": "26.69188000"
+    },
+    {
+      "id": 110015,
+      "name": "Medzhybizh",
+      "latitude": "49.43748000",
+      "longitude": "27.40487000"
+    },
+    {
+      "id": 110080,
+      "name": "Narkevychi",
+      "latitude": "49.51717000",
+      "longitude": "26.64178000"
+    },
+    {
+      "id": 110093,
+      "name": "Netishyn",
+      "latitude": "50.34004000",
+      "longitude": "26.64171000"
+    },
+    {
+      "id": 110109,
+      "name": "Nova Ushytsya",
+      "latitude": "48.83716000",
+      "longitude": "27.27434000"
+    },
+    {
+      "id": 110146,
+      "name": "Novoselytsya",
+      "latitude": "50.07030000",
+      "longitude": "27.51955000"
+    },
+    {
+      "id": 110294,
+      "name": "Polonne",
+      "latitude": "50.12424000",
+      "longitude": "27.51087000"
+    },
+    {
+      "id": 110299,
+      "name": "Poninka",
+      "latitude": "50.18492000",
+      "longitude": "27.53629000"
+    },
+    {
+      "id": 110440,
+      "name": "Shepetivka",
+      "latitude": "50.18545000",
+      "longitude": "27.06365000"
+    },
+    {
+      "id": 110479,
+      "name": "Slavuta",
+      "latitude": "50.30155000",
+      "longitude": "26.86506000"
+    },
+    {
+      "id": 110489,
+      "name": "Smotrych",
+      "latitude": "48.66149000",
+      "longitude": "26.56031000"
+    },
+    {
+      "id": 110490,
+      "name": "Smyga",
+      "latitude": "50.23910000",
+      "longitude": "25.76575000"
+    },
+    {
+      "id": 110527,
+      "name": "Stara Syniava",
+      "latitude": "49.60318000",
+      "longitude": "27.61909000"
+    },
+    {
+      "id": 110533,
+      "name": "Starokostiantyniv",
+      "latitude": "49.75764000",
+      "longitude": "27.20342000"
+    },
+    {
+      "id": 110787,
+      "name": "Yarmolyntsi",
+      "latitude": "49.19236000",
+      "longitude": "26.83725000"
+    },
+    {
+      "id": 110811,
+      "name": "Zakupne",
+      "latitude": "49.11944000",
+      "longitude": "26.33756000"
+    },
+    {
+      "id": 110851,
+      "name": "Zhvanets",
+      "latitude": "48.54968000",
+      "longitude": "26.48744000"
+    }
+  ],
+  "country": {
+    "id": 230,
+    "name": "Ukraine",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "numeric_code": "804",
+    "phone_code": "380",
+    "capital": "Kiev",
+    "currency": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "tld": ".ua",
+    "native": "Україна",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Kiev",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Simferopol",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Uzhgorod",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Zaporozhye",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "우크라이나",
+      "pt-BR": "Ucrânia",
+      "pt": "Ucrânia",
+      "nl": "Oekraïne",
+      "hr": "Ukrajina",
+      "fa": "وکراین",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ",
+      "it": "Ucraina",
+      "cn": "乌克兰",
+      "tr": "Ukrayna"
+    },
+    "latitude": "49.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇦",
+    "emojiU": "U+1F1FA U+1F1E6"
+  }
+}

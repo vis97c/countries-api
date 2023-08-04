@@ -1,0 +1,192 @@
+{
+  "id": 4598,
+  "name": "Praha, Hlavní město",
+  "state_code": "10",
+  "latitude": "50.07553810",
+  "longitude": "14.43780050",
+  "type": null,
+  "cities": [
+    {
+      "id": 22162,
+      "name": "Braník",
+      "latitude": "50.03498000",
+      "longitude": "14.41518000"
+    },
+    {
+      "id": 23376,
+      "name": "Černý Most",
+      "latitude": "50.10475000",
+      "longitude": "14.57974000"
+    },
+    {
+      "id": 22290,
+      "name": "Dolní Počernice",
+      "latitude": "50.08760000",
+      "longitude": "14.57199000"
+    },
+    {
+      "id": 22363,
+      "name": "Hodkovičky",
+      "latitude": "50.02346000",
+      "longitude": "14.41415000"
+    },
+    {
+      "id": 22387,
+      "name": "Horní Počernice",
+      "latitude": "50.11210000",
+      "longitude": "14.61036000"
+    },
+    {
+      "id": 22397,
+      "name": "Hostavice",
+      "latitude": "50.09283000",
+      "longitude": "14.55822000"
+    },
+    {
+      "id": 22499,
+      "name": "Karlín",
+      "latitude": "50.09272000",
+      "longitude": "14.44711000"
+    },
+    {
+      "id": 22507,
+      "name": "Kbely",
+      "latitude": "50.13333000",
+      "longitude": "14.55000000"
+    },
+    {
+      "id": 22600,
+      "name": "Letňany",
+      "latitude": "50.13333000",
+      "longitude": "14.51667000"
+    },
+    {
+      "id": 22605,
+      "name": "Libeň",
+      "latitude": "50.10819000",
+      "longitude": "14.47457000"
+    },
+    {
+      "id": 22672,
+      "name": "Malá Strana",
+      "latitude": "50.08774000",
+      "longitude": "14.40449000"
+    },
+    {
+      "id": 22708,
+      "name": "Modřany",
+      "latitude": "50.01116000",
+      "longitude": "14.40960000"
+    },
+    {
+      "id": 22970,
+      "name": "Prague",
+      "latitude": "50.08804000",
+      "longitude": "14.42076000"
+    },
+    {
+      "id": 22971,
+      "name": "Praha 1",
+      "latitude": "50.08802000",
+      "longitude": "14.42166000"
+    },
+    {
+      "id": 22972,
+      "name": "Praha 16",
+      "latitude": "49.98357000",
+      "longitude": "14.36110000"
+    },
+    {
+      "id": 22973,
+      "name": "Praha 20",
+      "latitude": "50.11568000",
+      "longitude": "14.61122000"
+    },
+    {
+      "id": 22974,
+      "name": "Praha 21",
+      "latitude": "50.07521000",
+      "longitude": "14.66898000"
+    },
+    {
+      "id": 22977,
+      "name": "Prosek",
+      "latitude": "50.11525000",
+      "longitude": "14.50685000"
+    },
+    {
+      "id": 23061,
+      "name": "Satalice",
+      "latitude": "50.12484000",
+      "longitude": "14.57191000"
+    },
+    {
+      "id": 23106,
+      "name": "Staré Město",
+      "latitude": "50.08700000",
+      "longitude": "14.42024000"
+    },
+    {
+      "id": 23139,
+      "name": "Střížkov",
+      "latitude": "50.12674000",
+      "longitude": "14.49363000"
+    },
+    {
+      "id": 23304,
+      "name": "Vysehrad",
+      "latitude": "50.06509000",
+      "longitude": "14.41711000"
+    },
+    {
+      "id": 23307,
+      "name": "Vysočany",
+      "latitude": "50.10938000",
+      "longitude": "14.51667000"
+    }
+  ],
+  "country": {
+    "id": 58,
+    "name": "Czech Republic",
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "numeric_code": "203",
+    "phone_code": "420",
+    "capital": "Prague",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "native": "Česká republika",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "체코",
+      "pt-BR": "República Tcheca",
+      "pt": "República Checa",
+      "nl": "Tsjechië",
+      "hr": "Češka",
+      "fa": "جمهوری چک",
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "fr": "République tchèque",
+      "ja": "チェコ",
+      "it": "Repubblica Ceca",
+      "cn": "捷克",
+      "tr": "Çekya"
+    },
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  }
+}

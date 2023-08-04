@@ -1,0 +1,4077 @@
+{
+  "id": 2021,
+  "name": "São Paulo",
+  "state_code": "SP",
+  "latitude": "-23.55051990",
+  "longitude": "-46.63330940",
+  "type": null,
+  "cities": [
+    {
+      "id": 10080,
+      "name": "Adamantina",
+      "latitude": "-21.59136000",
+      "longitude": "-51.06669000"
+    },
+    {
+      "id": 10082,
+      "name": "Adolfo",
+      "latitude": "-21.28535000",
+      "longitude": "-49.65497000"
+    },
+    {
+      "id": 10096,
+      "name": "Aguaí",
+      "latitude": "-22.02590000",
+      "longitude": "-47.06702000"
+    },
+    {
+      "id": 15671,
+      "name": "Águas da Prata",
+      "latitude": "-21.91623000",
+      "longitude": "-46.68666000"
+    },
+    {
+      "id": 15673,
+      "name": "Águas de Lindóia",
+      "latitude": "-22.47639000",
+      "longitude": "-46.63278000"
+    },
+    {
+      "id": 15674,
+      "name": "Águas de Santa Bárbara",
+      "latitude": "-22.85764000",
+      "longitude": "-49.25362000"
+    },
+    {
+      "id": 15675,
+      "name": "Águas de São Pedro",
+      "latitude": "-22.60238000",
+      "longitude": "-47.87481000"
+    },
+    {
+      "id": 10098,
+      "name": "Agudos",
+      "latitude": "-22.58942000",
+      "longitude": "-49.16164000"
+    },
+    {
+      "id": 10114,
+      "name": "Alambari",
+      "latitude": "-23.53745000",
+      "longitude": "-47.86273000"
+    },
+    {
+      "id": 10132,
+      "name": "Alfredo Marcondes",
+      "latitude": "-21.92954000",
+      "longitude": "-51.39519000"
+    },
+    {
+      "id": 10152,
+      "name": "Altair",
+      "latitude": "-20.53889000",
+      "longitude": "-49.10219000"
+    },
+    {
+      "id": 10159,
+      "name": "Altinópolis",
+      "latitude": "-21.00412000",
+      "longitude": "-47.39795000"
+    },
+    {
+      "id": 10160,
+      "name": "Alto Alegre",
+      "latitude": "-21.63149000",
+      "longitude": "-50.19601000"
+    },
+    {
+      "id": 10189,
+      "name": "Alumínio",
+      "latitude": "-23.52259000",
+      "longitude": "-47.28373000"
+    },
+    {
+      "id": 15677,
+      "name": "Álvares Florence",
+      "latitude": "-20.27757000",
+      "longitude": "-49.91405000"
+    },
+    {
+      "id": 15678,
+      "name": "Álvares Machado",
+      "latitude": "-22.07944000",
+      "longitude": "-51.47194000"
+    },
+    {
+      "id": 15679,
+      "name": "Álvaro de Carvalho",
+      "latitude": "-22.08676000",
+      "longitude": "-49.73512000"
+    },
+    {
+      "id": 10192,
+      "name": "Alvinlândia",
+      "latitude": "-22.45669000",
+      "longitude": "-49.76243000"
+    },
+    {
+      "id": 10213,
+      "name": "Americana",
+      "latitude": "-22.71408000",
+      "longitude": "-47.29009000"
+    },
+    {
+      "id": 10225,
+      "name": "Américo Brasiliense",
+      "latitude": "-21.71797000",
+      "longitude": "-48.01568000"
+    },
+    {
+      "id": 10226,
+      "name": "Américo de Campos",
+      "latitude": "-20.27453000",
+      "longitude": "-49.75539000"
+    },
+    {
+      "id": 10218,
+      "name": "Amparo",
+      "latitude": "-22.70111000",
+      "longitude": "-46.76444000"
+    },
+    {
+      "id": 10232,
+      "name": "Analândia",
+      "latitude": "-22.12002000",
+      "longitude": "-47.68938000"
+    },
+    {
+      "id": 10246,
+      "name": "Andradina",
+      "latitude": "-20.86545000",
+      "longitude": "-51.31567000"
+    },
+    {
+      "id": 10249,
+      "name": "Angatuba",
+      "latitude": "-23.47450000",
+      "longitude": "-48.42565000"
+    },
+    {
+      "id": 10261,
+      "name": "Anhembi",
+      "latitude": "-22.83293000",
+      "longitude": "-48.16384000"
+    },
+    {
+      "id": 10262,
+      "name": "Anhumas",
+      "latitude": "-22.34571000",
+      "longitude": "-51.42761000"
+    },
+    {
+      "id": 10285,
+      "name": "Aparecida",
+      "latitude": "-22.90434000",
+      "longitude": "-45.23562000"
+    },
+    {
+      "id": 10286,
+      "name": "Aparecida d'Oeste",
+      "latitude": "-20.48414000",
+      "longitude": "-50.91883000"
+    },
+    {
+      "id": 10294,
+      "name": "Apiaí",
+      "latitude": "-24.39767000",
+      "longitude": "-48.82237000"
+    },
+    {
+      "id": 10367,
+      "name": "Araçariguama",
+      "latitude": "-23.42294000",
+      "longitude": "-47.07816000"
+    },
+    {
+      "id": 10368,
+      "name": "Araçatuba",
+      "latitude": "-21.14986000",
+      "longitude": "-50.57470000"
+    },
+    {
+      "id": 10371,
+      "name": "Araçoiaba da Serra",
+      "latitude": "-23.56602000",
+      "longitude": "-47.66733000"
+    },
+    {
+      "id": 10333,
+      "name": "Aramina",
+      "latitude": "-20.16724000",
+      "longitude": "-47.82645000"
+    },
+    {
+      "id": 10334,
+      "name": "Arandu",
+      "latitude": "-23.17065000",
+      "longitude": "-49.05861000"
+    },
+    {
+      "id": 10336,
+      "name": "Arapeí",
+      "latitude": "-22.66504000",
+      "longitude": "-44.43858000"
+    },
+    {
+      "id": 10349,
+      "name": "Araraquara",
+      "latitude": "-21.79444000",
+      "longitude": "-48.17556000"
+    },
+    {
+      "id": 10350,
+      "name": "Araras",
+      "latitude": "-22.35694000",
+      "longitude": "-47.38417000"
+    },
+    {
+      "id": 10377,
+      "name": "Arco-Íris",
+      "latitude": "-21.74342000",
+      "longitude": "-50.42979000"
+    },
+    {
+      "id": 10382,
+      "name": "Arealva",
+      "latitude": "-22.06881000",
+      "longitude": "-48.99294000"
+    },
+    {
+      "id": 10388,
+      "name": "Areias",
+      "latitude": "-22.66811000",
+      "longitude": "-44.71651000"
+    },
+    {
+      "id": 10389,
+      "name": "Areiópolis",
+      "latitude": "-22.60627000",
+      "longitude": "-48.65273000"
+    },
+    {
+      "id": 10397,
+      "name": "Ariranha",
+      "latitude": "-21.17685000",
+      "longitude": "-48.77771000"
+    },
+    {
+      "id": 10417,
+      "name": "Artur Nogueira",
+      "latitude": "-22.57306000",
+      "longitude": "-47.17250000"
+    },
+    {
+      "id": 10419,
+      "name": "Arujá",
+      "latitude": "-23.39611000",
+      "longitude": "-46.32083000"
+    },
+    {
+      "id": 10424,
+      "name": "Aspásia",
+      "latitude": "-20.18385000",
+      "longitude": "-50.73117000"
+    },
+    {
+      "id": 10427,
+      "name": "Assis",
+      "latitude": "-22.66167000",
+      "longitude": "-50.41222000"
+    },
+    {
+      "id": 10439,
+      "name": "Atibaia",
+      "latitude": "-23.13099000",
+      "longitude": "-46.58896000"
+    },
+    {
+      "id": 10448,
+      "name": "Auriflama",
+      "latitude": "-20.68556000",
+      "longitude": "-50.55472000"
+    },
+    {
+      "id": 10457,
+      "name": "Avaí",
+      "latitude": "-22.17789000",
+      "longitude": "-49.30511000"
+    },
+    {
+      "id": 10455,
+      "name": "Avanhandava",
+      "latitude": "-21.46596000",
+      "longitude": "-49.94791000"
+    },
+    {
+      "id": 10456,
+      "name": "Avaré",
+      "latitude": "-23.03402000",
+      "longitude": "-48.88802000"
+    },
+    {
+      "id": 10471,
+      "name": "Bady Bassitt",
+      "latitude": "-20.91806000",
+      "longitude": "-49.44528000"
+    },
+    {
+      "id": 10481,
+      "name": "Balbinos",
+      "latitude": "-21.90089000",
+      "longitude": "-49.33509000"
+    },
+    {
+      "id": 10840,
+      "name": "Bálsamo",
+      "latitude": "-20.70239000",
+      "longitude": "-49.55045000"
+    },
+    {
+      "id": 10495,
+      "name": "Bananal",
+      "latitude": "-22.73751000",
+      "longitude": "-44.33413000"
+    },
+    {
+      "id": 10571,
+      "name": "Barão de Antonina",
+      "latitude": "-23.57097000",
+      "longitude": "-49.56660000"
+    },
+    {
+      "id": 10509,
+      "name": "Barbosa",
+      "latitude": "-21.29619000",
+      "longitude": "-49.92293000"
+    },
+    {
+      "id": 10514,
+      "name": "Bariri",
+      "latitude": "-22.07444000",
+      "longitude": "-48.74028000"
+    },
+    {
+      "id": 10516,
+      "name": "Barra Bonita",
+      "latitude": "-22.49472000",
+      "longitude": "-48.55806000"
+    },
+    {
+      "id": 10532,
+      "name": "Barra do Chapéu",
+      "latitude": "-24.44047000",
+      "longitude": "-49.08615000"
+    },
+    {
+      "id": 10545,
+      "name": "Barra do Turvo",
+      "latitude": "-24.89045000",
+      "longitude": "-48.40790000"
+    },
+    {
+      "id": 10557,
+      "name": "Barretos",
+      "latitude": "-20.55722000",
+      "longitude": "-48.56778000"
+    },
+    {
+      "id": 10558,
+      "name": "Barrinha",
+      "latitude": "-21.19361000",
+      "longitude": "-48.16389000"
+    },
+    {
+      "id": 10569,
+      "name": "Barueri",
+      "latitude": "-23.51056000",
+      "longitude": "-46.87611000"
+    },
+    {
+      "id": 10578,
+      "name": "Bastos",
+      "latitude": "-21.92194000",
+      "longitude": "-50.73389000"
+    },
+    {
+      "id": 10583,
+      "name": "Batatais",
+      "latitude": "-20.83515000",
+      "longitude": "-47.56742000"
+    },
+    {
+      "id": 10586,
+      "name": "Bauru",
+      "latitude": "-22.31472000",
+      "longitude": "-49.06056000"
+    },
+    {
+      "id": 10590,
+      "name": "Bebedouro",
+      "latitude": "-20.94944000",
+      "longitude": "-48.47917000"
+    },
+    {
+      "id": 10630,
+      "name": "Bento de Abreu",
+      "latitude": "-21.34057000",
+      "longitude": "-50.86542000"
+    },
+    {
+      "id": 10635,
+      "name": "Bernardino de Campos",
+      "latitude": "-23.02698000",
+      "longitude": "-49.49277000"
+    },
+    {
+      "id": 10638,
+      "name": "Bertioga",
+      "latitude": "-23.85444000",
+      "longitude": "-46.13861000"
+    },
+    {
+      "id": 10649,
+      "name": "Bilac",
+      "latitude": "-21.42076000",
+      "longitude": "-50.47862000"
+    },
+    {
+      "id": 10651,
+      "name": "Birigui",
+      "latitude": "-21.28861000",
+      "longitude": "-50.34000000"
+    },
+    {
+      "id": 10652,
+      "name": "Biritiba Mirim",
+      "latitude": "-23.57250000",
+      "longitude": "-46.03861000"
+    },
+    {
+      "id": 10653,
+      "name": "Biritiba-Mirim",
+      "latitude": "-23.62009000",
+      "longitude": "-46.01938000"
+    },
+    {
+      "id": 10661,
+      "name": "Boa Esperança do Sul",
+      "latitude": "-21.99250000",
+      "longitude": "-48.39083000"
+    },
+    {
+      "id": 10680,
+      "name": "Bocaina",
+      "latitude": "-22.09830000",
+      "longitude": "-48.51952000"
+    },
+    {
+      "id": 10688,
+      "name": "Bofete",
+      "latitude": "-23.12244000",
+      "longitude": "-48.28058000"
+    },
+    {
+      "id": 10689,
+      "name": "Boituva",
+      "latitude": "-23.28333000",
+      "longitude": "-47.67222000"
+    },
+    {
+      "id": 10717,
+      "name": "Bom Jesus dos Perdões",
+      "latitude": "-23.13500000",
+      "longitude": "-46.46528000"
+    },
+    {
+      "id": 10728,
+      "name": "Bom Sucesso de Itararé",
+      "latitude": "-24.31225000",
+      "longitude": "-49.16700000"
+    },
+    {
+      "id": 10755,
+      "name": "Borá",
+      "latitude": "-22.23881000",
+      "longitude": "-50.49252000"
+    },
+    {
+      "id": 10748,
+      "name": "Boracéia",
+      "latitude": "-22.19306000",
+      "longitude": "-48.77889000"
+    },
+    {
+      "id": 10750,
+      "name": "Borborema",
+      "latitude": "-21.61972000",
+      "longitude": "-49.07361000"
+    },
+    {
+      "id": 10753,
+      "name": "Borebi",
+      "latitude": "-22.67635000",
+      "longitude": "-48.98476000"
+    },
+    {
+      "id": 10758,
+      "name": "Botucatu",
+      "latitude": "-22.88583000",
+      "longitude": "-48.44500000"
+    },
+    {
+      "id": 10766,
+      "name": "Bragança Paulista",
+      "latitude": "-22.95270000",
+      "longitude": "-46.54418000"
+    },
+    {
+      "id": 10782,
+      "name": "Braúna",
+      "latitude": "-21.56582000",
+      "longitude": "-50.35227000"
+    },
+    {
+      "id": 10789,
+      "name": "Brejo Alegre",
+      "latitude": "-21.17757000",
+      "longitude": "-50.21805000"
+    },
+    {
+      "id": 10806,
+      "name": "Brodósqui",
+      "latitude": "-20.99139000",
+      "longitude": "-47.65861000"
+    },
+    {
+      "id": 10805,
+      "name": "Brodowski",
+      "latitude": "-21.05060000",
+      "longitude": "-47.61728000"
+    },
+    {
+      "id": 10807,
+      "name": "Brotas",
+      "latitude": "-22.27942000",
+      "longitude": "-48.08744000"
+    },
+    {
+      "id": 10821,
+      "name": "Buri",
+      "latitude": "-23.79750000",
+      "longitude": "-48.59278000"
+    },
+    {
+      "id": 10822,
+      "name": "Buritama",
+      "latitude": "-21.06611000",
+      "longitude": "-50.14722000"
+    },
+    {
+      "id": 10836,
+      "name": "Buritizal",
+      "latitude": "-20.21345000",
+      "longitude": "-47.70776000"
+    },
+    {
+      "id": 10858,
+      "name": "Cabrália Paulista",
+      "latitude": "-22.49155000",
+      "longitude": "-49.38637000"
+    },
+    {
+      "id": 10856,
+      "name": "Cabreúva",
+      "latitude": "-23.30750000",
+      "longitude": "-47.13278000"
+    },
+    {
+      "id": 11222,
+      "name": "Caçapava",
+      "latitude": "-23.10083000",
+      "longitude": "-45.70694000"
+    },
+    {
+      "id": 10866,
+      "name": "Cachoeira Paulista",
+      "latitude": "-22.70115000",
+      "longitude": "-44.99229000"
+    },
+    {
+      "id": 10886,
+      "name": "Caconde",
+      "latitude": "-21.52944000",
+      "longitude": "-46.64389000"
+    },
+    {
+      "id": 10895,
+      "name": "Cafelândia",
+      "latitude": "-21.74295000",
+      "longitude": "-49.57061000"
+    },
+    {
+      "id": 10898,
+      "name": "Caiabu",
+      "latitude": "-21.93822000",
+      "longitude": "-51.23232000"
+    },
+    {
+      "id": 10904,
+      "name": "Caieiras",
+      "latitude": "-23.36417000",
+      "longitude": "-46.74056000"
+    },
+    {
+      "id": 10906,
+      "name": "Caiuá",
+      "latitude": "-21.76518000",
+      "longitude": "-51.95903000"
+    },
+    {
+      "id": 10911,
+      "name": "Cajamar",
+      "latitude": "-23.35193000",
+      "longitude": "-46.88129000"
+    },
+    {
+      "id": 10914,
+      "name": "Cajati",
+      "latitude": "-24.73611000",
+      "longitude": "-48.12278000"
+    },
+    {
+      "id": 10918,
+      "name": "Cajobi",
+      "latitude": "-20.88622000",
+      "longitude": "-48.85175000"
+    },
+    {
+      "id": 10922,
+      "name": "Cajuru",
+      "latitude": "-21.27528000",
+      "longitude": "-47.30417000"
+    },
+    {
+      "id": 10967,
+      "name": "Campina do Monte Alegre",
+      "latitude": "-23.61364000",
+      "longitude": "-48.45388000"
+    },
+    {
+      "id": 10970,
+      "name": "Campinas",
+      "latitude": "-22.90556000",
+      "longitude": "-47.06083000"
+    },
+    {
+      "id": 10994,
+      "name": "Campo Limpo Paulista",
+      "latitude": "-23.21599000",
+      "longitude": "-46.75842000"
+    },
+    {
+      "id": 11018,
+      "name": "Campos do Jordão",
+      "latitude": "-22.73944000",
+      "longitude": "-45.59139000"
+    },
+    {
+      "id": 11014,
+      "name": "Campos Novos Paulista",
+      "latitude": "-22.62889000",
+      "longitude": "-50.01282000"
+    },
+    {
+      "id": 11023,
+      "name": "Cananéia",
+      "latitude": "-25.01472000",
+      "longitude": "-47.92667000"
+    },
+    {
+      "id": 11027,
+      "name": "Canas",
+      "latitude": "-22.73999000",
+      "longitude": "-45.03208000"
+    },
+    {
+      "id": 11547,
+      "name": "Cândido Mota",
+      "latitude": "-22.74639000",
+      "longitude": "-50.38694000"
+    },
+    {
+      "id": 11548,
+      "name": "Cândido Rodrigues",
+      "latitude": "-21.34194000",
+      "longitude": "-48.63294000"
+    },
+    {
+      "id": 11048,
+      "name": "Canitar",
+      "latitude": "-23.01421000",
+      "longitude": "-49.78705000"
+    },
+    {
+      "id": 11094,
+      "name": "Capâo Bonito",
+      "latitude": "-24.00583000",
+      "longitude": "-48.34944000"
+    },
+    {
+      "id": 11069,
+      "name": "Capela do Alto",
+      "latitude": "-23.47056000",
+      "longitude": "-47.73472000"
+    },
+    {
+      "id": 11088,
+      "name": "Capivari",
+      "latitude": "-22.99500000",
+      "longitude": "-47.50778000"
+    },
+    {
+      "id": 11103,
+      "name": "Caraguatatuba",
+      "latitude": "-23.62028000",
+      "longitude": "-45.41306000"
+    },
+    {
+      "id": 11109,
+      "name": "Carapicuíba",
+      "latitude": "-23.55339000",
+      "longitude": "-46.84852000"
+    },
+    {
+      "id": 11122,
+      "name": "Cardoso",
+      "latitude": "-20.08194000",
+      "longitude": "-49.91417000"
+    },
+    {
+      "id": 11171,
+      "name": "Casa Branca",
+      "latitude": "-21.81396000",
+      "longitude": "-47.08264000"
+    },
+    {
+      "id": 11544,
+      "name": "Cássia dos Coqueiros",
+      "latitude": "-21.25917000",
+      "longitude": "-47.13783000"
+    },
+    {
+      "id": 11190,
+      "name": "Castilho",
+      "latitude": "-20.87222000",
+      "longitude": "-51.48750000"
+    },
+    {
+      "id": 11195,
+      "name": "Catanduva",
+      "latitude": "-21.13778000",
+      "longitude": "-48.97278000"
+    },
+    {
+      "id": 11202,
+      "name": "Catiguá",
+      "latitude": "-21.06536000",
+      "longitude": "-49.04977000"
+    },
+    {
+      "id": 11229,
+      "name": "Cedral",
+      "latitude": "-20.90742000",
+      "longitude": "-49.25495000"
+    },
+    {
+      "id": 11246,
+      "name": "Cerqueira César",
+      "latitude": "-23.03556000",
+      "longitude": "-49.16611000"
+    },
+    {
+      "id": 11247,
+      "name": "Cerquilho",
+      "latitude": "-23.16500000",
+      "longitude": "-47.74361000"
+    },
+    {
+      "id": 11256,
+      "name": "Cesário Lange",
+      "latitude": "-23.21195000",
+      "longitude": "-47.88465000"
+    },
+    {
+      "id": 11270,
+      "name": "Charqueada",
+      "latitude": "-22.53724000",
+      "longitude": "-47.73770000"
+    },
+    {
+      "id": 11274,
+      "name": "Chavantes",
+      "latitude": "-23.03889000",
+      "longitude": "-49.70944000"
+    },
+    {
+      "id": 11299,
+      "name": "Clementina",
+      "latitude": "-21.57634000",
+      "longitude": "-50.46202000"
+    },
+    {
+      "id": 11321,
+      "name": "Colina",
+      "latitude": "-20.75233000",
+      "longitude": "-48.58162000"
+    },
+    {
+      "id": 11334,
+      "name": "Colômbia",
+      "latitude": "-20.29302000",
+      "longitude": "-48.72328000"
+    },
+    {
+      "id": 11365,
+      "name": "Conchal",
+      "latitude": "-22.34611000",
+      "longitude": "-47.13620000"
+    },
+    {
+      "id": 11366,
+      "name": "Conchas",
+      "latitude": "-23.01528000",
+      "longitude": "-48.01056000"
+    },
+    {
+      "id": 11401,
+      "name": "Cordeirópolis",
+      "latitude": "-22.48194000",
+      "longitude": "-47.45667000"
+    },
+    {
+      "id": 11412,
+      "name": "Coroados",
+      "latitude": "-21.37115000",
+      "longitude": "-50.31271000"
+    },
+    {
+      "id": 11424,
+      "name": "Coronel Macedo",
+      "latitude": "-23.62092000",
+      "longitude": "-49.30305000"
+    },
+    {
+      "id": 11438,
+      "name": "Corumbataí",
+      "latitude": "-22.21698000",
+      "longitude": "-47.59961000"
+    },
+    {
+      "id": 11447,
+      "name": "Cosmópolis",
+      "latitude": "-22.64583000",
+      "longitude": "-47.19611000"
+    },
+    {
+      "id": 11446,
+      "name": "Cosmorama",
+      "latitude": "-20.40934000",
+      "longitude": "-49.74905000"
+    },
+    {
+      "id": 11452,
+      "name": "Cotia",
+      "latitude": "-23.60389000",
+      "longitude": "-46.91917000"
+    },
+    {
+      "id": 11462,
+      "name": "Cravinhos",
+      "latitude": "-21.34028000",
+      "longitude": "-47.72944000"
+    },
+    {
+      "id": 11468,
+      "name": "Cristais Paulista",
+      "latitude": "-20.36538000",
+      "longitude": "-47.37300000"
+    },
+    {
+      "id": 11503,
+      "name": "Cruzália",
+      "latitude": "-22.73707000",
+      "longitude": "-50.75793000"
+    },
+    {
+      "id": 11494,
+      "name": "Cruzeiro",
+      "latitude": "-22.57316000",
+      "longitude": "-44.97108000"
+    },
+    {
+      "id": 11506,
+      "name": "Cubatão",
+      "latitude": "-23.89500000",
+      "longitude": "-46.42528000"
+    },
+    {
+      "id": 11516,
+      "name": "Cunha",
+      "latitude": "-23.07444000",
+      "longitude": "-44.95972000"
+    },
+    {
+      "id": 11576,
+      "name": "Descalvado",
+      "latitude": "-21.90389000",
+      "longitude": "-47.61944000"
+    },
+    {
+      "id": 11583,
+      "name": "Diadema",
+      "latitude": "-23.68611000",
+      "longitude": "-46.62278000"
+    },
+    {
+      "id": 11597,
+      "name": "Dirce Reis",
+      "latitude": "-20.45591000",
+      "longitude": "-50.62798000"
+    },
+    {
+      "id": 11603,
+      "name": "Divinolândia",
+      "latitude": "-21.66459000",
+      "longitude": "-46.70450000"
+    },
+    {
+      "id": 11612,
+      "name": "Dobrada",
+      "latitude": "-21.51531000",
+      "longitude": "-48.37033000"
+    },
+    {
+      "id": 11613,
+      "name": "Dois Córregos",
+      "latitude": "-22.36611000",
+      "longitude": "-48.38028000"
+    },
+    {
+      "id": 11621,
+      "name": "Dolcinópolis",
+      "latitude": "-20.11666000",
+      "longitude": "-50.52771000"
+    },
+    {
+      "id": 11652,
+      "name": "Dourado",
+      "latitude": "-22.11665000",
+      "longitude": "-48.35204000"
+    },
+    {
+      "id": 11662,
+      "name": "Dracena",
+      "latitude": "-21.57936000",
+      "longitude": "-51.59598000"
+    },
+    {
+      "id": 11663,
+      "name": "Duartina",
+      "latitude": "-22.41444000",
+      "longitude": "-49.40389000"
+    },
+    {
+      "id": 11667,
+      "name": "Dumont",
+      "latitude": "-21.24438000",
+      "longitude": "-47.99598000"
+    },
+    {
+      "id": 11672,
+      "name": "Echaporã",
+      "latitude": "-22.41080000",
+      "longitude": "-50.18262000"
+    },
+    {
+      "id": 11678,
+      "name": "Eldorado",
+      "latitude": "-24.50057000",
+      "longitude": "-48.25601000"
+    },
+    {
+      "id": 11682,
+      "name": "Elias Fausto",
+      "latitude": "-23.05880000",
+      "longitude": "-47.38776000"
+    },
+    {
+      "id": 11684,
+      "name": "Elisiário",
+      "latitude": "-21.15517000",
+      "longitude": "-49.09106000"
+    },
+    {
+      "id": 11688,
+      "name": "Embaúba",
+      "latitude": "-20.94301000",
+      "longitude": "-48.85819000"
+    },
+    {
+      "id": 11689,
+      "name": "Embu",
+      "latitude": "-23.64889000",
+      "longitude": "-46.85222000"
+    },
+    {
+      "id": 11691,
+      "name": "Embu das Artes",
+      "latitude": "-23.64664000",
+      "longitude": "-46.85386000"
+    },
+    {
+      "id": 11690,
+      "name": "Embu Guaçu",
+      "latitude": "-23.83222000",
+      "longitude": "-46.81139000"
+    },
+    {
+      "id": 11692,
+      "name": "Embu-Guaçu",
+      "latitude": "-23.85336000",
+      "longitude": "-46.83957000"
+    },
+    {
+      "id": 11693,
+      "name": "Emilianópolis",
+      "latitude": "-21.78179000",
+      "longitude": "-51.47959000"
+    },
+    {
+      "id": 11700,
+      "name": "Engenheiro Coelho",
+      "latitude": "-22.48904000",
+      "longitude": "-47.17256000"
+    },
+    {
+      "id": 11741,
+      "name": "Espírito Santo do Pinhal",
+      "latitude": "-22.18900000",
+      "longitude": "-46.78421000"
+    },
+    {
+      "id": 11742,
+      "name": "Espírito Santo do Turvo",
+      "latitude": "-22.66810000",
+      "longitude": "-49.42175000"
+    },
+    {
+      "id": 11746,
+      "name": "Estiva Gerbi",
+      "latitude": "-22.22052000",
+      "longitude": "-46.93878000"
+    },
+    {
+      "id": 11751,
+      "name": "Estrela d'Oeste",
+      "latitude": "-20.27767000",
+      "longitude": "-50.40807000"
+    },
+    {
+      "id": 11754,
+      "name": "Estrela do Norte",
+      "latitude": "-22.47843000",
+      "longitude": "-51.67954000"
+    },
+    {
+      "id": 11760,
+      "name": "Euclides da Cunha Paulista",
+      "latitude": "-22.51710000",
+      "longitude": "-52.59099000"
+    },
+    {
+      "id": 11779,
+      "name": "Fartura",
+      "latitude": "-23.38833000",
+      "longitude": "-49.51000000"
+    },
+    {
+      "id": 11806,
+      "name": "Fernando Prestes",
+      "latitude": "-21.30945000",
+      "longitude": "-48.69583000"
+    },
+    {
+      "id": 11809,
+      "name": "Fernandópolis",
+      "latitude": "-20.28389000",
+      "longitude": "-50.24639000"
+    },
+    {
+      "id": 11810,
+      "name": "Fernão",
+      "latitude": "-22.37381000",
+      "longitude": "-49.55434000"
+    },
+    {
+      "id": 11811,
+      "name": "Ferraz de Vasconcelos",
+      "latitude": "-23.56153000",
+      "longitude": "-46.37490000"
+    },
+    {
+      "id": 11827,
+      "name": "Flora Rica",
+      "latitude": "-21.70103000",
+      "longitude": "-51.37786000"
+    },
+    {
+      "id": 11829,
+      "name": "Floreal",
+      "latitude": "-20.65394000",
+      "longitude": "-50.15844000"
+    },
+    {
+      "id": 11847,
+      "name": "Flórida Paulista",
+      "latitude": "-21.54193000",
+      "longitude": "-51.18066000"
+    },
+    {
+      "id": 11845,
+      "name": "Florínea",
+      "latitude": "-22.87222000",
+      "longitude": "-50.68979000"
+    },
+    {
+      "id": 11874,
+      "name": "Franca",
+      "latitude": "-20.53861000",
+      "longitude": "-47.40083000"
+    },
+    {
+      "id": 11883,
+      "name": "Francisco Morato",
+      "latitude": "-23.26924000",
+      "longitude": "-46.70889000"
+    },
+    {
+      "id": 11887,
+      "name": "Franco da Rocha",
+      "latitude": "-23.30277000",
+      "longitude": "-46.73089000"
+    },
+    {
+      "id": 11910,
+      "name": "Gabriel Monteiro",
+      "latitude": "-21.49989000",
+      "longitude": "-50.56997000"
+    },
+    {
+      "id": 12091,
+      "name": "Gália",
+      "latitude": "-22.34323000",
+      "longitude": "-49.57865000"
+    },
+    {
+      "id": 11926,
+      "name": "Garça",
+      "latitude": "-22.21056000",
+      "longitude": "-49.65611000"
+    },
+    {
+      "id": 11928,
+      "name": "Gastão Vidigal",
+      "latitude": "-20.80633000",
+      "longitude": "-50.19238000"
+    },
+    {
+      "id": 11931,
+      "name": "Gavião Peixoto",
+      "latitude": "-21.80879000",
+      "longitude": "-48.46904000"
+    },
+    {
+      "id": 11938,
+      "name": "General Salgado",
+      "latitude": "-20.64833000",
+      "longitude": "-50.36056000"
+    },
+    {
+      "id": 11942,
+      "name": "Getulina",
+      "latitude": "-21.76343000",
+      "longitude": "-50.06225000"
+    },
+    {
+      "id": 11948,
+      "name": "Glicério",
+      "latitude": "-21.31866000",
+      "longitude": "-50.17782000"
+    },
+    {
+      "id": 12016,
+      "name": "Guaiçara",
+      "latitude": "-21.55410000",
+      "longitude": "-49.76263000"
+    },
+    {
+      "id": 12014,
+      "name": "Guaimbê",
+      "latitude": "-21.86204000",
+      "longitude": "-49.84959000"
+    },
+    {
+      "id": 12077,
+      "name": "Guaíra",
+      "latitude": "-20.31833000",
+      "longitude": "-48.31056000"
+    },
+    {
+      "id": 12027,
+      "name": "Guapiaçu",
+      "latitude": "-20.79500000",
+      "longitude": "-49.22028000"
+    },
+    {
+      "id": 12026,
+      "name": "Guapiara",
+      "latitude": "-24.21726000",
+      "longitude": "-48.54523000"
+    },
+    {
+      "id": 12071,
+      "name": "Guará",
+      "latitude": "-20.42833000",
+      "longitude": "-47.82417000"
+    },
+    {
+      "id": 12060,
+      "name": "Guaraçaí",
+      "latitude": "-21.10820000",
+      "longitude": "-51.30124000"
+    },
+    {
+      "id": 12035,
+      "name": "Guaraci",
+      "latitude": "-20.41648000",
+      "longitude": "-49.00521000"
+    },
+    {
+      "id": 12044,
+      "name": "Guarani d'Oeste",
+      "latitude": "-20.07032000",
+      "longitude": "-50.36292000"
+    },
+    {
+      "id": 12048,
+      "name": "Guarantã",
+      "latitude": "-21.92281000",
+      "longitude": "-49.58519000"
+    },
+    {
+      "id": 12054,
+      "name": "Guararapes",
+      "latitude": "-21.26083000",
+      "longitude": "-50.64278000"
+    },
+    {
+      "id": 12055,
+      "name": "Guararema",
+      "latitude": "-23.41500000",
+      "longitude": "-46.03500000"
+    },
+    {
+      "id": 12058,
+      "name": "Guaratinguetá",
+      "latitude": "-22.81639000",
+      "longitude": "-45.19250000"
+    },
+    {
+      "id": 12064,
+      "name": "Guareí",
+      "latitude": "-23.37338000",
+      "longitude": "-48.22466000"
+    },
+    {
+      "id": 12065,
+      "name": "Guariba",
+      "latitude": "-21.39568000",
+      "longitude": "-48.20427000"
+    },
+    {
+      "id": 12068,
+      "name": "Guarujá",
+      "latitude": "-23.99306000",
+      "longitude": "-46.25639000"
+    },
+    {
+      "id": 12070,
+      "name": "Guarulhos",
+      "latitude": "-23.46278000",
+      "longitude": "-46.53333000"
+    },
+    {
+      "id": 12073,
+      "name": "Guatapará",
+      "latitude": "-21.47231000",
+      "longitude": "-47.99142000"
+    },
+    {
+      "id": 12090,
+      "name": "Guzolândia",
+      "latitude": "-20.62040000",
+      "longitude": "-50.71925000"
+    },
+    {
+      "id": 12096,
+      "name": "Herculândia",
+      "latitude": "-21.96198000",
+      "longitude": "-50.38482000"
+    },
+    {
+      "id": 12103,
+      "name": "Holambra",
+      "latitude": "-22.63825000",
+      "longitude": "-47.06501000"
+    },
+    {
+      "id": 12107,
+      "name": "Hortolândia",
+      "latitude": "-22.85833000",
+      "longitude": "-47.22000000"
+    },
+    {
+      "id": 12113,
+      "name": "Iacanga",
+      "latitude": "-21.90745000",
+      "longitude": "-49.05917000"
+    },
+    {
+      "id": 12115,
+      "name": "Iacri",
+      "latitude": "-21.77798000",
+      "longitude": "-50.61517000"
+    },
+    {
+      "id": 12117,
+      "name": "Iaras",
+      "latitude": "-22.83679000",
+      "longitude": "-49.10928000"
+    },
+    {
+      "id": 12125,
+      "name": "Ibaté",
+      "latitude": "-21.95472000",
+      "longitude": "-47.99667000"
+    },
+    {
+      "id": 12157,
+      "name": "Ibirá",
+      "latitude": "-21.08880000",
+      "longitude": "-49.21879000"
+    },
+    {
+      "id": 12152,
+      "name": "Ibirarema",
+      "latitude": "-22.80911000",
+      "longitude": "-50.07816000"
+    },
+    {
+      "id": 12159,
+      "name": "Ibitinga",
+      "latitude": "-21.75778000",
+      "longitude": "-48.82889000"
+    },
+    {
+      "id": 12165,
+      "name": "Ibiúna",
+      "latitude": "-23.65639000",
+      "longitude": "-47.22250000"
+    },
+    {
+      "id": 12173,
+      "name": "Icém",
+      "latitude": "-20.38003000",
+      "longitude": "-49.20507000"
+    },
+    {
+      "id": 12176,
+      "name": "Iepê",
+      "latitude": "-22.65726000",
+      "longitude": "-51.04385000"
+    },
+    {
+      "id": 12191,
+      "name": "Igaraçu do Tietê",
+      "latitude": "-22.50917000",
+      "longitude": "-48.55778000"
+    },
+    {
+      "id": 12180,
+      "name": "Igarapava",
+      "latitude": "-20.03833000",
+      "longitude": "-47.74694000"
+    },
+    {
+      "id": 12190,
+      "name": "Igaratá",
+      "latitude": "-23.12994000",
+      "longitude": "-46.14647000"
+    },
+    {
+      "id": 12196,
+      "name": "Iguape",
+      "latitude": "-24.70806000",
+      "longitude": "-47.55528000"
+    },
+    {
+      "id": 12206,
+      "name": "Ilha Comprida",
+      "latitude": "-24.87792000",
+      "longitude": "-47.74757000"
+    },
+    {
+      "id": 12209,
+      "name": "Ilha Solteira",
+      "latitude": "-20.43278000",
+      "longitude": "-51.34250000"
+    },
+    {
+      "id": 12212,
+      "name": "Ilhabela",
+      "latitude": "-23.77806000",
+      "longitude": "-45.35806000"
+    },
+    {
+      "id": 12233,
+      "name": "Indaiatuba",
+      "latitude": "-23.08842000",
+      "longitude": "-47.21190000"
+    },
+    {
+      "id": 12236,
+      "name": "Indiana",
+      "latitude": "-22.12587000",
+      "longitude": "-51.26047000"
+    },
+    {
+      "id": 12239,
+      "name": "Indiaporã",
+      "latitude": "-19.95987000",
+      "longitude": "-50.24419000"
+    },
+    {
+      "id": 12257,
+      "name": "Inúbia Paulista",
+      "latitude": "-21.72002000",
+      "longitude": "-50.94738000"
+    },
+    {
+      "id": 12267,
+      "name": "Ipauçu",
+      "latitude": "-23.05667000",
+      "longitude": "-49.62639000"
+    },
+    {
+      "id": 12266,
+      "name": "Ipaussu",
+      "latitude": "-23.08202000",
+      "longitude": "-49.60370000"
+    },
+    {
+      "id": 12269,
+      "name": "Iperó",
+      "latitude": "-23.35028000",
+      "longitude": "-47.68861000"
+    },
+    {
+      "id": 12270,
+      "name": "Ipeúna",
+      "latitude": "-22.44376000",
+      "longitude": "-47.69449000"
+    },
+    {
+      "id": 12273,
+      "name": "Ipiguá",
+      "latitude": "-20.63984000",
+      "longitude": "-49.39781000"
+    },
+    {
+      "id": 12284,
+      "name": "Iporanga",
+      "latitude": "-24.50438000",
+      "longitude": "-48.55248000"
+    },
+    {
+      "id": 12298,
+      "name": "Ipuã",
+      "latitude": "-20.43806000",
+      "longitude": "-48.01222000"
+    },
+    {
+      "id": 12303,
+      "name": "Iracemápolis",
+      "latitude": "-22.58056000",
+      "longitude": "-47.51861000"
+    },
+    {
+      "id": 12309,
+      "name": "Irapuã",
+      "latitude": "-21.25013000",
+      "longitude": "-49.40247000"
+    },
+    {
+      "id": 12308,
+      "name": "Irapuru",
+      "latitude": "-21.44903000",
+      "longitude": "-51.33959000"
+    },
+    {
+      "id": 12331,
+      "name": "Itaberá",
+      "latitude": "-23.86194000",
+      "longitude": "-49.13722000"
+    },
+    {
+      "id": 12466,
+      "name": "Itaí",
+      "latitude": "-23.41778000",
+      "longitude": "-49.09056000"
+    },
+    {
+      "id": 12367,
+      "name": "Itajobi",
+      "latitude": "-21.31806000",
+      "longitude": "-49.05444000"
+    },
+    {
+      "id": 12368,
+      "name": "Itaju",
+      "latitude": "-21.92879000",
+      "longitude": "-48.78312000"
+    },
+    {
+      "id": 12392,
+      "name": "Itanhaém",
+      "latitude": "-24.18306000",
+      "longitude": "-46.78889000"
+    },
+    {
+      "id": 12396,
+      "name": "Itaoca",
+      "latitude": "-24.61155000",
+      "longitude": "-48.84390000"
+    },
+    {
+      "id": 12405,
+      "name": "Itapecerica da Serra",
+      "latitude": "-23.71694000",
+      "longitude": "-46.84917000"
+    },
+    {
+      "id": 12414,
+      "name": "Itapetininga",
+      "latitude": "-23.59167000",
+      "longitude": "-48.05306000"
+    },
+    {
+      "id": 12416,
+      "name": "Itapeva",
+      "latitude": "-23.94696000",
+      "longitude": "-48.83835000"
+    },
+    {
+      "id": 12417,
+      "name": "Itapevi",
+      "latitude": "-23.54889000",
+      "longitude": "-46.93417000"
+    },
+    {
+      "id": 12420,
+      "name": "Itapira",
+      "latitude": "-22.43611000",
+      "longitude": "-46.82167000"
+    },
+    {
+      "id": 12424,
+      "name": "Itapirapuã Paulista",
+      "latitude": "-24.55985000",
+      "longitude": "-49.22435000"
+    },
+    {
+      "id": 12496,
+      "name": "Itápolis",
+      "latitude": "-21.59556000",
+      "longitude": "-48.81278000"
+    },
+    {
+      "id": 12429,
+      "name": "Itaporanga",
+      "latitude": "-23.70778000",
+      "longitude": "-49.48972000"
+    },
+    {
+      "id": 12440,
+      "name": "Itapuí",
+      "latitude": "-22.23333000",
+      "longitude": "-48.71917000"
+    },
+    {
+      "id": 12437,
+      "name": "Itapura",
+      "latitude": "-20.59626000",
+      "longitude": "-51.42537000"
+    },
+    {
+      "id": 12442,
+      "name": "Itaquaquecetuba",
+      "latitude": "-23.45806000",
+      "longitude": "-46.32917000"
+    },
+    {
+      "id": 12449,
+      "name": "Itararé",
+      "latitude": "-24.11250000",
+      "longitude": "-49.33167000"
+    },
+    {
+      "id": 12451,
+      "name": "Itariri",
+      "latitude": "-24.28880000",
+      "longitude": "-47.13325000"
+    },
+    {
+      "id": 12456,
+      "name": "Itatiba",
+      "latitude": "-23.00583000",
+      "longitude": "-46.83889000"
+    },
+    {
+      "id": 12459,
+      "name": "Itatinga",
+      "latitude": "-23.10167000",
+      "longitude": "-48.61583000"
+    },
+    {
+      "id": 12476,
+      "name": "Itirapina",
+      "latitude": "-22.25278000",
+      "longitude": "-47.82278000"
+    },
+    {
+      "id": 12477,
+      "name": "Itirapuã",
+      "latitude": "-20.65755000",
+      "longitude": "-47.16859000"
+    },
+    {
+      "id": 12480,
+      "name": "Itobi",
+      "latitude": "-21.74902000",
+      "longitude": "-46.93051000"
+    },
+    {
+      "id": 12482,
+      "name": "Itu",
+      "latitude": "-23.26417000",
+      "longitude": "-47.29917000"
+    },
+    {
+      "id": 12489,
+      "name": "Itupeva",
+      "latitude": "-23.15306000",
+      "longitude": "-47.05778000"
+    },
+    {
+      "id": 12494,
+      "name": "Ituverava",
+      "latitude": "-20.33944000",
+      "longitude": "-47.78056000"
+    },
+    {
+      "id": 12511,
+      "name": "Jaborandi",
+      "latitude": "-20.66618000",
+      "longitude": "-48.40164000"
+    },
+    {
+      "id": 12515,
+      "name": "Jaboticabal",
+      "latitude": "-21.25472000",
+      "longitude": "-48.32222000"
+    },
+    {
+      "id": 12521,
+      "name": "Jacareí",
+      "latitude": "-23.30528000",
+      "longitude": "-45.96583000"
+    },
+    {
+      "id": 12523,
+      "name": "Jaci",
+      "latitude": "-20.94747000",
+      "longitude": "-49.57606000"
+    },
+    {
+      "id": 12531,
+      "name": "Jacupiranga",
+      "latitude": "-24.69250000",
+      "longitude": "-48.00222000"
+    },
+    {
+      "id": 12546,
+      "name": "Jaguariúna",
+      "latitude": "-22.70556000",
+      "longitude": "-46.98583000"
+    },
+    {
+      "id": 12552,
+      "name": "Jales",
+      "latitude": "-20.26889000",
+      "longitude": "-50.54583000"
+    },
+    {
+      "id": 12553,
+      "name": "Jambeiro",
+      "latitude": "-23.28154000",
+      "longitude": "-45.71217000"
+    },
+    {
+      "id": 12560,
+      "name": "Jandira",
+      "latitude": "-23.54082000",
+      "longitude": "-46.89571000"
+    },
+    {
+      "id": 12587,
+      "name": "Jardim Paulista",
+      "latitude": "-23.56675000",
+      "longitude": "-46.66439000"
+    },
+    {
+      "id": 12592,
+      "name": "Jardinópolis",
+      "latitude": "-21.01778000",
+      "longitude": "-47.76389000"
+    },
+    {
+      "id": 12595,
+      "name": "Jarinu",
+      "latitude": "-23.10139000",
+      "longitude": "-46.72833000"
+    },
+    {
+      "id": 12609,
+      "name": "Jaú",
+      "latitude": "-22.29639000",
+      "longitude": "-48.55778000"
+    },
+    {
+      "id": 12622,
+      "name": "Jeriquara",
+      "latitude": "-20.33455000",
+      "longitude": "-47.57121000"
+    },
+    {
+      "id": 12635,
+      "name": "Joanópolis",
+      "latitude": "-22.93028000",
+      "longitude": "-46.27556000"
+    },
+    {
+      "id": 12667,
+      "name": "João Ramalho",
+      "latitude": "-22.24440000",
+      "longitude": "-50.78747000"
+    },
+    {
+      "id": 12651,
+      "name": "José Bonifácio",
+      "latitude": "-21.08986000",
+      "longitude": "-49.77293000"
+    },
+    {
+      "id": 12718,
+      "name": "Júlio Mesquita",
+      "latitude": "-21.97689000",
+      "longitude": "-49.78623000"
+    },
+    {
+      "id": 12681,
+      "name": "Jumirim",
+      "latitude": "-23.10825000",
+      "longitude": "-47.79820000"
+    },
+    {
+      "id": 12684,
+      "name": "Jundiaí",
+      "latitude": "-23.18639000",
+      "longitude": "-46.88417000"
+    },
+    {
+      "id": 12689,
+      "name": "Junqueirópolis",
+      "latitude": "-21.51472000",
+      "longitude": "-51.43361000"
+    },
+    {
+      "id": 12693,
+      "name": "Juquiá",
+      "latitude": "-24.32083000",
+      "longitude": "-47.63472000"
+    },
+    {
+      "id": 12692,
+      "name": "Juquitiba",
+      "latitude": "-23.95860000",
+      "longitude": "-47.01366000"
+    },
+    {
+      "id": 12768,
+      "name": "Lagoinha",
+      "latitude": "-23.08443000",
+      "longitude": "-45.19973000"
+    },
+    {
+      "id": 12797,
+      "name": "Laranjal Paulista",
+      "latitude": "-23.04972000",
+      "longitude": "-47.83667000"
+    },
+    {
+      "id": 12812,
+      "name": "Lavínia",
+      "latitude": "-21.17069000",
+      "longitude": "-51.05184000"
+    },
+    {
+      "id": 12811,
+      "name": "Lavrinhas",
+      "latitude": "-22.51707000",
+      "longitude": "-44.88055000"
+    },
+    {
+      "id": 12815,
+      "name": "Leme",
+      "latitude": "-22.18556000",
+      "longitude": "-47.39028000"
+    },
+    {
+      "id": 12818,
+      "name": "Lençóis Paulista",
+      "latitude": "-22.59861000",
+      "longitude": "-48.80028000"
+    },
+    {
+      "id": 12829,
+      "name": "Limeira",
+      "latitude": "-22.56472000",
+      "longitude": "-47.40167000"
+    },
+    {
+      "id": 12837,
+      "name": "Lindóia",
+      "latitude": "-22.51250000",
+      "longitude": "-46.65352000"
+    },
+    {
+      "id": 12841,
+      "name": "Lins",
+      "latitude": "-21.67861000",
+      "longitude": "-49.74250000"
+    },
+    {
+      "id": 12852,
+      "name": "Lorena",
+      "latitude": "-22.73083000",
+      "longitude": "-45.12472000"
+    },
+    {
+      "id": 12854,
+      "name": "Lourdes",
+      "latitude": "-20.94345000",
+      "longitude": "-50.23799000"
+    },
+    {
+      "id": 12855,
+      "name": "Louveira",
+      "latitude": "-23.08252000",
+      "longitude": "-46.93308000"
+    },
+    {
+      "id": 12862,
+      "name": "Lucélia",
+      "latitude": "-21.72028000",
+      "longitude": "-51.01889000"
+    },
+    {
+      "id": 12859,
+      "name": "Lucianópolis",
+      "latitude": "-22.48385000",
+      "longitude": "-49.54507000"
+    },
+    {
+      "id": 12878,
+      "name": "Luís Antônio",
+      "latitude": "-21.55997000",
+      "longitude": "-47.81156000"
+    },
+    {
+      "id": 12867,
+      "name": "Luiziânia",
+      "latitude": "-21.68237000",
+      "longitude": "-50.35305000"
+    },
+    {
+      "id": 12871,
+      "name": "Lupércio",
+      "latitude": "-22.42771000",
+      "longitude": "-49.81232000"
+    },
+    {
+      "id": 12872,
+      "name": "Lutécia",
+      "latitude": "-22.30652000",
+      "longitude": "-50.37817000"
+    },
+    {
+      "id": 12889,
+      "name": "Macatuba",
+      "latitude": "-22.50222000",
+      "longitude": "-48.71139000"
+    },
+    {
+      "id": 12891,
+      "name": "Macaubal",
+      "latitude": "-20.86271000",
+      "longitude": "-49.98530000"
+    },
+    {
+      "id": 12895,
+      "name": "Macedônia",
+      "latitude": "-20.08825000",
+      "longitude": "-50.17318000"
+    },
+    {
+      "id": 12913,
+      "name": "Magda",
+      "latitude": "-20.57602000",
+      "longitude": "-50.22413000"
+    },
+    {
+      "id": 12917,
+      "name": "Mairinque",
+      "latitude": "-23.54583000",
+      "longitude": "-47.18333000"
+    },
+    {
+      "id": 12918,
+      "name": "Mairiporã",
+      "latitude": "-23.31861000",
+      "longitude": "-46.58667000"
+    },
+    {
+      "id": 12944,
+      "name": "Manduri",
+      "latitude": "-23.05388000",
+      "longitude": "-49.30262000"
+    },
+    {
+      "id": 12965,
+      "name": "Marabá Paulista",
+      "latitude": "-22.11727000",
+      "longitude": "-52.05131000"
+    },
+    {
+      "id": 12971,
+      "name": "Maracaí",
+      "latitude": "-22.61056000",
+      "longitude": "-50.66722000"
+    },
+    {
+      "id": 12980,
+      "name": "Marapoama",
+      "latitude": "-21.25761000",
+      "longitude": "-49.14859000"
+    },
+    {
+      "id": 13024,
+      "name": "Mariápolis",
+      "latitude": "-21.77944000",
+      "longitude": "-51.16754000"
+    },
+    {
+      "id": 13039,
+      "name": "Marília",
+      "latitude": "-22.21389000",
+      "longitude": "-49.94583000"
+    },
+    {
+      "id": 13019,
+      "name": "Marinópolis",
+      "latitude": "-20.48780000",
+      "longitude": "-50.83467000"
+    },
+    {
+      "id": 13035,
+      "name": "Martinópolis",
+      "latitude": "-22.14583000",
+      "longitude": "-51.17083000"
+    },
+    {
+      "id": 13077,
+      "name": "Matão",
+      "latitude": "-21.59547000",
+      "longitude": "-48.45033000"
+    },
+    {
+      "id": 13083,
+      "name": "Mauá",
+      "latitude": "-23.66364000",
+      "longitude": "-46.44656000"
+    },
+    {
+      "id": 13099,
+      "name": "Mendonça",
+      "latitude": "-21.19620000",
+      "longitude": "-49.56427000"
+    },
+    {
+      "id": 13102,
+      "name": "Meridiano",
+      "latitude": "-20.41766000",
+      "longitude": "-50.20536000"
+    },
+    {
+      "id": 13108,
+      "name": "Mesópolis",
+      "latitude": "-19.95808000",
+      "longitude": "-50.60938000"
+    },
+    {
+      "id": 13113,
+      "name": "Miguelópolis",
+      "latitude": "-20.17944000",
+      "longitude": "-48.03194000"
+    },
+    {
+      "id": 13127,
+      "name": "Mineiros do Tietê",
+      "latitude": "-22.44860000",
+      "longitude": "-48.44074000"
+    },
+    {
+      "id": 13129,
+      "name": "Mira Estrela",
+      "latitude": "-19.97244000",
+      "longitude": "-50.13043000"
+    },
+    {
+      "id": 13131,
+      "name": "Miracatu",
+      "latitude": "-24.28139000",
+      "longitude": "-47.45972000"
+    },
+    {
+      "id": 13141,
+      "name": "Mirandopólis",
+      "latitude": "-21.13361000",
+      "longitude": "-51.10167000"
+    },
+    {
+      "id": 13147,
+      "name": "Mirante do Paranapanema",
+      "latitude": "-22.29194000",
+      "longitude": "-51.90639000"
+    },
+    {
+      "id": 13149,
+      "name": "Mirassol",
+      "latitude": "-20.84158000",
+      "longitude": "-49.50879000"
+    },
+    {
+      "id": 13151,
+      "name": "Mirassolândia",
+      "latitude": "-20.59295000",
+      "longitude": "-49.48426000"
+    },
+    {
+      "id": 13160,
+      "name": "Mococa",
+      "latitude": "-21.46778000",
+      "longitude": "-47.00472000"
+    },
+    {
+      "id": 13167,
+      "name": "Mogi das Cruzes",
+      "latitude": "-23.56813000",
+      "longitude": "-46.18770000"
+    },
+    {
+      "id": 13165,
+      "name": "Mogi Guaçu",
+      "latitude": "-22.36770000",
+      "longitude": "-46.94552000"
+    },
+    {
+      "id": 13166,
+      "name": "Mogi Mirim",
+      "latitude": "-22.43194000",
+      "longitude": "-46.95778000"
+    },
+    {
+      "id": 13173,
+      "name": "Mombuca",
+      "latitude": "-22.95107000",
+      "longitude": "-47.60238000"
+    },
+    {
+      "id": 13226,
+      "name": "Monções",
+      "latitude": "-20.86875000",
+      "longitude": "-50.08331000"
+    },
+    {
+      "id": 13175,
+      "name": "Mongaguá",
+      "latitude": "-24.09306000",
+      "longitude": "-46.62083000"
+    },
+    {
+      "id": 13192,
+      "name": "Monte Alegre do Sul",
+      "latitude": "-22.71002000",
+      "longitude": "-46.67181000"
+    },
+    {
+      "id": 13194,
+      "name": "Monte Alto",
+      "latitude": "-21.26111000",
+      "longitude": "-48.49639000"
+    },
+    {
+      "id": 13195,
+      "name": "Monte Aprazível",
+      "latitude": "-20.77250000",
+      "longitude": "-49.71417000"
+    },
+    {
+      "id": 13197,
+      "name": "Monte Azul Paulista",
+      "latitude": "-20.90722000",
+      "longitude": "-48.64139000"
+    },
+    {
+      "id": 13202,
+      "name": "Monte Castelo",
+      "latitude": "-21.22773000",
+      "longitude": "-51.57141000"
+    },
+    {
+      "id": 13206,
+      "name": "Monte Mor",
+      "latitude": "-22.94667000",
+      "longitude": "-47.31583000"
+    },
+    {
+      "id": 13216,
+      "name": "Monteiro Lobato",
+      "latitude": "-22.93300000",
+      "longitude": "-45.80525000"
+    },
+    {
+      "id": 13239,
+      "name": "Morro Agudo",
+      "latitude": "-20.73139000",
+      "longitude": "-48.05778000"
+    },
+    {
+      "id": 13253,
+      "name": "Morungaba",
+      "latitude": "-22.88318000",
+      "longitude": "-46.78699000"
+    },
+    {
+      "id": 13257,
+      "name": "Motuca",
+      "latitude": "-21.48936000",
+      "longitude": "-48.15669000"
+    },
+    {
+      "id": 13284,
+      "name": "Murutinga do Sul",
+      "latitude": "-20.99638000",
+      "longitude": "-51.30376000"
+    },
+    {
+      "id": 13295,
+      "name": "Nantes",
+      "latitude": "-22.60334000",
+      "longitude": "-51.20840000"
+    },
+    {
+      "id": 13298,
+      "name": "Narandiba",
+      "latitude": "-22.53395000",
+      "longitude": "-51.50976000"
+    },
+    {
+      "id": 13303,
+      "name": "Natividade da Serra",
+      "latitude": "-23.39447000",
+      "longitude": "-45.39368000"
+    },
+    {
+      "id": 13312,
+      "name": "Nazaré Paulista",
+      "latitude": "-23.18203000",
+      "longitude": "-46.36202000"
+    },
+    {
+      "id": 13319,
+      "name": "Neves Paulista",
+      "latitude": "-20.87439000",
+      "longitude": "-49.64850000"
+    },
+    {
+      "id": 13322,
+      "name": "Nhandeara",
+      "latitude": "-20.68970000",
+      "longitude": "-50.04070000"
+    },
+    {
+      "id": 13329,
+      "name": "Nipoã",
+      "latitude": "-20.89366000",
+      "longitude": "-49.78133000"
+    },
+    {
+      "id": 13345,
+      "name": "Nova Aliança",
+      "latitude": "-21.06591000",
+      "longitude": "-49.52593000"
+    },
+    {
+      "id": 13362,
+      "name": "Nova Campina",
+      "latitude": "-24.20918000",
+      "longitude": "-48.98456000"
+    },
+    {
+      "id": 13364,
+      "name": "Nova Canaã Paulista",
+      "latitude": "-20.37020000",
+      "longitude": "-50.90616000"
+    },
+    {
+      "id": 13368,
+      "name": "Nova Castilho",
+      "latitude": "-20.78530000",
+      "longitude": "-50.34957000"
+    },
+    {
+      "id": 13378,
+      "name": "Nova Europa",
+      "latitude": "-21.79214000",
+      "longitude": "-48.56880000"
+    },
+    {
+      "id": 13384,
+      "name": "Nova Granada",
+      "latitude": "-20.53389000",
+      "longitude": "-49.31417000"
+    },
+    {
+      "id": 13386,
+      "name": "Nova Guataporanga",
+      "latitude": "-21.31898000",
+      "longitude": "-51.64323000"
+    },
+    {
+      "id": 13391,
+      "name": "Nova Independência",
+      "latitude": "-21.15481000",
+      "longitude": "-51.52759000"
+    },
+    {
+      "id": 13400,
+      "name": "Nova Luzitânia",
+      "latitude": "-20.87304000",
+      "longitude": "-50.24297000"
+    },
+    {
+      "id": 13408,
+      "name": "Nova Odessa",
+      "latitude": "-22.77750000",
+      "longitude": "-47.29583000"
+    },
+    {
+      "id": 13449,
+      "name": "Novais",
+      "latitude": "-20.97660000",
+      "longitude": "-48.90985000"
+    },
+    {
+      "id": 13460,
+      "name": "Novo Horizonte",
+      "latitude": "-21.46806000",
+      "longitude": "-49.22083000"
+    },
+    {
+      "id": 13484,
+      "name": "Nuporanga",
+      "latitude": "-20.73095000",
+      "longitude": "-47.75177000"
+    },
+    {
+      "id": 13489,
+      "name": "Ocauçu",
+      "latitude": "-22.43034000",
+      "longitude": "-49.95170000"
+    },
+    {
+      "id": 15684,
+      "name": "Óleo",
+      "latitude": "-22.94964000",
+      "longitude": "-49.38996000"
+    },
+    {
+      "id": 13511,
+      "name": "Olímpia",
+      "latitude": "-20.73722000",
+      "longitude": "-48.91472000"
+    },
+    {
+      "id": 13513,
+      "name": "Onda Verde",
+      "latitude": "-20.61043000",
+      "longitude": "-49.24474000"
+    },
+    {
+      "id": 13516,
+      "name": "Oriente",
+      "latitude": "-22.15005000",
+      "longitude": "-50.09676000"
+    },
+    {
+      "id": 13517,
+      "name": "Orindiúva",
+      "latitude": "-20.22235000",
+      "longitude": "-49.37594000"
+    },
+    {
+      "id": 13522,
+      "name": "Orlândia",
+      "latitude": "-20.72028000",
+      "longitude": "-47.88667000"
+    },
+    {
+      "id": 13527,
+      "name": "Osasco",
+      "latitude": "-23.53250000",
+      "longitude": "-46.79167000"
+    },
+    {
+      "id": 13528,
+      "name": "Oscar Bressane",
+      "latitude": "-22.29031000",
+      "longitude": "-50.25646000"
+    },
+    {
+      "id": 13529,
+      "name": "Osvaldo Cruz",
+      "latitude": "-21.67502000",
+      "longitude": "-50.84203000"
+    },
+    {
+      "id": 13534,
+      "name": "Ourinhos",
+      "latitude": "-22.97889000",
+      "longitude": "-49.87056000"
+    },
+    {
+      "id": 13545,
+      "name": "Ouro Verde",
+      "latitude": "-21.52766000",
+      "longitude": "-51.75119000"
+    },
+    {
+      "id": 13550,
+      "name": "Ouroeste",
+      "latitude": "-19.93760000",
+      "longitude": "-50.41455000"
+    },
+    {
+      "id": 13554,
+      "name": "Pacaembu",
+      "latitude": "-21.56222000",
+      "longitude": "-51.26056000"
+    },
+    {
+      "id": 13576,
+      "name": "Palestina",
+      "latitude": "-20.29911000",
+      "longitude": "-49.52000000"
+    },
+    {
+      "id": 13584,
+      "name": "Palmares Paulista",
+      "latitude": "-21.10148000",
+      "longitude": "-48.82032000"
+    },
+    {
+      "id": 13591,
+      "name": "Palmeira d'Oeste",
+      "latitude": "-20.45046000",
+      "longitude": "-50.75181000"
+    },
+    {
+      "id": 13605,
+      "name": "Palmital",
+      "latitude": "-22.78889000",
+      "longitude": "-50.21750000"
+    },
+    {
+      "id": 13616,
+      "name": "Panorama",
+      "latitude": "-21.35639000",
+      "longitude": "-51.85972000"
+    },
+    {
+      "id": 13628,
+      "name": "Paraguaçu Paulista",
+      "latitude": "-22.41278000",
+      "longitude": "-50.57583000"
+    },
+    {
+      "id": 13630,
+      "name": "Paraibuna",
+      "latitude": "-23.48123000",
+      "longitude": "-45.63778000"
+    },
+    {
+      "id": 13659,
+      "name": "Paraíso",
+      "latitude": "-21.01639000",
+      "longitude": "-48.77361000"
+    },
+    {
+      "id": 13639,
+      "name": "Paranapanema",
+      "latitude": "-23.38630000",
+      "longitude": "-48.72441000"
+    },
+    {
+      "id": 13641,
+      "name": "Paranapuã",
+      "latitude": "-20.05940000",
+      "longitude": "-50.59676000"
+    },
+    {
+      "id": 13651,
+      "name": "Parapuã",
+      "latitude": "-21.84482000",
+      "longitude": "-50.83410000"
+    },
+    {
+      "id": 13667,
+      "name": "Pardinho",
+      "latitude": "-23.08987000",
+      "longitude": "-48.38420000"
+    },
+    {
+      "id": 13675,
+      "name": "Pariquera Açu",
+      "latitude": "-24.71500000",
+      "longitude": "-47.88111000"
+    },
+    {
+      "id": 13676,
+      "name": "Pariquera-Açu",
+      "latitude": "-24.66388000",
+      "longitude": "-47.84553000"
+    },
+    {
+      "id": 13677,
+      "name": "Parisi",
+      "latitude": "-20.26554000",
+      "longitude": "-50.03904000"
+    },
+    {
+      "id": 13710,
+      "name": "Patrocínio Paulista",
+      "latitude": "-20.68707000",
+      "longitude": "-47.28437000"
+    },
+    {
+      "id": 13723,
+      "name": "Paulicéia",
+      "latitude": "-21.17172000",
+      "longitude": "-51.75418000"
+    },
+    {
+      "id": 13738,
+      "name": "Paulínia",
+      "latitude": "-22.76111000",
+      "longitude": "-47.15417000"
+    },
+    {
+      "id": 13727,
+      "name": "Paulista Flórida",
+      "latitude": "-21.60000000",
+      "longitude": "-51.20000000"
+    },
+    {
+      "id": 13730,
+      "name": "Paulistânia",
+      "latitude": "-22.57816000",
+      "longitude": "-49.29587000"
+    },
+    {
+      "id": 13737,
+      "name": "Paulo de Faria",
+      "latitude": "-20.09639000",
+      "longitude": "-49.48849000"
+    },
+    {
+      "id": 13744,
+      "name": "Pederneiras",
+      "latitude": "-22.35167000",
+      "longitude": "-48.77500000"
+    },
+    {
+      "id": 13747,
+      "name": "Pedra Bela",
+      "latitude": "-22.76397000",
+      "longitude": "-46.43708000"
+    },
+    {
+      "id": 13761,
+      "name": "Pedranópolis",
+      "latitude": "-20.19986000",
+      "longitude": "-50.08987000"
+    },
+    {
+      "id": 13766,
+      "name": "Pedregulho",
+      "latitude": "-20.25694000",
+      "longitude": "-47.47667000"
+    },
+    {
+      "id": 13767,
+      "name": "Pedreira",
+      "latitude": "-22.74194000",
+      "longitude": "-46.90139000"
+    },
+    {
+      "id": 13770,
+      "name": "Pedrinhas Paulista",
+      "latitude": "-22.80731000",
+      "longitude": "-50.82055000"
+    },
+    {
+      "id": 13784,
+      "name": "Pedro de Toledo",
+      "latitude": "-24.17020000",
+      "longitude": "-47.17239000"
+    },
+    {
+      "id": 13798,
+      "name": "Penápolis",
+      "latitude": "-21.41972000",
+      "longitude": "-50.07750000"
+    },
+    {
+      "id": 13805,
+      "name": "Pereira Barreto",
+      "latitude": "-20.63833000",
+      "longitude": "-51.10917000"
+    },
+    {
+      "id": 13806,
+      "name": "Pereiras",
+      "latitude": "-23.12150000",
+      "longitude": "-47.97614000"
+    },
+    {
+      "id": 13814,
+      "name": "Peruíbe",
+      "latitude": "-24.32000000",
+      "longitude": "-46.99833000"
+    },
+    {
+      "id": 13823,
+      "name": "Piacatu",
+      "latitude": "-21.57301000",
+      "longitude": "-50.65835000"
+    },
+    {
+      "id": 13831,
+      "name": "Piedade",
+      "latitude": "-23.71194000",
+      "longitude": "-47.42778000"
+    },
+    {
+      "id": 13839,
+      "name": "Pilar do Sul",
+      "latitude": "-23.81306000",
+      "longitude": "-47.71639000"
+    },
+    {
+      "id": 13848,
+      "name": "Pindamonhangaba",
+      "latitude": "-22.92389000",
+      "longitude": "-45.46167000"
+    },
+    {
+      "id": 13854,
+      "name": "Pindorama",
+      "latitude": "-21.18583000",
+      "longitude": "-48.90722000"
+    },
+    {
+      "id": 13863,
+      "name": "Pinhalzinho",
+      "latitude": "-22.78213000",
+      "longitude": "-46.57177000"
+    },
+    {
+      "id": 13880,
+      "name": "Piquerobi",
+      "latitude": "-21.84262000",
+      "longitude": "-51.74581000"
+    },
+    {
+      "id": 13882,
+      "name": "Piquete",
+      "latitude": "-22.61361000",
+      "longitude": "-45.17611000"
+    },
+    {
+      "id": 13883,
+      "name": "Piracaia",
+      "latitude": "-23.05389000",
+      "longitude": "-46.35806000"
+    },
+    {
+      "id": 13886,
+      "name": "Piracicaba",
+      "latitude": "-22.71579000",
+      "longitude": "-47.77297000"
+    },
+    {
+      "id": 13888,
+      "name": "Piraju",
+      "latitude": "-23.19361000",
+      "longitude": "-49.38389000"
+    },
+    {
+      "id": 13890,
+      "name": "Pirajuí",
+      "latitude": "-21.99861000",
+      "longitude": "-49.45722000"
+    },
+    {
+      "id": 13893,
+      "name": "Pirangi",
+      "latitude": "-21.08566000",
+      "longitude": "-48.67186000"
+    },
+    {
+      "id": 13901,
+      "name": "Pirapora do Bom Jesus",
+      "latitude": "-23.37201000",
+      "longitude": "-46.97798000"
+    },
+    {
+      "id": 13902,
+      "name": "Pirapozinho",
+      "latitude": "-22.27528000",
+      "longitude": "-51.50000000"
+    },
+    {
+      "id": 13906,
+      "name": "Pirassununga",
+      "latitude": "-21.99611000",
+      "longitude": "-47.42583000"
+    },
+    {
+      "id": 13908,
+      "name": "Piratininga",
+      "latitude": "-22.42279000",
+      "longitude": "-49.19329000"
+    },
+    {
+      "id": 13923,
+      "name": "Pitangueiras",
+      "latitude": "-21.01395000",
+      "longitude": "-48.26197000"
+    },
+    {
+      "id": 13939,
+      "name": "Planalto",
+      "latitude": "-21.00411000",
+      "longitude": "-49.93965000"
+    },
+    {
+      "id": 13944,
+      "name": "Platina",
+      "latitude": "-22.62809000",
+      "longitude": "-50.22211000"
+    },
+    {
+      "id": 14044,
+      "name": "Poá",
+      "latitude": "-23.53459000",
+      "longitude": "-46.34662000"
+    },
+    {
+      "id": 13950,
+      "name": "Poloni",
+      "latitude": "-20.72938000",
+      "longitude": "-49.81550000"
+    },
+    {
+      "id": 13954,
+      "name": "Pompéia",
+      "latitude": "-22.10861000",
+      "longitude": "-50.17167000"
+    },
+    {
+      "id": 13956,
+      "name": "Pongaí",
+      "latitude": "-21.73364000",
+      "longitude": "-49.36396000"
+    },
+    {
+      "id": 13960,
+      "name": "Pontal",
+      "latitude": "-21.02250000",
+      "longitude": "-48.03722000"
+    },
+    {
+      "id": 13964,
+      "name": "Pontalinda",
+      "latitude": "-20.46316000",
+      "longitude": "-50.52208000"
+    },
+    {
+      "id": 13973,
+      "name": "Pontes Gestal",
+      "latitude": "-20.17009000",
+      "longitude": "-49.75902000"
+    },
+    {
+      "id": 13980,
+      "name": "Populina",
+      "latitude": "-19.92212000",
+      "longitude": "-50.51727000"
+    },
+    {
+      "id": 13982,
+      "name": "Porangaba",
+      "latitude": "-23.17583000",
+      "longitude": "-48.12500000"
+    },
+    {
+      "id": 14004,
+      "name": "Porto Feliz",
+      "latitude": "-23.21472000",
+      "longitude": "-47.52389000"
+    },
+    {
+      "id": 14005,
+      "name": "Porto Ferreira",
+      "latitude": "-21.85389000",
+      "longitude": "-47.47917000"
+    },
+    {
+      "id": 14033,
+      "name": "Potim",
+      "latitude": "-22.82497000",
+      "longitude": "-45.30614000"
+    },
+    {
+      "id": 14035,
+      "name": "Potirendaba",
+      "latitude": "-21.10737000",
+      "longitude": "-49.39808000"
+    },
+    {
+      "id": 14057,
+      "name": "Pracinha",
+      "latitude": "-21.84003000",
+      "longitude": "-51.08033000"
+    },
+    {
+      "id": 14062,
+      "name": "Pradópolis",
+      "latitude": "-21.35944000",
+      "longitude": "-48.06556000"
+    },
+    {
+      "id": 14063,
+      "name": "Praia Grande",
+      "latitude": "-24.00583000",
+      "longitude": "-46.40278000"
+    },
+    {
+      "id": 14073,
+      "name": "Pratânia",
+      "latitude": "-22.81737000",
+      "longitude": "-48.68698000"
+    },
+    {
+      "id": 14074,
+      "name": "Presidente Alves",
+      "latitude": "-22.10947000",
+      "longitude": "-49.40588000"
+    },
+    {
+      "id": 14075,
+      "name": "Presidente Bernardes",
+      "latitude": "-22.00611000",
+      "longitude": "-51.55306000"
+    },
+    {
+      "id": 14081,
+      "name": "Presidente Epitácio",
+      "latitude": "-21.76333000",
+      "longitude": "-52.11556000"
+    },
+    {
+      "id": 14095,
+      "name": "Presidente Prudente",
+      "latitude": "-22.12556000",
+      "longitude": "-51.38889000"
+    },
+    {
+      "id": 14099,
+      "name": "Presidente Venceslau",
+      "latitude": "-21.87611000",
+      "longitude": "-51.84389000"
+    },
+    {
+      "id": 14110,
+      "name": "Promissão",
+      "latitude": "-21.53667000",
+      "longitude": "-49.85806000"
+    },
+    {
+      "id": 14125,
+      "name": "Quadra",
+      "latitude": "-23.30027000",
+      "longitude": "-48.04264000"
+    },
+    {
+      "id": 14135,
+      "name": "Quatá",
+      "latitude": "-22.24750000",
+      "longitude": "-50.69833000"
+    },
+    {
+      "id": 14142,
+      "name": "Queiroz",
+      "latitude": "-21.79287000",
+      "longitude": "-50.23587000"
+    },
+    {
+      "id": 14143,
+      "name": "Queluz",
+      "latitude": "-22.51320000",
+      "longitude": "-44.78091000"
+    },
+    {
+      "id": 14151,
+      "name": "Quintana",
+      "latitude": "-22.09720000",
+      "longitude": "-50.37082000"
+    },
+    {
+      "id": 14168,
+      "name": "Rafard",
+      "latitude": "-23.03281000",
+      "longitude": "-47.58676000"
+    },
+    {
+      "id": 14170,
+      "name": "Rancharia",
+      "latitude": "-22.22917000",
+      "longitude": "-50.89306000"
+    },
+    {
+      "id": 14185,
+      "name": "Redenção da Serra",
+      "latitude": "-23.25672000",
+      "longitude": "-45.50200000"
+    },
+    {
+      "id": 14189,
+      "name": "Regente Feijó",
+      "latitude": "-22.22139000",
+      "longitude": "-51.30278000"
+    },
+    {
+      "id": 14190,
+      "name": "Reginópolis",
+      "latitude": "-21.87493000",
+      "longitude": "-49.19025000"
+    },
+    {
+      "id": 14191,
+      "name": "Registro",
+      "latitude": "-24.48750000",
+      "longitude": "-47.84361000"
+    },
+    {
+      "id": 14205,
+      "name": "Restinga",
+      "latitude": "-20.67652000",
+      "longitude": "-47.52058000"
+    },
+    {
+      "id": 14231,
+      "name": "Ribeira",
+      "latitude": "-24.61113000",
+      "longitude": "-49.03616000"
+    },
+    {
+      "id": 14237,
+      "name": "Ribeirão Bonito",
+      "latitude": "-22.06667000",
+      "longitude": "-48.17611000"
+    },
+    {
+      "id": 14238,
+      "name": "Ribeirão Branco",
+      "latitude": "-24.22083000",
+      "longitude": "-48.76556000"
+    },
+    {
+      "id": 14241,
+      "name": "Ribeirão Corrente",
+      "latitude": "-20.44247000",
+      "longitude": "-47.57152000"
+    },
+    {
+      "id": 14250,
+      "name": "Ribeirão do Sul",
+      "latitude": "-22.74112000",
+      "longitude": "-49.94632000"
+    },
+    {
+      "id": 14251,
+      "name": "Ribeirão dos Índios",
+      "latitude": "-21.78470000",
+      "longitude": "-51.57840000"
+    },
+    {
+      "id": 14242,
+      "name": "Ribeirão Grande",
+      "latitude": "-24.17568000",
+      "longitude": "-48.34008000"
+    },
+    {
+      "id": 14243,
+      "name": "Ribeirão Pires",
+      "latitude": "-23.70411000",
+      "longitude": "-46.39991000"
+    },
+    {
+      "id": 14244,
+      "name": "Ribeirão Preto",
+      "latitude": "-21.17750000",
+      "longitude": "-47.81028000"
+    },
+    {
+      "id": 14254,
+      "name": "Rifaina",
+      "latitude": "-20.07816000",
+      "longitude": "-47.43839000"
+    },
+    {
+      "id": 14255,
+      "name": "Rincão",
+      "latitude": "-21.57394000",
+      "longitude": "-47.99687000"
+    },
+    {
+      "id": 14256,
+      "name": "Rinópolis",
+      "latitude": "-21.66311000",
+      "longitude": "-50.72038000"
+    },
+    {
+      "id": 14269,
+      "name": "Rio Claro",
+      "latitude": "-22.41139000",
+      "longitude": "-47.56139000"
+    },
+    {
+      "id": 14307,
+      "name": "Rio das Pedras",
+      "latitude": "-22.84082000",
+      "longitude": "-47.59724000"
+    },
+    {
+      "id": 14277,
+      "name": "Rio Grande da Serra",
+      "latitude": "-23.73345000",
+      "longitude": "-46.37351000"
+    },
+    {
+      "id": 14320,
+      "name": "Riolândia",
+      "latitude": "-19.98083000",
+      "longitude": "-49.68194000"
+    },
+    {
+      "id": 14324,
+      "name": "Riversul",
+      "latitude": "-23.84439000",
+      "longitude": "-49.44354000"
+    },
+    {
+      "id": 14348,
+      "name": "Rosana",
+      "latitude": "-22.49250000",
+      "longitude": "-52.81942000"
+    },
+    {
+      "id": 14349,
+      "name": "Roseira",
+      "latitude": "-22.93295000",
+      "longitude": "-45.29982000"
+    },
+    {
+      "id": 14361,
+      "name": "Rubiácea",
+      "latitude": "-21.36114000",
+      "longitude": "-50.78593000"
+    },
+    {
+      "id": 14360,
+      "name": "Rubinéia",
+      "latitude": "-20.24994000",
+      "longitude": "-51.01836000"
+    },
+    {
+      "id": 14367,
+      "name": "Sabino",
+      "latitude": "-21.47970000",
+      "longitude": "-49.57650000"
+    },
+    {
+      "id": 14374,
+      "name": "Sagres",
+      "latitude": "-21.86529000",
+      "longitude": "-51.00502000"
+    },
+    {
+      "id": 14377,
+      "name": "Sales",
+      "latitude": "-21.33848000",
+      "longitude": "-49.51847000"
+    },
+    {
+      "id": 14378,
+      "name": "Sales Oliveira",
+      "latitude": "-20.83364000",
+      "longitude": "-47.84079000"
+    },
+    {
+      "id": 14379,
+      "name": "Salesópolis",
+      "latitude": "-23.58753000",
+      "longitude": "-45.84743000"
+    },
+    {
+      "id": 14391,
+      "name": "Salmourão",
+      "latitude": "-21.58291000",
+      "longitude": "-50.87491000"
+    },
+    {
+      "id": 14393,
+      "name": "Saltinho",
+      "latitude": "-22.86275000",
+      "longitude": "-47.72668000"
+    },
+    {
+      "id": 14395,
+      "name": "Salto",
+      "latitude": "-23.20083000",
+      "longitude": "-47.28694000"
+    },
+    {
+      "id": 14399,
+      "name": "Salto de Pirapora",
+      "latitude": "-23.64889000",
+      "longitude": "-47.57333000"
+    },
+    {
+      "id": 14396,
+      "name": "Salto Grande",
+      "latitude": "-22.87363000",
+      "longitude": "-49.96190000"
+    },
+    {
+      "id": 14413,
+      "name": "Sandovalina",
+      "latitude": "-22.45478000",
+      "longitude": "-51.85322000"
+    },
+    {
+      "id": 14417,
+      "name": "Santa Adélia",
+      "latitude": "-21.24278000",
+      "longitude": "-48.80417000"
+    },
+    {
+      "id": 14418,
+      "name": "Santa Albertina",
+      "latitude": "-20.03496000",
+      "longitude": "-50.71776000"
+    },
+    {
+      "id": 14424,
+      "name": "Santa Bárbara d'Oeste",
+      "latitude": "-22.75361000",
+      "longitude": "-47.41361000"
+    },
+    {
+      "id": 14420,
+      "name": "Santa Branca",
+      "latitude": "-23.39667000",
+      "longitude": "-45.88389000"
+    },
+    {
+      "id": 14436,
+      "name": "Santa Clara d'Oeste",
+      "latitude": "-20.07534000",
+      "longitude": "-50.89870000"
+    },
+    {
+      "id": 14443,
+      "name": "Santa Cruz da Conceição",
+      "latitude": "-22.12608000",
+      "longitude": "-47.49276000"
+    },
+    {
+      "id": 14444,
+      "name": "Santa Cruz da Esperança",
+      "latitude": "-21.26170000",
+      "longitude": "-47.44749000"
+    },
+    {
+      "id": 14446,
+      "name": "Santa Cruz das Palmeiras",
+      "latitude": "-21.82694000",
+      "longitude": "-47.24861000"
+    },
+    {
+      "id": 14455,
+      "name": "Santa Cruz do Rio Pardo",
+      "latitude": "-22.89889000",
+      "longitude": "-49.63250000"
+    },
+    {
+      "id": 14460,
+      "name": "Santa Ernestina",
+      "latitude": "-21.45303000",
+      "longitude": "-48.37797000"
+    },
+    {
+      "id": 14468,
+      "name": "Santa Fé do Sul",
+      "latitude": "-20.21111000",
+      "longitude": "-50.92583000"
+    },
+    {
+      "id": 14469,
+      "name": "Santa Gertrudes",
+      "latitude": "-22.45667000",
+      "longitude": "-47.53028000"
+    },
+    {
+      "id": 14480,
+      "name": "Santa Isabel",
+      "latitude": "-23.29440000",
+      "longitude": "-46.24151000"
+    },
+    {
+      "id": 14498,
+      "name": "Santa Lúcia",
+      "latitude": "-21.66472000",
+      "longitude": "-48.08283000"
+    },
+    {
+      "id": 14506,
+      "name": "Santa Maria da Serra",
+      "latitude": "-22.53752000",
+      "longitude": "-48.14455000"
+    },
+    {
+      "id": 14519,
+      "name": "Santa Mercedes",
+      "latitude": "-21.31829000",
+      "longitude": "-51.74637000"
+    },
+    {
+      "id": 14526,
+      "name": "Santa Rita d'Oeste",
+      "latitude": "-20.08064000",
+      "longitude": "-50.81371000"
+    },
+    {
+      "id": 14536,
+      "name": "Santa Rita do Passa Quatro",
+      "latitude": "-21.71028000",
+      "longitude": "-47.47806000"
+    },
+    {
+      "id": 14545,
+      "name": "Santa Rosa de Viterbo",
+      "latitude": "-21.47278000",
+      "longitude": "-47.36306000"
+    },
+    {
+      "id": 14550,
+      "name": "Santa Salete",
+      "latitude": "-20.27360000",
+      "longitude": "-50.72826000"
+    },
+    {
+      "id": 14571,
+      "name": "Santana da Ponte Pensa",
+      "latitude": "-20.25649000",
+      "longitude": "-50.79852000"
+    },
+    {
+      "id": 14575,
+      "name": "Santana de Parnaíba",
+      "latitude": "-23.44417000",
+      "longitude": "-46.91778000"
+    },
+    {
+      "id": 14607,
+      "name": "Santo Anastácio",
+      "latitude": "-22.01522000",
+      "longitude": "-51.70097000"
+    },
+    {
+      "id": 14609,
+      "name": "Santo André",
+      "latitude": "-23.71057000",
+      "longitude": "-46.50460000"
+    },
+    {
+      "id": 14611,
+      "name": "Santo Antônio da Alegria",
+      "latitude": "-21.09238000",
+      "longitude": "-47.20360000"
+    },
+    {
+      "id": 14619,
+      "name": "Santo Antônio de Posse",
+      "latitude": "-22.60611000",
+      "longitude": "-46.91944000"
+    },
+    {
+      "id": 14622,
+      "name": "Santo Antônio do Aracanguá",
+      "latitude": "-20.85619000",
+      "longitude": "-50.53106000"
+    },
+    {
+      "id": 14630,
+      "name": "Santo Antônio do Jardim",
+      "latitude": "-22.12625000",
+      "longitude": "-46.67237000"
+    },
+    {
+      "id": 14636,
+      "name": "Santo Antônio do Pinhal",
+      "latitude": "-22.82143000",
+      "longitude": "-45.69968000"
+    },
+    {
+      "id": 14647,
+      "name": "Santo Expedito",
+      "latitude": "-21.82978000",
+      "longitude": "-51.36993000"
+    },
+    {
+      "id": 14655,
+      "name": "Santópolis do Aguapeí",
+      "latitude": "-21.67058000",
+      "longitude": "-50.52029000"
+    },
+    {
+      "id": 14653,
+      "name": "Santos",
+      "latitude": "-23.85663000",
+      "longitude": "-46.27055000"
+    },
+    {
+      "id": 14839,
+      "name": "São Bento do Sapucaí",
+      "latitude": "-22.67091000",
+      "longitude": "-45.68394000"
+    },
+    {
+      "id": 14846,
+      "name": "São Bernardo do Campo",
+      "latitude": "-23.69389000",
+      "longitude": "-46.56500000"
+    },
+    {
+      "id": 14853,
+      "name": "São Caetano do Sul",
+      "latitude": "-23.62429000",
+      "longitude": "-46.56241000"
+    },
+    {
+      "id": 14855,
+      "name": "São Carlos",
+      "latitude": "-22.01750000",
+      "longitude": "-47.89083000"
+    },
+    {
+      "id": 14881,
+      "name": "São Francisco",
+      "latitude": "-20.36457000",
+      "longitude": "-50.67463000"
+    },
+    {
+      "id": 15007,
+      "name": "São João da Boa Vista",
+      "latitude": "-21.96917000",
+      "longitude": "-46.79806000"
+    },
+    {
+      "id": 15018,
+      "name": "São João das Duas Pontes",
+      "latitude": "-20.41912000",
+      "longitude": "-50.38960000"
+    },
+    {
+      "id": 15020,
+      "name": "São João de Iracema",
+      "latitude": "-20.51199000",
+      "longitude": "-50.36102000"
+    },
+    {
+      "id": 15039,
+      "name": "São João do Pau d'Alho",
+      "latitude": "-21.20519000",
+      "longitude": "-51.66857000"
+    },
+    {
+      "id": 14931,
+      "name": "São Joaquim da Barra",
+      "latitude": "-20.58139000",
+      "longitude": "-47.85472000"
+    },
+    {
+      "id": 14940,
+      "name": "São José da Bela Vista",
+      "latitude": "-20.59934000",
+      "longitude": "-47.62940000"
+    },
+    {
+      "id": 14960,
+      "name": "São José do Barreiro",
+      "latitude": "-22.73717000",
+      "longitude": "-44.58545000"
+    },
+    {
+      "id": 14984,
+      "name": "São José do Rio Pardo",
+      "latitude": "-21.59556000",
+      "longitude": "-46.88861000"
+    },
+    {
+      "id": 14985,
+      "name": "São José do Rio Preto",
+      "latitude": "-20.81972000",
+      "longitude": "-49.37944000"
+    },
+    {
+      "id": 14993,
+      "name": "São José dos Campos",
+      "latitude": "-23.17944000",
+      "longitude": "-45.88694000"
+    },
+    {
+      "id": 15054,
+      "name": "São Lourenço da Serra",
+      "latitude": "-23.84783000",
+      "longitude": "-46.93930000"
+    },
+    {
+      "id": 15062,
+      "name": "São Luiz do Paraitinga",
+      "latitude": "-23.26061000",
+      "longitude": "-45.22724000"
+    },
+    {
+      "id": 15070,
+      "name": "São Manuel",
+      "latitude": "-22.73111000",
+      "longitude": "-48.57056000"
+    },
+    {
+      "id": 15079,
+      "name": "São Miguel Arcanjo",
+      "latitude": "-23.93766000",
+      "longitude": "-47.99988000"
+    },
+    {
+      "id": 15101,
+      "name": "São Paulo",
+      "latitude": "-23.54750000",
+      "longitude": "-46.63611000"
+    },
+    {
+      "id": 15106,
+      "name": "São Pedro",
+      "latitude": "-22.55963000",
+      "longitude": "-47.90443000"
+    },
+    {
+      "id": 15122,
+      "name": "São Pedro do Turvo",
+      "latitude": "-22.69638000",
+      "longitude": "-49.74295000"
+    },
+    {
+      "id": 15131,
+      "name": "São Roque",
+      "latitude": "-23.54011000",
+      "longitude": "-47.11280000"
+    },
+    {
+      "id": 15135,
+      "name": "São Sebastião",
+      "latitude": "-23.76000000",
+      "longitude": "-45.40972000"
+    },
+    {
+      "id": 15140,
+      "name": "São Sebastião da Grama",
+      "latitude": "-21.74730000",
+      "longitude": "-46.75934000"
+    },
+    {
+      "id": 15156,
+      "name": "São Simão",
+      "latitude": "-21.47917000",
+      "longitude": "-47.55083000"
+    },
+    {
+      "id": 15168,
+      "name": "São Vicente",
+      "latitude": "-23.96506000",
+      "longitude": "-46.49683000"
+    },
+    {
+      "id": 14669,
+      "name": "Sarapuí",
+      "latitude": "-23.65898000",
+      "longitude": "-47.77095000"
+    },
+    {
+      "id": 14671,
+      "name": "Sarutaiá",
+      "latitude": "-23.25823000",
+      "longitude": "-49.48372000"
+    },
+    {
+      "id": 14682,
+      "name": "Sebastianópolis do Sul",
+      "latitude": "-20.61558000",
+      "longitude": "-49.90753000"
+    },
+    {
+      "id": 14723,
+      "name": "Serra Azul",
+      "latitude": "-21.28755000",
+      "longitude": "-47.53885000"
+    },
+    {
+      "id": 14729,
+      "name": "Serra Negra",
+      "latitude": "-22.61222000",
+      "longitude": "-46.70056000"
+    },
+    {
+      "id": 14743,
+      "name": "Serrana",
+      "latitude": "-21.21139000",
+      "longitude": "-47.59556000"
+    },
+    {
+      "id": 14762,
+      "name": "Sertãozinho",
+      "latitude": "-21.13778000",
+      "longitude": "-47.99028000"
+    },
+    {
+      "id": 14764,
+      "name": "Sete Barras",
+      "latitude": "-24.27723000",
+      "longitude": "-47.95013000"
+    },
+    {
+      "id": 14771,
+      "name": "Severínia",
+      "latitude": "-20.78066000",
+      "longitude": "-48.79037000"
+    },
+    {
+      "id": 14778,
+      "name": "Silveiras",
+      "latitude": "-22.73649000",
+      "longitude": "-44.84778000"
+    },
+    {
+      "id": 14800,
+      "name": "Socorro",
+      "latitude": "-22.59139000",
+      "longitude": "-46.52889000"
+    },
+    {
+      "id": 14811,
+      "name": "Sorocaba",
+      "latitude": "-23.50167000",
+      "longitude": "-47.45806000"
+    },
+    {
+      "id": 14820,
+      "name": "Sud Mennucci",
+      "latitude": "-20.61860000",
+      "longitude": "-50.88011000"
+    },
+    {
+      "id": 14823,
+      "name": "Sumaré",
+      "latitude": "-22.82194000",
+      "longitude": "-47.26694000"
+    },
+    {
+      "id": 14829,
+      "name": "Suzanápolis",
+      "latitude": "-20.51030000",
+      "longitude": "-51.07079000"
+    },
+    {
+      "id": 14828,
+      "name": "Suzano",
+      "latitude": "-23.54250000",
+      "longitude": "-46.31083000"
+    },
+    {
+      "id": 15183,
+      "name": "Tabapuã",
+      "latitude": "-20.92377000",
+      "longitude": "-49.02475000"
+    },
+    {
+      "id": 15185,
+      "name": "Tabatinga",
+      "latitude": "-21.74210000",
+      "longitude": "-48.64589000"
+    },
+    {
+      "id": 15190,
+      "name": "Taboão da Serra",
+      "latitude": "-23.62611000",
+      "longitude": "-46.79167000"
+    },
+    {
+      "id": 15195,
+      "name": "Taciba",
+      "latitude": "-22.49676000",
+      "longitude": "-51.33241000"
+    },
+    {
+      "id": 15199,
+      "name": "Taguaí",
+      "latitude": "-23.48512000",
+      "longitude": "-49.40781000"
+    },
+    {
+      "id": 15200,
+      "name": "Taiaçu",
+      "latitude": "-21.13217000",
+      "longitude": "-48.53092000"
+    },
+    {
+      "id": 15206,
+      "name": "Taiúva",
+      "latitude": "-21.12737000",
+      "longitude": "-48.42696000"
+    },
+    {
+      "id": 15210,
+      "name": "Tambaú",
+      "latitude": "-21.58688000",
+      "longitude": "-47.22761000"
+    },
+    {
+      "id": 15214,
+      "name": "Tanabi",
+      "latitude": "-20.50212000",
+      "longitude": "-49.64584000"
+    },
+    {
+      "id": 15238,
+      "name": "Tapiraí",
+      "latitude": "-24.01487000",
+      "longitude": "-47.62583000"
+    },
+    {
+      "id": 15236,
+      "name": "Tapiratiba",
+      "latitude": "-21.44656000",
+      "longitude": "-46.73214000"
+    },
+    {
+      "id": 15241,
+      "name": "Taquaral",
+      "latitude": "-21.06760000",
+      "longitude": "-48.39336000"
+    },
+    {
+      "id": 15246,
+      "name": "Taquaritinga",
+      "latitude": "-21.43270000",
+      "longitude": "-48.54735000"
+    },
+    {
+      "id": 15248,
+      "name": "Taquarituba",
+      "latitude": "-23.52998000",
+      "longitude": "-49.21441000"
+    },
+    {
+      "id": 15249,
+      "name": "Taquarivaí",
+      "latitude": "-23.95095000",
+      "longitude": "-48.67524000"
+    },
+    {
+      "id": 15252,
+      "name": "Tarabai",
+      "latitude": "-22.35043000",
+      "longitude": "-51.62019000"
+    },
+    {
+      "id": 15257,
+      "name": "Tarumã",
+      "latitude": "-22.76111000",
+      "longitude": "-50.60332000"
+    },
+    {
+      "id": 15259,
+      "name": "Tatuí",
+      "latitude": "-23.35556000",
+      "longitude": "-47.85694000"
+    },
+    {
+      "id": 15260,
+      "name": "Taubaté",
+      "latitude": "-23.02639000",
+      "longitude": "-45.55528000"
+    },
+    {
+      "id": 15270,
+      "name": "Tejupá",
+      "latitude": "-23.35231000",
+      "longitude": "-49.30721000"
+    },
+    {
+      "id": 15279,
+      "name": "Teodoro Sampaio",
+      "latitude": "-22.41617000",
+      "longitude": "-52.36402000"
+    },
+    {
+      "id": 15296,
+      "name": "Terra Roxa",
+      "latitude": "-20.76175000",
+      "longitude": "-48.36899000"
+    },
+    {
+      "id": 15307,
+      "name": "Tietê",
+      "latitude": "-23.04197000",
+      "longitude": "-47.71430000"
+    },
+    {
+      "id": 15314,
+      "name": "Timburi",
+      "latitude": "-23.19265000",
+      "longitude": "-49.61224000"
+    },
+    {
+      "id": 15340,
+      "name": "Torre de Pedra",
+      "latitude": "-23.24640000",
+      "longitude": "-48.21328000"
+    },
+    {
+      "id": 15342,
+      "name": "Torrinha",
+      "latitude": "-22.47144000",
+      "longitude": "-48.15338000"
+    },
+    {
+      "id": 15344,
+      "name": "Trabiju",
+      "latitude": "-22.03023000",
+      "longitude": "-48.36861000"
+    },
+    {
+      "id": 15354,
+      "name": "Tremembé",
+      "latitude": "-22.92410000",
+      "longitude": "-45.61503000"
+    },
+    {
+      "id": 15376,
+      "name": "Três Fronteiras",
+      "latitude": "-20.29093000",
+      "longitude": "-50.87027000"
+    },
+    {
+      "id": 15391,
+      "name": "Tuiuti",
+      "latitude": "-22.84505000",
+      "longitude": "-46.69618000"
+    },
+    {
+      "id": 15408,
+      "name": "Tupã",
+      "latitude": "-21.95443000",
+      "longitude": "-50.53493000"
+    },
+    {
+      "id": 15405,
+      "name": "Tupi Paulista",
+      "latitude": "-21.38916000",
+      "longitude": "-51.58294000"
+    },
+    {
+      "id": 15412,
+      "name": "Turiúba",
+      "latitude": "-20.94735000",
+      "longitude": "-50.09803000"
+    },
+    {
+      "id": 15414,
+      "name": "Turmalina",
+      "latitude": "-20.05953000",
+      "longitude": "-50.45595000"
+    },
+    {
+      "id": 15428,
+      "name": "Ubarana",
+      "latitude": "-21.22036000",
+      "longitude": "-49.72981000"
+    },
+    {
+      "id": 15429,
+      "name": "Ubatuba",
+      "latitude": "-23.43389000",
+      "longitude": "-45.07111000"
+    },
+    {
+      "id": 15435,
+      "name": "Ubirajara",
+      "latitude": "-22.55131000",
+      "longitude": "-49.66278000"
+    },
+    {
+      "id": 15439,
+      "name": "Uchoa",
+      "latitude": "-20.91850000",
+      "longitude": "-49.13654000"
+    },
+    {
+      "id": 15457,
+      "name": "União Paulista",
+      "latitude": "-20.88795000",
+      "longitude": "-49.89135000"
+    },
+    {
+      "id": 15488,
+      "name": "Urânia",
+      "latitude": "-20.20908000",
+      "longitude": "-50.66093000"
+    },
+    {
+      "id": 15468,
+      "name": "Uru",
+      "latitude": "-21.76519000",
+      "longitude": "-49.29720000"
+    },
+    {
+      "id": 15483,
+      "name": "Urupês",
+      "latitude": "-21.18413000",
+      "longitude": "-49.28069000"
+    },
+    {
+      "id": 15498,
+      "name": "Valentim Gentil",
+      "latitude": "-20.43138000",
+      "longitude": "-50.12129000"
+    },
+    {
+      "id": 15502,
+      "name": "Valinhos",
+      "latitude": "-22.97056000",
+      "longitude": "-46.99583000"
+    },
+    {
+      "id": 15503,
+      "name": "Valparaíso",
+      "latitude": "-21.21512000",
+      "longitude": "-50.94698000"
+    },
+    {
+      "id": 15506,
+      "name": "Vargem",
+      "latitude": "-22.89117000",
+      "longitude": "-46.41556000"
+    },
+    {
+      "id": 15515,
+      "name": "Vargem Grande do Sul",
+      "latitude": "-21.87152000",
+      "longitude": "-46.89073000"
+    },
+    {
+      "id": 15513,
+      "name": "Vargem Grande Paulista",
+      "latitude": "-23.62856000",
+      "longitude": "-47.01914000"
+    },
+    {
+      "id": 15620,
+      "name": "Várzea Paulista",
+      "latitude": "-23.21139000",
+      "longitude": "-46.82833000"
+    },
+    {
+      "id": 15535,
+      "name": "Vera Cruz",
+      "latitude": "-22.23340000",
+      "longitude": "-49.83281000"
+    },
+    {
+      "id": 15580,
+      "name": "Vinhedo",
+      "latitude": "-23.05397000",
+      "longitude": "-46.98135000"
+    },
+    {
+      "id": 15581,
+      "name": "Viradouro",
+      "latitude": "-20.87625000",
+      "longitude": "-48.31479000"
+    },
+    {
+      "id": 15590,
+      "name": "Vista Alegre do Alto",
+      "latitude": "-21.18019000",
+      "longitude": "-48.65482000"
+    },
+    {
+      "id": 15598,
+      "name": "Vitória Brasil",
+      "latitude": "-20.19354000",
+      "longitude": "-50.47940000"
+    },
+    {
+      "id": 15611,
+      "name": "Votorantim",
+      "latitude": "-23.54667000",
+      "longitude": "-47.43778000"
+    },
+    {
+      "id": 15612,
+      "name": "Votuporanga",
+      "latitude": "-20.48010000",
+      "longitude": "-50.01266000"
+    },
+    {
+      "id": 15645,
+      "name": "Zacarias",
+      "latitude": "-21.11651000",
+      "longitude": "-50.06154000"
+    }
+  ],
+  "country": {
+    "id": 31,
+    "name": "Brazil",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "numeric_code": "076",
+    "phone_code": "55",
+    "capital": "Brasilia",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "native": "Brasil",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "translations": {
+      "kr": "브라질",
+      "pt-BR": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "cn": "巴西",
+      "tr": "Brezilya"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  }
+}

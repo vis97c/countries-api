@@ -1,0 +1,66 @@
+{
+  "id": 4852,
+  "name": "Ladakh",
+  "state_code": "LA",
+  "latitude": "34.22684750",
+  "longitude": "77.56194190",
+  "type": "Union territory",
+  "cities": [
+    {
+      "id": 132399,
+      "name": "Kargil",
+      "latitude": "34.55765000",
+      "longitude": "76.12622000"
+    },
+    {
+      "id": 132762,
+      "name": "Leh",
+      "latitude": "34.16504000",
+      "longitude": "77.58402000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

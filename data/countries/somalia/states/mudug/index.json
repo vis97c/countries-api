@@ -1,0 +1,72 @@
+{
+  "id": 916,
+  "name": "Mudug",
+  "state_code": "MU",
+  "latitude": "6.56567260",
+  "longitude": "47.76375650",
+  "type": null,
+  "cities": [
+    {
+      "id": 104796,
+      "name": "Gaalkacyo",
+      "latitude": "6.76972000",
+      "longitude": "47.43083000"
+    },
+    {
+      "id": 104799,
+      "name": "Hobyo",
+      "latitude": "5.35050000",
+      "longitude": "48.52680000"
+    },
+    {
+      "id": 104818,
+      "name": "Xarardheere",
+      "latitude": "4.65440000",
+      "longitude": "47.85750000"
+    }
+  ],
+  "country": {
+    "id": 203,
+    "name": "Somalia",
+    "iso3": "SOM",
+    "iso2": "SO",
+    "numeric_code": "706",
+    "phone_code": "252",
+    "capital": "Mogadishu",
+    "currency": "SOS",
+    "currency_name": "Somali shilling",
+    "currency_symbol": "Sh.so.",
+    "tld": ".so",
+    "native": "Soomaaliya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mogadishu",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "소말리아",
+      "pt-BR": "Somália",
+      "pt": "Somália",
+      "nl": "Somalië",
+      "hr": "Somalija",
+      "fa": "سومالی",
+      "de": "Somalia",
+      "es": "Somalia",
+      "fr": "Somalie",
+      "ja": "ソマリア",
+      "it": "Somalia",
+      "cn": "索马里",
+      "tr": "Somali"
+    },
+    "latitude": "10.00000000",
+    "longitude": "49.00000000",
+    "emoji": "🇸🇴",
+    "emojiU": "U+1F1F8 U+1F1F4"
+  }
+}

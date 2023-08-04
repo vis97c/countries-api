@@ -1,0 +1,72 @@
+{
+  "id": 3589,
+  "name": "Mandoul",
+  "state_code": "MA",
+  "latitude": "8.60309100",
+  "longitude": "17.47951730",
+  "type": "province",
+  "cities": [
+    {
+      "id": 105134,
+      "name": "Goundi",
+      "latitude": "9.36267000",
+      "longitude": "17.36597000"
+    },
+    {
+      "id": 105141,
+      "name": "Koumra",
+      "latitude": "8.91256000",
+      "longitude": "17.55392000"
+    },
+    {
+      "id": 105153,
+      "name": "Moïssala",
+      "latitude": "8.34040000",
+      "longitude": "17.76630000"
+    }
+  ],
+  "country": {
+    "id": 43,
+    "name": "Chad",
+    "iso3": "TCD",
+    "iso2": "TD",
+    "numeric_code": "148",
+    "phone_code": "235",
+    "capital": "N'Djamena",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "native": "Tchad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "차드",
+      "pt-BR": "Chade",
+      "pt": "Chade",
+      "nl": "Tsjaad",
+      "hr": "Čad",
+      "fa": "چاد",
+      "de": "Tschad",
+      "es": "Chad",
+      "fr": "Tchad",
+      "ja": "チャド",
+      "it": "Ciad",
+      "cn": "乍得",
+      "tr": "Çad"
+    },
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  }
+}

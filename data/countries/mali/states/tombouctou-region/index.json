@@ -1,0 +1,96 @@
+{
+  "id": 248,
+  "name": "Tombouctou Region",
+  "state_code": "6",
+  "latitude": "21.05267060",
+  "longitude": "-3.74350900",
+  "type": null,
+  "cities": [
+    {
+      "id": 67585,
+      "name": "Araouane",
+      "latitude": "18.90476000",
+      "longitude": "-3.52649000"
+    },
+    {
+      "id": 67593,
+      "name": "Cercle de Goundam",
+      "latitude": "18.60035000",
+      "longitude": "-4.99306000"
+    },
+    {
+      "id": 67596,
+      "name": "Dire",
+      "latitude": "16.28017000",
+      "longitude": "-3.31302000"
+    },
+    {
+      "id": 67603,
+      "name": "Goundam",
+      "latitude": "16.41453000",
+      "longitude": "-3.67075000"
+    },
+    {
+      "id": 67604,
+      "name": "Gourma-Rharous Cercle",
+      "latitude": "16.07979000",
+      "longitude": "-1.76981000"
+    },
+    {
+      "id": 67621,
+      "name": "Niafunké",
+      "latitude": "15.93220000",
+      "longitude": "-3.99060000"
+    },
+    {
+      "id": 67628,
+      "name": "Timbuktu",
+      "latitude": "16.77348000",
+      "longitude": "-3.00742000"
+    }
+  ],
+  "country": {
+    "id": 134,
+    "name": "Mali",
+    "iso3": "MLI",
+    "iso2": "ML",
+    "numeric_code": "466",
+    "phone_code": "223",
+    "capital": "Bamako",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ml",
+    "native": "Mali",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bamako",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "말리",
+      "pt-BR": "Mali",
+      "pt": "Mali",
+      "nl": "Mali",
+      "hr": "Mali",
+      "fa": "مالی",
+      "de": "Mali",
+      "es": "Mali",
+      "fr": "Mali",
+      "ja": "マリ",
+      "it": "Mali",
+      "cn": "马里",
+      "tr": "Mali"
+    },
+    "latitude": "17.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇲🇱",
+    "emojiU": "U+1F1F2 U+1F1F1"
+  }
+}

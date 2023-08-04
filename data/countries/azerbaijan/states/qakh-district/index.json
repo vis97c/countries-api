@@ -1,0 +1,78 @@
+{
+  "id": 526,
+  "name": "Qakh District",
+  "state_code": "QAX",
+  "latitude": "41.42068270",
+  "longitude": "46.93201840",
+  "type": null,
+  "cities": [
+    {
+      "id": 8208,
+      "name": "Çinarlı",
+      "latitude": "41.46965000",
+      "longitude": "46.91582000"
+    },
+    {
+      "id": 8144,
+      "name": "Qax",
+      "latitude": "41.41826000",
+      "longitude": "46.92043000"
+    },
+    {
+      "id": 8145,
+      "name": "Qax İngiloy",
+      "latitude": "41.42412000",
+      "longitude": "46.93859000"
+    },
+    {
+      "id": 8146,
+      "name": "Qaxbaş",
+      "latitude": "41.43254000",
+      "longitude": "46.96460000"
+    }
+  ],
+  "country": {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "numeric_code": "031",
+    "phone_code": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "native": "Azərbaycan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아제르바이잔",
+      "pt-BR": "Azerbaijão",
+      "pt": "Azerbaijão",
+      "nl": "Azerbeidzjan",
+      "hr": "Azerbajdžan",
+      "fa": "آذربایجان",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "ja": "アゼルバイジャン",
+      "it": "Azerbaijan",
+      "cn": "阿塞拜疆",
+      "tr": "Azerbaycan"
+    },
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  }
+}

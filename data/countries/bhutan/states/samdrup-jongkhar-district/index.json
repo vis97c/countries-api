@@ -1,0 +1,60 @@
+{
+  "id": 243,
+  "name": "Samdrup Jongkhar District",
+  "state_code": "45",
+  "latitude": "26.80356820",
+  "longitude": "91.50392070",
+  "type": null,
+  "cities": [
+    {
+      "id": 15718,
+      "name": "Samdrup Jongkhar",
+      "latitude": "26.80069000",
+      "longitude": "91.50519000"
+    }
+  ],
+  "country": {
+    "id": 26,
+    "name": "Bhutan",
+    "iso3": "BTN",
+    "iso2": "BT",
+    "numeric_code": "064",
+    "phone_code": "975",
+    "capital": "Thimphu",
+    "currency": "BTN",
+    "currency_name": "Bhutanese ngultrum",
+    "currency_symbol": "Nu.",
+    "tld": ".bt",
+    "native": "ʼbrug-yul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Thimphu",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BTT",
+        "tzName": "Bhutan Time"
+      }
+    ],
+    "translations": {
+      "kr": "부탄",
+      "pt-BR": "Butão",
+      "pt": "Butão",
+      "nl": "Bhutan",
+      "hr": "Butan",
+      "fa": "بوتان",
+      "de": "Bhutan",
+      "es": "Bután",
+      "fr": "Bhoutan",
+      "ja": "ブータン",
+      "it": "Bhutan",
+      "cn": "不丹",
+      "tr": "Butan"
+    },
+    "latitude": "27.50000000",
+    "longitude": "90.50000000",
+    "emoji": "🇧🇹",
+    "emojiU": "U+1F1E7 U+1F1F9"
+  }
+}

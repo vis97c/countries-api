@@ -1,0 +1,147 @@
+{
+  "id": 1820,
+  "name": "Kepulauan Bangka Belitung",
+  "state_code": "BB",
+  "latitude": "-2.74105130",
+  "longitude": "106.44058720",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56329,
+      "name": "Kabupaten Bangka",
+      "latitude": "-1.91667000",
+      "longitude": "105.93333000"
+    },
+    {
+      "id": 56330,
+      "name": "Kabupaten Bangka Barat",
+      "latitude": "-1.95839000",
+      "longitude": "105.53741000"
+    },
+    {
+      "id": 56331,
+      "name": "Kabupaten Bangka Selatan",
+      "latitude": "-2.66803000",
+      "longitude": "106.01257000"
+    },
+    {
+      "id": 56332,
+      "name": "Kabupaten Bangka Tengah",
+      "latitude": "-2.33989000",
+      "longitude": "106.11420000"
+    },
+    {
+      "id": 56350,
+      "name": "Kabupaten Belitung",
+      "latitude": "-2.86667000",
+      "longitude": "107.70000000"
+    },
+    {
+      "id": 56351,
+      "name": "Kabupaten Belitung Timur",
+      "latitude": "-2.96270000",
+      "longitude": "108.15216000"
+    },
+    {
+      "id": 56781,
+      "name": "Kota Pangkal Pinang",
+      "latitude": "-2.13333000",
+      "longitude": "106.13333000"
+    },
+    {
+      "id": 56859,
+      "name": "Manggar",
+      "latitude": "-2.88333000",
+      "longitude": "108.26667000"
+    },
+    {
+      "id": 56881,
+      "name": "Muntok",
+      "latitude": "-2.06719000",
+      "longitude": "105.16228000"
+    },
+    {
+      "id": 56912,
+      "name": "Pangkalpinang",
+      "latitude": "-2.12914000",
+      "longitude": "106.11377000"
+    },
+    {
+      "id": 57009,
+      "name": "Sungailiat",
+      "latitude": "-1.85442000",
+      "longitude": "106.12215000"
+    },
+    {
+      "id": 57017,
+      "name": "Tanjung Pandan",
+      "latitude": "-2.73353000",
+      "longitude": "107.63477000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

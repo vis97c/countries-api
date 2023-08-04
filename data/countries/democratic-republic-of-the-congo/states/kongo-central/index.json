@@ -1,0 +1,97 @@
+{
+  "id": 2746,
+  "name": "Kongo Central",
+  "state_code": "BC",
+  "latitude": "-5.23656850",
+  "longitude": "13.91439900",
+  "type": null,
+  "cities": [
+    {
+      "id": 17231,
+      "name": "Boma",
+      "latitude": "-5.85098000",
+      "longitude": "13.05364000"
+    },
+    {
+      "id": 17258,
+      "name": "Kasangulu",
+      "latitude": "-4.58330000",
+      "longitude": "15.16554000"
+    },
+    {
+      "id": 17278,
+      "name": "Matadi",
+      "latitude": "-5.83861000",
+      "longitude": "13.46306000"
+    },
+    {
+      "id": 17280,
+      "name": "Mbanza-Ngungu",
+      "latitude": "-5.25837000",
+      "longitude": "14.85838000"
+    },
+    {
+      "id": 17282,
+      "name": "Moanda",
+      "latitude": "-5.92753000",
+      "longitude": "12.37148000"
+    },
+    {
+      "id": 17288,
+      "name": "Tshela",
+      "latitude": "-4.99707000",
+      "longitude": "12.94840000"
+    }
+  ],
+  "country": {
+    "id": 51,
+    "name": "Democratic Republic of the Congo",
+    "iso3": "COD",
+    "iso2": "CD",
+    "numeric_code": "180",
+    "phone_code": "243",
+    "capital": "Kinshasa",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "native": "République démocratique du Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "콩고 민주 공화국",
+      "pt-BR": "RD Congo",
+      "pt": "RD Congo",
+      "nl": "Congo [DRC]",
+      "hr": "Kongo, Demokratska Republika",
+      "fa": "جمهوری کنگو",
+      "de": "Kongo (Dem. Rep.)",
+      "es": "Congo (Rep. Dem.)",
+      "fr": "Congo (Rép. dém.)",
+      "ja": "コンゴ民主共和国",
+      "it": "Congo (Rep. Dem.)",
+      "cn": "刚果（金）",
+      "tr": "Kongo Demokratik Cumhuriyeti"
+    },
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  }
+}

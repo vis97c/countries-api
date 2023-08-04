@@ -1,0 +1,582 @@
+{
+  "id": 4012,
+  "name": "Telangana",
+  "state_code": "TG",
+  "latitude": "18.11243720",
+  "longitude": "79.01929970",
+  "type": "state",
+  "cities": [
+    {
+      "id": 134451,
+      "name": "Adilabad",
+      "latitude": "19.50000000",
+      "longitude": "78.50000000"
+    },
+    {
+      "id": 134454,
+      "name": "Alampur",
+      "latitude": "15.87987000",
+      "longitude": "78.13352000"
+    },
+    {
+      "id": 57701,
+      "name": "Andol",
+      "latitude": "17.81458000",
+      "longitude": "78.07713000"
+    },
+    {
+      "id": 57754,
+      "name": "Asifabad",
+      "latitude": "19.35851000",
+      "longitude": "79.28415000"
+    },
+    {
+      "id": 58120,
+      "name": "Balapur",
+      "latitude": "17.31018000",
+      "longitude": "78.49969000"
+    },
+    {
+      "id": 58133,
+      "name": "Banswada",
+      "latitude": "18.37725000",
+      "longitude": "77.88007000"
+    },
+    {
+      "id": 57923,
+      "name": "Bellampalli",
+      "latitude": "19.05577000",
+      "longitude": "79.49300000"
+    },
+    {
+      "id": 57955,
+      "name": "Bhadrachalam",
+      "latitude": "17.66846000",
+      "longitude": "80.88887000"
+    },
+    {
+      "id": 57952,
+      "name": "Bhadradri Kothagudem",
+      "latitude": "17.55460000",
+      "longitude": "80.61976000"
+    },
+    {
+      "id": 57960,
+      "name": "Bhaisa",
+      "latitude": "19.11285000",
+      "longitude": "77.96336000"
+    },
+    {
+      "id": 57994,
+      "name": "Bhongir",
+      "latitude": "17.51544000",
+      "longitude": "78.88563000"
+    },
+    {
+      "id": 58071,
+      "name": "Bodhan",
+      "latitude": "18.66208000",
+      "longitude": "77.88581000"
+    },
+    {
+      "id": 58194,
+      "name": "Chandur",
+      "latitude": "17.87455000",
+      "longitude": "78.10017000"
+    },
+    {
+      "id": 131607,
+      "name": "Chatakonda",
+      "latitude": "17.55303000",
+      "longitude": "80.64770000"
+    },
+    {
+      "id": 131660,
+      "name": "Dasnapur",
+      "latitude": "19.65399000",
+      "longitude": "78.51213000"
+    },
+    {
+      "id": 131703,
+      "name": "Devarkonda",
+      "latitude": "16.69186000",
+      "longitude": "78.92073000"
+    },
+    {
+      "id": 131789,
+      "name": "Dornakal",
+      "latitude": "17.44475000",
+      "longitude": "80.14905000"
+    },
+    {
+      "id": 131857,
+      "name": "Farrukhnagar",
+      "latitude": "17.07787000",
+      "longitude": "78.20339000"
+    },
+    {
+      "id": 131887,
+      "name": "Gaddi Annaram",
+      "latitude": "17.36687000",
+      "longitude": "78.52420000"
+    },
+    {
+      "id": 131890,
+      "name": "Gadwal",
+      "latitude": "16.23504000",
+      "longitude": "77.79556000"
+    },
+    {
+      "id": 131939,
+      "name": "Ghatkesar",
+      "latitude": "17.45081000",
+      "longitude": "78.68366000"
+    },
+    {
+      "id": 131989,
+      "name": "Gopalur",
+      "latitude": "16.61220000",
+      "longitude": "77.80728000"
+    },
+    {
+      "id": 132052,
+      "name": "Gudur",
+      "latitude": "17.49174000",
+      "longitude": "78.82302000"
+    },
+    {
+      "id": 132132,
+      "name": "Hyderabad",
+      "latitude": "17.38405000",
+      "longitude": "78.45636000"
+    },
+    {
+      "id": 132193,
+      "name": "Jagtial",
+      "latitude": "18.79473000",
+      "longitude": "78.91661000"
+    },
+    {
+      "id": 132238,
+      "name": "Jangaon",
+      "latitude": "17.72602000",
+      "longitude": "79.15236000"
+    },
+    {
+      "id": 132257,
+      "name": "Jayashankar Bhupalapally",
+      "latitude": "18.19678000",
+      "longitude": "79.93976000"
+    },
+    {
+      "id": 132290,
+      "name": "Jogulamba Gadwal",
+      "latitude": "16.23401000",
+      "longitude": "77.80564000"
+    },
+    {
+      "id": 132331,
+      "name": "Kagaznagar",
+      "latitude": "19.33159000",
+      "longitude": "79.46605000"
+    },
+    {
+      "id": 132696,
+      "name": "Kamareddi",
+      "latitude": "18.32001000",
+      "longitude": "78.34177000"
+    },
+    {
+      "id": 132363,
+      "name": "Kamareddy",
+      "latitude": "18.32567000",
+      "longitude": "78.33416000"
+    },
+    {
+      "id": 132415,
+      "name": "Karimnagar",
+      "latitude": "18.33844000",
+      "longitude": "79.22938000"
+    },
+    {
+      "id": 132464,
+      "name": "Khammam",
+      "latitude": "17.50000000",
+      "longitude": "80.33333000"
+    },
+    {
+      "id": 132546,
+      "name": "Kodar",
+      "latitude": "16.99850000",
+      "longitude": "79.96560000"
+    },
+    {
+      "id": 132580,
+      "name": "Koratla",
+      "latitude": "18.82154000",
+      "longitude": "78.71186000"
+    },
+    {
+      "id": 132599,
+      "name": "Kothapet",
+      "latitude": "19.35176000",
+      "longitude": "79.48323000"
+    },
+    {
+      "id": 132606,
+      "name": "Kottagudem",
+      "latitude": "17.55106000",
+      "longitude": "80.61779000"
+    },
+    {
+      "id": 132608,
+      "name": "Kottapalli",
+      "latitude": "18.49543000",
+      "longitude": "79.09430000"
+    },
+    {
+      "id": 132737,
+      "name": "Kukatpally",
+      "latitude": "17.48486000",
+      "longitude": "78.41376000"
+    },
+    {
+      "id": 132674,
+      "name": "Kyathampalle",
+      "latitude": "19.66781000",
+      "longitude": "78.52890000"
+    },
+    {
+      "id": 132751,
+      "name": "Lakshettipet",
+      "latitude": "18.86667000",
+      "longitude": "79.21667000"
+    },
+    {
+      "id": 132753,
+      "name": "Lal Bahadur Nagar",
+      "latitude": "17.34769000",
+      "longitude": "78.55757000"
+    },
+    {
+      "id": 132824,
+      "name": "Mahabubabad",
+      "latitude": "17.60040000",
+      "longitude": "80.00543000"
+    },
+    {
+      "id": 132828,
+      "name": "Mahbubnagar",
+      "latitude": "16.63171000",
+      "longitude": "77.75556000"
+    },
+    {
+      "id": 132870,
+      "name": "Malkajgiri",
+      "latitude": "17.44781000",
+      "longitude": "78.52633000"
+    },
+    {
+      "id": 132887,
+      "name": "Mancheral",
+      "latitude": "18.87074000",
+      "longitude": "79.42863000"
+    },
+    {
+      "id": 132888,
+      "name": "Mandamarri",
+      "latitude": "18.96506000",
+      "longitude": "79.47475000"
+    },
+    {
+      "id": 132927,
+      "name": "Manthani",
+      "latitude": "18.65087000",
+      "longitude": "79.66501000"
+    },
+    {
+      "id": 132928,
+      "name": "Manuguru",
+      "latitude": "17.98102000",
+      "longitude": "80.75470000"
+    },
+    {
+      "id": 132955,
+      "name": "Medak",
+      "latitude": "17.75000000",
+      "longitude": "78.25000000"
+    },
+    {
+      "id": 132956,
+      "name": "Medchal",
+      "latitude": "17.62972000",
+      "longitude": "78.48139000"
+    },
+    {
+      "id": 132957,
+      "name": "Medchal Malkajgiri",
+      "latitude": "17.60644000",
+      "longitude": "78.54007000"
+    },
+    {
+      "id": 132975,
+      "name": "Mirialguda",
+      "latitude": "16.87220000",
+      "longitude": "79.56247000"
+    },
+    {
+      "id": 133255,
+      "name": "Nagar Karnul",
+      "latitude": "16.48210000",
+      "longitude": "78.32471000"
+    },
+    {
+      "id": 133132,
+      "name": "Nalgonda",
+      "latitude": "17.16667000",
+      "longitude": "79.50000000"
+    },
+    {
+      "id": 133277,
+      "name": "Narayanpet",
+      "latitude": "16.74799000",
+      "longitude": "77.49540000"
+    },
+    {
+      "id": 133274,
+      "name": "Narsingi",
+      "latitude": "18.04468000",
+      "longitude": "78.42516000"
+    },
+    {
+      "id": 133278,
+      "name": "Naspur",
+      "latitude": "18.84577000",
+      "longitude": "79.46165000"
+    },
+    {
+      "id": 133221,
+      "name": "Nirmal",
+      "latitude": "19.09685000",
+      "longitude": "78.34407000"
+    },
+    {
+      "id": 133226,
+      "name": "Nizamabad",
+      "latitude": "18.75000000",
+      "longitude": "78.25000000"
+    },
+    {
+      "id": 133535,
+      "name": "Paloncha",
+      "latitude": "17.60184000",
+      "longitude": "80.70509000"
+    },
+    {
+      "id": 133338,
+      "name": "Palwancha",
+      "latitude": "17.58152000",
+      "longitude": "80.67651000"
+    },
+    {
+      "id": 133377,
+      "name": "Patancheru",
+      "latitude": "17.53334000",
+      "longitude": "78.26450000"
+    },
+    {
+      "id": 133401,
+      "name": "Peddapalli",
+      "latitude": "18.61357000",
+      "longitude": "79.37442000"
+    },
+    {
+      "id": 133574,
+      "name": "Quthbullapur",
+      "latitude": "17.50107000",
+      "longitude": "78.45818000"
+    },
+    {
+      "id": 133592,
+      "name": "Rajanna Sircilla",
+      "latitude": "18.38629000",
+      "longitude": "78.81560000"
+    },
+    {
+      "id": 133597,
+      "name": "Ramagundam",
+      "latitude": "18.75500000",
+      "longitude": "79.47400000"
+    },
+    {
+      "id": 133699,
+      "name": "Ramgundam",
+      "latitude": "18.80084000",
+      "longitude": "79.45206000"
+    },
+    {
+      "id": 133607,
+      "name": "Rangareddi",
+      "latitude": "17.27883000",
+      "longitude": "78.16844000"
+    },
+    {
+      "id": 133745,
+      "name": "Sadaseopet",
+      "latitude": "17.61925000",
+      "longitude": "77.95263000"
+    },
+    {
+      "id": 133787,
+      "name": "Sangareddi",
+      "latitude": "17.62477000",
+      "longitude": "78.08669000"
+    },
+    {
+      "id": 133818,
+      "name": "Sathupalli",
+      "latitude": "17.24968000",
+      "longitude": "80.86899000"
+    },
+    {
+      "id": 133834,
+      "name": "Secunderabad",
+      "latitude": "17.50427000",
+      "longitude": "78.54263000"
+    },
+    {
+      "id": 133849,
+      "name": "Serilingampalle",
+      "latitude": "17.49313000",
+      "longitude": "78.30196000"
+    },
+    {
+      "id": 133919,
+      "name": "Siddipet",
+      "latitude": "18.10483000",
+      "longitude": "78.84858000"
+    },
+    {
+      "id": 133951,
+      "name": "Singapur",
+      "latitude": "17.46982000",
+      "longitude": "78.12574000"
+    },
+    {
+      "id": 133960,
+      "name": "Sirpur",
+      "latitude": "19.47953000",
+      "longitude": "79.57558000"
+    },
+    {
+      "id": 133964,
+      "name": "Sirsilla",
+      "latitude": "18.38865000",
+      "longitude": "78.81048000"
+    },
+    {
+      "id": 134031,
+      "name": "Sriramnagar",
+      "latitude": "17.26652000",
+      "longitude": "78.25544000"
+    },
+    {
+      "id": 134054,
+      "name": "Suriapet",
+      "latitude": "17.14054000",
+      "longitude": "79.62045000"
+    },
+    {
+      "id": 134237,
+      "name": "Tandur",
+      "latitude": "17.24849000",
+      "longitude": "77.57698000"
+    },
+    {
+      "id": 134287,
+      "name": "Uppal Kalan",
+      "latitude": "17.40577000",
+      "longitude": "78.55911000"
+    },
+    {
+      "id": 134344,
+      "name": "Vemalwada",
+      "latitude": "18.46523000",
+      "longitude": "78.86894000"
+    },
+    {
+      "id": 134359,
+      "name": "Vikarabad",
+      "latitude": "17.33810000",
+      "longitude": "77.90441000"
+    },
+    {
+      "id": 134394,
+      "name": "Wanparti",
+      "latitude": "16.36738000",
+      "longitude": "78.06889000"
+    },
+    {
+      "id": 134395,
+      "name": "Warangal",
+      "latitude": "18.00000000",
+      "longitude": "79.83333000"
+    },
+    {
+      "id": 134432,
+      "name": "Yellandu",
+      "latitude": "17.59064000",
+      "longitude": "80.32146000"
+    },
+    {
+      "id": 134440,
+      "name": "Zahirabad",
+      "latitude": "17.68138000",
+      "longitude": "77.60743000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

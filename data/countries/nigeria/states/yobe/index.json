@@ -1,0 +1,150 @@
+{
+  "id": 297,
+  "name": "Yobe",
+  "state_code": "YO",
+  "latitude": "12.29387600",
+  "longitude": "11.43904110",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76826,
+      "name": "Damaturu",
+      "latitude": "11.74697000",
+      "longitude": "11.96083000"
+    },
+    {
+      "id": 76832,
+      "name": "Dankalwa",
+      "latitude": "11.74449000",
+      "longitude": "12.18545000"
+    },
+    {
+      "id": 76834,
+      "name": "Dapchi",
+      "latitude": "12.49536000",
+      "longitude": "11.49977000"
+    },
+    {
+      "id": 76837,
+      "name": "Daura",
+      "latitude": "11.55410000",
+      "longitude": "11.40600000"
+    },
+    {
+      "id": 76869,
+      "name": "Fika",
+      "latitude": "11.37700000",
+      "longitude": "11.23746000"
+    },
+    {
+      "id": 76878,
+      "name": "Gashua",
+      "latitude": "12.87398000",
+      "longitude": "11.04057000"
+    },
+    {
+      "id": 76882,
+      "name": "Geidam",
+      "latitude": "12.89439000",
+      "longitude": "11.92649000"
+    },
+    {
+      "id": 76886,
+      "name": "Goniri",
+      "latitude": "11.48451000",
+      "longitude": "12.31264000"
+    },
+    {
+      "id": 76888,
+      "name": "Gorgoram",
+      "latitude": "12.63958000",
+      "longitude": "10.70422000"
+    },
+    {
+      "id": 76890,
+      "name": "Gujba",
+      "latitude": "11.49959000",
+      "longitude": "11.93396000"
+    },
+    {
+      "id": 76900,
+      "name": "Gwio Kura",
+      "latitude": "12.67479000",
+      "longitude": "11.06690000"
+    },
+    {
+      "id": 76992,
+      "name": "Kumagunnam",
+      "latitude": "13.15498000",
+      "longitude": "10.63468000"
+    },
+    {
+      "id": 77003,
+      "name": "Lajere",
+      "latitude": "11.98022000",
+      "longitude": "11.44002000"
+    },
+    {
+      "id": 77012,
+      "name": "Machina",
+      "latitude": "13.13639000",
+      "longitude": "10.04924000"
+    },
+    {
+      "id": 77042,
+      "name": "Nguru",
+      "latitude": "12.87695000",
+      "longitude": "10.45536000"
+    },
+    {
+      "id": 77089,
+      "name": "Potiskum",
+      "latitude": "11.71391000",
+      "longitude": "11.08108000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

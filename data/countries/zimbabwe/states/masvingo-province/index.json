@@ -1,0 +1,114 @@
+{
+  "id": 1960,
+  "name": "Masvingo Province",
+  "state_code": "MV",
+  "latitude": "-20.62415090",
+  "longitude": "31.26263660",
+  "type": null,
+  "cities": [
+    {
+      "id": 131404,
+      "name": "Bikita District",
+      "latitude": "-20.13752000",
+      "longitude": "31.93156000"
+    },
+    {
+      "id": 131422,
+      "name": "Chiredzi",
+      "latitude": "-21.05000000",
+      "longitude": "31.66667000"
+    },
+    {
+      "id": 131423,
+      "name": "Chiredzi District",
+      "latitude": "-21.28585000",
+      "longitude": "31.77039000"
+    },
+    {
+      "id": 131427,
+      "name": "Chivi District",
+      "latitude": "-20.50000000",
+      "longitude": "30.58333000"
+    },
+    {
+      "id": 131438,
+      "name": "Gutu District",
+      "latitude": "-19.60884000",
+      "longitude": "31.25059000"
+    },
+    {
+      "id": 131468,
+      "name": "Mashava",
+      "latitude": "-20.03665000",
+      "longitude": "30.48225000"
+    },
+    {
+      "id": 131469,
+      "name": "Masvingo",
+      "latitude": "-20.06373000",
+      "longitude": "30.82766000"
+    },
+    {
+      "id": 131470,
+      "name": "Masvingo District",
+      "latitude": "-20.31481000",
+      "longitude": "30.90008000"
+    },
+    {
+      "id": 131486,
+      "name": "Mwenezi District",
+      "latitude": "-21.35838000",
+      "longitude": "30.70668000"
+    },
+    {
+      "id": 131507,
+      "name": "Zvishavane",
+      "latitude": "-20.32674000",
+      "longitude": "30.06648000"
+    }
+  ],
+  "country": {
+    "id": 247,
+    "name": "Zimbabwe",
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "numeric_code": "716",
+    "phone_code": "263",
+    "capital": "Harare",
+    "currency": "ZWL",
+    "currency_name": "Zimbabwe Dollar",
+    "currency_symbol": "$",
+    "tld": ".zw",
+    "native": "Zimbabwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Harare",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "짐바브웨",
+      "pt-BR": "Zimbabwe",
+      "pt": "Zimbabué",
+      "nl": "Zimbabwe",
+      "hr": "Zimbabve",
+      "fa": "زیمباوه",
+      "de": "Simbabwe",
+      "es": "Zimbabue",
+      "fr": "Zimbabwe",
+      "ja": "ジンバブエ",
+      "it": "Zimbabwe",
+      "cn": "津巴布韦",
+      "tr": "Zimbabve"
+    },
+    "latitude": "-20.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇼",
+    "emojiU": "U+1F1FF U+1F1FC"
+  }
+}

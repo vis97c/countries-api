@@ -1,0 +1,144 @@
+{
+  "id": 3382,
+  "name": "Chuquisaca Department",
+  "state_code": "H",
+  "latitude": "-20.02491440",
+  "longitude": "-64.14782360",
+  "type": null,
+  "cities": [
+    {
+      "id": 9839,
+      "name": "Camargo",
+      "latitude": "-20.64064000",
+      "longitude": "-65.20893000"
+    },
+    {
+      "id": 9887,
+      "name": "Monteagudo",
+      "latitude": "-19.79989000",
+      "longitude": "-63.95461000"
+    },
+    {
+      "id": 9892,
+      "name": "Padilla",
+      "latitude": "-19.30878000",
+      "longitude": "-64.30273000"
+    },
+    {
+      "id": 9909,
+      "name": "Provincia Azurduy",
+      "latitude": "-20.00000000",
+      "longitude": "-64.50000000"
+    },
+    {
+      "id": 9911,
+      "name": "Provincia Belisario Boeto",
+      "latitude": "-18.91667000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 9936,
+      "name": "Provincia Hernando Siles",
+      "latitude": "-20.16667000",
+      "longitude": "-64.25000000"
+    },
+    {
+      "id": 9947,
+      "name": "Provincia Luis Calvo",
+      "latitude": "-20.66667000",
+      "longitude": "-63.50000000"
+    },
+    {
+      "id": 9962,
+      "name": "Provincia Nor Cinti",
+      "latitude": "-20.33333000",
+      "longitude": "-65.00000000"
+    },
+    {
+      "id": 9966,
+      "name": "Provincia Oropeza",
+      "latitude": "-18.66667000",
+      "longitude": "-65.16667000"
+    },
+    {
+      "id": 9983,
+      "name": "Provincia Sud Cinti",
+      "latitude": "-20.91667000",
+      "longitude": "-64.91667000"
+    },
+    {
+      "id": 9987,
+      "name": "Provincia Tomina",
+      "latitude": "-19.50000000",
+      "longitude": "-64.16667000"
+    },
+    {
+      "id": 9995,
+      "name": "Provincia Yamparáez",
+      "latitude": "-19.16667000",
+      "longitude": "-64.91667000"
+    },
+    {
+      "id": 9996,
+      "name": "Provincia Zudáñez",
+      "latitude": "-18.91667000",
+      "longitude": "-64.83333000"
+    },
+    {
+      "id": 10031,
+      "name": "Sucre",
+      "latitude": "-19.03332000",
+      "longitude": "-65.26274000"
+    },
+    {
+      "id": 10033,
+      "name": "Tarabuco",
+      "latitude": "-19.18168000",
+      "longitude": "-64.91517000"
+    }
+  ],
+  "country": {
+    "id": 27,
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "numeric_code": "068",
+    "phone_code": "591",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "currency_symbol": "Bs.",
+    "tld": ".bo",
+    "native": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/La_Paz",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BOT",
+        "tzName": "Bolivia Time"
+      }
+    ],
+    "translations": {
+      "kr": "볼리비아",
+      "pt-BR": "Bolívia",
+      "pt": "Bolívia",
+      "nl": "Bolivia",
+      "hr": "Bolivija",
+      "fa": "بولیوی",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fr": "Bolivie",
+      "ja": "ボリビア多民族国",
+      "it": "Bolivia",
+      "cn": "玻利维亚",
+      "tr": "Bolivya"
+    },
+    "latitude": "-17.00000000",
+    "longitude": "-65.00000000",
+    "emoji": "🇧🇴",
+    "emojiU": "U+1F1E7 U+1F1F4"
+  }
+}

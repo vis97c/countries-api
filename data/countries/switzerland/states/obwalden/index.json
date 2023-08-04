@@ -1,0 +1,96 @@
+{
+  "id": 1650,
+  "name": "Obwalden",
+  "state_code": "OW",
+  "latitude": "46.87785800",
+  "longitude": "8.25124900",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17387,
+      "name": "Alpnach",
+      "latitude": "46.94227000",
+      "longitude": "8.27180000"
+    },
+    {
+      "id": 17750,
+      "name": "Engelberg",
+      "latitude": "46.82107000",
+      "longitude": "8.40133000"
+    },
+    {
+      "id": 17835,
+      "name": "Giswil",
+      "latitude": "46.83333000",
+      "longitude": "8.18065000"
+    },
+    {
+      "id": 17973,
+      "name": "Kerns",
+      "latitude": "46.90121000",
+      "longitude": "8.27514000"
+    },
+    {
+      "id": 18101,
+      "name": "Lungern",
+      "latitude": "46.78578000",
+      "longitude": "8.15984000"
+    },
+    {
+      "id": 18418,
+      "name": "Sachseln",
+      "latitude": "46.86718000",
+      "longitude": "8.23344000"
+    },
+    {
+      "id": 18447,
+      "name": "Sarnen",
+      "latitude": "46.89611000",
+      "longitude": "8.24531000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

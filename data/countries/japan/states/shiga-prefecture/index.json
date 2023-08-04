@@ -1,0 +1,198 @@
+{
+  "id": 845,
+  "name": "Shiga Prefecture",
+  "state_code": "25",
+  "latitude": "35.32920140",
+  "longitude": "136.05632120",
+  "type": null,
+  "cities": [
+    {
+      "id": 63470,
+      "name": "Higashiōmi-shi",
+      "latitude": "35.10890000",
+      "longitude": "136.17920000"
+    },
+    {
+      "id": 63476,
+      "name": "Hikone",
+      "latitude": "35.25000000",
+      "longitude": "136.25000000"
+    },
+    {
+      "id": 63477,
+      "name": "Hikone-shi",
+      "latitude": "35.23036000",
+      "longitude": "136.20760000"
+    },
+    {
+      "id": 63482,
+      "name": "Hino",
+      "latitude": "35.00000000",
+      "longitude": "136.25000000"
+    },
+    {
+      "id": 63799,
+      "name": "Kitahama",
+      "latitude": "35.16667000",
+      "longitude": "135.91667000"
+    },
+    {
+      "id": 63895,
+      "name": "Kōka-shi",
+      "latitude": "34.91667000",
+      "longitude": "136.16667000"
+    },
+    {
+      "id": 63843,
+      "name": "Konan-shi",
+      "latitude": "35.01667000",
+      "longitude": "136.08333000"
+    },
+    {
+      "id": 63881,
+      "name": "Kusatsu",
+      "latitude": "35.01667000",
+      "longitude": "135.96667000"
+    },
+    {
+      "id": 63882,
+      "name": "Kusatsu-shi",
+      "latitude": "35.02758000",
+      "longitude": "135.93840000"
+    },
+    {
+      "id": 63910,
+      "name": "Maibara",
+      "latitude": "35.31667000",
+      "longitude": "136.28333000"
+    },
+    {
+      "id": 63911,
+      "name": "Maibara-shi",
+      "latitude": "35.38457000",
+      "longitude": "136.37741000"
+    },
+    {
+      "id": 63958,
+      "name": "Minakuchichō-matoba",
+      "latitude": "34.96667000",
+      "longitude": "136.16667000"
+    },
+    {
+      "id": 64034,
+      "name": "Moriyama",
+      "latitude": "35.06667000",
+      "longitude": "135.98333000"
+    },
+    {
+      "id": 64035,
+      "name": "Moriyama-shi",
+      "latitude": "35.08815000",
+      "longitude": "135.96869000"
+    },
+    {
+      "id": 64059,
+      "name": "Nagahama",
+      "latitude": "35.38333000",
+      "longitude": "136.26667000"
+    },
+    {
+      "id": 64060,
+      "name": "Nagahama-shi",
+      "latitude": "35.42256000",
+      "longitude": "136.26272000"
+    },
+    {
+      "id": 64740,
+      "name": "Ōmihachiman",
+      "latitude": "35.12861000",
+      "longitude": "136.09760000"
+    },
+    {
+      "id": 64741,
+      "name": "Ōmihachiman-shi",
+      "latitude": "35.15251000",
+      "longitude": "136.06964000"
+    },
+    {
+      "id": 64764,
+      "name": "Ōtsu-shi",
+      "latitude": "35.10203000",
+      "longitude": "135.92452000"
+    },
+    {
+      "id": 64229,
+      "name": "Rittō-shi",
+      "latitude": "34.99603000",
+      "longitude": "136.01412000"
+    },
+    {
+      "id": 64438,
+      "name": "Takashima",
+      "latitude": "35.41347000",
+      "longitude": "136.01612000"
+    },
+    {
+      "id": 64439,
+      "name": "Takashima-shi",
+      "latitude": "35.35448000",
+      "longitude": "136.02859000"
+    },
+    {
+      "id": 64659,
+      "name": "Yasu-shi",
+      "latitude": "35.06801000",
+      "longitude": "136.02327000"
+    },
+    {
+      "id": 64692,
+      "name": "Youkaichi",
+      "latitude": "35.11626000",
+      "longitude": "136.19768000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

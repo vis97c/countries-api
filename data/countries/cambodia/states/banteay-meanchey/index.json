@@ -1,0 +1,84 @@
+{
+  "id": 3984,
+  "name": "Banteay Meanchey",
+  "state_code": "1",
+  "latitude": "13.75319140",
+  "longitude": "102.98961500",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64967,
+      "name": "Mongkol Borei",
+      "latitude": "13.45531000",
+      "longitude": "102.99186000"
+    },
+    {
+      "id": 64969,
+      "name": "Paoy Paet",
+      "latitude": "13.65805000",
+      "longitude": "102.56365000"
+    },
+    {
+      "id": 64981,
+      "name": "Sisophon",
+      "latitude": "13.58588000",
+      "longitude": "102.97369000"
+    },
+    {
+      "id": 65009,
+      "name": "Srŏk Malai",
+      "latitude": "13.49902000",
+      "longitude": "102.60164000"
+    },
+    {
+      "id": 65022,
+      "name": "Srŏk Svay Chék",
+      "latitude": "13.81305000",
+      "longitude": "102.95269000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

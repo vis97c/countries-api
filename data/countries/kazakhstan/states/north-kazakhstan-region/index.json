@@ -1,0 +1,180 @@
+{
+  "id": 144,
+  "name": "North Kazakhstan Region",
+  "state_code": "SEV",
+  "latitude": "54.16220660",
+  "longitude": "69.93870710",
+  "type": null,
+  "cities": [
+    {
+      "id": 65649,
+      "name": "Birlestik",
+      "latitude": "53.58414000",
+      "longitude": "68.35382000"
+    },
+    {
+      "id": 65650,
+      "name": "Bishkul",
+      "latitude": "54.77763000",
+      "longitude": "69.09951000"
+    },
+    {
+      "id": 65654,
+      "name": "Bulayevo",
+      "latitude": "54.90596000",
+      "longitude": "70.44155000"
+    },
+    {
+      "id": 65657,
+      "name": "Būrabay",
+      "latitude": "53.08382000",
+      "longitude": "70.31379000"
+    },
+    {
+      "id": 65710,
+      "name": "Kzyltu",
+      "latitude": "53.63589000",
+      "longitude": "72.34079000"
+    },
+    {
+      "id": 65736,
+      "name": "Novoishimskiy",
+      "latitude": "53.19806000",
+      "longitude": "66.76944000"
+    },
+    {
+      "id": 65747,
+      "name": "Petropavl",
+      "latitude": "54.86667000",
+      "longitude": "69.15000000"
+    },
+    {
+      "id": 65775,
+      "name": "Sergeyevka",
+      "latitude": "53.88139000",
+      "longitude": "67.40882000"
+    },
+    {
+      "id": 65793,
+      "name": "Smirnovo",
+      "latitude": "54.51480000",
+      "longitude": "69.42732000"
+    },
+    {
+      "id": 65799,
+      "name": "Taiynsha",
+      "latitude": "53.84796000",
+      "longitude": "69.76773000"
+    },
+    {
+      "id": 65802,
+      "name": "Talshik",
+      "latitude": "53.63736000",
+      "longitude": "71.87404000"
+    },
+    {
+      "id": 65812,
+      "name": "Timiryazevo",
+      "latitude": "53.74947000",
+      "longitude": "66.48852000"
+    },
+    {
+      "id": 65826,
+      "name": "Volodarskoye",
+      "latitude": "53.29270000",
+      "longitude": "68.10500000"
+    },
+    {
+      "id": 65828,
+      "name": "Yavlenka",
+      "latitude": "54.34525000",
+      "longitude": "68.45740000"
+    }
+  ],
+  "country": {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "numeric_code": "398",
+    "phone_code": "7",
+    "capital": "Astana",
+    "currency": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "лв",
+    "tld": ".kz",
+    "native": "Қазақстан",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Almaty",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "tzName": "Alma-Ata Time[1"
+      },
+      {
+        "zoneName": "Asia/Aqtau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Aqtobe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Atyrau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "tzName": "Moscow Daylight Time+1"
+      },
+      {
+        "zoneName": "Asia/Oral",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "tzName": "Oral Time"
+      },
+      {
+        "zoneName": "Asia/Qostanay",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "tzName": "Qyzylorda Summer Time"
+      },
+      {
+        "zoneName": "Asia/Qyzylorda",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "tzName": "Qyzylorda Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "카자흐스탄",
+      "pt-BR": "Cazaquistão",
+      "pt": "Cazaquistão",
+      "nl": "Kazachstan",
+      "hr": "Kazahstan",
+      "fa": "قزاقستان",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "fr": "Kazakhstan",
+      "ja": "カザフスタン",
+      "it": "Kazakistan",
+      "cn": "哈萨克斯坦",
+      "tr": "Kazakistan"
+    },
+    "latitude": "48.00000000",
+    "longitude": "68.00000000",
+    "emoji": "🇰🇿",
+    "emojiU": "U+1F1F0 U+1F1FF"
+  }
+}

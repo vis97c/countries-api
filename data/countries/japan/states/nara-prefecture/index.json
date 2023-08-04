@@ -1,0 +1,180 @@
+{
+  "id": 824,
+  "name": "Nara Prefecture",
+  "state_code": "29",
+  "latitude": "34.29755280",
+  "longitude": "135.82797340",
+  "type": null,
+  "cities": [
+    {
+      "id": 63389,
+      "name": "Gojō",
+      "latitude": "34.35000000",
+      "longitude": "135.70000000"
+    },
+    {
+      "id": 63390,
+      "name": "Gojō-shi",
+      "latitude": "34.35081000",
+      "longitude": "135.69489000"
+    },
+    {
+      "id": 63391,
+      "name": "Gose",
+      "latitude": "34.45000000",
+      "longitude": "135.73333000"
+    },
+    {
+      "id": 63415,
+      "name": "Haibara-akanedai",
+      "latitude": "34.53333000",
+      "longitude": "135.95000000"
+    },
+    {
+      "id": 63530,
+      "name": "Hōryūji",
+      "latitude": "34.61234000",
+      "longitude": "135.73754000"
+    },
+    {
+      "id": 63558,
+      "name": "Ikoma",
+      "latitude": "34.68333000",
+      "longitude": "135.70000000"
+    },
+    {
+      "id": 63559,
+      "name": "Ikoma-shi",
+      "latitude": "34.69187000",
+      "longitude": "135.70057000"
+    },
+    {
+      "id": 63733,
+      "name": "Kashiba-shi",
+      "latitude": "34.54107000",
+      "longitude": "135.69918000"
+    },
+    {
+      "id": 63735,
+      "name": "Kashihara-shi",
+      "latitude": "34.50352000",
+      "longitude": "135.78986000"
+    },
+    {
+      "id": 63755,
+      "name": "Katsuragi",
+      "latitude": "34.48562000",
+      "longitude": "135.69698000"
+    },
+    {
+      "id": 63756,
+      "name": "Katsuragi Shi",
+      "latitude": "34.49682000",
+      "longitude": "135.70464000"
+    },
+    {
+      "id": 64106,
+      "name": "Nara-shi",
+      "latitude": "34.68506000",
+      "longitude": "135.80485000"
+    },
+    {
+      "id": 64273,
+      "name": "Sakurai",
+      "latitude": "34.50000000",
+      "longitude": "135.85000000"
+    },
+    {
+      "id": 64274,
+      "name": "Sakurai-shi",
+      "latitude": "34.51816000",
+      "longitude": "135.84320000"
+    },
+    {
+      "id": 64479,
+      "name": "Tawaramoto",
+      "latitude": "34.55420000",
+      "longitude": "135.79297000"
+    },
+    {
+      "id": 64483,
+      "name": "Tenri",
+      "latitude": "34.58333000",
+      "longitude": "135.83333000"
+    },
+    {
+      "id": 64484,
+      "name": "Tenri-shi",
+      "latitude": "34.59619000",
+      "longitude": "135.83736000"
+    },
+    {
+      "id": 64577,
+      "name": "Uda Shi",
+      "latitude": "34.52035000",
+      "longitude": "135.99787000"
+    },
+    {
+      "id": 64645,
+      "name": "Yamatokōriyama-shi",
+      "latitude": "34.64917000",
+      "longitude": "135.78278000"
+    },
+    {
+      "id": 64646,
+      "name": "Yamatotakada-shi",
+      "latitude": "34.51490000",
+      "longitude": "135.73660000"
+    },
+    {
+      "id": 64687,
+      "name": "Yoshino-chō",
+      "latitude": "34.39611000",
+      "longitude": "135.85768000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

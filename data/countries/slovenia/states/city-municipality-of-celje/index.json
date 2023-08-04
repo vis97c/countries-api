@@ -1,0 +1,72 @@
+{
+  "id": 4191,
+  "name": "City Municipality of Celje",
+  "state_code": "011",
+  "latitude": "46.23974950",
+  "longitude": "15.26770630",
+  "type": null,
+  "cities": [
+    {
+      "id": 104079,
+      "name": "Celje",
+      "latitude": "46.23092000",
+      "longitude": "15.26044000"
+    },
+    {
+      "id": 104168,
+      "name": "Ljubečna",
+      "latitude": "46.25567000",
+      "longitude": "15.32430000"
+    },
+    {
+      "id": 104299,
+      "name": "Trnovlje pri Celju",
+      "latitude": "46.25667000",
+      "longitude": "15.29528000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

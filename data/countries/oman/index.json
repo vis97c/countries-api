@@ -1,0 +1,341 @@
+{
+  "id": 166,
+  "name": "Oman",
+  "iso3": "OMN",
+  "iso2": "OM",
+  "numeric_code": "512",
+  "phone_code": "968",
+  "capital": "Muscat",
+  "currency": "OMR",
+  "currency_name": "Omani rial",
+  "currency_symbol": ".ع.ر",
+  "tld": ".om",
+  "native": "عمان",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Muscat",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "GST",
+      "tzName": "Gulf Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "오만",
+    "pt-BR": "Omã",
+    "pt": "Omã",
+    "nl": "Oman",
+    "hr": "Oman",
+    "fa": "عمان",
+    "de": "Oman",
+    "es": "Omán",
+    "fr": "Oman",
+    "ja": "オマーン",
+    "it": "oman",
+    "cn": "阿曼",
+    "tr": "Umman"
+  },
+  "latitude": "21.00000000",
+  "longitude": "57.00000000",
+  "emoji": "🇴🇲",
+  "emojiU": "U+1F1F4 U+1F1F2",
+  "states": [
+    {
+      "id": 3058,
+      "name": "Ad Dakhiliyah",
+      "state_code": "DA",
+      "latitude": "22.85887580",
+      "longitude": "57.53943560",
+      "type": null,
+      "cities": [
+        {
+          "id": 79926,
+          "name": "Adam",
+          "latitude": "22.37934000",
+          "longitude": "57.52718000"
+        },
+        {
+          "id": 79930,
+          "name": "Bahlā’",
+          "latitude": "22.97886000",
+          "longitude": "57.30470000"
+        },
+        {
+          "id": 79934,
+          "name": "Bidbid",
+          "latitude": "23.40787000",
+          "longitude": "58.12830000"
+        },
+        {
+          "id": 79937,
+          "name": "Izkī",
+          "latitude": "22.93333000",
+          "longitude": "57.76667000"
+        },
+        {
+          "id": 79942,
+          "name": "Nizwá",
+          "latitude": "22.93333000",
+          "longitude": "57.53333000"
+        },
+        {
+          "id": 79948,
+          "name": "Sufālat Samā’il",
+          "latitude": "23.31667000",
+          "longitude": "58.01667000"
+        }
+      ]
+    },
+    {
+      "id": 3047,
+      "name": "Ad Dhahirah",
+      "state_code": "ZA",
+      "latitude": "23.21616740",
+      "longitude": "56.49074440",
+      "type": null,
+      "cities": [
+        {
+          "id": 79953,
+          "name": "‘Ibrī",
+          "latitude": "23.22573000",
+          "longitude": "56.51572000"
+        },
+        {
+          "id": 79950,
+          "name": "Yanqul",
+          "latitude": "23.58645000",
+          "longitude": "56.53969000"
+        }
+      ]
+    },
+    {
+      "id": 3048,
+      "name": "Al Batinah North",
+      "state_code": "BS",
+      "latitude": "24.34198460",
+      "longitude": "56.72989040",
+      "type": null,
+      "cities": [
+        {
+          "id": 79928,
+          "name": "Al Khābūrah",
+          "latitude": "23.97144000",
+          "longitude": "57.09313000"
+        },
+        {
+          "id": 79929,
+          "name": "As Suwayq",
+          "latitude": "23.84944000",
+          "longitude": "57.43861000"
+        },
+        {
+          "id": 79939,
+          "name": "Liwá",
+          "latitude": "24.53077000",
+          "longitude": "56.56300000"
+        },
+        {
+          "id": 79952,
+          "name": "Şaḩam",
+          "latitude": "24.17222000",
+          "longitude": "56.88861000"
+        },
+        {
+          "id": 79946,
+          "name": "Shināş",
+          "latitude": "24.74260000",
+          "longitude": "56.46698000"
+        },
+        {
+          "id": 79947,
+          "name": "Sohar",
+          "latitude": "24.34745000",
+          "longitude": "56.70937000"
+        }
+      ]
+    },
+    {
+      "id": 3050,
+      "name": "Al Batinah Region",
+      "state_code": "BA",
+      "latitude": "24.34198460",
+      "longitude": "56.72989040",
+      "type": null,
+      "cities": [
+        {
+          "id": 79931,
+          "name": "Barkā’",
+          "latitude": "23.67872000",
+          "longitude": "57.88605000"
+        },
+        {
+          "id": 79933,
+          "name": "Bayt al ‘Awābī",
+          "latitude": "23.30324000",
+          "longitude": "57.52459000"
+        },
+        {
+          "id": 79943,
+          "name": "Oman Smart Future City",
+          "latitude": "23.65270000",
+          "longitude": "57.59926000"
+        },
+        {
+          "id": 79944,
+          "name": "Rustaq",
+          "latitude": "23.39083000",
+          "longitude": "57.42444000"
+        }
+      ]
+    },
+    {
+      "id": 3049,
+      "name": "Al Batinah South",
+      "state_code": "BJ",
+      "latitude": "23.43149030",
+      "longitude": "57.42397960",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 3059,
+      "name": "Al Buraimi",
+      "state_code": "BU",
+      "latitude": "24.16714130",
+      "longitude": "56.11422530",
+      "type": null,
+      "cities": [
+        {
+          "id": 79927,
+          "name": "Al Buraymī",
+          "latitude": "24.25088000",
+          "longitude": "55.79312000"
+        }
+      ]
+    },
+    {
+      "id": 3056,
+      "name": "Al Wusta",
+      "state_code": "WU",
+      "latitude": "19.95710780",
+      "longitude": "56.27568460",
+      "type": null,
+      "cities": [
+        {
+          "id": 79936,
+          "name": "Haymā’",
+          "latitude": "19.95931000",
+          "longitude": "56.27575000"
+        }
+      ]
+    },
+    {
+      "id": 3053,
+      "name": "Ash Sharqiyah North",
+      "state_code": "SS",
+      "latitude": "22.71411960",
+      "longitude": "58.53080640",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 3051,
+      "name": "Ash Sharqiyah Region",
+      "state_code": "SH",
+      "latitude": "22.71411960",
+      "longitude": "58.53080640",
+      "type": null,
+      "cities": [
+        {
+          "id": 79949,
+          "name": "Sur",
+          "latitude": "22.56667000",
+          "longitude": "59.52889000"
+        }
+      ]
+    },
+    {
+      "id": 3054,
+      "name": "Ash Sharqiyah South",
+      "state_code": "SJ",
+      "latitude": "22.01582490",
+      "longitude": "59.32519220",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 3057,
+      "name": "Dhofar",
+      "state_code": "ZU",
+      "latitude": "17.03221210",
+      "longitude": "54.14252140",
+      "type": null,
+      "cities": [
+        {
+          "id": 79951,
+          "name": "Şalālah",
+          "latitude": "17.01505000",
+          "longitude": "54.09237000"
+        }
+      ]
+    },
+    {
+      "id": 3052,
+      "name": "Musandam",
+      "state_code": "MU",
+      "latitude": "26.19861440",
+      "longitude": "56.24609490",
+      "type": null,
+      "cities": [
+        {
+          "id": 79935,
+          "name": "Dib Dibba",
+          "latitude": "26.19778000",
+          "longitude": "56.25778000"
+        },
+        {
+          "id": 79938,
+          "name": "Khasab",
+          "latitude": "26.17993000",
+          "longitude": "56.24774000"
+        },
+        {
+          "id": 79940,
+          "name": "Madḩā’ al Jadīdah",
+          "latitude": "25.28345000",
+          "longitude": "56.33280000"
+        }
+      ]
+    },
+    {
+      "id": 3055,
+      "name": "Muscat",
+      "state_code": "MA",
+      "latitude": "23.58803070",
+      "longitude": "58.38287170",
+      "type": null,
+      "cities": [
+        {
+          "id": 79932,
+          "name": "Bawshar",
+          "latitude": "23.57769000",
+          "longitude": "58.39982000"
+        },
+        {
+          "id": 79941,
+          "name": "Muscat",
+          "latitude": "23.58413000",
+          "longitude": "58.40778000"
+        },
+        {
+          "id": 79945,
+          "name": "Seeb",
+          "latitude": "23.67027000",
+          "longitude": "58.18911000"
+        }
+      ]
+    }
+  ]
+}

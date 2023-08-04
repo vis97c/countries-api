@@ -1,0 +1,120 @@
+{
+  "id": 4710,
+  "name": "Lovech Province",
+  "state_code": "11",
+  "latitude": "43.13677980",
+  "longitude": "24.71393350",
+  "type": null,
+  "cities": [
+    {
+      "id": 9256,
+      "name": "Apriltsi",
+      "latitude": "42.84142000",
+      "longitude": "24.91759000"
+    },
+    {
+      "id": 9385,
+      "name": "Letnitsa",
+      "latitude": "43.31167000",
+      "longitude": "25.07333000"
+    },
+    {
+      "id": 9388,
+      "name": "Lovech",
+      "latitude": "43.13333000",
+      "longitude": "24.71667000"
+    },
+    {
+      "id": 9390,
+      "name": "Lukovit",
+      "latitude": "43.20000000",
+      "longitude": "24.16667000"
+    },
+    {
+      "id": 9523,
+      "name": "Obshtina Lovech",
+      "latitude": "43.16667000",
+      "longitude": "24.80000000"
+    },
+    {
+      "id": 9612,
+      "name": "Obshtina Teteven",
+      "latitude": "42.91667000",
+      "longitude": "24.26667000"
+    },
+    {
+      "id": 9621,
+      "name": "Obshtina Ugarchin",
+      "latitude": "43.10000000",
+      "longitude": "24.41667000"
+    },
+    {
+      "id": 9721,
+      "name": "Teteven",
+      "latitude": "42.91667000",
+      "longitude": "24.26667000"
+    },
+    {
+      "id": 9725,
+      "name": "Troyan",
+      "latitude": "42.89427000",
+      "longitude": "24.71589000"
+    },
+    {
+      "id": 9732,
+      "name": "Ugarchin",
+      "latitude": "43.10000000",
+      "longitude": "24.41667000"
+    },
+    {
+      "id": 9743,
+      "name": "Yablanitsa",
+      "latitude": "43.03139000",
+      "longitude": "24.11278000"
+    }
+  ],
+  "country": {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "numeric_code": "100",
+    "phone_code": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "native": "България",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "불가리아",
+      "pt-BR": "Bulgária",
+      "pt": "Bulgária",
+      "nl": "Bulgarije",
+      "hr": "Bugarska",
+      "fa": "بلغارستان",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア",
+      "it": "Bulgaria",
+      "cn": "保加利亚",
+      "tr": "Bulgaristan"
+    },
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  }
+}

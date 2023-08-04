@@ -1,0 +1,115 @@
+{
+  "id": 2543,
+  "name": "Qashqadaryo Region",
+  "state_code": "QA",
+  "latitude": "38.89862310",
+  "longitude": "66.04635340",
+  "type": null,
+  "cities": [
+    {
+      "id": 129904,
+      "name": "Beshkent",
+      "latitude": "38.82139000",
+      "longitude": "65.65306000"
+    },
+    {
+      "id": 129916,
+      "name": "Chiroqchi",
+      "latitude": "39.03361000",
+      "longitude": "66.57222000"
+    },
+    {
+      "id": 129931,
+      "name": "G‘uzor",
+      "latitude": "38.62083000",
+      "longitude": "66.24806000"
+    },
+    {
+      "id": 129949,
+      "name": "Kitob",
+      "latitude": "39.08425000",
+      "longitude": "66.83318000"
+    },
+    {
+      "id": 129951,
+      "name": "Koson",
+      "latitude": "39.03750000",
+      "longitude": "65.58500000"
+    },
+    {
+      "id": 129958,
+      "name": "Muborak",
+      "latitude": "39.25528000",
+      "longitude": "65.15278000"
+    },
+    {
+      "id": 129962,
+      "name": "Nishon Tumani",
+      "latitude": "38.69395000",
+      "longitude": "65.67512000"
+    },
+    {
+      "id": 129981,
+      "name": "Qarshi",
+      "latitude": "38.86056000",
+      "longitude": "65.78905000"
+    },
+    {
+      "id": 129997,
+      "name": "Shahrisabz",
+      "latitude": "39.05778000",
+      "longitude": "66.83417000"
+    }
+  ],
+  "country": {
+    "id": 236,
+    "name": "Uzbekistan",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "numeric_code": "860",
+    "phone_code": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "native": "O‘zbekiston",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Samarkand",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      },
+      {
+        "zoneName": "Asia/Tashkent",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "우즈베키스탄",
+      "pt-BR": "Uzbequistão",
+      "pt": "Usbequistão",
+      "nl": "Oezbekistan",
+      "hr": "Uzbekistan",
+      "fa": "ازبکستان",
+      "de": "Usbekistan",
+      "es": "Uzbekistán",
+      "fr": "Ouzbékistan",
+      "ja": "ウズベキスタン",
+      "it": "Uzbekistan",
+      "cn": "乌兹别克斯坦",
+      "tr": "Özbekistan"
+    },
+    "latitude": "41.00000000",
+    "longitude": "64.00000000",
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF"
+  }
+}

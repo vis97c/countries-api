@@ -1,0 +1,84 @@
+{
+  "id": 3809,
+  "name": "Quảng Bình",
+  "state_code": "24",
+  "latitude": "17.61027150",
+  "longitude": "106.34874740",
+  "type": null,
+  "cities": [
+    {
+      "id": 130352,
+      "name": "Huyện Lệ Thủy",
+      "latitude": "17.11239000",
+      "longitude": "106.70471000"
+    },
+    {
+      "id": 130407,
+      "name": "Huyện Quảng Ninh",
+      "latitude": "17.27067000",
+      "longitude": "106.51387000"
+    },
+    {
+      "id": 130408,
+      "name": "Huyện Quảng Trạch",
+      "latitude": "17.83447000",
+      "longitude": "106.36705000"
+    },
+    {
+      "id": 130477,
+      "name": "Huyện Tuyên Hóa",
+      "latitude": "17.91323000",
+      "longitude": "106.02678000"
+    },
+    {
+      "id": 130566,
+      "name": "Kwang Binh",
+      "latitude": "17.46885000",
+      "longitude": "106.62226000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

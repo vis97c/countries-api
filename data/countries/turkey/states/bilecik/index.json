@@ -1,0 +1,102 @@
+{
+  "id": 2221,
+  "name": "Bilecik",
+  "state_code": "11",
+  "latitude": "40.05665550",
+  "longitude": "30.06652360",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107393,
+      "name": "Bozüyük",
+      "latitude": "39.90778000",
+      "longitude": "30.03667000"
+    },
+    {
+      "id": 107702,
+      "name": "Gölpazarı",
+      "latitude": "40.28472000",
+      "longitude": "30.31722000"
+    },
+    {
+      "id": 108903,
+      "name": "İnhisar",
+      "latitude": "40.04932000",
+      "longitude": "30.38521000"
+    },
+    {
+      "id": 107356,
+      "name": "Merkez",
+      "latitude": "40.14192000",
+      "longitude": "29.97932000"
+    },
+    {
+      "id": 108291,
+      "name": "Osmaneli",
+      "latitude": "40.35722000",
+      "longitude": "30.01417000"
+    },
+    {
+      "id": 108329,
+      "name": "Pazaryeri",
+      "latitude": "39.99395000",
+      "longitude": "29.90424000"
+    },
+    {
+      "id": 108518,
+      "name": "Söğüt",
+      "latitude": "40.02479000",
+      "longitude": "30.17300000"
+    },
+    {
+      "id": 108705,
+      "name": "Yenipazar",
+      "latitude": "40.17833000",
+      "longitude": "30.52000000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

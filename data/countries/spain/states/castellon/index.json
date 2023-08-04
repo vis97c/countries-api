@@ -1,0 +1,878 @@
+{
+  "id": 5110,
+  "name": "Castellón",
+  "state_code": "CS",
+  "latitude": "39.98114350",
+  "longitude": "0.00884070",
+  "type": "province",
+  "cities": [
+    {
+      "id": 152370,
+      "name": "Aín",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32047,
+      "name": "Albocàsser",
+      "latitude": "40.35000000",
+      "longitude": "0.03333000"
+    },
+    {
+      "id": 32068,
+      "name": "Alcalà de Xivert",
+      "latitude": "40.30000000",
+      "longitude": "0.23333000"
+    },
+    {
+      "id": 152371,
+      "name": "Alcora l",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32131,
+      "name": "Alcudia de Veo",
+      "latitude": "39.91667000",
+      "longitude": "-0.35000000"
+    },
+    {
+      "id": 32203,
+      "name": "Alfondeguilla",
+      "latitude": "39.83333000",
+      "longitude": "-0.26667000"
+    },
+    {
+      "id": 32221,
+      "name": "Algimia de Almonacid",
+      "latitude": "39.91667000",
+      "longitude": "-0.43333000"
+    },
+    {
+      "id": 152372,
+      "name": "Almazora/Almassora",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32278,
+      "name": "Almedíjar",
+      "latitude": "39.86667000",
+      "longitude": "-0.40000000"
+    },
+    {
+      "id": 32282,
+      "name": "Almenara",
+      "latitude": "39.75000000",
+      "longitude": "-0.21667000"
+    },
+    {
+      "id": 32333,
+      "name": "Alquerías del Niño Perdido",
+      "latitude": "39.89466000",
+      "longitude": "-0.12943000"
+    },
+    {
+      "id": 32342,
+      "name": "Altura",
+      "latitude": "39.85000000",
+      "longitude": "-0.51667000"
+    },
+    {
+      "id": 32420,
+      "name": "Arañuel",
+      "latitude": "40.06667000",
+      "longitude": "-0.48333000"
+    },
+    {
+      "id": 152373,
+      "name": "Ares del Maestrat",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32469,
+      "name": "Argelita",
+      "latitude": "40.05000000",
+      "longitude": "-0.35000000"
+    },
+    {
+      "id": 32520,
+      "name": "Artana",
+      "latitude": "39.89104000",
+      "longitude": "-0.25758000"
+    },
+    {
+      "id": 152369,
+      "name": "Atzeneta del Maestrat",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32579,
+      "name": "Ayódar",
+      "latitude": "40.00000000",
+      "longitude": "-0.36667000"
+    },
+    {
+      "id": 32593,
+      "name": "Azuébar",
+      "latitude": "39.83333000",
+      "longitude": "-0.36667000"
+    },
+    {
+      "id": 32667,
+      "name": "Barracas",
+      "latitude": "40.01667000",
+      "longitude": "-0.68333000"
+    },
+    {
+      "id": 152374,
+      "name": "Bejís",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152375,
+      "name": "Benafer",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32759,
+      "name": "Benafigos",
+      "latitude": "40.27641000",
+      "longitude": "-0.20772000"
+    },
+    {
+      "id": 152376,
+      "name": "Benasal",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32795,
+      "name": "Benicarló",
+      "latitude": "40.41650000",
+      "longitude": "0.42709000"
+    },
+    {
+      "id": 152377,
+      "name": "Benicasim/Benicàssim",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32825,
+      "name": "Benlloch",
+      "latitude": "40.21075000",
+      "longitude": "0.02717000"
+    },
+    {
+      "id": 32882,
+      "name": "Betxí",
+      "latitude": "39.93333000",
+      "longitude": "-0.20000000"
+    },
+    {
+      "id": 152378,
+      "name": "Borriana/Burriana",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32962,
+      "name": "Borriol",
+      "latitude": "40.04249000",
+      "longitude": "-0.07025000"
+    },
+    {
+      "id": 33067,
+      "name": "Cabanes",
+      "latitude": "40.15600000",
+      "longitude": "0.04325000"
+    },
+    {
+      "id": 33889,
+      "name": "Càlig",
+      "latitude": "40.46262000",
+      "longitude": "0.35521000"
+    },
+    {
+      "id": 33235,
+      "name": "Canet lo Roig",
+      "latitude": "40.55142000",
+      "longitude": "0.24308000"
+    },
+    {
+      "id": 33410,
+      "name": "Castell de Cabres",
+      "latitude": "40.66058000",
+      "longitude": "0.04217000"
+    },
+    {
+      "id": 33428,
+      "name": "Castellfort",
+      "latitude": "40.50208000",
+      "longitude": "-0.19133000"
+    },
+    {
+      "id": 33430,
+      "name": "Castellnovo",
+      "latitude": "39.86667000",
+      "longitude": "-0.45000000"
+    },
+    {
+      "id": 152379,
+      "name": "Castellón de la Plana/Castelló de la Plana",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33465,
+      "name": "Castillo de Villamalefa",
+      "latitude": "40.13333000",
+      "longitude": "-0.38333000"
+    },
+    {
+      "id": 33517,
+      "name": "Catí",
+      "latitude": "40.47156000",
+      "longitude": "0.02275000"
+    },
+    {
+      "id": 152380,
+      "name": "Caudiel",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33601,
+      "name": "Cervera del Maestre",
+      "latitude": "40.45366000",
+      "longitude": "0.27659000"
+    },
+    {
+      "id": 33628,
+      "name": "Chert/Xert",
+      "latitude": "40.51944000",
+      "longitude": "0.15831000"
+    },
+    {
+      "id": 152382,
+      "name": "Chilches/Xilxes",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152383,
+      "name": "Chodos/Xodos",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33654,
+      "name": "Chóvar",
+      "latitude": "39.85000000",
+      "longitude": "-0.31667000"
+    },
+    {
+      "id": 33678,
+      "name": "Cinctorres",
+      "latitude": "40.58333000",
+      "longitude": "-0.21667000"
+    },
+    {
+      "id": 33681,
+      "name": "Cirat",
+      "latitude": "40.05000000",
+      "longitude": "-0.45000000"
+    },
+    {
+      "id": 33809,
+      "name": "Cortes de Arenoso",
+      "latitude": "40.18812000",
+      "longitude": "-0.54195000"
+    },
+    {
+      "id": 33822,
+      "name": "Costur",
+      "latitude": "40.11971000",
+      "longitude": "-0.17385000"
+    },
+    {
+      "id": 152381,
+      "name": "Coves de Vinromà les",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33880,
+      "name": "Culla",
+      "latitude": "40.33650000",
+      "longitude": "-0.16569000"
+    },
+    {
+      "id": 34100,
+      "name": "Eslida",
+      "latitude": "39.88333000",
+      "longitude": "-0.30000000"
+    },
+    {
+      "id": 34103,
+      "name": "Espadilla",
+      "latitude": "40.03333000",
+      "longitude": "-0.35000000"
+    },
+    {
+      "id": 34161,
+      "name": "Fanzara",
+      "latitude": "40.01667000",
+      "longitude": "-0.31667000"
+    },
+    {
+      "id": 34185,
+      "name": "Figueroles",
+      "latitude": "40.11667000",
+      "longitude": "-0.23333000"
+    },
+    {
+      "id": 34220,
+      "name": "Forcall",
+      "latitude": "40.64542000",
+      "longitude": "-0.19992000"
+    },
+    {
+      "id": 34305,
+      "name": "Fuente la Reina",
+      "latitude": "40.06667000",
+      "longitude": "-0.60000000"
+    },
+    {
+      "id": 34339,
+      "name": "Fuentes de Ayódar",
+      "latitude": "40.03333000",
+      "longitude": "-0.41667000"
+    },
+    {
+      "id": 34370,
+      "name": "Gaibiel",
+      "latitude": "39.93333000",
+      "longitude": "-0.48333000"
+    },
+    {
+      "id": 34445,
+      "name": "Geldo",
+      "latitude": "39.83333000",
+      "longitude": "-0.46667000"
+    },
+    {
+      "id": 34579,
+      "name": "Herbés",
+      "latitude": "40.72100000",
+      "longitude": "-0.00441000"
+    },
+    {
+      "id": 34615,
+      "name": "Higueras",
+      "latitude": "39.98333000",
+      "longitude": "-0.50000000"
+    },
+    {
+      "id": 152384,
+      "name": "Jana la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34837,
+      "name": "Jérica",
+      "latitude": "39.91667000",
+      "longitude": "-0.56667000"
+    },
+    {
+      "id": 152385,
+      "name": "Llosa la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35151,
+      "name": "Lucena del Cid",
+      "latitude": "40.13333000",
+      "longitude": "-0.28333000"
+    },
+    {
+      "id": 35155,
+      "name": "Ludiente",
+      "latitude": "40.08333000",
+      "longitude": "-0.36667000"
+    },
+    {
+      "id": 152386,
+      "name": "Mata de Morella la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35341,
+      "name": "Matet",
+      "latitude": "39.93333000",
+      "longitude": "-0.46667000"
+    },
+    {
+      "id": 35502,
+      "name": "Moncofa",
+      "latitude": "39.80907000",
+      "longitude": "-0.14701000"
+    },
+    {
+      "id": 35587,
+      "name": "Montán",
+      "latitude": "40.03333000",
+      "longitude": "-0.55000000"
+    },
+    {
+      "id": 35536,
+      "name": "Montanejos",
+      "latitude": "40.06667000",
+      "longitude": "-0.51667000"
+    },
+    {
+      "id": 35624,
+      "name": "Morella",
+      "latitude": "40.61966000",
+      "longitude": "-0.09892000"
+    },
+    {
+      "id": 35738,
+      "name": "Navajas",
+      "latitude": "39.88333000",
+      "longitude": "-0.50000000"
+    },
+    {
+      "id": 35837,
+      "name": "Nules",
+      "latitude": "39.85362000",
+      "longitude": "-0.15643000"
+    },
+    {
+      "id": 35909,
+      "name": "Olocau del Rey",
+      "latitude": "40.63775000",
+      "longitude": "-0.34041000"
+    },
+    {
+      "id": 35922,
+      "name": "Onda",
+      "latitude": "39.96495000",
+      "longitude": "-0.26041000"
+    },
+    {
+      "id": 152387,
+      "name": "Oropesa del Mar/Orpesa",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36016,
+      "name": "Palanques",
+      "latitude": "40.71800000",
+      "longitude": "-0.17941000"
+    },
+    {
+      "id": 36084,
+      "name": "Pavías",
+      "latitude": "39.96667000",
+      "longitude": "-0.48333000"
+    },
+    {
+      "id": 152388,
+      "name": "Peníscola/Peñíscola",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36191,
+      "name": "Pina de Montalgrao",
+      "latitude": "40.01667000",
+      "longitude": "-0.65000000"
+    },
+    {
+      "id": 152389,
+      "name": "Pobla de Benifassà la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152390,
+      "name": "Pobla Tornesa la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36288,
+      "name": "Portell de Morella",
+      "latitude": "40.53267000",
+      "longitude": "-0.26249000"
+    },
+    {
+      "id": 36412,
+      "name": "Puebla de Arenoso",
+      "latitude": "40.10000000",
+      "longitude": "-0.58333000"
+    },
+    {
+      "id": 36618,
+      "name": "Ribesalbes",
+      "latitude": "40.01667000",
+      "longitude": "-0.26667000"
+    },
+    {
+      "id": 152391,
+      "name": "Rossell",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36726,
+      "name": "Sacañet",
+      "latitude": "39.86667000",
+      "longitude": "-0.71667000"
+    },
+    {
+      "id": 152392,
+      "name": "Salzadella la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152395,
+      "name": "San Rafael del Río",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152412,
+      "name": "Sant Joan de Moró",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152393,
+      "name": "Sant Jordi/San Jorge",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152394,
+      "name": "Sant Mateu",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37063,
+      "name": "Santa Magdalena de Pulpis",
+      "latitude": "40.35625000",
+      "longitude": "0.30258000"
+    },
+    {
+      "id": 37166,
+      "name": "Sarratella",
+      "latitude": "40.31284000",
+      "longitude": "0.03150000"
+    },
+    {
+      "id": 37191,
+      "name": "Segorbe",
+      "latitude": "39.85000000",
+      "longitude": "-0.48333000"
+    },
+    {
+      "id": 152396,
+      "name": "Sierra Engarcerán",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37293,
+      "name": "Soneja",
+      "latitude": "39.81667000",
+      "longitude": "-0.41667000"
+    },
+    {
+      "id": 37310,
+      "name": "Sot de Ferrer",
+      "latitude": "39.80000000",
+      "longitude": "-0.40000000"
+    },
+    {
+      "id": 152397,
+      "name": "Sueras/Suera",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37361,
+      "name": "Tales",
+      "latitude": "39.94844000",
+      "longitude": "-0.30719000"
+    },
+    {
+      "id": 152398,
+      "name": "Teresa",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152399,
+      "name": "Tírig",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37440,
+      "name": "Todolella",
+      "latitude": "40.64675000",
+      "longitude": "-0.24675000"
+    },
+    {
+      "id": 37441,
+      "name": "Toga",
+      "latitude": "40.05000000",
+      "longitude": "-0.36667000"
+    },
+    {
+      "id": 37601,
+      "name": "Torás",
+      "latitude": "39.91667000",
+      "longitude": "-0.68333000"
+    },
+    {
+      "id": 152400,
+      "name": "Toro El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37485,
+      "name": "Torralba del Pinar",
+      "latitude": "39.98333000",
+      "longitude": "-0.43333000"
+    },
+    {
+      "id": 152401,
+      "name": "Torre dEn Besora la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152402,
+      "name": "Torre den Doménec la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37510,
+      "name": "Torreblanca",
+      "latitude": "40.22033000",
+      "longitude": "0.19650000"
+    },
+    {
+      "id": 37514,
+      "name": "Torrechiva",
+      "latitude": "40.05000000",
+      "longitude": "-0.40000000"
+    },
+    {
+      "id": 37615,
+      "name": "Traiguera",
+      "latitude": "40.52511000",
+      "longitude": "0.29023000"
+    },
+    {
+      "id": 152403,
+      "name": "Useras/Useres les",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152405,
+      "name": "Vall dAlba",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37833,
+      "name": "Vall de Almonacid",
+      "latitude": "39.90000000",
+      "longitude": "-0.45000000"
+    },
+    {
+      "id": 152406,
+      "name": "Vall dUixó la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152404,
+      "name": "Vallat",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37860,
+      "name": "Vallibona",
+      "latitude": "40.60300000",
+      "longitude": "0.04642000"
+    },
+    {
+      "id": 37972,
+      "name": "Vila-real",
+      "latitude": "39.93830000",
+      "longitude": "-0.10087000"
+    },
+    {
+      "id": 152407,
+      "name": "Vilafamés",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152409,
+      "name": "Vilanova dAlcolea",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152410,
+      "name": "Vilar de Canes",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152411,
+      "name": "Vilavella la",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152408,
+      "name": "Villafranca del Cid/Vilafranca",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38084,
+      "name": "Villahermosa del Río",
+      "latitude": "40.20268000",
+      "longitude": "-0.41990000"
+    },
+    {
+      "id": 38128,
+      "name": "Villamalur",
+      "latitude": "39.96667000",
+      "longitude": "-0.40000000"
+    },
+    {
+      "id": 38195,
+      "name": "Villanueva de Viver",
+      "latitude": "40.05000000",
+      "longitude": "-0.65000000"
+    },
+    {
+      "id": 38373,
+      "name": "Villores",
+      "latitude": "40.67478000",
+      "longitude": "-0.20023000"
+    },
+    {
+      "id": 38391,
+      "name": "Vinaròs",
+      "latitude": "40.47033000",
+      "longitude": "0.47559000"
+    },
+    {
+      "id": 38400,
+      "name": "Vistabella del Maestrazgo",
+      "latitude": "40.29617000",
+      "longitude": "-0.29435000"
+    },
+    {
+      "id": 38405,
+      "name": "Viver",
+      "latitude": "39.91667000",
+      "longitude": "-0.60000000"
+    },
+    {
+      "id": 38498,
+      "name": "Zorita del Maestrazgo",
+      "latitude": "40.72817000",
+      "longitude": "-0.16667000"
+    },
+    {
+      "id": 38503,
+      "name": "Zucaina",
+      "latitude": "40.11667000",
+      "longitude": "-0.41667000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

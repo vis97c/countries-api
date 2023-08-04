@@ -1,0 +1,90 @@
+{
+  "id": 984,
+  "name": "Sekong Province",
+  "state_code": "XE",
+  "latitude": "15.57674460",
+  "longitude": "107.00670310",
+  "type": null,
+  "cities": [
+    {
+      "id": 65859,
+      "name": "Ban Thatèng",
+      "latitude": "15.43317000",
+      "longitude": "106.38272000"
+    },
+    {
+      "id": 65862,
+      "name": "Lamam",
+      "latitude": "15.41705000",
+      "longitude": "106.69461000"
+    },
+    {
+      "id": 65871,
+      "name": "Muang Dakchung",
+      "latitude": "15.38199000",
+      "longitude": "107.31847000"
+    },
+    {
+      "id": 65873,
+      "name": "Muang Khaleum",
+      "latitude": "15.79886000",
+      "longitude": "107.04529000"
+    },
+    {
+      "id": 65877,
+      "name": "Muang Laman",
+      "latitude": "15.41273000",
+      "longitude": "106.81706000"
+    },
+    {
+      "id": 65906,
+      "name": "Muang Thatèng",
+      "latitude": "15.42745000",
+      "longitude": "106.48149000"
+    }
+  ],
+  "country": {
+    "id": 119,
+    "name": "Laos",
+    "iso3": "LAO",
+    "iso2": "LA",
+    "numeric_code": "418",
+    "phone_code": "856",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "native": "ສປປລາວ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "라오스",
+      "pt-BR": "Laos",
+      "pt": "Laos",
+      "nl": "Laos",
+      "hr": "Laos",
+      "fa": "لائوس",
+      "de": "Laos",
+      "es": "Laos",
+      "fr": "Laos",
+      "ja": "ラオス人民民主共和国",
+      "it": "Laos",
+      "cn": "寮人民民主共和国",
+      "tr": "Laos"
+    },
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  }
+}

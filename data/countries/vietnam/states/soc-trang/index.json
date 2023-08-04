@@ -1,0 +1,96 @@
+{
+  "id": 3819,
+  "name": "Sóc Trăng",
+  "state_code": "52",
+  "latitude": "9.60252100",
+  "longitude": "105.97390490",
+  "type": null,
+  "cities": [
+    {
+      "id": 130336,
+      "name": "Huyện Kế Sách",
+      "latitude": "9.81771000",
+      "longitude": "105.94190000"
+    },
+    {
+      "id": 130343,
+      "name": "Huyện Long Phú",
+      "latitude": "9.63715000",
+      "longitude": "106.08226000"
+    },
+    {
+      "id": 130371,
+      "name": "Huyện Mỹ Tú",
+      "latitude": "9.60849000",
+      "longitude": "105.80681000"
+    },
+    {
+      "id": 130372,
+      "name": "Huyện Mỹ Xuyên",
+      "latitude": "9.44200000",
+      "longitude": "105.88546000"
+    },
+    {
+      "id": 130205,
+      "name": "Huyen Nga Nam",
+      "latitude": "9.56127000",
+      "longitude": "105.59476000"
+    },
+    {
+      "id": 130450,
+      "name": "Huyện Thạnh Trị",
+      "latitude": "9.46939000",
+      "longitude": "105.71196000"
+    },
+    {
+      "id": 130592,
+      "name": "Sóc Trăng",
+      "latitude": "9.59995000",
+      "longitude": "105.97193000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

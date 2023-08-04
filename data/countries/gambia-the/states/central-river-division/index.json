@@ -1,0 +1,210 @@
+{
+  "id": 2669,
+  "name": "Central River Division",
+  "state_code": "M",
+  "latitude": "13.59944690",
+  "longitude": "-14.89216680",
+  "type": null,
+  "cities": [
+    {
+      "id": 52222,
+      "name": "Bansang",
+      "latitude": "13.43333000",
+      "longitude": "-14.65000000"
+    },
+    {
+      "id": 52228,
+      "name": "Brikama Nding",
+      "latitude": "13.53333000",
+      "longitude": "-14.93333000"
+    },
+    {
+      "id": 52233,
+      "name": "Dankunku",
+      "latitude": "13.56667000",
+      "longitude": "-15.31667000"
+    },
+    {
+      "id": 52236,
+      "name": "Denton",
+      "latitude": "13.50000000",
+      "longitude": "-14.93333000"
+    },
+    {
+      "id": 52246,
+      "name": "Fulladu West",
+      "latitude": "13.50000000",
+      "longitude": "-14.75000000"
+    },
+    {
+      "id": 52247,
+      "name": "Galleh Manda",
+      "latitude": "13.43333000",
+      "longitude": "-14.78333000"
+    },
+    {
+      "id": 52248,
+      "name": "Georgetown",
+      "latitude": "13.54039000",
+      "longitude": "-14.76374000"
+    },
+    {
+      "id": 52252,
+      "name": "Jakhaly",
+      "latitude": "13.55000000",
+      "longitude": "-14.96667000"
+    },
+    {
+      "id": 52254,
+      "name": "Janjanbureh",
+      "latitude": "13.53564000",
+      "longitude": "-14.76515000"
+    },
+    {
+      "id": 52258,
+      "name": "Jarreng",
+      "latitude": "13.61667000",
+      "longitude": "-15.18333000"
+    },
+    {
+      "id": 52265,
+      "name": "Karantaba",
+      "latitude": "13.66667000",
+      "longitude": "-15.03333000"
+    },
+    {
+      "id": 52266,
+      "name": "Kass Wollof",
+      "latitude": "13.78333000",
+      "longitude": "-14.93333000"
+    },
+    {
+      "id": 52280,
+      "name": "Kuntaur",
+      "latitude": "13.67085000",
+      "longitude": "-14.88977000"
+    },
+    {
+      "id": 52281,
+      "name": "Kunting",
+      "latitude": "13.53333000",
+      "longitude": "-14.66667000"
+    },
+    {
+      "id": 52285,
+      "name": "Lower Saloum",
+      "latitude": "13.71667000",
+      "longitude": "-15.36667000"
+    },
+    {
+      "id": 52287,
+      "name": "Niamina East District",
+      "latitude": "13.63333000",
+      "longitude": "-15.08333000"
+    },
+    {
+      "id": 52288,
+      "name": "Niamina West District",
+      "latitude": "13.58333000",
+      "longitude": "-15.25000000"
+    },
+    {
+      "id": 52289,
+      "name": "Niani",
+      "latitude": "13.66667000",
+      "longitude": "-14.91667000"
+    },
+    {
+      "id": 52290,
+      "name": "Nianija District",
+      "latitude": "13.72900000",
+      "longitude": "-15.09100000"
+    },
+    {
+      "id": 52294,
+      "name": "Pateh Sam",
+      "latitude": "13.61667000",
+      "longitude": "-15.06667000"
+    },
+    {
+      "id": 52298,
+      "name": "Sami",
+      "latitude": "13.58333000",
+      "longitude": "-15.20000000"
+    },
+    {
+      "id": 52299,
+      "name": "Sami District",
+      "latitude": "13.58333000",
+      "longitude": "-14.58333000"
+    },
+    {
+      "id": 52303,
+      "name": "Saruja",
+      "latitude": "13.55000000",
+      "longitude": "-14.91667000"
+    },
+    {
+      "id": 52309,
+      "name": "Sukuta",
+      "latitude": "13.61667000",
+      "longitude": "-14.91667000"
+    },
+    {
+      "id": 52317,
+      "name": "Upper Saloum",
+      "latitude": "13.75000000",
+      "longitude": "-15.20000000"
+    },
+    {
+      "id": 52318,
+      "name": "Wassu",
+      "latitude": "13.69094000",
+      "longitude": "-14.87884000"
+    }
+  ],
+  "country": {
+    "id": 80,
+    "name": "Gambia The",
+    "iso3": "GMB",
+    "iso2": "GM",
+    "numeric_code": "270",
+    "phone_code": "220",
+    "capital": "Banjul",
+    "currency": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "tld": ".gm",
+    "native": "Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "감비아",
+      "pt-BR": "Gâmbia",
+      "pt": "Gâmbia",
+      "nl": "Gambia",
+      "hr": "Gambija",
+      "fa": "گامبیا",
+      "de": "Gambia",
+      "es": "Gambia",
+      "fr": "Gambie",
+      "ja": "ガンビア",
+      "it": "Gambia",
+      "cn": "冈比亚",
+      "tr": "Gambiya"
+    },
+    "latitude": "13.46666666",
+    "longitude": "-16.56666666",
+    "emoji": "🇬🇲",
+    "emojiU": "U+1F1EC U+1F1F2"
+  }
+}

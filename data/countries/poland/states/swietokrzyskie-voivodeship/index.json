@@ -1,0 +1,768 @@
+{
+  "id": 1630,
+  "name": "Świętokrzyskie Voivodeship",
+  "state_code": "SK",
+  "latitude": "50.62610410",
+  "longitude": "20.94062790",
+  "type": null,
+  "cities": [
+    {
+      "id": 85819,
+      "name": "Baćkowice",
+      "latitude": "50.79194000",
+      "longitude": "21.23211000"
+    },
+    {
+      "id": 85820,
+      "name": "Bałtów",
+      "latitude": "51.01845000",
+      "longitude": "21.54385000"
+    },
+    {
+      "id": 85823,
+      "name": "Bejsce",
+      "latitude": "50.23903000",
+      "longitude": "20.59834000"
+    },
+    {
+      "id": 85858,
+      "name": "Bieliny",
+      "latitude": "50.84947000",
+      "longitude": "20.94149000"
+    },
+    {
+      "id": 85883,
+      "name": "Bliżyn",
+      "latitude": "51.10778000",
+      "longitude": "20.75935000"
+    },
+    {
+      "id": 85894,
+      "name": "Bodzentyn",
+      "latitude": "50.94115000",
+      "longitude": "20.95719000"
+    },
+    {
+      "id": 85897,
+      "name": "Bogoria",
+      "latitude": "50.65175000",
+      "longitude": "21.26000000"
+    },
+    {
+      "id": 85945,
+      "name": "Brody",
+      "latitude": "51.02466000",
+      "longitude": "21.22147000"
+    },
+    {
+      "id": 85963,
+      "name": "Brzeziny",
+      "latitude": "50.77273000",
+      "longitude": "20.57319000"
+    },
+    {
+      "id": 85996,
+      "name": "Busko-Zdrój",
+      "latitude": "50.47078000",
+      "longitude": "20.71884000"
+    },
+    {
+      "id": 86073,
+      "name": "Chęciny",
+      "latitude": "50.80021000",
+      "longitude": "20.46229000"
+    },
+    {
+      "id": 86034,
+      "name": "Chmielnik",
+      "latitude": "50.61440000",
+      "longitude": "20.75206000"
+    },
+    {
+      "id": 88754,
+      "name": "Ćmielów",
+      "latitude": "50.89028000",
+      "longitude": "21.51426000"
+    },
+    {
+      "id": 86113,
+      "name": "Czarnocin",
+      "latitude": "50.34080000",
+      "longitude": "20.51620000"
+    },
+    {
+      "id": 86154,
+      "name": "Daleszyce",
+      "latitude": "50.80229000",
+      "longitude": "20.80791000"
+    },
+    {
+      "id": 86186,
+      "name": "Domaszowice",
+      "latitude": "50.87488000",
+      "longitude": "20.68288000"
+    },
+    {
+      "id": 86210,
+      "name": "Dwikozy",
+      "latitude": "50.73613000",
+      "longitude": "21.78864000"
+    },
+    {
+      "id": 86217,
+      "name": "Działoszyce",
+      "latitude": "50.36534000",
+      "longitude": "20.35226000"
+    },
+    {
+      "id": 86268,
+      "name": "Fałków",
+      "latitude": "51.13606000",
+      "longitude": "20.10610000"
+    },
+    {
+      "id": 86316,
+      "name": "Gnojno",
+      "latitude": "50.60263000",
+      "longitude": "20.84913000"
+    },
+    {
+      "id": 86415,
+      "name": "Górno",
+      "latitude": "50.84774000",
+      "longitude": "20.82501000"
+    },
+    {
+      "id": 86350,
+      "name": "Gowarczów",
+      "latitude": "51.27845000",
+      "longitude": "20.43835000"
+    },
+    {
+      "id": 86396,
+      "name": "Grzybowa Góra",
+      "latitude": "51.13326000",
+      "longitude": "20.96174000"
+    },
+    {
+      "id": 86458,
+      "name": "Imielno",
+      "latitude": "50.58569000",
+      "longitude": "20.44813000"
+    },
+    {
+      "id": 86463,
+      "name": "Iwaniska",
+      "latitude": "50.73146000",
+      "longitude": "21.28060000"
+    },
+    {
+      "id": 86578,
+      "name": "Jędrzejów",
+      "latitude": "50.63945000",
+      "longitude": "20.30454000"
+    },
+    {
+      "id": 86607,
+      "name": "Kaniów",
+      "latitude": "50.98577000",
+      "longitude": "20.66391000"
+    },
+    {
+      "id": 86627,
+      "name": "Kazimierza Wielka",
+      "latitude": "50.26564000",
+      "longitude": "20.49358000"
+    },
+    {
+      "id": 86633,
+      "name": "Kielce",
+      "latitude": "50.87033000",
+      "longitude": "20.62752000"
+    },
+    {
+      "id": 86638,
+      "name": "Kije",
+      "latitude": "50.60721000",
+      "longitude": "20.57121000"
+    },
+    {
+      "id": 86650,
+      "name": "Klimontów",
+      "latitude": "50.65588000",
+      "longitude": "21.45587000"
+    },
+    {
+      "id": 86750,
+      "name": "Końskie",
+      "latitude": "51.19166000",
+      "longitude": "20.40607000"
+    },
+    {
+      "id": 86699,
+      "name": "Koprzywnica",
+      "latitude": "50.59340000",
+      "longitude": "21.58380000"
+    },
+    {
+      "id": 86712,
+      "name": "Kostomłoty Drugie",
+      "latitude": "50.92684000",
+      "longitude": "20.56529000"
+    },
+    {
+      "id": 86713,
+      "name": "Kostomłoty Pierwsze",
+      "latitude": "50.92322000",
+      "longitude": "20.59490000"
+    },
+    {
+      "id": 86774,
+      "name": "Krasocin",
+      "latitude": "50.88874000",
+      "longitude": "20.11863000"
+    },
+    {
+      "id": 86839,
+      "name": "Kunów",
+      "latitude": "50.96156000",
+      "longitude": "21.28058000"
+    },
+    {
+      "id": 86916,
+      "name": "Lipnik",
+      "latitude": "50.72977000",
+      "longitude": "21.49389000"
+    },
+    {
+      "id": 88814,
+      "name": "Łączna",
+      "latitude": "51.00231000",
+      "longitude": "20.79712000"
+    },
+    {
+      "id": 88759,
+      "name": "Łagów",
+      "latitude": "50.77517000",
+      "longitude": "21.08431000"
+    },
+    {
+      "id": 88787,
+      "name": "Łoniów",
+      "latitude": "50.56443000",
+      "longitude": "21.52599000"
+    },
+    {
+      "id": 88791,
+      "name": "Łopuszno",
+      "latitude": "50.94864000",
+      "longitude": "20.25081000"
+    },
+    {
+      "id": 88798,
+      "name": "Łubnice",
+      "latitude": "50.41164000",
+      "longitude": "21.15014000"
+    },
+    {
+      "id": 87008,
+      "name": "Małogoszcz",
+      "latitude": "50.81214000",
+      "longitude": "20.26407000"
+    },
+    {
+      "id": 87003,
+      "name": "Masłów",
+      "latitude": "50.90065000",
+      "longitude": "20.72322000"
+    },
+    {
+      "id": 87023,
+      "name": "Michałów",
+      "latitude": "50.49541000",
+      "longitude": "20.46178000"
+    },
+    {
+      "id": 87028,
+      "name": "Miedziana Góra",
+      "latitude": "50.93680000",
+      "longitude": "20.55096000"
+    },
+    {
+      "id": 87057,
+      "name": "Mirzec",
+      "latitude": "51.13466000",
+      "longitude": "21.05710000"
+    },
+    {
+      "id": 87079,
+      "name": "Mniów",
+      "latitude": "51.01224000",
+      "longitude": "20.48427000"
+    },
+    {
+      "id": 87090,
+      "name": "Morawica",
+      "latitude": "50.74678000",
+      "longitude": "20.61756000"
+    },
+    {
+      "id": 87132,
+      "name": "Nagłowice",
+      "latitude": "50.67835000",
+      "longitude": "20.10661000"
+    },
+    {
+      "id": 87176,
+      "name": "Nowa Słupia",
+      "latitude": "50.86432000",
+      "longitude": "21.09049000"
+    },
+    {
+      "id": 87204,
+      "name": "Nowy Korczyn",
+      "latitude": "50.30124000",
+      "longitude": "20.80759000"
+    },
+    {
+      "id": 87218,
+      "name": "Obrazów",
+      "latitude": "50.69276000",
+      "longitude": "21.65045000"
+    },
+    {
+      "id": 87235,
+      "name": "Oksa",
+      "latitude": "50.72874000",
+      "longitude": "20.10086000"
+    },
+    {
+      "id": 87240,
+      "name": "Oleśnica",
+      "latitude": "50.45357000",
+      "longitude": "21.06457000"
+    },
+    {
+      "id": 87256,
+      "name": "Opatów",
+      "latitude": "50.80058000",
+      "longitude": "21.42538000"
+    },
+    {
+      "id": 87255,
+      "name": "Opatowiec",
+      "latitude": "50.24314000",
+      "longitude": "20.72348000"
+    },
+    {
+      "id": 87282,
+      "name": "Osiedle-Nowiny",
+      "latitude": "50.81770000",
+      "longitude": "20.54117000"
+    },
+    {
+      "id": 87283,
+      "name": "Osiek",
+      "latitude": "50.51996000",
+      "longitude": "21.44192000"
+    },
+    {
+      "id": 87299,
+      "name": "Ostrowiec Świętokrzyski",
+      "latitude": "50.92936000",
+      "longitude": "21.38525000"
+    },
+    {
+      "id": 87327,
+      "name": "Ożarów",
+      "latitude": "50.88798000",
+      "longitude": "21.66658000"
+    },
+    {
+      "id": 87331,
+      "name": "Pacanów",
+      "latitude": "50.40031000",
+      "longitude": "21.04148000"
+    },
+    {
+      "id": 87360,
+      "name": "Pawłów",
+      "latitude": "50.96216000",
+      "longitude": "21.12062000"
+    },
+    {
+      "id": 87378,
+      "name": "Piekoszów",
+      "latitude": "50.88035000",
+      "longitude": "20.46418000"
+    },
+    {
+      "id": 87381,
+      "name": "Pierzchnica",
+      "latitude": "50.69754000",
+      "longitude": "20.75489000"
+    },
+    {
+      "id": 87405,
+      "name": "Pińczów",
+      "latitude": "50.52052000",
+      "longitude": "20.52649000"
+    },
+    {
+      "id": 87776,
+      "name": "Połaniec",
+      "latitude": "50.43324000",
+      "longitude": "21.28120000"
+    },
+    {
+      "id": 87478,
+      "name": "Powiat buski",
+      "latitude": "50.45583000",
+      "longitude": "20.87624000"
+    },
+    {
+      "id": 87532,
+      "name": "Powiat jędrzejowski",
+      "latitude": "50.65676000",
+      "longitude": "20.18655000"
+    },
+    {
+      "id": 87537,
+      "name": "Powiat kazimierski",
+      "latitude": "50.28811000",
+      "longitude": "20.53368000"
+    },
+    {
+      "id": 87538,
+      "name": "Powiat kielecki",
+      "latitude": "50.80156000",
+      "longitude": "20.63322000"
+    },
+    {
+      "id": 87543,
+      "name": "Powiat konecki",
+      "latitude": "51.15145000",
+      "longitude": "20.34186000"
+    },
+    {
+      "id": 87615,
+      "name": "Powiat opatowski",
+      "latitude": "50.79639000",
+      "longitude": "21.44531000"
+    },
+    {
+      "id": 87619,
+      "name": "Powiat ostrowiecki",
+      "latitude": "50.94232000",
+      "longitude": "21.40739000"
+    },
+    {
+      "id": 87635,
+      "name": "Powiat pińczowski",
+      "latitude": "50.49968000",
+      "longitude": "20.47253000"
+    },
+    {
+      "id": 87667,
+      "name": "Powiat sandomierski",
+      "latitude": "50.69508000",
+      "longitude": "21.60900000"
+    },
+    {
+      "id": 87674,
+      "name": "Powiat skarżyski",
+      "latitude": "51.06496000",
+      "longitude": "20.79228000"
+    },
+    {
+      "id": 87680,
+      "name": "Powiat starachowicki",
+      "latitude": "51.05365000",
+      "longitude": "21.14295000"
+    },
+    {
+      "id": 87683,
+      "name": "Powiat staszowski",
+      "latitude": "50.51737000",
+      "longitude": "21.19594000"
+    },
+    {
+      "id": 87735,
+      "name": "Powiat włoszczowski",
+      "latitude": "50.83205000",
+      "longitude": "19.97696000"
+    },
+    {
+      "id": 87890,
+      "name": "Radoszyce",
+      "latitude": "51.07392000",
+      "longitude": "20.25836000"
+    },
+    {
+      "id": 87911,
+      "name": "Raków",
+      "latitude": "50.67427000",
+      "longitude": "21.04517000"
+    },
+    {
+      "id": 87947,
+      "name": "Rogów",
+      "latitude": "51.20414000",
+      "longitude": "20.43483000"
+    },
+    {
+      "id": 87970,
+      "name": "Ruda Maleniecka",
+      "latitude": "51.14592000",
+      "longitude": "20.22377000"
+    },
+    {
+      "id": 88014,
+      "name": "Rytwiany",
+      "latitude": "50.52920000",
+      "longitude": "21.20636000"
+    },
+    {
+      "id": 88043,
+      "name": "Sadowie",
+      "latitude": "50.85261000",
+      "longitude": "21.36884000"
+    },
+    {
+      "id": 88045,
+      "name": "Samborzec",
+      "latitude": "50.64663000",
+      "longitude": "21.64822000"
+    },
+    {
+      "id": 88046,
+      "name": "Sandomierz",
+      "latitude": "50.68265000",
+      "longitude": "21.74898000"
+    },
+    {
+      "id": 88054,
+      "name": "Secemin",
+      "latitude": "50.76676000",
+      "longitude": "19.83599000"
+    },
+    {
+      "id": 88328,
+      "name": "Sędziszów",
+      "latitude": "50.56590000",
+      "longitude": "20.05563000"
+    },
+    {
+      "id": 88095,
+      "name": "Skalbmierz",
+      "latitude": "50.31993000",
+      "longitude": "20.39929000"
+    },
+    {
+      "id": 88100,
+      "name": "Skarżysko Kościelne",
+      "latitude": "51.13822000",
+      "longitude": "20.91196000"
+    },
+    {
+      "id": 88101,
+      "name": "Skarżysko-Kamienna",
+      "latitude": "51.11311000",
+      "longitude": "20.87162000"
+    },
+    {
+      "id": 88348,
+      "name": "Słupia",
+      "latitude": "50.60073000",
+      "longitude": "19.97435000"
+    },
+    {
+      "id": 88127,
+      "name": "Smyków",
+      "latitude": "51.04442000",
+      "longitude": "20.40032000"
+    },
+    {
+      "id": 88131,
+      "name": "Sobków",
+      "latitude": "50.69999000",
+      "longitude": "20.45062000"
+    },
+    {
+      "id": 88144,
+      "name": "Solec-Zdrój",
+      "latitude": "50.36594000",
+      "longitude": "20.88956000"
+    },
+    {
+      "id": 88242,
+      "name": "Stąporków",
+      "latitude": "51.13762000",
+      "longitude": "20.57173000"
+    },
+    {
+      "id": 88179,
+      "name": "Starachowice",
+      "latitude": "51.03740000",
+      "longitude": "21.07126000"
+    },
+    {
+      "id": 88198,
+      "name": "Staszów",
+      "latitude": "50.56307000",
+      "longitude": "21.16593000"
+    },
+    {
+      "id": 88207,
+      "name": "Stopnica",
+      "latitude": "50.44018000",
+      "longitude": "20.93780000"
+    },
+    {
+      "id": 88214,
+      "name": "Strawczyn",
+      "latitude": "50.94177000",
+      "longitude": "20.42135000"
+    },
+    {
+      "id": 88250,
+      "name": "Suchedniów",
+      "latitude": "51.04776000",
+      "longitude": "20.82922000"
+    },
+    {
+      "id": 88322,
+      "name": "Szydłów",
+      "latitude": "50.59114000",
+      "longitude": "21.00680000"
+    },
+    {
+      "id": 88368,
+      "name": "Tarłów",
+      "latitude": "51.00160000",
+      "longitude": "21.71474000"
+    },
+    {
+      "id": 88421,
+      "name": "Tuczępy",
+      "latitude": "50.51676000",
+      "longitude": "20.99187000"
+    },
+    {
+      "id": 88632,
+      "name": "Wąchock",
+      "latitude": "51.07391000",
+      "longitude": "21.01243000"
+    },
+    {
+      "id": 88489,
+      "name": "Waśniów",
+      "latitude": "50.89914000",
+      "longitude": "21.22301000"
+    },
+    {
+      "id": 88506,
+      "name": "Wielka Wieś",
+      "latitude": "51.07107000",
+      "longitude": "20.96655000"
+    },
+    {
+      "id": 88534,
+      "name": "Wilczyce",
+      "latitude": "50.74694000",
+      "longitude": "21.65783000"
+    },
+    {
+      "id": 88560,
+      "name": "Wiślica",
+      "latitude": "50.34891000",
+      "longitude": "20.67438000"
+    },
+    {
+      "id": 88654,
+      "name": "Włoszczowa",
+      "latitude": "50.85256000",
+      "longitude": "19.96593000"
+    },
+    {
+      "id": 88568,
+      "name": "Wodzisław",
+      "latitude": "50.52047000",
+      "longitude": "20.19150000"
+    },
+    {
+      "id": 88572,
+      "name": "Wojciechowice",
+      "latitude": "50.84226000",
+      "longitude": "21.58942000"
+    },
+    {
+      "id": 88585,
+      "name": "Wola Jachowa",
+      "latitude": "50.84524000",
+      "longitude": "20.85814000"
+    },
+    {
+      "id": 88666,
+      "name": "Zagnańsk",
+      "latitude": "50.98037000",
+      "longitude": "20.66314000"
+    },
+    {
+      "id": 88702,
+      "name": "Zawichost",
+      "latitude": "50.80743000",
+      "longitude": "21.85408000"
+    },
+    {
+      "id": 88744,
+      "name": "Złota",
+      "latitude": "50.38160000",
+      "longitude": "20.59361000"
+    }
+  ],
+  "country": {
+    "id": 176,
+    "name": "Poland",
+    "iso3": "POL",
+    "iso2": "PL",
+    "numeric_code": "616",
+    "phone_code": "48",
+    "capital": "Warsaw",
+    "currency": "PLN",
+    "currency_name": "Polish złoty",
+    "currency_symbol": "zł",
+    "tld": ".pl",
+    "native": "Polska",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Warsaw",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "폴란드",
+      "pt-BR": "Polônia",
+      "pt": "Polónia",
+      "nl": "Polen",
+      "hr": "Poljska",
+      "fa": "لهستان",
+      "de": "Polen",
+      "es": "Polonia",
+      "fr": "Pologne",
+      "ja": "ポーランド",
+      "it": "Polonia",
+      "cn": "波兰",
+      "tr": "Polonya"
+    },
+    "latitude": "52.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇵🇱",
+    "emojiU": "U+1F1F5 U+1F1F1"
+  }
+}

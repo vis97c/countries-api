@@ -1,0 +1,255 @@
+{
+  "id": 1999,
+  "name": "Amapá",
+  "state_code": "AP",
+  "latitude": "0.90199250",
+  "longitude": "-52.00295650",
+  "type": null,
+  "cities": [
+    {
+      "id": 10204,
+      "name": "Amapá",
+      "latitude": "1.85706000",
+      "longitude": "-50.84374000"
+    },
+    {
+      "id": 10933,
+      "name": "Calçoene",
+      "latitude": "2.36098000",
+      "longitude": "-51.45285000"
+    },
+    {
+      "id": 11541,
+      "name": "Cutias",
+      "latitude": "0.99713000",
+      "longitude": "-50.52041000"
+    },
+    {
+      "id": 11812,
+      "name": "Ferreira Gomes",
+      "latitude": "0.91012000",
+      "longitude": "-51.35442000"
+    },
+    {
+      "id": 12462,
+      "name": "Itaubal",
+      "latitude": "0.57732000",
+      "longitude": "-50.67833000"
+    },
+    {
+      "id": 12798,
+      "name": "Laranjal do Jari",
+      "latitude": "0.93828000",
+      "longitude": "-53.22949000"
+    },
+    {
+      "id": 12887,
+      "name": "Macapá",
+      "latitude": "0.03889000",
+      "longitude": "-51.06639000"
+    },
+    {
+      "id": 13088,
+      "name": "Mazagão",
+      "latitude": "-0.11500000",
+      "longitude": "-51.28944000"
+    },
+    {
+      "id": 13492,
+      "name": "Oiapoque",
+      "latitude": "2.70795000",
+      "longitude": "-52.16963000"
+    },
+    {
+      "id": 13751,
+      "name": "Pedra Branca do Amapari",
+      "latitude": "1.14843000",
+      "longitude": "-52.40118000"
+    },
+    {
+      "id": 14008,
+      "name": "Porto Grande",
+      "latitude": "0.56553000",
+      "longitude": "-51.71181000"
+    },
+    {
+      "id": 14058,
+      "name": "Pracuúba",
+      "latitude": "1.67076000",
+      "longitude": "-51.24490000"
+    },
+    {
+      "id": 14568,
+      "name": "Santana",
+      "latitude": "-0.05833000",
+      "longitude": "-51.18167000"
+    },
+    {
+      "id": 14739,
+      "name": "Serra do Navio",
+      "latitude": "1.65803000",
+      "longitude": "-52.28195000"
+    },
+    {
+      "id": 15255,
+      "name": "Tartarugalzinho",
+      "latitude": "1.26300000",
+      "longitude": "-51.10973000"
+    },
+    {
+      "id": 15602,
+      "name": "Vitória do Jari",
+      "latitude": "-0.95653000",
+      "longitude": "-52.03443000"
+    }
+  ],
+  "country": {
+    "id": 31,
+    "name": "Brazil",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "numeric_code": "076",
+    "phone_code": "55",
+    "capital": "Brasilia",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "native": "Brasil",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "translations": {
+      "kr": "브라질",
+      "pt-BR": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "cn": "巴西",
+      "tr": "Brezilya"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": 3115,
+  "name": "Centre-Ouest Region",
+  "state_code": "06",
+  "latitude": "11.87984660",
+  "longitude": "-2.30244600",
+  "type": null,
+  "cities": [
+    {
+      "id": 9178,
+      "name": "Goulouré",
+      "latitude": "12.23484000",
+      "longitude": "-1.93394000"
+    },
+    {
+      "id": 9183,
+      "name": "Kokologo",
+      "latitude": "12.19392000",
+      "longitude": "-1.87687000"
+    },
+    {
+      "id": 9186,
+      "name": "Koudougou",
+      "latitude": "12.25263000",
+      "longitude": "-2.36272000"
+    },
+    {
+      "id": 9189,
+      "name": "Léo",
+      "latitude": "11.10033000",
+      "longitude": "-2.10654000"
+    },
+    {
+      "id": 9198,
+      "name": "Pitmoaga",
+      "latitude": "12.24564000",
+      "longitude": "-1.88148000"
+    },
+    {
+      "id": 9205,
+      "name": "Province de la Sissili",
+      "latitude": "11.33333000",
+      "longitude": "-2.25000000"
+    },
+    {
+      "id": 9212,
+      "name": "Province du Boulkiemdé",
+      "latitude": "12.33333000",
+      "longitude": "-2.16667000"
+    },
+    {
+      "id": 9227,
+      "name": "Province du Sanguié",
+      "latitude": "12.16667000",
+      "longitude": "-2.66667000"
+    },
+    {
+      "id": 9235,
+      "name": "Province du Ziro",
+      "latitude": "11.58333000",
+      "longitude": "-1.91667000"
+    },
+    {
+      "id": 9238,
+      "name": "Réo",
+      "latitude": "12.31963000",
+      "longitude": "-2.47094000"
+    },
+    {
+      "id": 9240,
+      "name": "Sapouy",
+      "latitude": "11.55444000",
+      "longitude": "-1.77361000"
+    }
+  ],
+  "country": {
+    "id": 35,
+    "name": "Burkina Faso",
+    "iso3": "BFA",
+    "iso2": "BF",
+    "numeric_code": "854",
+    "phone_code": "226",
+    "capital": "Ouagadougou",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "native": "Burkina Faso",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "부르키나 파소",
+      "pt-BR": "Burkina Faso",
+      "pt": "Burquina Faso",
+      "nl": "Burkina Faso",
+      "hr": "Burkina Faso",
+      "fa": "بورکینافاسو",
+      "de": "Burkina Faso",
+      "es": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "ja": "ブルキナファソ",
+      "it": "Burkina Faso",
+      "cn": "布基纳法索",
+      "tr": "Burkina Faso"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  }
+}

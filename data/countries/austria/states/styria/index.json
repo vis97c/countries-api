@@ -1,0 +1,2976 @@
+{
+  "id": 2059,
+  "name": "Styria",
+  "state_code": "6",
+  "latitude": "47.35934420",
+  "longitude": "14.46998270",
+  "type": null,
+  "cities": [
+    {
+      "id": 1604,
+      "name": "Abtissendorf",
+      "latitude": "46.99583000",
+      "longitude": "15.45639000"
+    },
+    {
+      "id": 1610,
+      "name": "Admont",
+      "latitude": "47.57537000",
+      "longitude": "14.46075000"
+    },
+    {
+      "id": 1613,
+      "name": "Aflenz Kurort",
+      "latitude": "47.54211000",
+      "longitude": "15.23898000"
+    },
+    {
+      "id": 1616,
+      "name": "Aibl",
+      "latitude": "46.68145000",
+      "longitude": "15.22619000"
+    },
+    {
+      "id": 1618,
+      "name": "Aigen im Ennstal",
+      "latitude": "47.51667000",
+      "longitude": "14.13333000"
+    },
+    {
+      "id": 1624,
+      "name": "Albersdorf",
+      "latitude": "47.12166000",
+      "longitude": "15.69826000"
+    },
+    {
+      "id": 1629,
+      "name": "Allerheiligen bei Wildon",
+      "latitude": "46.91417000",
+      "longitude": "15.55444000"
+    },
+    {
+      "id": 1631,
+      "name": "Allerheiligen im Mürztal",
+      "latitude": "47.46667000",
+      "longitude": "15.40000000"
+    },
+    {
+      "id": 1636,
+      "name": "Altaussee",
+      "latitude": "47.63844000",
+      "longitude": "13.76278000"
+    },
+    {
+      "id": 1642,
+      "name": "Altenmarkt bei Fürstenfeld",
+      "latitude": "47.06638000",
+      "longitude": "16.04785000"
+    },
+    {
+      "id": 1643,
+      "name": "Altenmarkt bei Sankt Gallen",
+      "latitude": "47.72327000",
+      "longitude": "14.64838000"
+    },
+    {
+      "id": 1661,
+      "name": "Andritz",
+      "latitude": "47.11387000",
+      "longitude": "15.42348000"
+    },
+    {
+      "id": 1664,
+      "name": "Anger",
+      "latitude": "47.27422000",
+      "longitude": "15.69139000"
+    },
+    {
+      "id": 1674,
+      "name": "Apfelberg",
+      "latitude": "47.20000000",
+      "longitude": "14.83333000"
+    },
+    {
+      "id": 1677,
+      "name": "Ardning",
+      "latitude": "47.59120000",
+      "longitude": "14.36372000"
+    },
+    {
+      "id": 1678,
+      "name": "Arnfels",
+      "latitude": "46.67639000",
+      "longitude": "15.40306000"
+    },
+    {
+      "id": 1682,
+      "name": "Arzberg",
+      "latitude": "47.25000000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 1694,
+      "name": "Attendorf",
+      "latitude": "47.00426000",
+      "longitude": "15.33897000"
+    },
+    {
+      "id": 1707,
+      "name": "Auersbach",
+      "latitude": "47.01667000",
+      "longitude": "15.86667000"
+    },
+    {
+      "id": 1716,
+      "name": "Bad Aussee",
+      "latitude": "47.60998000",
+      "longitude": "13.78243000"
+    },
+    {
+      "id": 1717,
+      "name": "Bad Blumau",
+      "latitude": "47.11667000",
+      "longitude": "16.05000000"
+    },
+    {
+      "id": 1721,
+      "name": "Bad Gams",
+      "latitude": "46.87111000",
+      "longitude": "15.22472000"
+    },
+    {
+      "id": 1723,
+      "name": "Bad Gleichenberg",
+      "latitude": "46.87556000",
+      "longitude": "15.90861000"
+    },
+    {
+      "id": 1732,
+      "name": "Bad Radkersburg",
+      "latitude": "46.68806000",
+      "longitude": "15.98806000"
+    },
+    {
+      "id": 1740,
+      "name": "Bad Waltersdorf",
+      "latitude": "47.16960000",
+      "longitude": "16.00870000"
+    },
+    {
+      "id": 1744,
+      "name": "Baierdorf-Umgebung",
+      "latitude": "47.28511000",
+      "longitude": "15.71045000"
+    },
+    {
+      "id": 1745,
+      "name": "Bairisch Kölldorf",
+      "latitude": "46.86667000",
+      "longitude": "15.93333000"
+    },
+    {
+      "id": 1823,
+      "name": "Bärnbach",
+      "latitude": "47.07141000",
+      "longitude": "15.12792000"
+    },
+    {
+      "id": 1750,
+      "name": "Baumgarten bei Gnas",
+      "latitude": "46.91667000",
+      "longitude": "15.76667000"
+    },
+    {
+      "id": 1762,
+      "name": "Berndorf",
+      "latitude": "47.41667000",
+      "longitude": "15.26667000"
+    },
+    {
+      "id": 1772,
+      "name": "Bierbaum am Auersbach",
+      "latitude": "46.82949000",
+      "longitude": "15.79237000"
+    },
+    {
+      "id": 1775,
+      "name": "Birkfeld",
+      "latitude": "47.35000000",
+      "longitude": "15.68333000"
+    },
+    {
+      "id": 1780,
+      "name": "Blaindorf",
+      "latitude": "47.17498000",
+      "longitude": "15.86795000"
+    },
+    {
+      "id": 1799,
+      "name": "Breitenfeld am Tannenriegel",
+      "latitude": "46.85000000",
+      "longitude": "15.63333000"
+    },
+    {
+      "id": 1800,
+      "name": "Breitenfeld an der Rittschein",
+      "latitude": "47.03333000",
+      "longitude": "15.95000000"
+    },
+    {
+      "id": 1803,
+      "name": "Bretstein",
+      "latitude": "47.33333000",
+      "longitude": "14.41667000"
+    },
+    {
+      "id": 1810,
+      "name": "Bruck an der Mur",
+      "latitude": "47.41667000",
+      "longitude": "15.28333000"
+    },
+    {
+      "id": 1812,
+      "name": "Brunn",
+      "latitude": "46.72944000",
+      "longitude": "15.30000000"
+    },
+    {
+      "id": 1820,
+      "name": "Burgau",
+      "latitude": "47.14268000",
+      "longitude": "16.09643000"
+    },
+    {
+      "id": 1832,
+      "name": "Dechantskirchen",
+      "latitude": "47.41667000",
+      "longitude": "16.01667000"
+    },
+    {
+      "id": 1836,
+      "name": "Deuchendorf",
+      "latitude": "47.46593000",
+      "longitude": "15.32172000"
+    },
+    {
+      "id": 1837,
+      "name": "Deutsch Goritz",
+      "latitude": "46.75083000",
+      "longitude": "15.82944000"
+    },
+    {
+      "id": 1842,
+      "name": "Deutschfeistritz",
+      "latitude": "47.19852000",
+      "longitude": "15.33623000"
+    },
+    {
+      "id": 1844,
+      "name": "Deutschlandsberg",
+      "latitude": "46.81528000",
+      "longitude": "15.22222000"
+    },
+    {
+      "id": 1846,
+      "name": "Diemlach",
+      "latitude": "47.43610000",
+      "longitude": "15.27460000"
+    },
+    {
+      "id": 1847,
+      "name": "Dienersdorf",
+      "latitude": "47.23979000",
+      "longitude": "15.90142000"
+    },
+    {
+      "id": 1852,
+      "name": "Dietersdorf",
+      "latitude": "47.20000000",
+      "longitude": "14.66667000"
+    },
+    {
+      "id": 1853,
+      "name": "Dietersdorf am Gnasbach",
+      "latitude": "46.80917000",
+      "longitude": "15.81167000"
+    },
+    {
+      "id": 1857,
+      "name": "Donawitz",
+      "latitude": "47.36667000",
+      "longitude": "15.06667000"
+    },
+    {
+      "id": 1858,
+      "name": "Donnersbach",
+      "latitude": "47.46139000",
+      "longitude": "14.12972000"
+    },
+    {
+      "id": 1879,
+      "name": "Dürnstein in der Steiermark",
+      "latitude": "46.98833000",
+      "longitude": "14.39167000"
+    },
+    {
+      "id": 1892,
+      "name": "Ebersdorf",
+      "latitude": "47.19852000",
+      "longitude": "15.96219000"
+    },
+    {
+      "id": 1899,
+      "name": "Edelsbach bei Feldbach",
+      "latitude": "46.98944000",
+      "longitude": "15.83694000"
+    },
+    {
+      "id": 1900,
+      "name": "Edelschrott",
+      "latitude": "47.02156000",
+      "longitude": "15.05266000"
+    },
+    {
+      "id": 1901,
+      "name": "Edelsgrub",
+      "latitude": "47.03333000",
+      "longitude": "15.60000000"
+    },
+    {
+      "id": 1903,
+      "name": "Edelstauden",
+      "latitude": "46.98333000",
+      "longitude": "15.61667000"
+    },
+    {
+      "id": 1908,
+      "name": "Eggenberg",
+      "latitude": "47.07000000",
+      "longitude": "15.39871000"
+    },
+    {
+      "id": 1912,
+      "name": "Eggersdorf bei Graz",
+      "latitude": "47.12338000",
+      "longitude": "15.60084000"
+    },
+    {
+      "id": 1914,
+      "name": "Ehrenhausen",
+      "latitude": "46.72417000",
+      "longitude": "15.58667000"
+    },
+    {
+      "id": 1916,
+      "name": "Eibiswald",
+      "latitude": "46.68667000",
+      "longitude": "15.24722000"
+    },
+    {
+      "id": 1917,
+      "name": "Eichberg",
+      "latitude": "47.38188000",
+      "longitude": "15.97356000"
+    },
+    {
+      "id": 1919,
+      "name": "Eichfeld",
+      "latitude": "46.72528000",
+      "longitude": "15.76806000"
+    },
+    {
+      "id": 1922,
+      "name": "Eisbach",
+      "latitude": "47.11667000",
+      "longitude": "15.26667000"
+    },
+    {
+      "id": 1923,
+      "name": "Eisenerz",
+      "latitude": "47.53333000",
+      "longitude": "14.88333000"
+    },
+    {
+      "id": 1936,
+      "name": "Empersdorf",
+      "latitude": "46.99892000",
+      "longitude": "15.59959000"
+    },
+    {
+      "id": 1945,
+      "name": "Eppenstein",
+      "latitude": "47.12833000",
+      "longitude": "14.73750000"
+    },
+    {
+      "id": 1959,
+      "name": "Falkenburg",
+      "latitude": "47.50000000",
+      "longitude": "14.08333000"
+    },
+    {
+      "id": 1962,
+      "name": "Farrach",
+      "latitude": "47.18333000",
+      "longitude": "14.73333000"
+    },
+    {
+      "id": 1964,
+      "name": "Fehring",
+      "latitude": "46.94000000",
+      "longitude": "16.00806000"
+    },
+    {
+      "id": 1968,
+      "name": "Feistritz bei Knittelfeld",
+      "latitude": "47.26802000",
+      "longitude": "14.89334000"
+    },
+    {
+      "id": 1972,
+      "name": "Feldbach",
+      "latitude": "46.95306000",
+      "longitude": "15.88833000"
+    },
+    {
+      "id": 1975,
+      "name": "Feldkirchen bei Graz",
+      "latitude": "47.01667000",
+      "longitude": "15.45000000"
+    },
+    {
+      "id": 1982,
+      "name": "Fernitz",
+      "latitude": "46.97389000",
+      "longitude": "15.50111000"
+    },
+    {
+      "id": 1991,
+      "name": "Fischbach",
+      "latitude": "47.44234000",
+      "longitude": "15.64972000"
+    },
+    {
+      "id": 1995,
+      "name": "Fladnitz im Raabtal",
+      "latitude": "46.99167000",
+      "longitude": "15.78528000"
+    },
+    {
+      "id": 1996,
+      "name": "Flatschach",
+      "latitude": "47.21667000",
+      "longitude": "14.75000000"
+    },
+    {
+      "id": 2001,
+      "name": "Floing",
+      "latitude": "47.26356000",
+      "longitude": "15.74650000"
+    },
+    {
+      "id": 2003,
+      "name": "Fohnsdorf",
+      "latitude": "47.20000000",
+      "longitude": "14.68333000"
+    },
+    {
+      "id": 2011,
+      "name": "Frannach",
+      "latitude": "46.91306000",
+      "longitude": "15.63361000"
+    },
+    {
+      "id": 2013,
+      "name": "Frauenberg",
+      "latitude": "47.42855000",
+      "longitude": "15.34206000"
+    },
+    {
+      "id": 2017,
+      "name": "Freidorf an der Laßnitz",
+      "latitude": "46.81667000",
+      "longitude": "15.25000000"
+    },
+    {
+      "id": 2018,
+      "name": "Freiland bei Deutschlandsberg",
+      "latitude": "46.83333000",
+      "longitude": "15.13333000"
+    },
+    {
+      "id": 2023,
+      "name": "Friedberg",
+      "latitude": "47.43333000",
+      "longitude": "16.05000000"
+    },
+    {
+      "id": 2026,
+      "name": "Frohnleiten",
+      "latitude": "47.26667000",
+      "longitude": "15.31667000"
+    },
+    {
+      "id": 2037,
+      "name": "Fürstenfeld",
+      "latitude": "47.05000000",
+      "longitude": "16.08333000"
+    },
+    {
+      "id": 2039,
+      "name": "Gaal",
+      "latitude": "47.27268000",
+      "longitude": "14.67003000"
+    },
+    {
+      "id": 2040,
+      "name": "Gabersdorf",
+      "latitude": "46.77722000",
+      "longitude": "15.58417000"
+    },
+    {
+      "id": 2047,
+      "name": "Gallmannsegg",
+      "latitude": "47.18333000",
+      "longitude": "15.06667000"
+    },
+    {
+      "id": 2053,
+      "name": "Gamlitz",
+      "latitude": "46.72028000",
+      "longitude": "15.55333000"
+    },
+    {
+      "id": 2055,
+      "name": "Gams bei Hieflau",
+      "latitude": "47.66667000",
+      "longitude": "14.78333000"
+    },
+    {
+      "id": 2056,
+      "name": "Ganz",
+      "latitude": "47.60000000",
+      "longitude": "15.68333000"
+    },
+    {
+      "id": 2057,
+      "name": "Garanas",
+      "latitude": "46.76667000",
+      "longitude": "15.11667000"
+    },
+    {
+      "id": 2061,
+      "name": "Gasen",
+      "latitude": "47.38333000",
+      "longitude": "15.56667000"
+    },
+    {
+      "id": 2070,
+      "name": "Geidorf",
+      "latitude": "47.08393000",
+      "longitude": "15.44400000"
+    },
+    {
+      "id": 2071,
+      "name": "Geistthal",
+      "latitude": "47.16667000",
+      "longitude": "15.16667000"
+    },
+    {
+      "id": 2079,
+      "name": "Gersdorf an der Feistritz",
+      "latitude": "47.16667000",
+      "longitude": "15.85000000"
+    },
+    {
+      "id": 2085,
+      "name": "Gleinstätten",
+      "latitude": "46.75361000",
+      "longitude": "15.36972000"
+    },
+    {
+      "id": 2086,
+      "name": "Gleisdorf",
+      "latitude": "47.10559000",
+      "longitude": "15.71011000"
+    },
+    {
+      "id": 2090,
+      "name": "Glojach",
+      "latitude": "46.86667000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 2097,
+      "name": "Gnas",
+      "latitude": "46.87306000",
+      "longitude": "15.82528000"
+    },
+    {
+      "id": 2100,
+      "name": "Gniebing",
+      "latitude": "46.96252000",
+      "longitude": "15.85645000"
+    },
+    {
+      "id": 2106,
+      "name": "Gosdorf",
+      "latitude": "46.72778000",
+      "longitude": "15.79250000"
+    },
+    {
+      "id": 2187,
+      "name": "Göss",
+      "latitude": "47.35871000",
+      "longitude": "15.10015000"
+    },
+    {
+      "id": 2188,
+      "name": "Gössenberg",
+      "latitude": "47.41667000",
+      "longitude": "13.81667000"
+    },
+    {
+      "id": 2107,
+      "name": "Gossendorf",
+      "latitude": "46.91076000",
+      "longitude": "15.93043000"
+    },
+    {
+      "id": 2190,
+      "name": "Gösting",
+      "latitude": "47.09788000",
+      "longitude": "15.39777000"
+    },
+    {
+      "id": 2192,
+      "name": "Göttelsberg",
+      "latitude": "47.21667000",
+      "longitude": "15.60000000"
+    },
+    {
+      "id": 2108,
+      "name": "Grabersdorf",
+      "latitude": "46.84306000",
+      "longitude": "15.82472000"
+    },
+    {
+      "id": 2109,
+      "name": "Grafendorf bei Hartberg",
+      "latitude": "47.34028000",
+      "longitude": "15.99060000"
+    },
+    {
+      "id": 2115,
+      "name": "Gralla",
+      "latitude": "46.81404000",
+      "longitude": "15.55510000"
+    },
+    {
+      "id": 2119,
+      "name": "Grambach",
+      "latitude": "47.01473000",
+      "longitude": "15.50407000"
+    },
+    {
+      "id": 2120,
+      "name": "Gratkorn",
+      "latitude": "47.13333000",
+      "longitude": "15.35000000"
+    },
+    {
+      "id": 2121,
+      "name": "Gratwein",
+      "latitude": "47.11667000",
+      "longitude": "15.31667000"
+    },
+    {
+      "id": 2122,
+      "name": "Graz",
+      "latitude": "47.06667000",
+      "longitude": "15.45000000"
+    },
+    {
+      "id": 2123,
+      "name": "Graz Stadt",
+      "latitude": "47.06667000",
+      "longitude": "15.43333000"
+    },
+    {
+      "id": 2127,
+      "name": "Greisdorf",
+      "latitude": "46.92647000",
+      "longitude": "15.21906000"
+    },
+    {
+      "id": 2128,
+      "name": "Gressenberg",
+      "latitude": "46.80000000",
+      "longitude": "15.11667000"
+    },
+    {
+      "id": 2131,
+      "name": "Gries",
+      "latitude": "47.06236000",
+      "longitude": "15.42421000"
+    },
+    {
+      "id": 2165,
+      "name": "Gröbming",
+      "latitude": "47.44272000",
+      "longitude": "13.90122000"
+    },
+    {
+      "id": 2145,
+      "name": "Groß Sankt Florian",
+      "latitude": "46.82444000",
+      "longitude": "15.31861000"
+    },
+    {
+      "id": 2156,
+      "name": "Großklein",
+      "latitude": "46.73611000",
+      "longitude": "15.44444000"
+    },
+    {
+      "id": 2158,
+      "name": "Großlobming",
+      "latitude": "47.18333000",
+      "longitude": "14.80000000"
+    },
+    {
+      "id": 2162,
+      "name": "Großsölk",
+      "latitude": "47.41667000",
+      "longitude": "13.96667000"
+    },
+    {
+      "id": 2144,
+      "name": "Grosssulz",
+      "latitude": "46.94556000",
+      "longitude": "15.49028000"
+    },
+    {
+      "id": 2174,
+      "name": "Gundersdorf",
+      "latitude": "46.95000000",
+      "longitude": "15.23333000"
+    },
+    {
+      "id": 2206,
+      "name": "Hafendorf",
+      "latitude": "47.45653000",
+      "longitude": "15.31837000"
+    },
+    {
+      "id": 2217,
+      "name": "Hainersdorf",
+      "latitude": "47.11506000",
+      "longitude": "15.94374000"
+    },
+    {
+      "id": 2219,
+      "name": "Hainsdorf im Schwarzautal",
+      "latitude": "46.83583000",
+      "longitude": "15.64139000"
+    },
+    {
+      "id": 2221,
+      "name": "Halbenrain",
+      "latitude": "46.72194000",
+      "longitude": "15.94667000"
+    },
+    {
+      "id": 2223,
+      "name": "Hall bei Admont",
+      "latitude": "47.58700000",
+      "longitude": "14.46372000"
+    },
+    {
+      "id": 2236,
+      "name": "Hart bei Graz",
+      "latitude": "47.04311000",
+      "longitude": "15.51527000"
+    },
+    {
+      "id": 2238,
+      "name": "Hartberg",
+      "latitude": "47.28333000",
+      "longitude": "15.96667000"
+    },
+    {
+      "id": 2241,
+      "name": "Hartl",
+      "latitude": "47.18333000",
+      "longitude": "15.91667000"
+    },
+    {
+      "id": 2242,
+      "name": "Hartmannsdorf",
+      "latitude": "47.05461000",
+      "longitude": "15.83941000"
+    },
+    {
+      "id": 2246,
+      "name": "Hatzendorf",
+      "latitude": "46.97686000",
+      "longitude": "16.00107000"
+    },
+    {
+      "id": 2250,
+      "name": "Haus",
+      "latitude": "47.40997000",
+      "longitude": "13.76724000"
+    },
+    {
+      "id": 2251,
+      "name": "Haus im Ennstal",
+      "latitude": "47.41058000",
+      "longitude": "13.76759000"
+    },
+    {
+      "id": 2255,
+      "name": "Hausmannstätten",
+      "latitude": "46.99111000",
+      "longitude": "15.51139000"
+    },
+    {
+      "id": 2262,
+      "name": "Heiligenkreuz am Waasen",
+      "latitude": "46.95583000",
+      "longitude": "15.58806000"
+    },
+    {
+      "id": 2264,
+      "name": "Heimschuh",
+      "latitude": "46.76000000",
+      "longitude": "15.49306000"
+    },
+    {
+      "id": 2268,
+      "name": "Hengsberg",
+      "latitude": "46.86667000",
+      "longitude": "15.43333000"
+    },
+    {
+      "id": 2277,
+      "name": "Hetzendorf",
+      "latitude": "47.18333000",
+      "longitude": "14.68333000"
+    },
+    {
+      "id": 2279,
+      "name": "Hieflau",
+      "latitude": "47.60639000",
+      "longitude": "14.74503000"
+    },
+    {
+      "id": 2284,
+      "name": "Hinterberg",
+      "latitude": "47.36066000",
+      "longitude": "15.06951000"
+    },
+    {
+      "id": 2291,
+      "name": "Hirnsdorf",
+      "latitude": "47.19167000",
+      "longitude": "15.82868000"
+    },
+    {
+      "id": 2296,
+      "name": "Hitzendorf",
+      "latitude": "47.03333000",
+      "longitude": "15.30000000"
+    },
+    {
+      "id": 2301,
+      "name": "Hochtregist",
+      "latitude": "47.10000000",
+      "longitude": "15.13333000"
+    },
+    {
+      "id": 2337,
+      "name": "Höf",
+      "latitude": "47.13401000",
+      "longitude": "15.49092000"
+    },
+    {
+      "id": 2307,
+      "name": "Hof bei Straden",
+      "latitude": "46.80000000",
+      "longitude": "15.93333000"
+    },
+    {
+      "id": 2311,
+      "name": "Hofstätten an der Raab",
+      "latitude": "47.06667000",
+      "longitude": "15.73333000"
+    },
+    {
+      "id": 2313,
+      "name": "Hohenau an der Raab",
+      "latitude": "47.30000000",
+      "longitude": "15.55000000"
+    },
+    {
+      "id": 2318,
+      "name": "Hohentauern",
+      "latitude": "47.43333000",
+      "longitude": "14.48333000"
+    },
+    {
+      "id": 2322,
+      "name": "Hollenegg",
+      "latitude": "46.79147000",
+      "longitude": "15.21345000"
+    },
+    {
+      "id": 2341,
+      "name": "Hönigsberg",
+      "latitude": "47.58038000",
+      "longitude": "15.64808000"
+    },
+    {
+      "id": 2352,
+      "name": "Ilz",
+      "latitude": "47.08649000",
+      "longitude": "15.92676000"
+    },
+    {
+      "id": 2357,
+      "name": "Innere Stadt",
+      "latitude": "47.06650000",
+      "longitude": "15.44051000"
+    },
+    {
+      "id": 2365,
+      "name": "Irdning",
+      "latitude": "47.50529000",
+      "longitude": "14.10155000"
+    },
+    {
+      "id": 2371,
+      "name": "Jagerberg",
+      "latitude": "46.85361000",
+      "longitude": "15.73806000"
+    },
+    {
+      "id": 2373,
+      "name": "Jakomini",
+      "latitude": "47.05441000",
+      "longitude": "15.44984000"
+    },
+    {
+      "id": 2380,
+      "name": "Johnsbach",
+      "latitude": "47.53333000",
+      "longitude": "14.58333000"
+    },
+    {
+      "id": 2382,
+      "name": "Judenburg",
+      "latitude": "47.16667000",
+      "longitude": "14.66667000"
+    },
+    {
+      "id": 2383,
+      "name": "Judendorf",
+      "latitude": "47.40000000",
+      "longitude": "15.10000000"
+    },
+    {
+      "id": 2385,
+      "name": "Kaibing",
+      "latitude": "47.20000000",
+      "longitude": "15.83333000"
+    },
+    {
+      "id": 2386,
+      "name": "Kainach bei Voitsberg",
+      "latitude": "47.13637000",
+      "longitude": "15.09530000"
+    },
+    {
+      "id": 2387,
+      "name": "Kainbach",
+      "latitude": "47.08333000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 2388,
+      "name": "Kaindorf",
+      "latitude": "47.22537000",
+      "longitude": "15.91125000"
+    },
+    {
+      "id": 2389,
+      "name": "Kaindorf an der Sulm",
+      "latitude": "46.79248000",
+      "longitude": "15.53879000"
+    },
+    {
+      "id": 2391,
+      "name": "Kalsdorf bei Graz",
+      "latitude": "46.96528000",
+      "longitude": "15.48028000"
+    },
+    {
+      "id": 2395,
+      "name": "Kalwang",
+      "latitude": "47.42678000",
+      "longitude": "14.75442000"
+    },
+    {
+      "id": 2396,
+      "name": "Kammern im Liesingtal",
+      "latitude": "47.39245000",
+      "longitude": "14.90407000"
+    },
+    {
+      "id": 2397,
+      "name": "Kapellen",
+      "latitude": "47.64784000",
+      "longitude": "15.62863000"
+    },
+    {
+      "id": 2399,
+      "name": "Kapfenberg",
+      "latitude": "47.44458000",
+      "longitude": "15.29331000"
+    },
+    {
+      "id": 2400,
+      "name": "Kapfenstein",
+      "latitude": "46.88611000",
+      "longitude": "15.97167000"
+    },
+    {
+      "id": 2423,
+      "name": "Kindberg",
+      "latitude": "47.50000000",
+      "longitude": "15.45000000"
+    },
+    {
+      "id": 2425,
+      "name": "Kirchbach in Steiermark",
+      "latitude": "46.93167000",
+      "longitude": "15.66194000"
+    },
+    {
+      "id": 2430,
+      "name": "Kirchberg an der Raab",
+      "latitude": "46.98583000",
+      "longitude": "15.76694000"
+    },
+    {
+      "id": 2436,
+      "name": "Kirchenviertel",
+      "latitude": "47.13124000",
+      "longitude": "15.34764000"
+    },
+    {
+      "id": 2444,
+      "name": "Kitzeck im Sausal",
+      "latitude": "46.78072000",
+      "longitude": "15.45384000"
+    },
+    {
+      "id": 2455,
+      "name": "Kleinlobming",
+      "latitude": "47.14954000",
+      "longitude": "14.84875000"
+    },
+    {
+      "id": 2457,
+      "name": "Kleinsöding",
+      "latitude": "47.00000000",
+      "longitude": "15.28333000"
+    },
+    {
+      "id": 2458,
+      "name": "Kleinsölk",
+      "latitude": "47.39444000",
+      "longitude": "13.93944000"
+    },
+    {
+      "id": 2463,
+      "name": "Klöch",
+      "latitude": "46.76472000",
+      "longitude": "15.96556000"
+    },
+    {
+      "id": 2461,
+      "name": "Kloster",
+      "latitude": "46.88333000",
+      "longitude": "15.08333000"
+    },
+    {
+      "id": 2465,
+      "name": "Knittelfeld",
+      "latitude": "47.21667000",
+      "longitude": "14.81667000"
+    },
+    {
+      "id": 2466,
+      "name": "Kobenz",
+      "latitude": "47.25000000",
+      "longitude": "14.85000000"
+    },
+    {
+      "id": 2508,
+      "name": "Köflach",
+      "latitude": "47.06667000",
+      "longitude": "15.08333000"
+    },
+    {
+      "id": 2470,
+      "name": "Kohlberg",
+      "latitude": "46.90000000",
+      "longitude": "15.78333000"
+    },
+    {
+      "id": 2471,
+      "name": "Kohlschwarz",
+      "latitude": "47.11667000",
+      "longitude": "15.11667000"
+    },
+    {
+      "id": 2478,
+      "name": "Krakaudorf",
+      "latitude": "47.18131000",
+      "longitude": "14.02061000"
+    },
+    {
+      "id": 2479,
+      "name": "Krakauhintermühlen",
+      "latitude": "47.18333000",
+      "longitude": "13.98333000"
+    },
+    {
+      "id": 2480,
+      "name": "Krakauschatten",
+      "latitude": "47.18333000",
+      "longitude": "13.96667000"
+    },
+    {
+      "id": 2482,
+      "name": "Kraubath an der Mur",
+      "latitude": "47.30000000",
+      "longitude": "14.93333000"
+    },
+    {
+      "id": 2488,
+      "name": "Krieglach",
+      "latitude": "47.54728000",
+      "longitude": "15.56248000"
+    },
+    {
+      "id": 2493,
+      "name": "Krottendorf",
+      "latitude": "47.20000000",
+      "longitude": "15.63333000"
+    },
+    {
+      "id": 2494,
+      "name": "Krottendorf bei Ligist",
+      "latitude": "47.01667000",
+      "longitude": "15.21667000"
+    },
+    {
+      "id": 2498,
+      "name": "Krumegg",
+      "latitude": "47.02111000",
+      "longitude": "15.63139000"
+    },
+    {
+      "id": 2501,
+      "name": "Krusdorf",
+      "latitude": "46.83944000",
+      "longitude": "15.86083000"
+    },
+    {
+      "id": 2505,
+      "name": "Kulm am Zirbitz",
+      "latitude": "47.05814000",
+      "longitude": "14.48702000"
+    },
+    {
+      "id": 2506,
+      "name": "Kumberg",
+      "latitude": "47.16422000",
+      "longitude": "15.53261000"
+    },
+    {
+      "id": 2522,
+      "name": "Labuch",
+      "latitude": "47.06667000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 2527,
+      "name": "Lafnitz",
+      "latitude": "47.36792000",
+      "longitude": "16.01103000"
+    },
+    {
+      "id": 2532,
+      "name": "Landl",
+      "latitude": "47.65666000",
+      "longitude": "14.73189000"
+    },
+    {
+      "id": 2534,
+      "name": "Lang",
+      "latitude": "46.83765000",
+      "longitude": "15.50471000"
+    },
+    {
+      "id": 2536,
+      "name": "Langegg bei Graz",
+      "latitude": "47.05000000",
+      "longitude": "15.63333000"
+    },
+    {
+      "id": 2543,
+      "name": "Langenwang",
+      "latitude": "47.56667000",
+      "longitude": "15.61667000"
+    },
+    {
+      "id": 2547,
+      "name": "Lannach",
+      "latitude": "46.94611000",
+      "longitude": "15.33722000"
+    },
+    {
+      "id": 2552,
+      "name": "Lassnitzhöhe",
+      "latitude": "47.06667000",
+      "longitude": "15.58333000"
+    },
+    {
+      "id": 2564,
+      "name": "Leibnitz",
+      "latitude": "46.78161000",
+      "longitude": "15.53836000"
+    },
+    {
+      "id": 2566,
+      "name": "Leitendorf",
+      "latitude": "47.36667000",
+      "longitude": "15.08333000"
+    },
+    {
+      "id": 2567,
+      "name": "Leitersdorf im Raabtal",
+      "latitude": "46.94182000",
+      "longitude": "15.93365000"
+    },
+    {
+      "id": 2569,
+      "name": "Leitring",
+      "latitude": "46.76667000",
+      "longitude": "15.56667000"
+    },
+    {
+      "id": 2573,
+      "name": "Lend",
+      "latitude": "47.08256000",
+      "longitude": "15.41589000"
+    },
+    {
+      "id": 2578,
+      "name": "Leoben",
+      "latitude": "47.37650000",
+      "longitude": "15.09144000"
+    },
+    {
+      "id": 2589,
+      "name": "Leutschach",
+      "latitude": "46.66722000",
+      "longitude": "15.46889000"
+    },
+    {
+      "id": 2593,
+      "name": "Liebenau",
+      "latitude": "47.03333000",
+      "longitude": "15.46667000"
+    },
+    {
+      "id": 2595,
+      "name": "Lieboch",
+      "latitude": "46.97417000",
+      "longitude": "15.33750000"
+    },
+    {
+      "id": 2597,
+      "name": "Liesingtal",
+      "latitude": "47.34597000",
+      "longitude": "15.01352000"
+    },
+    {
+      "id": 2598,
+      "name": "Liezen",
+      "latitude": "47.56667000",
+      "longitude": "14.23333000"
+    },
+    {
+      "id": 2599,
+      "name": "Ligist",
+      "latitude": "46.99389000",
+      "longitude": "15.21083000"
+    },
+    {
+      "id": 2624,
+      "name": "Lödersdorf",
+      "latitude": "46.95861000",
+      "longitude": "15.94333000"
+    },
+    {
+      "id": 2612,
+      "name": "Loipersdorf bei Fürstenfeld",
+      "latitude": "47.00000000",
+      "longitude": "16.10000000"
+    },
+    {
+      "id": 2625,
+      "name": "Maierdorf",
+      "latitude": "46.89250000",
+      "longitude": "15.84972000"
+    },
+    {
+      "id": 2643,
+      "name": "Maria Lankowitz",
+      "latitude": "47.06220000",
+      "longitude": "15.06525000"
+    },
+    {
+      "id": 2652,
+      "name": "Mariahof",
+      "latitude": "47.10000000",
+      "longitude": "14.40000000"
+    },
+    {
+      "id": 2657,
+      "name": "Mariatrost",
+      "latitude": "47.10000000",
+      "longitude": "15.50000000"
+    },
+    {
+      "id": 2658,
+      "name": "Mariazell",
+      "latitude": "47.77306000",
+      "longitude": "15.31639000"
+    },
+    {
+      "id": 2680,
+      "name": "Mautern in Steiermark",
+      "latitude": "47.40000000",
+      "longitude": "14.83333000"
+    },
+    {
+      "id": 2689,
+      "name": "Mellach",
+      "latitude": "46.93333000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 2691,
+      "name": "Merkendorf",
+      "latitude": "46.85722000",
+      "longitude": "15.90389000"
+    },
+    {
+      "id": 2693,
+      "name": "Mettersdorf am Saßbach",
+      "latitude": "46.80583000",
+      "longitude": "15.71111000"
+    },
+    {
+      "id": 2694,
+      "name": "Michaelerberg",
+      "latitude": "47.41083000",
+      "longitude": "13.89333000"
+    },
+    {
+      "id": 2710,
+      "name": "Mitterdorf an der Raab",
+      "latitude": "47.16667000",
+      "longitude": "15.60000000"
+    },
+    {
+      "id": 2711,
+      "name": "Mitterdorf im Mürztal",
+      "latitude": "47.53333000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 2714,
+      "name": "Mitterlabill",
+      "latitude": "46.88917000",
+      "longitude": "15.63556000"
+    },
+    {
+      "id": 2717,
+      "name": "Mitterndorf im Steirischen Salzkammergut",
+      "latitude": "47.55556000",
+      "longitude": "13.93187000"
+    },
+    {
+      "id": 2721,
+      "name": "Modriach",
+      "latitude": "46.95000000",
+      "longitude": "15.05000000"
+    },
+    {
+      "id": 2747,
+      "name": "Mönichwald",
+      "latitude": "47.44655000",
+      "longitude": "15.88275000"
+    },
+    {
+      "id": 2728,
+      "name": "Mooskirchen",
+      "latitude": "46.98167000",
+      "longitude": "15.27889000"
+    },
+    {
+      "id": 2729,
+      "name": "Mortantsch",
+      "latitude": "47.20752000",
+      "longitude": "15.57954000"
+    },
+    {
+      "id": 2757,
+      "name": "Mühldorf bei Feldbach",
+      "latitude": "46.93861000",
+      "longitude": "15.90750000"
+    },
+    {
+      "id": 2758,
+      "name": "Mühlen",
+      "latitude": "47.03071000",
+      "longitude": "14.50848000"
+    },
+    {
+      "id": 2735,
+      "name": "Murau",
+      "latitude": "47.11056000",
+      "longitude": "14.16944000"
+    },
+    {
+      "id": 2736,
+      "name": "Mureck",
+      "latitude": "46.70806000",
+      "longitude": "15.77472000"
+    },
+    {
+      "id": 2765,
+      "name": "Mürzhofen",
+      "latitude": "47.48333000",
+      "longitude": "15.38333000"
+    },
+    {
+      "id": 2766,
+      "name": "Mürzsteg",
+      "latitude": "47.67556000",
+      "longitude": "15.49145000"
+    },
+    {
+      "id": 2767,
+      "name": "Mürzzuschlag",
+      "latitude": "47.60660000",
+      "longitude": "15.67226000"
+    },
+    {
+      "id": 2769,
+      "name": "Naas",
+      "latitude": "47.25086000",
+      "longitude": "15.59449000"
+    },
+    {
+      "id": 2780,
+      "name": "Nestelbach bei Graz",
+      "latitude": "47.06053000",
+      "longitude": "15.61140000"
+    },
+    {
+      "id": 2781,
+      "name": "Nestelbach im Ilztal",
+      "latitude": "47.08333000",
+      "longitude": "15.86667000"
+    },
+    {
+      "id": 2786,
+      "name": "Neuberg an der Mürz",
+      "latitude": "47.66423000",
+      "longitude": "15.57226000"
+    },
+    {
+      "id": 2788,
+      "name": "Neudau",
+      "latitude": "47.17554000",
+      "longitude": "16.10184000"
+    },
+    {
+      "id": 2808,
+      "name": "Neumarkt in Steiermark",
+      "latitude": "47.07398000",
+      "longitude": "14.42728000"
+    },
+    {
+      "id": 2817,
+      "name": "Neutillmitsch",
+      "latitude": "46.81667000",
+      "longitude": "15.53333000"
+    },
+    {
+      "id": 2833,
+      "name": "Niederöblarn",
+      "latitude": "47.47667000",
+      "longitude": "14.01937000"
+    },
+    {
+      "id": 2829,
+      "name": "Niederschöckl",
+      "latitude": "47.15000000",
+      "longitude": "15.50000000"
+    },
+    {
+      "id": 2832,
+      "name": "Niederwölz",
+      "latitude": "47.15126000",
+      "longitude": "14.37479000"
+    },
+    {
+      "id": 2835,
+      "name": "Niklasdorf",
+      "latitude": "47.38333000",
+      "longitude": "15.15000000"
+    },
+    {
+      "id": 2837,
+      "name": "Nitscha",
+      "latitude": "47.11667000",
+      "longitude": "15.75000000"
+    },
+    {
+      "id": 2842,
+      "name": "Obdach",
+      "latitude": "47.06667000",
+      "longitude": "14.68333000"
+    },
+    {
+      "id": 2844,
+      "name": "Oberaich",
+      "latitude": "47.40000000",
+      "longitude": "15.21667000"
+    },
+    {
+      "id": 2847,
+      "name": "Oberdorf am Hochegg",
+      "latitude": "46.97861000",
+      "longitude": "15.72167000"
+    },
+    {
+      "id": 2851,
+      "name": "Oberhaag",
+      "latitude": "46.68690000",
+      "longitude": "15.33202000"
+    },
+    {
+      "id": 2857,
+      "name": "Oberkurzheim",
+      "latitude": "47.23333000",
+      "longitude": "14.58333000"
+    },
+    {
+      "id": 2870,
+      "name": "Oberpremstätten",
+      "latitude": "46.97444000",
+      "longitude": "15.40444000"
+    },
+    {
+      "id": 2872,
+      "name": "Oberrettenbach",
+      "latitude": "47.15000000",
+      "longitude": "15.80000000"
+    },
+    {
+      "id": 2876,
+      "name": "Oberstorcha",
+      "latitude": "46.96667000",
+      "longitude": "15.80000000"
+    },
+    {
+      "id": 2880,
+      "name": "Obervogau",
+      "latitude": "46.74500000",
+      "longitude": "15.58472000"
+    },
+    {
+      "id": 2885,
+      "name": "Oberweg",
+      "latitude": "47.15000000",
+      "longitude": "14.63333000"
+    },
+    {
+      "id": 2887,
+      "name": "Oberwölz Stadt",
+      "latitude": "47.20117000",
+      "longitude": "14.28321000"
+    },
+    {
+      "id": 2888,
+      "name": "Oberzeiring",
+      "latitude": "47.25000000",
+      "longitude": "14.48333000"
+    },
+    {
+      "id": 3897,
+      "name": "Öblarn",
+      "latitude": "47.45938000",
+      "longitude": "13.99023000"
+    },
+    {
+      "id": 2900,
+      "name": "Oppenberg",
+      "latitude": "47.48333000",
+      "longitude": "14.26667000"
+    },
+    {
+      "id": 2903,
+      "name": "Ortgraben",
+      "latitude": "47.45000000",
+      "longitude": "16.05000000"
+    },
+    {
+      "id": 2908,
+      "name": "Osterwitz",
+      "latitude": "46.85943000",
+      "longitude": "15.08998000"
+    },
+    {
+      "id": 2917,
+      "name": "Pack",
+      "latitude": "46.97917000",
+      "longitude": "14.98417000"
+    },
+    {
+      "id": 2918,
+      "name": "Paldau",
+      "latitude": "46.94222000",
+      "longitude": "15.79583000"
+    },
+    {
+      "id": 2919,
+      "name": "Palfau",
+      "latitude": "47.70000000",
+      "longitude": "14.80000000"
+    },
+    {
+      "id": 2925,
+      "name": "Parschlug",
+      "latitude": "47.48090000",
+      "longitude": "15.28645000"
+    },
+    {
+      "id": 2927,
+      "name": "Passail",
+      "latitude": "47.28333000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 2933,
+      "name": "Peggau",
+      "latitude": "47.20000000",
+      "longitude": "15.35000000"
+    },
+    {
+      "id": 2936,
+      "name": "Perchau am Sattel",
+      "latitude": "47.10000000",
+      "longitude": "14.45000000"
+    },
+    {
+      "id": 2939,
+      "name": "Perlsdorf",
+      "latitude": "46.91361000",
+      "longitude": "15.81417000"
+    },
+    {
+      "id": 2941,
+      "name": "Pernegg an der Mur",
+      "latitude": "47.35979000",
+      "longitude": "15.34236000"
+    },
+    {
+      "id": 2945,
+      "name": "Pertlstein",
+      "latitude": "46.94056000",
+      "longitude": "15.96167000"
+    },
+    {
+      "id": 2962,
+      "name": "Piberegg",
+      "latitude": "47.09424000",
+      "longitude": "15.11658000"
+    },
+    {
+      "id": 2965,
+      "name": "Pichling bei Köflach",
+      "latitude": "47.04785000",
+      "longitude": "15.07098000"
+    },
+    {
+      "id": 2971,
+      "name": "Pinggau",
+      "latitude": "47.44232000",
+      "longitude": "16.06713000"
+    },
+    {
+      "id": 2974,
+      "name": "Pirching am Traubenberg",
+      "latitude": "46.95000000",
+      "longitude": "15.60000000"
+    },
+    {
+      "id": 2976,
+      "name": "Pirka",
+      "latitude": "47.00000000",
+      "longitude": "15.38333000"
+    },
+    {
+      "id": 2977,
+      "name": "Pischelsdorf in der Steiermark",
+      "latitude": "47.17417000",
+      "longitude": "15.80572000"
+    },
+    {
+      "id": 2978,
+      "name": "Pistorf",
+      "latitude": "46.76667000",
+      "longitude": "15.36667000"
+    },
+    {
+      "id": 2979,
+      "name": "Pitschgau",
+      "latitude": "46.70000000",
+      "longitude": "15.26667000"
+    },
+    {
+      "id": 2993,
+      "name": "Politischer Bezirk Bruck-Mürzzuschlag",
+      "latitude": "47.41880000",
+      "longitude": "15.27512000"
+    },
+    {
+      "id": 2994,
+      "name": "Politischer Bezirk Deutschlandsberg",
+      "latitude": "46.75000000",
+      "longitude": "15.20000000"
+    },
+    {
+      "id": 3002,
+      "name": "Politischer Bezirk Graz-Umgebung",
+      "latitude": "47.13860000",
+      "longitude": "15.38823000"
+    },
+    {
+      "id": 3007,
+      "name": "Politischer Bezirk Hartberg-Fürstenfeld",
+      "latitude": "47.27923000",
+      "longitude": "15.98373000"
+    },
+    {
+      "id": 3021,
+      "name": "Politischer Bezirk Leibnitz",
+      "latitude": "46.79565000",
+      "longitude": "15.51849000"
+    },
+    {
+      "id": 3022,
+      "name": "Politischer Bezirk Leoben",
+      "latitude": "47.41667000",
+      "longitude": "14.91667000"
+    },
+    {
+      "id": 3024,
+      "name": "Politischer Bezirk Liezen",
+      "latitude": "47.53521000",
+      "longitude": "14.34314000"
+    },
+    {
+      "id": 3030,
+      "name": "Politischer Bezirk Murau",
+      "latitude": "47.13333000",
+      "longitude": "14.20000000"
+    },
+    {
+      "id": 3031,
+      "name": "Politischer Bezirk Murtal",
+      "latitude": "47.16964000",
+      "longitude": "14.66469000"
+    },
+    {
+      "id": 3050,
+      "name": "Politischer Bezirk Südoststeiermark",
+      "latitude": "46.94089000",
+      "longitude": "15.88623000"
+    },
+    {
+      "id": 3055,
+      "name": "Politischer Bezirk Voitsberg",
+      "latitude": "47.05000000",
+      "longitude": "15.10000000"
+    },
+    {
+      "id": 3059,
+      "name": "Politischer Bezirk Weiz",
+      "latitude": "47.30000000",
+      "longitude": "15.65000000"
+    },
+    {
+      "id": 3105,
+      "name": "Pöllau",
+      "latitude": "47.30000000",
+      "longitude": "15.83333000"
+    },
+    {
+      "id": 3106,
+      "name": "Pöllauberg",
+      "latitude": "47.31667000",
+      "longitude": "15.85000000"
+    },
+    {
+      "id": 3107,
+      "name": "Pöls",
+      "latitude": "47.21667000",
+      "longitude": "14.58333000"
+    },
+    {
+      "id": 3065,
+      "name": "Poppendorf",
+      "latitude": "46.85611000",
+      "longitude": "15.85639000"
+    },
+    {
+      "id": 3076,
+      "name": "Preding",
+      "latitude": "46.85861000",
+      "longitude": "15.40972000"
+    },
+    {
+      "id": 3084,
+      "name": "Proleb",
+      "latitude": "47.40000000",
+      "longitude": "15.13333000"
+    },
+    {
+      "id": 3086,
+      "name": "Pruggern",
+      "latitude": "47.42370000",
+      "longitude": "13.87625000"
+    },
+    {
+      "id": 3089,
+      "name": "Puch bei Weiz",
+      "latitude": "47.21667000",
+      "longitude": "15.71667000"
+    },
+    {
+      "id": 3097,
+      "name": "Puntigam",
+      "latitude": "47.03333000",
+      "longitude": "15.43333000"
+    },
+    {
+      "id": 3101,
+      "name": "Pusterwald",
+      "latitude": "47.30611000",
+      "longitude": "14.37556000"
+    },
+    {
+      "id": 3114,
+      "name": "Raaba",
+      "latitude": "47.03333000",
+      "longitude": "15.50000000"
+    },
+    {
+      "id": 3115,
+      "name": "Raabau",
+      "latitude": "46.96278000",
+      "longitude": "15.91167000"
+    },
+    {
+      "id": 3121,
+      "name": "Rabenwald",
+      "latitude": "47.40000000",
+      "longitude": "15.90000000"
+    },
+    {
+      "id": 3122,
+      "name": "Rachau",
+      "latitude": "47.21667000",
+      "longitude": "14.90000000"
+    },
+    {
+      "id": 3128,
+      "name": "Ragnitz",
+      "latitude": "46.83667000",
+      "longitude": "15.59278000"
+    },
+    {
+      "id": 3134,
+      "name": "Ramsau am Dachstein",
+      "latitude": "47.42150000",
+      "longitude": "13.65545000"
+    },
+    {
+      "id": 3139,
+      "name": "Raning",
+      "latitude": "46.85000000",
+      "longitude": "15.81667000"
+    },
+    {
+      "id": 3143,
+      "name": "Ranten",
+      "latitude": "47.15949000",
+      "longitude": "14.08349000"
+    },
+    {
+      "id": 3145,
+      "name": "Rassach",
+      "latitude": "46.86028000",
+      "longitude": "15.27000000"
+    },
+    {
+      "id": 3147,
+      "name": "Ratsch an der Weinstraße",
+      "latitude": "46.68944000",
+      "longitude": "15.57111000"
+    },
+    {
+      "id": 3148,
+      "name": "Ratschendorf",
+      "latitude": "46.74222000",
+      "longitude": "15.81583000"
+    },
+    {
+      "id": 3149,
+      "name": "Ratten",
+      "latitude": "47.48333000",
+      "longitude": "15.71667000"
+    },
+    {
+      "id": 3164,
+      "name": "Reichendorf",
+      "latitude": "47.18922000",
+      "longitude": "15.76160000"
+    },
+    {
+      "id": 3168,
+      "name": "Reifling",
+      "latitude": "47.13333000",
+      "longitude": "14.66667000"
+    },
+    {
+      "id": 3179,
+      "name": "Rettenegg",
+      "latitude": "47.52694000",
+      "longitude": "15.78104000"
+    },
+    {
+      "id": 3182,
+      "name": "Retznei",
+      "latitude": "46.73333000",
+      "longitude": "15.56667000"
+    },
+    {
+      "id": 3192,
+      "name": "Riegersburg",
+      "latitude": "47.00000000",
+      "longitude": "15.93028000"
+    },
+    {
+      "id": 3193,
+      "name": "Ries",
+      "latitude": "47.08315000",
+      "longitude": "15.48500000"
+    },
+    {
+      "id": 3203,
+      "name": "Rohrbach an der Lafnitz",
+      "latitude": "47.38333000",
+      "longitude": "16.00000000"
+    },
+    {
+      "id": 3212,
+      "name": "Rosental an der Kainach",
+      "latitude": "47.05192000",
+      "longitude": "15.12200000"
+    },
+    {
+      "id": 3226,
+      "name": "Röthelstein",
+      "latitude": "47.31667000",
+      "longitude": "15.36667000"
+    },
+    {
+      "id": 3214,
+      "name": "Rottenmann",
+      "latitude": "47.51667000",
+      "longitude": "14.35000000"
+    },
+    {
+      "id": 3232,
+      "name": "Salla",
+      "latitude": "47.10000000",
+      "longitude": "14.96667000"
+    },
+    {
+      "id": 3243,
+      "name": "Sankt Anna am Aigen",
+      "latitude": "46.83111000",
+      "longitude": "15.97139000"
+    },
+    {
+      "id": 3245,
+      "name": "Sankt Bartholomä",
+      "latitude": "47.05457000",
+      "longitude": "15.25889000"
+    },
+    {
+      "id": 3246,
+      "name": "Sankt Blasen",
+      "latitude": "47.08333000",
+      "longitude": "14.30000000"
+    },
+    {
+      "id": 3250,
+      "name": "Sankt Gallen",
+      "latitude": "47.68631000",
+      "longitude": "14.61705000"
+    },
+    {
+      "id": 3257,
+      "name": "Sankt Georgen an der Stiefing",
+      "latitude": "46.87333000",
+      "longitude": "15.57972000"
+    },
+    {
+      "id": 3260,
+      "name": "Sankt Georgen ob Judenburg",
+      "latitude": "47.20744000",
+      "longitude": "14.49736000"
+    },
+    {
+      "id": 3261,
+      "name": "Sankt Georgen ob Murau",
+      "latitude": "47.10000000",
+      "longitude": "14.10000000"
+    },
+    {
+      "id": 3264,
+      "name": "Sankt Ilgen",
+      "latitude": "47.55000000",
+      "longitude": "15.16667000"
+    },
+    {
+      "id": 3265,
+      "name": "Sankt Jakob im Walde",
+      "latitude": "47.46667000",
+      "longitude": "15.78333000"
+    },
+    {
+      "id": 3266,
+      "name": "Sankt Jakob-Breitenau",
+      "latitude": "47.39229000",
+      "longitude": "15.42970000"
+    },
+    {
+      "id": 3267,
+      "name": "Sankt Johann am Tauern",
+      "latitude": "47.35000000",
+      "longitude": "14.46667000"
+    },
+    {
+      "id": 3268,
+      "name": "Sankt Johann bei Herberstein",
+      "latitude": "47.20000000",
+      "longitude": "15.80000000"
+    },
+    {
+      "id": 3270,
+      "name": "Sankt Johann im Saggautal",
+      "latitude": "46.70389000",
+      "longitude": "15.40278000"
+    },
+    {
+      "id": 3272,
+      "name": "Sankt Johann in der Haide",
+      "latitude": "47.28080000",
+      "longitude": "16.02579000"
+    },
+    {
+      "id": 3273,
+      "name": "Sankt Josef (Weststeiermark)",
+      "latitude": "46.90917000",
+      "longitude": "15.33639000"
+    },
+    {
+      "id": 3274,
+      "name": "Sankt Katharein an der Laming",
+      "latitude": "47.47069000",
+      "longitude": "15.16319000"
+    },
+    {
+      "id": 3275,
+      "name": "Sankt Kathrein am Hauenstein",
+      "latitude": "47.48943000",
+      "longitude": "15.69414000"
+    },
+    {
+      "id": 3276,
+      "name": "Sankt Kathrein am Offenegg",
+      "latitude": "47.30000000",
+      "longitude": "15.58333000"
+    },
+    {
+      "id": 3277,
+      "name": "Sankt Lambrecht",
+      "latitude": "47.06667000",
+      "longitude": "14.30000000"
+    },
+    {
+      "id": 3280,
+      "name": "Sankt Leonhard",
+      "latitude": "47.06924000",
+      "longitude": "15.45784000"
+    },
+    {
+      "id": 3284,
+      "name": "Sankt Lorenzen am Wechsel",
+      "latitude": "47.44153000",
+      "longitude": "15.95498000"
+    },
+    {
+      "id": 3285,
+      "name": "Sankt Lorenzen bei Knittelfeld",
+      "latitude": "47.25078000",
+      "longitude": "14.89549000"
+    },
+    {
+      "id": 3286,
+      "name": "Sankt Lorenzen bei Scheifling",
+      "latitude": "47.14556000",
+      "longitude": "14.40583000"
+    },
+    {
+      "id": 3287,
+      "name": "Sankt Lorenzen im Mürztal",
+      "latitude": "47.48333000",
+      "longitude": "15.36667000"
+    },
+    {
+      "id": 3289,
+      "name": "Sankt Marein bei Graz",
+      "latitude": "47.01583000",
+      "longitude": "15.68389000"
+    },
+    {
+      "id": 3290,
+      "name": "Sankt Marein bei Knittelfeld",
+      "latitude": "47.27396000",
+      "longitude": "14.86085000"
+    },
+    {
+      "id": 3291,
+      "name": "Sankt Marein bei Neumarkt",
+      "latitude": "47.06591000",
+      "longitude": "14.42908000"
+    },
+    {
+      "id": 3292,
+      "name": "Sankt Marein im Mürztal",
+      "latitude": "47.46667000",
+      "longitude": "15.36667000"
+    },
+    {
+      "id": 3294,
+      "name": "Sankt Margarethen an der Raab",
+      "latitude": "47.05000000",
+      "longitude": "15.75000000"
+    },
+    {
+      "id": 3296,
+      "name": "Sankt Margarethen bei Knittelfeld",
+      "latitude": "47.21667000",
+      "longitude": "14.86667000"
+    },
+    {
+      "id": 3300,
+      "name": "Sankt Martin",
+      "latitude": "47.44667000",
+      "longitude": "15.28490000"
+    },
+    {
+      "id": 3303,
+      "name": "Sankt Martin am Grimming",
+      "latitude": "47.48873000",
+      "longitude": "13.98105000"
+    },
+    {
+      "id": 3308,
+      "name": "Sankt Martin im Sulmtal",
+      "latitude": "46.75611000",
+      "longitude": "15.29722000"
+    },
+    {
+      "id": 3311,
+      "name": "Sankt Michael in Obersteiermark",
+      "latitude": "47.33839000",
+      "longitude": "15.01784000"
+    },
+    {
+      "id": 3312,
+      "name": "Sankt Nikolai im Sausal",
+      "latitude": "46.82111000",
+      "longitude": "15.45194000"
+    },
+    {
+      "id": 3313,
+      "name": "Sankt Nikolai im Sölktal",
+      "latitude": "47.31667000",
+      "longitude": "14.05000000"
+    },
+    {
+      "id": 3314,
+      "name": "Sankt Nikolai ob Draßling",
+      "latitude": "46.80889000",
+      "longitude": "15.65083000"
+    },
+    {
+      "id": 3316,
+      "name": "Sankt Oswald bei Plankenwarth",
+      "latitude": "47.08701000",
+      "longitude": "15.27703000"
+    },
+    {
+      "id": 3317,
+      "name": "Sankt Oswald ob Eibiswald",
+      "latitude": "46.70833000",
+      "longitude": "15.14667000"
+    },
+    {
+      "id": 3321,
+      "name": "Sankt Peter",
+      "latitude": "47.05000000",
+      "longitude": "15.46667000"
+    },
+    {
+      "id": 3323,
+      "name": "Sankt Peter am Kammersberg",
+      "latitude": "47.18706000",
+      "longitude": "14.18464000"
+    },
+    {
+      "id": 3324,
+      "name": "Sankt Peter am Ottersbach",
+      "latitude": "46.79778000",
+      "longitude": "15.75917000"
+    },
+    {
+      "id": 3325,
+      "name": "Sankt Peter im Sulmtal",
+      "latitude": "46.75000000",
+      "longitude": "15.25000000"
+    },
+    {
+      "id": 3327,
+      "name": "Sankt Peter ob Judenburg",
+      "latitude": "47.18417000",
+      "longitude": "14.58639000"
+    },
+    {
+      "id": 3328,
+      "name": "Sankt Peter-Freienstein",
+      "latitude": "47.38333000",
+      "longitude": "15.01667000"
+    },
+    {
+      "id": 3331,
+      "name": "Sankt Radegund bei Graz",
+      "latitude": "47.18172000",
+      "longitude": "15.49192000"
+    },
+    {
+      "id": 3333,
+      "name": "Sankt Ruprecht an der Raab",
+      "latitude": "47.15336000",
+      "longitude": "15.66256000"
+    },
+    {
+      "id": 3335,
+      "name": "Sankt Stefan im Rosental",
+      "latitude": "46.90389000",
+      "longitude": "15.71000000"
+    },
+    {
+      "id": 3336,
+      "name": "Sankt Stefan ob Leoben",
+      "latitude": "47.31672000",
+      "longitude": "14.97831000"
+    },
+    {
+      "id": 3337,
+      "name": "Sankt Stefan ob Stainz",
+      "latitude": "46.92861000",
+      "longitude": "15.25889000"
+    },
+    {
+      "id": 3339,
+      "name": "Sankt Ulrich am Waasen",
+      "latitude": "46.93333000",
+      "longitude": "15.53333000"
+    },
+    {
+      "id": 3342,
+      "name": "Sankt Veit am Vogau",
+      "latitude": "46.74048000",
+      "longitude": "15.64217000"
+    },
+    {
+      "id": 3352,
+      "name": "Schachen bei Vorau",
+      "latitude": "47.38010000",
+      "longitude": "15.85816000"
+    },
+    {
+      "id": 3412,
+      "name": "Schäffern",
+      "latitude": "47.47771000",
+      "longitude": "16.10956000"
+    },
+    {
+      "id": 3367,
+      "name": "Scheifling",
+      "latitude": "47.15044000",
+      "longitude": "14.41278000"
+    },
+    {
+      "id": 3371,
+      "name": "Schladming",
+      "latitude": "47.39289000",
+      "longitude": "13.68699000"
+    },
+    {
+      "id": 3415,
+      "name": "Schöder",
+      "latitude": "47.18333000",
+      "longitude": "14.10000000"
+    },
+    {
+      "id": 3389,
+      "name": "Schrems bei Frohnleiten",
+      "latitude": "47.28109000",
+      "longitude": "15.35932000"
+    },
+    {
+      "id": 3393,
+      "name": "Schwanberg",
+      "latitude": "46.75833000",
+      "longitude": "15.20833000"
+    },
+    {
+      "id": 3399,
+      "name": "Schwarzau im Schwarzautal",
+      "latitude": "46.87886000",
+      "longitude": "15.66421000"
+    },
+    {
+      "id": 3425,
+      "name": "Sebersdorf",
+      "latitude": "47.18650000",
+      "longitude": "15.99360000"
+    },
+    {
+      "id": 3426,
+      "name": "Seckau",
+      "latitude": "47.26667000",
+      "longitude": "14.78333000"
+    },
+    {
+      "id": 3436,
+      "name": "Seggauberg",
+      "latitude": "46.76667000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 3438,
+      "name": "Seiersberg",
+      "latitude": "47.00000000",
+      "longitude": "15.40000000"
+    },
+    {
+      "id": 3442,
+      "name": "Selzthal",
+      "latitude": "47.54988000",
+      "longitude": "14.31201000"
+    },
+    {
+      "id": 3444,
+      "name": "Semriach",
+      "latitude": "47.21667000",
+      "longitude": "15.40000000"
+    },
+    {
+      "id": 3450,
+      "name": "Siegersdorf bei Herberstein",
+      "latitude": "47.20000000",
+      "longitude": "15.78333000"
+    },
+    {
+      "id": 3462,
+      "name": "Sinabelkirchen",
+      "latitude": "47.10200000",
+      "longitude": "15.82795000"
+    },
+    {
+      "id": 3466,
+      "name": "Soboth",
+      "latitude": "46.68139000",
+      "longitude": "15.07833000"
+    },
+    {
+      "id": 3564,
+      "name": "Söchau",
+      "latitude": "47.03333000",
+      "longitude": "16.01667000"
+    },
+    {
+      "id": 3565,
+      "name": "Södingberg",
+      "latitude": "47.10703000",
+      "longitude": "15.17169000"
+    },
+    {
+      "id": 3473,
+      "name": "Spatenhof",
+      "latitude": "46.96250000",
+      "longitude": "15.36111000"
+    },
+    {
+      "id": 3474,
+      "name": "Spielberg bei Knittelfeld",
+      "latitude": "47.21667000",
+      "longitude": "14.78333000"
+    },
+    {
+      "id": 3475,
+      "name": "Spielfeld",
+      "latitude": "46.70556000",
+      "longitude": "15.63722000"
+    },
+    {
+      "id": 3478,
+      "name": "Spital am Semmering",
+      "latitude": "47.61345000",
+      "longitude": "15.75096000"
+    },
+    {
+      "id": 3488,
+      "name": "Stadl an der Mur",
+      "latitude": "47.08333000",
+      "longitude": "13.96667000"
+    },
+    {
+      "id": 3493,
+      "name": "Stainach",
+      "latitude": "47.53343000",
+      "longitude": "14.10872000"
+    },
+    {
+      "id": 3494,
+      "name": "Stainz",
+      "latitude": "46.89444000",
+      "longitude": "15.26722000"
+    },
+    {
+      "id": 3495,
+      "name": "Stainz bei Straden",
+      "latitude": "46.82444000",
+      "longitude": "15.89222000"
+    },
+    {
+      "id": 3498,
+      "name": "Stallhof",
+      "latitude": "46.88333000",
+      "longitude": "15.28333000"
+    },
+    {
+      "id": 3499,
+      "name": "Stallhofen",
+      "latitude": "47.05000000",
+      "longitude": "15.21667000"
+    },
+    {
+      "id": 3500,
+      "name": "Stambach",
+      "latitude": "47.33333000",
+      "longitude": "15.93333000"
+    },
+    {
+      "id": 3505,
+      "name": "Stattegg",
+      "latitude": "47.13333000",
+      "longitude": "15.41667000"
+    },
+    {
+      "id": 3510,
+      "name": "Stein",
+      "latitude": "46.99778000",
+      "longitude": "16.08694000"
+    },
+    {
+      "id": 3522,
+      "name": "Stenzengreith",
+      "latitude": "47.20000000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 3531,
+      "name": "Stiwoll",
+      "latitude": "47.10000000",
+      "longitude": "15.21667000"
+    },
+    {
+      "id": 3537,
+      "name": "Straden",
+      "latitude": "46.80917000",
+      "longitude": "15.86806000"
+    },
+    {
+      "id": 3538,
+      "name": "Strallegg",
+      "latitude": "47.41165000",
+      "longitude": "15.72534000"
+    },
+    {
+      "id": 3547,
+      "name": "Straß in Steiermark",
+      "latitude": "46.72722000",
+      "longitude": "15.62444000"
+    },
+    {
+      "id": 3542,
+      "name": "Strassengel",
+      "latitude": "47.11573000",
+      "longitude": "15.33288000"
+    },
+    {
+      "id": 3549,
+      "name": "Straßgang",
+      "latitude": "47.03333000",
+      "longitude": "15.40000000"
+    },
+    {
+      "id": 3555,
+      "name": "Stubenberg",
+      "latitude": "47.24460000",
+      "longitude": "15.80027000"
+    },
+    {
+      "id": 3556,
+      "name": "Studenzen",
+      "latitude": "47.00583000",
+      "longitude": "15.75417000"
+    },
+    {
+      "id": 3563,
+      "name": "Sulztal an der Weinstraße",
+      "latitude": "46.68333000",
+      "longitude": "15.55000000"
+    },
+    {
+      "id": 3576,
+      "name": "Tauplitz",
+      "latitude": "47.56005000",
+      "longitude": "14.01293000"
+    },
+    {
+      "id": 3585,
+      "name": "Teufenbach",
+      "latitude": "47.12870000",
+      "longitude": "14.35913000"
+    },
+    {
+      "id": 3586,
+      "name": "Thal",
+      "latitude": "47.07644000",
+      "longitude": "15.36052000"
+    },
+    {
+      "id": 3596,
+      "name": "Thörl",
+      "latitude": "47.51952000",
+      "longitude": "15.22276000"
+    },
+    {
+      "id": 3600,
+      "name": "Tieschen",
+      "latitude": "46.78611000",
+      "longitude": "15.94222000"
+    },
+    {
+      "id": 3601,
+      "name": "Tillmitsch",
+      "latitude": "46.81195000",
+      "longitude": "15.51679000"
+    },
+    {
+      "id": 3602,
+      "name": "Tillmitsch Links der Laßnitz",
+      "latitude": "46.80955000",
+      "longitude": "15.52394000"
+    },
+    {
+      "id": 3606,
+      "name": "Traboch",
+      "latitude": "47.37705000",
+      "longitude": "14.98647000"
+    },
+    {
+      "id": 3608,
+      "name": "Trahütten",
+      "latitude": "46.82500000",
+      "longitude": "15.15694000"
+    },
+    {
+      "id": 3617,
+      "name": "Trautmannsdorf in Oststeiermark",
+      "latitude": "46.87530000",
+      "longitude": "15.88451000"
+    },
+    {
+      "id": 3619,
+      "name": "Treglwang",
+      "latitude": "47.47458000",
+      "longitude": "14.59083000"
+    },
+    {
+      "id": 3622,
+      "name": "Trieben",
+      "latitude": "47.48574000",
+      "longitude": "14.48744000"
+    },
+    {
+      "id": 3623,
+      "name": "Triebendorf",
+      "latitude": "47.11667000",
+      "longitude": "14.23333000"
+    },
+    {
+      "id": 3626,
+      "name": "Trofaiach",
+      "latitude": "47.42524000",
+      "longitude": "15.00681000"
+    },
+    {
+      "id": 3628,
+      "name": "Trössing",
+      "latitude": "46.81667000",
+      "longitude": "15.81667000"
+    },
+    {
+      "id": 3635,
+      "name": "Turnau",
+      "latitude": "47.55776000",
+      "longitude": "15.33739000"
+    },
+    {
+      "id": 3899,
+      "name": "Übelbach",
+      "latitude": "47.22534000",
+      "longitude": "15.23615000"
+    },
+    {
+      "id": 3901,
+      "name": "Übersbach",
+      "latitude": "47.02318000",
+      "longitude": "16.05517000"
+    },
+    {
+      "id": 3645,
+      "name": "Ungerdorf",
+      "latitude": "47.08333000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 3647,
+      "name": "Unterauersbach",
+      "latitude": "46.86556000",
+      "longitude": "15.77028000"
+    },
+    {
+      "id": 3648,
+      "name": "Unterbergla",
+      "latitude": "46.80746000",
+      "longitude": "15.31516000"
+    },
+    {
+      "id": 3651,
+      "name": "Unterfladnitz",
+      "latitude": "47.18333000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 3655,
+      "name": "Unterlamm",
+      "latitude": "46.97694000",
+      "longitude": "16.06389000"
+    },
+    {
+      "id": 3659,
+      "name": "Unterpremstätten",
+      "latitude": "46.96472000",
+      "longitude": "15.40417000"
+    },
+    {
+      "id": 3667,
+      "name": "Utschtal",
+      "latitude": "47.40000000",
+      "longitude": "15.20000000"
+    },
+    {
+      "id": 3673,
+      "name": "Vasoldsberg",
+      "latitude": "47.01634000",
+      "longitude": "15.55835000"
+    },
+    {
+      "id": 3674,
+      "name": "Veitsch",
+      "latitude": "47.57815000",
+      "longitude": "15.49450000"
+    },
+    {
+      "id": 3693,
+      "name": "Vogau",
+      "latitude": "46.73187000",
+      "longitude": "15.60837000"
+    },
+    {
+      "id": 3694,
+      "name": "Voitsberg",
+      "latitude": "47.04445000",
+      "longitude": "15.15313000"
+    },
+    {
+      "id": 3698,
+      "name": "Vorau",
+      "latitude": "47.40548000",
+      "longitude": "15.88754000"
+    },
+    {
+      "id": 3701,
+      "name": "Vordernberg",
+      "latitude": "47.48809000",
+      "longitude": "14.99436000"
+    },
+    {
+      "id": 3710,
+      "name": "Wagna",
+      "latitude": "46.76682000",
+      "longitude": "15.55906000"
+    },
+    {
+      "id": 3712,
+      "name": "Wagnitz",
+      "latitude": "46.98333000",
+      "longitude": "15.46667000"
+    },
+    {
+      "id": 3725,
+      "name": "Wald am Schoberpaß",
+      "latitude": "47.44936000",
+      "longitude": "14.67567000"
+    },
+    {
+      "id": 3742,
+      "name": "Waltendorf",
+      "latitude": "47.06667000",
+      "longitude": "15.46667000"
+    },
+    {
+      "id": 3745,
+      "name": "Wartberg",
+      "latitude": "47.52717000",
+      "longitude": "15.48095000"
+    },
+    {
+      "id": 3766,
+      "name": "Weinburg am Saßbach",
+      "latitude": "46.75361000",
+      "longitude": "15.72111000"
+    },
+    {
+      "id": 3781,
+      "name": "Weißenbach bei Liezen",
+      "latitude": "47.56667000",
+      "longitude": "14.21667000"
+    },
+    {
+      "id": 3784,
+      "name": "Weißkirchen in Steiermark",
+      "latitude": "47.15000000",
+      "longitude": "14.73333000"
+    },
+    {
+      "id": 3780,
+      "name": "Weiz",
+      "latitude": "47.21667000",
+      "longitude": "15.61667000"
+    },
+    {
+      "id": 3795,
+      "name": "Werndorf",
+      "latitude": "46.92417000",
+      "longitude": "15.49083000"
+    },
+    {
+      "id": 3796,
+      "name": "Wernersdorf",
+      "latitude": "46.71592000",
+      "longitude": "15.20718000"
+    },
+    {
+      "id": 3799,
+      "name": "Wettmannstätten",
+      "latitude": "46.83056000",
+      "longitude": "15.38722000"
+    },
+    {
+      "id": 3800,
+      "name": "Wetzelsdorf",
+      "latitude": "47.05293000",
+      "longitude": "15.39923000"
+    },
+    {
+      "id": 3807,
+      "name": "Wies",
+      "latitude": "46.72028000",
+      "longitude": "15.27194000"
+    },
+    {
+      "id": 3813,
+      "name": "Wildalpen",
+      "latitude": "47.65000000",
+      "longitude": "14.98333000"
+    },
+    {
+      "id": 3815,
+      "name": "Wildon",
+      "latitude": "46.88333000",
+      "longitude": "15.51667000"
+    },
+    {
+      "id": 3834,
+      "name": "Winklern bei Oberwölz",
+      "latitude": "47.20000000",
+      "longitude": "14.23333000"
+    },
+    {
+      "id": 3843,
+      "name": "Wolfsberg im Schwarzautal",
+      "latitude": "46.84389000",
+      "longitude": "15.65889000"
+    },
+    {
+      "id": 3858,
+      "name": "Wörschach",
+      "latitude": "47.55000000",
+      "longitude": "14.15000000"
+    },
+    {
+      "id": 3860,
+      "name": "Wörth an der Lafnitz",
+      "latitude": "47.21368000",
+      "longitude": "16.08081000"
+    },
+    {
+      "id": 3852,
+      "name": "Wundschuh",
+      "latitude": "46.92639000",
+      "longitude": "15.45111000"
+    },
+    {
+      "id": 3881,
+      "name": "Zeltweg",
+      "latitude": "47.18333000",
+      "longitude": "14.75000000"
+    },
+    {
+      "id": 3882,
+      "name": "Zerlach",
+      "latitude": "46.94593000",
+      "longitude": "15.65093000"
+    },
+    {
+      "id": 3883,
+      "name": "Zettling",
+      "latitude": "46.95220000",
+      "longitude": "15.43420000"
+    },
+    {
+      "id": 3884,
+      "name": "Zeutschach",
+      "latitude": "47.06667000",
+      "longitude": "14.36667000"
+    }
+  ],
+  "country": {
+    "id": 15,
+    "name": "Austria",
+    "iso3": "AUT",
+    "iso2": "AT",
+    "numeric_code": "040",
+    "phone_code": "43",
+    "capital": "Vienna",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".at",
+    "native": "Österreich",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vienna",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "오스트리아",
+      "pt-BR": "áustria",
+      "pt": "áustria",
+      "nl": "Oostenrijk",
+      "hr": "Austrija",
+      "fa": "اتریش",
+      "de": "Österreich",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア",
+      "it": "Austria",
+      "cn": "奥地利",
+      "tr": "Avusturya"
+    },
+    "latitude": "47.33333333",
+    "longitude": "13.33333333",
+    "emoji": "🇦🇹",
+    "emojiU": "U+1F1E6 U+1F1F9"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1130,
+  "name": "Relizane",
+  "state_code": "48",
+  "latitude": "35.73834050",
+  "longitude": "0.75328090",
+  "type": null,
+  "cities": [
+    {
+      "id": 31473,
+      "name": "’Aïn Merane",
+      "latitude": "36.16277000",
+      "longitude": "0.97037000"
+    },
+    {
+      "id": 31232,
+      "name": "Ammi Moussa",
+      "latitude": "35.86781000",
+      "longitude": "1.11143000"
+    },
+    {
+      "id": 31319,
+      "name": "Djidiouia",
+      "latitude": "35.92989000",
+      "longitude": "0.82871000"
+    },
+    {
+      "id": 31376,
+      "name": "Mazouna",
+      "latitude": "36.12232000",
+      "longitude": "0.89865000"
+    },
+    {
+      "id": 31398,
+      "name": "Oued Rhiou",
+      "latitude": "35.96124000",
+      "longitude": "0.91896000"
+    },
+    {
+      "id": 31409,
+      "name": "Relizane",
+      "latitude": "35.73734000",
+      "longitude": "0.55599000"
+    },
+    {
+      "id": 31435,
+      "name": "Smala",
+      "latitude": "35.71652000",
+      "longitude": "0.75437000"
+    },
+    {
+      "id": 31464,
+      "name": "Zemoura",
+      "latitude": "35.72251000",
+      "longitude": "0.75509000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

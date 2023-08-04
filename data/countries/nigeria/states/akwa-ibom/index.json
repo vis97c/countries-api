@@ -1,0 +1,84 @@
+{
+  "id": 304,
+  "name": "Akwa Ibom",
+  "state_code": "AK",
+  "latitude": "4.90573710",
+  "longitude": "7.85366750",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76858,
+      "name": "Eket",
+      "latitude": "4.64231000",
+      "longitude": "7.92438000"
+    },
+    {
+      "id": 76865,
+      "name": "Esuk Oron",
+      "latitude": "4.80293000",
+      "longitude": "8.25341000"
+    },
+    {
+      "id": 76937,
+      "name": "Ikot Ekpene",
+      "latitude": "5.18194000",
+      "longitude": "7.71481000"
+    },
+    {
+      "id": 76955,
+      "name": "Itu",
+      "latitude": "5.20131000",
+      "longitude": "7.98373000"
+    },
+    {
+      "id": 77129,
+      "name": "Uyo",
+      "latitude": "5.05127000",
+      "longitude": "7.93350000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

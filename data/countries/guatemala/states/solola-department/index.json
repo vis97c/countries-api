@@ -1,0 +1,192 @@
+{
+  "id": 3661,
+  "name": "Sololá Department",
+  "state_code": "SO",
+  "latitude": "14.74852300",
+  "longitude": "-91.28910360",
+  "type": null,
+  "cities": [
+    {
+      "id": 53468,
+      "name": "Concepción",
+      "latitude": "14.78417000",
+      "longitude": "-91.14754000"
+    },
+    {
+      "id": 53572,
+      "name": "Municipio de Nahualá",
+      "latitude": "14.77548000",
+      "longitude": "-91.41616000"
+    },
+    {
+      "id": 53574,
+      "name": "Municipio de Panajachel",
+      "latitude": "14.74676000",
+      "longitude": "-91.14935000"
+    },
+    {
+      "id": 53591,
+      "name": "Municipio de Santa Catarina Palopó",
+      "latitude": "14.71794000",
+      "longitude": "-91.13060000"
+    },
+    {
+      "id": 53592,
+      "name": "Municipio de Santa Cruz La Laguna",
+      "latitude": "14.74324000",
+      "longitude": "-91.22178000"
+    },
+    {
+      "id": 53602,
+      "name": "Nahualá",
+      "latitude": "14.84290000",
+      "longitude": "-91.31799000"
+    },
+    {
+      "id": 53619,
+      "name": "Panajachel",
+      "latitude": "14.74185000",
+      "longitude": "-91.15676000"
+    },
+    {
+      "id": 53652,
+      "name": "San Andrés Semetabaj",
+      "latitude": "14.74497000",
+      "longitude": "-91.13344000"
+    },
+    {
+      "id": 53659,
+      "name": "San Antonio Palopó",
+      "latitude": "14.69232000",
+      "longitude": "-91.11638000"
+    },
+    {
+      "id": 53683,
+      "name": "San José Chacayá",
+      "latitude": "14.77096000",
+      "longitude": "-91.21564000"
+    },
+    {
+      "id": 53697,
+      "name": "San Juan La Laguna",
+      "latitude": "14.69453000",
+      "longitude": "-91.28666000"
+    },
+    {
+      "id": 53703,
+      "name": "San Lucas Tolimán",
+      "latitude": "14.59471000",
+      "longitude": "-91.14659000"
+    },
+    {
+      "id": 53709,
+      "name": "San Marcos La Laguna",
+      "latitude": "14.72504000",
+      "longitude": "-91.25844000"
+    },
+    {
+      "id": 53723,
+      "name": "San Pablo La Laguna",
+      "latitude": "14.72092000",
+      "longitude": "-91.27242000"
+    },
+    {
+      "id": 53726,
+      "name": "San Pedro La Laguna",
+      "latitude": "14.69297000",
+      "longitude": "-91.27201000"
+    },
+    {
+      "id": 53749,
+      "name": "Santa Catarina Ixtahuacán",
+      "latitude": "14.79797000",
+      "longitude": "-91.35866000"
+    },
+    {
+      "id": 53751,
+      "name": "Santa Catarina Palopó",
+      "latitude": "14.72335000",
+      "longitude": "-91.13428000"
+    },
+    {
+      "id": 53753,
+      "name": "Santa Clara La Laguna",
+      "latitude": "14.71509000",
+      "longitude": "-91.30355000"
+    },
+    {
+      "id": 53755,
+      "name": "Santa Cruz La Laguna",
+      "latitude": "14.74421000",
+      "longitude": "-91.20716000"
+    },
+    {
+      "id": 53764,
+      "name": "Santa Lucía Utatlán",
+      "latitude": "14.77135000",
+      "longitude": "-91.26700000"
+    },
+    {
+      "id": 53767,
+      "name": "Santa María Visitación",
+      "latitude": "14.71717000",
+      "longitude": "-91.30844000"
+    },
+    {
+      "id": 53770,
+      "name": "Santiago Atitlán",
+      "latitude": "14.63823000",
+      "longitude": "-91.22901000"
+    },
+    {
+      "id": 53782,
+      "name": "Sololá",
+      "latitude": "14.77222000",
+      "longitude": "-91.18333000"
+    }
+  ],
+  "country": {
+    "id": 90,
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "iso2": "GT",
+    "numeric_code": "320",
+    "phone_code": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "tld": ".gt",
+    "native": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Guatemala",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "과테말라",
+      "pt-BR": "Guatemala",
+      "pt": "Guatemala",
+      "nl": "Guatemala",
+      "hr": "Gvatemala",
+      "fa": "گواتمالا",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fr": "Guatemala",
+      "ja": "グアテマラ",
+      "it": "Guatemala",
+      "cn": "危地马拉",
+      "tr": "Guatemala"
+    },
+    "latitude": "15.50000000",
+    "longitude": "-90.25000000",
+    "emoji": "🇬🇹",
+    "emojiU": "U+1F1EC U+1F1F9"
+  }
+}

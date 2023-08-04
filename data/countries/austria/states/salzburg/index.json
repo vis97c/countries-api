@@ -1,0 +1,936 @@
+{
+  "id": 2061,
+  "name": "Salzburg",
+  "state_code": "5",
+  "latitude": "47.80949000",
+  "longitude": "13.05501000",
+  "type": null,
+  "cities": [
+    {
+      "id": 1603,
+      "name": "Abtenau",
+      "latitude": "47.56373000",
+      "longitude": "13.34599000"
+    },
+    {
+      "id": 1611,
+      "name": "Adnet",
+      "latitude": "47.69746000",
+      "longitude": "13.13115000"
+    },
+    {
+      "id": 1644,
+      "name": "Altenmarkt im Pongau",
+      "latitude": "47.38333000",
+      "longitude": "13.41667000"
+    },
+    {
+      "id": 1663,
+      "name": "Anger",
+      "latitude": "47.15593000",
+      "longitude": "13.10592000"
+    },
+    {
+      "id": 1667,
+      "name": "Anif",
+      "latitude": "47.75000000",
+      "longitude": "13.06667000"
+    },
+    {
+      "id": 1672,
+      "name": "Anthering",
+      "latitude": "47.88333000",
+      "longitude": "13.01667000"
+    },
+    {
+      "id": 1702,
+      "name": "Au",
+      "latitude": "47.70000000",
+      "longitude": "13.06667000"
+    },
+    {
+      "id": 1722,
+      "name": "Bad Gastein",
+      "latitude": "47.11547000",
+      "longitude": "13.13467000"
+    },
+    {
+      "id": 1726,
+      "name": "Bad Hofgastein",
+      "latitude": "47.17274000",
+      "longitude": "13.09871000"
+    },
+    {
+      "id": 1758,
+      "name": "Bergheim",
+      "latitude": "47.83333000",
+      "longitude": "13.03333000"
+    },
+    {
+      "id": 1763,
+      "name": "Berndorf bei Salzburg",
+      "latitude": "47.99532000",
+      "longitude": "13.06146000"
+    },
+    {
+      "id": 1777,
+      "name": "Bischofshofen",
+      "latitude": "47.41667000",
+      "longitude": "13.21667000"
+    },
+    {
+      "id": 1789,
+      "name": "Bramberg am Wildkogel",
+      "latitude": "47.26979000",
+      "longitude": "12.33850000"
+    },
+    {
+      "id": 1808,
+      "name": "Bruck an der Großglocknerstraße",
+      "latitude": "47.28494000",
+      "longitude": "12.82310000"
+    },
+    {
+      "id": 1821,
+      "name": "Burgfried",
+      "latitude": "47.68004000",
+      "longitude": "13.11175000"
+    },
+    {
+      "id": 1826,
+      "name": "Bürmoos",
+      "latitude": "47.98343000",
+      "longitude": "12.91786000"
+    },
+    {
+      "id": 1848,
+      "name": "Dienten am Hochkönig",
+      "latitude": "47.38324000",
+      "longitude": "13.00369000"
+    },
+    {
+      "id": 1862,
+      "name": "Dorfbeuern",
+      "latitude": "48.01667000",
+      "longitude": "13.01667000"
+    },
+    {
+      "id": 1863,
+      "name": "Dorfgastein",
+      "latitude": "47.24172000",
+      "longitude": "13.10223000"
+    },
+    {
+      "id": 1882,
+      "name": "Eben im Pongau",
+      "latitude": "47.40000000",
+      "longitude": "13.40000000"
+    },
+    {
+      "id": 1883,
+      "name": "Ebenau",
+      "latitude": "47.79073000",
+      "longitude": "13.17527000"
+    },
+    {
+      "id": 1896,
+      "name": "Eching",
+      "latitude": "47.97263000",
+      "longitude": "12.88786000"
+    },
+    {
+      "id": 1929,
+      "name": "Elixhausen",
+      "latitude": "47.86667000",
+      "longitude": "13.06667000"
+    },
+    {
+      "id": 1933,
+      "name": "Elsbethen",
+      "latitude": "47.76464000",
+      "longitude": "13.08104000"
+    },
+    {
+      "id": 1953,
+      "name": "Esch",
+      "latitude": "47.84030000",
+      "longitude": "13.09223000"
+    },
+    {
+      "id": 1955,
+      "name": "Eugendorf",
+      "latitude": "47.86765000",
+      "longitude": "13.12609000"
+    },
+    {
+      "id": 1958,
+      "name": "Faistenau",
+      "latitude": "47.77767000",
+      "longitude": "13.23393000"
+    },
+    {
+      "id": 1986,
+      "name": "Filzmoos",
+      "latitude": "47.43333000",
+      "longitude": "13.51667000"
+    },
+    {
+      "id": 1994,
+      "name": "Flachau",
+      "latitude": "47.34406000",
+      "longitude": "13.39148000"
+    },
+    {
+      "id": 2007,
+      "name": "Forstau",
+      "latitude": "47.37842000",
+      "longitude": "13.55558000"
+    },
+    {
+      "id": 2031,
+      "name": "Fuschl am See",
+      "latitude": "47.80000000",
+      "longitude": "13.30000000"
+    },
+    {
+      "id": 2072,
+      "name": "Georgenberg",
+      "latitude": "47.63333000",
+      "longitude": "13.15000000"
+    },
+    {
+      "id": 2082,
+      "name": "Glanegg",
+      "latitude": "47.75000000",
+      "longitude": "13.00000000"
+    },
+    {
+      "id": 2084,
+      "name": "Glasenbach",
+      "latitude": "47.76667000",
+      "longitude": "13.08333000"
+    },
+    {
+      "id": 2103,
+      "name": "Golling an der Salzach",
+      "latitude": "47.60000000",
+      "longitude": "13.16667000"
+    },
+    {
+      "id": 2166,
+      "name": "Grödig",
+      "latitude": "47.73833000",
+      "longitude": "13.03730000"
+    },
+    {
+      "id": 2139,
+      "name": "Grossarl",
+      "latitude": "47.23333000",
+      "longitude": "13.20000000"
+    },
+    {
+      "id": 2140,
+      "name": "Grossgmain",
+      "latitude": "47.72416000",
+      "longitude": "12.90851000"
+    },
+    {
+      "id": 2202,
+      "name": "Habach",
+      "latitude": "47.81753000",
+      "longitude": "13.16252000"
+    },
+    {
+      "id": 2225,
+      "name": "Hallein",
+      "latitude": "47.68333000",
+      "longitude": "13.10000000"
+    },
+    {
+      "id": 2226,
+      "name": "Hallwang",
+      "latitude": "47.85000000",
+      "longitude": "13.08333000"
+    },
+    {
+      "id": 2269,
+      "name": "Henndorf am Wallersee",
+      "latitude": "47.90000000",
+      "longitude": "13.18333000"
+    },
+    {
+      "id": 2283,
+      "name": "Himmelreich",
+      "latitude": "47.80000000",
+      "longitude": "12.98333000"
+    },
+    {
+      "id": 2286,
+      "name": "Hinterglemm",
+      "latitude": "47.37685000",
+      "longitude": "12.59583000"
+    },
+    {
+      "id": 2288,
+      "name": "Hintersee",
+      "latitude": "47.70000000",
+      "longitude": "13.28333000"
+    },
+    {
+      "id": 2304,
+      "name": "Hof",
+      "latitude": "47.35000000",
+      "longitude": "13.31667000"
+    },
+    {
+      "id": 2306,
+      "name": "Hof bei Salzburg",
+      "latitude": "47.81929000",
+      "longitude": "13.21488000"
+    },
+    {
+      "id": 2325,
+      "name": "Hollersbach im Pinzgau",
+      "latitude": "47.27658000",
+      "longitude": "12.42326000"
+    },
+    {
+      "id": 2347,
+      "name": "Hüttau",
+      "latitude": "47.41610000",
+      "longitude": "13.30775000"
+    },
+    {
+      "id": 2349,
+      "name": "Hüttschlag",
+      "latitude": "47.17635000",
+      "longitude": "13.23239000"
+    },
+    {
+      "id": 2366,
+      "name": "Irrsdorf",
+      "latitude": "47.96667000",
+      "longitude": "13.28333000"
+    },
+    {
+      "id": 2404,
+      "name": "Kaprun",
+      "latitude": "47.27239000",
+      "longitude": "12.75985000"
+    },
+    {
+      "id": 2452,
+      "name": "Kleinarl",
+      "latitude": "47.27725000",
+      "longitude": "13.31955000"
+    },
+    {
+      "id": 2475,
+      "name": "Koppl",
+      "latitude": "47.80808000",
+      "longitude": "13.15561000"
+    },
+    {
+      "id": 2513,
+      "name": "Köstendorf",
+      "latitude": "47.95000000",
+      "longitude": "13.20000000"
+    },
+    {
+      "id": 2489,
+      "name": "Krimml",
+      "latitude": "47.21799000",
+      "longitude": "12.17487000"
+    },
+    {
+      "id": 2490,
+      "name": "Krispl",
+      "latitude": "47.71667000",
+      "longitude": "13.18333000"
+    },
+    {
+      "id": 2502,
+      "name": "Kuchl",
+      "latitude": "47.62647000",
+      "longitude": "13.14480000"
+    },
+    {
+      "id": 2529,
+      "name": "Lamprechtshausen",
+      "latitude": "47.99098000",
+      "longitude": "12.95481000"
+    },
+    {
+      "id": 2562,
+      "name": "Lehen",
+      "latitude": "47.87083000",
+      "longitude": "13.01722000"
+    },
+    {
+      "id": 2572,
+      "name": "Lend",
+      "latitude": "47.29856000",
+      "longitude": "13.05176000"
+    },
+    {
+      "id": 2576,
+      "name": "Lengfelden",
+      "latitude": "47.85000000",
+      "longitude": "13.05000000"
+    },
+    {
+      "id": 2581,
+      "name": "Leogang",
+      "latitude": "47.43906000",
+      "longitude": "12.76109000"
+    },
+    {
+      "id": 2609,
+      "name": "Lofer",
+      "latitude": "47.58475000",
+      "longitude": "12.69333000"
+    },
+    {
+      "id": 2627,
+      "name": "Maishofen",
+      "latitude": "47.36667000",
+      "longitude": "12.80000000"
+    },
+    {
+      "id": 2639,
+      "name": "Maria Alm am Steinernen Meer",
+      "latitude": "47.40579000",
+      "longitude": "12.90121000"
+    },
+    {
+      "id": 2653,
+      "name": "Mariapfarr",
+      "latitude": "47.15000000",
+      "longitude": "13.75000000"
+    },
+    {
+      "id": 2671,
+      "name": "Mattsee",
+      "latitude": "47.96667000",
+      "longitude": "13.10000000"
+    },
+    {
+      "id": 2681,
+      "name": "Mauterndorf",
+      "latitude": "47.13451000",
+      "longitude": "13.67884000"
+    },
+    {
+      "id": 2709,
+      "name": "Mitterberghütten",
+      "latitude": "47.40000000",
+      "longitude": "13.21667000"
+    },
+    {
+      "id": 2712,
+      "name": "Mitterhofen",
+      "latitude": "47.38333000",
+      "longitude": "12.80000000"
+    },
+    {
+      "id": 2719,
+      "name": "Mittersill",
+      "latitude": "47.28333000",
+      "longitude": "12.48333000"
+    },
+    {
+      "id": 2752,
+      "name": "Mühlbach am Hochkönig",
+      "latitude": "47.37746000",
+      "longitude": "13.12926000"
+    },
+    {
+      "id": 2784,
+      "name": "Neualm",
+      "latitude": "47.69336000",
+      "longitude": "13.08758000"
+    },
+    {
+      "id": 2799,
+      "name": "Neukirchen am Großvenediger",
+      "latitude": "47.25046000",
+      "longitude": "12.27585000"
+    },
+    {
+      "id": 2804,
+      "name": "Neumarkt am Wallersee",
+      "latitude": "47.95000000",
+      "longitude": "13.23333000"
+    },
+    {
+      "id": 2820,
+      "name": "Niederalm",
+      "latitude": "47.72872000",
+      "longitude": "13.06223000"
+    },
+    {
+      "id": 2828,
+      "name": "Niedernsill",
+      "latitude": "47.28333000",
+      "longitude": "12.65000000"
+    },
+    {
+      "id": 2838,
+      "name": "Nußdorf am Haunsberg",
+      "latitude": "47.95944000",
+      "longitude": "13.00917000"
+    },
+    {
+      "id": 2845,
+      "name": "Oberalm",
+      "latitude": "47.70000000",
+      "longitude": "13.10000000"
+    },
+    {
+      "id": 2850,
+      "name": "Obergäu",
+      "latitude": "47.58955000",
+      "longitude": "13.17621000"
+    },
+    {
+      "id": 2864,
+      "name": "Oberndorf bei Salzburg",
+      "latitude": "47.95000000",
+      "longitude": "12.93333000"
+    },
+    {
+      "id": 2878,
+      "name": "Obertrum am See",
+      "latitude": "47.93722000",
+      "longitude": "13.07722000"
+    },
+    {
+      "id": 2957,
+      "name": "Pfarrwerfen",
+      "latitude": "47.45729000",
+      "longitude": "13.20531000"
+    },
+    {
+      "id": 2963,
+      "name": "Pichl",
+      "latitude": "47.28333000",
+      "longitude": "12.85000000"
+    },
+    {
+      "id": 2967,
+      "name": "Piesendorf",
+      "latitude": "47.29077000",
+      "longitude": "12.71839000"
+    },
+    {
+      "id": 2982,
+      "name": "Plainfeld",
+      "latitude": "47.83333000",
+      "longitude": "13.18333000"
+    },
+    {
+      "id": 2983,
+      "name": "Plankenau",
+      "latitude": "47.32673000",
+      "longitude": "13.19282000"
+    },
+    {
+      "id": 3006,
+      "name": "Politischer Bezirk Hallein",
+      "latitude": "47.60000000",
+      "longitude": "13.30000000"
+    },
+    {
+      "id": 3041,
+      "name": "Politischer Bezirk Salzburg-Umgebung",
+      "latitude": "47.84019000",
+      "longitude": "13.18799000"
+    },
+    {
+      "id": 3042,
+      "name": "Politischer Bezirk Sankt Johann im Pongau",
+      "latitude": "47.30000000",
+      "longitude": "13.30000000"
+    },
+    {
+      "id": 3051,
+      "name": "Politischer Bezirk Tamsweg",
+      "latitude": "47.15000000",
+      "longitude": "13.70000000"
+    },
+    {
+      "id": 3088,
+      "name": "Puch bei Hallein",
+      "latitude": "47.71536000",
+      "longitude": "13.09296000"
+    },
+    {
+      "id": 3125,
+      "name": "Radstadt",
+      "latitude": "47.38333000",
+      "longitude": "13.45000000"
+    },
+    {
+      "id": 3132,
+      "name": "Ramingstein",
+      "latitude": "47.07462000",
+      "longitude": "13.83642000"
+    },
+    {
+      "id": 3153,
+      "name": "Rauris",
+      "latitude": "47.22656000",
+      "longitude": "12.99459000"
+    },
+    {
+      "id": 3169,
+      "name": "Reinbach",
+      "latitude": "47.34673000",
+      "longitude": "13.19072000"
+    },
+    {
+      "id": 3173,
+      "name": "Reitberg",
+      "latitude": "47.85269000",
+      "longitude": "13.15730000"
+    },
+    {
+      "id": 3229,
+      "name": "Saalbach",
+      "latitude": "47.39138000",
+      "longitude": "12.63642000"
+    },
+    {
+      "id": 3230,
+      "name": "Saalfelden am Steinernen Meer",
+      "latitude": "47.42681000",
+      "longitude": "12.84800000"
+    },
+    {
+      "id": 3234,
+      "name": "Salzburg",
+      "latitude": "47.79941000",
+      "longitude": "13.04399000"
+    },
+    {
+      "id": 3235,
+      "name": "Salzburg Stadt",
+      "latitude": "47.80067000",
+      "longitude": "13.04532000"
+    },
+    {
+      "id": 3241,
+      "name": "Sankt Andrä im Lungau",
+      "latitude": "47.15000000",
+      "longitude": "13.78333000"
+    },
+    {
+      "id": 3262,
+      "name": "Sankt Gilgen",
+      "latitude": "47.76667000",
+      "longitude": "13.36667000"
+    },
+    {
+      "id": 3269,
+      "name": "Sankt Johann im Pongau",
+      "latitude": "47.35000000",
+      "longitude": "13.20000000"
+    },
+    {
+      "id": 3278,
+      "name": "Sankt Leonhard",
+      "latitude": "47.72587000",
+      "longitude": "13.04577000"
+    },
+    {
+      "id": 3298,
+      "name": "Sankt Margarethen im Lungau",
+      "latitude": "47.07927000",
+      "longitude": "13.69613000"
+    },
+    {
+      "id": 3306,
+      "name": "Sankt Martin bei Lofer",
+      "latitude": "47.56667000",
+      "longitude": "12.70000000"
+    },
+    {
+      "id": 3310,
+      "name": "Sankt Michael im Lungau",
+      "latitude": "47.10000000",
+      "longitude": "13.63333000"
+    },
+    {
+      "id": 3345,
+      "name": "Sankt Veit im Pongau",
+      "latitude": "47.33333000",
+      "longitude": "13.15000000"
+    },
+    {
+      "id": 3364,
+      "name": "Scheffau am Tennengebirge",
+      "latitude": "47.58831000",
+      "longitude": "13.22020000"
+    },
+    {
+      "id": 3375,
+      "name": "Schleedorf",
+      "latitude": "47.95000000",
+      "longitude": "13.15000000"
+    },
+    {
+      "id": 3396,
+      "name": "Schwarzach im Pongau",
+      "latitude": "47.32048000",
+      "longitude": "13.15171000"
+    },
+    {
+      "id": 3432,
+      "name": "Seeham",
+      "latitude": "47.96746000",
+      "longitude": "13.07699000"
+    },
+    {
+      "id": 3433,
+      "name": "Seekirchen am Wallersee",
+      "latitude": "47.90000000",
+      "longitude": "13.13333000"
+    },
+    {
+      "id": 3435,
+      "name": "Seewalchen",
+      "latitude": "47.90000000",
+      "longitude": "13.13333000"
+    },
+    {
+      "id": 3455,
+      "name": "Siezenheim",
+      "latitude": "47.81529000",
+      "longitude": "12.99039000"
+    },
+    {
+      "id": 3485,
+      "name": "St. Martin of Tennengebirge",
+      "latitude": "47.46500000",
+      "longitude": "13.37761000"
+    },
+    {
+      "id": 3545,
+      "name": "Strasswalchen",
+      "latitude": "47.97947000",
+      "longitude": "13.25535000"
+    },
+    {
+      "id": 3553,
+      "name": "Strobl",
+      "latitude": "47.71667000",
+      "longitude": "13.48333000"
+    },
+    {
+      "id": 3557,
+      "name": "Stuhlfelden",
+      "latitude": "47.28761000",
+      "longitude": "12.52755000"
+    },
+    {
+      "id": 3570,
+      "name": "Tamsweg",
+      "latitude": "47.12808000",
+      "longitude": "13.81102000"
+    },
+    {
+      "id": 3575,
+      "name": "Taugl",
+      "latitude": "47.64747000",
+      "longitude": "13.20282000"
+    },
+    {
+      "id": 3577,
+      "name": "Taxach",
+      "latitude": "47.72610000",
+      "longitude": "13.07184000"
+    },
+    {
+      "id": 3578,
+      "name": "Taxenbach",
+      "latitude": "47.29116000",
+      "longitude": "12.96215000"
+    },
+    {
+      "id": 3587,
+      "name": "Thalgau",
+      "latitude": "47.84142000",
+      "longitude": "13.25325000"
+    },
+    {
+      "id": 3593,
+      "name": "Thomatal",
+      "latitude": "47.06667000",
+      "longitude": "13.75000000"
+    },
+    {
+      "id": 3594,
+      "name": "Thumersbach",
+      "latitude": "47.32952000",
+      "longitude": "12.81675000"
+    },
+    {
+      "id": 3637,
+      "name": "Tweng",
+      "latitude": "47.18333000",
+      "longitude": "13.60000000"
+    },
+    {
+      "id": 3646,
+      "name": "Unken",
+      "latitude": "47.64966000",
+      "longitude": "12.72946000"
+    },
+    {
+      "id": 3657,
+      "name": "Unternberg",
+      "latitude": "47.11269000",
+      "longitude": "13.74261000"
+    },
+    {
+      "id": 3662,
+      "name": "Untertauern",
+      "latitude": "47.30000000",
+      "longitude": "13.50000000"
+    },
+    {
+      "id": 3669,
+      "name": "Uttendorf",
+      "latitude": "47.28333000",
+      "longitude": "12.56667000"
+    },
+    {
+      "id": 3678,
+      "name": "Viehhausen",
+      "latitude": "47.78333000",
+      "longitude": "12.98333000"
+    },
+    {
+      "id": 3679,
+      "name": "Viehhofen",
+      "latitude": "47.36667000",
+      "longitude": "12.73333000"
+    },
+    {
+      "id": 3682,
+      "name": "Vigaun",
+      "latitude": "47.66667000",
+      "longitude": "13.13333000"
+    },
+    {
+      "id": 3711,
+      "name": "Wagnergraben",
+      "latitude": "48.02036000",
+      "longitude": "13.02395000"
+    },
+    {
+      "id": 3713,
+      "name": "Wagrain",
+      "latitude": "47.33528000",
+      "longitude": "13.29889000"
+    },
+    {
+      "id": 3723,
+      "name": "Walchen",
+      "latitude": "47.28822000",
+      "longitude": "12.68739000"
+    },
+    {
+      "id": 3726,
+      "name": "Wald im Pinzgau",
+      "latitude": "47.25000000",
+      "longitude": "12.23333000"
+    },
+    {
+      "id": 3734,
+      "name": "Waldprechting",
+      "latitude": "47.90000000",
+      "longitude": "13.11667000"
+    },
+    {
+      "id": 3740,
+      "name": "Wals",
+      "latitude": "47.78333000",
+      "longitude": "12.96667000"
+    },
+    {
+      "id": 3741,
+      "name": "Walserfeld",
+      "latitude": "47.79222000",
+      "longitude": "12.98000000"
+    },
+    {
+      "id": 3792,
+      "name": "Werfen",
+      "latitude": "47.47585000",
+      "longitude": "13.19020000"
+    },
+    {
+      "id": 3793,
+      "name": "Werfenweng",
+      "latitude": "47.46204000",
+      "longitude": "13.25582000"
+    },
+    {
+      "id": 3868,
+      "name": "Zederhaus",
+      "latitude": "47.15570000",
+      "longitude": "13.50576000"
+    },
+    {
+      "id": 3874,
+      "name": "Zell am See",
+      "latitude": "47.32556000",
+      "longitude": "12.79444000"
+    }
+  ],
+  "country": {
+    "id": 15,
+    "name": "Austria",
+    "iso3": "AUT",
+    "iso2": "AT",
+    "numeric_code": "040",
+    "phone_code": "43",
+    "capital": "Vienna",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".at",
+    "native": "Österreich",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vienna",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "오스트리아",
+      "pt-BR": "áustria",
+      "pt": "áustria",
+      "nl": "Oostenrijk",
+      "hr": "Austrija",
+      "fa": "اتریش",
+      "de": "Österreich",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア",
+      "it": "Austria",
+      "cn": "奥地利",
+      "tr": "Avusturya"
+    },
+    "latitude": "47.33333333",
+    "longitude": "13.33333333",
+    "emoji": "🇦🇹",
+    "emojiU": "U+1F1E6 U+1F1F9"
+  }
+}

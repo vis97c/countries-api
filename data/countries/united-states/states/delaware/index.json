@@ -1,0 +1,574 @@
+{
+  "id": 1399,
+  "name": "Delaware",
+  "state_code": "DE",
+  "latitude": "38.91083250",
+  "longitude": "-75.52766990",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111974,
+      "name": "Bear",
+      "latitude": "39.62928000",
+      "longitude": "-75.65826000"
+    },
+    {
+      "id": 112098,
+      "name": "Bellefonte",
+      "latitude": "39.76622000",
+      "longitude": "-75.50936000"
+    },
+    {
+      "id": 112277,
+      "name": "Bethany Beach",
+      "latitude": "38.53956000",
+      "longitude": "-75.05518000"
+    },
+    {
+      "id": 112401,
+      "name": "Blades",
+      "latitude": "38.63567000",
+      "longitude": "-75.60993000"
+    },
+    {
+      "id": 112772,
+      "name": "Bridgeville",
+      "latitude": "38.74261000",
+      "longitude": "-75.60437000"
+    },
+    {
+      "id": 112887,
+      "name": "Brookside",
+      "latitude": "39.66706000",
+      "longitude": "-75.72688000"
+    },
+    {
+      "id": 113261,
+      "name": "Camden",
+      "latitude": "39.11345000",
+      "longitude": "-75.54187000"
+    },
+    {
+      "id": 113914,
+      "name": "Cheswold",
+      "latitude": "39.21928000",
+      "longitude": "-75.58576000"
+    },
+    {
+      "id": 114192,
+      "name": "Claymont",
+      "latitude": "39.80067000",
+      "longitude": "-75.45964000"
+    },
+    {
+      "id": 114197,
+      "name": "Clayton",
+      "latitude": "39.29067000",
+      "longitude": "-75.63437000"
+    },
+    {
+      "id": 115203,
+      "name": "Delaware City",
+      "latitude": "39.57789000",
+      "longitude": "-75.58881000"
+    },
+    {
+      "id": 115217,
+      "name": "Delmar",
+      "latitude": "38.45651000",
+      "longitude": "-75.57715000"
+    },
+    {
+      "id": 115445,
+      "name": "Dover",
+      "latitude": "39.15817000",
+      "longitude": "-75.52437000"
+    },
+    {
+      "id": 115453,
+      "name": "Dover Base Housing",
+      "latitude": "39.11763000",
+      "longitude": "-75.48393000"
+    },
+    {
+      "id": 115847,
+      "name": "Edgemoor",
+      "latitude": "39.75011000",
+      "longitude": "-75.49964000"
+    },
+    {
+      "id": 116070,
+      "name": "Elsmere",
+      "latitude": "39.73928000",
+      "longitude": "-75.59798000"
+    },
+    {
+      "id": 116470,
+      "name": "Felton",
+      "latitude": "39.00845000",
+      "longitude": "-75.57798000"
+    },
+    {
+      "id": 117155,
+      "name": "Georgetown",
+      "latitude": "38.69011000",
+      "longitude": "-75.38547000"
+    },
+    {
+      "id": 117245,
+      "name": "Glasgow",
+      "latitude": "39.60483000",
+      "longitude": "-75.74521000"
+    },
+    {
+      "id": 117681,
+      "name": "Greenville",
+      "latitude": "39.77900000",
+      "longitude": "-75.59826000"
+    },
+    {
+      "id": 117700,
+      "name": "Greenwood",
+      "latitude": "38.80706000",
+      "longitude": "-75.59132000"
+    },
+    {
+      "id": 118041,
+      "name": "Harrington",
+      "latitude": "38.92372000",
+      "longitude": "-75.57770000"
+    },
+    {
+      "id": 118401,
+      "name": "Highland Acres",
+      "latitude": "39.12095000",
+      "longitude": "-75.52187000"
+    },
+    {
+      "id": 118503,
+      "name": "Hockessin",
+      "latitude": "39.78761000",
+      "longitude": "-75.69660000"
+    },
+    {
+      "id": 119488,
+      "name": "Kent Acres",
+      "latitude": "39.13178000",
+      "longitude": "-75.52492000"
+    },
+    {
+      "id": 119490,
+      "name": "Kent County",
+      "latitude": "39.09595000",
+      "longitude": "-75.50461000"
+    },
+    {
+      "id": 120187,
+      "name": "Laurel",
+      "latitude": "38.55650000",
+      "longitude": "-75.57131000"
+    },
+    {
+      "id": 120410,
+      "name": "Lewes",
+      "latitude": "38.77456000",
+      "longitude": "-75.13935000"
+    },
+    {
+      "id": 120748,
+      "name": "Long Neck",
+      "latitude": "38.62011000",
+      "longitude": "-75.15074000"
+    },
+    {
+      "id": 121785,
+      "name": "Middletown",
+      "latitude": "39.44956000",
+      "longitude": "-75.71632000"
+    },
+    {
+      "id": 121846,
+      "name": "Milford",
+      "latitude": "38.91261000",
+      "longitude": "-75.42797000"
+    },
+    {
+      "id": 121900,
+      "name": "Millsboro",
+      "latitude": "38.59150000",
+      "longitude": "-75.29130000"
+    },
+    {
+      "id": 121911,
+      "name": "Milton",
+      "latitude": "38.77761000",
+      "longitude": "-75.30991000"
+    },
+    {
+      "id": 122683,
+      "name": "New Castle",
+      "latitude": "39.66206000",
+      "longitude": "-75.56631000"
+    },
+    {
+      "id": 122690,
+      "name": "New Castle County",
+      "latitude": "39.57833000",
+      "longitude": "-75.63898000"
+    },
+    {
+      "id": 122799,
+      "name": "Newark",
+      "latitude": "39.68372000",
+      "longitude": "-75.74966000"
+    },
+    {
+      "id": 122838,
+      "name": "Newport",
+      "latitude": "39.71372000",
+      "longitude": "-75.60937000"
+    },
+    {
+      "id": 123112,
+      "name": "North Star",
+      "latitude": "39.76122000",
+      "longitude": "-75.71910000"
+    },
+    {
+      "id": 123338,
+      "name": "Ocean View",
+      "latitude": "38.54511000",
+      "longitude": "-75.08907000"
+    },
+    {
+      "id": 124194,
+      "name": "Pike Creek",
+      "latitude": "39.73095000",
+      "longitude": "-75.70410000"
+    },
+    {
+      "id": 124195,
+      "name": "Pike Creek Valley",
+      "latitude": "39.73622000",
+      "longitude": "-75.69827000"
+    },
+    {
+      "id": 125005,
+      "name": "Rehoboth Beach",
+      "latitude": "38.72095000",
+      "longitude": "-75.07601000"
+    },
+    {
+      "id": 125171,
+      "name": "Rising Sun-Lebanon",
+      "latitude": "39.09977000",
+      "longitude": "-75.50488000"
+    },
+    {
+      "id": 125217,
+      "name": "Riverview",
+      "latitude": "39.02650000",
+      "longitude": "-75.51076000"
+    },
+    {
+      "id": 125342,
+      "name": "Rodney Village",
+      "latitude": "39.13206000",
+      "longitude": "-75.53242000"
+    },
+    {
+      "id": 126085,
+      "name": "Seaford",
+      "latitude": "38.64123000",
+      "longitude": "-75.61104000"
+    },
+    {
+      "id": 126132,
+      "name": "Selbyville",
+      "latitude": "38.46039000",
+      "longitude": "-75.22074000"
+    },
+    {
+      "id": 126534,
+      "name": "Smyrna",
+      "latitude": "39.29983000",
+      "longitude": "-75.60465000"
+    },
+    {
+      "id": 127303,
+      "name": "Sussex County",
+      "latitude": "38.68330000",
+      "longitude": "-75.33954000"
+    },
+    {
+      "id": 127764,
+      "name": "Townsend",
+      "latitude": "39.39511000",
+      "longitude": "-75.69160000"
+    },
+    {
+      "id": 129321,
+      "name": "Wilmington",
+      "latitude": "39.74595000",
+      "longitude": "-75.54659000"
+    },
+    {
+      "id": 129326,
+      "name": "Wilmington Manor",
+      "latitude": "39.68678000",
+      "longitude": "-75.58437000"
+    },
+    {
+      "id": 129557,
+      "name": "Woodside East",
+      "latitude": "39.06756000",
+      "longitude": "-75.53748000"
+    },
+    {
+      "id": 129634,
+      "name": "Wyoming",
+      "latitude": "39.11817000",
+      "longitude": "-75.55881000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

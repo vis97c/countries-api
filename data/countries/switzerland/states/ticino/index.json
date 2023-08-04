@@ -1,0 +1,432 @@
+{
+  "id": 1643,
+  "name": "Ticino",
+  "state_code": "TI",
+  "latitude": "46.33173400",
+  "longitude": "8.80045290",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17361,
+      "name": "Acquarossa",
+      "latitude": "46.45473000",
+      "longitude": "8.94261000"
+    },
+    {
+      "id": 17380,
+      "name": "Agno",
+      "latitude": "45.99863000",
+      "longitude": "8.90030000"
+    },
+    {
+      "id": 17384,
+      "name": "Airolo",
+      "latitude": "46.52855000",
+      "longitude": "8.61189000"
+    },
+    {
+      "id": 17413,
+      "name": "Arzo",
+      "latitude": "45.87606000",
+      "longitude": "8.94103000"
+    },
+    {
+      "id": 17414,
+      "name": "Ascona",
+      "latitude": "46.15451000",
+      "longitude": "8.77327000"
+    },
+    {
+      "id": 17434,
+      "name": "Balerna",
+      "latitude": "45.84638000",
+      "longitude": "9.00724000"
+    },
+    {
+      "id": 17452,
+      "name": "Bellinzona",
+      "latitude": "46.19278000",
+      "longitude": "9.01703000"
+    },
+    {
+      "id": 17453,
+      "name": "Bellinzona District",
+      "latitude": "46.18858000",
+      "longitude": "9.00254000"
+    },
+    {
+      "id": 17524,
+      "name": "Biasca",
+      "latitude": "46.35972000",
+      "longitude": "8.96965000"
+    },
+    {
+      "id": 17533,
+      "name": "Bioggio",
+      "latitude": "46.01357000",
+      "longitude": "8.91103000"
+    },
+    {
+      "id": 17540,
+      "name": "Blenio District",
+      "latitude": "46.47613000",
+      "longitude": "8.94609000"
+    },
+    {
+      "id": 17544,
+      "name": "Bodio",
+      "latitude": "46.37808000",
+      "longitude": "8.90991000"
+    },
+    {
+      "id": 17564,
+      "name": "Brissago",
+      "latitude": "46.12013000",
+      "longitude": "8.71181000"
+    },
+    {
+      "id": 17607,
+      "name": "Cadempino",
+      "latitude": "46.03672000",
+      "longitude": "8.93403000"
+    },
+    {
+      "id": 17608,
+      "name": "Cadenazzo",
+      "latitude": "46.15172000",
+      "longitude": "8.94719000"
+    },
+    {
+      "id": 17609,
+      "name": "Cadro",
+      "latitude": "46.04595000",
+      "longitude": "8.98725000"
+    },
+    {
+      "id": 17610,
+      "name": "Camorino",
+      "latitude": "46.16483000",
+      "longitude": "9.00547000"
+    },
+    {
+      "id": 17611,
+      "name": "Canobbio",
+      "latitude": "46.03592000",
+      "longitude": "8.96605000"
+    },
+    {
+      "id": 17613,
+      "name": "Caslano",
+      "latitude": "45.97364000",
+      "longitude": "8.87739000"
+    },
+    {
+      "id": 17614,
+      "name": "Castel San Pietro",
+      "latitude": "45.86211000",
+      "longitude": "9.00843000"
+    },
+    {
+      "id": 17620,
+      "name": "Cevio",
+      "latitude": "46.31479000",
+      "longitude": "8.60332000"
+    },
+    {
+      "id": 17636,
+      "name": "Chiasso",
+      "latitude": "45.83203000",
+      "longitude": "9.03119000"
+    },
+    {
+      "id": 17645,
+      "name": "Claro",
+      "latitude": "46.25763000",
+      "longitude": "9.02252000"
+    },
+    {
+      "id": 17648,
+      "name": "Comano",
+      "latitude": "46.03635000",
+      "longitude": "8.95526000"
+    },
+    {
+      "id": 17670,
+      "name": "Cugnasco",
+      "latitude": "46.17473000",
+      "longitude": "8.91684000"
+    },
+    {
+      "id": 17780,
+      "name": "Faido",
+      "latitude": "46.47700000",
+      "longitude": "8.80125000"
+    },
+    {
+      "id": 17836,
+      "name": "Giubiasco",
+      "latitude": "46.17246000",
+      "longitude": "9.00793000"
+    },
+    {
+      "id": 17854,
+      "name": "Gordola",
+      "latitude": "46.18256000",
+      "longitude": "8.86657000"
+    },
+    {
+      "id": 17863,
+      "name": "Gravesano",
+      "latitude": "46.04208000",
+      "longitude": "8.91832000"
+    },
+    {
+      "id": 18053,
+      "name": "Lavertezzo",
+      "latitude": "46.25893000",
+      "longitude": "8.83756000"
+    },
+    {
+      "id": 18078,
+      "name": "Leventina District",
+      "latitude": "46.46912000",
+      "longitude": "8.75539000"
+    },
+    {
+      "id": 18084,
+      "name": "Ligornetto",
+      "latitude": "45.86161000",
+      "longitude": "8.95166000"
+    },
+    {
+      "id": 18088,
+      "name": "Locarno",
+      "latitude": "46.17086000",
+      "longitude": "8.79953000"
+    },
+    {
+      "id": 18089,
+      "name": "Locarno District",
+      "latitude": "46.18033000",
+      "longitude": "8.75991000"
+    },
+    {
+      "id": 18090,
+      "name": "Lodrino",
+      "latitude": "46.30016000",
+      "longitude": "8.97986000"
+    },
+    {
+      "id": 18091,
+      "name": "Losone",
+      "latitude": "46.16866000",
+      "longitude": "8.75928000"
+    },
+    {
+      "id": 18098,
+      "name": "Lugano",
+      "latitude": "46.01008000",
+      "longitude": "8.96004000"
+    },
+    {
+      "id": 18099,
+      "name": "Lugano District",
+      "latitude": "46.02322000",
+      "longitude": "8.93802000"
+    },
+    {
+      "id": 18100,
+      "name": "Lumino",
+      "latitude": "46.23020000",
+      "longitude": "9.06420000"
+    },
+    {
+      "id": 18114,
+      "name": "Magadino",
+      "latitude": "46.14892000",
+      "longitude": "8.85610000"
+    },
+    {
+      "id": 18120,
+      "name": "Malvaglia",
+      "latitude": "46.40588000",
+      "longitude": "8.98190000"
+    },
+    {
+      "id": 18128,
+      "name": "Massagno",
+      "latitude": "46.01257000",
+      "longitude": "8.94354000"
+    },
+    {
+      "id": 18145,
+      "name": "Melano",
+      "latitude": "45.92202000",
+      "longitude": "8.98435000"
+    },
+    {
+      "id": 18147,
+      "name": "Melide",
+      "latitude": "45.95455000",
+      "longitude": "8.94725000"
+    },
+    {
+      "id": 18149,
+      "name": "Mendrisio",
+      "latitude": "45.87019000",
+      "longitude": "8.98160000"
+    },
+    {
+      "id": 18150,
+      "name": "Mendrisio District",
+      "latitude": "45.86592000",
+      "longitude": "8.99931000"
+    },
+    {
+      "id": 18159,
+      "name": "Minusio",
+      "latitude": "46.17769000",
+      "longitude": "8.81473000"
+    },
+    {
+      "id": 18163,
+      "name": "Montagnola",
+      "latitude": "45.98323000",
+      "longitude": "8.91786000"
+    },
+    {
+      "id": 18166,
+      "name": "Monte Carasso",
+      "latitude": "46.18649000",
+      "longitude": "8.99892000"
+    },
+    {
+      "id": 18170,
+      "name": "Morbio Inferiore",
+      "latitude": "45.84915000",
+      "longitude": "9.01907000"
+    },
+    {
+      "id": 18180,
+      "name": "Muralto",
+      "latitude": "46.17323000",
+      "longitude": "8.80219000"
+    },
+    {
+      "id": 18231,
+      "name": "Novazzano",
+      "latitude": "45.84073000",
+      "longitude": "8.98236000"
+    },
+    {
+      "id": 18325,
+      "name": "Pregassona",
+      "latitude": "46.02021000",
+      "longitude": "8.97429000"
+    },
+    {
+      "id": 18331,
+      "name": "Pura",
+      "latitude": "45.98647000",
+      "longitude": "8.86877000"
+    },
+    {
+      "id": 18378,
+      "name": "Riva San Vitale",
+      "latitude": "45.90123000",
+      "longitude": "8.97167000"
+    },
+    {
+      "id": 18379,
+      "name": "Riviera District",
+      "latitude": "46.30926000",
+      "longitude": "8.98148000"
+    },
+    {
+      "id": 18507,
+      "name": "Sementina",
+      "latitude": "46.18363000",
+      "longitude": "8.99162000"
+    },
+    {
+      "id": 18530,
+      "name": "Sorengo",
+      "latitude": "45.99766000",
+      "longitude": "8.93783000"
+    },
+    {
+      "id": 18536,
+      "name": "Stabio",
+      "latitude": "45.84846000",
+      "longitude": "8.93642000"
+    },
+    {
+      "id": 18578,
+      "name": "Tesserete",
+      "latitude": "46.06813000",
+      "longitude": "8.96501000"
+    },
+    {
+      "id": 18658,
+      "name": "Vallemaggia District",
+      "latitude": "46.35483000",
+      "longitude": "8.60540000"
+    },
+    {
+      "id": 18671,
+      "name": "Verscio",
+      "latitude": "46.18482000",
+      "longitude": "8.73224000"
+    },
+    {
+      "id": 18678,
+      "name": "Viganello",
+      "latitude": "46.01342000",
+      "longitude": "8.96879000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

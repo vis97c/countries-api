@@ -1,0 +1,204 @@
+{
+  "id": 2217,
+  "name": "Ankara",
+  "state_code": "06",
+  "latitude": "39.78052450",
+  "longitude": "32.71813750",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107102,
+      "name": "Akyurt",
+      "latitude": "40.13512000",
+      "longitude": "33.08614000"
+    },
+    {
+      "id": 107139,
+      "name": "Altındağ",
+      "latitude": "40.00110000",
+      "longitude": "32.97022000"
+    },
+    {
+      "id": 107217,
+      "name": "Ayaş",
+      "latitude": "40.01933000",
+      "longitude": "32.33221000"
+    },
+    {
+      "id": 107268,
+      "name": "Bala",
+      "latitude": "39.56374000",
+      "longitude": "33.12962000"
+    },
+    {
+      "id": 107343,
+      "name": "Beypazarı",
+      "latitude": "40.16750000",
+      "longitude": "31.92111000"
+    },
+    {
+      "id": 108768,
+      "name": "Çamlıdere",
+      "latitude": "40.48958000",
+      "longitude": "32.47499000"
+    },
+    {
+      "id": 108779,
+      "name": "Çankaya",
+      "latitude": "39.91790000",
+      "longitude": "32.86268000"
+    },
+    {
+      "id": 108844,
+      "name": "Çubuk",
+      "latitude": "40.23861000",
+      "longitude": "33.03222000"
+    },
+    {
+      "id": 107568,
+      "name": "Elmadağ",
+      "latitude": "39.92083000",
+      "longitude": "33.23083000"
+    },
+    {
+      "id": 107611,
+      "name": "Etimesgut",
+      "latitude": "39.96335000",
+      "longitude": "32.63744000"
+    },
+    {
+      "id": 107614,
+      "name": "Evren",
+      "latitude": "39.02402000",
+      "longitude": "33.80626000"
+    },
+    {
+      "id": 107687,
+      "name": "Gölbaşı",
+      "latitude": "39.79043000",
+      "longitude": "32.80903000"
+    },
+    {
+      "id": 107725,
+      "name": "Güdül",
+      "latitude": "40.21051000",
+      "longitude": "32.24552000"
+    },
+    {
+      "id": 107811,
+      "name": "Haymana",
+      "latitude": "39.43212000",
+      "longitude": "32.49732000"
+    },
+    {
+      "id": 107868,
+      "name": "Kahramankazan",
+      "latitude": "40.16502000",
+      "longitude": "32.63904000"
+    },
+    {
+      "id": 107874,
+      "name": "Kalecik",
+      "latitude": "40.09722000",
+      "longitude": "33.40833000"
+    },
+    {
+      "id": 107991,
+      "name": "Keçiören",
+      "latitude": "40.02106000",
+      "longitude": "32.83102000"
+    },
+    {
+      "id": 108113,
+      "name": "Kızılcahamam",
+      "latitude": "40.46972000",
+      "longitude": "32.65056000"
+    },
+    {
+      "id": 108147,
+      "name": "Mamak",
+      "latitude": "39.94587000",
+      "longitude": "32.90811000"
+    },
+    {
+      "id": 108237,
+      "name": "Nallıhan",
+      "latitude": "40.18593000",
+      "longitude": "31.35179000"
+    },
+    {
+      "id": 108346,
+      "name": "Polatlı",
+      "latitude": "39.57715000",
+      "longitude": "32.14132000"
+    },
+    {
+      "id": 108352,
+      "name": "Pursaklar",
+      "latitude": "40.03961000",
+      "longitude": "32.90139000"
+    },
+    {
+      "id": 108956,
+      "name": "Şereflikoçhisar",
+      "latitude": "38.93925000",
+      "longitude": "33.53860000"
+    },
+    {
+      "id": 108470,
+      "name": "Sincan",
+      "latitude": "39.95943000",
+      "longitude": "32.49567000"
+    },
+    {
+      "id": 108703,
+      "name": "Yenimahalle",
+      "latitude": "39.99043000",
+      "longitude": "32.69555000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

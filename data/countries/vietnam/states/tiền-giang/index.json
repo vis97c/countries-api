@@ -1,0 +1,114 @@
+{
+  "id": 3781,
+  "name": "Tiền Giang",
+  "state_code": "46",
+  "latitude": "10.44933240",
+  "longitude": "106.34205040",
+  "type": null,
+  "cities": [
+    {
+      "id": 130266,
+      "name": "Huyện Cái Bè",
+      "latitude": "10.38824000",
+      "longitude": "105.94620000"
+    },
+    {
+      "id": 130241,
+      "name": "Huyện Cai Lậy",
+      "latitude": "10.38943000",
+      "longitude": "106.06774000"
+    },
+    {
+      "id": 130252,
+      "name": "Huyện Châu Thành",
+      "latitude": "10.38600000",
+      "longitude": "106.27311000"
+    },
+    {
+      "id": 130260,
+      "name": "Huyện Chợ Gạo",
+      "latitude": "10.37373000",
+      "longitude": "106.44341000"
+    },
+    {
+      "id": 130293,
+      "name": "Huyện Gò Công Đông",
+      "latitude": "10.36784000",
+      "longitude": "106.74592000"
+    },
+    {
+      "id": 130292,
+      "name": "Huyện Gò Công Tây",
+      "latitude": "10.34527000",
+      "longitude": "106.59851000"
+    },
+    {
+      "id": 130486,
+      "name": "Huyện Tân Phước",
+      "latitude": "10.51489000",
+      "longitude": "106.23312000"
+    },
+    {
+      "id": 130574,
+      "name": "Mỹ Tho",
+      "latitude": "10.36004000",
+      "longitude": "106.35996000"
+    },
+    {
+      "id": 130599,
+      "name": "Thành Phố Mỹ Tho",
+      "latitude": "10.36221000",
+      "longitude": "106.36824000"
+    },
+    {
+      "id": 130610,
+      "name": "Thị Xã Gò Công",
+      "latitude": "10.40005000",
+      "longitude": "106.65847000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3563,
+  "name": "Põlva County",
+  "state_code": "65",
+  "latitude": "58.11606220",
+  "longitude": "27.20663940",
+  "type": null,
+  "cities": [
+    {
+      "id": 31623,
+      "name": "Kanepi",
+      "latitude": "57.98306000",
+      "longitude": "26.75639000"
+    },
+    {
+      "id": 31624,
+      "name": "Kanepi vald",
+      "latitude": "57.98058000",
+      "longitude": "26.76151000"
+    },
+    {
+      "id": 31685,
+      "name": "Põlva",
+      "latitude": "58.06028000",
+      "longitude": "27.06944000"
+    },
+    {
+      "id": 31686,
+      "name": "Põlva vald",
+      "latitude": "58.08368000",
+      "longitude": "26.98242000"
+    },
+    {
+      "id": 31699,
+      "name": "Räpina",
+      "latitude": "58.09806000",
+      "longitude": "27.46361000"
+    },
+    {
+      "id": 31700,
+      "name": "Räpina vald",
+      "latitude": "58.10777000",
+      "longitude": "27.38580000"
+    }
+  ],
+  "country": {
+    "id": 69,
+    "name": "Estonia",
+    "iso3": "EST",
+    "iso2": "EE",
+    "numeric_code": "233",
+    "phone_code": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "native": "Eesti",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스토니아",
+      "pt-BR": "Estônia",
+      "pt": "Estónia",
+      "nl": "Estland",
+      "hr": "Estonija",
+      "fa": "استونی",
+      "de": "Estland",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア",
+      "it": "Estonia",
+      "cn": "爱沙尼亚",
+      "tr": "Estonya"
+    },
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  }
+}

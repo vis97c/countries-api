@@ -1,0 +1,211 @@
+{
+  "id": 745,
+  "name": "Nicosia District (Lefkoşa)",
+  "state_code": "01",
+  "latitude": "35.18556590",
+  "longitude": "33.38227640",
+  "type": "district",
+  "cities": [
+    {
+      "id": 22012,
+      "name": "Akáki",
+      "latitude": "35.13341000",
+      "longitude": "33.12873000"
+    },
+    {
+      "id": 22013,
+      "name": "Alámpra",
+      "latitude": "34.98898000",
+      "longitude": "33.39887000"
+    },
+    {
+      "id": 22016,
+      "name": "Aredioú",
+      "latitude": "35.04844000",
+      "longitude": "33.19610000"
+    },
+    {
+      "id": 22018,
+      "name": "Astromerítis",
+      "latitude": "35.14096000",
+      "longitude": "33.03793000"
+    },
+    {
+      "id": 22025,
+      "name": "Dáli",
+      "latitude": "35.02294000",
+      "longitude": "33.42195000"
+    },
+    {
+      "id": 22027,
+      "name": "Ergátes",
+      "latitude": "35.05365000",
+      "longitude": "33.24292000"
+    },
+    {
+      "id": 22035,
+      "name": "Géri",
+      "latitude": "35.10560000",
+      "longitude": "33.41977000"
+    },
+    {
+      "id": 22036,
+      "name": "Kakopetriá",
+      "latitude": "34.98768000",
+      "longitude": "32.90468000"
+    },
+    {
+      "id": 22047,
+      "name": "Káto Defterá",
+      "latitude": "35.08489000",
+      "longitude": "33.27558000"
+    },
+    {
+      "id": 22048,
+      "name": "Káto Pýrgos",
+      "latitude": "35.17897000",
+      "longitude": "32.68600000"
+    },
+    {
+      "id": 22038,
+      "name": "Klírou",
+      "latitude": "35.02004000",
+      "longitude": "33.17806000"
+    },
+    {
+      "id": 22040,
+      "name": "Kokkinotrimithiá",
+      "latitude": "35.15303000",
+      "longitude": "33.19966000"
+    },
+    {
+      "id": 22060,
+      "name": "Léfka",
+      "latitude": "35.11199000",
+      "longitude": "32.84997000"
+    },
+    {
+      "id": 22061,
+      "name": "Lýmpia",
+      "latitude": "34.99889000",
+      "longitude": "33.46175000"
+    },
+    {
+      "id": 22058,
+      "name": "Lythrodóntas",
+      "latitude": "34.95105000",
+      "longitude": "33.29777000"
+    },
+    {
+      "id": 22066,
+      "name": "Mámmari",
+      "latitude": "35.17604000",
+      "longitude": "33.20435000"
+    },
+    {
+      "id": 22067,
+      "name": "Méniko",
+      "latitude": "35.10945000",
+      "longitude": "33.14474000"
+    },
+    {
+      "id": 22068,
+      "name": "Mórfou",
+      "latitude": "35.19869000",
+      "longitude": "32.99338000"
+    },
+    {
+      "id": 22069,
+      "name": "Nicosia",
+      "latitude": "35.17531000",
+      "longitude": "33.36420000"
+    },
+    {
+      "id": 22070,
+      "name": "Nicosia Municipality",
+      "latitude": "35.16944000",
+      "longitude": "33.36081000"
+    },
+    {
+      "id": 22083,
+      "name": "Páno Defterá",
+      "latitude": "35.07778000",
+      "longitude": "33.26584000"
+    },
+    {
+      "id": 22086,
+      "name": "Péra",
+      "latitude": "35.03350000",
+      "longitude": "33.25413000"
+    },
+    {
+      "id": 22075,
+      "name": "Peristeróna",
+      "latitude": "35.12928000",
+      "longitude": "33.07858000"
+    },
+    {
+      "id": 22080,
+      "name": "Psimolofou",
+      "latitude": "35.06250000",
+      "longitude": "33.26250000"
+    },
+    {
+      "id": 22097,
+      "name": "Tséri",
+      "latitude": "35.07307000",
+      "longitude": "33.32344000"
+    }
+  ],
+  "country": {
+    "id": 57,
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "iso2": "CY",
+    "numeric_code": "196",
+    "phone_code": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "native": "Κύπρος",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Famagusta",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Nicosia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "키프로스",
+      "pt-BR": "Chipre",
+      "pt": "Chipre",
+      "nl": "Cyprus",
+      "hr": "Cipar",
+      "fa": "قبرس",
+      "de": "Zypern",
+      "es": "Chipre",
+      "fr": "Chypre",
+      "ja": "キプロス",
+      "it": "Cipro",
+      "cn": "塞浦路斯",
+      "tr": "Kuzey Kıbrıs Türk Cumhuriyeti"
+    },
+    "latitude": "35.00000000",
+    "longitude": "33.00000000",
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE"
+  }
+}

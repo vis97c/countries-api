@@ -1,0 +1,993 @@
+{
+  "id": 2020,
+  "name": "Tocantins",
+  "state_code": "TO",
+  "latitude": "-10.17528000",
+  "longitude": "-48.29824740",
+  "type": null,
+  "cities": [
+    {
+      "id": 10067,
+      "name": "Abreulândia",
+      "latitude": "-9.43672000",
+      "longitude": "-49.31733000"
+    },
+    {
+      "id": 10101,
+      "name": "Aguiarnópolis",
+      "latitude": "-6.48176000",
+      "longitude": "-47.51435000"
+    },
+    {
+      "id": 10138,
+      "name": "Aliança do Tocantins",
+      "latitude": "-11.32864000",
+      "longitude": "-48.95855000"
+    },
+    {
+      "id": 10140,
+      "name": "Almas",
+      "latitude": "-11.43527000",
+      "longitude": "-47.23635000"
+    },
+    {
+      "id": 10194,
+      "name": "Alvorada",
+      "latitude": "-12.48000000",
+      "longitude": "-49.12472000"
+    },
+    {
+      "id": 10235,
+      "name": "Ananás",
+      "latitude": "-6.14621000",
+      "longitude": "-48.21505000"
+    },
+    {
+      "id": 10255,
+      "name": "Angico",
+      "latitude": "-6.34335000",
+      "longitude": "-47.93112000"
+    },
+    {
+      "id": 10289,
+      "name": "Aparecida do Rio Negro",
+      "latitude": "-10.06183000",
+      "longitude": "-47.96514000"
+    },
+    {
+      "id": 10317,
+      "name": "Aragominas",
+      "latitude": "-6.89259000",
+      "longitude": "-48.61589000"
+    },
+    {
+      "id": 10318,
+      "name": "Araguacema",
+      "latitude": "-8.91352000",
+      "longitude": "-49.40915000"
+    },
+    {
+      "id": 10326,
+      "name": "Araguaçu",
+      "latitude": "-12.72579000",
+      "longitude": "-49.74942000"
+    },
+    {
+      "id": 10327,
+      "name": "Araguaína",
+      "latitude": "-7.31139000",
+      "longitude": "-48.62113000"
+    },
+    {
+      "id": 10322,
+      "name": "Araguanã",
+      "latitude": "-6.76634000",
+      "longitude": "-48.52702000"
+    },
+    {
+      "id": 10325,
+      "name": "Araguatins",
+      "latitude": "-5.64071000",
+      "longitude": "-48.08859000"
+    },
+    {
+      "id": 10338,
+      "name": "Arapoema",
+      "latitude": "-7.71941000",
+      "longitude": "-49.03285000"
+    },
+    {
+      "id": 10409,
+      "name": "Arraias",
+      "latitude": "-12.84110000",
+      "longitude": "-46.90868000"
+    },
+    {
+      "id": 10442,
+      "name": "Augustinópolis",
+      "latitude": "-5.51080000",
+      "longitude": "-47.91538000"
+    },
+    {
+      "id": 10453,
+      "name": "Aurora do Tocantins",
+      "latitude": "-12.61624000",
+      "longitude": "-46.44441000"
+    },
+    {
+      "id": 10462,
+      "name": "Axixá do Tocantins",
+      "latitude": "-5.64850000",
+      "longitude": "-47.77278000"
+    },
+    {
+      "id": 10466,
+      "name": "Babaçulândia",
+      "latitude": "-7.20516000",
+      "longitude": "-47.76821000"
+    },
+    {
+      "id": 10502,
+      "name": "Bandeirantes do Tocantins",
+      "latitude": "-8.00418000",
+      "longitude": "-48.68223000"
+    },
+    {
+      "id": 10539,
+      "name": "Barra do Ouro",
+      "latitude": "-7.75845000",
+      "longitude": "-47.58781000"
+    },
+    {
+      "id": 10565,
+      "name": "Barrolândia",
+      "latitude": "-9.84999000",
+      "longitude": "-48.83437000"
+    },
+    {
+      "id": 10636,
+      "name": "Bernardo Sayão",
+      "latitude": "-7.97377000",
+      "longitude": "-48.98609000"
+    },
+    {
+      "id": 10715,
+      "name": "Bom Jesus do Tocantins",
+      "latitude": "-9.01838000",
+      "longitude": "-47.86969000"
+    },
+    {
+      "id": 10773,
+      "name": "Brasilândia do Tocantins",
+      "latitude": "-8.26045000",
+      "longitude": "-48.43450000"
+    },
+    {
+      "id": 10787,
+      "name": "Brejinho de Nazaré",
+      "latitude": "-11.01872000",
+      "longitude": "-48.64695000"
+    },
+    {
+      "id": 10827,
+      "name": "Buriti do Tocantins",
+      "latitude": "-5.37057000",
+      "longitude": "-48.13476000"
+    },
+    {
+      "id": 10878,
+      "name": "Cachoeirinha",
+      "latitude": "-6.09807000",
+      "longitude": "-47.87888000"
+    },
+    {
+      "id": 11012,
+      "name": "Campos Lindos",
+      "latitude": "-8.22553000",
+      "longitude": "-46.84507000"
+    },
+    {
+      "id": 11133,
+      "name": "Cariri do Tocantins",
+      "latitude": "-11.94500000",
+      "longitude": "-49.20796000"
+    },
+    {
+      "id": 11150,
+      "name": "Carmolândia",
+      "latitude": "-7.03001000",
+      "longitude": "-48.35627000"
+    },
+    {
+      "id": 11165,
+      "name": "Carrasco Bonito",
+      "latitude": "-5.31027000",
+      "longitude": "-48.03360000"
+    },
+    {
+      "id": 11178,
+      "name": "Caseara",
+      "latitude": "-9.45982000",
+      "longitude": "-49.83604000"
+    },
+    {
+      "id": 11235,
+      "name": "Centenário",
+      "latitude": "-9.15331000",
+      "longitude": "-47.44772000"
+    },
+    {
+      "id": 11261,
+      "name": "Chapada da Natividade",
+      "latitude": "-11.54159000",
+      "longitude": "-47.88094000"
+    },
+    {
+      "id": 11262,
+      "name": "Chapada de Areia",
+      "latitude": "-10.14838000",
+      "longitude": "-49.19998000"
+    },
+    {
+      "id": 11325,
+      "name": "Colinas do Tocantins",
+      "latitude": "-8.09451000",
+      "longitude": "-48.52143000"
+    },
+    {
+      "id": 11326,
+      "name": "Colméia",
+      "latitude": "-8.87655000",
+      "longitude": "-48.75788000"
+    },
+    {
+      "id": 11339,
+      "name": "Combinado",
+      "latitude": "-12.82321000",
+      "longitude": "-46.53424000"
+    },
+    {
+      "id": 11363,
+      "name": "Conceição do Tocantins",
+      "latitude": "-12.09878000",
+      "longitude": "-47.27047000"
+    },
+    {
+      "id": 11455,
+      "name": "Couto Magalhães",
+      "latitude": "-8.50138000",
+      "longitude": "-49.17287000"
+    },
+    {
+      "id": 11472,
+      "name": "Cristalândia",
+      "latitude": "-10.62568000",
+      "longitude": "-49.36863000"
+    },
+    {
+      "id": 11484,
+      "name": "Crixás do Tocantins",
+      "latitude": "-11.16426000",
+      "longitude": "-49.07254000"
+    },
+    {
+      "id": 11562,
+      "name": "Darcinópolis",
+      "latitude": "-6.76072000",
+      "longitude": "-47.75687000"
+    },
+    {
+      "id": 11590,
+      "name": "Dianópolis",
+      "latitude": "-11.69578000",
+      "longitude": "-46.73544000"
+    },
+    {
+      "id": 11608,
+      "name": "Divinópolis do Tocantins",
+      "latitude": "-9.65731000",
+      "longitude": "-49.38737000"
+    },
+    {
+      "id": 11617,
+      "name": "Dois Irmãos do Tocantins",
+      "latitude": "-9.29074000",
+      "longitude": "-49.15573000"
+    },
+    {
+      "id": 11666,
+      "name": "Dueré",
+      "latitude": "-11.35537000",
+      "longitude": "-49.46137000"
+    },
+    {
+      "id": 11728,
+      "name": "Esperantina",
+      "latitude": "-5.30432000",
+      "longitude": "-48.54762000"
+    },
+    {
+      "id": 11906,
+      "name": "Fátima",
+      "latitude": "-10.81953000",
+      "longitude": "-48.86757000"
+    },
+    {
+      "id": 11818,
+      "name": "Figueirópolis",
+      "latitude": "-12.26857000",
+      "longitude": "-49.28976000"
+    },
+    {
+      "id": 11820,
+      "name": "Filadélfia",
+      "latitude": "-7.48804000",
+      "longitude": "-47.85623000"
+    },
+    {
+      "id": 11859,
+      "name": "Formoso do Araguaia",
+      "latitude": "-11.95898000",
+      "longitude": "-50.09809000"
+    },
+    {
+      "id": 11865,
+      "name": "Fortaleza do Tabocão",
+      "latitude": "-9.08805000",
+      "longitude": "-48.55638000"
+    },
+    {
+      "id": 11961,
+      "name": "Goianorte",
+      "latitude": "-8.83664000",
+      "longitude": "-48.99356000"
+    },
+    {
+      "id": 11966,
+      "name": "Goiatins",
+      "latitude": "-8.04432000",
+      "longitude": "-47.47183000"
+    },
+    {
+      "id": 12061,
+      "name": "Guaraí",
+      "latitude": "-8.70233000",
+      "longitude": "-48.40251000"
+    },
+    {
+      "id": 12088,
+      "name": "Gurupi",
+      "latitude": "-11.72917000",
+      "longitude": "-49.06861000"
+    },
+    {
+      "id": 12294,
+      "name": "Ipueiras",
+      "latitude": "-11.15847000",
+      "longitude": "-48.37886000"
+    },
+    {
+      "id": 12338,
+      "name": "Itacajá",
+      "latitude": "-8.55538000",
+      "longitude": "-47.62201000"
+    },
+    {
+      "id": 12354,
+      "name": "Itaguatins",
+      "latitude": "-5.81408000",
+      "longitude": "-47.65425000"
+    },
+    {
+      "id": 12425,
+      "name": "Itapiratins",
+      "latitude": "-8.35820000",
+      "longitude": "-47.99703000"
+    },
+    {
+      "id": 12434,
+      "name": "Itaporã do Tocantins",
+      "latitude": "-8.50178000",
+      "longitude": "-48.75214000"
+    },
+    {
+      "id": 12610,
+      "name": "Jaú do Tocantins",
+      "latitude": "-12.83943000",
+      "longitude": "-48.63203000"
+    },
+    {
+      "id": 12670,
+      "name": "Juarina",
+      "latitude": "-8.10180000",
+      "longitude": "-49.07995000"
+    },
+    {
+      "id": 12750,
+      "name": "Lagoa da Confusão",
+      "latitude": "-10.99307000",
+      "longitude": "-49.93702000"
+    },
+    {
+      "id": 12764,
+      "name": "Lagoa do Tocantins",
+      "latitude": "-10.33721000",
+      "longitude": "-47.48133000"
+    },
+    {
+      "id": 12776,
+      "name": "Lajeado",
+      "latitude": "-9.86927000",
+      "longitude": "-48.28058000"
+    },
+    {
+      "id": 12807,
+      "name": "Lavandeira",
+      "latitude": "-12.83658000",
+      "longitude": "-46.39307000"
+    },
+    {
+      "id": 12845,
+      "name": "Lizarda",
+      "latitude": "-9.52341000",
+      "longitude": "-46.97679000"
+    },
+    {
+      "id": 12876,
+      "name": "Luzinópolis",
+      "latitude": "-6.20636000",
+      "longitude": "-47.83045000"
+    },
+    {
+      "id": 13010,
+      "name": "Marianópolis do Tocantins",
+      "latitude": "-9.81443000",
+      "longitude": "-49.71607000"
+    },
+    {
+      "id": 13051,
+      "name": "Mateiros",
+      "latitude": "-10.41802000",
+      "longitude": "-46.48380000"
+    },
+    {
+      "id": 13081,
+      "name": "Maurilândia do Tocantins",
+      "latitude": "-5.98609000",
+      "longitude": "-47.57986000"
+    },
+    {
+      "id": 13133,
+      "name": "Miracema do Tocantins",
+      "latitude": "-9.76855000",
+      "longitude": "-48.58348000"
+    },
+    {
+      "id": 13144,
+      "name": "Miranorte",
+      "latitude": "-9.39114000",
+      "longitude": "-48.66598000"
+    },
+    {
+      "id": 13214,
+      "name": "Monte do Carmo",
+      "latitude": "-10.72034000",
+      "longitude": "-48.01807000"
+    },
+    {
+      "id": 13210,
+      "name": "Monte Santo do Tocantins",
+      "latitude": "-10.00972000",
+      "longitude": "-49.12747000"
+    },
+    {
+      "id": 13282,
+      "name": "Muricilândia",
+      "latitude": "-6.98598000",
+      "longitude": "-48.79167000"
+    },
+    {
+      "id": 13302,
+      "name": "Natividade",
+      "latitude": "-11.75889000",
+      "longitude": "-47.64485000"
+    },
+    {
+      "id": 13310,
+      "name": "Nazaré",
+      "latitude": "-6.31311000",
+      "longitude": "-47.78944000"
+    },
+    {
+      "id": 13409,
+      "name": "Nova Olinda",
+      "latitude": "-7.68973000",
+      "longitude": "-48.28152000"
+    },
+    {
+      "id": 13429,
+      "name": "Nova Rosalândia",
+      "latitude": "-10.56285000",
+      "longitude": "-48.97053000"
+    },
+    {
+      "id": 13450,
+      "name": "Novo Acordo",
+      "latitude": "-10.15197000",
+      "longitude": "-47.47165000"
+    },
+    {
+      "id": 13452,
+      "name": "Novo Alegre",
+      "latitude": "-12.87311000",
+      "longitude": "-46.56936000"
+    },
+    {
+      "id": 13467,
+      "name": "Novo Jardim",
+      "latitude": "-11.75148000",
+      "longitude": "-46.54138000"
+    },
+    {
+      "id": 13508,
+      "name": "Oliveira de Fátima",
+      "latitude": "-10.67053000",
+      "longitude": "-48.90783000"
+    },
+    {
+      "id": 13587,
+      "name": "Palmas",
+      "latitude": "-10.16745000",
+      "longitude": "-48.32766000"
+    },
+    {
+      "id": 13596,
+      "name": "Palmeirante",
+      "latitude": "-7.86937000",
+      "longitude": "-48.17585000"
+    },
+    {
+      "id": 13599,
+      "name": "Palmeiras do Tocantins",
+      "latitude": "-6.61304000",
+      "longitude": "-47.66259000"
+    },
+    {
+      "id": 13602,
+      "name": "Palmeirópolis",
+      "latitude": "-13.06026000",
+      "longitude": "-48.38866000"
+    },
+    {
+      "id": 13664,
+      "name": "Paraíso do Tocantins",
+      "latitude": "-10.23212000",
+      "longitude": "-48.88032000"
+    },
+    {
+      "id": 13649,
+      "name": "Paranã",
+      "latitude": "-12.73875000",
+      "longitude": "-47.94338000"
+    },
+    {
+      "id": 13716,
+      "name": "Pau d'Arco",
+      "latitude": "-7.55877000",
+      "longitude": "-48.93697000"
+    },
+    {
+      "id": 13772,
+      "name": "Pedro Afonso",
+      "latitude": "-9.20623000",
+      "longitude": "-47.97805000"
+    },
+    {
+      "id": 13787,
+      "name": "Peixe",
+      "latitude": "-11.99612000",
+      "longitude": "-48.53284000"
+    },
+    {
+      "id": 13801,
+      "name": "Pequizeiro",
+      "latitude": "-8.40977000",
+      "longitude": "-48.94148000"
+    },
+    {
+      "id": 13855,
+      "name": "Pindorama do Tocantins",
+      "latitude": "-11.13233000",
+      "longitude": "-47.56170000"
+    },
+    {
+      "id": 13905,
+      "name": "Piraquê",
+      "latitude": "-6.68862000",
+      "longitude": "-48.23711000"
+    },
+    {
+      "id": 13926,
+      "name": "Pium",
+      "latitude": "-10.07399000",
+      "longitude": "-49.69857000"
+    },
+    {
+      "id": 13966,
+      "name": "Ponte Alta do Bom Jesus",
+      "latitude": "-12.09696000",
+      "longitude": "-46.62629000"
+    },
+    {
+      "id": 13968,
+      "name": "Ponte Alta do Tocantins",
+      "latitude": "-10.78604000",
+      "longitude": "-47.18130000"
+    },
+    {
+      "id": 13997,
+      "name": "Porto Alegre do Tocantins",
+      "latitude": "-11.53239000",
+      "longitude": "-47.03453000"
+    },
+    {
+      "id": 14012,
+      "name": "Porto Nacional",
+      "latitude": "-10.52826000",
+      "longitude": "-48.47443000"
+    },
+    {
+      "id": 14065,
+      "name": "Praia Norte",
+      "latitude": "-5.46958000",
+      "longitude": "-47.79732000"
+    },
+    {
+      "id": 14088,
+      "name": "Presidente Kennedy",
+      "latitude": "-8.48264000",
+      "longitude": "-48.44075000"
+    },
+    {
+      "id": 14115,
+      "name": "Pugmil",
+      "latitude": "-10.42875000",
+      "longitude": "-48.85558000"
+    },
+    {
+      "id": 14181,
+      "name": "Recursolândia",
+      "latitude": "-8.66852000",
+      "longitude": "-47.07333000"
+    },
+    {
+      "id": 14208,
+      "name": "Riachinho",
+      "latitude": "-6.46034000",
+      "longitude": "-48.13618000"
+    },
+    {
+      "id": 14303,
+      "name": "Rio da Conceição",
+      "latitude": "-11.36815000",
+      "longitude": "-46.77445000"
+    },
+    {
+      "id": 14317,
+      "name": "Rio dos Bois",
+      "latitude": "-9.20901000",
+      "longitude": "-48.44308000"
+    },
+    {
+      "id": 14297,
+      "name": "Rio Sono",
+      "latitude": "-9.64479000",
+      "longitude": "-47.38387000"
+    },
+    {
+      "id": 14409,
+      "name": "Sampaio",
+      "latitude": "-5.36587000",
+      "longitude": "-47.91898000"
+    },
+    {
+      "id": 14412,
+      "name": "Sandolândia",
+      "latitude": "-12.40743000",
+      "longitude": "-49.85491000"
+    },
+    {
+      "id": 14467,
+      "name": "Santa Fé do Araguaia",
+      "latitude": "-7.10746000",
+      "longitude": "-48.95580000"
+    },
+    {
+      "id": 14517,
+      "name": "Santa Maria do Tocantins",
+      "latitude": "-8.81566000",
+      "longitude": "-47.85337000"
+    },
+    {
+      "id": 14538,
+      "name": "Santa Rita do Tocantins",
+      "latitude": "-10.97360000",
+      "longitude": "-49.37112000"
+    },
+    {
+      "id": 14549,
+      "name": "Santa Rosa do Tocantins",
+      "latitude": "-11.38278000",
+      "longitude": "-48.07295000"
+    },
+    {
+      "id": 14556,
+      "name": "Santa Tereza do Tocantins",
+      "latitude": "-10.29980000",
+      "longitude": "-47.72597000"
+    },
+    {
+      "id": 14564,
+      "name": "Santa Terezinha do Tocantins",
+      "latitude": "-6.48040000",
+      "longitude": "-47.70055000"
+    },
+    {
+      "id": 14841,
+      "name": "São Bento do Tocantins",
+      "latitude": "-5.95028000",
+      "longitude": "-47.99630000"
+    },
+    {
+      "id": 14905,
+      "name": "São Félix do Tocantins",
+      "latitude": "-10.06488000",
+      "longitude": "-46.72778000"
+    },
+    {
+      "id": 15096,
+      "name": "São Miguel do Tocantins",
+      "latitude": "-5.53458000",
+      "longitude": "-47.60820000"
+    },
+    {
+      "id": 15134,
+      "name": "São Salvador do Tocantins",
+      "latitude": "-12.54945000",
+      "longitude": "-48.40184000"
+    },
+    {
+      "id": 15152,
+      "name": "São Sebastião do Tocantins",
+      "latitude": "-5.25181000",
+      "longitude": "-48.34602000"
+    },
+    {
+      "id": 15165,
+      "name": "São Valério",
+      "latitude": "-11.86029000",
+      "longitude": "-48.13995000"
+    },
+    {
+      "id": 14776,
+      "name": "Silvanópolis",
+      "latitude": "-11.11343000",
+      "longitude": "-48.22341000"
+    },
+    {
+      "id": 15178,
+      "name": "Sítio Novo do Tocantins",
+      "latitude": "-5.62990000",
+      "longitude": "-47.68644000"
+    },
+    {
+      "id": 14817,
+      "name": "Sucupira",
+      "latitude": "-12.01900000",
+      "longitude": "-48.84477000"
+    },
+    {
+      "id": 15198,
+      "name": "Taguatinga",
+      "latitude": "-12.38568000",
+      "longitude": "-46.57110000"
+    },
+    {
+      "id": 15203,
+      "name": "Taipas do Tocantins",
+      "latitude": "-12.15677000",
+      "longitude": "-47.03342000"
+    },
+    {
+      "id": 15207,
+      "name": "Talismã",
+      "latitude": "-12.67795000",
+      "longitude": "-49.07863000"
+    },
+    {
+      "id": 15327,
+      "name": "Tocantínia",
+      "latitude": "-9.56440000",
+      "longitude": "-48.18709000"
+    },
+    {
+      "id": 15326,
+      "name": "Tocantinópolis",
+      "latitude": "-6.26254000",
+      "longitude": "-47.55767000"
+    },
+    {
+      "id": 15406,
+      "name": "Tupirama",
+      "latitude": "-8.91920000",
+      "longitude": "-48.27661000"
+    },
+    {
+      "id": 15407,
+      "name": "Tupiratins",
+      "latitude": "-8.38578000",
+      "longitude": "-48.22299000"
+    },
+    {
+      "id": 15627,
+      "name": "Wanderlândia",
+      "latitude": "-6.79803000",
+      "longitude": "-48.00415000"
+    },
+    {
+      "id": 15633,
+      "name": "Xambioá",
+      "latitude": "-6.59413000",
+      "longitude": "-48.43142000"
+    }
+  ],
+  "country": {
+    "id": 31,
+    "name": "Brazil",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "numeric_code": "076",
+    "phone_code": "55",
+    "capital": "Brasilia",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "native": "Brasil",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "translations": {
+      "kr": "브라질",
+      "pt-BR": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "cn": "巴西",
+      "tr": "Brezilya"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  }
+}

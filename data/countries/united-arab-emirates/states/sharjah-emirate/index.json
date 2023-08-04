@@ -1,0 +1,126 @@
+{
+  "id": 3390,
+  "name": "Sharjah Emirate",
+  "state_code": "SH",
+  "latitude": "25.07539740",
+  "longitude": "55.75784030",
+  "type": null,
+  "cities": [
+    {
+      "id": 13,
+      "name": "Adh Dhayd",
+      "latitude": "25.28812000",
+      "longitude": "55.88157000"
+    },
+    {
+      "id": 18,
+      "name": "Al Batayih",
+      "latitude": "25.22317000",
+      "longitude": "55.74272000"
+    },
+    {
+      "id": 22,
+      "name": "Al Hamriyah",
+      "latitude": "25.46121000",
+      "longitude": "55.54813000"
+    },
+    {
+      "id": 23,
+      "name": "Al Madam",
+      "latitude": "24.95536000",
+      "longitude": "55.76820000"
+    },
+    {
+      "id": 27,
+      "name": "Dhaid",
+      "latitude": "25.26951000",
+      "longitude": "55.92024000"
+    },
+    {
+      "id": 29,
+      "name": "Dibba Al Hesn",
+      "latitude": "25.61593000",
+      "longitude": "56.26899000"
+    },
+    {
+      "id": 33,
+      "name": "Kalba",
+      "latitude": "24.99816000",
+      "longitude": "56.27207000"
+    },
+    {
+      "id": 35,
+      "name": "Khawr Fakkān",
+      "latitude": "25.33132000",
+      "longitude": "56.34199000"
+    },
+    {
+      "id": 36,
+      "name": "Khor Fakkan",
+      "latitude": "25.33966000",
+      "longitude": "56.30280000"
+    },
+    {
+      "id": 39,
+      "name": "Milehah",
+      "latitude": "25.10097000",
+      "longitude": "55.91282000"
+    },
+    {
+      "id": 40,
+      "name": "Murbaḩ",
+      "latitude": "25.27623000",
+      "longitude": "56.36256000"
+    },
+    {
+      "id": 46,
+      "name": "Sharjah",
+      "latitude": "25.33737000",
+      "longitude": "55.41206000"
+    }
+  ],
+  "country": {
+    "id": 231,
+    "name": "United Arab Emirates",
+    "iso3": "ARE",
+    "iso2": "AE",
+    "numeric_code": "784",
+    "phone_code": "971",
+    "capital": "Abu Dhabi",
+    "currency": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "currency_symbol": "إ.د",
+    "tld": ".ae",
+    "native": "دولة الإمارات العربية المتحدة",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dubai",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "아랍에미리트",
+      "pt-BR": "Emirados árabes Unidos",
+      "pt": "Emirados árabes Unidos",
+      "nl": "Verenigde Arabische Emiraten",
+      "hr": "Ujedinjeni Arapski Emirati",
+      "fa": "امارات متحده عربی",
+      "de": "Vereinigte Arabische Emirate",
+      "es": "Emiratos Árabes Unidos",
+      "fr": "Émirats arabes unis",
+      "ja": "アラブ首長国連邦",
+      "it": "Emirati Arabi Uniti",
+      "cn": "阿拉伯联合酋长国",
+      "tr": "Birleşik Arap Emirlikleri"
+    },
+    "latitude": "24.00000000",
+    "longitude": "54.00000000",
+    "emoji": "🇦🇪",
+    "emojiU": "U+1F1E6 U+1F1EA"
+  }
+}

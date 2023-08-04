@@ -1,0 +1,53 @@
+{
+  "id": 775,
+  "name": "Khulna Division",
+  "state_code": "D",
+  "latitude": "22.80878160",
+  "longitude": "89.24671910",
+  "type": "division",
+  "cities": [],
+  "country": {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "numeric_code": "050",
+    "phone_code": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "native": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+    },
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  }
+}

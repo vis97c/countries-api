@@ -1,0 +1,197 @@
+{
+  "id": 169,
+  "name": "Palestinian Territory Occupied",
+  "iso3": "PSE",
+  "iso2": "PS",
+  "numeric_code": "275",
+  "phone_code": "970",
+  "capital": "East Jerusalem",
+  "currency": "ILS",
+  "currency_name": "Israeli new shekel",
+  "currency_symbol": "₪",
+  "tld": ".ps",
+  "native": "فلسطين",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Gaza",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    },
+    {
+      "zoneName": "Asia/Hebron",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "kr": "팔레스타인 영토",
+    "pt-BR": "Palestina",
+    "pt": "Palestina",
+    "nl": "Palestijnse gebieden",
+    "hr": "Palestina",
+    "fa": "فلسطین",
+    "de": "Palästina",
+    "es": "Palestina",
+    "fr": "Palestine",
+    "ja": "パレスチナ",
+    "it": "Palestina",
+    "cn": "巴勒斯坦",
+    "tr": "Filistin"
+  },
+  "latitude": "31.90000000",
+  "longitude": "35.20000000",
+  "emoji": "🇵🇸",
+  "emojiU": "U+1F1F5 U+1F1F8",
+  "states": [
+    {
+      "id": 5118,
+      "name": "Bethlehem",
+      "state_code": "BTH",
+      "latitude": "31.70539960",
+      "longitude": "35.19368770",
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5119,
+      "name": "Deir El Balah",
+      "state_code": "DEB",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5120,
+      "name": "Gaza",
+      "state_code": "GZA",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5121,
+      "name": "Hebron",
+      "state_code": "HBN",
+      "latitude": "31.53260010",
+      "longitude": "35.06394750",
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5122,
+      "name": "Jenin",
+      "state_code": "JEN",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5123,
+      "name": "Jericho and Al Aghwar",
+      "state_code": "JRH",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5124,
+      "name": "Jerusalem",
+      "state_code": "JEM",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5125,
+      "name": "Khan Yunis",
+      "state_code": "KYS",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5126,
+      "name": "Nablus",
+      "state_code": "NBS",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5127,
+      "name": "North Gaza",
+      "state_code": "NGZ",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5128,
+      "name": "Qalqilya",
+      "state_code": "QQA",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5129,
+      "name": "Rafah",
+      "state_code": "RFH",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5130,
+      "name": "Ramallah",
+      "state_code": "RBH",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5131,
+      "name": "Salfit",
+      "state_code": "SLT",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5132,
+      "name": "Tubas",
+      "state_code": "TBS",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    },
+    {
+      "id": 5133,
+      "name": "Tulkarm",
+      "state_code": "TKM",
+      "latitude": null,
+      "longitude": null,
+      "type": "governorate",
+      "cities": []
+    }
+  ]
+}

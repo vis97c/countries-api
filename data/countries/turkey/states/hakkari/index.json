@@ -1,0 +1,84 @@
+{
+  "id": 2190,
+  "name": "Hakkâri",
+  "state_code": "30",
+  "latitude": "37.44593190",
+  "longitude": "43.74498410",
+  "type": "province",
+  "cities": [
+    {
+      "id": 108846,
+      "name": "Çukurca",
+      "latitude": "37.24806000",
+      "longitude": "43.61361000"
+    },
+    {
+      "id": 153355,
+      "name": "Derecik",
+      "latitude": "37.07242300",
+      "longitude": "44.32434800"
+    },
+    {
+      "id": 107774,
+      "name": "Merkez",
+      "latitude": "37.57444000",
+      "longitude": "43.74083000"
+    },
+    {
+      "id": 108948,
+      "name": "Şemdinli",
+      "latitude": "37.30514000",
+      "longitude": "44.57420000"
+    },
+    {
+      "id": 108744,
+      "name": "Yüksekova",
+      "latitude": "37.54627000",
+      "longitude": "44.25827000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

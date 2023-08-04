@@ -1,0 +1,246 @@
+{
+  "id": 1653,
+  "name": "Schwyz",
+  "state_code": "SZ",
+  "latitude": "47.02071380",
+  "longitude": "8.65298840",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17389,
+      "name": "Altendorf",
+      "latitude": "47.18994000",
+      "longitude": "8.83823000"
+    },
+    {
+      "id": 17410,
+      "name": "Arth",
+      "latitude": "47.06337000",
+      "longitude": "8.52349000"
+    },
+    {
+      "id": 17590,
+      "name": "Bäch",
+      "latitude": "47.20388000",
+      "longitude": "8.73224000"
+    },
+    {
+      "id": 17483,
+      "name": "Bezirk Einsiedeln",
+      "latitude": "47.10792000",
+      "longitude": "8.76010000"
+    },
+    {
+      "id": 17484,
+      "name": "Bezirk Gersau",
+      "latitude": "47.00800000",
+      "longitude": "8.51678000"
+    },
+    {
+      "id": 17490,
+      "name": "Bezirk Höfe",
+      "latitude": "47.19043000",
+      "longitude": "8.73960000"
+    },
+    {
+      "id": 17492,
+      "name": "Bezirk Küssnacht",
+      "latitude": "47.08611000",
+      "longitude": "8.44444000"
+    },
+    {
+      "id": 17498,
+      "name": "Bezirk March",
+      "latitude": "47.16128000",
+      "longitude": "8.91103000"
+    },
+    {
+      "id": 17509,
+      "name": "Bezirk Schwyz",
+      "latitude": "47.02814000",
+      "longitude": "8.63619000"
+    },
+    {
+      "id": 17738,
+      "name": "Einsiedeln",
+      "latitude": "47.12849000",
+      "longitude": "8.74735000"
+    },
+    {
+      "id": 17787,
+      "name": "Feusisberg",
+      "latitude": "47.18707000",
+      "longitude": "8.74724000"
+    },
+    {
+      "id": 17806,
+      "name": "Freienbach",
+      "latitude": "47.20534000",
+      "longitude": "8.75842000"
+    },
+    {
+      "id": 17830,
+      "name": "Gersau",
+      "latitude": "46.99419000",
+      "longitude": "8.52500000"
+    },
+    {
+      "id": 17848,
+      "name": "Goldau",
+      "latitude": "47.04761000",
+      "longitude": "8.54616000"
+    },
+    {
+      "id": 17946,
+      "name": "Ibach",
+      "latitude": "47.01105000",
+      "longitude": "8.64538000"
+    },
+    {
+      "id": 17951,
+      "name": "Ingenbohl",
+      "latitude": "46.99880000",
+      "longitude": "8.61529000"
+    },
+    {
+      "id": 18019,
+      "name": "Küssnacht",
+      "latitude": "47.08557000",
+      "longitude": "8.44206000"
+    },
+    {
+      "id": 18030,
+      "name": "Lachen",
+      "latitude": "47.19224000",
+      "longitude": "8.85324000"
+    },
+    {
+      "id": 18179,
+      "name": "Muotathal",
+      "latitude": "46.97676000",
+      "longitude": "8.76499000"
+    },
+    {
+      "id": 18310,
+      "name": "Pfäffikon",
+      "latitude": "47.20109000",
+      "longitude": "8.77816000"
+    },
+    {
+      "id": 18360,
+      "name": "Reichenburg",
+      "latitude": "47.17097000",
+      "longitude": "8.97704000"
+    },
+    {
+      "id": 18393,
+      "name": "Rothenthurm",
+      "latitude": "47.10420000",
+      "longitude": "8.67585000"
+    },
+    {
+      "id": 18449,
+      "name": "Sattel",
+      "latitude": "47.08246000",
+      "longitude": "8.63565000"
+    },
+    {
+      "id": 18461,
+      "name": "Schindellegi",
+      "latitude": "47.17460000",
+      "longitude": "8.71345000"
+    },
+    {
+      "id": 18487,
+      "name": "Schübelbach",
+      "latitude": "47.17326000",
+      "longitude": "8.92811000"
+    },
+    {
+      "id": 18481,
+      "name": "Schwyz",
+      "latitude": "47.02076000",
+      "longitude": "8.65414000"
+    },
+    {
+      "id": 18516,
+      "name": "Siebnen",
+      "latitude": "47.17449000",
+      "longitude": "8.89781000"
+    },
+    {
+      "id": 18553,
+      "name": "Steinen",
+      "latitude": "47.04975000",
+      "longitude": "8.61214000"
+    },
+    {
+      "id": 18612,
+      "name": "Tuggen",
+      "latitude": "47.20291000",
+      "longitude": "8.94896000"
+    },
+    {
+      "id": 18632,
+      "name": "Unteriberg",
+      "latitude": "47.06258000",
+      "longitude": "8.80520000"
+    },
+    {
+      "id": 18693,
+      "name": "Vorderthal",
+      "latitude": "47.12172000",
+      "longitude": "8.90225000"
+    },
+    {
+      "id": 18767,
+      "name": "Wollerau",
+      "latitude": "47.19478000",
+      "longitude": "8.71903000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

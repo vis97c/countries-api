@@ -1,0 +1,90 @@
+{
+  "id": 4954,
+  "name": "Chaiyaphum",
+  "state_code": "36",
+  "latitude": "16.00749740",
+  "longitude": "101.61291720",
+  "type": null,
+  "cities": [
+    {
+      "id": 148554,
+      "name": "Bamnet Narong",
+      "latitude": "15.50189000",
+      "longitude": "101.68982000"
+    },
+    {
+      "id": 148555,
+      "name": "Chaiyaphum",
+      "latitude": "15.81047000",
+      "longitude": "102.02881000"
+    },
+    {
+      "id": 148556,
+      "name": "Kaeng Khro",
+      "latitude": "16.10861111",
+      "longitude": "102.25805556"
+    },
+    {
+      "id": 148557,
+      "name": "Kaset Sombun",
+      "latitude": "16.28053000",
+      "longitude": "101.95422000"
+    },
+    {
+      "id": 148558,
+      "name": "Nakhon Nayok",
+      "latitude": "14.20305600",
+      "longitude": "101.21500000"
+    },
+    {
+      "id": 148559,
+      "name": "Phu Khiao",
+      "latitude": "16.37650000",
+      "longitude": "102.12853000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

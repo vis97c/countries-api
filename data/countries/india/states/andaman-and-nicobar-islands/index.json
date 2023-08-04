@@ -1,0 +1,78 @@
+{
+  "id": 4023,
+  "name": "Andaman and Nicobar Islands",
+  "state_code": "AN",
+  "latitude": "11.74008670",
+  "longitude": "92.65864010",
+  "type": "Union territory",
+  "cities": [
+    {
+      "id": 57837,
+      "name": "Bamboo Flat",
+      "latitude": "11.70000000",
+      "longitude": "92.71667000"
+    },
+    {
+      "id": 133213,
+      "name": "Nicobar",
+      "latitude": "7.03002000",
+      "longitude": "93.79028000"
+    },
+    {
+      "id": 133482,
+      "name": "Port Blair",
+      "latitude": "11.66613000",
+      "longitude": "92.74635000"
+    },
+    {
+      "id": 134006,
+      "name": "South Andaman",
+      "latitude": "10.75776000",
+      "longitude": "92.52136000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

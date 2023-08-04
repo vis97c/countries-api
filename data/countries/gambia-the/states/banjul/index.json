@@ -1,0 +1,78 @@
+{
+  "id": 2666,
+  "name": "Banjul",
+  "state_code": "B",
+  "latitude": "13.45487610",
+  "longitude": "-16.57903230",
+  "type": null,
+  "cities": [
+    {
+      "id": 52219,
+      "name": "Bakau",
+      "latitude": "13.47806000",
+      "longitude": "-16.68194000"
+    },
+    {
+      "id": 52221,
+      "name": "Banjul",
+      "latitude": "13.45274000",
+      "longitude": "-16.57803000"
+    },
+    {
+      "id": 52277,
+      "name": "Kombo Saint Mary District",
+      "latitude": "13.44389000",
+      "longitude": "-16.64583000"
+    },
+    {
+      "id": 52304,
+      "name": "Serekunda",
+      "latitude": "13.43833000",
+      "longitude": "-16.67806000"
+    }
+  ],
+  "country": {
+    "id": 80,
+    "name": "Gambia The",
+    "iso3": "GMB",
+    "iso2": "GM",
+    "numeric_code": "270",
+    "phone_code": "220",
+    "capital": "Banjul",
+    "currency": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "tld": ".gm",
+    "native": "Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "감비아",
+      "pt-BR": "Gâmbia",
+      "pt": "Gâmbia",
+      "nl": "Gambia",
+      "hr": "Gambija",
+      "fa": "گامبیا",
+      "de": "Gambia",
+      "es": "Gambia",
+      "fr": "Gambie",
+      "ja": "ガンビア",
+      "it": "Gambia",
+      "cn": "冈比亚",
+      "tr": "Gambiya"
+    },
+    "latitude": "13.46666666",
+    "longitude": "-16.56666666",
+    "emoji": "🇬🇲",
+    "emojiU": "U+1F1EC U+1F1F2"
+  }
+}

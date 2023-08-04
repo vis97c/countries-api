@@ -1,0 +1,84 @@
+{
+  "id": 1122,
+  "name": "Aïn Témouchent",
+  "state_code": "46",
+  "latitude": "35.29926980",
+  "longitude": "-1.13927920",
+  "type": null,
+  "cities": [
+    {
+      "id": 31250,
+      "name": "Aïn Temouchent",
+      "latitude": "35.29749000",
+      "longitude": "-1.14037000"
+    },
+    {
+      "id": 31265,
+      "name": "Beni Saf",
+      "latitude": "35.30099000",
+      "longitude": "-1.38226000"
+    },
+    {
+      "id": 31329,
+      "name": "El Amria",
+      "latitude": "35.52439000",
+      "longitude": "-1.01577000"
+    },
+    {
+      "id": 31340,
+      "name": "El Malah",
+      "latitude": "35.39137000",
+      "longitude": "-1.09238000"
+    },
+    {
+      "id": 31351,
+      "name": "Hammam Bou Hadjar",
+      "latitude": "35.37889000",
+      "longitude": "-0.96778000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3338,
+  "name": "Hodh Ech Chargui",
+  "state_code": "01",
+  "latitude": "18.67370260",
+  "longitude": "-7.09287700",
+  "type": "region",
+  "cities": [
+    {
+      "id": 150066,
+      "name": "Diade",
+      "latitude": "16.23333333",
+      "longitude": "-7.41666667"
+    },
+    {
+      "id": 150067,
+      "name": "Kataouane",
+      "latitude": "16.06888889",
+      "longitude": "-6.49888889"
+    },
+    {
+      "id": 67752,
+      "name": "Néma",
+      "latitude": "16.61702000",
+      "longitude": "-7.25649000"
+    },
+    {
+      "id": 150068,
+      "name": "Timbedra",
+      "latitude": "16.24472222",
+      "longitude": "-8.16750000"
+    }
+  ],
+  "country": {
+    "id": 139,
+    "name": "Mauritania",
+    "iso3": "MRT",
+    "iso2": "MR",
+    "numeric_code": "478",
+    "phone_code": "222",
+    "capital": "Nouakchott",
+    "currency": "MRO",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "MRU",
+    "tld": ".mr",
+    "native": "موريتانيا",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "모리타니",
+      "pt-BR": "Mauritânia",
+      "pt": "Mauritânia",
+      "nl": "Mauritanië",
+      "hr": "Mauritanija",
+      "fa": "موریتانی",
+      "de": "Mauretanien",
+      "es": "Mauritania",
+      "fr": "Mauritanie",
+      "ja": "モーリタニア",
+      "it": "Mauritania",
+      "cn": "毛里塔尼亚",
+      "tr": "Moritanya"
+    },
+    "latitude": "20.00000000",
+    "longitude": "-12.00000000",
+    "emoji": "🇲🇷",
+    "emojiU": "U+1F1F2 U+1F1F7"
+  }
+}

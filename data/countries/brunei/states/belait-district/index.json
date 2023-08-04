@@ -1,0 +1,66 @@
+{
+  "id": 1217,
+  "name": "Belait District",
+  "state_code": "BE",
+  "latitude": "4.37507490",
+  "longitude": "114.61928990",
+  "type": null,
+  "cities": [
+    {
+      "id": 9820,
+      "name": "Kuala Belait",
+      "latitude": "4.58361000",
+      "longitude": "114.23120000"
+    },
+    {
+      "id": 9823,
+      "name": "Seria",
+      "latitude": "4.60637000",
+      "longitude": "114.32476000"
+    }
+  ],
+  "country": {
+    "id": 33,
+    "name": "Brunei",
+    "iso3": "BRN",
+    "iso2": "BN",
+    "numeric_code": "096",
+    "phone_code": "673",
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND",
+    "currency_name": "Brunei dollar",
+    "currency_symbol": "B$",
+    "tld": ".bn",
+    "native": "Negara Brunei Darussalam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Brunei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "BNT",
+        "tzName": "Brunei Darussalam Time"
+      }
+    ],
+    "translations": {
+      "kr": "브루나이",
+      "pt-BR": "Brunei",
+      "pt": "Brunei",
+      "nl": "Brunei",
+      "hr": "Brunej",
+      "fa": "برونئی",
+      "de": "Brunei",
+      "es": "Brunei",
+      "fr": "Brunei",
+      "ja": "ブルネイ・ダルサラーム",
+      "it": "Brunei",
+      "cn": "文莱",
+      "tr": "Brunei"
+    },
+    "latitude": "4.50000000",
+    "longitude": "114.66666666",
+    "emoji": "🇧🇳",
+    "emojiU": "U+1F1E7 U+1F1F3"
+  }
+}

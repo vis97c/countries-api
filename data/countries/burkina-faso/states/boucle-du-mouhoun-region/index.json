@@ -1,0 +1,132 @@
+{
+  "id": 3138,
+  "name": "Boucle du Mouhoun Region",
+  "state_code": "01",
+  "latitude": "12.41660000",
+  "longitude": "-3.41955270",
+  "type": null,
+  "cities": [
+    {
+      "id": 9159,
+      "name": "Barani",
+      "latitude": "13.16910000",
+      "longitude": "-3.88990000"
+    },
+    {
+      "id": 9164,
+      "name": "Boromo",
+      "latitude": "11.74542000",
+      "longitude": "-2.93006000"
+    },
+    {
+      "id": 9172,
+      "name": "Dédougou",
+      "latitude": "12.46338000",
+      "longitude": "-3.46075000"
+    },
+    {
+      "id": 9192,
+      "name": "Nouna",
+      "latitude": "12.72939000",
+      "longitude": "-3.86305000"
+    },
+    {
+      "id": 9203,
+      "name": "Province de la Kossi",
+      "latitude": "12.91667000",
+      "longitude": "-3.83333000"
+    },
+    {
+      "id": 9208,
+      "name": "Province des Balé",
+      "latitude": "11.71667000",
+      "longitude": "-3.05000000"
+    },
+    {
+      "id": 9209,
+      "name": "Province des Banwa",
+      "latitude": "12.16667000",
+      "longitude": "-4.16667000"
+    },
+    {
+      "id": 9221,
+      "name": "Province du Mouhoun",
+      "latitude": "12.25000000",
+      "longitude": "-3.41667000"
+    },
+    {
+      "id": 9223,
+      "name": "Province du Nayala",
+      "latitude": "12.66667000",
+      "longitude": "-3.00000000"
+    },
+    {
+      "id": 9230,
+      "name": "Province du Sourou",
+      "latitude": "13.25000000",
+      "longitude": "-3.00000000"
+    },
+    {
+      "id": 9239,
+      "name": "Salanso",
+      "latitude": "12.17423000",
+      "longitude": "-4.08477000"
+    },
+    {
+      "id": 9244,
+      "name": "Toma",
+      "latitude": "12.75844000",
+      "longitude": "-2.89879000"
+    },
+    {
+      "id": 9245,
+      "name": "Tougan",
+      "latitude": "13.07250000",
+      "longitude": "-3.06940000"
+    }
+  ],
+  "country": {
+    "id": 35,
+    "name": "Burkina Faso",
+    "iso3": "BFA",
+    "iso2": "BF",
+    "numeric_code": "854",
+    "phone_code": "226",
+    "capital": "Ouagadougou",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "native": "Burkina Faso",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "부르키나 파소",
+      "pt-BR": "Burkina Faso",
+      "pt": "Burquina Faso",
+      "nl": "Burkina Faso",
+      "hr": "Burkina Faso",
+      "fa": "بورکینافاسو",
+      "de": "Burkina Faso",
+      "es": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "ja": "ブルキナファソ",
+      "it": "Burkina Faso",
+      "cn": "布基纳法索",
+      "tr": "Burkina Faso"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 3165,
+  "name": "Hauts-Bassins Region",
+  "state_code": "09",
+  "latitude": "11.49420030",
+  "longitude": "-4.23333550",
+  "type": null,
+  "cities": [
+    {
+      "id": 9162,
+      "name": "Bobo-Dioulasso",
+      "latitude": "11.17715000",
+      "longitude": "-4.29790000"
+    },
+    {
+      "id": 9180,
+      "name": "Houndé",
+      "latitude": "11.50000000",
+      "longitude": "-3.51667000"
+    },
+    {
+      "id": 9215,
+      "name": "Province du Houet",
+      "latitude": "11.33333000",
+      "longitude": "-4.25000000"
+    },
+    {
+      "id": 9219,
+      "name": "Province du Kénédougou",
+      "latitude": "11.41667000",
+      "longitude": "-5.00000000"
+    },
+    {
+      "id": 9232,
+      "name": "Province du Tuy",
+      "latitude": "11.41667000",
+      "longitude": "-3.41667000"
+    }
+  ],
+  "country": {
+    "id": 35,
+    "name": "Burkina Faso",
+    "iso3": "BFA",
+    "iso2": "BF",
+    "numeric_code": "854",
+    "phone_code": "226",
+    "capital": "Ouagadougou",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bf",
+    "native": "Burkina Faso",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "부르키나 파소",
+      "pt-BR": "Burkina Faso",
+      "pt": "Burquina Faso",
+      "nl": "Burkina Faso",
+      "hr": "Burkina Faso",
+      "fa": "بورکینافاسو",
+      "de": "Burkina Faso",
+      "es": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "ja": "ブルキナファソ",
+      "it": "Burkina Faso",
+      "cn": "布基纳法索",
+      "tr": "Burkina Faso"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇧🇫",
+    "emojiU": "U+1F1E7 U+1F1EB"
+  }
+}

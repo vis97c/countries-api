@@ -1,0 +1,120 @@
+{
+  "id": 2676,
+  "name": "Boké Region",
+  "state_code": "B",
+  "latitude": "11.18646720",
+  "longitude": "-14.10013260",
+  "type": null,
+  "cities": [
+    {
+      "id": 52323,
+      "name": "Boffa",
+      "latitude": "10.33333000",
+      "longitude": "-14.16667000"
+    },
+    {
+      "id": 52325,
+      "name": "Boké",
+      "latitude": "10.93217000",
+      "longitude": "-14.29055000"
+    },
+    {
+      "id": 52324,
+      "name": "Boke Prefecture",
+      "latitude": "11.08333000",
+      "longitude": "-14.41667000"
+    },
+    {
+      "id": 52332,
+      "name": "Fria",
+      "latitude": "10.41667000",
+      "longitude": "-13.58333000"
+    },
+    {
+      "id": 52333,
+      "name": "Gaoual",
+      "latitude": "11.75000000",
+      "longitude": "-13.20000000"
+    },
+    {
+      "id": 52334,
+      "name": "Gaoual Prefecture",
+      "latitude": "11.75000000",
+      "longitude": "-13.20000000"
+    },
+    {
+      "id": 52339,
+      "name": "Kimbo",
+      "latitude": "10.40000000",
+      "longitude": "-13.55000000"
+    },
+    {
+      "id": 52342,
+      "name": "Koundara",
+      "latitude": "12.48333000",
+      "longitude": "-13.30000000"
+    },
+    {
+      "id": 52343,
+      "name": "Koundara Prefecture",
+      "latitude": "12.41667000",
+      "longitude": "-13.16667000"
+    },
+    {
+      "id": 52364,
+      "name": "Sanguéya",
+      "latitude": "10.70000000",
+      "longitude": "-14.36667000"
+    },
+    {
+      "id": 52374,
+      "name": "Youkounkoun",
+      "latitude": "12.53110000",
+      "longitude": "-13.12240000"
+    }
+  ],
+  "country": {
+    "id": 92,
+    "name": "Guinea",
+    "iso3": "GIN",
+    "iso2": "GN",
+    "numeric_code": "324",
+    "phone_code": "224",
+    "capital": "Conakry",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "native": "Guinée",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "기니",
+      "pt-BR": "Guiné",
+      "pt": "Guiné",
+      "nl": "Guinee",
+      "hr": "Gvineja",
+      "fa": "گینه",
+      "de": "Guinea",
+      "es": "Guinea",
+      "fr": "Guinée",
+      "ja": "ギニア",
+      "it": "Guinea",
+      "cn": "几内亚",
+      "tr": "Gine"
+    },
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  }
+}

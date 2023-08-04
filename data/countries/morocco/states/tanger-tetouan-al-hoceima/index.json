@@ -1,0 +1,222 @@
+{
+  "id": 3324,
+  "name": "Tanger-Tétouan-Al Hoceïma",
+  "state_code": "01",
+  "latitude": "35.26295580",
+  "longitude": "-5.56172790",
+  "type": "region",
+  "cities": [
+    {
+      "id": 67056,
+      "name": "Al Hoceïma",
+      "latitude": "35.25165000",
+      "longitude": "-3.93723000"
+    },
+    {
+      "id": 67058,
+      "name": "Al-Hoceima",
+      "latitude": "35.00000000",
+      "longitude": "-4.25000000"
+    },
+    {
+      "id": 67069,
+      "name": "Asilah",
+      "latitude": "35.46522000",
+      "longitude": "-6.03415000"
+    },
+    {
+      "id": 67085,
+      "name": "Bni Bouayach",
+      "latitude": "35.10506000",
+      "longitude": "-3.84028000"
+    },
+    {
+      "id": 67095,
+      "name": "Brikcha",
+      "latitude": "34.96732000",
+      "longitude": "-5.57295000"
+    },
+    {
+      "id": 67097,
+      "name": "Cap Negro II",
+      "latitude": "35.65970000",
+      "longitude": "-5.28525000"
+    },
+    {
+      "id": 67099,
+      "name": "Chefchaouen Province",
+      "latitude": "35.00000000",
+      "longitude": "-5.08333000"
+    },
+    {
+      "id": 67100,
+      "name": "Chefchaouene",
+      "latitude": "35.16878000",
+      "longitude": "-5.26360000"
+    },
+    {
+      "id": 67106,
+      "name": "Derdara",
+      "latitude": "35.11041000",
+      "longitude": "-5.29015000"
+    },
+    {
+      "id": 67117,
+      "name": "Fahs-Anjra",
+      "latitude": "35.74000000",
+      "longitude": "-5.68000000"
+    },
+    {
+      "id": 67120,
+      "name": "Fnidek",
+      "latitude": "35.84906000",
+      "longitude": "-5.35747000"
+    },
+    {
+      "id": 67135,
+      "name": "Imzouren",
+      "latitude": "35.14637000",
+      "longitude": "-3.85063000"
+    },
+    {
+      "id": 67153,
+      "name": "Ksar El Kebir",
+      "latitude": "35.00044000",
+      "longitude": "-5.90378000"
+    },
+    {
+      "id": 67155,
+      "name": "Larache",
+      "latitude": "35.16667000",
+      "longitude": "-5.83333000"
+    },
+    {
+      "id": 67156,
+      "name": "M'Diq-Fnideq",
+      "latitude": "35.85743000",
+      "longitude": "-5.35858000"
+    },
+    {
+      "id": 67160,
+      "name": "Martil",
+      "latitude": "35.61662000",
+      "longitude": "-5.27522000"
+    },
+    {
+      "id": 67180,
+      "name": "Oued Laou",
+      "latitude": "35.44840000",
+      "longitude": "-5.09627000"
+    },
+    {
+      "id": 67183,
+      "name": "Ouezzane",
+      "latitude": "34.79584000",
+      "longitude": "-5.57849000"
+    },
+    {
+      "id": 67184,
+      "name": "Ouezzane Province",
+      "latitude": "34.79759000",
+      "longitude": "-5.58603000"
+    },
+    {
+      "id": 67202,
+      "name": "Senada",
+      "latitude": "35.07452000",
+      "longitude": "-4.21583000"
+    },
+    {
+      "id": 67230,
+      "name": "Tamorot",
+      "latitude": "34.93632000",
+      "longitude": "-4.77940000"
+    },
+    {
+      "id": 67234,
+      "name": "Tanger-Assilah",
+      "latitude": "35.59000000",
+      "longitude": "-5.90000000"
+    },
+    {
+      "id": 67235,
+      "name": "Tangier",
+      "latitude": "35.76727000",
+      "longitude": "-5.79975000"
+    },
+    {
+      "id": 67240,
+      "name": "Targuist",
+      "latitude": "34.93769000",
+      "longitude": "-4.31856000"
+    },
+    {
+      "id": 67250,
+      "name": "Tetouan",
+      "latitude": "35.58333000",
+      "longitude": "-5.50000000"
+    },
+    {
+      "id": 67257,
+      "name": "Tirhanimîne",
+      "latitude": "35.23619000",
+      "longitude": "-3.95453000"
+    },
+    {
+      "id": 67269,
+      "name": "Zinat",
+      "latitude": "35.43000000",
+      "longitude": "-5.40000000"
+    },
+    {
+      "id": 67270,
+      "name": "Zoumi",
+      "latitude": "34.80321000",
+      "longitude": "-5.34458000"
+    }
+  ],
+  "country": {
+    "id": 149,
+    "name": "Morocco",
+    "iso3": "MAR",
+    "iso2": "MA",
+    "numeric_code": "504",
+    "phone_code": "212",
+    "capital": "Rabat",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "native": "المغرب",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "모로코",
+      "pt-BR": "Marrocos",
+      "pt": "Marrocos",
+      "nl": "Marokko",
+      "hr": "Maroko",
+      "fa": "مراکش",
+      "de": "Marokko",
+      "es": "Marruecos",
+      "fr": "Maroc",
+      "ja": "モロッコ",
+      "it": "Marocco",
+      "cn": "摩洛哥",
+      "tr": "Fas"
+    },
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  }
+}

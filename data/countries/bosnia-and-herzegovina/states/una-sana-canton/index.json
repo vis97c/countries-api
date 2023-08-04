@@ -1,0 +1,53 @@
+{
+  "id": 465,
+  "name": "Una-Sana Canton",
+  "state_code": "01",
+  "latitude": "44.65031160",
+  "longitude": "16.31716290",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 28,
+    "name": "Bosnia and Herzegovina",
+    "iso3": "BIH",
+    "iso2": "BA",
+    "numeric_code": "070",
+    "phone_code": "387",
+    "capital": "Sarajevo",
+    "currency": "BAM",
+    "currency_name": "Bosnia and Herzegovina convertible mark",
+    "currency_symbol": "KM",
+    "tld": ".ba",
+    "native": "Bosna i Hercegovina",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sarajevo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "보스니아 헤르체고비나",
+      "pt-BR": "Bósnia e Herzegovina",
+      "pt": "Bósnia e Herzegovina",
+      "nl": "Bosnië en Herzegovina",
+      "hr": "Bosna i Hercegovina",
+      "fa": "بوسنی و هرزگوین",
+      "de": "Bosnien und Herzegowina",
+      "es": "Bosnia y Herzegovina",
+      "fr": "Bosnie-Herzégovine",
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "it": "Bosnia ed Erzegovina",
+      "cn": "波斯尼亚和黑塞哥维那",
+      "tr": "Bosna Hersek"
+    },
+    "latitude": "44.00000000",
+    "longitude": "18.00000000",
+    "emoji": "🇧🇦",
+    "emojiU": "U+1F1E7 U+1F1E6"
+  }
+}

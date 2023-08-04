@@ -1,0 +1,114 @@
+{
+  "id": 1251,
+  "name": "Al Mahrah",
+  "state_code": "MR",
+  "latitude": "16.52384230",
+  "longitude": "51.68342750",
+  "type": null,
+  "cities": [
+    {
+      "id": 130687,
+      "name": "Al Ghaydah",
+      "latitude": "16.26180000",
+      "longitude": "52.08160000"
+    },
+    {
+      "id": 130689,
+      "name": "Al Ghayz̧ah",
+      "latitude": "16.20787000",
+      "longitude": "52.17605000"
+    },
+    {
+      "id": 130724,
+      "name": "Al Masilah",
+      "latitude": "15.63990000",
+      "longitude": "50.64450000"
+    },
+    {
+      "id": 130857,
+      "name": "Hat",
+      "latitude": "17.80310000",
+      "longitude": "51.67500000"
+    },
+    {
+      "id": 130859,
+      "name": "Hawf",
+      "latitude": "16.69530000",
+      "longitude": "52.81820000"
+    },
+    {
+      "id": 130870,
+      "name": "Huswain",
+      "latitude": "15.72300000",
+      "longitude": "51.91240000"
+    },
+    {
+      "id": 130908,
+      "name": "Man'ar",
+      "latitude": "16.55050000",
+      "longitude": "50.98790000"
+    },
+    {
+      "id": 130943,
+      "name": "Qishn",
+      "latitude": "15.69990000",
+      "longitude": "51.32400000"
+    },
+    {
+      "id": 130968,
+      "name": "Sayhut",
+      "latitude": "15.53450000",
+      "longitude": "51.28690000"
+    },
+    {
+      "id": 130974,
+      "name": "Shahan",
+      "latitude": "17.59230000",
+      "longitude": "52.59400000"
+    }
+  ],
+  "country": {
+    "id": 245,
+    "name": "Yemen",
+    "iso3": "YEM",
+    "iso2": "YE",
+    "numeric_code": "887",
+    "phone_code": "967",
+    "capital": "Sanaa",
+    "currency": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "tld": ".ye",
+    "native": "اليَمَن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Aden",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "예멘",
+      "pt-BR": "Iêmen",
+      "pt": "Iémen",
+      "nl": "Jemen",
+      "hr": "Jemen",
+      "fa": "یمن",
+      "de": "Jemen",
+      "es": "Yemen",
+      "fr": "Yémen",
+      "ja": "イエメン",
+      "it": "Yemen",
+      "cn": "也门",
+      "tr": "Yemen"
+    },
+    "latitude": "15.00000000",
+    "longitude": "48.00000000",
+    "emoji": "🇾🇪",
+    "emojiU": "U+1F1FE U+1F1EA"
+  }
+}

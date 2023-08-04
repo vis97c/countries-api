@@ -1,0 +1,84 @@
+{
+  "id": 3956,
+  "name": "Al-Qādisiyyah",
+  "state_code": "QA",
+  "latitude": "32.04369100",
+  "longitude": "45.14945050",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 134550,
+      "name": "‘Afak",
+      "latitude": "32.06430000",
+      "longitude": "45.24743000"
+    },
+    {
+      "id": 134476,
+      "name": "Ad Dīwānīyah",
+      "latitude": "31.99289000",
+      "longitude": "44.92552000"
+    },
+    {
+      "id": 134501,
+      "name": "Ash Shāmīyah",
+      "latitude": "31.96257000",
+      "longitude": "44.60075000"
+    },
+    {
+      "id": 134530,
+      "name": "Nāḩiyat ash Shināfīyah",
+      "latitude": "31.58376000",
+      "longitude": "44.64675000"
+    },
+    {
+      "id": 134526,
+      "name": "Nahiyat Ghammas",
+      "latitude": "31.74311000",
+      "longitude": "44.61960000"
+    }
+  ],
+  "country": {
+    "id": 104,
+    "name": "Iraq",
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "numeric_code": "368",
+    "phone_code": "964",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "د.ع",
+    "tld": ".iq",
+    "native": "العراق",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baghdad",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "이라크",
+      "pt-BR": "Iraque",
+      "pt": "Iraque",
+      "nl": "Irak",
+      "hr": "Irak",
+      "fa": "عراق",
+      "de": "Irak",
+      "es": "Irak",
+      "fr": "Irak",
+      "ja": "イラク",
+      "it": "Iraq",
+      "cn": "伊拉克",
+      "tr": "Irak"
+    },
+    "latitude": "33.00000000",
+    "longitude": "44.00000000",
+    "emoji": "🇮🇶",
+    "emojiU": "U+1F1EE U+1F1F6"
+  }
+}

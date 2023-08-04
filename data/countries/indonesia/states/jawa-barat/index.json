@@ -1,0 +1,609 @@
+{
+  "id": 1825,
+  "name": "Jawa Barat",
+  "state_code": "JB",
+  "latitude": "-7.09091100",
+  "longitude": "107.66888700",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56182,
+      "name": "Arjawinangun",
+      "latitude": "-6.64528000",
+      "longitude": "108.41028000"
+    },
+    {
+      "id": 56183,
+      "name": "Astanajapura",
+      "latitude": "-6.80170000",
+      "longitude": "108.63110000"
+    },
+    {
+      "id": 56196,
+      "name": "Bandung",
+      "latitude": "-6.92222000",
+      "longitude": "107.60694000"
+    },
+    {
+      "id": 56199,
+      "name": "Banjar",
+      "latitude": "-7.19550000",
+      "longitude": "107.43130000"
+    },
+    {
+      "id": 56202,
+      "name": "Banjaran",
+      "latitude": "-7.04528000",
+      "longitude": "107.58778000"
+    },
+    {
+      "id": 56215,
+      "name": "Bekasi",
+      "latitude": "-6.23490000",
+      "longitude": "106.98960000"
+    },
+    {
+      "id": 56226,
+      "name": "Bogor",
+      "latitude": "-6.59444000",
+      "longitude": "106.78917000"
+    },
+    {
+      "id": 56237,
+      "name": "Caringin",
+      "latitude": "-6.70611000",
+      "longitude": "106.82139000"
+    },
+    {
+      "id": 56240,
+      "name": "Ciamis",
+      "latitude": "-7.32570000",
+      "longitude": "108.35340000"
+    },
+    {
+      "id": 56241,
+      "name": "Ciampea",
+      "latitude": "-6.55472000",
+      "longitude": "106.70083000"
+    },
+    {
+      "id": 56242,
+      "name": "Cibinong",
+      "latitude": "-6.48167000",
+      "longitude": "106.85417000"
+    },
+    {
+      "id": 56243,
+      "name": "Cicurug",
+      "latitude": "-6.78139000",
+      "longitude": "106.78250000"
+    },
+    {
+      "id": 56244,
+      "name": "Cikampek",
+      "latitude": "-6.41972000",
+      "longitude": "107.45583000"
+    },
+    {
+      "id": 56245,
+      "name": "Cikarang",
+      "latitude": "-6.26111000",
+      "longitude": "107.15278000"
+    },
+    {
+      "id": 56246,
+      "name": "Cikupa",
+      "latitude": "-6.23639000",
+      "longitude": "106.50833000"
+    },
+    {
+      "id": 56247,
+      "name": "Cileungsir",
+      "latitude": "-6.39472000",
+      "longitude": "106.95917000"
+    },
+    {
+      "id": 56248,
+      "name": "Cileunyi",
+      "latitude": "-6.93889000",
+      "longitude": "107.75278000"
+    },
+    {
+      "id": 56249,
+      "name": "Cimahi",
+      "latitude": "-6.87222000",
+      "longitude": "107.54250000"
+    },
+    {
+      "id": 56250,
+      "name": "Ciputat",
+      "latitude": "-6.23750000",
+      "longitude": "106.69556000"
+    },
+    {
+      "id": 56251,
+      "name": "Ciranjang-hilir",
+      "latitude": "-6.82000000",
+      "longitude": "107.25722000"
+    },
+    {
+      "id": 56252,
+      "name": "Cirebon",
+      "latitude": "-6.70630000",
+      "longitude": "108.55700000"
+    },
+    {
+      "id": 56253,
+      "name": "Citeureup",
+      "latitude": "-6.48556000",
+      "longitude": "106.88194000"
+    },
+    {
+      "id": 56265,
+      "name": "Depok",
+      "latitude": "-6.40000000",
+      "longitude": "106.81861000"
+    },
+    {
+      "id": 56291,
+      "name": "Indramayu",
+      "latitude": "-6.32639000",
+      "longitude": "108.32000000"
+    },
+    {
+      "id": 56296,
+      "name": "Jatibarang",
+      "latitude": "-6.47472000",
+      "longitude": "108.31528000"
+    },
+    {
+      "id": 56298,
+      "name": "Jatiwangi",
+      "latitude": "-6.73361000",
+      "longitude": "108.26278000"
+    },
+    {
+      "id": 56324,
+      "name": "Kabupaten Bandung",
+      "latitude": "-7.10000000",
+      "longitude": "107.60000000"
+    },
+    {
+      "id": 56325,
+      "name": "Kabupaten Bandung Barat",
+      "latitude": "-6.83333000",
+      "longitude": "107.48333000"
+    },
+    {
+      "id": 56349,
+      "name": "Kabupaten Bekasi",
+      "latitude": "-6.24667000",
+      "longitude": "107.10833000"
+    },
+    {
+      "id": 56366,
+      "name": "Kabupaten Bogor",
+      "latitude": "-6.58333000",
+      "longitude": "106.71667000"
+    },
+    {
+      "id": 56390,
+      "name": "Kabupaten Ciamis",
+      "latitude": "-7.28333000",
+      "longitude": "108.41667000"
+    },
+    {
+      "id": 56391,
+      "name": "Kabupaten Cianjur",
+      "latitude": "-6.77250000",
+      "longitude": "107.08306000"
+    },
+    {
+      "id": 56393,
+      "name": "Kabupaten Cirebon",
+      "latitude": "-6.80000000",
+      "longitude": "108.56667000"
+    },
+    {
+      "id": 56407,
+      "name": "Kabupaten Garut",
+      "latitude": "-7.38333000",
+      "longitude": "107.76667000"
+    },
+    {
+      "id": 56426,
+      "name": "Kabupaten Indramayu",
+      "latitude": "-6.45000000",
+      "longitude": "108.16667000"
+    },
+    {
+      "id": 56440,
+      "name": "Kabupaten Karawang",
+      "latitude": "-6.26667000",
+      "longitude": "107.41667000"
+    },
+    {
+      "id": 56474,
+      "name": "Kabupaten Kuningan",
+      "latitude": "-7.00000000",
+      "longitude": "108.55000000"
+    },
+    {
+      "id": 56508,
+      "name": "Kabupaten Majalengka",
+      "latitude": "-6.81667000",
+      "longitude": "108.28333000"
+    },
+    {
+      "id": 56575,
+      "name": "Kabupaten Pangandaran",
+      "latitude": "-7.66730000",
+      "longitude": "108.64037000"
+    },
+    {
+      "id": 56606,
+      "name": "Kabupaten Purwakarta",
+      "latitude": "-6.58333000",
+      "longitude": "107.45000000"
+    },
+    {
+      "id": 56644,
+      "name": "Kabupaten Subang",
+      "latitude": "-6.50833000",
+      "longitude": "107.70250000"
+    },
+    {
+      "id": 56645,
+      "name": "Kabupaten Sukabumi",
+      "latitude": "-7.06667000",
+      "longitude": "106.70000000"
+    },
+    {
+      "id": 56654,
+      "name": "Kabupaten Sumedang",
+      "latitude": "-6.81667000",
+      "longitude": "107.98333000"
+    },
+    {
+      "id": 56674,
+      "name": "Kabupaten Tasikmalaya",
+      "latitude": "-7.50000000",
+      "longitude": "108.13333000"
+    },
+    {
+      "id": 56698,
+      "name": "Karangampel",
+      "latitude": "-6.46222000",
+      "longitude": "108.45194000"
+    },
+    {
+      "id": 56700,
+      "name": "Karangsembung",
+      "latitude": "-6.84870000",
+      "longitude": "108.64220000"
+    },
+    {
+      "id": 56704,
+      "name": "Kawalu",
+      "latitude": "-7.38170000",
+      "longitude": "108.20820000"
+    },
+    {
+      "id": 56718,
+      "name": "Klangenan",
+      "latitude": "-6.70944000",
+      "longitude": "108.44000000"
+    },
+    {
+      "id": 56731,
+      "name": "Kota Bandung",
+      "latitude": "-6.91750000",
+      "longitude": "107.62444000"
+    },
+    {
+      "id": 56732,
+      "name": "Kota Banjar",
+      "latitude": "-7.36996000",
+      "longitude": "108.53209000"
+    },
+    {
+      "id": 56738,
+      "name": "Kota Bekasi",
+      "latitude": "-6.28333000",
+      "longitude": "106.98333000"
+    },
+    {
+      "id": 56744,
+      "name": "Kota Bogor",
+      "latitude": "-6.59167000",
+      "longitude": "106.80000000"
+    },
+    {
+      "id": 56748,
+      "name": "Kota Cimahi",
+      "latitude": "-6.89167000",
+      "longitude": "107.55000000"
+    },
+    {
+      "id": 56749,
+      "name": "Kota Cirebon",
+      "latitude": "-6.75000000",
+      "longitude": "108.55000000"
+    },
+    {
+      "id": 56751,
+      "name": "Kota Depok",
+      "latitude": "-6.40000000",
+      "longitude": "106.81667000"
+    },
+    {
+      "id": 56801,
+      "name": "Kota Sukabumi",
+      "latitude": "-6.95000000",
+      "longitude": "106.93333000"
+    },
+    {
+      "id": 56809,
+      "name": "Kota Tasikmalaya",
+      "latitude": "-7.35000000",
+      "longitude": "108.21667000"
+    },
+    {
+      "id": 56819,
+      "name": "Kresek",
+      "latitude": "-6.13139000",
+      "longitude": "106.37972000"
+    },
+    {
+      "id": 56825,
+      "name": "Kuningan",
+      "latitude": "-6.97583000",
+      "longitude": "108.48306000"
+    },
+    {
+      "id": 56842,
+      "name": "Lembang",
+      "latitude": "-6.81167000",
+      "longitude": "107.61750000"
+    },
+    {
+      "id": 56852,
+      "name": "Majalengka",
+      "latitude": "-6.83611000",
+      "longitude": "108.22778000"
+    },
+    {
+      "id": 56861,
+      "name": "Margahayukencana",
+      "latitude": "-6.97083000",
+      "longitude": "107.56750000"
+    },
+    {
+      "id": 56886,
+      "name": "Ngawi",
+      "latitude": "-7.40380000",
+      "longitude": "111.44610000"
+    },
+    {
+      "id": 56892,
+      "name": "Padalarang",
+      "latitude": "-6.83778000",
+      "longitude": "107.47278000"
+    },
+    {
+      "id": 56899,
+      "name": "Palimanan",
+      "latitude": "-6.70694000",
+      "longitude": "108.42417000"
+    },
+    {
+      "id": 56902,
+      "name": "Pamanukan",
+      "latitude": "-6.28417000",
+      "longitude": "107.81056000"
+    },
+    {
+      "id": 56904,
+      "name": "Pameungpeuk",
+      "latitude": "-7.01833000",
+      "longitude": "107.60389000"
+    },
+    {
+      "id": 56905,
+      "name": "Pamulang",
+      "latitude": "-6.34278000",
+      "longitude": "106.73833000"
+    },
+    {
+      "id": 56918,
+      "name": "Parung",
+      "latitude": "-6.42139000",
+      "longitude": "106.73306000"
+    },
+    {
+      "id": 56919,
+      "name": "Pasarkemis",
+      "latitude": "-6.17028000",
+      "longitude": "106.53028000"
+    },
+    {
+      "id": 56920,
+      "name": "Paseh",
+      "latitude": "-7.10260000",
+      "longitude": "107.76410000"
+    },
+    {
+      "id": 56928,
+      "name": "Pelabuhanratu",
+      "latitude": "-6.98750000",
+      "longitude": "106.55139000"
+    },
+    {
+      "id": 56934,
+      "name": "Plumbon",
+      "latitude": "-6.70500000",
+      "longitude": "108.47278000"
+    },
+    {
+      "id": 56945,
+      "name": "Purwakarta",
+      "latitude": "-6.55694000",
+      "longitude": "107.44333000"
+    },
+    {
+      "id": 56948,
+      "name": "Rajapolah",
+      "latitude": "-7.22100000",
+      "longitude": "108.18960000"
+    },
+    {
+      "id": 56954,
+      "name": "Rengasdengklok",
+      "latitude": "-6.15917000",
+      "longitude": "107.29806000"
+    },
+    {
+      "id": 56962,
+      "name": "Sawangan",
+      "latitude": "-6.40278000",
+      "longitude": "106.77444000"
+    },
+    {
+      "id": 56968,
+      "name": "Sepatan",
+      "latitude": "-6.11889000",
+      "longitude": "106.57500000"
+    },
+    {
+      "id": 56971,
+      "name": "Serpong",
+      "latitude": "-6.31694000",
+      "longitude": "106.66417000"
+    },
+    {
+      "id": 56980,
+      "name": "Singaparna",
+      "latitude": "-7.35150000",
+      "longitude": "108.11100000"
+    },
+    {
+      "id": 56994,
+      "name": "Soreang",
+      "latitude": "-7.03306000",
+      "longitude": "107.51833000"
+    },
+    {
+      "id": 57001,
+      "name": "Sukabumi",
+      "latitude": "-6.91806000",
+      "longitude": "106.92667000"
+    },
+    {
+      "id": 57003,
+      "name": "Sumber",
+      "latitude": "-6.76028000",
+      "longitude": "108.48306000"
+    },
+    {
+      "id": 57005,
+      "name": "Sumedang",
+      "latitude": "-6.85861000",
+      "longitude": "107.91639000"
+    },
+    {
+      "id": 57006,
+      "name": "Sumedang Utara",
+      "latitude": "-6.85000000",
+      "longitude": "107.91667000"
+    },
+    {
+      "id": 57025,
+      "name": "Tasikmalaya",
+      "latitude": "-7.32740000",
+      "longitude": "108.22070000"
+    },
+    {
+      "id": 57030,
+      "name": "Teluknaga",
+      "latitude": "-6.09889000",
+      "longitude": "106.63806000"
+    },
+    {
+      "id": 57050,
+      "name": "Wanaraja",
+      "latitude": "-7.17490000",
+      "longitude": "107.98080000"
+    },
+    {
+      "id": 57056,
+      "name": "Weru",
+      "latitude": "-6.71100000",
+      "longitude": "108.50370000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

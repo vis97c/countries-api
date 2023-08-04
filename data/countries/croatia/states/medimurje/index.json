@@ -1,0 +1,210 @@
+{
+  "id": 726,
+  "name": "Međimurje",
+  "state_code": "20",
+  "latitude": "46.37666440",
+  "longitude": "16.42132980",
+  "type": "county",
+  "cities": [
+    {
+      "id": 54392,
+      "name": "Belica",
+      "latitude": "46.40417000",
+      "longitude": "16.51833000"
+    },
+    {
+      "id": 55015,
+      "name": "Čakovec",
+      "latitude": "46.38444000",
+      "longitude": "16.43389000"
+    },
+    {
+      "id": 54451,
+      "name": "Dekanovec",
+      "latitude": "46.44861000",
+      "longitude": "16.58472000"
+    },
+    {
+      "id": 54455,
+      "name": "Domašinec",
+      "latitude": "46.43250000",
+      "longitude": "16.60000000"
+    },
+    {
+      "id": 54493,
+      "name": "Goričan",
+      "latitude": "46.38417000",
+      "longitude": "16.68083000"
+    },
+    {
+      "id": 54570,
+      "name": "Grad Čakovec",
+      "latitude": "46.38583000",
+      "longitude": "16.43333000"
+    },
+    {
+      "id": 54595,
+      "name": "Hodošan",
+      "latitude": "46.39528000",
+      "longitude": "16.64389000"
+    },
+    {
+      "id": 54606,
+      "name": "Ivanovec",
+      "latitude": "46.36833000",
+      "longitude": "16.47667000"
+    },
+    {
+      "id": 54663,
+      "name": "Kotoriba",
+      "latitude": "46.35500000",
+      "longitude": "16.81806000"
+    },
+    {
+      "id": 54675,
+      "name": "Kuršanec",
+      "latitude": "46.33028000",
+      "longitude": "16.40167000"
+    },
+    {
+      "id": 54697,
+      "name": "Lopatinec",
+      "latitude": "46.43333000",
+      "longitude": "16.38333000"
+    },
+    {
+      "id": 54726,
+      "name": "Mačkovec",
+      "latitude": "46.42417000",
+      "longitude": "16.43361000"
+    },
+    {
+      "id": 54711,
+      "name": "Mala Subotica",
+      "latitude": "46.37616000",
+      "longitude": "16.52893000"
+    },
+    {
+      "id": 54730,
+      "name": "Mihovljan",
+      "latitude": "46.40861000",
+      "longitude": "16.44806000"
+    },
+    {
+      "id": 54744,
+      "name": "Mursko Središće",
+      "latitude": "46.50944000",
+      "longitude": "16.44111000"
+    },
+    {
+      "id": 54749,
+      "name": "Nedelišće",
+      "latitude": "46.37583000",
+      "longitude": "16.38750000"
+    },
+    {
+      "id": 54764,
+      "name": "Novo Selo Rok",
+      "latitude": "46.42839000",
+      "longitude": "16.46215000"
+    },
+    {
+      "id": 54788,
+      "name": "Orehovica",
+      "latitude": "46.33167000",
+      "longitude": "16.50694000"
+    },
+    {
+      "id": 54801,
+      "name": "Peklenica",
+      "latitude": "46.49528000",
+      "longitude": "16.47611000"
+    },
+    {
+      "id": 54818,
+      "name": "Podturen",
+      "latitude": "46.46472000",
+      "longitude": "16.54306000"
+    },
+    {
+      "id": 54834,
+      "name": "Prelog",
+      "latitude": "46.33500000",
+      "longitude": "16.61556000"
+    },
+    {
+      "id": 54836,
+      "name": "Pribislavec",
+      "latitude": "46.39250000",
+      "longitude": "16.48250000"
+    },
+    {
+      "id": 55029,
+      "name": "Šenkovec",
+      "latitude": "46.40889000",
+      "longitude": "16.42167000"
+    },
+    {
+      "id": 54915,
+      "name": "Strahoninec",
+      "latitude": "46.36889000",
+      "longitude": "16.41500000"
+    },
+    {
+      "id": 54929,
+      "name": "Sveti Juraj na Bregu",
+      "latitude": "46.42853000",
+      "longitude": "16.38525000"
+    },
+    {
+      "id": 54988,
+      "name": "Vratišinec",
+      "latitude": "46.47806000",
+      "longitude": "16.45778000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

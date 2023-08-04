@@ -1,0 +1,84 @@
+{
+  "id": 3774,
+  "name": "Vĩnh Phúc",
+  "state_code": "70",
+  "latitude": "21.36088050",
+  "longitude": "105.54743730",
+  "type": null,
+  "cities": [
+    {
+      "id": 130225,
+      "name": "Huyện Bình Xuyên",
+      "latitude": "21.30561000",
+      "longitude": "105.66225000"
+    },
+    {
+      "id": 130429,
+      "name": "Huyện Tam Dương",
+      "latitude": "21.36189000",
+      "longitude": "105.55690000"
+    },
+    {
+      "id": 130432,
+      "name": "Huyện Tam Đảo",
+      "latitude": "21.45690000",
+      "longitude": "105.59460000"
+    },
+    {
+      "id": 130514,
+      "name": "Huyện Yên Lạc",
+      "latitude": "21.21845000",
+      "longitude": "105.57586000"
+    },
+    {
+      "id": 130625,
+      "name": "Vĩnh Yên",
+      "latitude": "21.30891000",
+      "longitude": "105.60489000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

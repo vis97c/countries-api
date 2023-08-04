@@ -1,0 +1,85 @@
+{
+  "id": 2546,
+  "name": "Surxondaryo Region",
+  "state_code": "SU",
+  "latitude": "37.94090050",
+  "longitude": "67.57085360",
+  "type": null,
+  "cities": [
+    {
+      "id": 129906,
+      "name": "Boysun",
+      "latitude": "38.20835000",
+      "longitude": "67.20664000"
+    },
+    {
+      "id": 129921,
+      "name": "Denov",
+      "latitude": "38.26746000",
+      "longitude": "67.89886000"
+    },
+    {
+      "id": 130002,
+      "name": "Sho‘rchi",
+      "latitude": "37.99944000",
+      "longitude": "67.78750000"
+    },
+    {
+      "id": 130006,
+      "name": "Tirmiz",
+      "latitude": "37.22417000",
+      "longitude": "67.27833000"
+    }
+  ],
+  "country": {
+    "id": 236,
+    "name": "Uzbekistan",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "numeric_code": "860",
+    "phone_code": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "native": "O‘zbekiston",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Samarkand",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      },
+      {
+        "zoneName": "Asia/Tashkent",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "우즈베키스탄",
+      "pt-BR": "Uzbequistão",
+      "pt": "Usbequistão",
+      "nl": "Oezbekistan",
+      "hr": "Uzbekistan",
+      "fa": "ازبکستان",
+      "de": "Usbekistan",
+      "es": "Uzbekistán",
+      "fr": "Ouzbékistan",
+      "ja": "ウズベキスタン",
+      "it": "Uzbekistan",
+      "cn": "乌兹别克斯坦",
+      "tr": "Özbekistan"
+    },
+    "latitude": "41.00000000",
+    "longitude": "64.00000000",
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF"
+  }
+}

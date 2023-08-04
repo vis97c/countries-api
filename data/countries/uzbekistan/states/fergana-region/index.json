@@ -1,0 +1,151 @@
+{
+  "id": 2538,
+  "name": "Fergana Region",
+  "state_code": "FA",
+  "latitude": "40.45680810",
+  "longitude": "71.28742090",
+  "type": null,
+  "cities": [
+    {
+      "id": 129903,
+      "name": "Beshariq",
+      "latitude": "40.43583000",
+      "longitude": "70.61028000"
+    },
+    {
+      "id": 129923,
+      "name": "Fergana",
+      "latitude": "40.38421000",
+      "longitude": "71.78432000"
+    },
+    {
+      "id": 129932,
+      "name": "Hamza",
+      "latitude": "40.42762000",
+      "longitude": "71.50534000"
+    },
+    {
+      "id": 129948,
+      "name": "Kirguli",
+      "latitude": "40.43553000",
+      "longitude": "71.76721000"
+    },
+    {
+      "id": 129955,
+      "name": "Marg‘ilon",
+      "latitude": "40.47237000",
+      "longitude": "71.72463000"
+    },
+    {
+      "id": 129969,
+      "name": "Oltiariq",
+      "latitude": "40.39194000",
+      "longitude": "71.47417000"
+    },
+    {
+      "id": 129986,
+      "name": "Qo‘qon",
+      "latitude": "40.52861000",
+      "longitude": "70.94250000"
+    },
+    {
+      "id": 129988,
+      "name": "Quva",
+      "latitude": "40.52204000",
+      "longitude": "72.07292000"
+    },
+    {
+      "id": 129989,
+      "name": "Quvasoy",
+      "latitude": "40.29721000",
+      "longitude": "71.98026000"
+    },
+    {
+      "id": 129992,
+      "name": "Rishton",
+      "latitude": "40.35667000",
+      "longitude": "71.28472000"
+    },
+    {
+      "id": 130000,
+      "name": "Shohimardon",
+      "latitude": "39.98322000",
+      "longitude": "71.80512000"
+    },
+    {
+      "id": 130004,
+      "name": "So‘x Tumani",
+      "latitude": "40.04417000",
+      "longitude": "71.09417000"
+    },
+    {
+      "id": 130008,
+      "name": "Toshloq",
+      "latitude": "40.47722000",
+      "longitude": "71.76778000"
+    },
+    {
+      "id": 130019,
+      "name": "Yangi Marg‘ilon",
+      "latitude": "40.42722000",
+      "longitude": "71.71889000"
+    },
+    {
+      "id": 130025,
+      "name": "Yaypan",
+      "latitude": "40.37583000",
+      "longitude": "70.81556000"
+    }
+  ],
+  "country": {
+    "id": 236,
+    "name": "Uzbekistan",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "numeric_code": "860",
+    "phone_code": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "native": "O‘zbekiston",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Samarkand",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      },
+      {
+        "zoneName": "Asia/Tashkent",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "우즈베키스탄",
+      "pt-BR": "Uzbequistão",
+      "pt": "Usbequistão",
+      "nl": "Oezbekistan",
+      "hr": "Uzbekistan",
+      "fa": "ازبکستان",
+      "de": "Usbekistan",
+      "es": "Uzbekistán",
+      "fr": "Ouzbékistan",
+      "ja": "ウズベキスタン",
+      "it": "Uzbekistan",
+      "cn": "乌兹别克斯坦",
+      "tr": "Özbekistan"
+    },
+    "latitude": "41.00000000",
+    "longitude": "64.00000000",
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF"
+  }
+}

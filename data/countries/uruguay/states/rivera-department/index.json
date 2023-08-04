@@ -1,0 +1,78 @@
+{
+  "id": 3207,
+  "name": "Rivera Department",
+  "state_code": "RV",
+  "latitude": "-31.48174210",
+  "longitude": "-55.24357590",
+  "type": null,
+  "cities": [
+    {
+      "id": 129831,
+      "name": "Minas de Corrales",
+      "latitude": "-31.57375000",
+      "longitude": "-55.47075000"
+    },
+    {
+      "id": 129852,
+      "name": "Rivera",
+      "latitude": "-30.90534000",
+      "longitude": "-55.55076000"
+    },
+    {
+      "id": 129882,
+      "name": "Tranqueras",
+      "latitude": "-31.20000000",
+      "longitude": "-55.75000000"
+    },
+    {
+      "id": 129888,
+      "name": "Vichadero",
+      "latitude": "-31.77794000",
+      "longitude": "-54.69183000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3169,
+  "name": "Islamabad Capital Territory",
+  "state_code": "IS",
+  "latitude": "33.72049970",
+  "longitude": "73.04052770",
+  "type": null,
+  "cities": [
+    {
+      "id": 85475,
+      "name": "Islamabad",
+      "latitude": "33.72148000",
+      "longitude": "73.04329000"
+    }
+  ],
+  "country": {
+    "id": 167,
+    "name": "Pakistan",
+    "iso3": "PAK",
+    "iso2": "PK",
+    "numeric_code": "586",
+    "phone_code": "92",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "currency_name": "Pakistani rupee",
+    "currency_symbol": "₨",
+    "tld": ".pk",
+    "native": "Pakistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Karachi",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "PKT",
+        "tzName": "Pakistan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "파키스탄",
+      "pt-BR": "Paquistão",
+      "pt": "Paquistão",
+      "nl": "Pakistan",
+      "hr": "Pakistan",
+      "fa": "پاکستان",
+      "de": "Pakistan",
+      "es": "Pakistán",
+      "fr": "Pakistan",
+      "ja": "パキスタン",
+      "it": "Pakistan",
+      "cn": "巴基斯坦",
+      "tr": "Pakistan"
+    },
+    "latitude": "30.00000000",
+    "longitude": "70.00000000",
+    "emoji": "🇵🇰",
+    "emojiU": "U+1F1F5 U+1F1F0"
+  }
+}

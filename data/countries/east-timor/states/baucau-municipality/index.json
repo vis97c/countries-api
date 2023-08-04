@@ -1,0 +1,96 @@
+{
+  "id": 4521,
+  "name": "Baucau Municipality",
+  "state_code": "BA",
+  "latitude": "-8.47143080",
+  "longitude": "126.45759910",
+  "type": null,
+  "cities": [
+    {
+      "id": 106834,
+      "name": "Baguia",
+      "latitude": "-8.62787000",
+      "longitude": "126.65743000"
+    },
+    {
+      "id": 106836,
+      "name": "Baucau",
+      "latitude": "-8.46667000",
+      "longitude": "126.45000000"
+    },
+    {
+      "id": 106837,
+      "name": "Baukau",
+      "latitude": "-8.47572000",
+      "longitude": "126.45633000"
+    },
+    {
+      "id": 106852,
+      "name": "Laga",
+      "latitude": "-8.47411000",
+      "longitude": "126.59228000"
+    },
+    {
+      "id": 106866,
+      "name": "Quelicai",
+      "latitude": "-8.60135000",
+      "longitude": "126.55904000"
+    },
+    {
+      "id": 106877,
+      "name": "Vemasse",
+      "latitude": "-8.51036000",
+      "longitude": "126.20823000"
+    },
+    {
+      "id": 106878,
+      "name": "Venilale",
+      "latitude": "-8.64306000",
+      "longitude": "126.37833000"
+    }
+  ],
+  "country": {
+    "id": 63,
+    "name": "East Timor",
+    "iso3": "TLS",
+    "iso2": "TL",
+    "numeric_code": "626",
+    "phone_code": "670",
+    "capital": "Dili",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tl",
+    "native": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dili",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "TLT",
+        "tzName": "Timor Leste Time"
+      }
+    ],
+    "translations": {
+      "kr": "동티모르",
+      "pt-BR": "Timor Leste",
+      "pt": "Timor Leste",
+      "nl": "Oost-Timor",
+      "hr": "Istočni Timor",
+      "fa": "تیمور شرقی",
+      "de": "Timor-Leste",
+      "es": "Timor Oriental",
+      "fr": "Timor oriental",
+      "ja": "東ティモール",
+      "it": "Timor Est",
+      "cn": "东帝汶",
+      "tr": "Doğu Timor"
+    },
+    "latitude": "-8.83333333",
+    "longitude": "125.91666666",
+    "emoji": "🇹🇱",
+    "emojiU": "U+1F1F9 U+1F1F1"
+  }
+}

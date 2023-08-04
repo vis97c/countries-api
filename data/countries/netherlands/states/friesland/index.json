@@ -1,0 +1,762 @@
+{
+  "id": 2622,
+  "name": "Friesland",
+  "state_code": "FR",
+  "latitude": "53.16416420",
+  "longitude": "5.78175420",
+  "type": "province",
+  "cities": [
+    {
+      "id": 77321,
+      "name": "Akkrum",
+      "latitude": "53.05024000",
+      "longitude": "5.83087000"
+    },
+    {
+      "id": 77323,
+      "name": "Aldeboarn",
+      "latitude": "53.05000000",
+      "longitude": "5.90000000"
+    },
+    {
+      "id": 77324,
+      "name": "Aldlân-Oost",
+      "latitude": "53.18860000",
+      "longitude": "5.82825000"
+    },
+    {
+      "id": 77351,
+      "name": "Appelscha",
+      "latitude": "52.95526000",
+      "longitude": "6.35053000"
+    },
+    {
+      "id": 77359,
+      "name": "Augustinusga",
+      "latitude": "53.21785000",
+      "longitude": "6.16170000"
+    },
+    {
+      "id": 77373,
+      "name": "Bakhuizen",
+      "latitude": "52.86975000",
+      "longitude": "5.45926000"
+    },
+    {
+      "id": 77374,
+      "name": "Bakkeveen",
+      "latitude": "53.08072000",
+      "longitude": "6.25671000"
+    },
+    {
+      "id": 77375,
+      "name": "Balk",
+      "latitude": "52.89756000",
+      "longitude": "5.57964000"
+    },
+    {
+      "id": 77394,
+      "name": "Beetsterzwaag",
+      "latitude": "53.05914000",
+      "longitude": "6.07711000"
+    },
+    {
+      "id": 77420,
+      "name": "Berltsum",
+      "latitude": "53.24370000",
+      "longitude": "5.65101000"
+    },
+    {
+      "id": 77431,
+      "name": "Bilgaard",
+      "latitude": "53.21551000",
+      "longitude": "5.79574000"
+    },
+    {
+      "id": 77452,
+      "name": "Bolsward",
+      "latitude": "53.06555000",
+      "longitude": "5.53176000"
+    },
+    {
+      "id": 77453,
+      "name": "Boornbergum",
+      "latitude": "53.08284000",
+      "longitude": "6.04578000"
+    },
+    {
+      "id": 77487,
+      "name": "Broeksterwâld",
+      "latitude": "53.27466000",
+      "longitude": "5.99648000"
+    },
+    {
+      "id": 77501,
+      "name": "Buitenpost",
+      "latitude": "53.25166000",
+      "longitude": "6.14483000"
+    },
+    {
+      "id": 77505,
+      "name": "Burdaard",
+      "latitude": "53.29421000",
+      "longitude": "5.87897000"
+    },
+    {
+      "id": 77507,
+      "name": "Burgum",
+      "latitude": "53.19243000",
+      "longitude": "5.99009000"
+    },
+    {
+      "id": 77510,
+      "name": "Camminghaburen",
+      "latitude": "53.20973000",
+      "longitude": "5.84318000"
+    },
+    {
+      "id": 77530,
+      "name": "Damwâld",
+      "latitude": "53.29046000",
+      "longitude": "5.99785000"
+    },
+    {
+      "id": 77535,
+      "name": "De Domp",
+      "latitude": "53.03113000",
+      "longitude": "5.67716000"
+    },
+    {
+      "id": 77537,
+      "name": "De Drait",
+      "latitude": "53.09743000",
+      "longitude": "6.06791000"
+    },
+    {
+      "id": 77538,
+      "name": "De Fryske Marren",
+      "latitude": "52.96906000",
+      "longitude": "5.77246000"
+    },
+    {
+      "id": 77541,
+      "name": "De Greiden",
+      "latitude": "52.94960000",
+      "longitude": "5.91366000"
+    },
+    {
+      "id": 77548,
+      "name": "De Knipe",
+      "latitude": "52.96829000",
+      "longitude": "5.97116000"
+    },
+    {
+      "id": 77561,
+      "name": "De Westereen",
+      "latitude": "53.25731000",
+      "longitude": "6.03630000"
+    },
+    {
+      "id": 77588,
+      "name": "Dokkum",
+      "latitude": "53.32224000",
+      "longitude": "5.99697000"
+    },
+    {
+      "id": 77593,
+      "name": "Donkerbroek",
+      "latitude": "53.01734000",
+      "longitude": "6.23927000"
+    },
+    {
+      "id": 77602,
+      "name": "Drachten",
+      "latitude": "53.11254000",
+      "longitude": "6.09890000"
+    },
+    {
+      "id": 77603,
+      "name": "Drachtstercompagnie",
+      "latitude": "53.13462000",
+      "longitude": "6.14153000"
+    },
+    {
+      "id": 77610,
+      "name": "Drogeham",
+      "latitude": "53.20213000",
+      "longitude": "6.11183000"
+    },
+    {
+      "id": 77611,
+      "name": "Dronryp",
+      "latitude": "53.20000000",
+      "longitude": "5.65000000"
+    },
+    {
+      "id": 77621,
+      "name": "Eastermar",
+      "latitude": "53.17466000",
+      "longitude": "6.05999000"
+    },
+    {
+      "id": 77622,
+      "name": "Echtenerbrug",
+      "latitude": "52.87141000",
+      "longitude": "5.82147000"
+    },
+    {
+      "id": 77673,
+      "name": "Feanwâlden",
+      "latitude": "53.23558000",
+      "longitude": "5.98832000"
+    },
+    {
+      "id": 77675,
+      "name": "Ferwert",
+      "latitude": "53.33784000",
+      "longitude": "5.82533000"
+    },
+    {
+      "id": 77678,
+      "name": "Franeker",
+      "latitude": "53.18546000",
+      "longitude": "5.54123000"
+    },
+    {
+      "id": 77683,
+      "name": "Garyp",
+      "latitude": "53.16667000",
+      "longitude": "5.96667000"
+    },
+    {
+      "id": 78042,
+      "name": "Gorredijk",
+      "latitude": "53.00659000",
+      "longitude": "6.06402000"
+    },
+    {
+      "id": 78047,
+      "name": "Goutum",
+      "latitude": "53.17734000",
+      "longitude": "5.80370000"
+    },
+    {
+      "id": 78068,
+      "name": "Grou",
+      "latitude": "53.09456000",
+      "longitude": "5.83745000"
+    },
+    {
+      "id": 78073,
+      "name": "Gytsjerk",
+      "latitude": "53.24293000",
+      "longitude": "5.89502000"
+    },
+    {
+      "id": 78086,
+      "name": "Hallum",
+      "latitude": "53.30657000",
+      "longitude": "5.78379000"
+    },
+    {
+      "id": 78095,
+      "name": "Harkema",
+      "latitude": "53.18333000",
+      "longitude": "6.13333000"
+    },
+    {
+      "id": 78097,
+      "name": "Harlingen",
+      "latitude": "53.17477000",
+      "longitude": "5.42244000"
+    },
+    {
+      "id": 78103,
+      "name": "Haulerwijk",
+      "latitude": "53.06468000",
+      "longitude": "6.33453000"
+    },
+    {
+      "id": 78106,
+      "name": "Heechterp",
+      "latitude": "53.20963000",
+      "longitude": "5.82250000"
+    },
+    {
+      "id": 78107,
+      "name": "Heeg",
+      "latitude": "52.96860000",
+      "longitude": "5.61075000"
+    },
+    {
+      "id": 78114,
+      "name": "Heerenveen",
+      "latitude": "52.95929000",
+      "longitude": "5.91854000"
+    },
+    {
+      "id": 78162,
+      "name": "Hoek",
+      "latitude": "53.20455000",
+      "longitude": "5.80192000"
+    },
+    {
+      "id": 78170,
+      "name": "Hollum",
+      "latitude": "53.43940000",
+      "longitude": "5.63805000"
+    },
+    {
+      "id": 78172,
+      "name": "Holwerd",
+      "latitude": "53.36815000",
+      "longitude": "5.90073000"
+    },
+    {
+      "id": 78193,
+      "name": "Huizum",
+      "latitude": "53.19170000",
+      "longitude": "5.81119000"
+    },
+    {
+      "id": 78198,
+      "name": "Hurdegaryp",
+      "latitude": "53.21333000",
+      "longitude": "5.94137000"
+    },
+    {
+      "id": 78200,
+      "name": "IJlst",
+      "latitude": "53.01009000",
+      "longitude": "5.62312000"
+    },
+    {
+      "id": 78206,
+      "name": "Jirnsum",
+      "latitude": "53.07753000",
+      "longitude": "5.79254000"
+    },
+    {
+      "id": 78207,
+      "name": "Joure",
+      "latitude": "52.96570000",
+      "longitude": "5.80301000"
+    },
+    {
+      "id": 78208,
+      "name": "Jubbega",
+      "latitude": "53.00396000",
+      "longitude": "6.12183000"
+    },
+    {
+      "id": 78243,
+      "name": "Kollum",
+      "latitude": "53.27695000",
+      "longitude": "6.15293000"
+    },
+    {
+      "id": 78244,
+      "name": "Kollumerzwaag",
+      "latitude": "53.26224000",
+      "longitude": "6.07544000"
+    },
+    {
+      "id": 78247,
+      "name": "Kootstertille",
+      "latitude": "53.21261000",
+      "longitude": "6.09209000"
+    },
+    {
+      "id": 78254,
+      "name": "Koudum",
+      "latitude": "52.91551000",
+      "longitude": "5.44834000"
+    },
+    {
+      "id": 78272,
+      "name": "Langweer",
+      "latitude": "52.95836000",
+      "longitude": "5.72173000"
+    },
+    {
+      "id": 78283,
+      "name": "Leeuwarden",
+      "latitude": "53.20139000",
+      "longitude": "5.80859000"
+    },
+    {
+      "id": 78289,
+      "name": "Lemmer",
+      "latitude": "52.84618000",
+      "longitude": "5.70912000"
+    },
+    {
+      "id": 78343,
+      "name": "Makkum",
+      "latitude": "53.05458000",
+      "longitude": "5.40231000"
+    },
+    {
+      "id": 78347,
+      "name": "Mantgum",
+      "latitude": "53.12865000",
+      "longitude": "5.71924000"
+    },
+    {
+      "id": 78353,
+      "name": "Marrum",
+      "latitude": "53.32277000",
+      "longitude": "5.80198000"
+    },
+    {
+      "id": 78355,
+      "name": "Marsum",
+      "latitude": "53.21050000",
+      "longitude": "5.72637000"
+    },
+    {
+      "id": 78380,
+      "name": "Menaam",
+      "latitude": "53.21797000",
+      "longitude": "5.66124000"
+    },
+    {
+      "id": 78403,
+      "name": "Minnertsga",
+      "latitude": "53.25104000",
+      "longitude": "5.59513000"
+    },
+    {
+      "id": 78427,
+      "name": "Nes",
+      "latitude": "53.44502000",
+      "longitude": "5.77400000"
+    },
+    {
+      "id": 78442,
+      "name": "Nieuwehorne",
+      "latitude": "52.95113000",
+      "longitude": "6.06342000"
+    },
+    {
+      "id": 78460,
+      "name": "Noardburgum",
+      "latitude": "53.22135000",
+      "longitude": "6.00523000"
+    },
+    {
+      "id": 78472,
+      "name": "Noordwolde",
+      "latitude": "52.88964000",
+      "longitude": "6.14153000"
+    },
+    {
+      "id": 78486,
+      "name": "Oentsjerk",
+      "latitude": "53.25000000",
+      "longitude": "5.90000000"
+    },
+    {
+      "id": 78493,
+      "name": "Oldeberkoop",
+      "latitude": "52.93788000",
+      "longitude": "6.13089000"
+    },
+    {
+      "id": 78507,
+      "name": "Oost-Vlieland",
+      "latitude": "53.29703000",
+      "longitude": "5.07431000"
+    },
+    {
+      "id": 78524,
+      "name": "Oosterwolde",
+      "latitude": "52.99164000",
+      "longitude": "6.29096000"
+    },
+    {
+      "id": 78533,
+      "name": "Opeinde",
+      "latitude": "53.13410000",
+      "longitude": "6.05656000"
+    },
+    {
+      "id": 78539,
+      "name": "Oppenhuizen",
+      "latitude": "53.01194000",
+      "longitude": "5.69495000"
+    },
+    {
+      "id": 78542,
+      "name": "Oranjewoud",
+      "latitude": "52.94579000",
+      "longitude": "5.95038000"
+    },
+    {
+      "id": 78560,
+      "name": "Oudega",
+      "latitude": "53.12504000",
+      "longitude": "5.99888000"
+    },
+    {
+      "id": 78561,
+      "name": "Oudehaske",
+      "latitude": "52.95709000",
+      "longitude": "5.87095000"
+    },
+    {
+      "id": 78562,
+      "name": "Oudemirdum",
+      "latitude": "52.85019000",
+      "longitude": "5.53544000"
+    },
+    {
+      "id": 78566,
+      "name": "Oudeschoot",
+      "latitude": "52.93343000",
+      "longitude": "5.95579000"
+    },
+    {
+      "id": 78643,
+      "name": "Rottevalle",
+      "latitude": "53.14523000",
+      "longitude": "6.10411000"
+    },
+    {
+      "id": 78661,
+      "name": "Scharnegoutum",
+      "latitude": "53.06051000",
+      "longitude": "5.67822000"
+    },
+    {
+      "id": 78670,
+      "name": "Schiermonnikoog",
+      "latitude": "53.48025000",
+      "longitude": "6.15209000"
+    },
+    {
+      "id": 78689,
+      "name": "Sexbierum",
+      "latitude": "53.21823000",
+      "longitude": "5.48402000"
+    },
+    {
+      "id": 78694,
+      "name": "Sint Annaparochie",
+      "latitude": "53.27620000",
+      "longitude": "5.65727000"
+    },
+    {
+      "id": 78696,
+      "name": "Sint Jacobiparochie",
+      "latitude": "53.27291000",
+      "longitude": "5.60354000"
+    },
+    {
+      "id": 78700,
+      "name": "Sint Nicolaasga",
+      "latitude": "52.92293000",
+      "longitude": "5.74242000"
+    },
+    {
+      "id": 78707,
+      "name": "Sintjohannesga",
+      "latitude": "52.93157000",
+      "longitude": "5.85588000"
+    },
+    {
+      "id": 78717,
+      "name": "Sneek",
+      "latitude": "53.03297000",
+      "longitude": "5.65890000"
+    },
+    {
+      "id": 78741,
+      "name": "Stadsfenne",
+      "latitude": "53.03987000",
+      "longitude": "5.67844000"
+    },
+    {
+      "id": 78759,
+      "name": "Stiens",
+      "latitude": "53.26234000",
+      "longitude": "5.75769000"
+    },
+    {
+      "id": 78766,
+      "name": "Sûdwest Fryslân",
+      "latitude": "53.01056000",
+      "longitude": "5.52580000"
+    },
+    {
+      "id": 78765,
+      "name": "Surhuisterveen",
+      "latitude": "53.18477000",
+      "longitude": "6.17031000"
+    },
+    {
+      "id": 78773,
+      "name": "Ternaard",
+      "latitude": "53.38203000",
+      "longitude": "5.96523000"
+    },
+    {
+      "id": 78785,
+      "name": "Tijnje",
+      "latitude": "53.03058000",
+      "longitude": "5.99193000"
+    },
+    {
+      "id": 78787,
+      "name": "Tinga",
+      "latitude": "53.02064000",
+      "longitude": "5.64575000"
+    },
+    {
+      "id": 78799,
+      "name": "Twijzel",
+      "latitude": "53.23152000",
+      "longitude": "6.08952000"
+    },
+    {
+      "id": 78800,
+      "name": "Twijzelerheide",
+      "latitude": "53.24015000",
+      "longitude": "6.04591000"
+    },
+    {
+      "id": 78803,
+      "name": "Tytsjerk",
+      "latitude": "53.21343000",
+      "longitude": "5.90961000"
+    },
+    {
+      "id": 78804,
+      "name": "Tzummarum",
+      "latitude": "53.23733000",
+      "longitude": "5.54612000"
+    },
+    {
+      "id": 78818,
+      "name": "Ureterp",
+      "latitude": "53.09244000",
+      "longitude": "6.16718000"
+    },
+    {
+      "id": 78890,
+      "name": "Waadhoeke",
+      "latitude": "53.18947000",
+      "longitude": "5.50793000"
+    },
+    {
+      "id": 78905,
+      "name": "Warga",
+      "latitude": "53.15145000",
+      "longitude": "5.84404000"
+    },
+    {
+      "id": 78930,
+      "name": "West-Terschelling",
+      "latitude": "53.35911000",
+      "longitude": "5.21482000"
+    },
+    {
+      "id": 78932,
+      "name": "Westeinde",
+      "latitude": "53.20853000",
+      "longitude": "5.76812000"
+    },
+    {
+      "id": 78957,
+      "name": "Wijnjewoude",
+      "latitude": "53.05814000",
+      "longitude": "6.20470000"
+    },
+    {
+      "id": 78966,
+      "name": "Wirdum",
+      "latitude": "53.14893000",
+      "longitude": "5.80387000"
+    },
+    {
+      "id": 78970,
+      "name": "Witmarsum",
+      "latitude": "53.10452000",
+      "longitude": "5.46902000"
+    },
+    {
+      "id": 78978,
+      "name": "Wolvega",
+      "latitude": "52.87545000",
+      "longitude": "5.99691000"
+    },
+    {
+      "id": 78979,
+      "name": "Wommels",
+      "latitude": "53.10883000",
+      "longitude": "5.58749000"
+    },
+    {
+      "id": 78982,
+      "name": "Workum",
+      "latitude": "52.97969000",
+      "longitude": "5.44710000"
+    },
+    {
+      "id": 78987,
+      "name": "Woudsend",
+      "latitude": "52.94357000",
+      "longitude": "5.62843000"
+    },
+    {
+      "id": 79026,
+      "name": "Zuiderburen",
+      "latitude": "53.17340000",
+      "longitude": "5.84271000"
+    }
+  ],
+  "country": {
+    "id": 156,
+    "name": "Netherlands",
+    "iso3": "NLD",
+    "iso2": "NL",
+    "numeric_code": "528",
+    "phone_code": "31",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".nl",
+    "native": "Nederland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Amsterdam",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "네덜란드 ",
+      "pt-BR": "Holanda",
+      "pt": "Países Baixos",
+      "nl": "Nederland",
+      "hr": "Nizozemska",
+      "fa": "پادشاهی هلند",
+      "de": "Niederlande",
+      "es": "Países Bajos",
+      "fr": "Pays-Bas",
+      "ja": "オランダ",
+      "it": "Paesi Bassi",
+      "cn": "荷兰",
+      "tr": "Hollanda"
+    },
+    "latitude": "52.50000000",
+    "longitude": "5.75000000",
+    "emoji": "🇳🇱",
+    "emojiU": "U+1F1F3 U+1F1F1"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 4319,
+  "name": "Koper City Municipality",
+  "state_code": "050",
+  "latitude": "45.54805900",
+  "longitude": "13.73018770",
+  "type": null,
+  "cities": [
+    {
+      "id": 104085,
+      "name": "Dekani",
+      "latitude": "45.54972000",
+      "longitude": "13.81361000"
+    },
+    {
+      "id": 104121,
+      "name": "Hrvatini",
+      "latitude": "45.58278000",
+      "longitude": "13.75667000"
+    },
+    {
+      "id": 104142,
+      "name": "Koper",
+      "latitude": "45.54694000",
+      "longitude": "13.72944000"
+    },
+    {
+      "id": 104223,
+      "name": "Pobegi",
+      "latitude": "45.53944000",
+      "longitude": "13.79611000"
+    },
+    {
+      "id": 104231,
+      "name": "Prade",
+      "latitude": "45.54003000",
+      "longitude": "13.77607000"
+    },
+    {
+      "id": 104282,
+      "name": "Spodnje Škofije",
+      "latitude": "45.57167000",
+      "longitude": "13.79250000"
+    },
+    {
+      "id": 104288,
+      "name": "Sv. Anton",
+      "latitude": "45.52583000",
+      "longitude": "13.83194000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

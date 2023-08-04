@@ -1,0 +1,138 @@
+{
+  "id": 759,
+  "name": "Rangpur District",
+  "state_code": "55",
+  "latitude": "25.74679250",
+  "longitude": "89.25083350",
+  "type": "district",
+  "cities": [
+    {
+      "id": 8455,
+      "name": "Badarganj",
+      "latitude": "25.67419000",
+      "longitude": "89.05377000"
+    },
+    {
+      "id": 8480,
+      "name": "Chilmāri",
+      "latitude": "25.55613000",
+      "longitude": "89.67097000"
+    },
+    {
+      "id": 8487,
+      "name": "Dinajpur",
+      "latitude": "25.61667000",
+      "longitude": "88.75000000"
+    },
+    {
+      "id": 8494,
+      "name": "Gaibandha",
+      "latitude": "25.25000000",
+      "longitude": "89.50000000"
+    },
+    {
+      "id": 8517,
+      "name": "Kurigram",
+      "latitude": "25.75000000",
+      "longitude": "89.66667000"
+    },
+    {
+      "id": 8523,
+      "name": "Lalmonirhat",
+      "latitude": "25.91719000",
+      "longitude": "89.44595000"
+    },
+    {
+      "id": 8524,
+      "name": "Lalmonirhat District",
+      "latitude": "26.00000000",
+      "longitude": "89.25000000"
+    },
+    {
+      "id": 8544,
+      "name": "Nageswari",
+      "latitude": "25.96817000",
+      "longitude": "89.69153000"
+    },
+    {
+      "id": 8552,
+      "name": "Nilphamari Zila",
+      "latitude": "25.96667000",
+      "longitude": "88.95000000"
+    },
+    {
+      "id": 8560,
+      "name": "Panchagarh",
+      "latitude": "26.33333000",
+      "longitude": "88.56667000"
+    },
+    {
+      "id": 8561,
+      "name": "Parbatipur",
+      "latitude": "25.66369000",
+      "longitude": "88.93093000"
+    },
+    {
+      "id": 8572,
+      "name": "Pīrgaaj",
+      "latitude": "25.85587000",
+      "longitude": "88.35943000"
+    },
+    {
+      "id": 8577,
+      "name": "Rangpur",
+      "latitude": "25.73333000",
+      "longitude": "89.25000000"
+    },
+    {
+      "id": 8601,
+      "name": "Thakurgaon",
+      "latitude": "25.96667000",
+      "longitude": "88.33333000"
+    }
+  ],
+  "country": {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "numeric_code": "050",
+    "phone_code": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "native": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+    },
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  }
+}

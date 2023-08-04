@@ -1,0 +1,174 @@
+{
+  "id": 153,
+  "name": "Atyrau Region",
+  "state_code": "ATY",
+  "latitude": "47.10761880",
+  "longitude": "51.91413300",
+  "type": null,
+  "cities": [
+    {
+      "id": 65598,
+      "name": "Akkol’",
+      "latitude": "48.77177000",
+      "longitude": "53.18580000"
+    },
+    {
+      "id": 65625,
+      "name": "Atyrau",
+      "latitude": "47.11667000",
+      "longitude": "51.88333000"
+    },
+    {
+      "id": 65635,
+      "name": "Balykshi",
+      "latitude": "47.06667000",
+      "longitude": "51.86667000"
+    },
+    {
+      "id": 65639,
+      "name": "Bayshonas",
+      "latitude": "47.24139000",
+      "longitude": "52.94111000"
+    },
+    {
+      "id": 65667,
+      "name": "Dossor",
+      "latitude": "47.52722000",
+      "longitude": "52.98111000"
+    },
+    {
+      "id": 65684,
+      "name": "Inderbor",
+      "latitude": "48.55000000",
+      "longitude": "51.78333000"
+    },
+    {
+      "id": 65719,
+      "name": "Makhambet",
+      "latitude": "47.66667000",
+      "longitude": "51.58333000"
+    },
+    {
+      "id": 65722,
+      "name": "Maloye Ganyushkino",
+      "latitude": "46.60000000",
+      "longitude": "49.26667000"
+    },
+    {
+      "id": 65723,
+      "name": "Maqat",
+      "latitude": "47.65000000",
+      "longitude": "53.31667000"
+    },
+    {
+      "id": 65729,
+      "name": "Miyaly",
+      "latitude": "48.88504000",
+      "longitude": "53.79194000"
+    },
+    {
+      "id": 65751,
+      "name": "Qaraton",
+      "latitude": "46.43528000",
+      "longitude": "53.48639000"
+    },
+    {
+      "id": 65759,
+      "name": "Qulsary",
+      "latitude": "46.95307000",
+      "longitude": "54.01978000"
+    },
+    {
+      "id": 65778,
+      "name": "Shalkar",
+      "latitude": "48.03333000",
+      "longitude": "48.90000000"
+    }
+  ],
+  "country": {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "numeric_code": "398",
+    "phone_code": "7",
+    "capital": "Astana",
+    "currency": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "лв",
+    "tld": ".kz",
+    "native": "Қазақстан",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Almaty",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "tzName": "Alma-Ata Time[1"
+      },
+      {
+        "zoneName": "Asia/Aqtau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Aqtobe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Atyrau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "tzName": "Moscow Daylight Time+1"
+      },
+      {
+        "zoneName": "Asia/Oral",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "tzName": "Oral Time"
+      },
+      {
+        "zoneName": "Asia/Qostanay",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "tzName": "Qyzylorda Summer Time"
+      },
+      {
+        "zoneName": "Asia/Qyzylorda",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "tzName": "Qyzylorda Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "카자흐스탄",
+      "pt-BR": "Cazaquistão",
+      "pt": "Cazaquistão",
+      "nl": "Kazachstan",
+      "hr": "Kazahstan",
+      "fa": "قزاقستان",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "fr": "Kazakhstan",
+      "ja": "カザフスタン",
+      "it": "Kazakistan",
+      "cn": "哈萨克斯坦",
+      "tr": "Kazakistan"
+    },
+    "latitude": "48.00000000",
+    "longitude": "68.00000000",
+    "emoji": "🇰🇿",
+    "emojiU": "U+1F1F0 U+1F1FF"
+  }
+}

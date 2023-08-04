@@ -1,0 +1,240 @@
+{
+  "id": 3693,
+  "name": "Junín",
+  "state_code": "JUN",
+  "latitude": "-11.15819250",
+  "longitude": "-75.99263060",
+  "type": null,
+  "cities": [
+    {
+      "id": 80556,
+      "name": "Acolla",
+      "latitude": "-11.73193000",
+      "longitude": "-75.54634000"
+    },
+    {
+      "id": 80591,
+      "name": "Carhuamayo",
+      "latitude": "-10.91667000",
+      "longitude": "-76.03333000"
+    },
+    {
+      "id": 80604,
+      "name": "Chanchamayo",
+      "latitude": "-11.05000000",
+      "longitude": "-75.31667000"
+    },
+    {
+      "id": 80625,
+      "name": "Chupaca",
+      "latitude": "-12.06667000",
+      "longitude": "-75.28333000"
+    },
+    {
+      "id": 80630,
+      "name": "Concepción",
+      "latitude": "-11.91762000",
+      "longitude": "-75.31401000"
+    },
+    {
+      "id": 80652,
+      "name": "Huancayo",
+      "latitude": "-12.06513000",
+      "longitude": "-75.20486000"
+    },
+    {
+      "id": 80659,
+      "name": "Huasahuasi",
+      "latitude": "-11.26527000",
+      "longitude": "-75.64722000"
+    },
+    {
+      "id": 80663,
+      "name": "Huayucachi",
+      "latitude": "-12.13333000",
+      "longitude": "-75.23333000"
+    },
+    {
+      "id": 80674,
+      "name": "Jauja",
+      "latitude": "-11.77584000",
+      "longitude": "-75.49656000"
+    },
+    {
+      "id": 80685,
+      "name": "Junín",
+      "latitude": "-11.15895000",
+      "longitude": "-75.99304000"
+    },
+    {
+      "id": 80688,
+      "name": "La Oroya",
+      "latitude": "-11.51893000",
+      "longitude": "-75.89935000"
+    },
+    {
+      "id": 80713,
+      "name": "Mazamari",
+      "latitude": "-11.32583000",
+      "longitude": "-74.53083000"
+    },
+    {
+      "id": 80720,
+      "name": "Morococha",
+      "latitude": "-11.59972000",
+      "longitude": "-76.14111000"
+    },
+    {
+      "id": 80734,
+      "name": "Orcotuna",
+      "latitude": "-11.96886000",
+      "longitude": "-75.30780000"
+    },
+    {
+      "id": 80758,
+      "name": "Perené",
+      "latitude": "-10.94510000",
+      "longitude": "-75.22394000"
+    },
+    {
+      "id": 80761,
+      "name": "Pilcomay",
+      "latitude": "-12.04722000",
+      "longitude": "-75.24931000"
+    },
+    {
+      "id": 80809,
+      "name": "Provincia de Chupaca",
+      "latitude": "-12.30000000",
+      "longitude": "-75.43300000"
+    },
+    {
+      "id": 80811,
+      "name": "Provincia de Concepción",
+      "latitude": "-11.75000000",
+      "longitude": "-75.00000000"
+    },
+    {
+      "id": 80834,
+      "name": "Provincia de Huancayo",
+      "latitude": "-12.17319000",
+      "longitude": "-75.16169000"
+    },
+    {
+      "id": 80846,
+      "name": "Provincia de Jauja",
+      "latitude": "-11.72600000",
+      "longitude": "-75.54700000"
+    },
+    {
+      "id": 80848,
+      "name": "Provincia de Junín",
+      "latitude": "-11.08333000",
+      "longitude": "-76.00000000"
+    },
+    {
+      "id": 80893,
+      "name": "Provincia de Satipo",
+      "latitude": "-11.50000000",
+      "longitude": "-74.25000000"
+    },
+    {
+      "id": 80902,
+      "name": "Provincia de Tarma",
+      "latitude": "-11.40562000",
+      "longitude": "-75.69129000"
+    },
+    {
+      "id": 80909,
+      "name": "Provincia de Yauli",
+      "latitude": "-11.66667000",
+      "longitude": "-76.16667000"
+    },
+    {
+      "id": 80940,
+      "name": "San Agustin",
+      "latitude": "-11.97195000",
+      "longitude": "-75.25562000"
+    },
+    {
+      "id": 80947,
+      "name": "San Jerónimo",
+      "latitude": "-11.95591000",
+      "longitude": "-75.28411000"
+    },
+    {
+      "id": 80954,
+      "name": "San Pedro de Cajas",
+      "latitude": "-11.25061000",
+      "longitude": "-75.86116000"
+    },
+    {
+      "id": 80956,
+      "name": "San Ramón",
+      "latitude": "-11.12417000",
+      "longitude": "-75.35733000"
+    },
+    {
+      "id": 80970,
+      "name": "Satipo",
+      "latitude": "-11.25222000",
+      "longitude": "-74.63861000"
+    },
+    {
+      "id": 80974,
+      "name": "Sicaya",
+      "latitude": "-12.03333000",
+      "longitude": "-75.28333000"
+    },
+    {
+      "id": 80991,
+      "name": "Tarma",
+      "latitude": "-11.41899000",
+      "longitude": "-75.68992000"
+    }
+  ],
+  "country": {
+    "id": 173,
+    "name": "Peru",
+    "iso3": "PER",
+    "iso2": "PE",
+    "numeric_code": "604",
+    "phone_code": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "native": "Perú",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "translations": {
+      "kr": "페루",
+      "pt-BR": "Peru",
+      "pt": "Peru",
+      "nl": "Peru",
+      "hr": "Peru",
+      "fa": "پرو",
+      "de": "Peru",
+      "es": "Perú",
+      "fr": "Pérou",
+      "ja": "ペルー",
+      "it": "Perù",
+      "cn": "秘鲁",
+      "tr": "Peru"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2578,
+  "name": "Savanes Region",
+  "state_code": "S",
+  "latitude": "10.52917810",
+  "longitude": "0.52578230",
+  "type": null,
+  "cities": [
+    {
+      "id": 105163,
+      "name": "Dapaong",
+      "latitude": "10.86225000",
+      "longitude": "0.20762000"
+    },
+    {
+      "id": 105172,
+      "name": "Sansanné-Mango",
+      "latitude": "10.35917000",
+      "longitude": "0.47083000"
+    }
+  ],
+  "country": {
+    "id": 220,
+    "name": "Togo",
+    "iso3": "TGO",
+    "iso2": "TG",
+    "numeric_code": "768",
+    "phone_code": "228",
+    "capital": "Lome",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".tg",
+    "native": "Togo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "토고",
+      "pt-BR": "Togo",
+      "pt": "Togo",
+      "nl": "Togo",
+      "hr": "Togo",
+      "fa": "توگو",
+      "de": "Togo",
+      "es": "Togo",
+      "fr": "Togo",
+      "ja": "トーゴ",
+      "it": "Togo",
+      "cn": "多哥",
+      "tr": "Togo"
+    },
+    "latitude": "8.00000000",
+    "longitude": "1.16666666",
+    "emoji": "🇹🇬",
+    "emojiU": "U+1F1F9 U+1F1EC"
+  }
+}

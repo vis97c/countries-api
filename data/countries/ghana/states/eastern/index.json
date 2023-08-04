@@ -1,0 +1,126 @@
+{
+  "id": 50,
+  "name": "Eastern",
+  "state_code": "EP",
+  "latitude": "6.50000000",
+  "longitude": "-0.50000000",
+  "type": "region",
+  "cities": [
+    {
+      "id": 52148,
+      "name": "Aburi",
+      "latitude": "5.84802000",
+      "longitude": "-0.17449000"
+    },
+    {
+      "id": 52152,
+      "name": "Akim Oda",
+      "latitude": "5.92665000",
+      "longitude": "-0.98577000"
+    },
+    {
+      "id": 52153,
+      "name": "Akim Swedru",
+      "latitude": "5.89380000",
+      "longitude": "-1.01636000"
+    },
+    {
+      "id": 52154,
+      "name": "Akropong",
+      "latitude": "5.97462000",
+      "longitude": "-0.08542000"
+    },
+    {
+      "id": 52155,
+      "name": "Akwatia",
+      "latitude": "6.04024000",
+      "longitude": "-0.80876000"
+    },
+    {
+      "id": 52158,
+      "name": "Asamankese",
+      "latitude": "5.86006000",
+      "longitude": "-0.66350000"
+    },
+    {
+      "id": 52163,
+      "name": "Begoro",
+      "latitude": "6.38706000",
+      "longitude": "-0.37738000"
+    },
+    {
+      "id": 52182,
+      "name": "Kibi",
+      "latitude": "6.16494000",
+      "longitude": "-0.55376000"
+    },
+    {
+      "id": 52184,
+      "name": "Koforidua",
+      "latitude": "6.09408000",
+      "longitude": "-0.25913000"
+    },
+    {
+      "id": 52191,
+      "name": "Mpraeso",
+      "latitude": "6.59321000",
+      "longitude": "-0.73462000"
+    },
+    {
+      "id": 52194,
+      "name": "Nsawam",
+      "latitude": "5.80893000",
+      "longitude": "-0.35026000"
+    },
+    {
+      "id": 52203,
+      "name": "Suhum",
+      "latitude": "6.04089000",
+      "longitude": "-0.45004000"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

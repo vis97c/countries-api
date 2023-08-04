@@ -1,0 +1,156 @@
+{
+  "id": 3375,
+  "name": "Beni Department",
+  "state_code": "B",
+  "latitude": "-14.37827470",
+  "longitude": "-65.09577920",
+  "type": null,
+  "cities": [
+    {
+      "id": 9867,
+      "name": "Guayaramerín",
+      "latitude": "-10.82580000",
+      "longitude": "-65.35810000"
+    },
+    {
+      "id": 9920,
+      "name": "Provincia Cercado",
+      "latitude": "-14.50000000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 9932,
+      "name": "Provincia General José Ballivián",
+      "latitude": "-14.00000000",
+      "longitude": "-67.08333000"
+    },
+    {
+      "id": 9941,
+      "name": "Provincia Iténez",
+      "latitude": "-13.41667000",
+      "longitude": "-63.50000000"
+    },
+    {
+      "id": 9949,
+      "name": "Provincia Mamoré",
+      "latitude": "-13.00000000",
+      "longitude": "-64.91667000"
+    },
+    {
+      "id": 9953,
+      "name": "Provincia Marbán",
+      "latitude": "-15.66667000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 9956,
+      "name": "Provincia Moxos",
+      "latitude": "-15.16667000",
+      "longitude": "-65.50000000"
+    },
+    {
+      "id": 9990,
+      "name": "Provincia Vaca Diez",
+      "latitude": "-11.66667000",
+      "longitude": "-66.00000000"
+    },
+    {
+      "id": 9994,
+      "name": "Provincia Yacuma",
+      "latitude": "-13.50000000",
+      "longitude": "-66.00000000"
+    },
+    {
+      "id": 10005,
+      "name": "Reyes",
+      "latitude": "-14.29520000",
+      "longitude": "-67.33624000"
+    },
+    {
+      "id": 10006,
+      "name": "Riberalta",
+      "latitude": "-11.00654000",
+      "longitude": "-66.06312000"
+    },
+    {
+      "id": 10008,
+      "name": "Rurrenabaque",
+      "latitude": "-14.44125000",
+      "longitude": "-67.52781000"
+    },
+    {
+      "id": 10011,
+      "name": "San Borja",
+      "latitude": "-14.81667000",
+      "longitude": "-66.85000000"
+    },
+    {
+      "id": 10020,
+      "name": "San Ramón",
+      "latitude": "-13.28333000",
+      "longitude": "-64.71667000"
+    },
+    {
+      "id": 10021,
+      "name": "Santa Ana de Yacuma",
+      "latitude": "-13.74406000",
+      "longitude": "-65.42688000"
+    },
+    {
+      "id": 10025,
+      "name": "Santa Rosa",
+      "latitude": "-14.16667000",
+      "longitude": "-66.88333000"
+    },
+    {
+      "id": 10041,
+      "name": "Trinidad",
+      "latitude": "-14.83333000",
+      "longitude": "-64.90000000"
+    }
+  ],
+  "country": {
+    "id": 27,
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "numeric_code": "068",
+    "phone_code": "591",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "currency_symbol": "Bs.",
+    "tld": ".bo",
+    "native": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/La_Paz",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BOT",
+        "tzName": "Bolivia Time"
+      }
+    ],
+    "translations": {
+      "kr": "볼리비아",
+      "pt-BR": "Bolívia",
+      "pt": "Bolívia",
+      "nl": "Bolivia",
+      "hr": "Bolivija",
+      "fa": "بولیوی",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fr": "Bolivie",
+      "ja": "ボリビア多民族国",
+      "it": "Bolivia",
+      "cn": "玻利维亚",
+      "tr": "Bolivya"
+    },
+    "latitude": "-17.00000000",
+    "longitude": "-65.00000000",
+    "emoji": "🇧🇴",
+    "emojiU": "U+1F1E7 U+1F1F4"
+  }
+}

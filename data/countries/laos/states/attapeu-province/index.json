@@ -1,0 +1,90 @@
+{
+  "id": 982,
+  "name": "Attapeu Province",
+  "state_code": "AT",
+  "latitude": "14.93634000",
+  "longitude": "107.10119310",
+  "type": null,
+  "cities": [
+    {
+      "id": 65855,
+      "name": "Attapeu",
+      "latitude": "14.81071000",
+      "longitude": "106.83184000"
+    },
+    {
+      "id": 65891,
+      "name": "Muang Phouvong",
+      "latitude": "14.56821000",
+      "longitude": "107.01087000"
+    },
+    {
+      "id": 65895,
+      "name": "Muang Samakhixai",
+      "latitude": "14.80539000",
+      "longitude": "106.78164000"
+    },
+    {
+      "id": 65897,
+      "name": "Muang Sanamxai",
+      "latitude": "14.73807000",
+      "longitude": "106.41328000"
+    },
+    {
+      "id": 65898,
+      "name": "Muang Sanxai",
+      "latitude": "15.02944000",
+      "longitude": "107.23158000"
+    },
+    {
+      "id": 65912,
+      "name": "Muang Xaiséttha",
+      "latitude": "14.90594000",
+      "longitude": "106.97894000"
+    }
+  ],
+  "country": {
+    "id": 119,
+    "name": "Laos",
+    "iso3": "LAO",
+    "iso2": "LA",
+    "numeric_code": "418",
+    "phone_code": "856",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "native": "ສປປລາວ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "라오스",
+      "pt-BR": "Laos",
+      "pt": "Laos",
+      "nl": "Laos",
+      "hr": "Laos",
+      "fa": "لائوس",
+      "de": "Laos",
+      "es": "Laos",
+      "fr": "Laos",
+      "ja": "ラオス人民民主共和国",
+      "it": "Laos",
+      "cn": "寮人民民主共和国",
+      "tr": "Laos"
+    },
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  }
+}

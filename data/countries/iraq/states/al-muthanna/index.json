@@ -1,0 +1,66 @@
+{
+  "id": 3958,
+  "name": "Al Muthanna",
+  "state_code": "MU",
+  "latitude": "29.91331710",
+  "longitude": "45.29938620",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 134494,
+      "name": "Ar Rumaythah",
+      "latitude": "31.52845000",
+      "longitude": "45.20377000"
+    },
+    {
+      "id": 134497,
+      "name": "As Samawah",
+      "latitude": "31.33198000",
+      "longitude": "45.29440000"
+    }
+  ],
+  "country": {
+    "id": 104,
+    "name": "Iraq",
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "numeric_code": "368",
+    "phone_code": "964",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "د.ع",
+    "tld": ".iq",
+    "native": "العراق",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baghdad",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "이라크",
+      "pt-BR": "Iraque",
+      "pt": "Iraque",
+      "nl": "Irak",
+      "hr": "Irak",
+      "fa": "عراق",
+      "de": "Irak",
+      "es": "Irak",
+      "fr": "Irak",
+      "ja": "イラク",
+      "it": "Iraq",
+      "cn": "伊拉克",
+      "tr": "Irak"
+    },
+    "latitude": "33.00000000",
+    "longitude": "44.00000000",
+    "emoji": "🇮🇶",
+    "emojiU": "U+1F1EE U+1F1F6"
+  }
+}

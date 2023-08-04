@@ -1,0 +1,84 @@
+{
+  "id": 2556,
+  "name": "Gafsa",
+  "state_code": "71",
+  "latitude": "34.37885050",
+  "longitude": "8.66005860",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106914,
+      "name": "Ar Rudayyif",
+      "latitude": "34.38270000",
+      "longitude": "8.15549000"
+    },
+    {
+      "id": 106916,
+      "name": "As Sanad",
+      "latitude": "34.46280000",
+      "longitude": "9.26404000"
+    },
+    {
+      "id": 106954,
+      "name": "Gafsa",
+      "latitude": "34.42500000",
+      "longitude": "8.78417000"
+    },
+    {
+      "id": 106994,
+      "name": "Metlaoui",
+      "latitude": "34.32081000",
+      "longitude": "8.40157000"
+    },
+    {
+      "id": 107000,
+      "name": "Mu‘tamadīyat ar Rudayyif",
+      "latitude": "34.40081000",
+      "longitude": "8.17057000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 4365,
+  "name": "Căușeni District",
+  "state_code": "CS",
+  "latitude": "46.65547150",
+  "longitude": "29.40912220",
+  "type": null,
+  "cities": [
+    {
+      "id": 67295,
+      "name": "Căuşeni",
+      "latitude": "46.63674000",
+      "longitude": "29.41114000"
+    },
+    {
+      "id": 67286,
+      "name": "Chiţcani",
+      "latitude": "46.78296000",
+      "longitude": "29.61682000"
+    }
+  ],
+  "country": {
+    "id": 144,
+    "name": "Moldova",
+    "iso3": "MDA",
+    "iso2": "MD",
+    "numeric_code": "498",
+    "phone_code": "373",
+    "capital": "Chisinau",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "native": "Moldova",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몰도바",
+      "pt-BR": "Moldávia",
+      "pt": "Moldávia",
+      "nl": "Moldavië",
+      "hr": "Moldova",
+      "fa": "مولداوی",
+      "de": "Moldawie",
+      "es": "Moldavia",
+      "fr": "Moldavie",
+      "ja": "モルドバ共和国",
+      "it": "Moldavia",
+      "cn": "摩尔多瓦",
+      "tr": "Moldova"
+    },
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  }
+}

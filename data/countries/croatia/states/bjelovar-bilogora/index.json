@@ -1,0 +1,216 @@
+{
+  "id": 734,
+  "name": "Bjelovar-Bilogora",
+  "state_code": "07",
+  "latitude": "45.89879720",
+  "longitude": "16.84230930",
+  "type": "county",
+  "cities": [
+    {
+      "id": 54404,
+      "name": "Bjelovar",
+      "latitude": "45.89861000",
+      "longitude": "16.84889000"
+    },
+    {
+      "id": 54418,
+      "name": "Brezovac",
+      "latitude": "45.86750000",
+      "longitude": "16.84083000"
+    },
+    {
+      "id": 55017,
+      "name": "Čazma",
+      "latitude": "45.74818000",
+      "longitude": "16.61390000"
+    },
+    {
+      "id": 54449,
+      "name": "Daruvar",
+      "latitude": "45.59056000",
+      "longitude": "17.22500000"
+    },
+    {
+      "id": 54453,
+      "name": "Dežanovac",
+      "latitude": "45.57056000",
+      "longitude": "17.08667000"
+    },
+    {
+      "id": 55025,
+      "name": "Đulovac",
+      "latitude": "45.66588000",
+      "longitude": "17.42981000"
+    },
+    {
+      "id": 54489,
+      "name": "Garešnica",
+      "latitude": "45.57444000",
+      "longitude": "16.94139000"
+    },
+    {
+      "id": 54505,
+      "name": "Grad Bjelovar",
+      "latitude": "45.90172000",
+      "longitude": "16.84522000"
+    },
+    {
+      "id": 54571,
+      "name": "Grad Čazma",
+      "latitude": "45.75000000",
+      "longitude": "16.61667000"
+    },
+    {
+      "id": 54508,
+      "name": "Grad Daruvar",
+      "latitude": "45.60000000",
+      "longitude": "17.23333000"
+    },
+    {
+      "id": 54515,
+      "name": "Grad Garešnica",
+      "latitude": "45.56667000",
+      "longitude": "16.93333000"
+    },
+    {
+      "id": 54517,
+      "name": "Grad Grubišno Polje",
+      "latitude": "45.70000000",
+      "longitude": "17.16667000"
+    },
+    {
+      "id": 54588,
+      "name": "Grubišno Polje",
+      "latitude": "45.70214000",
+      "longitude": "17.17268000"
+    },
+    {
+      "id": 54589,
+      "name": "Gudovac",
+      "latitude": "45.88028000",
+      "longitude": "16.78083000"
+    },
+    {
+      "id": 54593,
+      "name": "Hercegovac",
+      "latitude": "45.65861000",
+      "longitude": "17.01361000"
+    },
+    {
+      "id": 54607,
+      "name": "Ivanska",
+      "latitude": "45.77889000",
+      "longitude": "16.81194000"
+    },
+    {
+      "id": 54630,
+      "name": "Kapela",
+      "latitude": "45.98543000",
+      "longitude": "16.85174000"
+    },
+    {
+      "id": 54658,
+      "name": "Končanica",
+      "latitude": "45.63611000",
+      "longitude": "17.16639000"
+    },
+    {
+      "id": 54831,
+      "name": "Predavac",
+      "latitude": "45.93583000",
+      "longitude": "16.78333000"
+    },
+    {
+      "id": 54869,
+      "name": "Rovišće",
+      "latitude": "45.94472000",
+      "longitude": "16.73500000"
+    },
+    {
+      "id": 55028,
+      "name": "Šandrovac",
+      "latitude": "45.90556000",
+      "longitude": "17.02111000"
+    },
+    {
+      "id": 54886,
+      "name": "Severin",
+      "latitude": "45.84152000",
+      "longitude": "16.96950000"
+    },
+    {
+      "id": 54891,
+      "name": "Sirač",
+      "latitude": "45.52333000",
+      "longitude": "17.25500000"
+    },
+    {
+      "id": 54960,
+      "name": "Velika Pisanica",
+      "latitude": "45.80160000",
+      "longitude": "17.06551000"
+    },
+    {
+      "id": 54962,
+      "name": "Veliki Grđevac",
+      "latitude": "45.75028000",
+      "longitude": "17.04750000"
+    },
+    {
+      "id": 55038,
+      "name": "Ždralovi",
+      "latitude": "45.87639000",
+      "longitude": "16.87500000"
+    },
+    {
+      "id": 55013,
+      "name": "Zrinski Topolovac",
+      "latitude": "46.02120000",
+      "longitude": "16.75509000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

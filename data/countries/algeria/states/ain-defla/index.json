@@ -1,0 +1,84 @@
+{
+  "id": 1119,
+  "name": "Aïn Defla",
+  "state_code": "44",
+  "latitude": "36.25094290",
+  "longitude": "1.93938150",
+  "type": null,
+  "cities": [
+    {
+      "id": 31243,
+      "name": "Aïn Defla",
+      "latitude": "36.26405000",
+      "longitude": "1.96790000"
+    },
+    {
+      "id": 31325,
+      "name": "El Abadia",
+      "latitude": "36.26951000",
+      "longitude": "1.68609000"
+    },
+    {
+      "id": 31331,
+      "name": "El Attaf",
+      "latitude": "36.22393000",
+      "longitude": "1.67187000"
+    },
+    {
+      "id": 31361,
+      "name": "Khemis Miliana",
+      "latitude": "36.26104000",
+      "longitude": "2.22015000"
+    },
+    {
+      "id": 31448,
+      "name": "Theniet el Had",
+      "latitude": "35.87111000",
+      "longitude": "2.02806000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

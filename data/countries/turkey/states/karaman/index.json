@@ -1,0 +1,90 @@
+{
+  "id": 2184,
+  "name": "Karaman",
+  "state_code": "70",
+  "latitude": "37.24363360",
+  "longitude": "33.61757700",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107228,
+      "name": "Ayrancı",
+      "latitude": "37.37111000",
+      "longitude": "33.69291000"
+    },
+    {
+      "id": 107320,
+      "name": "Başyayla",
+      "latitude": "36.75337000",
+      "longitude": "32.68018000"
+    },
+    {
+      "id": 107596,
+      "name": "Ermenek",
+      "latitude": "36.64043000",
+      "longitude": "32.89179000"
+    },
+    {
+      "id": 107958,
+      "name": "Kazımkarabekir",
+      "latitude": "37.23028000",
+      "longitude": "32.95889000"
+    },
+    {
+      "id": 107905,
+      "name": "Merkez",
+      "latitude": "37.18111000",
+      "longitude": "33.21500000"
+    },
+    {
+      "id": 108407,
+      "name": "Sarıveliler",
+      "latitude": "36.69705000",
+      "longitude": "32.61203000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

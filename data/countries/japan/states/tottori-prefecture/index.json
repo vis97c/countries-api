@@ -1,0 +1,84 @@
+{
+  "id": 850,
+  "name": "Tottori Prefecture",
+  "state_code": "31",
+  "latitude": "35.35731610",
+  "longitude": "133.40666180",
+  "type": null,
+  "cities": [
+    {
+      "id": 63867,
+      "name": "Kurayoshi-shi",
+      "latitude": "35.39110000",
+      "longitude": "133.74577000"
+    },
+    {
+      "id": 64262,
+      "name": "Sakaiminato",
+      "latitude": "35.53774000",
+      "longitude": "133.23094000"
+    },
+    {
+      "id": 64263,
+      "name": "Sakaiminato Shi",
+      "latitude": "35.52034000",
+      "longitude": "133.22704000"
+    },
+    {
+      "id": 64519,
+      "name": "Tottori-shi",
+      "latitude": "35.43255000",
+      "longitude": "134.15576000"
+    },
+    {
+      "id": 64676,
+      "name": "Yonago Shi",
+      "latitude": "35.43486000",
+      "longitude": "133.35873000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

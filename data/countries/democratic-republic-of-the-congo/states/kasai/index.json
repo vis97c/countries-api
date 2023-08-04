@@ -1,0 +1,85 @@
+{
+  "id": 2757,
+  "name": "Kasaï",
+  "state_code": "KS",
+  "latitude": "-5.04719790",
+  "longitude": "20.71224650",
+  "type": null,
+  "cities": [
+    {
+      "id": 17248,
+      "name": "Ilebo",
+      "latitude": "-4.33111000",
+      "longitude": "20.58638000"
+    },
+    {
+      "id": 17273,
+      "name": "Luebo",
+      "latitude": "-5.35218000",
+      "longitude": "21.42192000"
+    },
+    {
+      "id": 17284,
+      "name": "Mweka",
+      "latitude": "-4.85187000",
+      "longitude": "21.55950000"
+    },
+    {
+      "id": 17289,
+      "name": "Tshikapa",
+      "latitude": "-6.41621000",
+      "longitude": "20.79995000"
+    }
+  ],
+  "country": {
+    "id": 51,
+    "name": "Democratic Republic of the Congo",
+    "iso3": "COD",
+    "iso2": "CD",
+    "numeric_code": "180",
+    "phone_code": "243",
+    "capital": "Kinshasa",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "native": "République démocratique du Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "콩고 민주 공화국",
+      "pt-BR": "RD Congo",
+      "pt": "RD Congo",
+      "nl": "Congo [DRC]",
+      "hr": "Kongo, Demokratska Republika",
+      "fa": "جمهوری کنگو",
+      "de": "Kongo (Dem. Rep.)",
+      "es": "Congo (Rep. Dem.)",
+      "fr": "Congo (Rép. dém.)",
+      "ja": "コンゴ民主共和国",
+      "it": "Congo (Rep. Dem.)",
+      "cn": "刚果（金）",
+      "tr": "Kongo Demokratik Cumhuriyeti"
+    },
+    "latitude": "0.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9"
+  }
+}

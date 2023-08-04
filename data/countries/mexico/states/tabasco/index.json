@@ -1,0 +1,1408 @@
+{
+  "id": 3454,
+  "name": "Tabasco",
+  "state_code": "TAB",
+  "latitude": "17.84091730",
+  "longitude": "-92.61892730",
+  "type": "state",
+  "cities": [
+    {
+      "id": 68022,
+      "name": "Acachapan y Colmena 3ra. Sección",
+      "latitude": "18.04858000",
+      "longitude": "-92.77750000"
+    },
+    {
+      "id": 76402,
+      "name": "Álvaro Obregón (Santa Cruz)",
+      "latitude": "18.39422000",
+      "longitude": "-92.79982000"
+    },
+    {
+      "id": 76403,
+      "name": "Álvaro Obregón 2da. Sección (El Lechugal)",
+      "latitude": "18.39287000",
+      "longitude": "-92.79119000"
+    },
+    {
+      "id": 68233,
+      "name": "Amado Gómez",
+      "latitude": "18.14684000",
+      "longitude": "-93.35618000"
+    },
+    {
+      "id": 68265,
+      "name": "Anacleto Canabal 2da. Sección",
+      "latitude": "17.97556000",
+      "longitude": "-93.02417000"
+    },
+    {
+      "id": 68266,
+      "name": "Anacleto Canabal 3ra. Sección",
+      "latitude": "18.01830000",
+      "longitude": "-92.98992000"
+    },
+    {
+      "id": 68269,
+      "name": "Andrés Quintana Roo",
+      "latitude": "17.70771000",
+      "longitude": "-93.01077000"
+    },
+    {
+      "id": 68299,
+      "name": "Apatzingán",
+      "latitude": "17.60803000",
+      "longitude": "-91.06687000"
+    },
+    {
+      "id": 68318,
+      "name": "Aquiles Serdán",
+      "latitude": "17.78333000",
+      "longitude": "-92.28333000"
+    },
+    {
+      "id": 68324,
+      "name": "Aquiles Serdán (San Fernando)",
+      "latitude": "17.80556000",
+      "longitude": "-92.48972000"
+    },
+    {
+      "id": 68325,
+      "name": "Aquiles Serdán 1ra. Sección",
+      "latitude": "17.82474000",
+      "longitude": "-92.73977000"
+    },
+    {
+      "id": 68343,
+      "name": "Arena 1ra. Sección",
+      "latitude": "18.20139000",
+      "longitude": "-93.36694000"
+    },
+    {
+      "id": 68344,
+      "name": "Arena 6ta. Sección (La Bolsa)",
+      "latitude": "18.16218000",
+      "longitude": "-93.39539000"
+    },
+    {
+      "id": 68345,
+      "name": "Arena de Hidalgo",
+      "latitude": "17.45827000",
+      "longitude": "-91.58847000"
+    },
+    {
+      "id": 68361,
+      "name": "Arroyo Hondo Abejonal",
+      "latitude": "17.97739000",
+      "longitude": "-93.41039000"
+    },
+    {
+      "id": 68382,
+      "name": "Astapa",
+      "latitude": "17.78165000",
+      "longitude": "-92.84938000"
+    },
+    {
+      "id": 68460,
+      "name": "Ayapa",
+      "latitude": "18.22410000",
+      "longitude": "-93.11158000"
+    },
+    {
+      "id": 68507,
+      "name": "Balancán",
+      "latitude": "17.80903000",
+      "longitude": "-91.53682000"
+    },
+    {
+      "id": 68512,
+      "name": "Banderas (Guatacalca 2da. Sección)",
+      "latitude": "18.15167000",
+      "longitude": "-92.89881000"
+    },
+    {
+      "id": 68521,
+      "name": "Barrancas y Amate 3ra. Sección",
+      "latitude": "17.97100000",
+      "longitude": "-92.76173000"
+    },
+    {
+      "id": 68582,
+      "name": "Belén",
+      "latitude": "17.78907000",
+      "longitude": "-92.61137000"
+    },
+    {
+      "id": 68587,
+      "name": "Benito González",
+      "latitude": "17.86993000",
+      "longitude": "-92.70834000"
+    },
+    {
+      "id": 68591,
+      "name": "Benito Juárez",
+      "latitude": "18.42573000",
+      "longitude": "-92.80285000"
+    },
+    {
+      "id": 68603,
+      "name": "Benito Juárez (La Playita)",
+      "latitude": "17.93231000",
+      "longitude": "-93.36472000"
+    },
+    {
+      "id": 68613,
+      "name": "Betania",
+      "latitude": "18.28003000",
+      "longitude": "-93.32081000"
+    },
+    {
+      "id": 68618,
+      "name": "Blasillo 1ra. Sección (Nicolás Bravo)",
+      "latitude": "18.07861000",
+      "longitude": "-93.91833000"
+    },
+    {
+      "id": 68637,
+      "name": "Boquiapa",
+      "latitude": "18.16111000",
+      "longitude": "-93.13750000"
+    },
+    {
+      "id": 68643,
+      "name": "Bosque de Saloya",
+      "latitude": "18.01611000",
+      "longitude": "-92.95806000"
+    },
+    {
+      "id": 68651,
+      "name": "Brisas del Carrizal",
+      "latitude": "18.01556000",
+      "longitude": "-92.97083000"
+    },
+    {
+      "id": 68663,
+      "name": "Buena Vista (Apasco)",
+      "latitude": "17.65556000",
+      "longitude": "-92.44389000"
+    },
+    {
+      "id": 68664,
+      "name": "Buena Vista (Puxcatán)",
+      "latitude": "17.73073000",
+      "longitude": "-92.61996000"
+    },
+    {
+      "id": 68665,
+      "name": "Buena Vista 1ra. Sección",
+      "latitude": "18.14417000",
+      "longitude": "-92.74972000"
+    },
+    {
+      "id": 68668,
+      "name": "Buenavista",
+      "latitude": "17.91667000",
+      "longitude": "-92.53333000"
+    },
+    {
+      "id": 68697,
+      "name": "C-32 (Licenciado Francisco Trujillo Gurría)",
+      "latitude": "17.96833000",
+      "longitude": "-93.50139000"
+    },
+    {
+      "id": 68698,
+      "name": "C-41 (Licenciado Carlos A. Madrazo)",
+      "latitude": "17.92306000",
+      "longitude": "-93.44806000"
+    },
+    {
+      "id": 68802,
+      "name": "Caobanal 1ra. Sección (Mezcalapa)",
+      "latitude": "17.64858000",
+      "longitude": "-93.39464000"
+    },
+    {
+      "id": 68805,
+      "name": "Caparroso",
+      "latitude": "18.34500000",
+      "longitude": "-92.80361000"
+    },
+    {
+      "id": 68806,
+      "name": "Capitán Felipe Castellanos Díaz (San Pedro)",
+      "latitude": "17.77306000",
+      "longitude": "-91.14750000"
+    },
+    {
+      "id": 69659,
+      "name": "Cárdenas",
+      "latitude": "18.00135000",
+      "longitude": "-93.37559000"
+    },
+    {
+      "id": 68889,
+      "name": "Ceiba 1ra. Sección (Jahuactal)",
+      "latitude": "18.06222000",
+      "longitude": "-93.11306000"
+    },
+    {
+      "id": 68898,
+      "name": "Centro",
+      "latitude": "17.98633000",
+      "longitude": "-92.88674000"
+    },
+    {
+      "id": 68943,
+      "name": "Chablé",
+      "latitude": "17.85895000",
+      "longitude": "-91.78130000"
+    },
+    {
+      "id": 69021,
+      "name": "Chichicapa",
+      "latitude": "18.26228000",
+      "longitude": "-93.18210000"
+    },
+    {
+      "id": 69023,
+      "name": "Chichicastle 1ra. Sección",
+      "latitude": "18.30417000",
+      "longitude": "-92.43139000"
+    },
+    {
+      "id": 69106,
+      "name": "Chontalpa",
+      "latitude": "17.66614000",
+      "longitude": "-93.48115000"
+    },
+    {
+      "id": 69175,
+      "name": "Ciudad Pemex",
+      "latitude": "17.88268000",
+      "longitude": "-92.48406000"
+    },
+    {
+      "id": 69237,
+      "name": "Cocohital",
+      "latitude": "18.39527000",
+      "longitude": "-93.34527000"
+    },
+    {
+      "id": 69418,
+      "name": "Comalcalco",
+      "latitude": "18.26316000",
+      "longitude": "-93.22397000"
+    },
+    {
+      "id": 69464,
+      "name": "Constitución",
+      "latitude": "18.07278000",
+      "longitude": "-92.87194000"
+    },
+    {
+      "id": 69493,
+      "name": "Corriente 1ra. Sección",
+      "latitude": "18.15767000",
+      "longitude": "-92.99372000"
+    },
+    {
+      "id": 69609,
+      "name": "Cucuyulapa Primera Sección",
+      "latitude": "17.99082000",
+      "longitude": "-93.25619000"
+    },
+    {
+      "id": 69663,
+      "name": "Cúlico 2da. Sección",
+      "latitude": "18.14116000",
+      "longitude": "-93.13222000"
+    },
+    {
+      "id": 69637,
+      "name": "Cumuapa 1ra. Sección",
+      "latitude": "17.98519000",
+      "longitude": "-93.13806000"
+    },
+    {
+      "id": 69640,
+      "name": "Cunduacán",
+      "latitude": "18.06557000",
+      "longitude": "-93.17302000"
+    },
+    {
+      "id": 69644,
+      "name": "Cupilco",
+      "latitude": "18.23947000",
+      "longitude": "-93.12767000"
+    },
+    {
+      "id": 69718,
+      "name": "Dos Ceibas",
+      "latitude": "18.04112000",
+      "longitude": "-93.03561000"
+    },
+    {
+      "id": 69719,
+      "name": "Dos Montes",
+      "latitude": "17.98774000",
+      "longitude": "-92.82832000"
+    },
+    {
+      "id": 69838,
+      "name": "El Bajío",
+      "latitude": "17.98173000",
+      "longitude": "-92.78229000"
+    },
+    {
+      "id": 69844,
+      "name": "El Bellote (Miguel de la Madrid)",
+      "latitude": "18.42528000",
+      "longitude": "-93.15083000"
+    },
+    {
+      "id": 69891,
+      "name": "El Cedro",
+      "latitude": "18.02699000",
+      "longitude": "-92.94760000"
+    },
+    {
+      "id": 69918,
+      "name": "El Congo",
+      "latitude": "17.82522000",
+      "longitude": "-92.43887000"
+    },
+    {
+      "id": 69946,
+      "name": "El Dorado",
+      "latitude": "17.88323000",
+      "longitude": "-93.36788000"
+    },
+    {
+      "id": 69958,
+      "name": "El Escribano",
+      "latitude": "18.41028000",
+      "longitude": "-93.22167000"
+    },
+    {
+      "id": 70148,
+      "name": "El Recreo",
+      "latitude": "18.28058000",
+      "longitude": "-93.09285000"
+    },
+    {
+      "id": 70227,
+      "name": "El Tigre",
+      "latitude": "18.10194000",
+      "longitude": "-92.94194000"
+    },
+    {
+      "id": 70232,
+      "name": "El Tortuguero",
+      "latitude": "18.31413000",
+      "longitude": "-93.28499000"
+    },
+    {
+      "id": 70234,
+      "name": "El Triunfo",
+      "latitude": "17.92241000",
+      "longitude": "-91.16946000"
+    },
+    {
+      "id": 70239,
+      "name": "El Tular",
+      "latitude": "18.15429000",
+      "longitude": "-93.33820000"
+    },
+    {
+      "id": 70302,
+      "name": "Encrucijada 3ra. Sección (Las Calzadas)",
+      "latitude": "18.25491000",
+      "longitude": "-93.55619000"
+    },
+    {
+      "id": 70368,
+      "name": "Estapilla",
+      "latitude": "17.54491000",
+      "longitude": "-91.40503000"
+    },
+    {
+      "id": 70380,
+      "name": "Eureka y Belén",
+      "latitude": "17.55968000",
+      "longitude": "-92.92899000"
+    },
+    {
+      "id": 70430,
+      "name": "Fraccionamiento Ocuiltzapotlán Dos",
+      "latitude": "18.10889000",
+      "longitude": "-92.86778000"
+    },
+    {
+      "id": 70464,
+      "name": "Francisco I. Madero",
+      "latitude": "18.34047000",
+      "longitude": "-93.20999000"
+    },
+    {
+      "id": 70474,
+      "name": "Francisco Rueda",
+      "latitude": "17.82917000",
+      "longitude": "-93.93389000"
+    },
+    {
+      "id": 70490,
+      "name": "Frontera",
+      "latitude": "18.54326000",
+      "longitude": "-92.64530000"
+    },
+    {
+      "id": 70523,
+      "name": "Gaviotas Sur (El Cedral)",
+      "latitude": "17.95373000",
+      "longitude": "-92.89071000"
+    },
+    {
+      "id": 70539,
+      "name": "General Luis Felipe Domínguez Suárez",
+      "latitude": "17.65639000",
+      "longitude": "-91.53667000"
+    },
+    {
+      "id": 70551,
+      "name": "Gobernador Cruz",
+      "latitude": "18.43364000",
+      "longitude": "-92.87180000"
+    },
+    {
+      "id": 70552,
+      "name": "Gobernadores",
+      "latitude": "18.24694000",
+      "longitude": "-93.18528000"
+    },
+    {
+      "id": 70566,
+      "name": "Gregorio Méndez",
+      "latitude": "18.19639000",
+      "longitude": "-93.10222000"
+    },
+    {
+      "id": 70622,
+      "name": "Guatacalca",
+      "latitude": "18.16599000",
+      "longitude": "-92.97871000"
+    },
+    {
+      "id": 70627,
+      "name": "Guaytalpa",
+      "latitude": "18.21727000",
+      "longitude": "-93.03235000"
+    },
+    {
+      "id": 70649,
+      "name": "Habanero 1ra. Sección (Venustiano Carranza)",
+      "latitude": "17.96778000",
+      "longitude": "-93.32806000"
+    },
+    {
+      "id": 70670,
+      "name": "Hermenegildo Galeana 2da. Sección",
+      "latitude": "18.17054000",
+      "longitude": "-93.13508000"
+    },
+    {
+      "id": 70713,
+      "name": "Huacapa y Amestoy",
+      "latitude": "18.05377000",
+      "longitude": "-93.19694000"
+    },
+    {
+      "id": 70735,
+      "name": "Huapacal 1ra. Sección",
+      "latitude": "17.92667000",
+      "longitude": "-93.76639000"
+    },
+    {
+      "id": 70736,
+      "name": "Huapacal 2da. Sección (Punta Brava)",
+      "latitude": "18.19722000",
+      "longitude": "-93.17194000"
+    },
+    {
+      "id": 70737,
+      "name": "Huapinol",
+      "latitude": "17.92285000",
+      "longitude": "-92.91090000"
+    },
+    {
+      "id": 70795,
+      "name": "Huimanguillo",
+      "latitude": "17.83366000",
+      "longitude": "-93.38926000"
+    },
+    {
+      "id": 70835,
+      "name": "Ignacio Allende",
+      "latitude": "18.38299000",
+      "longitude": "-92.84418000"
+    },
+    {
+      "id": 70841,
+      "name": "Ignacio Gutiérrez Gómez",
+      "latitude": "18.24948000",
+      "longitude": "-93.39748000"
+    },
+    {
+      "id": 70854,
+      "name": "Ignacio Zaragoza",
+      "latitude": "18.40139000",
+      "longitude": "-92.95944000"
+    },
+    {
+      "id": 70859,
+      "name": "Ignacio Zaragoza 1ra. Sección",
+      "latitude": "18.33157000",
+      "longitude": "-93.33508000"
+    },
+    {
+      "id": 70874,
+      "name": "Iquinuapa",
+      "latitude": "18.19583000",
+      "longitude": "-93.12056000"
+    },
+    {
+      "id": 70965,
+      "name": "Jalapa",
+      "latitude": "17.72168000",
+      "longitude": "-92.81272000"
+    },
+    {
+      "id": 70968,
+      "name": "Jalapita",
+      "latitude": "18.41506000",
+      "longitude": "-92.99483000"
+    },
+    {
+      "id": 70977,
+      "name": "Jalpa de Méndez",
+      "latitude": "18.17633000",
+      "longitude": "-93.06300000"
+    },
+    {
+      "id": 70994,
+      "name": "Jalupa",
+      "latitude": "18.13687000",
+      "longitude": "-93.04534000"
+    },
+    {
+      "id": 71048,
+      "name": "Jiménez",
+      "latitude": "18.16043000",
+      "longitude": "-92.93336000"
+    },
+    {
+      "id": 71072,
+      "name": "Jolochero 2da. Sección",
+      "latitude": "18.12000000",
+      "longitude": "-92.79833000"
+    },
+    {
+      "id": 71081,
+      "name": "Jonuta",
+      "latitude": "18.08984000",
+      "longitude": "-92.13807000"
+    },
+    {
+      "id": 71089,
+      "name": "José Colomo",
+      "latitude": "17.94691000",
+      "longitude": "-92.46659000"
+    },
+    {
+      "id": 71209,
+      "name": "La Ceiba",
+      "latitude": "18.14436000",
+      "longitude": "-92.77805000"
+    },
+    {
+      "id": 71256,
+      "name": "La Curva",
+      "latitude": "17.86604000",
+      "longitude": "-92.48814000"
+    },
+    {
+      "id": 71265,
+      "name": "La Escalera",
+      "latitude": "17.84361000",
+      "longitude": "-92.52556000"
+    },
+    {
+      "id": 71287,
+      "name": "La Estrella",
+      "latitude": "18.60302000",
+      "longitude": "-92.58256000"
+    },
+    {
+      "id": 71358,
+      "name": "La Lima",
+      "latitude": "17.91056000",
+      "longitude": "-92.93389000"
+    },
+    {
+      "id": 71370,
+      "name": "La Lucha",
+      "latitude": "18.18069000",
+      "longitude": "-93.32176000"
+    },
+    {
+      "id": 71388,
+      "name": "La Manga 2da. Sección (El Jobal)",
+      "latitude": "18.01917000",
+      "longitude": "-92.86944000"
+    },
+    {
+      "id": 71417,
+      "name": "La Palma",
+      "latitude": "17.97980000",
+      "longitude": "-92.80555000"
+    },
+    {
+      "id": 71440,
+      "name": "La Península",
+      "latitude": "17.94347000",
+      "longitude": "-93.36148000"
+    },
+    {
+      "id": 71499,
+      "name": "La Sábana",
+      "latitude": "18.44461000",
+      "longitude": "-92.88411000"
+    },
+    {
+      "id": 71487,
+      "name": "La Selva",
+      "latitude": "18.02333000",
+      "longitude": "-92.96306000"
+    },
+    {
+      "id": 71518,
+      "name": "La Unión",
+      "latitude": "17.84839000",
+      "longitude": "-92.49628000"
+    },
+    {
+      "id": 71531,
+      "name": "La Victoria",
+      "latitude": "18.59102000",
+      "longitude": "-92.63284000"
+    },
+    {
+      "id": 71546,
+      "name": "Lagartera 1ra. Sección",
+      "latitude": "18.06277000",
+      "longitude": "-92.88563000"
+    },
+    {
+      "id": 71669,
+      "name": "Libertad",
+      "latitude": "17.41027000",
+      "longitude": "-92.71502000"
+    },
+    {
+      "id": 71761,
+      "name": "Lomitas",
+      "latitude": "18.06434000",
+      "longitude": "-92.96201000"
+    },
+    {
+      "id": 71786,
+      "name": "Los Cenotes",
+      "latitude": "17.63461000",
+      "longitude": "-91.03759000"
+    },
+    {
+      "id": 71859,
+      "name": "Los Sauces",
+      "latitude": "18.03335000",
+      "longitude": "-92.91693000"
+    },
+    {
+      "id": 71881,
+      "name": "Luis Gil Pérez",
+      "latitude": "17.87541000",
+      "longitude": "-93.07124000"
+    },
+    {
+      "id": 71910,
+      "name": "Mactún",
+      "latitude": "17.58980000",
+      "longitude": "-91.29298000"
+    },
+    {
+      "id": 71912,
+      "name": "Macultepec",
+      "latitude": "18.15026000",
+      "longitude": "-92.86092000"
+    },
+    {
+      "id": 71913,
+      "name": "Macuspana",
+      "latitude": "17.76052000",
+      "longitude": "-92.59539000"
+    },
+    {
+      "id": 72044,
+      "name": "Mazateupa",
+      "latitude": "18.20217000",
+      "longitude": "-93.00933000"
+    },
+    {
+      "id": 72054,
+      "name": "Mecatepec",
+      "latitude": "17.88988000",
+      "longitude": "-93.52498000"
+    },
+    {
+      "id": 72059,
+      "name": "Mecoacán",
+      "latitude": "18.23855000",
+      "longitude": "-93.08187000"
+    },
+    {
+      "id": 72060,
+      "name": "Mecoacán 2da. Sección (San Lorenzo)",
+      "latitude": "18.27790000",
+      "longitude": "-93.09095000"
+    },
+    {
+      "id": 72063,
+      "name": "Medellín y Madero Segunda Sección",
+      "latitude": "18.11351000",
+      "longitude": "-92.85400000"
+    },
+    {
+      "id": 72070,
+      "name": "Melchor Ocampo",
+      "latitude": "18.03694000",
+      "longitude": "-93.36250000"
+    },
+    {
+      "id": 72127,
+      "name": "Miguel Hidalgo",
+      "latitude": "18.25691000",
+      "longitude": "-93.31073000"
+    },
+    {
+      "id": 72133,
+      "name": "Miguel Hidalgo 2da. Sección B (La Natividad)",
+      "latitude": "18.07861000",
+      "longitude": "-93.35056000"
+    },
+    {
+      "id": 72200,
+      "name": "Monte Grande",
+      "latitude": "17.93541000",
+      "longitude": "-92.26444000"
+    },
+    {
+      "id": 72203,
+      "name": "Monte Largo 1ra. Sección",
+      "latitude": "17.83567000",
+      "longitude": "-92.60664000"
+    },
+    {
+      "id": 72235,
+      "name": "Morelos Piedra 3ra. Sección",
+      "latitude": "18.14389000",
+      "longitude": "-93.22000000"
+    },
+    {
+      "id": 72252,
+      "name": "Multé",
+      "latitude": "17.68850000",
+      "longitude": "-91.37944000"
+    },
+    {
+      "id": 72264,
+      "name": "Nacajuca",
+      "latitude": "18.16971000",
+      "longitude": "-93.01843000"
+    },
+    {
+      "id": 72313,
+      "name": "Netzahualcóyotl",
+      "latitude": "17.71086000",
+      "longitude": "-91.44322000"
+    },
+    {
+      "id": 72321,
+      "name": "Nicolás Bravo",
+      "latitude": "18.15504000",
+      "longitude": "-93.08304000"
+    },
+    {
+      "id": 72326,
+      "name": "Nicolás Bravo 5ta. Sección (Punta Brava)",
+      "latitude": "18.27827000",
+      "longitude": "-93.12872000"
+    },
+    {
+      "id": 72356,
+      "name": "Norte 1ra. Sección (San Julián)",
+      "latitude": "18.30139000",
+      "longitude": "-93.20944000"
+    },
+    {
+      "id": 72363,
+      "name": "Nueva División del Bayo (Guatemala)",
+      "latitude": "17.84000000",
+      "longitude": "-92.48889000"
+    },
+    {
+      "id": 72416,
+      "name": "Nuevo Torno Largo",
+      "latitude": "18.43228000",
+      "longitude": "-93.16443000"
+    },
+    {
+      "id": 72443,
+      "name": "Occidente (San Francisco)",
+      "latitude": "18.33130000",
+      "longitude": "-93.25238000"
+    },
+    {
+      "id": 72444,
+      "name": "Occidente 4ta. Sección",
+      "latitude": "18.30347000",
+      "longitude": "-93.23388000"
+    },
+    {
+      "id": 72469,
+      "name": "Ocuapan",
+      "latitude": "17.85430000",
+      "longitude": "-93.48978000"
+    },
+    {
+      "id": 72499,
+      "name": "Olcuatitán",
+      "latitude": "18.19045000",
+      "longitude": "-92.96114000"
+    },
+    {
+      "id": 72521,
+      "name": "Oriente 1ra. Sección",
+      "latitude": "18.33889000",
+      "longitude": "-93.20056000"
+    },
+    {
+      "id": 72522,
+      "name": "Oriente 1ra. Sección (Santo Domingo)",
+      "latitude": "18.26417000",
+      "longitude": "-93.20306000"
+    },
+    {
+      "id": 72523,
+      "name": "Oriente 2da. Sección (Palma Huaca)",
+      "latitude": "18.32917000",
+      "longitude": "-93.18528000"
+    },
+    {
+      "id": 72524,
+      "name": "Oriente 2da. Sección (San Cayetano)",
+      "latitude": "18.18667000",
+      "longitude": "-93.22944000"
+    },
+    {
+      "id": 72525,
+      "name": "Oriente 6ta. Sección (Los Mulatos)",
+      "latitude": "18.16722000",
+      "longitude": "-93.23583000"
+    },
+    {
+      "id": 72549,
+      "name": "Oxiacaque",
+      "latitude": "18.21386000",
+      "longitude": "-92.94674000"
+    },
+    {
+      "id": 72553,
+      "name": "Oxolotán",
+      "latitude": "17.37947000",
+      "longitude": "-92.74933000"
+    },
+    {
+      "id": 72565,
+      "name": "Pablo L. Sidar",
+      "latitude": "17.90028000",
+      "longitude": "-93.02917000"
+    },
+    {
+      "id": 72610,
+      "name": "Palo Mulato",
+      "latitude": "18.02035000",
+      "longitude": "-93.76943000"
+    },
+    {
+      "id": 72614,
+      "name": "Palomas",
+      "latitude": "17.65466000",
+      "longitude": "-92.47800000"
+    },
+    {
+      "id": 72642,
+      "name": "Paraiso",
+      "latitude": "18.40116000",
+      "longitude": "-93.21406000"
+    },
+    {
+      "id": 72656,
+      "name": "Parilla",
+      "latitude": "17.91552000",
+      "longitude": "-92.91612000"
+    },
+    {
+      "id": 72662,
+      "name": "Parrilla II",
+      "latitude": "17.87900000",
+      "longitude": "-92.92235000"
+    },
+    {
+      "id": 72694,
+      "name": "Paso de la Mina 2da. Sección (Barrial)",
+      "latitude": "17.95278000",
+      "longitude": "-93.69083000"
+    },
+    {
+      "id": 72695,
+      "name": "Paso de la Mina 3ra. Sección",
+      "latitude": "17.96335000",
+      "longitude": "-93.66582000"
+    },
+    {
+      "id": 72718,
+      "name": "Pechucalco",
+      "latitude": "18.09361000",
+      "longitude": "-93.16611000"
+    },
+    {
+      "id": 72719,
+      "name": "Pechucalco 2da. Sección (Las Cruces)",
+      "latitude": "18.12694000",
+      "longitude": "-93.19056000"
+    },
+    {
+      "id": 72726,
+      "name": "Pejelagartero 1ra. Sección (Plataforma)",
+      "latitude": "18.05500000",
+      "longitude": "-93.82472000"
+    },
+    {
+      "id": 73012,
+      "name": "Pénjamo",
+      "latitude": "18.43444000",
+      "longitude": "-93.09306000"
+    },
+    {
+      "id": 72816,
+      "name": "Playas del Rosario",
+      "latitude": "17.85308000",
+      "longitude": "-92.93219000"
+    },
+    {
+      "id": 72821,
+      "name": "Poblado C-11 José María Morelos y Pavón",
+      "latitude": "18.17419000",
+      "longitude": "-93.62356000"
+    },
+    {
+      "id": 72822,
+      "name": "Poblado C-21 Licenciado Benito Juárez García",
+      "latitude": "18.06778000",
+      "longitude": "-93.56139000"
+    },
+    {
+      "id": 72823,
+      "name": "Poblado C-33 20 de Noviembre",
+      "latitude": "17.96750000",
+      "longitude": "-93.56500000"
+    },
+    {
+      "id": 72845,
+      "name": "Pomoca",
+      "latitude": "18.04972000",
+      "longitude": "-92.93056000"
+    },
+    {
+      "id": 72862,
+      "name": "Potrerillo",
+      "latitude": "18.25472000",
+      "longitude": "-93.13472000"
+    },
+    {
+      "id": 72946,
+      "name": "Pueblo Nuevo de las Raíces",
+      "latitude": "17.84572000",
+      "longitude": "-92.87930000"
+    },
+    {
+      "id": 72947,
+      "name": "Pueblo Viejo",
+      "latitude": "18.19990000",
+      "longitude": "-93.08546000"
+    },
+    {
+      "id": 72967,
+      "name": "Puerto Ceiba",
+      "latitude": "18.41081000",
+      "longitude": "-93.17890000"
+    },
+    {
+      "id": 73004,
+      "name": "Puxcatán",
+      "latitude": "17.45083000",
+      "longitude": "-92.68712000"
+    },
+    {
+      "id": 73040,
+      "name": "Quintín Arauz",
+      "latitude": "18.37275000",
+      "longitude": "-93.21879000"
+    },
+    {
+      "id": 73062,
+      "name": "Rancho Nuevo",
+      "latitude": "18.07201000",
+      "longitude": "-93.07252000"
+    },
+    {
+      "id": 73083,
+      "name": "Raya Zaragoza",
+      "latitude": "17.40595000",
+      "longitude": "-92.68519000"
+    },
+    {
+      "id": 73093,
+      "name": "Reforma",
+      "latitude": "18.21398000",
+      "longitude": "-93.34291000"
+    },
+    {
+      "id": 73187,
+      "name": "Río de Teapa",
+      "latitude": "17.78342000",
+      "longitude": "-92.90033000"
+    },
+    {
+      "id": 73183,
+      "name": "Río Seco 2da. Sección (Santiaguito)",
+      "latitude": "18.13750000",
+      "longitude": "-93.27583000"
+    },
+    {
+      "id": 73186,
+      "name": "Río Viejo Primera Sección",
+      "latitude": "17.93913000",
+      "longitude": "-92.98022000"
+    },
+    {
+      "id": 73221,
+      "name": "Saloya 2da. Sección",
+      "latitude": "18.05306000",
+      "longitude": "-92.93639000"
+    },
+    {
+      "id": 73235,
+      "name": "Samarkanda",
+      "latitude": "18.04216000",
+      "longitude": "-92.91050000"
+    },
+    {
+      "id": 73456,
+      "name": "San Carlos",
+      "latitude": "17.55221000",
+      "longitude": "-91.15408000"
+    },
+    {
+      "id": 74482,
+      "name": "San Simón",
+      "latitude": "18.23687000",
+      "longitude": "-93.03416000"
+    },
+    {
+      "id": 74854,
+      "name": "Santa Rosalía",
+      "latitude": "18.08851000",
+      "longitude": "-93.35806000"
+    },
+    {
+      "id": 74864,
+      "name": "Santana 2da. Sección B (La Palma)",
+      "latitude": "18.17505000",
+      "longitude": "-93.43180000"
+    },
+    {
+      "id": 75041,
+      "name": "Sargento López 2da. Sección (El Chuzo)",
+      "latitude": "18.19953000",
+      "longitude": "-93.29235000"
+    },
+    {
+      "id": 75086,
+      "name": "Simón Sarlat",
+      "latitude": "18.34447000",
+      "longitude": "-92.80811000"
+    },
+    {
+      "id": 75132,
+      "name": "Soyataco",
+      "latitude": "18.20995000",
+      "longitude": "-93.07430000"
+    },
+    {
+      "id": 75160,
+      "name": "Tacotalpa",
+      "latitude": "17.59638000",
+      "longitude": "-92.82596000"
+    },
+    {
+      "id": 75194,
+      "name": "Tamulte de las Sabanas",
+      "latitude": "18.16168000",
+      "longitude": "-92.78354000"
+    },
+    {
+      "id": 75226,
+      "name": "Tapijulapa",
+      "latitude": "17.46208000",
+      "longitude": "-92.77908000"
+    },
+    {
+      "id": 75228,
+      "name": "Tapotzingo",
+      "latitude": "18.20443000",
+      "longitude": "-93.01421000"
+    },
+    {
+      "id": 75245,
+      "name": "Taxco",
+      "latitude": "18.13917000",
+      "longitude": "-93.00528000"
+    },
+    {
+      "id": 75256,
+      "name": "Teapa",
+      "latitude": "17.54970000",
+      "longitude": "-92.95211000"
+    },
+    {
+      "id": 75278,
+      "name": "Tecoluta 2da. Sección",
+      "latitude": "18.24408000",
+      "longitude": "-93.01956000"
+    },
+    {
+      "id": 75284,
+      "name": "Tecominoacán",
+      "latitude": "17.92122000",
+      "longitude": "-93.56318000"
+    },
+    {
+      "id": 75370,
+      "name": "Tenosique",
+      "latitude": "17.47290000",
+      "longitude": "-91.42360000"
+    },
+    {
+      "id": 75421,
+      "name": "Tepetitán",
+      "latitude": "17.81987000",
+      "longitude": "-92.37269000"
+    },
+    {
+      "id": 75460,
+      "name": "Tequila 1ra. Sección (La Aurora)",
+      "latitude": "17.88000000",
+      "longitude": "-92.72306000"
+    },
+    {
+      "id": 75766,
+      "name": "Transito Tular",
+      "latitude": "18.33849000",
+      "longitude": "-93.40283000"
+    },
+    {
+      "id": 75770,
+      "name": "Tres Bocas 1ra. Sección",
+      "latitude": "17.93231000",
+      "longitude": "-93.87444000"
+    },
+    {
+      "id": 75787,
+      "name": "Tucta",
+      "latitude": "18.19346000",
+      "longitude": "-92.99535000"
+    },
+    {
+      "id": 75944,
+      "name": "Veinte de Noviembre",
+      "latitude": "17.84699000",
+      "longitude": "-92.58910000"
+    },
+    {
+      "id": 75971,
+      "name": "Vicente Guerrero",
+      "latitude": "17.51323000",
+      "longitude": "-92.92236000"
+    },
+    {
+      "id": 75990,
+      "name": "Villa Aldama",
+      "latitude": "18.24088000",
+      "longitude": "-93.35068000"
+    },
+    {
+      "id": 76075,
+      "name": "Villa la Venta",
+      "latitude": "18.09863000",
+      "longitude": "-94.04593000"
+    },
+    {
+      "id": 76046,
+      "name": "Villa Tecolutilla",
+      "latitude": "18.28338000",
+      "longitude": "-93.33398000"
+    },
+    {
+      "id": 76054,
+      "name": "Villa Vicente Guerrero",
+      "latitude": "18.39007000",
+      "longitude": "-92.89607000"
+    },
+    {
+      "id": 76080,
+      "name": "Villahermosa",
+      "latitude": "17.98689000",
+      "longitude": "-92.93028000"
+    },
+    {
+      "id": 76142,
+      "name": "Xicoténcatl",
+      "latitude": "17.51833000",
+      "longitude": "-92.70474000"
+    }
+  ],
+  "country": {
+    "id": 142,
+    "name": "Mexico",
+    "iso3": "MEX",
+    "iso2": "MX",
+    "numeric_code": "484",
+    "phone_code": "52",
+    "capital": "Ciudad de México",
+    "currency": "MXN",
+    "currency_name": "Mexican peso",
+    "currency_symbol": "$",
+    "tld": ".mx",
+    "native": "México",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Bahia_Banderas",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Cancun",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chihuahua",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Hermosillo",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Matamoros",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mazatlan",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Merida",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mexico_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Monterrey",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Ojinaga",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Tijuana",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "멕시코",
+      "pt-BR": "México",
+      "pt": "México",
+      "nl": "Mexico",
+      "hr": "Meksiko",
+      "fa": "مکزیک",
+      "de": "Mexiko",
+      "es": "México",
+      "fr": "Mexique",
+      "ja": "メキシコ",
+      "it": "Messico",
+      "cn": "墨西哥",
+      "tr": "Meksika"
+    },
+    "latitude": "23.00000000",
+    "longitude": "-102.00000000",
+    "emoji": "🇲🇽",
+    "emojiU": "U+1F1F2 U+1F1FD"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 566,
+  "name": "Zaqatala District",
+  "state_code": "ZAQ",
+  "latitude": "41.59068890",
+  "longitude": "46.72403730",
+  "type": null,
+  "cities": [
+    {
+      "id": 8040,
+      "name": "Aliabad",
+      "latitude": "41.48290000",
+      "longitude": "46.63483000"
+    },
+    {
+      "id": 8079,
+      "name": "Faldarlı",
+      "latitude": "41.46868000",
+      "longitude": "46.51579000"
+    },
+    {
+      "id": 8112,
+      "name": "Mamrux",
+      "latitude": "41.54243000",
+      "longitude": "46.76700000"
+    },
+    {
+      "id": 8137,
+      "name": "Qandax",
+      "latitude": "41.47546000",
+      "longitude": "46.54128000"
+    },
+    {
+      "id": 8203,
+      "name": "Zaqatala",
+      "latitude": "41.63160000",
+      "longitude": "46.64479000"
+    }
+  ],
+  "country": {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "numeric_code": "031",
+    "phone_code": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "native": "Azərbaycan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아제르바이잔",
+      "pt-BR": "Azerbaijão",
+      "pt": "Azerbaijão",
+      "nl": "Azerbeidzjan",
+      "hr": "Azerbajdžan",
+      "fa": "آذربایجان",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "ja": "アゼルバイジャン",
+      "it": "Azerbaijan",
+      "cn": "阿塞拜疆",
+      "tr": "Azerbaycan"
+    },
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  }
+}

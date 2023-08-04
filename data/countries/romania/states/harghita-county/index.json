@@ -1,0 +1,942 @@
+{
+  "id": 4749,
+  "name": "Harghita County",
+  "state_code": "HR",
+  "latitude": "46.49285070",
+  "longitude": "25.64566960",
+  "type": null,
+  "cities": [
+    {
+      "id": 90003,
+      "name": "Atid",
+      "latitude": "46.45000000",
+      "longitude": "25.05000000"
+    },
+    {
+      "id": 90010,
+      "name": "Avrămeşti",
+      "latitude": "46.33333000",
+      "longitude": "25.01667000"
+    },
+    {
+      "id": 90493,
+      "name": "Băile Tuşnad",
+      "latitude": "46.15000000",
+      "longitude": "25.85000000"
+    },
+    {
+      "id": 90503,
+      "name": "Bălan",
+      "latitude": "46.65050000",
+      "longitude": "25.80834000"
+    },
+    {
+      "id": 90054,
+      "name": "Bancu",
+      "latitude": "46.30291000",
+      "longitude": "25.94422000"
+    },
+    {
+      "id": 90134,
+      "name": "Bilbor",
+      "latitude": "47.05000000",
+      "longitude": "25.51667000"
+    },
+    {
+      "id": 90234,
+      "name": "Borsec",
+      "latitude": "46.95000000",
+      "longitude": "25.56667000"
+    },
+    {
+      "id": 90323,
+      "name": "Brădeşti",
+      "latitude": "46.35000000",
+      "longitude": "25.35000000"
+    },
+    {
+      "id": 93863,
+      "name": "Căpâlniţa",
+      "latitude": "46.36667000",
+      "longitude": "25.51667000"
+    },
+    {
+      "id": 93820,
+      "name": "Cârţa",
+      "latitude": "46.53333000",
+      "longitude": "25.75000000"
+    },
+    {
+      "id": 90694,
+      "name": "Ciceu",
+      "latitude": "46.41328000",
+      "longitude": "25.78204000"
+    },
+    {
+      "id": 90739,
+      "name": "Ciucani",
+      "latitude": "46.25701000",
+      "longitude": "25.94744000"
+    },
+    {
+      "id": 90742,
+      "name": "Ciucsângeorgiu",
+      "latitude": "46.31667000",
+      "longitude": "25.95000000"
+    },
+    {
+      "id": 90749,
+      "name": "Ciumani",
+      "latitude": "46.68333000",
+      "longitude": "25.51667000"
+    },
+    {
+      "id": 90901,
+      "name": "Comuna Atid",
+      "latitude": "46.45844000",
+      "longitude": "25.04357000"
+    },
+    {
+      "id": 90907,
+      "name": "Comuna Avrămeşti",
+      "latitude": "46.36400000",
+      "longitude": "25.03223000"
+    },
+    {
+      "id": 90987,
+      "name": "Comuna Bilbor",
+      "latitude": "47.05615000",
+      "longitude": "25.49989000"
+    },
+    {
+      "id": 91113,
+      "name": "Comuna Brădeşti",
+      "latitude": "46.35788000",
+      "longitude": "25.35195000"
+    },
+    {
+      "id": 91585,
+      "name": "Comuna Căpâlniţa",
+      "latitude": "46.36047000",
+      "longitude": "25.51515000"
+    },
+    {
+      "id": 91555,
+      "name": "Comuna Cârţa",
+      "latitude": "46.54068000",
+      "longitude": "25.76275000"
+    },
+    {
+      "id": 91330,
+      "name": "Comuna Ciceu",
+      "latitude": "46.41271000",
+      "longitude": "25.76585000"
+    },
+    {
+      "id": 91364,
+      "name": "Comuna Ciucsângeorgiu",
+      "latitude": "46.33942000",
+      "longitude": "25.99860000"
+    },
+    {
+      "id": 91369,
+      "name": "Comuna Ciumani",
+      "latitude": "46.67821000",
+      "longitude": "25.51825000"
+    },
+    {
+      "id": 91430,
+      "name": "Comuna Corbu",
+      "latitude": "46.99559000",
+      "longitude": "25.65696000"
+    },
+    {
+      "id": 91448,
+      "name": "Comuna Corund",
+      "latitude": "46.48060000",
+      "longitude": "25.20070000"
+    },
+    {
+      "id": 91469,
+      "name": "Comuna Cozmeni",
+      "latitude": "46.20934000",
+      "longitude": "25.94274000"
+    },
+    {
+      "id": 91740,
+      "name": "Comuna Dăneşti",
+      "latitude": "46.51712000",
+      "longitude": "25.74989000"
+    },
+    {
+      "id": 91728,
+      "name": "Comuna Dârjiu",
+      "latitude": "46.20378000",
+      "longitude": "25.17462000"
+    },
+    {
+      "id": 91607,
+      "name": "Comuna Dealu",
+      "latitude": "46.37070000",
+      "longitude": "25.30599000"
+    },
+    {
+      "id": 91630,
+      "name": "Comuna Ditrău",
+      "latitude": "46.84564000",
+      "longitude": "25.52740000"
+    },
+    {
+      "id": 91757,
+      "name": "Comuna Feliceni",
+      "latitude": "46.27909000",
+      "longitude": "25.27430000"
+    },
+    {
+      "id": 91784,
+      "name": "Comuna Frumoasa",
+      "latitude": "46.44683000",
+      "longitude": "25.86759000"
+    },
+    {
+      "id": 91983,
+      "name": "Comuna Gălăuţaş",
+      "latitude": "46.90028000",
+      "longitude": "25.39118000"
+    },
+    {
+      "id": 92130,
+      "name": "Comuna Joseni",
+      "latitude": "46.69525000",
+      "longitude": "25.46114000"
+    },
+    {
+      "id": 92225,
+      "name": "Comuna Lăzarea",
+      "latitude": "46.76626000",
+      "longitude": "25.53875000"
+    },
+    {
+      "id": 92148,
+      "name": "Comuna Leliceni",
+      "latitude": "46.34900000",
+      "longitude": "25.84911000"
+    },
+    {
+      "id": 92192,
+      "name": "Comuna Lueta",
+      "latitude": "46.28724000",
+      "longitude": "25.53719000"
+    },
+    {
+      "id": 92206,
+      "name": "Comuna Lunca de Jos",
+      "latitude": "46.59868000",
+      "longitude": "25.96582000"
+    },
+    {
+      "id": 92207,
+      "name": "Comuna Lunca de Sus",
+      "latitude": "46.51853000",
+      "longitude": "25.95575000"
+    },
+    {
+      "id": 92215,
+      "name": "Comuna Lupeni",
+      "latitude": "46.39565000",
+      "longitude": "25.21905000"
+    },
+    {
+      "id": 92383,
+      "name": "Comuna Mădăraş",
+      "latitude": "46.49472000",
+      "longitude": "25.74750000"
+    },
+    {
+      "id": 92414,
+      "name": "Comuna Mărtiniş",
+      "latitude": "46.22996000",
+      "longitude": "25.38756000"
+    },
+    {
+      "id": 92259,
+      "name": "Comuna Mereşti",
+      "latitude": "46.23458000",
+      "longitude": "25.46099000"
+    },
+    {
+      "id": 92282,
+      "name": "Comuna Mihăileni",
+      "latitude": "46.48874000",
+      "longitude": "25.83027000"
+    },
+    {
+      "id": 92355,
+      "name": "Comuna Mugeni",
+      "latitude": "46.26544000",
+      "longitude": "25.19498000"
+    },
+    {
+      "id": 92476,
+      "name": "Comuna Ocland",
+      "latitude": "46.16242000",
+      "longitude": "25.42557000"
+    },
+    {
+      "id": 92712,
+      "name": "Comuna Pãuleni-Ciuc",
+      "latitude": "46.40073000",
+      "longitude": "25.84076000"
+    },
+    {
+      "id": 92605,
+      "name": "Comuna Plãieşii De Jos",
+      "latitude": "46.21626000",
+      "longitude": "26.09436000"
+    },
+    {
+      "id": 92662,
+      "name": "Comuna Porumbeni",
+      "latitude": "46.27415000",
+      "longitude": "25.12006000"
+    },
+    {
+      "id": 92668,
+      "name": "Comuna Praid",
+      "latitude": "46.54844000",
+      "longitude": "25.14717000"
+    },
+    {
+      "id": 92740,
+      "name": "Comuna Racu",
+      "latitude": "46.45397000",
+      "longitude": "25.77098000"
+    },
+    {
+      "id": 92764,
+      "name": "Comuna Remetea",
+      "latitude": "46.81908000",
+      "longitude": "25.42286000"
+    },
+    {
+      "id": 93080,
+      "name": "Comuna Săcel",
+      "latitude": "46.32872000",
+      "longitude": "24.91795000"
+    },
+    {
+      "id": 93051,
+      "name": "Comuna Sâncrăieni",
+      "latitude": "46.30575000",
+      "longitude": "25.84590000"
+    },
+    {
+      "id": 93052,
+      "name": "Comuna Sândominic",
+      "latitude": "46.57933000",
+      "longitude": "25.79305000"
+    },
+    {
+      "id": 93055,
+      "name": "Comuna Sânmartin",
+      "latitude": "46.26368000",
+      "longitude": "25.95348000"
+    },
+    {
+      "id": 93065,
+      "name": "Comuna Sânsimion",
+      "latitude": "46.25015000",
+      "longitude": "25.89196000"
+    },
+    {
+      "id": 93068,
+      "name": "Comuna Sântimbru",
+      "latitude": "46.27664000",
+      "longitude": "25.81054000"
+    },
+    {
+      "id": 93107,
+      "name": "Comuna Sărmaş",
+      "latitude": "46.88680000",
+      "longitude": "25.44289000"
+    },
+    {
+      "id": 92880,
+      "name": "Comuna Satu Mare",
+      "latitude": "46.34082000",
+      "longitude": "25.38378000"
+    },
+    {
+      "id": 92915,
+      "name": "Comuna Secuieni",
+      "latitude": "46.27623000",
+      "longitude": "24.96946000"
+    },
+    {
+      "id": 92927,
+      "name": "Comuna Siculeni",
+      "latitude": "46.43537000",
+      "longitude": "25.75409000"
+    },
+    {
+      "id": 92937,
+      "name": "Comuna Simoneşti",
+      "latitude": "46.35466000",
+      "longitude": "25.11325000"
+    },
+    {
+      "id": 93024,
+      "name": "Comuna Subcetate",
+      "latitude": "46.85645000",
+      "longitude": "25.40652000"
+    },
+    {
+      "id": 93040,
+      "name": "Comuna Suseni",
+      "latitude": "46.64350000",
+      "longitude": "25.56479000"
+    },
+    {
+      "id": 93166,
+      "name": "Comuna Tomeşti",
+      "latitude": "46.55617000",
+      "longitude": "25.77922000"
+    },
+    {
+      "id": 93204,
+      "name": "Comuna Tulgheş",
+      "latitude": "46.92544000",
+      "longitude": "25.75328000"
+    },
+    {
+      "id": 93221,
+      "name": "Comuna Tuşnad",
+      "latitude": "46.20745000",
+      "longitude": "25.90305000"
+    },
+    {
+      "id": 93257,
+      "name": "Comuna Ulieş",
+      "latitude": "46.21153000",
+      "longitude": "25.27048000"
+    },
+    {
+      "id": 93467,
+      "name": "Comuna Vărşag",
+      "latitude": "46.53155000",
+      "longitude": "25.33900000"
+    },
+    {
+      "id": 93408,
+      "name": "Comuna Voşlãbeni",
+      "latitude": "46.63582000",
+      "longitude": "25.65282000"
+    },
+    {
+      "id": 93475,
+      "name": "Comuna Zetea",
+      "latitude": "46.46047000",
+      "longitude": "25.42823000"
+    },
+    {
+      "id": 93619,
+      "name": "Corbu",
+      "latitude": "46.98333000",
+      "longitude": "25.70000000"
+    },
+    {
+      "id": 93651,
+      "name": "Corund",
+      "latitude": "46.46667000",
+      "longitude": "25.18333000"
+    },
+    {
+      "id": 93685,
+      "name": "Cozmeni",
+      "latitude": "46.22678000",
+      "longitude": "25.94209000"
+    },
+    {
+      "id": 93727,
+      "name": "Cristuru Secuiesc",
+      "latitude": "46.28333000",
+      "longitude": "25.03333000"
+    },
+    {
+      "id": 94128,
+      "name": "Dăneşti",
+      "latitude": "46.51667000",
+      "longitude": "25.75000000"
+    },
+    {
+      "id": 94109,
+      "name": "Dârjiu",
+      "latitude": "46.20000000",
+      "longitude": "25.20000000"
+    },
+    {
+      "id": 93900,
+      "name": "Dealu",
+      "latitude": "46.40000000",
+      "longitude": "25.30000000"
+    },
+    {
+      "id": 93941,
+      "name": "Ditrău",
+      "latitude": "46.81667000",
+      "longitude": "25.51667000"
+    },
+    {
+      "id": 94140,
+      "name": "Eliseni",
+      "latitude": "46.29235000",
+      "longitude": "24.93724000"
+    },
+    {
+      "id": 94155,
+      "name": "Feliceni",
+      "latitude": "46.26667000",
+      "longitude": "25.26667000"
+    },
+    {
+      "id": 94172,
+      "name": "Filiaș",
+      "latitude": "46.27075000",
+      "longitude": "25.02120000"
+    },
+    {
+      "id": 94206,
+      "name": "Frumoasa",
+      "latitude": "46.45000000",
+      "longitude": "25.85000000"
+    },
+    {
+      "id": 94506,
+      "name": "Gălăuţaş",
+      "latitude": "46.91667000",
+      "longitude": "25.43333000"
+    },
+    {
+      "id": 94303,
+      "name": "Gheorgheni",
+      "latitude": "46.72292000",
+      "longitude": "25.60055000"
+    },
+    {
+      "id": 94545,
+      "name": "Hodoșa",
+      "latitude": "46.86558000",
+      "longitude": "25.44620000"
+    },
+    {
+      "id": 94663,
+      "name": "Imper",
+      "latitude": "46.21667000",
+      "longitude": "26.10000000"
+    },
+    {
+      "id": 94669,
+      "name": "Ineu",
+      "latitude": "46.54530000",
+      "longitude": "25.76357000"
+    },
+    {
+      "id": 94748,
+      "name": "Joseni",
+      "latitude": "46.70000000",
+      "longitude": "25.50000000"
+    },
+    {
+      "id": 94900,
+      "name": "Lăzarea",
+      "latitude": "46.75000000",
+      "longitude": "25.53333000"
+    },
+    {
+      "id": 94775,
+      "name": "Leliceni",
+      "latitude": "46.34713000",
+      "longitude": "25.84782000"
+    },
+    {
+      "id": 94844,
+      "name": "Lueta",
+      "latitude": "46.26667000",
+      "longitude": "25.48333000"
+    },
+    {
+      "id": 94871,
+      "name": "Lunca de Jos",
+      "latitude": "46.56667000",
+      "longitude": "25.98333000"
+    },
+    {
+      "id": 94872,
+      "name": "Lunca de Sus",
+      "latitude": "46.53333000",
+      "longitude": "25.96667000"
+    },
+    {
+      "id": 94885,
+      "name": "Lupeni",
+      "latitude": "46.38333000",
+      "longitude": "25.21667000"
+    },
+    {
+      "id": 95235,
+      "name": "Mădăraș",
+      "latitude": "46.49472000",
+      "longitude": "25.74750000"
+    },
+    {
+      "id": 95280,
+      "name": "Mărtiniş",
+      "latitude": "46.23333000",
+      "longitude": "25.38333000"
+    },
+    {
+      "id": 94955,
+      "name": "Mereşti",
+      "latitude": "46.23333000",
+      "longitude": "25.45000000"
+    },
+    {
+      "id": 94973,
+      "name": "Miercurea-Ciuc",
+      "latitude": "46.35000000",
+      "longitude": "25.80000000"
+    },
+    {
+      "id": 94992,
+      "name": "Mihăileni",
+      "latitude": "46.46667000",
+      "longitude": "25.81667000"
+    },
+    {
+      "id": 95028,
+      "name": "Misentea",
+      "latitude": "46.32714000",
+      "longitude": "25.89506000"
+    },
+    {
+      "id": 95099,
+      "name": "Mugeni",
+      "latitude": "46.25000000",
+      "longitude": "25.21667000"
+    },
+    {
+      "id": 95104,
+      "name": "Municipiul  Topliţa",
+      "latitude": "46.93701000",
+      "longitude": "25.36052000"
+    },
+    {
+      "id": 95145,
+      "name": "Municipiul Gheorgheni",
+      "latitude": "46.72268000",
+      "longitude": "25.59917000"
+    },
+    {
+      "id": 95156,
+      "name": "Municipiul Miercurea Ciuc",
+      "latitude": "46.36091000",
+      "longitude": "25.79985000"
+    },
+    {
+      "id": 95160,
+      "name": "Municipiul Odorheiu Secuiesc",
+      "latitude": "46.30646000",
+      "longitude": "25.29551000"
+    },
+    {
+      "id": 95340,
+      "name": "Nicolești",
+      "latitude": "46.43918000",
+      "longitude": "25.84446000"
+    },
+    {
+      "id": 95393,
+      "name": "Ocland",
+      "latitude": "46.16667000",
+      "longitude": "25.41667000"
+    },
+    {
+      "id": 95397,
+      "name": "Ocna de Jos",
+      "latitude": "46.52635000",
+      "longitude": "25.12945000"
+    },
+    {
+      "id": 95398,
+      "name": "Ocna de Sus",
+      "latitude": "46.52729000",
+      "longitude": "25.15131000"
+    },
+    {
+      "id": 95410,
+      "name": "Odorheiu Secuiesc",
+      "latitude": "46.30000000",
+      "longitude": "25.30000000"
+    },
+    {
+      "id": 95485,
+      "name": "Oraş Bãile Tuşnad",
+      "latitude": "46.14707000",
+      "longitude": "25.86013000"
+    },
+    {
+      "id": 95486,
+      "name": "Oraş Bãlan",
+      "latitude": "46.65740000",
+      "longitude": "25.80554000"
+    },
+    {
+      "id": 95467,
+      "name": "Oraş Borsec",
+      "latitude": "46.96551000",
+      "longitude": "25.56173000"
+    },
+    {
+      "id": 95500,
+      "name": "Oraş Cristuru Secuiesc",
+      "latitude": "46.28390000",
+      "longitude": "25.04583000"
+    },
+    {
+      "id": 95620,
+      "name": "Oraş Vlãhiţa",
+      "latitude": "46.37412000",
+      "longitude": "25.57625000"
+    },
+    {
+      "id": 96028,
+      "name": "Păuleni-Ciuc",
+      "latitude": "46.40000000",
+      "longitude": "25.83333000"
+    },
+    {
+      "id": 95923,
+      "name": "Porumbenii Mari",
+      "latitude": "46.27549000",
+      "longitude": "25.13620000"
+    },
+    {
+      "id": 95938,
+      "name": "Praid",
+      "latitude": "46.55000000",
+      "longitude": "25.13333000"
+    },
+    {
+      "id": 96049,
+      "name": "Racu",
+      "latitude": "46.45178000",
+      "longitude": "25.76060000"
+    },
+    {
+      "id": 96081,
+      "name": "Remetea",
+      "latitude": "46.78333000",
+      "longitude": "25.45000000"
+    },
+    {
+      "id": 105991,
+      "name": "Săcel",
+      "latitude": "46.30000000",
+      "longitude": "24.93333000"
+    },
+    {
+      "id": 96524,
+      "name": "Sâncrai",
+      "latitude": "46.36667000",
+      "longitude": "25.31667000"
+    },
+    {
+      "id": 96527,
+      "name": "Sâncrăieni",
+      "latitude": "46.31439000",
+      "longitude": "25.83941000"
+    },
+    {
+      "id": 96528,
+      "name": "Sândominic",
+      "latitude": "46.58400000",
+      "longitude": "25.78028000"
+    },
+    {
+      "id": 96533,
+      "name": "Sânmartin",
+      "latitude": "46.26667000",
+      "longitude": "25.93333000"
+    },
+    {
+      "id": 96546,
+      "name": "Sânsimion",
+      "latitude": "46.25000000",
+      "longitude": "25.88333000"
+    },
+    {
+      "id": 105978,
+      "name": "Sântimbru",
+      "latitude": "46.28126000",
+      "longitude": "25.85439000"
+    },
+    {
+      "id": 106032,
+      "name": "Sărmaş",
+      "latitude": "46.88333000",
+      "longitude": "25.46667000"
+    },
+    {
+      "id": 96255,
+      "name": "Satu Mare",
+      "latitude": "46.34082000",
+      "longitude": "25.38378000"
+    },
+    {
+      "id": 96335,
+      "name": "Siculeni",
+      "latitude": "46.41667000",
+      "longitude": "25.75000000"
+    },
+    {
+      "id": 96349,
+      "name": "Simoneşti",
+      "latitude": "46.33333000",
+      "longitude": "25.10000000"
+    },
+    {
+      "id": 96486,
+      "name": "Subcetate",
+      "latitude": "46.85000000",
+      "longitude": "25.45000000"
+    },
+    {
+      "id": 96510,
+      "name": "Suseni",
+      "latitude": "46.66667000",
+      "longitude": "25.55000000"
+    },
+    {
+      "id": 96625,
+      "name": "Tăureni",
+      "latitude": "46.26667000",
+      "longitude": "25.25000000"
+    },
+    {
+      "id": 106123,
+      "name": "Tomești",
+      "latitude": "46.55617000",
+      "longitude": "25.77922000"
+    },
+    {
+      "id": 106174,
+      "name": "Tulgheş",
+      "latitude": "46.95000000",
+      "longitude": "25.76667000"
+    },
+    {
+      "id": 96574,
+      "name": "Tuşnad",
+      "latitude": "46.20000000",
+      "longitude": "25.90000000"
+    },
+    {
+      "id": 96575,
+      "name": "Tușnadu Nou",
+      "latitude": "46.19364000",
+      "longitude": "25.88757000"
+    },
+    {
+      "id": 96707,
+      "name": "Vale",
+      "latitude": "46.94910000",
+      "longitude": "25.37869000"
+    },
+    {
+      "id": 96748,
+      "name": "Valea Rece",
+      "latitude": "46.62082000",
+      "longitude": "25.95827000"
+    },
+    {
+      "id": 96757,
+      "name": "Valea Strâmbă",
+      "latitude": "46.69429000",
+      "longitude": "25.59956000"
+    },
+    {
+      "id": 96976,
+      "name": "Vărşag",
+      "latitude": "46.51667000",
+      "longitude": "25.35000000"
+    },
+    {
+      "id": 96870,
+      "name": "Vlăhiţa",
+      "latitude": "46.35000000",
+      "longitude": "25.51667000"
+    },
+    {
+      "id": 96895,
+      "name": "Voșlăbeni",
+      "latitude": "46.65000000",
+      "longitude": "25.63333000"
+    },
+    {
+      "id": 96988,
+      "name": "Zencani",
+      "latitude": "46.92700000",
+      "longitude": "25.33411000"
+    },
+    {
+      "id": 96990,
+      "name": "Zetea",
+      "latitude": "46.38333000",
+      "longitude": "25.36667000"
+    }
+  ],
+  "country": {
+    "id": 181,
+    "name": "Romania",
+    "iso3": "ROU",
+    "iso2": "RO",
+    "numeric_code": "642",
+    "phone_code": "40",
+    "capital": "Bucharest",
+    "currency": "RON",
+    "currency_name": "Romanian leu",
+    "currency_symbol": "lei",
+    "tld": ".ro",
+    "native": "România",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bucharest",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "루마니아",
+      "pt-BR": "Romênia",
+      "pt": "Roménia",
+      "nl": "Roemenië",
+      "hr": "Rumunjska",
+      "fa": "رومانی",
+      "de": "Rumänien",
+      "es": "Rumania",
+      "fr": "Roumanie",
+      "ja": "ルーマニア",
+      "it": "Romania",
+      "cn": "罗马尼亚",
+      "tr": "Romanya"
+    },
+    "latitude": "46.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇷🇴",
+    "emojiU": "U+1F1F7 U+1F1F4"
+  }
+}

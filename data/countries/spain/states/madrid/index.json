@@ -1,0 +1,1388 @@
+{
+  "id": 1158,
+  "name": "Madrid",
+  "state_code": "M",
+  "latitude": "40.41675150",
+  "longitude": "-3.70383220",
+  "type": "province",
+  "cities": [
+    {
+      "id": 152808,
+      "name": "Acebeda La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 31985,
+      "name": "Ajalvir",
+      "latitude": "40.53205000",
+      "longitude": "-3.47841000"
+    },
+    {
+      "id": 31995,
+      "name": "Alameda del Valle",
+      "latitude": "40.91870000",
+      "longitude": "-3.84243000"
+    },
+    {
+      "id": 152809,
+      "name": "Álamo El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32072,
+      "name": "Alcalá de Henares",
+      "latitude": "40.48205000",
+      "longitude": "-3.35996000"
+    },
+    {
+      "id": 32097,
+      "name": "Alcobendas",
+      "latitude": "40.54746000",
+      "longitude": "-3.64197000"
+    },
+    {
+      "id": 32119,
+      "name": "Alcorcón",
+      "latitude": "40.34582000",
+      "longitude": "-3.82487000"
+    },
+    {
+      "id": 32144,
+      "name": "Aldea del Fresno",
+      "latitude": "40.32360000",
+      "longitude": "-4.20319000"
+    },
+    {
+      "id": 32219,
+      "name": "Algete",
+      "latitude": "40.59711000",
+      "longitude": "-3.49743000"
+    },
+    {
+      "id": 32327,
+      "name": "Alpedrete",
+      "latitude": "40.65889000",
+      "longitude": "-4.02512000"
+    },
+    {
+      "id": 32351,
+      "name": "Ambite",
+      "latitude": "40.33190000",
+      "longitude": "-3.18034000"
+    },
+    {
+      "id": 32368,
+      "name": "Anchuelo",
+      "latitude": "40.46527000",
+      "longitude": "-3.26838000"
+    },
+    {
+      "id": 32412,
+      "name": "Aranjuez",
+      "latitude": "40.03108000",
+      "longitude": "-3.60246000"
+    },
+    {
+      "id": 32462,
+      "name": "Arganda",
+      "latitude": "40.30076000",
+      "longitude": "-3.43722000"
+    },
+    {
+      "id": 152810,
+      "name": "Arganda del Rey",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32464,
+      "name": "Arganzuela",
+      "latitude": "40.40021000",
+      "longitude": "-3.69618000"
+    },
+    {
+      "id": 32513,
+      "name": "Arroyomolinos",
+      "latitude": "40.26951000",
+      "longitude": "-3.91946000"
+    },
+    {
+      "id": 152811,
+      "name": "Atazar El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32636,
+      "name": "Barajas de Madrid",
+      "latitude": "40.47366000",
+      "longitude": "-3.57777000"
+    },
+    {
+      "id": 32695,
+      "name": "Batres",
+      "latitude": "40.20981000",
+      "longitude": "-3.92331000"
+    },
+    {
+      "id": 32725,
+      "name": "Becerril de la Sierra",
+      "latitude": "40.71699000",
+      "longitude": "-3.98858000"
+    },
+    {
+      "id": 32750,
+      "name": "Belmonte de Tajo",
+      "latitude": "40.13162000",
+      "longitude": "-3.33580000"
+    },
+    {
+      "id": 152812,
+      "name": "Berrueco El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32875,
+      "name": "Berzosa del Lozoya",
+      "latitude": "40.97320000",
+      "longitude": "-3.52009000"
+    },
+    {
+      "id": 32917,
+      "name": "Boadilla del Monte",
+      "latitude": "40.40500000",
+      "longitude": "-3.87835000"
+    },
+    {
+      "id": 32918,
+      "name": "Boalo",
+      "latitude": "40.71603000",
+      "longitude": "-3.91656000"
+    },
+    {
+      "id": 152813,
+      "name": "Boalo El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32969,
+      "name": "Braojos",
+      "latitude": "41.04040000",
+      "longitude": "-3.64329000"
+    },
+    {
+      "id": 32975,
+      "name": "Brea de Tajo",
+      "latitude": "40.23333000",
+      "longitude": "-3.10000000"
+    },
+    {
+      "id": 32994,
+      "name": "Brunete",
+      "latitude": "40.40532000",
+      "longitude": "-3.99850000"
+    },
+    {
+      "id": 33013,
+      "name": "Buitrago del Lozoya",
+      "latitude": "40.99090000",
+      "longitude": "-3.63365000"
+    },
+    {
+      "id": 33038,
+      "name": "Bustarviejo",
+      "latitude": "40.85720000",
+      "longitude": "-3.70766000"
+    },
+    {
+      "id": 33068,
+      "name": "Cabanillas de la Sierra",
+      "latitude": "40.82009000",
+      "longitude": "-3.62438000"
+    },
+    {
+      "id": 152814,
+      "name": "Cabrera La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33115,
+      "name": "Cadalso de los Vidrios",
+      "latitude": "40.30067000",
+      "longitude": "-4.43348000"
+    },
+    {
+      "id": 33170,
+      "name": "Camarma de Esteruelas",
+      "latitude": "40.55032000",
+      "longitude": "-3.37295000"
+    },
+    {
+      "id": 33201,
+      "name": "Campo Real",
+      "latitude": "40.33333000",
+      "longitude": "-3.38333000"
+    },
+    {
+      "id": 33232,
+      "name": "Canencia",
+      "latitude": "40.90728000",
+      "longitude": "-3.73523000"
+    },
+    {
+      "id": 33274,
+      "name": "Carabaña",
+      "latitude": "40.25424000",
+      "longitude": "-3.23572000"
+    },
+    {
+      "id": 33272,
+      "name": "Carabanchel",
+      "latitude": "40.39094000",
+      "longitude": "-3.72420000"
+    },
+    {
+      "id": 33354,
+      "name": "Casarrubuelos",
+      "latitude": "40.17146000",
+      "longitude": "-3.83105000"
+    },
+    {
+      "id": 33570,
+      "name": "Cenicientos",
+      "latitude": "40.26459000",
+      "longitude": "-4.46683000"
+    },
+    {
+      "id": 33579,
+      "name": "Cercedilla",
+      "latitude": "40.74101000",
+      "longitude": "-4.05644000"
+    },
+    {
+      "id": 33596,
+      "name": "Cervera de Buitrago",
+      "latitude": "40.91988000",
+      "longitude": "-3.52702000"
+    },
+    {
+      "id": 33616,
+      "name": "Chamberí",
+      "latitude": "40.43404000",
+      "longitude": "-3.70379000"
+    },
+    {
+      "id": 33618,
+      "name": "Chapinería",
+      "latitude": "40.37891000",
+      "longitude": "-4.21009000"
+    },
+    {
+      "id": 33640,
+      "name": "Chinchón",
+      "latitude": "40.14020000",
+      "longitude": "-3.42267000"
+    },
+    {
+      "id": 33658,
+      "name": "Ciempozuelos",
+      "latitude": "40.15913000",
+      "longitude": "-3.62103000"
+    },
+    {
+      "id": 33695,
+      "name": "City Center",
+      "latitude": "40.41831000",
+      "longitude": "-3.70275000"
+    },
+    {
+      "id": 33696,
+      "name": "Ciudad Lineal",
+      "latitude": "40.44505000",
+      "longitude": "-3.65132000"
+    },
+    {
+      "id": 33709,
+      "name": "Cobeña",
+      "latitude": "40.56667000",
+      "longitude": "-3.50000000"
+    },
+    {
+      "id": 33733,
+      "name": "Collado Mediano",
+      "latitude": "40.69326000",
+      "longitude": "-4.02280000"
+    },
+    {
+      "id": 152815,
+      "name": "Collado Villalba",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33736,
+      "name": "Collado-Villalba",
+      "latitude": "40.63506000",
+      "longitude": "-4.00486000"
+    },
+    {
+      "id": 33744,
+      "name": "Colmenar de Oreja",
+      "latitude": "40.10675000",
+      "longitude": "-3.38547000"
+    },
+    {
+      "id": 33745,
+      "name": "Colmenar del Arroyo",
+      "latitude": "40.41897000",
+      "longitude": "-4.19845000"
+    },
+    {
+      "id": 33742,
+      "name": "Colmenar Viejo",
+      "latitude": "40.65909000",
+      "longitude": "-3.76762000"
+    },
+    {
+      "id": 33746,
+      "name": "Colmenarejo",
+      "latitude": "40.56063000",
+      "longitude": "-4.01713000"
+    },
+    {
+      "id": 33796,
+      "name": "Corpa",
+      "latitude": "40.42327000",
+      "longitude": "-3.26003000"
+    },
+    {
+      "id": 33817,
+      "name": "Coslada",
+      "latitude": "40.42378000",
+      "longitude": "-3.56129000"
+    },
+    {
+      "id": 33845,
+      "name": "Cubas",
+      "latitude": "40.18900000",
+      "longitude": "-3.83526000"
+    },
+    {
+      "id": 152816,
+      "name": "Cubas de la Sagra",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33908,
+      "name": "Daganzo de Arriba",
+      "latitude": "40.54293000",
+      "longitude": "-3.45457000"
+    },
+    {
+      "id": 34029,
+      "name": "El Álamo",
+      "latitude": "40.23066000",
+      "longitude": "-3.99447000"
+    },
+    {
+      "id": 33997,
+      "name": "El Escorial",
+      "latitude": "40.58254000",
+      "longitude": "-4.12846000"
+    },
+    {
+      "id": 34002,
+      "name": "El Molar",
+      "latitude": "40.73215000",
+      "longitude": "-3.57969000"
+    },
+    {
+      "id": 34003,
+      "name": "El Pardo",
+      "latitude": "40.51454000",
+      "longitude": "-3.77253000"
+    },
+    {
+      "id": 34024,
+      "name": "El Vellón",
+      "latitude": "40.76495000",
+      "longitude": "-3.57969000"
+    },
+    {
+      "id": 152817,
+      "name": "Escorial El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34147,
+      "name": "Estremera",
+      "latitude": "40.18333000",
+      "longitude": "-3.10000000"
+    },
+    {
+      "id": 34249,
+      "name": "Fresnedillas",
+      "latitude": "40.48704000",
+      "longitude": "-4.17146000"
+    },
+    {
+      "id": 152818,
+      "name": "Fresnedillas de la Oliva",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34259,
+      "name": "Fresno de Torote",
+      "latitude": "40.59040000",
+      "longitude": "-3.41003000"
+    },
+    {
+      "id": 34277,
+      "name": "Fuencarral-El Pardo",
+      "latitude": "40.49840000",
+      "longitude": "-3.73140000"
+    },
+    {
+      "id": 34283,
+      "name": "Fuenlabrada",
+      "latitude": "40.28419000",
+      "longitude": "-3.79415000"
+    },
+    {
+      "id": 34302,
+      "name": "Fuente el Saz",
+      "latitude": "40.63215000",
+      "longitude": "-3.51146000"
+    },
+    {
+      "id": 152819,
+      "name": "Fuente el Saz de Jarama",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34361,
+      "name": "Fuentidueña de Tajo",
+      "latitude": "40.11574000",
+      "longitude": "-3.15718000"
+    },
+    {
+      "id": 34373,
+      "name": "Galapagar",
+      "latitude": "40.57830000",
+      "longitude": "-4.00426000"
+    },
+    {
+      "id": 34415,
+      "name": "Garganta de los Montes",
+      "latitude": "40.91992000",
+      "longitude": "-3.68375000"
+    },
+    {
+      "id": 152820,
+      "name": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34430,
+      "name": "Gascones",
+      "latitude": "41.01843000",
+      "longitude": "-3.64217000"
+    },
+    {
+      "id": 34459,
+      "name": "Getafe",
+      "latitude": "40.30571000",
+      "longitude": "-3.73295000"
+    },
+    {
+      "id": 34516,
+      "name": "Griñón",
+      "latitude": "40.21249000",
+      "longitude": "-3.85482000"
+    },
+    {
+      "id": 34524,
+      "name": "Guadalix de la Sierra",
+      "latitude": "40.78496000",
+      "longitude": "-3.69347000"
+    },
+    {
+      "id": 34528,
+      "name": "Guadarrama",
+      "latitude": "40.67270000",
+      "longitude": "-4.08949000"
+    },
+    {
+      "id": 152821,
+      "name": "Hiruela La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34652,
+      "name": "Horcajo de la Sierra",
+      "latitude": "41.06723000",
+      "longitude": "-3.58534000"
+    },
+    {
+      "id": 152822,
+      "name": "Horcajo de la Sierra-Aoslos",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34654,
+      "name": "Horcajuelo de la Sierra",
+      "latitude": "41.06019000",
+      "longitude": "-3.54640000"
+    },
+    {
+      "id": 34667,
+      "name": "Hortaleza",
+      "latitude": "40.47444000",
+      "longitude": "-3.64110000"
+    },
+    {
+      "id": 34674,
+      "name": "Hoyo de Manzanares",
+      "latitude": "40.62265000",
+      "longitude": "-3.90733000"
+    },
+    {
+      "id": 34701,
+      "name": "Humanes de Madrid",
+      "latitude": "40.25038000",
+      "longitude": "-3.83062000"
+    },
+    {
+      "id": 34860,
+      "name": "La Cabrera",
+      "latitude": "40.86386000",
+      "longitude": "-3.61265000"
+    },
+    {
+      "id": 34985,
+      "name": "Las Matas",
+      "latitude": "40.55779000",
+      "longitude": "-3.89173000"
+    },
+    {
+      "id": 34991,
+      "name": "Las Rozas de Madrid",
+      "latitude": "40.49292000",
+      "longitude": "-3.87371000"
+    },
+    {
+      "id": 34992,
+      "name": "Las Tablas",
+      "latitude": "40.50649000",
+      "longitude": "-3.67235000"
+    },
+    {
+      "id": 35002,
+      "name": "Latina",
+      "latitude": "40.38897000",
+      "longitude": "-3.74569000"
+    },
+    {
+      "id": 35021,
+      "name": "Leganés",
+      "latitude": "40.32718000",
+      "longitude": "-3.76350000"
+    },
+    {
+      "id": 35099,
+      "name": "Loeches",
+      "latitude": "40.38343000",
+      "longitude": "-3.41460000"
+    },
+    {
+      "id": 35127,
+      "name": "Los Molinos",
+      "latitude": "40.71578000",
+      "longitude": "-4.07402000"
+    },
+    {
+      "id": 35134,
+      "name": "Los Santos de la Humosa",
+      "latitude": "40.49968000",
+      "longitude": "-3.25332000"
+    },
+    {
+      "id": 35145,
+      "name": "Lozoya",
+      "latitude": "40.94949000",
+      "longitude": "-3.79086000"
+    },
+    {
+      "id": 152840,
+      "name": "Lozoyuela-Navas-Sieteiglesias",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152823,
+      "name": "Madarcos",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35186,
+      "name": "Madrid",
+      "latitude": "40.41650000",
+      "longitude": "-3.70256000"
+    },
+    {
+      "id": 35214,
+      "name": "Majadahonda",
+      "latitude": "40.47353000",
+      "longitude": "-3.87182000"
+    },
+    {
+      "id": 35267,
+      "name": "Manzanares el Real",
+      "latitude": "40.72627000",
+      "longitude": "-3.86265000"
+    },
+    {
+      "id": 35366,
+      "name": "Meco",
+      "latitude": "40.55274000",
+      "longitude": "-3.32894000"
+    },
+    {
+      "id": 35384,
+      "name": "Mejorada del Campo",
+      "latitude": "40.39283000",
+      "longitude": "-3.48194000"
+    },
+    {
+      "id": 35442,
+      "name": "Miraflores de la Sierra",
+      "latitude": "40.81550000",
+      "longitude": "-3.76213000"
+    },
+    {
+      "id": 152824,
+      "name": "Molar El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152825,
+      "name": "Molinos Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35501,
+      "name": "Moncloa-Aravaca",
+      "latitude": "40.43547000",
+      "longitude": "-3.73170000"
+    },
+    {
+      "id": 35555,
+      "name": "Montejo de la Sierra",
+      "latitude": "41.05955000",
+      "longitude": "-3.52993000"
+    },
+    {
+      "id": 35602,
+      "name": "Moraleja de Enmedio",
+      "latitude": "40.26125000",
+      "longitude": "-3.85963000"
+    },
+    {
+      "id": 35612,
+      "name": "Moralzarzal",
+      "latitude": "40.67816000",
+      "longitude": "-3.97070000"
+    },
+    {
+      "id": 35616,
+      "name": "Morata de Tajuña",
+      "latitude": "40.22680000",
+      "longitude": "-3.43269000"
+    },
+    {
+      "id": 35617,
+      "name": "Moratalaz",
+      "latitude": "40.40742000",
+      "longitude": "-3.64935000"
+    },
+    {
+      "id": 35708,
+      "name": "Móstoles",
+      "latitude": "40.32234000",
+      "longitude": "-3.86496000"
+    },
+    {
+      "id": 35731,
+      "name": "Navacerrada",
+      "latitude": "40.72905000",
+      "longitude": "-4.01696000"
+    },
+    {
+      "id": 35742,
+      "name": "Navalafuente",
+      "latitude": "40.82063000",
+      "longitude": "-3.67266000"
+    },
+    {
+      "id": 35743,
+      "name": "Navalagamella",
+      "latitude": "40.46894000",
+      "longitude": "-4.12334000"
+    },
+    {
+      "id": 35744,
+      "name": "Navalcarnero",
+      "latitude": "40.28908000",
+      "longitude": "-4.01197000"
+    },
+    {
+      "id": 35758,
+      "name": "Navalquejigo",
+      "latitude": "40.60705000",
+      "longitude": "-4.04966000"
+    },
+    {
+      "id": 152826,
+      "name": "Navarredonda y San Mamés",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35783,
+      "name": "Navas del Rey",
+      "latitude": "40.38610000",
+      "longitude": "-4.25117000"
+    },
+    {
+      "id": 35835,
+      "name": "Nuevo Baztán",
+      "latitude": "40.36731000",
+      "longitude": "-3.24125000"
+    },
+    {
+      "id": 152827,
+      "name": "Olmeda de las Fuentes",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152828,
+      "name": "Orusco de Tajuña",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36053,
+      "name": "Paracuellos de Jarama",
+      "latitude": "40.50353000",
+      "longitude": "-3.52775000"
+    },
+    {
+      "id": 36070,
+      "name": "Parla",
+      "latitude": "40.23604000",
+      "longitude": "-3.76752000"
+    },
+    {
+      "id": 36082,
+      "name": "Patones",
+      "latitude": "40.85563000",
+      "longitude": "-3.48490000"
+    },
+    {
+      "id": 36097,
+      "name": "Pedrezuela",
+      "latitude": "40.74277000",
+      "longitude": "-3.59980000"
+    },
+    {
+      "id": 36122,
+      "name": "Pelayos de la Presa",
+      "latitude": "40.36051000",
+      "longitude": "-4.33462000"
+    },
+    {
+      "id": 36139,
+      "name": "Perales de Tajuña",
+      "latitude": "40.23130000",
+      "longitude": "-3.35021000"
+    },
+    {
+      "id": 36160,
+      "name": "Pezuela de las Torres",
+      "latitude": "40.41613000",
+      "longitude": "-3.17363000"
+    },
+    {
+      "id": 36192,
+      "name": "Pinar de Chamartín",
+      "latitude": "40.47903000",
+      "longitude": "-3.66836000"
+    },
+    {
+      "id": 36207,
+      "name": "Pinilla del Valle",
+      "latitude": "40.92448000",
+      "longitude": "-3.81688000"
+    },
+    {
+      "id": 36215,
+      "name": "Pinto",
+      "latitude": "40.24147000",
+      "longitude": "-3.69999000"
+    },
+    {
+      "id": 152829,
+      "name": "Piñuécar-Gandullas",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36331,
+      "name": "Pozuelo de Alarcón",
+      "latitude": "40.43293000",
+      "longitude": "-3.81338000"
+    },
+    {
+      "id": 36338,
+      "name": "Pozuelo del Rey",
+      "latitude": "40.36463000",
+      "longitude": "-3.31699000"
+    },
+    {
+      "id": 36406,
+      "name": "Prádena del Rincón",
+      "latitude": "41.04414000",
+      "longitude": "-3.54075000"
+    },
+    {
+      "id": 36379,
+      "name": "Provincia de Madrid",
+      "latitude": "40.40225000",
+      "longitude": "-3.71029000"
+    },
+    {
+      "id": 152830,
+      "name": "Puebla de la Sierra",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36437,
+      "name": "Puente de Vallecas",
+      "latitude": "40.39354000",
+      "longitude": "-3.66200000"
+    },
+    {
+      "id": 152841,
+      "name": "Puentes Viejas",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36500,
+      "name": "Quijorna",
+      "latitude": "40.42763000",
+      "longitude": "-4.05683000"
+    },
+    {
+      "id": 36547,
+      "name": "Rascafría",
+      "latitude": "40.90407000",
+      "longitude": "-3.87898000"
+    },
+    {
+      "id": 36563,
+      "name": "Redueña",
+      "latitude": "40.81685000",
+      "longitude": "-3.59837000"
+    },
+    {
+      "id": 36587,
+      "name": "Retiro",
+      "latitude": "40.41317000",
+      "longitude": "-3.68307000"
+    },
+    {
+      "id": 36613,
+      "name": "Ribatejada",
+      "latitude": "40.66420000",
+      "longitude": "-3.38976000"
+    },
+    {
+      "id": 36639,
+      "name": "Rivas-Vaciamadrid",
+      "latitude": "40.32605000",
+      "longitude": "-3.51089000"
+    },
+    {
+      "id": 36651,
+      "name": "Robledillo de la Jara",
+      "latitude": "40.95054000",
+      "longitude": "-3.52181000"
+    },
+    {
+      "id": 36654,
+      "name": "Robledo de Chavela",
+      "latitude": "40.50062000",
+      "longitude": "-4.23635000"
+    },
+    {
+      "id": 152831,
+      "name": "Robregordo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152832,
+      "name": "Rozas de Madrid Las",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36686,
+      "name": "Rozas de Puerto Real",
+      "latitude": "40.31667000",
+      "longitude": "-4.48333000"
+    },
+    {
+      "id": 36799,
+      "name": "San Agustín del Guadalix",
+      "latitude": "40.67882000",
+      "longitude": "-3.61639000"
+    },
+    {
+      "id": 36812,
+      "name": "San Blas-Canillejas",
+      "latitude": "40.43893000",
+      "longitude": "-3.61537000"
+    },
+    {
+      "id": 36836,
+      "name": "San Fernando de Henares",
+      "latitude": "40.42386000",
+      "longitude": "-3.53261000"
+    },
+    {
+      "id": 36858,
+      "name": "San Lorenzo de El Escorial",
+      "latitude": "40.59144000",
+      "longitude": "-4.14738000"
+    },
+    {
+      "id": 36873,
+      "name": "San Martín de la Vega",
+      "latitude": "40.20735000",
+      "longitude": "-3.57063000"
+    },
+    {
+      "id": 36870,
+      "name": "San Martín de Valdeiglesias",
+      "latitude": "40.36185000",
+      "longitude": "-4.39831000"
+    },
+    {
+      "id": 36922,
+      "name": "San Sebastián de los Reyes",
+      "latitude": "40.55555000",
+      "longitude": "-3.62733000"
+    },
+    {
+      "id": 37079,
+      "name": "Santa María de la Alameda",
+      "latitude": "40.59492000",
+      "longitude": "-4.25772000"
+    },
+    {
+      "id": 37146,
+      "name": "Santorcaz",
+      "latitude": "40.47176000",
+      "longitude": "-3.23462000"
+    },
+    {
+      "id": 152833,
+      "name": "Santos de la Humosa Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152834,
+      "name": "Serna del Monte La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37225,
+      "name": "Serranillos del Valle",
+      "latitude": "40.20211000",
+      "longitude": "-3.88187000"
+    },
+    {
+      "id": 37240,
+      "name": "Sevilla La Nueva",
+      "latitude": "40.34775000",
+      "longitude": "-4.02727000"
+    },
+    {
+      "id": 152835,
+      "name": "Somosierra",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152836,
+      "name": "Soto del Real",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37354,
+      "name": "Talamanca de Jarama",
+      "latitude": "40.74325000",
+      "longitude": "-3.50889000"
+    },
+    {
+      "id": 37417,
+      "name": "Tetuán de las Victorias",
+      "latitude": "40.45975000",
+      "longitude": "-3.69750000"
+    },
+    {
+      "id": 37422,
+      "name": "Tielmes",
+      "latitude": "40.24652000",
+      "longitude": "-3.31461000"
+    },
+    {
+      "id": 37431,
+      "name": "Titulcia",
+      "latitude": "40.13537000",
+      "longitude": "-3.56763000"
+    },
+    {
+      "id": 37538,
+      "name": "Torrejón de Ardoz",
+      "latitude": "40.45535000",
+      "longitude": "-3.46973000"
+    },
+    {
+      "id": 37540,
+      "name": "Torrejón de la Calzada",
+      "latitude": "40.19886000",
+      "longitude": "-3.79700000"
+    },
+    {
+      "id": 37539,
+      "name": "Torrejón de Velasco",
+      "latitude": "40.18746000",
+      "longitude": "-3.77681000"
+    },
+    {
+      "id": 37543,
+      "name": "Torrelaguna",
+      "latitude": "40.82764000",
+      "longitude": "-3.53683000"
+    },
+    {
+      "id": 37551,
+      "name": "Torrelodones",
+      "latitude": "40.57654000",
+      "longitude": "-3.92658000"
+    },
+    {
+      "id": 37557,
+      "name": "Torremocha de Jarama",
+      "latitude": "40.84148000",
+      "longitude": "-3.49666000"
+    },
+    {
+      "id": 37577,
+      "name": "Torres de la Alameda",
+      "latitude": "40.40264000",
+      "longitude": "-3.35767000"
+    },
+    {
+      "id": 37629,
+      "name": "Tres Cantos",
+      "latitude": "40.60092000",
+      "longitude": "-3.70806000"
+    },
+    {
+      "id": 37705,
+      "name": "Usera",
+      "latitude": "40.38866000",
+      "longitude": "-3.70035000"
+    },
+    {
+      "id": 37726,
+      "name": "Valdaracete",
+      "latitude": "40.20770000",
+      "longitude": "-3.19101000"
+    },
+    {
+      "id": 37735,
+      "name": "Valdeavero",
+      "latitude": "40.62980000",
+      "longitude": "-3.33001000"
+    },
+    {
+      "id": 152837,
+      "name": "Valdelaguna",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37765,
+      "name": "Valdemanco",
+      "latitude": "40.87039000",
+      "longitude": "-3.65873000"
+    },
+    {
+      "id": 37767,
+      "name": "Valdemaqueda",
+      "latitude": "40.51201000",
+      "longitude": "-4.29722000"
+    },
+    {
+      "id": 37772,
+      "name": "Valdemorillo",
+      "latitude": "40.50064000",
+      "longitude": "-4.06710000"
+    },
+    {
+      "id": 37774,
+      "name": "Valdemoro",
+      "latitude": "40.19081000",
+      "longitude": "-3.67887000"
+    },
+    {
+      "id": 37781,
+      "name": "Valdeolmos",
+      "latitude": "40.63708000",
+      "longitude": "-3.45064000"
+    },
+    {
+      "id": 152838,
+      "name": "Valdeolmos-Alalpardo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37786,
+      "name": "Valdepiélagos",
+      "latitude": "40.75842000",
+      "longitude": "-3.46163000"
+    },
+    {
+      "id": 37804,
+      "name": "Valdetorres de Jarama",
+      "latitude": "40.69366000",
+      "longitude": "-3.51156000"
+    },
+    {
+      "id": 37810,
+      "name": "Valdilecha",
+      "latitude": "40.29530000",
+      "longitude": "-3.30233000"
+    },
+    {
+      "id": 37882,
+      "name": "Valverde de Alcalá",
+      "latitude": "40.41667000",
+      "longitude": "-3.29631000"
+    },
+    {
+      "id": 37931,
+      "name": "Velilla de San Antonio",
+      "latitude": "40.36516000",
+      "longitude": "-3.48484000"
+    },
+    {
+      "id": 152839,
+      "name": "Vellón El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37946,
+      "name": "Venturada",
+      "latitude": "40.79717000",
+      "longitude": "-3.61974000"
+    },
+    {
+      "id": 37963,
+      "name": "Vicálvaro",
+      "latitude": "40.40000000",
+      "longitude": "-3.60000000"
+    },
+    {
+      "id": 38009,
+      "name": "Villa de Vallecas",
+      "latitude": "40.36695000",
+      "longitude": "-3.60146000"
+    },
+    {
+      "id": 38012,
+      "name": "Villa del Prado",
+      "latitude": "40.27852000",
+      "longitude": "-4.30534000"
+    },
+    {
+      "id": 38034,
+      "name": "Villaconejos",
+      "latitude": "40.10139000",
+      "longitude": "-3.48258000"
+    },
+    {
+      "id": 38105,
+      "name": "Villalbilla",
+      "latitude": "40.43044000",
+      "longitude": "-3.29904000"
+    },
+    {
+      "id": 38131,
+      "name": "Villamanrique de Tajo",
+      "latitude": "40.06617000",
+      "longitude": "-3.23668000"
+    },
+    {
+      "id": 38133,
+      "name": "Villamanta",
+      "latitude": "40.29858000",
+      "longitude": "-4.10880000"
+    },
+    {
+      "id": 38134,
+      "name": "Villamantilla",
+      "latitude": "40.33846000",
+      "longitude": "-4.12986000"
+    },
+    {
+      "id": 38196,
+      "name": "Villanueva de la Cañada",
+      "latitude": "40.44689000",
+      "longitude": "-4.00428000"
+    },
+    {
+      "id": 38187,
+      "name": "Villanueva de Perales",
+      "latitude": "40.34541000",
+      "longitude": "-4.09891000"
+    },
+    {
+      "id": 38219,
+      "name": "Villanueva del Pardillo",
+      "latitude": "40.49014000",
+      "longitude": "-3.96383000"
+    },
+    {
+      "id": 38257,
+      "name": "Villar del Olmo",
+      "latitude": "40.33468000",
+      "longitude": "-3.23399000"
+    },
+    {
+      "id": 38273,
+      "name": "Villarejo de Salvanés",
+      "latitude": "40.16663000",
+      "longitude": "-3.27277000"
+    },
+    {
+      "id": 38343,
+      "name": "Villaverde",
+      "latitude": "40.35000000",
+      "longitude": "-3.70000000"
+    },
+    {
+      "id": 38357,
+      "name": "Villaviciosa de Odón",
+      "latitude": "40.35810000",
+      "longitude": "-3.90430000"
+    },
+    {
+      "id": 38360,
+      "name": "Villavieja del Lozoya",
+      "latitude": "41.00396000",
+      "longitude": "-3.66870000"
+    },
+    {
+      "id": 38482,
+      "name": "Zarzalejo",
+      "latitude": "40.54811000",
+      "longitude": "-4.18176000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

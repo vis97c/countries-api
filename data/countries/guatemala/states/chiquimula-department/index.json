@@ -1,0 +1,120 @@
+{
+  "id": 3666,
+  "name": "Chiquimula Department",
+  "state_code": "CQ",
+  "latitude": "14.75149990",
+  "longitude": "-89.47421770",
+  "type": null,
+  "cities": [
+    {
+      "id": 53439,
+      "name": "Camotán",
+      "latitude": "14.82017000",
+      "longitude": "-89.37224000"
+    },
+    {
+      "id": 53455,
+      "name": "Chiquimula",
+      "latitude": "14.80000000",
+      "longitude": "-89.54583000"
+    },
+    {
+      "id": 53471,
+      "name": "Concepción Las Minas",
+      "latitude": "14.52173000",
+      "longitude": "-89.45717000"
+    },
+    {
+      "id": 53492,
+      "name": "Esquipulas",
+      "latitude": "14.56571000",
+      "longitude": "-89.35166000"
+    },
+    {
+      "id": 53505,
+      "name": "Ipala",
+      "latitude": "14.61667000",
+      "longitude": "-89.61667000"
+    },
+    {
+      "id": 53514,
+      "name": "Jocotán",
+      "latitude": "14.82072000",
+      "longitude": "-89.38991000"
+    },
+    {
+      "id": 53611,
+      "name": "Olopa",
+      "latitude": "14.69229000",
+      "longitude": "-89.35003000"
+    },
+    {
+      "id": 53639,
+      "name": "Quezaltepeque",
+      "latitude": "14.63553000",
+      "longitude": "-89.44241000"
+    },
+    {
+      "id": 53679,
+      "name": "San Jacinto",
+      "latitude": "14.66667000",
+      "longitude": "-89.50000000"
+    },
+    {
+      "id": 53685,
+      "name": "San José La Arada",
+      "latitude": "14.71667000",
+      "longitude": "-89.58333000"
+    },
+    {
+      "id": 53695,
+      "name": "San Juan Ermita",
+      "latitude": "14.76471000",
+      "longitude": "-89.43014000"
+    }
+  ],
+  "country": {
+    "id": 90,
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "iso2": "GT",
+    "numeric_code": "320",
+    "phone_code": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "tld": ".gt",
+    "native": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Guatemala",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "과테말라",
+      "pt-BR": "Guatemala",
+      "pt": "Guatemala",
+      "nl": "Guatemala",
+      "hr": "Gvatemala",
+      "fa": "گواتمالا",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fr": "Guatemala",
+      "ja": "グアテマラ",
+      "it": "Guatemala",
+      "cn": "危地马拉",
+      "tr": "Guatemala"
+    },
+    "latitude": "15.50000000",
+    "longitude": "-90.25000000",
+    "emoji": "🇬🇹",
+    "emojiU": "U+1F1EC U+1F1F9"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3804,
+  "name": "Bạc Liêu",
+  "state_code": "55",
+  "latitude": "9.29400270",
+  "longitude": "105.72156630",
+  "type": null,
+  "cities": [
+    {
+      "id": 130175,
+      "name": "Bạc Liêu",
+      "latitude": "9.29414000",
+      "longitude": "105.72776000"
+    },
+    {
+      "id": 130289,
+      "name": "Huyện Giá Rai",
+      "latitude": "9.27162000",
+      "longitude": "105.40017000"
+    },
+    {
+      "id": 130318,
+      "name": "Huyện Hồng Dân",
+      "latitude": "9.53822000",
+      "longitude": "105.42242000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

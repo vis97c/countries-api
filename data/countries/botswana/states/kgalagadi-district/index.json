@@ -1,0 +1,90 @@
+{
+  "id": 3066,
+  "name": "Kgalagadi District",
+  "state_code": "KG",
+  "latitude": "-24.75502850",
+  "longitude": "21.85685860",
+  "type": null,
+  "cities": [
+    {
+      "id": 15740,
+      "name": "Hukuntsi",
+      "latitude": "-23.99880000",
+      "longitude": "21.77962000"
+    },
+    {
+      "id": 15743,
+      "name": "Kang",
+      "latitude": "-23.67518000",
+      "longitude": "22.78762000"
+    },
+    {
+      "id": 15748,
+      "name": "Lehututu",
+      "latitude": "-23.96667000",
+      "longitude": "21.86667000"
+    },
+    {
+      "id": 15759,
+      "name": "Manyana",
+      "latitude": "-23.40000000",
+      "longitude": "21.71667000"
+    },
+    {
+      "id": 15802,
+      "name": "Tshabong",
+      "latitude": "-26.05000000",
+      "longitude": "22.45000000"
+    },
+    {
+      "id": 15803,
+      "name": "Werda",
+      "latitude": "-25.26667000",
+      "longitude": "23.28333000"
+    }
+  ],
+  "country": {
+    "id": 29,
+    "name": "Botswana",
+    "iso3": "BWA",
+    "iso2": "BW",
+    "numeric_code": "072",
+    "phone_code": "267",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "native": "Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "보츠와나",
+      "pt-BR": "Botsuana",
+      "pt": "Botsuana",
+      "nl": "Botswana",
+      "hr": "Bocvana",
+      "fa": "بوتسوانا",
+      "de": "Botswana",
+      "es": "Botswana",
+      "fr": "Botswana",
+      "ja": "ボツワナ",
+      "it": "Botswana",
+      "cn": "博茨瓦纳",
+      "tr": "Botsvana"
+    },
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
+  }
+}

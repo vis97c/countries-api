@@ -1,0 +1,96 @@
+{
+  "id": 479,
+  "name": "Fatick",
+  "state_code": "FK",
+  "latitude": "14.33901670",
+  "longitude": "-16.41114250",
+  "type": null,
+  "cities": [
+    {
+      "id": 104708,
+      "name": "Diofior",
+      "latitude": "14.18333000",
+      "longitude": "-16.66667000"
+    },
+    {
+      "id": 104710,
+      "name": "Fatick Department",
+      "latitude": "14.25909000",
+      "longitude": "-16.49884000"
+    },
+    {
+      "id": 104711,
+      "name": "Foundiougne",
+      "latitude": "14.13333000",
+      "longitude": "-16.46667000"
+    },
+    {
+      "id": 104715,
+      "name": "Guinguinéo",
+      "latitude": "14.26667000",
+      "longitude": "-15.95000000"
+    },
+    {
+      "id": 104747,
+      "name": "Passi",
+      "latitude": "13.98333000",
+      "longitude": "-16.26667000"
+    },
+    {
+      "id": 104751,
+      "name": "Pourham",
+      "latitude": "14.35000000",
+      "longitude": "-16.41667000"
+    },
+    {
+      "id": 104759,
+      "name": "Sokone",
+      "latitude": "13.88333000",
+      "longitude": "-16.36667000"
+    }
+  ],
+  "country": {
+    "id": 195,
+    "name": "Senegal",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "numeric_code": "686",
+    "phone_code": "221",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "native": "Sénégal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "세네갈",
+      "pt-BR": "Senegal",
+      "pt": "Senegal",
+      "nl": "Senegal",
+      "hr": "Senegal",
+      "fa": "سنگال",
+      "de": "Senegal",
+      "es": "Senegal",
+      "fr": "Sénégal",
+      "ja": "セネガル",
+      "it": "Senegal",
+      "cn": "塞内加尔",
+      "tr": "Senegal"
+    },
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
+  }
+}

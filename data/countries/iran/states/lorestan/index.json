@@ -1,0 +1,233 @@
+{
+  "id": 3928,
+  "name": "Lorestan",
+  "state_code": "15",
+  "latitude": "33.58183940",
+  "longitude": "48.39881860",
+  "type": "province",
+  "cities": [
+    {
+      "id": 134564,
+      "name": "Aleshtar",
+      "latitude": "33.86419000",
+      "longitude": "48.26258000"
+    },
+    {
+      "id": 134567,
+      "name": "Aligudarz",
+      "latitude": "33.40400000",
+      "longitude": "49.69179000"
+    },
+    {
+      "id": 134573,
+      "name": "Azna",
+      "latitude": "33.45643000",
+      "longitude": "49.45646000"
+    },
+    {
+      "id": 150900,
+      "name": "Bayranshahr",
+      "latitude": "33.64777800",
+      "longitude": "48.55888900"
+    },
+    {
+      "id": 134591,
+      "name": "Borujerd",
+      "latitude": "33.89730000",
+      "longitude": "48.75160000"
+    },
+    {
+      "id": 150904,
+      "name": "Chalan Chulan",
+      "latitude": "33.66517450",
+      "longitude": "48.89954560"
+    },
+    {
+      "id": 150908,
+      "name": "Chaqabol",
+      "latitude": "33.28083300",
+      "longitude": "47.50888900"
+    },
+    {
+      "id": 150910,
+      "name": "Darb Gonbad",
+      "latitude": "33.68929030",
+      "longitude": "47.14619640"
+    },
+    {
+      "id": 134619,
+      "name": "Delfan",
+      "latitude": "34.05000000",
+      "longitude": "47.78333000"
+    },
+    {
+      "id": 150905,
+      "name": "Dorud",
+      "latitude": "33.49215260",
+      "longitude": "49.02520120"
+    },
+    {
+      "id": 150909,
+      "name": "Firouz Abad",
+      "latitude": "33.89859610",
+      "longitude": "48.09895990"
+    },
+    {
+      "id": 150912,
+      "name": "Garab",
+      "latitude": "33.48518270",
+      "longitude": "48.48797680"
+    },
+    {
+      "id": 150903,
+      "name": "Haft Cheshmeh",
+      "latitude": "34.20727710",
+      "longitude": "47.76102300"
+    },
+    {
+      "id": 134673,
+      "name": "Khorramabad",
+      "latitude": "33.48778000",
+      "longitude": "48.35583000"
+    },
+    {
+      "id": 134687,
+      "name": "Kuhdasht",
+      "latitude": "33.53335000",
+      "longitude": "47.60999000"
+    },
+    {
+      "id": 150911,
+      "name": "Kunani",
+      "latitude": "33.40296240",
+      "longitude": "47.31635560"
+    },
+    {
+      "id": 150899,
+      "name": "Mamulan",
+      "latitude": "33.37947580",
+      "longitude": "47.95176030"
+    },
+    {
+      "id": 150895,
+      "name": "Momen Abad",
+      "latitude": "33.58523350",
+      "longitude": "49.50169070"
+    },
+    {
+      "id": 134720,
+      "name": "Nurabad",
+      "latitude": "34.07340000",
+      "longitude": "47.97250000"
+    },
+    {
+      "id": 150897,
+      "name": "Oshtorinan",
+      "latitude": "34.01542270",
+      "longitude": "48.63428580"
+    },
+    {
+      "id": 150898,
+      "name": "Pol Dokhtar",
+      "latitude": "33.14617260",
+      "longitude": "47.70149940"
+    },
+    {
+      "id": 134728,
+      "name": "Pol-e Dokhtar",
+      "latitude": "33.16667000",
+      "longitude": "48.00000000"
+    },
+    {
+      "id": 134756,
+      "name": "Rumeshkhan County",
+      "latitude": "33.27960000",
+      "longitude": "47.48995000"
+    },
+    {
+      "id": 150906,
+      "name": "Sarab-e Dowreh",
+      "latitude": "33.56388900",
+      "longitude": "48.02222200"
+    },
+    {
+      "id": 134773,
+      "name": "Selseleh",
+      "latitude": "33.83333000",
+      "longitude": "48.16667000"
+    },
+    {
+      "id": 150902,
+      "name": "Sepid Dasht",
+      "latitude": "33.21903120",
+      "longitude": "48.88153190"
+    },
+    {
+      "id": 150896,
+      "name": "Shool Abad",
+      "latitude": "33.18481160",
+      "longitude": "49.18555500"
+    },
+    {
+      "id": 135138,
+      "name": "Vasian",
+      "latitude": "33.49083000",
+      "longitude": "48.04917000"
+    },
+    {
+      "id": 150907,
+      "name": "Veysian",
+      "latitude": "33.49083300",
+      "longitude": "48.04916700"
+    },
+    {
+      "id": 150901,
+      "name": "Zagheh",
+      "latitude": "33.49888900",
+      "longitude": "48.70861100"
+    }
+  ],
+  "country": {
+    "id": 103,
+    "name": "Iran",
+    "iso3": "IRN",
+    "iso2": "IR",
+    "numeric_code": "364",
+    "phone_code": "98",
+    "capital": "Tehran",
+    "currency": "IRR",
+    "currency_name": "Iranian rial",
+    "currency_symbol": "﷼",
+    "tld": ".ir",
+    "native": "ایران",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tehran",
+        "gmtOffset": 12600,
+        "gmtOffsetName": "UTC+03:30",
+        "abbreviation": "IRDT",
+        "tzName": "Iran Daylight Time"
+      }
+    ],
+    "translations": {
+      "kr": "이란",
+      "pt-BR": "Irã",
+      "pt": "Irão",
+      "nl": "Iran",
+      "hr": "Iran",
+      "fa": "ایران",
+      "de": "Iran",
+      "es": "Iran",
+      "fr": "Iran",
+      "ja": "イラン・イスラム共和国",
+      "cn": "伊朗",
+      "tr": "İran"
+    },
+    "latitude": "32.00000000",
+    "longitude": "53.00000000",
+    "emoji": "🇮🇷",
+    "emojiU": "U+1F1EE U+1F1F7"
+  }
+}

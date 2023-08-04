@@ -1,0 +1,84 @@
+{
+  "id": 4165,
+  "name": "Brezovica Municipality",
+  "state_code": "008",
+  "latitude": "45.95593510",
+  "longitude": "14.43499520",
+  "type": null,
+  "cities": [
+    {
+      "id": 104075,
+      "name": "Brezovica pri Ljubljani",
+      "latitude": "46.03333000",
+      "longitude": "14.40000000"
+    },
+    {
+      "id": 104205,
+      "name": "Notranje Gorice",
+      "latitude": "45.98750000",
+      "longitude": "14.39889000"
+    },
+    {
+      "id": 104214,
+      "name": "Opština Ljubljana-Vič-Rudnik",
+      "latitude": "46.03333000",
+      "longitude": "14.41667000"
+    },
+    {
+      "id": 104254,
+      "name": "Rečica ob Savinji",
+      "latitude": "46.31667000",
+      "longitude": "14.91667000"
+    },
+    {
+      "id": 104316,
+      "name": "Vnanje Gorice",
+      "latitude": "46.00722000",
+      "longitude": "14.42194000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

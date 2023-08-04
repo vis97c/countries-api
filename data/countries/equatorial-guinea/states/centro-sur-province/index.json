@@ -1,0 +1,72 @@
+{
+  "id": 3445,
+  "name": "Centro Sur Province",
+  "state_code": "CS",
+  "latitude": "1.34360840",
+  "longitude": "10.43965600",
+  "type": null,
+  "cities": [
+    {
+      "id": 52376,
+      "name": "Acurenam",
+      "latitude": "1.03225000",
+      "longitude": "10.64882000"
+    },
+    {
+      "id": 52380,
+      "name": "Bicurga",
+      "latitude": "1.58113000",
+      "longitude": "10.46716000"
+    },
+    {
+      "id": 52384,
+      "name": "Evinayong",
+      "latitude": "1.43677000",
+      "longitude": "10.55124000"
+    }
+  ],
+  "country": {
+    "id": 67,
+    "name": "Equatorial Guinea",
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "numeric_code": "226",
+    "phone_code": "240",
+    "capital": "Malabo",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".gq",
+    "native": "Guinea Ecuatorial",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "적도 기니",
+      "pt-BR": "Guiné Equatorial",
+      "pt": "Guiné Equatorial",
+      "nl": "Equatoriaal-Guinea",
+      "hr": "Ekvatorijalna Gvineja",
+      "fa": "گینه استوایی",
+      "de": "Äquatorial-Guinea",
+      "es": "Guinea Ecuatorial",
+      "fr": "Guinée-Équatoriale",
+      "ja": "赤道ギニア",
+      "it": "Guinea Equatoriale",
+      "cn": "赤道几内亚",
+      "tr": "Ekvator Ginesi"
+    },
+    "latitude": "2.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇬🇶",
+    "emojiU": "U+1F1EC U+1F1F6"
+  }
+}

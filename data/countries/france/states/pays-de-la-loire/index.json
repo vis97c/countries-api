@@ -1,0 +1,4014 @@
+{
+  "id": 4802,
+  "name": "Pays-de-la-Loire",
+  "state_code": "PDL",
+  "latitude": "47.76328360",
+  "longitude": "-0.32996870",
+  "type": "metropolitan region",
+  "cities": [
+    {
+      "id": 39234,
+      "name": "Abbaretz",
+      "latitude": "47.55314000",
+      "longitude": "-1.53200000"
+    },
+    {
+      "id": 39265,
+      "name": "Ahuillé",
+      "latitude": "48.02086000",
+      "longitude": "-0.86906000"
+    },
+    {
+      "id": 39270,
+      "name": "Aigné",
+      "latitude": "48.06471000",
+      "longitude": "0.11908000"
+    },
+    {
+      "id": 39272,
+      "name": "Aigrefeuille-sur-Maine",
+      "latitude": "47.07888000",
+      "longitude": "-1.40254000"
+    },
+    {
+      "id": 39297,
+      "name": "Aizenay",
+      "latitude": "46.74004000",
+      "longitude": "-1.60834000"
+    },
+    {
+      "id": 39330,
+      "name": "Allonnes",
+      "latitude": "47.29338000",
+      "longitude": "0.02458000"
+    },
+    {
+      "id": 39357,
+      "name": "Ambrières-les-Vallées",
+      "latitude": "48.40000000",
+      "longitude": "-0.63333000"
+    },
+    {
+      "id": 39371,
+      "name": "Ancenis",
+      "latitude": "47.36667000",
+      "longitude": "-1.16667000"
+    },
+    {
+      "id": 39378,
+      "name": "Andard",
+      "latitude": "47.45659000",
+      "longitude": "-0.39752000"
+    },
+    {
+      "id": 39386,
+      "name": "Andouillé",
+      "latitude": "48.17685000",
+      "longitude": "-0.78364000"
+    },
+    {
+      "id": 39389,
+      "name": "Andrezé",
+      "latitude": "47.17155000",
+      "longitude": "-0.95239000"
+    },
+    {
+      "id": 39395,
+      "name": "Anetz",
+      "latitude": "47.38059000",
+      "longitude": "-1.10583000"
+    },
+    {
+      "id": 39396,
+      "name": "Angers",
+      "latitude": "47.47381000",
+      "longitude": "-0.54774000"
+    },
+    {
+      "id": 39402,
+      "name": "Angles",
+      "latitude": "46.40839000",
+      "longitude": "-1.40389000"
+    },
+    {
+      "id": 39433,
+      "name": "Antigny",
+      "latitude": "46.62095000",
+      "longitude": "-0.76988000"
+    },
+    {
+      "id": 39445,
+      "name": "Apremont",
+      "latitude": "46.74850000",
+      "longitude": "-1.74075000"
+    },
+    {
+      "id": 39538,
+      "name": "Arçonnay",
+      "latitude": "48.39678000",
+      "longitude": "0.08620000"
+    },
+    {
+      "id": 39484,
+      "name": "Argentré",
+      "latitude": "48.08362000",
+      "longitude": "-0.64150000"
+    },
+    {
+      "id": 39499,
+      "name": "Arnage",
+      "latitude": "47.92616000",
+      "longitude": "0.18782000"
+    },
+    {
+      "id": 39505,
+      "name": "Aron",
+      "latitude": "48.29800000",
+      "longitude": "-0.55980000"
+    },
+    {
+      "id": 39525,
+      "name": "Arthon-en-Retz",
+      "latitude": "47.11586000",
+      "longitude": "-1.94260000"
+    },
+    {
+      "id": 39554,
+      "name": "Assérac",
+      "latitude": "47.42881000",
+      "longitude": "-2.38916000"
+    },
+    {
+      "id": 39583,
+      "name": "Aubigné-Racan",
+      "latitude": "47.69091000",
+      "longitude": "0.26870000"
+    },
+    {
+      "id": 39579,
+      "name": "Aubigny",
+      "latitude": "46.59653000",
+      "longitude": "-1.45364000"
+    },
+    {
+      "id": 39641,
+      "name": "Auvers-le-Hamon",
+      "latitude": "47.90246000",
+      "longitude": "-0.35170000"
+    },
+    {
+      "id": 39668,
+      "name": "Avessac",
+      "latitude": "47.65324000",
+      "longitude": "-1.98961000"
+    },
+    {
+      "id": 39680,
+      "name": "Avrillé",
+      "latitude": "47.50000000",
+      "longitude": "-0.58333000"
+    },
+    {
+      "id": 39697,
+      "name": "Azé",
+      "latitude": "47.82220000",
+      "longitude": "-0.68333000"
+    },
+    {
+      "id": 39739,
+      "name": "Bais",
+      "latitude": "48.25280000",
+      "longitude": "-0.36493000"
+    },
+    {
+      "id": 39754,
+      "name": "Ballon",
+      "latitude": "48.17317000",
+      "longitude": "0.23814000"
+    },
+    {
+      "id": 39755,
+      "name": "Ballots",
+      "latitude": "47.89617000",
+      "longitude": "-1.04759000"
+    },
+    {
+      "id": 39777,
+      "name": "Barbâtre",
+      "latitude": "46.94116000",
+      "longitude": "-2.17752000"
+    },
+    {
+      "id": 39771,
+      "name": "Barbechat",
+      "latitude": "47.27750000",
+      "longitude": "-1.28524000"
+    },
+    {
+      "id": 39798,
+      "name": "Basse-Goulaine",
+      "latitude": "47.21167000",
+      "longitude": "-1.46748000"
+    },
+    {
+      "id": 39807,
+      "name": "Batz-sur-Mer",
+      "latitude": "47.27750000",
+      "longitude": "-2.48027000"
+    },
+    {
+      "id": 39810,
+      "name": "Baugé-en-Anjou",
+      "latitude": "47.54447000",
+      "longitude": "-0.10653000"
+    },
+    {
+      "id": 39815,
+      "name": "Bauné",
+      "latitude": "47.49954000",
+      "longitude": "-0.31906000"
+    },
+    {
+      "id": 39833,
+      "name": "Bazoges-en-Pareds",
+      "latitude": "46.65702000",
+      "longitude": "-0.91654000"
+    },
+    {
+      "id": 39835,
+      "name": "Bazouges-sur-le-Loir",
+      "latitude": "47.68928000",
+      "longitude": "-0.16883000"
+    },
+    {
+      "id": 39842,
+      "name": "Beaucouzé",
+      "latitude": "47.47444000",
+      "longitude": "-0.63016000"
+    },
+    {
+      "id": 39845,
+      "name": "Beaufay",
+      "latitude": "48.14664000",
+      "longitude": "0.36224000"
+    },
+    {
+      "id": 39847,
+      "name": "Beaufort-en-Vallée",
+      "latitude": "47.43965000",
+      "longitude": "-0.21890000"
+    },
+    {
+      "id": 39852,
+      "name": "Beaulieu-sous-la-Roche",
+      "latitude": "46.67647000",
+      "longitude": "-1.61129000"
+    },
+    {
+      "id": 39854,
+      "name": "Beaulieu-sur-Layon",
+      "latitude": "47.31095000",
+      "longitude": "-0.58988000"
+    },
+    {
+      "id": 39873,
+      "name": "Beaumont-sur-Sarthe",
+      "latitude": "48.22772000",
+      "longitude": "0.13186000"
+    },
+    {
+      "id": 39876,
+      "name": "Beaupréau",
+      "latitude": "47.20464000",
+      "longitude": "-0.98703000"
+    },
+    {
+      "id": 39883,
+      "name": "Beaurepaire",
+      "latitude": "46.90977000",
+      "longitude": "-1.08928000"
+    },
+    {
+      "id": 39893,
+      "name": "Beauvoir-sur-Mer",
+      "latitude": "46.91274000",
+      "longitude": "-2.04156000"
+    },
+    {
+      "id": 40411,
+      "name": "Bécon-les-Granits",
+      "latitude": "47.50134000",
+      "longitude": "-0.80000000"
+    },
+    {
+      "id": 40419,
+      "name": "Bégrolles-en-Mauges",
+      "latitude": "47.14048000",
+      "longitude": "-0.94000000"
+    },
+    {
+      "id": 39926,
+      "name": "Belleville-sur-Vie",
+      "latitude": "46.78369000",
+      "longitude": "-1.42905000"
+    },
+    {
+      "id": 39929,
+      "name": "Belligné",
+      "latitude": "47.46774000",
+      "longitude": "-1.02780000"
+    },
+    {
+      "id": 39938,
+      "name": "Benet",
+      "latitude": "46.36972000",
+      "longitude": "-0.59333000"
+    },
+    {
+      "id": 39972,
+      "name": "Besné",
+      "latitude": "47.40000000",
+      "longitude": "-2.08976000"
+    },
+    {
+      "id": 39983,
+      "name": "Bessé-sur-Braye",
+      "latitude": "47.83333000",
+      "longitude": "0.75000000"
+    },
+    {
+      "id": 40046,
+      "name": "Blain",
+      "latitude": "47.47655000",
+      "longitude": "-1.76285000"
+    },
+    {
+      "id": 40051,
+      "name": "Blaison-Gohier",
+      "latitude": "47.39951000",
+      "longitude": "-0.37723000"
+    },
+    {
+      "id": 40087,
+      "name": "Bois-de-Cené",
+      "latitude": "46.93689000",
+      "longitude": "-1.88656000"
+    },
+    {
+      "id": 40110,
+      "name": "Bonchamp-lès-Laval",
+      "latitude": "48.07357000",
+      "longitude": "-0.70000000"
+    },
+    {
+      "id": 40130,
+      "name": "Bonnétable",
+      "latitude": "48.17908000",
+      "longitude": "0.42570000"
+    },
+    {
+      "id": 40148,
+      "name": "Bouaye",
+      "latitude": "47.14263000",
+      "longitude": "-1.69306000"
+    },
+    {
+      "id": 40152,
+      "name": "Bouchemaine",
+      "latitude": "47.42234000",
+      "longitude": "-0.60888000"
+    },
+    {
+      "id": 40154,
+      "name": "Boufféré",
+      "latitude": "46.96179000",
+      "longitude": "-1.33965000"
+    },
+    {
+      "id": 40156,
+      "name": "Bouguenais",
+      "latitude": "47.17762000",
+      "longitude": "-1.62143000"
+    },
+    {
+      "id": 40160,
+      "name": "Bouin",
+      "latitude": "46.97314000",
+      "longitude": "-1.99830000"
+    },
+    {
+      "id": 40175,
+      "name": "Bouloire",
+      "latitude": "47.97385000",
+      "longitude": "0.55009000"
+    },
+    {
+      "id": 40185,
+      "name": "Bourg de Joué-sur-Erdre",
+      "latitude": "47.49596000",
+      "longitude": "-1.42047000"
+    },
+    {
+      "id": 40202,
+      "name": "Bourgneuf-en-Retz",
+      "latitude": "47.04122000",
+      "longitude": "-1.95019000"
+    },
+    {
+      "id": 40209,
+      "name": "Bournezeau",
+      "latitude": "46.63714000",
+      "longitude": "-1.17107000"
+    },
+    {
+      "id": 40217,
+      "name": "Boussay",
+      "latitude": "47.04476000",
+      "longitude": "-1.18476000"
+    },
+    {
+      "id": 40230,
+      "name": "Bouvron",
+      "latitude": "47.41726000",
+      "longitude": "-1.84679000"
+    },
+    {
+      "id": 40235,
+      "name": "Bouzillé",
+      "latitude": "47.33750000",
+      "longitude": "-1.11143000"
+    },
+    {
+      "id": 40248,
+      "name": "Brain-sur-Allonnes",
+      "latitude": "47.30325000",
+      "longitude": "0.06514000"
+    },
+    {
+      "id": 40250,
+      "name": "Brains",
+      "latitude": "47.16850000",
+      "longitude": "-1.72290000"
+    },
+    {
+      "id": 40284,
+      "name": "Bretignolles-sur-Mer",
+      "latitude": "46.63333000",
+      "longitude": "-1.86667000"
+    },
+    {
+      "id": 40286,
+      "name": "Brette-les-Pins",
+      "latitude": "47.91062000",
+      "longitude": "0.33649000"
+    },
+    {
+      "id": 40364,
+      "name": "Brézé",
+      "latitude": "47.17357000",
+      "longitude": "-0.06059000"
+    },
+    {
+      "id": 40318,
+      "name": "Briollay",
+      "latitude": "47.56478000",
+      "longitude": "-0.50681000"
+    },
+    {
+      "id": 40319,
+      "name": "Brion",
+      "latitude": "47.44121000",
+      "longitude": "-0.15616000"
+    },
+    {
+      "id": 40326,
+      "name": "Brissac-Quincé",
+      "latitude": "47.35575000",
+      "longitude": "-0.44924000"
+    },
+    {
+      "id": 40366,
+      "name": "Brûlon",
+      "latitude": "47.96667000",
+      "longitude": "-0.23333000"
+    },
+    {
+      "id": 40498,
+      "name": "Campbon",
+      "latitude": "47.41310000",
+      "longitude": "-1.96857000"
+    },
+    {
+      "id": 40507,
+      "name": "Candé",
+      "latitude": "47.56158000",
+      "longitude": "-1.03619000"
+    },
+    {
+      "id": 40520,
+      "name": "Cantenay-Épinard",
+      "latitude": "47.53503000",
+      "longitude": "-0.56899000"
+    },
+    {
+      "id": 40557,
+      "name": "Carquefou",
+      "latitude": "47.29821000",
+      "longitude": "-1.49024000"
+    },
+    {
+      "id": 40572,
+      "name": "Casson",
+      "latitude": "47.38761000",
+      "longitude": "-1.55654000"
+    },
+    {
+      "id": 41394,
+      "name": "Cérans-Foulletourte",
+      "latitude": "47.82651000",
+      "longitude": "0.07724000"
+    },
+    {
+      "id": 40673,
+      "name": "Chacé",
+      "latitude": "47.21435000",
+      "longitude": "-0.07179000"
+    },
+    {
+      "id": 40677,
+      "name": "Chailland",
+      "latitude": "48.22516000",
+      "longitude": "-0.87387000"
+    },
+    {
+      "id": 40682,
+      "name": "Chaillé-les-Marais",
+      "latitude": "46.39628000",
+      "longitude": "-1.02369000"
+    },
+    {
+      "id": 40692,
+      "name": "Challans",
+      "latitude": "46.84363000",
+      "longitude": "-1.87491000"
+    },
+    {
+      "id": 40693,
+      "name": "Challes",
+      "latitude": "47.93033000",
+      "longitude": "0.41511000"
+    },
+    {
+      "id": 40699,
+      "name": "Chalonnes-sur-Loire",
+      "latitude": "47.35160000",
+      "longitude": "-0.76310000"
+    },
+    {
+      "id": 40712,
+      "name": "Chambretaud",
+      "latitude": "46.92166000",
+      "longitude": "-0.96405000"
+    },
+    {
+      "id": 40727,
+      "name": "Champagné",
+      "latitude": "48.02185000",
+      "longitude": "0.33096000"
+    },
+    {
+      "id": 40728,
+      "name": "Champagné-les-Marais",
+      "latitude": "46.38081000",
+      "longitude": "-1.12112000"
+    },
+    {
+      "id": 40735,
+      "name": "Champfleur",
+      "latitude": "48.38668000",
+      "longitude": "0.12942000"
+    },
+    {
+      "id": 40743,
+      "name": "Champigné",
+      "latitude": "47.66332000",
+      "longitude": "-0.57160000"
+    },
+    {
+      "id": 40753,
+      "name": "Champtocé-sur-Loire",
+      "latitude": "47.41239000",
+      "longitude": "-0.86452000"
+    },
+    {
+      "id": 40752,
+      "name": "Champtoceaux",
+      "latitude": "47.33476000",
+      "longitude": "-1.26131000"
+    },
+    {
+      "id": 40763,
+      "name": "Changé",
+      "latitude": "48.09918000",
+      "longitude": "-0.79292000"
+    },
+    {
+      "id": 40776,
+      "name": "Chantonnay",
+      "latitude": "46.68702000",
+      "longitude": "-1.05024000"
+    },
+    {
+      "id": 40948,
+      "name": "Château-d’Olonne",
+      "latitude": "46.50382000",
+      "longitude": "-1.74097000"
+    },
+    {
+      "id": 40947,
+      "name": "Château-du-Loir",
+      "latitude": "47.69492000",
+      "longitude": "0.41851000"
+    },
+    {
+      "id": 40939,
+      "name": "Château-Gontier",
+      "latitude": "47.82872000",
+      "longitude": "-0.70265000"
+    },
+    {
+      "id": 40940,
+      "name": "Château-Guibert",
+      "latitude": "46.58110000",
+      "longitude": "-1.23656000"
+    },
+    {
+      "id": 40952,
+      "name": "Châteaubriant",
+      "latitude": "47.71712000",
+      "longitude": "-1.37624000"
+    },
+    {
+      "id": 40975,
+      "name": "Châteauneuf-sur-Sarthe",
+      "latitude": "47.68145000",
+      "longitude": "-0.48652000"
+    },
+    {
+      "id": 40834,
+      "name": "Chauché",
+      "latitude": "46.82963000",
+      "longitude": "-1.27178000"
+    },
+    {
+      "id": 40838,
+      "name": "Chaudron-en-Mauges",
+      "latitude": "47.28809000",
+      "longitude": "-0.98547000"
+    },
+    {
+      "id": 40854,
+      "name": "Chauvé",
+      "latitude": "47.15174000",
+      "longitude": "-1.98489000"
+    },
+    {
+      "id": 40856,
+      "name": "Chavagnes-en-Paillers",
+      "latitude": "46.89167000",
+      "longitude": "-1.25214000"
+    },
+    {
+      "id": 40871,
+      "name": "Chemazé",
+      "latitude": "47.78690000",
+      "longitude": "-0.77523000"
+    },
+    {
+      "id": 41011,
+      "name": "Chéméré",
+      "latitude": "47.11667000",
+      "longitude": "-1.91667000"
+    },
+    {
+      "id": 40872,
+      "name": "Chemillé-Melay",
+      "latitude": "47.21476000",
+      "longitude": "-0.72488000"
+    },
+    {
+      "id": 41018,
+      "name": "Chênehutte-Trèves-Cunault",
+      "latitude": "47.31084000",
+      "longitude": "-0.16042000"
+    },
+    {
+      "id": 40885,
+      "name": "Cherré",
+      "latitude": "48.17290000",
+      "longitude": "0.65781000"
+    },
+    {
+      "id": 40924,
+      "name": "Cholet",
+      "latitude": "47.05905000",
+      "longitude": "-0.87953000"
+    },
+    {
+      "id": 41048,
+      "name": "Clermont-Créans",
+      "latitude": "47.71831000",
+      "longitude": "-0.01459000"
+    },
+    {
+      "id": 41056,
+      "name": "Clisson",
+      "latitude": "47.08714000",
+      "longitude": "-1.28286000"
+    },
+    {
+      "id": 41293,
+      "name": "Coëx",
+      "latitude": "46.69808000",
+      "longitude": "-1.75956000"
+    },
+    {
+      "id": 41114,
+      "name": "Combrée",
+      "latitude": "47.70446000",
+      "longitude": "-1.03003000"
+    },
+    {
+      "id": 41119,
+      "name": "Commequiers",
+      "latitude": "46.76049000",
+      "longitude": "-1.83901000"
+    },
+    {
+      "id": 41120,
+      "name": "Commer",
+      "latitude": "48.23333000",
+      "longitude": "-0.61667000"
+    },
+    {
+      "id": 41146,
+      "name": "Congrier",
+      "latitude": "47.80989000",
+      "longitude": "-1.11700000"
+    },
+    {
+      "id": 41148,
+      "name": "Conlie",
+      "latitude": "48.12334000",
+      "longitude": "-0.01739000"
+    },
+    {
+      "id": 41151,
+      "name": "Connerré",
+      "latitude": "48.05698000",
+      "longitude": "0.49344000"
+    },
+    {
+      "id": 41152,
+      "name": "Conquereuil",
+      "latitude": "47.62524000",
+      "longitude": "-1.75105000"
+    },
+    {
+      "id": 41172,
+      "name": "Corcoué-sur-Logne",
+      "latitude": "46.96667000",
+      "longitude": "-1.58333000"
+    },
+    {
+      "id": 41173,
+      "name": "Cordemais",
+      "latitude": "47.29107000",
+      "longitude": "-1.87869000"
+    },
+    {
+      "id": 41197,
+      "name": "Corné",
+      "latitude": "47.47091000",
+      "longitude": "-0.34992000"
+    },
+    {
+      "id": 41198,
+      "name": "Coron",
+      "latitude": "47.12726000",
+      "longitude": "-0.64512000"
+    },
+    {
+      "id": 41203,
+      "name": "Corsept",
+      "latitude": "47.27703000",
+      "longitude": "-2.05904000"
+    },
+    {
+      "id": 41206,
+      "name": "Corzé",
+      "latitude": "47.55956000",
+      "longitude": "-0.39062000"
+    },
+    {
+      "id": 41210,
+      "name": "Cossé-le-Vivien",
+      "latitude": "47.94599000",
+      "longitude": "-0.91185000"
+    },
+    {
+      "id": 41288,
+      "name": "Couëron",
+      "latitude": "47.21508000",
+      "longitude": "-1.72171000"
+    },
+    {
+      "id": 41223,
+      "name": "Couffé",
+      "latitude": "47.39120000",
+      "longitude": "-1.29321000"
+    },
+    {
+      "id": 41228,
+      "name": "Coulaines",
+      "latitude": "48.02409000",
+      "longitude": "0.20411000"
+    },
+    {
+      "id": 41230,
+      "name": "Coulans-sur-Gée",
+      "latitude": "48.02070000",
+      "longitude": "0.00974000"
+    },
+    {
+      "id": 41248,
+      "name": "Courcité",
+      "latitude": "48.30633000",
+      "longitude": "-0.24961000"
+    },
+    {
+      "id": 41298,
+      "name": "Craon",
+      "latitude": "47.84687000",
+      "longitude": "-0.94929000"
+    },
+    {
+      "id": 41328,
+      "name": "Crossac",
+      "latitude": "47.41119000",
+      "longitude": "-2.16952000"
+    },
+    {
+      "id": 41362,
+      "name": "Cugand",
+      "latitude": "47.06318000",
+      "longitude": "-1.25270000"
+    },
+    {
+      "id": 41440,
+      "name": "Daumeray",
+      "latitude": "47.70070000",
+      "longitude": "-0.36119000"
+    },
+    {
+      "id": 41453,
+      "name": "Denée",
+      "latitude": "47.37885000",
+      "longitude": "-0.60816000"
+    },
+    {
+      "id": 41633,
+      "name": "Département de la Vendée",
+      "latitude": "46.64169000",
+      "longitude": "-1.30407000"
+    },
+    {
+      "id": 41606,
+      "name": "Département de Maine-et-Loire",
+      "latitude": "47.50000000",
+      "longitude": "-0.33333000"
+    },
+    {
+      "id": 41454,
+      "name": "Derval",
+      "latitude": "47.66724000",
+      "longitude": "-1.66990000"
+    },
+    {
+      "id": 41494,
+      "name": "Distré",
+      "latitude": "47.22281000",
+      "longitude": "-0.11071000"
+    },
+    {
+      "id": 41505,
+      "name": "Dollon",
+      "latitude": "48.03879000",
+      "longitude": "0.58686000"
+    },
+    {
+      "id": 41525,
+      "name": "Dompierre-sur-Yon",
+      "latitude": "46.73857000",
+      "longitude": "-1.38463000"
+    },
+    {
+      "id": 41531,
+      "name": "Donges",
+      "latitude": "47.31824000",
+      "longitude": "-2.07538000"
+    },
+    {
+      "id": 41562,
+      "name": "Doué-la-Fontaine",
+      "latitude": "47.19372000",
+      "longitude": "-0.27492000"
+    },
+    {
+      "id": 41567,
+      "name": "Drain",
+      "latitude": "47.33655000",
+      "longitude": "-1.20773000"
+    },
+    {
+      "id": 41571,
+      "name": "Drefféac",
+      "latitude": "47.47464000",
+      "longitude": "-2.05774000"
+    },
+    {
+      "id": 41596,
+      "name": "Durtal",
+      "latitude": "47.67247000",
+      "longitude": "-0.23393000"
+    },
+    {
+      "id": 48045,
+      "name": "Écommoy",
+      "latitude": "47.82565000",
+      "longitude": "0.27422000"
+    },
+    {
+      "id": 48048,
+      "name": "Écouflant",
+      "latitude": "47.53101000",
+      "longitude": "-0.52780000"
+    },
+    {
+      "id": 41679,
+      "name": "Entrammes",
+      "latitude": "47.99759000",
+      "longitude": "-0.71399000"
+    },
+    {
+      "id": 41689,
+      "name": "Erbray",
+      "latitude": "47.65492000",
+      "longitude": "-1.31783000"
+    },
+    {
+      "id": 41698,
+      "name": "Ernée",
+      "latitude": "48.29764000",
+      "longitude": "-0.93143000"
+    },
+    {
+      "id": 48105,
+      "name": "Étival-lès-le-Mans",
+      "latitude": "47.95000000",
+      "longitude": "0.08333000"
+    },
+    {
+      "id": 48112,
+      "name": "Étriché",
+      "latitude": "47.65087000",
+      "longitude": "-0.44377000"
+    },
+    {
+      "id": 48124,
+      "name": "Évron",
+      "latitude": "48.15642000",
+      "longitude": "-0.39970000"
+    },
+    {
+      "id": 41768,
+      "name": "Falleron",
+      "latitude": "46.88160000",
+      "longitude": "-1.70208000"
+    },
+    {
+      "id": 41788,
+      "name": "Fay-de-Bretagne",
+      "latitude": "47.41453000",
+      "longitude": "-1.79155000"
+    },
+    {
+      "id": 42001,
+      "name": "Fégréac",
+      "latitude": "47.58476000",
+      "longitude": "-2.04410000"
+    },
+    {
+      "id": 41798,
+      "name": "Feneu",
+      "latitude": "47.57211000",
+      "longitude": "-0.59422000"
+    },
+    {
+      "id": 41821,
+      "name": "Fillé",
+      "latitude": "47.90011000",
+      "longitude": "0.12543000"
+    },
+    {
+      "id": 41898,
+      "name": "Fontenay-le-Comte",
+      "latitude": "46.46720000",
+      "longitude": "-0.80645000"
+    },
+    {
+      "id": 41905,
+      "name": "Fontevraud-l'Abbaye",
+      "latitude": "47.18333000",
+      "longitude": "0.05000000"
+    },
+    {
+      "id": 41926,
+      "name": "Fougerolles-du-Plessis",
+      "latitude": "48.47424000",
+      "longitude": "-0.97255000"
+    },
+    {
+      "id": 41940,
+      "name": "Foussais-Payré",
+      "latitude": "46.53333000",
+      "longitude": "-0.68333000"
+    },
+    {
+      "id": 41954,
+      "name": "Freigné",
+      "latitude": "47.54858000",
+      "longitude": "-1.12274000"
+    },
+    {
+      "id": 41957,
+      "name": "Fresnay-sur-Sarthe",
+      "latitude": "48.28199000",
+      "longitude": "0.02288000"
+    },
+    {
+      "id": 41969,
+      "name": "Froidfond",
+      "latitude": "46.86898000",
+      "longitude": "-1.75740000"
+    },
+    {
+      "id": 41978,
+      "name": "Frossay",
+      "latitude": "47.24451000",
+      "longitude": "-1.93557000"
+    },
+    {
+      "id": 42064,
+      "name": "Geneston",
+      "latitude": "47.05639000",
+      "longitude": "-1.51139000"
+    },
+    {
+      "id": 42067,
+      "name": "Gennes",
+      "latitude": "47.34010000",
+      "longitude": "-0.23149000"
+    },
+    {
+      "id": 42080,
+      "name": "Gesté",
+      "latitude": "47.18179000",
+      "longitude": "-1.10917000"
+    },
+    {
+      "id": 42300,
+      "name": "Gétigné",
+      "latitude": "47.07650000",
+      "longitude": "-1.24810000"
+    },
+    {
+      "id": 42109,
+      "name": "Givrand",
+      "latitude": "46.67083000",
+      "longitude": "-1.88612000"
+    },
+    {
+      "id": 42137,
+      "name": "Gorges",
+      "latitude": "47.09917000",
+      "longitude": "-1.30024000"
+    },
+    {
+      "id": 42138,
+      "name": "Gorron",
+      "latitude": "48.41095000",
+      "longitude": "-0.81267000"
+    },
+    {
+      "id": 42203,
+      "name": "Grez-Neuville",
+      "latitude": "47.60288000",
+      "longitude": "-0.68193000"
+    },
+    {
+      "id": 42225,
+      "name": "Grosbreuil",
+      "latitude": "46.53946000",
+      "longitude": "-1.61655000"
+    },
+    {
+      "id": 42277,
+      "name": "Guécélard",
+      "latitude": "47.87751000",
+      "longitude": "0.12930000"
+    },
+    {
+      "id": 42280,
+      "name": "Guémené-Penfao",
+      "latitude": "47.63333000",
+      "longitude": "-1.83333000"
+    },
+    {
+      "id": 42241,
+      "name": "Guenrouet",
+      "latitude": "47.51881000",
+      "longitude": "-1.95381000"
+    },
+    {
+      "id": 42284,
+      "name": "Guérande",
+      "latitude": "47.32911000",
+      "longitude": "-2.42829000"
+    },
+    {
+      "id": 42342,
+      "name": "Haute-Goulaine",
+      "latitude": "47.19905000",
+      "longitude": "-1.42941000"
+    },
+    {
+      "id": 42373,
+      "name": "Herbignac",
+      "latitude": "47.44822000",
+      "longitude": "-2.31810000"
+    },
+    {
+      "id": 42456,
+      "name": "Héric",
+      "latitude": "47.41417000",
+      "longitude": "-1.65309000"
+    },
+    {
+      "id": 42486,
+      "name": "Indre",
+      "latitude": "47.20000000",
+      "longitude": "-1.66667000"
+    },
+    {
+      "id": 42488,
+      "name": "Ingrandes",
+      "latitude": "47.40500000",
+      "longitude": "-0.92336000"
+    },
+    {
+      "id": 42509,
+      "name": "Issé",
+      "latitude": "47.62419000",
+      "longitude": "-1.45152000"
+    },
+    {
+      "id": 42524,
+      "name": "Jallais",
+      "latitude": "47.19691000",
+      "longitude": "-0.86738000"
+    },
+    {
+      "id": 42526,
+      "name": "Jans",
+      "latitude": "47.62029000",
+      "longitude": "-1.61438000"
+    },
+    {
+      "id": 42530,
+      "name": "Jard-sur-Mer",
+      "latitude": "46.41451000",
+      "longitude": "-1.57639000"
+    },
+    {
+      "id": 42537,
+      "name": "Jarzé",
+      "latitude": "47.55563000",
+      "longitude": "-0.23183000"
+    },
+    {
+      "id": 42545,
+      "name": "Javron-les-Chapelles",
+      "latitude": "48.41797000",
+      "longitude": "-0.33742000"
+    },
+    {
+      "id": 42582,
+      "name": "Juigné",
+      "latitude": "47.71878000",
+      "longitude": "-0.39405000"
+    },
+    {
+      "id": 42583,
+      "name": "Juigné-sur-Loire",
+      "latitude": "47.40741000",
+      "longitude": "-0.47682000"
+    },
+    {
+      "id": 42584,
+      "name": "Juigné-sur-Sarthe",
+      "latitude": "47.86499000",
+      "longitude": "-0.28624000"
+    },
+    {
+      "id": 42590,
+      "name": "Jumelles",
+      "latitude": "47.43511000",
+      "longitude": "-0.10370000"
+    },
+    {
+      "id": 42600,
+      "name": "Juvigné",
+      "latitude": "48.22891000",
+      "longitude": "-1.03408000"
+    },
+    {
+      "id": 42630,
+      "name": "La Baconnière",
+      "latitude": "48.18012000",
+      "longitude": "-0.89202000"
+    },
+    {
+      "id": 42633,
+      "name": "La Barre-de-Monts",
+      "latitude": "46.88059000",
+      "longitude": "-2.12168000"
+    },
+    {
+      "id": 42637,
+      "name": "La Baule-Escoublac",
+      "latitude": "47.29221000",
+      "longitude": "-2.36395000"
+    },
+    {
+      "id": 42639,
+      "name": "La Bazoge",
+      "latitude": "48.09689000",
+      "longitude": "0.15534000"
+    },
+    {
+      "id": 42640,
+      "name": "La Bernardière",
+      "latitude": "47.04952000",
+      "longitude": "-1.26587000"
+    },
+    {
+      "id": 42641,
+      "name": "La Bernerie-en-Retz",
+      "latitude": "47.08040000",
+      "longitude": "-2.03642000"
+    },
+    {
+      "id": 42644,
+      "name": "La Bohalle",
+      "latitude": "47.42095000",
+      "longitude": "-0.39723000"
+    },
+    {
+      "id": 42646,
+      "name": "La Boissière-de-Montaigu",
+      "latitude": "46.95012000",
+      "longitude": "-1.19047000"
+    },
+    {
+      "id": 42647,
+      "name": "La Boissière-des-Landes",
+      "latitude": "46.56398000",
+      "longitude": "-1.46172000"
+    },
+    {
+      "id": 42656,
+      "name": "La Bruffière",
+      "latitude": "47.01492000",
+      "longitude": "-1.19730000"
+    },
+    {
+      "id": 42675,
+      "name": "La Chaize-le-Vicomte",
+      "latitude": "46.67166000",
+      "longitude": "-1.29084000"
+    },
+    {
+      "id": 42677,
+      "name": "La Chapelle-Achard",
+      "latitude": "46.58862000",
+      "longitude": "-1.64757000"
+    },
+    {
+      "id": 42678,
+      "name": "La Chapelle-Basse-Mer",
+      "latitude": "47.27086000",
+      "longitude": "-1.33913000"
+    },
+    {
+      "id": 42694,
+      "name": "La Chapelle-des-Marais",
+      "latitude": "47.44845000",
+      "longitude": "-2.23834000"
+    },
+    {
+      "id": 42695,
+      "name": "La Chapelle-du-Genêt",
+      "latitude": "47.18203000",
+      "longitude": "-1.01857000"
+    },
+    {
+      "id": 42680,
+      "name": "La Chapelle-Heulin",
+      "latitude": "47.17667000",
+      "longitude": "-1.34000000"
+    },
+    {
+      "id": 42682,
+      "name": "La Chapelle-Launay",
+      "latitude": "47.37226000",
+      "longitude": "-1.97071000"
+    },
+    {
+      "id": 42684,
+      "name": "La Chapelle-Saint-Aubin",
+      "latitude": "48.03595000",
+      "longitude": "0.15624000"
+    },
+    {
+      "id": 42685,
+      "name": "La Chapelle-Saint-Florent",
+      "latitude": "47.33393000",
+      "longitude": "-1.05631000"
+    },
+    {
+      "id": 42700,
+      "name": "La Chapelle-sur-Erdre",
+      "latitude": "47.29583000",
+      "longitude": "-1.55309000"
+    },
+    {
+      "id": 42703,
+      "name": "La Chartre-sur-le-Loir",
+      "latitude": "47.73117000",
+      "longitude": "0.56852000"
+    },
+    {
+      "id": 42706,
+      "name": "La Châtaigneraie",
+      "latitude": "46.64786000",
+      "longitude": "-0.73916000"
+    },
+    {
+      "id": 42705,
+      "name": "La Chevrolière",
+      "latitude": "47.09124000",
+      "longitude": "-1.60973000"
+    },
+    {
+      "id": 42727,
+      "name": "La Daguenière",
+      "latitude": "47.41934000",
+      "longitude": "-0.43128000"
+    },
+    {
+      "id": 42734,
+      "name": "La Ferrière",
+      "latitude": "46.71453000",
+      "longitude": "-1.31417000"
+    },
+    {
+      "id": 42737,
+      "name": "La Ferté-Bernard",
+      "latitude": "48.18633000",
+      "longitude": "0.65357000"
+    },
+    {
+      "id": 42748,
+      "name": "La Flèche",
+      "latitude": "47.69815000",
+      "longitude": "-0.07553000"
+    },
+    {
+      "id": 42746,
+      "name": "La Flocellière",
+      "latitude": "46.83202000",
+      "longitude": "-0.86215000"
+    },
+    {
+      "id": 42765,
+      "name": "La Garnache",
+      "latitude": "46.89176000",
+      "longitude": "-1.83163000"
+    },
+    {
+      "id": 42766,
+      "name": "La Gaubretière",
+      "latitude": "46.94143000",
+      "longitude": "-1.06215000"
+    },
+    {
+      "id": 42778,
+      "name": "La Génétouze",
+      "latitude": "46.73333000",
+      "longitude": "-1.51667000"
+    },
+    {
+      "id": 42774,
+      "name": "La Grigonnais",
+      "latitude": "47.52724000",
+      "longitude": "-1.66781000"
+    },
+    {
+      "id": 42777,
+      "name": "La Guérinière",
+      "latitude": "46.96667000",
+      "longitude": "-2.23333000"
+    },
+    {
+      "id": 42776,
+      "name": "La Guyonnière",
+      "latitude": "46.96476000",
+      "longitude": "-1.25059000"
+    },
+    {
+      "id": 42779,
+      "name": "La Haie-Fouassière",
+      "latitude": "47.15492000",
+      "longitude": "-1.39794000"
+    },
+    {
+      "id": 42787,
+      "name": "La Jubaudière",
+      "latitude": "47.17202000",
+      "longitude": "-0.89215000"
+    },
+    {
+      "id": 42788,
+      "name": "La Jumellière",
+      "latitude": "47.27976000",
+      "longitude": "-0.72952000"
+    },
+    {
+      "id": 42791,
+      "name": "La Limouzinière",
+      "latitude": "46.99274000",
+      "longitude": "-1.59722000"
+    },
+    {
+      "id": 42801,
+      "name": "La Meignanne",
+      "latitude": "47.51700000",
+      "longitude": "-0.66861000"
+    },
+    {
+      "id": 42802,
+      "name": "La Meilleraie-Tillay",
+      "latitude": "46.74059000",
+      "longitude": "-0.84500000"
+    },
+    {
+      "id": 42803,
+      "name": "La Meilleraye-de-Bretagne",
+      "latitude": "47.55941000",
+      "longitude": "-1.40200000"
+    },
+    {
+      "id": 42805,
+      "name": "La Membrolle-sur-Longuenée",
+      "latitude": "47.55991000",
+      "longitude": "-0.67236000"
+    },
+    {
+      "id": 42822,
+      "name": "La Ménitré",
+      "latitude": "47.40000000",
+      "longitude": "-0.26667000"
+    },
+    {
+      "id": 42806,
+      "name": "La Milesse",
+      "latitude": "48.06314000",
+      "longitude": "0.13428000"
+    },
+    {
+      "id": 42809,
+      "name": "La Montagne",
+      "latitude": "47.18651000",
+      "longitude": "-1.68272000"
+    },
+    {
+      "id": 42810,
+      "name": "La Mothe-Achard",
+      "latitude": "46.61586000",
+      "longitude": "-1.65938000"
+    },
+    {
+      "id": 42831,
+      "name": "La Plaine-sur-Mer",
+      "latitude": "47.13619000",
+      "longitude": "-2.19182000"
+    },
+    {
+      "id": 42832,
+      "name": "La Planche",
+      "latitude": "47.01619000",
+      "longitude": "-1.43159000"
+    },
+    {
+      "id": 42835,
+      "name": "La Pommeraie-sur-Sèvre",
+      "latitude": "46.83535000",
+      "longitude": "-0.77785000"
+    },
+    {
+      "id": 42836,
+      "name": "La Pommeraye",
+      "latitude": "47.35562000",
+      "longitude": "-0.85892000"
+    },
+    {
+      "id": 42837,
+      "name": "La Possonnière",
+      "latitude": "47.37485000",
+      "longitude": "-0.68539000"
+    },
+    {
+      "id": 42838,
+      "name": "La Pouëze",
+      "latitude": "47.55357000",
+      "longitude": "-0.80928000"
+    },
+    {
+      "id": 42842,
+      "name": "La Regrippière",
+      "latitude": "47.18167000",
+      "longitude": "-1.17620000"
+    },
+    {
+      "id": 42843,
+      "name": "La Remaudière",
+      "latitude": "47.23762000",
+      "longitude": "-1.24358000"
+    },
+    {
+      "id": 42859,
+      "name": "La Roche-sur-Yon",
+      "latitude": "46.66667000",
+      "longitude": "-1.43333000"
+    },
+    {
+      "id": 42864,
+      "name": "La Romagne",
+      "latitude": "47.06119000",
+      "longitude": "-1.02000000"
+    },
+    {
+      "id": 42870,
+      "name": "La Salle-et-Chapelle-Aubry",
+      "latitude": "47.25013000",
+      "longitude": "-0.97512000"
+    },
+    {
+      "id": 42882,
+      "name": "La Séguinière",
+      "latitude": "47.06357000",
+      "longitude": "-0.93857000"
+    },
+    {
+      "id": 42880,
+      "name": "La Suze-sur-Sarthe",
+      "latitude": "47.88753000",
+      "longitude": "0.02519000"
+    },
+    {
+      "id": 42884,
+      "name": "La Tardière",
+      "latitude": "46.66096000",
+      "longitude": "-0.73143000"
+    },
+    {
+      "id": 42886,
+      "name": "La Tessoualle",
+      "latitude": "47.00476000",
+      "longitude": "-0.85119000"
+    },
+    {
+      "id": 42895,
+      "name": "La Tourlandry",
+      "latitude": "47.14375000",
+      "longitude": "-0.69688000"
+    },
+    {
+      "id": 42896,
+      "name": "La Tranche-sur-Mer",
+      "latitude": "46.34300000",
+      "longitude": "-1.43700000"
+    },
+    {
+      "id": 42901,
+      "name": "La Turballe",
+      "latitude": "47.34686000",
+      "longitude": "-2.50734000"
+    },
+    {
+      "id": 42906,
+      "name": "La Varenne",
+      "latitude": "47.31107000",
+      "longitude": "-1.31976000"
+    },
+    {
+      "id": 42909,
+      "name": "La Verrie",
+      "latitude": "46.96131000",
+      "longitude": "-0.99596000"
+    },
+    {
+      "id": 42968,
+      "name": "Laigné-en-Belin",
+      "latitude": "47.87706000",
+      "longitude": "0.22795000"
+    },
+    {
+      "id": 43002,
+      "name": "Landemont",
+      "latitude": "47.26536000",
+      "longitude": "-1.23989000"
+    },
+    {
+      "id": 43004,
+      "name": "Landeronde",
+      "latitude": "46.65722000",
+      "longitude": "-1.56953000"
+    },
+    {
+      "id": 43008,
+      "name": "Landivy",
+      "latitude": "48.47868000",
+      "longitude": "-1.03320000"
+    },
+    {
+      "id": 43067,
+      "name": "Larchamp",
+      "latitude": "48.36131000",
+      "longitude": "-0.99900000"
+    },
+    {
+      "id": 43085,
+      "name": "Lassay-les-Châteaux",
+      "latitude": "48.43835000",
+      "longitude": "-0.49758000"
+    },
+    {
+      "id": 43107,
+      "name": "Laval",
+      "latitude": "48.07320000",
+      "longitude": "-0.76340000"
+    },
+    {
+      "id": 43129,
+      "name": "Le Bignon",
+      "latitude": "47.09722000",
+      "longitude": "-1.49167000"
+    },
+    {
+      "id": 43136,
+      "name": "Le Boupère",
+      "latitude": "46.79595000",
+      "longitude": "-0.92654000"
+    },
+    {
+      "id": 43140,
+      "name": "Le Bourgneuf-la-Forêt",
+      "latitude": "48.16325000",
+      "longitude": "-0.96963000"
+    },
+    {
+      "id": 43143,
+      "name": "Le Breil-sur-Mérize",
+      "latitude": "48.00755000",
+      "longitude": "0.47808000"
+    },
+    {
+      "id": 43158,
+      "name": "Le Cellier",
+      "latitude": "47.31988000",
+      "longitude": "-1.34584000"
+    },
+    {
+      "id": 43162,
+      "name": "Le Champ-Saint-Père",
+      "latitude": "46.50773000",
+      "longitude": "-1.34726000"
+    },
+    {
+      "id": 43176,
+      "name": "Le Croisic",
+      "latitude": "47.29189000",
+      "longitude": "-2.51380000"
+    },
+    {
+      "id": 43186,
+      "name": "Le Fenouiller",
+      "latitude": "46.71901000",
+      "longitude": "-1.90175000"
+    },
+    {
+      "id": 43187,
+      "name": "Le Fief-Sauvin",
+      "latitude": "47.22143000",
+      "longitude": "-1.04214000"
+    },
+    {
+      "id": 43191,
+      "name": "Le Fuilet",
+      "latitude": "47.28345000",
+      "longitude": "-1.11310000"
+    },
+    {
+      "id": 43203,
+      "name": "Le Gâvre",
+      "latitude": "47.52131000",
+      "longitude": "-1.74905000"
+    },
+    {
+      "id": 43197,
+      "name": "Le Grand-Lucé",
+      "latitude": "47.86618000",
+      "longitude": "0.46919000"
+    },
+    {
+      "id": 43209,
+      "name": "Le Landreau",
+      "latitude": "47.20512000",
+      "longitude": "-1.30452000"
+    },
+    {
+      "id": 43210,
+      "name": "Le Langon",
+      "latitude": "46.43850000",
+      "longitude": "-0.94767000"
+    },
+    {
+      "id": 43213,
+      "name": "Le Longeron",
+      "latitude": "47.01845000",
+      "longitude": "-1.05763000"
+    },
+    {
+      "id": 43214,
+      "name": "Le Loroux-Bottereau",
+      "latitude": "47.23763000",
+      "longitude": "-1.34952000"
+    },
+    {
+      "id": 43215,
+      "name": "Le Louroux-Béconnais",
+      "latitude": "47.52211000",
+      "longitude": "-0.88663000"
+    },
+    {
+      "id": 43216,
+      "name": "Le Luart",
+      "latitude": "48.07053000",
+      "longitude": "0.58564000"
+    },
+    {
+      "id": 43218,
+      "name": "Le Lude",
+      "latitude": "47.64648000",
+      "longitude": "0.15664000"
+    },
+    {
+      "id": 43221,
+      "name": "Le Mans",
+      "latitude": "48.00039000",
+      "longitude": "0.20471000"
+    },
+    {
+      "id": 43223,
+      "name": "Le May-sur-Èvre",
+      "latitude": "47.13714000",
+      "longitude": "-0.89227000"
+    },
+    {
+      "id": 43229,
+      "name": "Le Mesnil-en-Vallée",
+      "latitude": "47.36551000",
+      "longitude": "-0.93485000"
+    },
+    {
+      "id": 43245,
+      "name": "Le Pallet",
+      "latitude": "47.13809000",
+      "longitude": "-1.33476000"
+    },
+    {
+      "id": 43248,
+      "name": "Le Pellerin",
+      "latitude": "47.19915000",
+      "longitude": "-1.75514000"
+    },
+    {
+      "id": 43251,
+      "name": "Le Perrier",
+      "latitude": "46.81932000",
+      "longitude": "-1.99306000"
+    },
+    {
+      "id": 43260,
+      "name": "Le Pin-en-Mauges",
+      "latitude": "47.25357000",
+      "longitude": "-0.89917000"
+    },
+    {
+      "id": 43266,
+      "name": "Le Plessis-Grammoire",
+      "latitude": "47.49884000",
+      "longitude": "-0.43021000"
+    },
+    {
+      "id": 43267,
+      "name": "Le Plessis-Macé",
+      "latitude": "47.54304000",
+      "longitude": "-0.67436000"
+    },
+    {
+      "id": 43272,
+      "name": "Le Poiré-sur-Vie",
+      "latitude": "46.76921000",
+      "longitude": "-1.50938000"
+    },
+    {
+      "id": 43281,
+      "name": "Le Pouliguen",
+      "latitude": "47.26973000",
+      "longitude": "-2.42780000"
+    },
+    {
+      "id": 43285,
+      "name": "Le Puy-Notre-Dame",
+      "latitude": "47.12551000",
+      "longitude": "-0.23572000"
+    },
+    {
+      "id": 43309,
+      "name": "Le Temple-de-Bretagne",
+      "latitude": "47.32737000",
+      "longitude": "-1.78904000"
+    },
+    {
+      "id": 43332,
+      "name": "Le Vieil-Baugé",
+      "latitude": "47.53193000",
+      "longitude": "-0.11888000"
+    },
+    {
+      "id": 43344,
+      "name": "Legé",
+      "latitude": "46.88484000",
+      "longitude": "-1.60127000"
+    },
+    {
+      "id": 43372,
+      "name": "Les Brouzils",
+      "latitude": "46.88571000",
+      "longitude": "-1.32095000"
+    },
+    {
+      "id": 43379,
+      "name": "Les Clouzeaux",
+      "latitude": "46.62881000",
+      "longitude": "-1.50947000"
+    },
+    {
+      "id": 43384,
+      "name": "Les Epesses",
+      "latitude": "46.88333000",
+      "longitude": "-0.90000000"
+    },
+    {
+      "id": 43385,
+      "name": "Les Essarts",
+      "latitude": "46.77440000",
+      "longitude": "-1.22834000"
+    },
+    {
+      "id": 43395,
+      "name": "Les Herbiers",
+      "latitude": "46.86667000",
+      "longitude": "-1.01667000"
+    },
+    {
+      "id": 43397,
+      "name": "Les Landes-Genusson",
+      "latitude": "46.96667000",
+      "longitude": "-1.11667000"
+    },
+    {
+      "id": 43402,
+      "name": "Les Lucs-sur-Boulogne",
+      "latitude": "46.84478000",
+      "longitude": "-1.49445000"
+    },
+    {
+      "id": 43404,
+      "name": "Les Magnils-Reigniers",
+      "latitude": "46.48333000",
+      "longitude": "-1.21667000"
+    },
+    {
+      "id": 43411,
+      "name": "Les Moutiers-en-Retz",
+      "latitude": "47.06375000",
+      "longitude": "-1.99900000"
+    },
+    {
+      "id": 43422,
+      "name": "Les Ponts-de-Cé",
+      "latitude": "47.42315000",
+      "longitude": "-0.52477000"
+    },
+    {
+      "id": 43425,
+      "name": "Les Rosiers-sur-Loire",
+      "latitude": "47.35000000",
+      "longitude": "-0.21667000"
+    },
+    {
+      "id": 43427,
+      "name": "Les Sables-d’Olonne",
+      "latitude": "46.49645000",
+      "longitude": "-1.78472000"
+    },
+    {
+      "id": 43429,
+      "name": "Les Sorinières",
+      "latitude": "47.14831000",
+      "longitude": "-1.52932000"
+    },
+    {
+      "id": 43430,
+      "name": "Les Touches",
+      "latitude": "47.44249000",
+      "longitude": "-1.43097000"
+    },
+    {
+      "id": 43481,
+      "name": "Ligné",
+      "latitude": "47.41096000",
+      "longitude": "-1.37726000"
+    },
+    {
+      "id": 43507,
+      "name": "Liré",
+      "latitude": "47.34322000",
+      "longitude": "-1.16536000"
+    },
+    {
+      "id": 43540,
+      "name": "Loire-Atlantique",
+      "latitude": "47.32863000",
+      "longitude": "-1.65764000"
+    },
+    {
+      "id": 43543,
+      "name": "Loiron",
+      "latitude": "48.06667000",
+      "longitude": "-0.93333000"
+    },
+    {
+      "id": 43548,
+      "name": "Lombron",
+      "latitude": "48.07879000",
+      "longitude": "0.41869000"
+    },
+    {
+      "id": 43559,
+      "name": "Longeville-sur-Mer",
+      "latitude": "46.41667000",
+      "longitude": "-1.50000000"
+    },
+    {
+      "id": 43621,
+      "name": "Loué",
+      "latitude": "47.99575000",
+      "longitude": "-0.15450000"
+    },
+    {
+      "id": 43606,
+      "name": "Louplande",
+      "latitude": "47.95000000",
+      "longitude": "-0.05000000"
+    },
+    {
+      "id": 43612,
+      "name": "Louverné",
+      "latitude": "48.12178000",
+      "longitude": "-0.71721000"
+    },
+    {
+      "id": 43632,
+      "name": "Luceau",
+      "latitude": "47.71167000",
+      "longitude": "0.39734000"
+    },
+    {
+      "id": 43635,
+      "name": "Luché-Pringé",
+      "latitude": "47.70326000",
+      "longitude": "0.07549000"
+    },
+    {
+      "id": 43676,
+      "name": "Luçon",
+      "latitude": "46.45773000",
+      "longitude": "-1.16512000"
+    },
+    {
+      "id": 43660,
+      "name": "Lusanger",
+      "latitude": "47.68153000",
+      "longitude": "-1.58857000"
+    },
+    {
+      "id": 43714,
+      "name": "Maché",
+      "latitude": "46.75405000",
+      "longitude": "-1.68692000"
+    },
+    {
+      "id": 43712,
+      "name": "Machecoul",
+      "latitude": "46.99358000",
+      "longitude": "-1.82352000"
+    },
+    {
+      "id": 43734,
+      "name": "Maillezais",
+      "latitude": "46.37267000",
+      "longitude": "-0.73963000"
+    },
+    {
+      "id": 43741,
+      "name": "Maisdon-sur-Sèvre",
+      "latitude": "47.09714000",
+      "longitude": "-1.38000000"
+    },
+    {
+      "id": 43759,
+      "name": "Malicorne-sur-Sarthe",
+      "latitude": "47.81317000",
+      "longitude": "-0.08152000"
+    },
+    {
+      "id": 43766,
+      "name": "Malville",
+      "latitude": "47.35905000",
+      "longitude": "-1.86227000"
+    },
+    {
+      "id": 43768,
+      "name": "Mamers",
+      "latitude": "48.34961000",
+      "longitude": "0.36937000"
+    },
+    {
+      "id": 43782,
+      "name": "Mansigné",
+      "latitude": "47.74833000",
+      "longitude": "0.13311000"
+    },
+    {
+      "id": 43926,
+      "name": "Marçon",
+      "latitude": "47.71059000",
+      "longitude": "0.51101000"
+    },
+    {
+      "id": 43830,
+      "name": "Mareuil-sur-Lay-Dissais",
+      "latitude": "46.53333000",
+      "longitude": "-1.23333000"
+    },
+    {
+      "id": 43844,
+      "name": "Marigné-Laillé",
+      "latitude": "47.81765000",
+      "longitude": "0.34050000"
+    },
+    {
+      "id": 43867,
+      "name": "Marolles-les-Braults",
+      "latitude": "48.25271000",
+      "longitude": "0.31631000"
+    },
+    {
+      "id": 43878,
+      "name": "Marsac-sur-Don",
+      "latitude": "47.59648000",
+      "longitude": "-1.67952000"
+    },
+    {
+      "id": 43913,
+      "name": "Martigné-Briand",
+      "latitude": "47.23358000",
+      "longitude": "-0.42933000"
+    },
+    {
+      "id": 43915,
+      "name": "Martigné-sur-Mayenne",
+      "latitude": "48.20000000",
+      "longitude": "-0.66667000"
+    },
+    {
+      "id": 43950,
+      "name": "Maulévrier",
+      "latitude": "47.00929000",
+      "longitude": "-0.74239000"
+    },
+    {
+      "id": 43961,
+      "name": "Mauves-sur-Loire",
+      "latitude": "47.29738000",
+      "longitude": "-1.38763000"
+    },
+    {
+      "id": 43969,
+      "name": "Mayenne",
+      "latitude": "48.13494000",
+      "longitude": "-0.66667000"
+    },
+    {
+      "id": 43970,
+      "name": "Mayet",
+      "latitude": "47.75968000",
+      "longitude": "0.27468000"
+    },
+    {
+      "id": 43980,
+      "name": "Mazé",
+      "latitude": "47.45632000",
+      "longitude": "-0.27106000"
+    },
+    {
+      "id": 43977,
+      "name": "Mazières-en-Mauges",
+      "latitude": "47.04536000",
+      "longitude": "-0.81702000"
+    },
+    {
+      "id": 43991,
+      "name": "Melay",
+      "latitude": "47.18333000",
+      "longitude": "-0.69429000"
+    },
+    {
+      "id": 44022,
+      "name": "Mervent",
+      "latitude": "46.52239000",
+      "longitude": "-0.75654000"
+    },
+    {
+      "id": 44483,
+      "name": "Mésanger",
+      "latitude": "47.43131000",
+      "longitude": "-1.22798000"
+    },
+    {
+      "id": 44029,
+      "name": "Meslay-du-Maine",
+      "latitude": "47.95116000",
+      "longitude": "-0.55428000"
+    },
+    {
+      "id": 44031,
+      "name": "Mesquer",
+      "latitude": "47.39919000",
+      "longitude": "-2.45986000"
+    },
+    {
+      "id": 44485,
+      "name": "Mézeray",
+      "latitude": "47.82682000",
+      "longitude": "-0.01770000"
+    },
+    {
+      "id": 44102,
+      "name": "Miré",
+      "latitude": "47.75759000",
+      "longitude": "-0.49157000"
+    },
+    {
+      "id": 44104,
+      "name": "Missillac",
+      "latitude": "47.48155000",
+      "longitude": "-2.16000000"
+    },
+    {
+      "id": 44115,
+      "name": "Moisdon-la-Rivière",
+      "latitude": "47.62175000",
+      "longitude": "-1.37258000"
+    },
+    {
+      "id": 44134,
+      "name": "Moncé-en-Belin",
+      "latitude": "47.89442000",
+      "longitude": "0.19809000"
+    },
+    {
+      "id": 44146,
+      "name": "Monnières",
+      "latitude": "47.13301000",
+      "longitude": "-1.35317000"
+    },
+    {
+      "id": 44169,
+      "name": "Montaigu",
+      "latitude": "46.97667000",
+      "longitude": "-1.30846000"
+    },
+    {
+      "id": 44195,
+      "name": "Montbert",
+      "latitude": "47.05613000",
+      "longitude": "-1.48890000"
+    },
+    {
+      "id": 44197,
+      "name": "Montbizot",
+      "latitude": "48.14995000",
+      "longitude": "0.18384000"
+    },
+    {
+      "id": 44218,
+      "name": "Montenay",
+      "latitude": "48.28787000",
+      "longitude": "-0.89373000"
+    },
+    {
+      "id": 44232,
+      "name": "Montfaucon-Montigné",
+      "latitude": "47.10000000",
+      "longitude": "-1.11667000"
+    },
+    {
+      "id": 44241,
+      "name": "Montfort-le-Gesnois",
+      "latitude": "48.05000000",
+      "longitude": "0.41667000"
+    },
+    {
+      "id": 44264,
+      "name": "Montigné-le-Brillant",
+      "latitude": "48.00872000",
+      "longitude": "-0.81488000"
+    },
+    {
+      "id": 44266,
+      "name": "Montjean-sur-Loire",
+      "latitude": "47.38842000",
+      "longitude": "-0.85873000"
+    },
+    {
+      "id": 44292,
+      "name": "Montoir-de-Bretagne",
+      "latitude": "47.33012000",
+      "longitude": "-2.15107000"
+    },
+    {
+      "id": 44297,
+      "name": "Montournais",
+      "latitude": "46.74191000",
+      "longitude": "-0.76464000"
+    },
+    {
+      "id": 44309,
+      "name": "Montreuil-Bellay",
+      "latitude": "47.13106000",
+      "longitude": "-0.15209000"
+    },
+    {
+      "id": 44315,
+      "name": "Montrevault",
+      "latitude": "47.25965000",
+      "longitude": "-1.04679000"
+    },
+    {
+      "id": 44330,
+      "name": "Montsûrs",
+      "latitude": "48.13604000",
+      "longitude": "-0.55413000"
+    },
+    {
+      "id": 44342,
+      "name": "Morannes",
+      "latitude": "47.74364000",
+      "longitude": "-0.41604000"
+    },
+    {
+      "id": 44371,
+      "name": "Mortagne-sur-Sèvre",
+      "latitude": "46.99203000",
+      "longitude": "-0.94738000"
+    },
+    {
+      "id": 44382,
+      "name": "Mouchamps",
+      "latitude": "46.78131000",
+      "longitude": "-1.06179000"
+    },
+    {
+      "id": 44389,
+      "name": "Mouilleron-en-Pareds",
+      "latitude": "46.67630000",
+      "longitude": "-0.84940000"
+    },
+    {
+      "id": 44390,
+      "name": "Mouilleron-le-Captif",
+      "latitude": "46.71898000",
+      "longitude": "-1.45463000"
+    },
+    {
+      "id": 44391,
+      "name": "Moulay",
+      "latitude": "48.27245000",
+      "longitude": "-0.62734000"
+    },
+    {
+      "id": 44413,
+      "name": "Moutiers-les-Mauxfaits",
+      "latitude": "46.48333000",
+      "longitude": "-1.41667000"
+    },
+    {
+      "id": 44417,
+      "name": "Mouzeil",
+      "latitude": "47.44738000",
+      "longitude": "-1.34786000"
+    },
+    {
+      "id": 44418,
+      "name": "Mouzillon",
+      "latitude": "47.14096000",
+      "longitude": "-1.28191000"
+    },
+    {
+      "id": 44426,
+      "name": "Mozé-sur-Louet",
+      "latitude": "47.35856000",
+      "longitude": "-0.55295000"
+    },
+    {
+      "id": 44434,
+      "name": "Mulsanne",
+      "latitude": "47.91172000",
+      "longitude": "0.24938000"
+    },
+    {
+      "id": 44494,
+      "name": "Mûrs-Erigné",
+      "latitude": "47.40000000",
+      "longitude": "-0.55000000"
+    },
+    {
+      "id": 44499,
+      "name": "Nalliers",
+      "latitude": "46.47071000",
+      "longitude": "-1.02774000"
+    },
+    {
+      "id": 44506,
+      "name": "Nantes",
+      "latitude": "47.21725000",
+      "longitude": "-1.55336000"
+    },
+    {
+      "id": 44536,
+      "name": "Nesmy",
+      "latitude": "46.59078000",
+      "longitude": "-1.40074000"
+    },
+    {
+      "id": 44572,
+      "name": "Neuville-sur-Sarthe",
+      "latitude": "48.07615000",
+      "longitude": "0.19264000"
+    },
+    {
+      "id": 44596,
+      "name": "Nieul-le-Dolent",
+      "latitude": "46.57379000",
+      "longitude": "-1.50808000"
+    },
+    {
+      "id": 44624,
+      "name": "Noirmoutier-en-l’Île",
+      "latitude": "46.99733000",
+      "longitude": "-2.27374000"
+    },
+    {
+      "id": 44645,
+      "name": "Nort-sur-Erdre",
+      "latitude": "47.43881000",
+      "longitude": "-1.49833000"
+    },
+    {
+      "id": 44652,
+      "name": "Notre-Dame-de-Monts",
+      "latitude": "46.83100000",
+      "longitude": "-2.13100000"
+    },
+    {
+      "id": 44654,
+      "name": "Notre-Dame-de-Riez",
+      "latitude": "46.74445000",
+      "longitude": "-1.90857000"
+    },
+    {
+      "id": 44656,
+      "name": "Notre-Dame-des-Landes",
+      "latitude": "47.38048000",
+      "longitude": "-1.70904000"
+    },
+    {
+      "id": 44672,
+      "name": "Noyant",
+      "latitude": "47.51048000",
+      "longitude": "0.11771000"
+    },
+    {
+      "id": 44673,
+      "name": "Noyant-la-Gravoyère",
+      "latitude": "47.70348000",
+      "longitude": "-0.95730000"
+    },
+    {
+      "id": 44678,
+      "name": "Noyen-sur-Sarthe",
+      "latitude": "47.87187000",
+      "longitude": "-0.09916000"
+    },
+    {
+      "id": 44682,
+      "name": "Nozay",
+      "latitude": "47.56495000",
+      "longitude": "-1.62629000"
+    },
+    {
+      "id": 44684,
+      "name": "Nuaillé",
+      "latitude": "47.09524000",
+      "longitude": "-0.79477000"
+    },
+    {
+      "id": 44686,
+      "name": "Nueil-sur-Layon",
+      "latitude": "47.11811000",
+      "longitude": "-0.36573000"
+    },
+    {
+      "id": 44687,
+      "name": "Nuillé-sur-Vicoin",
+      "latitude": "47.98556000",
+      "longitude": "-0.78351000"
+    },
+    {
+      "id": 44689,
+      "name": "Nyoiseau",
+      "latitude": "47.71667000",
+      "longitude": "-0.91667000"
+    },
+    {
+      "id": 44727,
+      "name": "Oisseau",
+      "latitude": "48.35559000",
+      "longitude": "-0.67148000"
+    },
+    {
+      "id": 44737,
+      "name": "Olonne-sur-Mer",
+      "latitude": "46.53524000",
+      "longitude": "-1.77293000"
+    },
+    {
+      "id": 44788,
+      "name": "Orvault",
+      "latitude": "47.27095000",
+      "longitude": "-1.62190000"
+    },
+    {
+      "id": 44803,
+      "name": "Oudon",
+      "latitude": "47.34774000",
+      "longitude": "-1.28500000"
+    },
+    {
+      "id": 44828,
+      "name": "Paimboeuf",
+      "latitude": "47.28654000",
+      "longitude": "-2.03048000"
+    },
+    {
+      "id": 44843,
+      "name": "Pannecé",
+      "latitude": "47.48583000",
+      "longitude": "-1.23940000"
+    },
+    {
+      "id": 44861,
+      "name": "Parçay-les-Pins",
+      "latitude": "47.43668000",
+      "longitude": "0.16312000"
+    },
+    {
+      "id": 44849,
+      "name": "Parcé-sur-Sarthe",
+      "latitude": "47.84356000",
+      "longitude": "-0.20104000"
+    },
+    {
+      "id": 44855,
+      "name": "Parigné-le-Pôlin",
+      "latitude": "47.84987000",
+      "longitude": "0.10705000"
+    },
+    {
+      "id": 44872,
+      "name": "Paulx",
+      "latitude": "46.96181000",
+      "longitude": "-1.75520000"
+    },
+    {
+      "id": 44887,
+      "name": "Pellouailles-les-Vignes",
+      "latitude": "47.52172000",
+      "longitude": "-0.43954000"
+    },
+    {
+      "id": 44916,
+      "name": "Petit-Mars",
+      "latitude": "47.39512000",
+      "longitude": "-1.45262000"
+    },
+    {
+      "id": 44978,
+      "name": "Piriac-sur-Mer",
+      "latitude": "47.37938000",
+      "longitude": "-2.54616000"
+    },
+    {
+      "id": 44982,
+      "name": "Pissotte",
+      "latitude": "46.49725000",
+      "longitude": "-0.80666000"
+    },
+    {
+      "id": 45011,
+      "name": "Plessé",
+      "latitude": "47.54180000",
+      "longitude": "-1.88609000"
+    },
+    {
+      "id": 45170,
+      "name": "Pont-Saint-Martin",
+      "latitude": "47.12338000",
+      "longitude": "-1.58455000"
+    },
+    {
+      "id": 45206,
+      "name": "Pontchâteau",
+      "latitude": "47.43797000",
+      "longitude": "-2.09011000"
+    },
+    {
+      "id": 45218,
+      "name": "Pontvallain",
+      "latitude": "47.75169000",
+      "longitude": "0.19145000"
+    },
+    {
+      "id": 45223,
+      "name": "Pornic",
+      "latitude": "47.11205000",
+      "longitude": "-2.08888000"
+    },
+    {
+      "id": 45224,
+      "name": "Pornichet",
+      "latitude": "47.26682000",
+      "longitude": "-2.33794000"
+    },
+    {
+      "id": 45227,
+      "name": "Port-Brillet",
+      "latitude": "48.11315000",
+      "longitude": "-0.97080000"
+    },
+    {
+      "id": 45230,
+      "name": "Port-Saint-Père",
+      "latitude": "47.13294000",
+      "longitude": "-1.74850000"
+    },
+    {
+      "id": 45249,
+      "name": "Pouancé",
+      "latitude": "47.74167000",
+      "longitude": "-1.17366000"
+    },
+    {
+      "id": 45271,
+      "name": "Pouzauges",
+      "latitude": "46.77941000",
+      "longitude": "-0.83619000"
+    },
+    {
+      "id": 45302,
+      "name": "Pré-en-Pail",
+      "latitude": "48.45993000",
+      "longitude": "-0.19814000"
+    },
+    {
+      "id": 45306,
+      "name": "Précigné",
+      "latitude": "47.76692000",
+      "longitude": "-0.32491000"
+    },
+    {
+      "id": 45308,
+      "name": "Préfailles",
+      "latitude": "47.12839000",
+      "longitude": "-2.21693000"
+    },
+    {
+      "id": 45289,
+      "name": "Prinquiau",
+      "latitude": "47.36215000",
+      "longitude": "-2.00952000"
+    },
+    {
+      "id": 45299,
+      "name": "Pruillé-le-Chétif",
+      "latitude": "47.99383000",
+      "longitude": "0.10677000"
+    },
+    {
+      "id": 45372,
+      "name": "Quelaines-Saint-Gault",
+      "latitude": "47.93333000",
+      "longitude": "-0.80000000"
+    },
+    {
+      "id": 45388,
+      "name": "Quilly",
+      "latitude": "47.46131000",
+      "longitude": "-1.95274000"
+    },
+    {
+      "id": 45453,
+      "name": "Remouillé",
+      "latitude": "47.05587000",
+      "longitude": "-1.37682000"
+    },
+    {
+      "id": 45458,
+      "name": "Renazé",
+      "latitude": "47.79340000",
+      "longitude": "-1.05437000"
+    },
+    {
+      "id": 45463,
+      "name": "Requeil",
+      "latitude": "47.78371000",
+      "longitude": "0.16105000"
+    },
+    {
+      "id": 45482,
+      "name": "Rezé",
+      "latitude": "47.18144000",
+      "longitude": "-1.54965000"
+    },
+    {
+      "id": 45485,
+      "name": "Riaillé",
+      "latitude": "47.51797000",
+      "longitude": "-1.29404000"
+    },
+    {
+      "id": 45546,
+      "name": "Rochefort-sur-Loire",
+      "latitude": "47.35705000",
+      "longitude": "-0.65696000"
+    },
+    {
+      "id": 45550,
+      "name": "Rocheservière",
+      "latitude": "46.93765000",
+      "longitude": "-1.51143000"
+    },
+    {
+      "id": 45656,
+      "name": "Roézé-sur-Sarthe",
+      "latitude": "47.89546000",
+      "longitude": "0.06723000"
+    },
+    {
+      "id": 45615,
+      "name": "Rouans",
+      "latitude": "47.18321000",
+      "longitude": "-1.85929000"
+    },
+    {
+      "id": 45625,
+      "name": "Rougé",
+      "latitude": "47.78367000",
+      "longitude": "-1.44763000"
+    },
+    {
+      "id": 45628,
+      "name": "Rouillon",
+      "latitude": "48.00629000",
+      "longitude": "0.13527000"
+    },
+    {
+      "id": 45636,
+      "name": "Roussay",
+      "latitude": "47.09011000",
+      "longitude": "-1.06417000"
+    },
+    {
+      "id": 45657,
+      "name": "Ruaudin",
+      "latitude": "47.94509000",
+      "longitude": "0.26760000"
+    },
+    {
+      "id": 45667,
+      "name": "Ruillé-sur-Loir",
+      "latitude": "47.75075000",
+      "longitude": "0.62058000"
+    },
+    {
+      "id": 45703,
+      "name": "Sablé-sur-Sarthe",
+      "latitude": "47.83765000",
+      "longitude": "-0.33294000"
+    },
+    {
+      "id": 45711,
+      "name": "Saffré",
+      "latitude": "47.50143000",
+      "longitude": "-1.57856000"
+    },
+    {
+      "id": 45760,
+      "name": "Saint-André-de-la-Marche",
+      "latitude": "47.09952000",
+      "longitude": "-0.99441000"
+    },
+    {
+      "id": 45762,
+      "name": "Saint-André-des-Eaux",
+      "latitude": "47.31461000",
+      "longitude": "-2.31105000"
+    },
+    {
+      "id": 45756,
+      "name": "Saint-André-Treize-Voies",
+      "latitude": "46.93369000",
+      "longitude": "-1.41274000"
+    },
+    {
+      "id": 45784,
+      "name": "Saint-Aubin-des-Châteaux",
+      "latitude": "47.72047000",
+      "longitude": "-1.48876000"
+    },
+    {
+      "id": 45785,
+      "name": "Saint-Aubin-des-Ormeaux",
+      "latitude": "46.99238000",
+      "longitude": "-1.04274000"
+    },
+    {
+      "id": 45806,
+      "name": "Saint-Baudelle",
+      "latitude": "48.28081000",
+      "longitude": "-0.63728000"
+    },
+    {
+      "id": 45814,
+      "name": "Saint-Berthevin",
+      "latitude": "48.06667000",
+      "longitude": "-0.83333000"
+    },
+    {
+      "id": 45823,
+      "name": "Saint-Brevin-les-Pins",
+      "latitude": "47.25000000",
+      "longitude": "-2.16667000"
+    },
+    {
+      "id": 45836,
+      "name": "Saint-Calais",
+      "latitude": "47.92211000",
+      "longitude": "0.74587000"
+    },
+    {
+      "id": 45857,
+      "name": "Saint-Christophe-du-Bois",
+      "latitude": "47.03012000",
+      "longitude": "-0.94441000"
+    },
+    {
+      "id": 45858,
+      "name": "Saint-Christophe-du-Ligneron",
+      "latitude": "46.82478000",
+      "longitude": "-1.76586000"
+    },
+    {
+      "id": 45872,
+      "name": "Saint-Clément-de-la-Place",
+      "latitude": "47.52744000",
+      "longitude": "-0.74545000"
+    },
+    {
+      "id": 45873,
+      "name": "Saint-Clément-des-Levées",
+      "latitude": "47.33333000",
+      "longitude": "-0.18222000"
+    },
+    {
+      "id": 45875,
+      "name": "Saint-Cosme-en-Vairais",
+      "latitude": "48.26667000",
+      "longitude": "0.46667000"
+    },
+    {
+      "id": 45877,
+      "name": "Saint-Crespin-sur-Moine",
+      "latitude": "47.09968000",
+      "longitude": "-1.18651000"
+    },
+    {
+      "id": 45883,
+      "name": "Saint-Cyr-en-Bourg",
+      "latitude": "47.19520000",
+      "longitude": "-0.06085000"
+    },
+    {
+      "id": 45896,
+      "name": "Saint-Denis-de-Gastines",
+      "latitude": "48.34210000",
+      "longitude": "-0.85869000"
+    },
+    {
+      "id": 45901,
+      "name": "Saint-Denis-la-Chevasse",
+      "latitude": "46.82273000",
+      "longitude": "-1.35749000"
+    },
+    {
+      "id": 46647,
+      "name": "Saint-Étienne-de-Mer-Morte",
+      "latitude": "46.92848000",
+      "longitude": "-1.74272000"
+    },
+    {
+      "id": 46648,
+      "name": "Saint-Étienne-de-Montluc",
+      "latitude": "47.27690000",
+      "longitude": "-1.78072000"
+    },
+    {
+      "id": 46652,
+      "name": "Saint-Étienne-du-Bois",
+      "latitude": "46.83041000",
+      "longitude": "-1.59714000"
+    },
+    {
+      "id": 45931,
+      "name": "Saint-Fiacre-sur-Maine",
+      "latitude": "47.14255000",
+      "longitude": "-1.41714000"
+    },
+    {
+      "id": 45933,
+      "name": "Saint-Florent-des-Bois",
+      "latitude": "46.59377000",
+      "longitude": "-1.31580000"
+    },
+    {
+      "id": 45934,
+      "name": "Saint-Florent-le-Vieil",
+      "latitude": "47.36069000",
+      "longitude": "-1.01515000"
+    },
+    {
+      "id": 45942,
+      "name": "Saint-Fort",
+      "latitude": "47.79928000",
+      "longitude": "-0.72095000"
+    },
+    {
+      "id": 45944,
+      "name": "Saint-Fulgent",
+      "latitude": "46.85226000",
+      "longitude": "-1.17798000"
+    },
+    {
+      "id": 45971,
+      "name": "Saint-Georges-Buttavent",
+      "latitude": "48.31018000",
+      "longitude": "-0.69372000"
+    },
+    {
+      "id": 45977,
+      "name": "Saint-Georges-de-Montaigu",
+      "latitude": "46.94655000",
+      "longitude": "-1.29262000"
+    },
+    {
+      "id": 45978,
+      "name": "Saint-Georges-de-Pointindoux",
+      "latitude": "46.64462000",
+      "longitude": "-1.62204000"
+    },
+    {
+      "id": 45983,
+      "name": "Saint-Georges-du-Bois",
+      "latitude": "47.97242000",
+      "longitude": "0.10113000"
+    },
+    {
+      "id": 45991,
+      "name": "Saint-Georges-sur-Loire",
+      "latitude": "47.40792000",
+      "longitude": "-0.76194000"
+    },
+    {
+      "id": 46046,
+      "name": "Saint-Géréon",
+      "latitude": "47.36774000",
+      "longitude": "-1.20262000"
+    },
+    {
+      "id": 46004,
+      "name": "Saint-Germain-de-Prinçay",
+      "latitude": "46.72107000",
+      "longitude": "-1.02153000"
+    },
+    {
+      "id": 46007,
+      "name": "Saint-Germain-des-Prés",
+      "latitude": "47.40998000",
+      "longitude": "-0.83342000"
+    },
+    {
+      "id": 46021,
+      "name": "Saint-Germain-sur-Moine",
+      "latitude": "47.11746000",
+      "longitude": "-1.12223000"
+    },
+    {
+      "id": 46025,
+      "name": "Saint-Gervais",
+      "latitude": "46.90174000",
+      "longitude": "-2.00210000"
+    },
+    {
+      "id": 46027,
+      "name": "Saint-Gervais-en-Belin",
+      "latitude": "47.87720000",
+      "longitude": "0.21770000"
+    },
+    {
+      "id": 46033,
+      "name": "Saint-Gildas-des-Bois",
+      "latitude": "47.51622000",
+      "longitude": "-2.03659000"
+    },
+    {
+      "id": 46036,
+      "name": "Saint-Gilles-Croix-de-Vie",
+      "latitude": "46.69761000",
+      "longitude": "-1.94561000"
+    },
+    {
+      "id": 46048,
+      "name": "Saint-Herblain",
+      "latitude": "47.21765000",
+      "longitude": "-1.64841000"
+    },
+    {
+      "id": 46049,
+      "name": "Saint-Herblon",
+      "latitude": "47.40786000",
+      "longitude": "-1.09738000"
+    },
+    {
+      "id": 46055,
+      "name": "Saint-Hilaire-de-Chaléons",
+      "latitude": "47.10196000",
+      "longitude": "-1.86690000"
+    },
+    {
+      "id": 46056,
+      "name": "Saint-Hilaire-de-Clisson",
+      "latitude": "47.06222000",
+      "longitude": "-1.30778000"
+    },
+    {
+      "id": 46057,
+      "name": "Saint-Hilaire-de-Loulay",
+      "latitude": "47.00190000",
+      "longitude": "-1.33079000"
+    },
+    {
+      "id": 46058,
+      "name": "Saint-Hilaire-de-Riez",
+      "latitude": "46.71308000",
+      "longitude": "-1.92583000"
+    },
+    {
+      "id": 46059,
+      "name": "Saint-Hilaire-de-Talmont",
+      "latitude": "46.47002000",
+      "longitude": "-1.60359000"
+    },
+    {
+      "id": 46062,
+      "name": "Saint-Hilaire-des-Loges",
+      "latitude": "46.47190000",
+      "longitude": "-0.66393000"
+    },
+    {
+      "id": 46080,
+      "name": "Saint-Jean",
+      "latitude": "47.24553000",
+      "longitude": "-0.38413000"
+    },
+    {
+      "id": 46087,
+      "name": "Saint-Jean-de-Boiseau",
+      "latitude": "47.19315000",
+      "longitude": "-1.72340000"
+    },
+    {
+      "id": 46097,
+      "name": "Saint-Jean-de-Monts",
+      "latitude": "46.79088000",
+      "longitude": "-2.08219000"
+    },
+    {
+      "id": 46108,
+      "name": "Saint-Jean-des-Mauvrets",
+      "latitude": "47.39857000",
+      "longitude": "-0.44929000"
+    },
+    {
+      "id": 46120,
+      "name": "Saint-Jean-sur-Mayenne",
+      "latitude": "48.13522000",
+      "longitude": "-0.75613000"
+    },
+    {
+      "id": 46124,
+      "name": "Saint-Joachim",
+      "latitude": "47.38349000",
+      "longitude": "-2.19239000"
+    },
+    {
+      "id": 46139,
+      "name": "Saint-Julien-de-Concelles",
+      "latitude": "47.25285000",
+      "longitude": "-1.38428000"
+    },
+    {
+      "id": 46141,
+      "name": "Saint-Julien-des-Landes",
+      "latitude": "46.63940000",
+      "longitude": "-1.71381000"
+    },
+    {
+      "id": 46168,
+      "name": "Saint-Lambert-du-Lattay",
+      "latitude": "47.30250000",
+      "longitude": "-0.63321000"
+    },
+    {
+      "id": 46169,
+      "name": "Saint-Lambert-la-Potherie",
+      "latitude": "47.48289000",
+      "longitude": "-0.67789000"
+    },
+    {
+      "id": 46178,
+      "name": "Saint-Laurent-de-la-Plaine",
+      "latitude": "47.31738000",
+      "longitude": "-0.80333000"
+    },
+    {
+      "id": 46182,
+      "name": "Saint-Laurent-des-Autels",
+      "latitude": "47.28524000",
+      "longitude": "-1.18881000"
+    },
+    {
+      "id": 46190,
+      "name": "Saint-Laurent-sur-Sèvre",
+      "latitude": "46.95809000",
+      "longitude": "-0.89392000"
+    },
+    {
+      "id": 46211,
+      "name": "Saint-Léger-des-Bois",
+      "latitude": "47.46238000",
+      "longitude": "-0.70953000"
+    },
+    {
+      "id": 46215,
+      "name": "Saint-Léger-les-Vignes",
+      "latitude": "47.13587000",
+      "longitude": "-1.73060000"
+    },
+    {
+      "id": 46217,
+      "name": "Saint-Léger-sous-Cholet",
+      "latitude": "47.09405000",
+      "longitude": "-0.91024000"
+    },
+    {
+      "id": 46203,
+      "name": "Saint-Lumine-de-Clisson",
+      "latitude": "47.08413000",
+      "longitude": "-1.33524000"
+    },
+    {
+      "id": 46204,
+      "name": "Saint-Lumine-de-Coutais",
+      "latitude": "47.05399000",
+      "longitude": "-1.72777000"
+    },
+    {
+      "id": 46207,
+      "name": "Saint-Lyphard",
+      "latitude": "47.39822000",
+      "longitude": "-2.30642000"
+    },
+    {
+      "id": 46227,
+      "name": "Saint-Macaire-en-Mauges",
+      "latitude": "47.12357000",
+      "longitude": "-0.99120000"
+    },
+    {
+      "id": 46230,
+      "name": "Saint-Malo-de-Guersac",
+      "latitude": "47.35345000",
+      "longitude": "-2.17773000"
+    },
+    {
+      "id": 46231,
+      "name": "Saint-Malô-du-Bois",
+      "latitude": "46.93333000",
+      "longitude": "-0.90000000"
+    },
+    {
+      "id": 46256,
+      "name": "Saint-Mars-d’Outillé",
+      "latitude": "47.87034000",
+      "longitude": "0.33221000"
+    },
+    {
+      "id": 46254,
+      "name": "Saint-Mars-de-Coutais",
+      "latitude": "47.11153000",
+      "longitude": "-1.73437000"
+    },
+    {
+      "id": 46255,
+      "name": "Saint-Mars-du-Désert",
+      "latitude": "47.36560000",
+      "longitude": "-1.40678000"
+    },
+    {
+      "id": 46257,
+      "name": "Saint-Mars-la-Brière",
+      "latitude": "48.03046000",
+      "longitude": "0.37319000"
+    },
+    {
+      "id": 46258,
+      "name": "Saint-Mars-la-Jaille",
+      "latitude": "47.52566000",
+      "longitude": "-1.18483000"
+    },
+    {
+      "id": 46281,
+      "name": "Saint-Martin-de-la-Place",
+      "latitude": "47.31747000",
+      "longitude": "-0.14849000"
+    },
+    {
+      "id": 46285,
+      "name": "Saint-Martin-des-Noyers",
+      "latitude": "46.72226000",
+      "longitude": "-1.17727000"
+    },
+    {
+      "id": 46286,
+      "name": "Saint-Martin-du-Fouilloux",
+      "latitude": "47.43360000",
+      "longitude": "-0.70357000"
+    },
+    {
+      "id": 46302,
+      "name": "Saint-Martin-sous-Mouzeuil",
+      "latitude": "46.45905000",
+      "longitude": "-0.98893000"
+    },
+    {
+      "id": 46307,
+      "name": "Saint-Mathurin",
+      "latitude": "46.56493000",
+      "longitude": "-1.71389000"
+    },
+    {
+      "id": 46308,
+      "name": "Saint-Mathurin-sur-Loire",
+      "latitude": "47.41667000",
+      "longitude": "-0.31667000"
+    },
+    {
+      "id": 46327,
+      "name": "Saint-Melaine-sur-Aubance",
+      "latitude": "47.36667000",
+      "longitude": "-0.50000000"
+    },
+    {
+      "id": 46354,
+      "name": "Saint-Même-le-Tenu",
+      "latitude": "47.02005000",
+      "longitude": "-1.79459000"
+    },
+    {
+      "id": 46331,
+      "name": "Saint-Mesmin",
+      "latitude": "46.79369000",
+      "longitude": "-0.73262000"
+    },
+    {
+      "id": 46335,
+      "name": "Saint-Michel-Chef-Chef",
+      "latitude": "47.18072000",
+      "longitude": "-2.14869000"
+    },
+    {
+      "id": 46338,
+      "name": "Saint-Michel-le-Cloucq",
+      "latitude": "46.48500000",
+      "longitude": "-0.75262000"
+    },
+    {
+      "id": 46336,
+      "name": "Saint-Michel-Mont-Mercure",
+      "latitude": "46.82941000",
+      "longitude": "-0.88298000"
+    },
+    {
+      "id": 46345,
+      "name": "Saint-Molf",
+      "latitude": "47.39167000",
+      "longitude": "-2.42357000"
+    },
+    {
+      "id": 46358,
+      "name": "Saint-Nazaire",
+      "latitude": "47.27956000",
+      "longitude": "-2.20993000"
+    },
+    {
+      "id": 46365,
+      "name": "Saint-Nicolas-de-Redon",
+      "latitude": "47.64343000",
+      "longitude": "-2.06305000"
+    },
+    {
+      "id": 46385,
+      "name": "Saint-Ouën-des-Toits",
+      "latitude": "48.13333000",
+      "longitude": "-0.90000000"
+    },
+    {
+      "id": 46382,
+      "name": "Saint-Ouen-en-Belin",
+      "latitude": "47.83302000",
+      "longitude": "0.20924000"
+    },
+    {
+      "id": 46398,
+      "name": "Saint-Paterne",
+      "latitude": "48.41614000",
+      "longitude": "0.11271000"
+    },
+    {
+      "id": 46415,
+      "name": "Saint-Paul-en-Pareds",
+      "latitude": "46.82214000",
+      "longitude": "-0.98977000"
+    },
+    {
+      "id": 46478,
+      "name": "Saint-Père-en-Retz",
+      "latitude": "47.20559000",
+      "longitude": "-2.04095000"
+    },
+    {
+      "id": 46423,
+      "name": "Saint-Philbert-de-Bouaine",
+      "latitude": "46.98568000",
+      "longitude": "-1.52022000"
+    },
+    {
+      "id": 46424,
+      "name": "Saint-Philbert-de-Grand-Lieu",
+      "latitude": "47.03580000",
+      "longitude": "-1.64120000"
+    },
+    {
+      "id": 46425,
+      "name": "Saint-Philbert-du-Peuple",
+      "latitude": "47.39314000",
+      "longitude": "-0.04360000"
+    },
+    {
+      "id": 46437,
+      "name": "Saint-Pierre-des-Nids",
+      "latitude": "48.39826000",
+      "longitude": "-0.09984000"
+    },
+    {
+      "id": 46439,
+      "name": "Saint-Pierre-du-Chemin",
+      "latitude": "46.69523000",
+      "longitude": "-0.70095000"
+    },
+    {
+      "id": 46447,
+      "name": "Saint-Pierre-la-Cour",
+      "latitude": "48.11258000",
+      "longitude": "-1.02496000"
+    },
+    {
+      "id": 46429,
+      "name": "Saint-Pierre-Montlimart",
+      "latitude": "47.26976000",
+      "longitude": "-1.02738000"
+    },
+    {
+      "id": 46474,
+      "name": "Saint-Prouant",
+      "latitude": "46.75822000",
+      "longitude": "-0.95703000"
+    },
+    {
+      "id": 46488,
+      "name": "Saint-Quentin-en-Mauges",
+      "latitude": "47.29130000",
+      "longitude": "-0.91191000"
+    },
+    {
+      "id": 46512,
+      "name": "Saint-Rémy-en-Mauges",
+      "latitude": "47.27202000",
+      "longitude": "-1.07499000"
+    },
+    {
+      "id": 46520,
+      "name": "Saint-Saturnin",
+      "latitude": "48.05795000",
+      "longitude": "0.15218000"
+    },
+    {
+      "id": 46524,
+      "name": "Saint-Saturnin-sur-Loire",
+      "latitude": "47.39438000",
+      "longitude": "-0.43565000"
+    },
+    {
+      "id": 46578,
+      "name": "Saint-Sébastien-sur-Loire",
+      "latitude": "47.20768000",
+      "longitude": "-1.50332000"
+    },
+    {
+      "id": 46590,
+      "name": "Saint-Urbain",
+      "latitude": "46.87557000",
+      "longitude": "-2.00961000"
+    },
+    {
+      "id": 46606,
+      "name": "Saint-Viaud",
+      "latitude": "47.25619000",
+      "longitude": "-2.01833000"
+    },
+    {
+      "id": 46616,
+      "name": "Saint-Vincent-des-Landes",
+      "latitude": "47.65695000",
+      "longitude": "-1.49572000"
+    },
+    {
+      "id": 46617,
+      "name": "Saint-Vincent-sur-Graon",
+      "latitude": "46.51690000",
+      "longitude": "-1.38881000"
+    },
+    {
+      "id": 46665,
+      "name": "Sainte-Anne-sur-Brivet",
+      "latitude": "47.46071000",
+      "longitude": "-2.00415000"
+    },
+    {
+      "id": 46674,
+      "name": "Sainte-Cécile",
+      "latitude": "46.74286000",
+      "longitude": "-1.11429000"
+    },
+    {
+      "id": 46679,
+      "name": "Sainte-Flaive-des-Loups",
+      "latitude": "46.61303000",
+      "longitude": "-1.58082000"
+    },
+    {
+      "id": 46682,
+      "name": "Sainte-Foy",
+      "latitude": "46.54488000",
+      "longitude": "-1.67265000"
+    },
+    {
+      "id": 46689,
+      "name": "Sainte-Gemme-la-Plaine",
+      "latitude": "46.48286000",
+      "longitude": "-1.11321000"
+    },
+    {
+      "id": 46690,
+      "name": "Sainte-Gemmes-sur-Loire",
+      "latitude": "47.42290000",
+      "longitude": "-0.55684000"
+    },
+    {
+      "id": 46695,
+      "name": "Sainte-Hermine",
+      "latitude": "46.55619000",
+      "longitude": "-1.05476000"
+    },
+    {
+      "id": 46700,
+      "name": "Sainte-Jamme-sur-Sarthe",
+      "latitude": "48.14264000",
+      "longitude": "0.16743000"
+    },
+    {
+      "id": 46703,
+      "name": "Sainte-Luce-sur-Loire",
+      "latitude": "47.25381000",
+      "longitude": "-1.48430000"
+    },
+    {
+      "id": 46721,
+      "name": "Sainte-Pazanne",
+      "latitude": "47.10301000",
+      "longitude": "-1.80950000"
+    },
+    {
+      "id": 46724,
+      "name": "Sainte-Reine-de-Bretagne",
+      "latitude": "47.44131000",
+      "longitude": "-2.19238000"
+    },
+    {
+      "id": 46729,
+      "name": "Sainte-Suzanne",
+      "latitude": "48.09818000",
+      "longitude": "-0.35439000"
+    },
+    {
+      "id": 46752,
+      "name": "Saligny",
+      "latitude": "46.80833000",
+      "longitude": "-1.42726000"
+    },
+    {
+      "id": 46760,
+      "name": "Sallertaine",
+      "latitude": "46.86017000",
+      "longitude": "-1.95522000"
+    },
+    {
+      "id": 46805,
+      "name": "Sargé-lès-le-Mans",
+      "latitude": "48.03333000",
+      "longitude": "0.23333000"
+    },
+    {
+      "id": 46820,
+      "name": "Sarthe",
+      "latitude": "48.00493000",
+      "longitude": "0.26516000"
+    },
+    {
+      "id": 46852,
+      "name": "Saumur",
+      "latitude": "47.25908000",
+      "longitude": "-0.07796000"
+    },
+    {
+      "id": 46857,
+      "name": "Sautron",
+      "latitude": "47.26274000",
+      "longitude": "-1.67107000"
+    },
+    {
+      "id": 46871,
+      "name": "Savenay",
+      "latitude": "47.36072000",
+      "longitude": "-1.94215000"
+    },
+    {
+      "id": 46872,
+      "name": "Savennières",
+      "latitude": "47.38225000",
+      "longitude": "-0.65708000"
+    },
+    {
+      "id": 46915,
+      "name": "Segré",
+      "latitude": "47.68646000",
+      "longitude": "-0.87237000"
+    },
+    {
+      "id": 46917,
+      "name": "Seiches-sur-le-Loir",
+      "latitude": "47.57351000",
+      "longitude": "-0.35628000"
+    },
+    {
+      "id": 47146,
+      "name": "Sérigné",
+      "latitude": "46.50107000",
+      "longitude": "-0.84453000"
+    },
+    {
+      "id": 47149,
+      "name": "Sévérac",
+      "latitude": "47.55008000",
+      "longitude": "-2.07496000"
+    },
+    {
+      "id": 46999,
+      "name": "Sillé-le-Guillaume",
+      "latitude": "48.18266000",
+      "longitude": "-0.12642000"
+    },
+    {
+      "id": 47005,
+      "name": "Sion-les-Mines",
+      "latitude": "47.73476000",
+      "longitude": "-1.59190000"
+    },
+    {
+      "id": 47025,
+      "name": "Solesmes",
+      "latitude": "47.85009000",
+      "longitude": "-0.29806000"
+    },
+    {
+      "id": 47057,
+      "name": "Soucelles",
+      "latitude": "47.56848000",
+      "longitude": "-0.41819000"
+    },
+    {
+      "id": 47062,
+      "name": "Soudan",
+      "latitude": "47.73777000",
+      "longitude": "-1.30566000"
+    },
+    {
+      "id": 47069,
+      "name": "Soulaines-sur-Aubance",
+      "latitude": "47.36381000",
+      "longitude": "-0.52265000"
+    },
+    {
+      "id": 47070,
+      "name": "Soulaire-et-Bourg",
+      "latitude": "47.57896000",
+      "longitude": "-0.55232000"
+    },
+    {
+      "id": 47071,
+      "name": "Soulgé-sur-Ouette",
+      "latitude": "48.06667000",
+      "longitude": "-0.56667000"
+    },
+    {
+      "id": 47072,
+      "name": "Souligné-sous-Ballon",
+      "latitude": "48.13758000",
+      "longitude": "0.23572000"
+    },
+    {
+      "id": 47073,
+      "name": "Soullans",
+      "latitude": "46.79624000",
+      "longitude": "-1.90106000"
+    },
+    {
+      "id": 47092,
+      "name": "Spay",
+      "latitude": "47.92384000",
+      "longitude": "0.15258000"
+    },
+    {
+      "id": 47112,
+      "name": "Sucé-sur-Erdre",
+      "latitude": "47.33333000",
+      "longitude": "-1.53333000"
+    },
+    {
+      "id": 47194,
+      "name": "Teillé",
+      "latitude": "47.46170000",
+      "longitude": "-1.27810000"
+    },
+    {
+      "id": 47196,
+      "name": "Teloché",
+      "latitude": "47.88819000",
+      "longitude": "0.27086000"
+    },
+    {
+      "id": 47203,
+      "name": "Tennie",
+      "latitude": "48.10769000",
+      "longitude": "-0.07626000"
+    },
+    {
+      "id": 47252,
+      "name": "Thorigné-sur-Dué",
+      "latitude": "48.03920000",
+      "longitude": "0.53554000"
+    },
+    {
+      "id": 47253,
+      "name": "Thouarcé",
+      "latitude": "47.26734000",
+      "longitude": "-0.50186000"
+    },
+    {
+      "id": 47255,
+      "name": "Thouaré-sur-Loire",
+      "latitude": "47.26893000",
+      "longitude": "-1.43834000"
+    },
+    {
+      "id": 47276,
+      "name": "Tiercé",
+      "latitude": "47.61587000",
+      "longitude": "-0.46609000"
+    },
+    {
+      "id": 47277,
+      "name": "Tiffauges",
+      "latitude": "47.01080000",
+      "longitude": "-1.10999000"
+    },
+    {
+      "id": 47282,
+      "name": "Tillières",
+      "latitude": "47.14397000",
+      "longitude": "-1.16334000"
+    },
+    {
+      "id": 47302,
+      "name": "Torfou",
+      "latitude": "47.03682000",
+      "longitude": "-1.11635000"
+    },
+    {
+      "id": 47342,
+      "name": "Toutlemonde",
+      "latitude": "47.05488000",
+      "longitude": "-0.76548000"
+    },
+    {
+      "id": 47343,
+      "name": "Touvois",
+      "latitude": "46.90208000",
+      "longitude": "-1.68333000"
+    },
+    {
+      "id": 47347,
+      "name": "Trangé",
+      "latitude": "48.02706000",
+      "longitude": "0.11054000"
+    },
+    {
+      "id": 47355,
+      "name": "Treillières",
+      "latitude": "47.33060000",
+      "longitude": "-1.61918000"
+    },
+    {
+      "id": 47356,
+      "name": "Treize-Septiers",
+      "latitude": "46.98524000",
+      "longitude": "-1.22921000"
+    },
+    {
+      "id": 47396,
+      "name": "Trélazé",
+      "latitude": "47.44565000",
+      "longitude": "-0.46540000"
+    },
+    {
+      "id": 47401,
+      "name": "Trémentines",
+      "latitude": "47.12357000",
+      "longitude": "-0.78500000"
+    },
+    {
+      "id": 47367,
+      "name": "Triaize",
+      "latitude": "46.39265000",
+      "longitude": "-1.19785000"
+    },
+    {
+      "id": 47373,
+      "name": "Trignac",
+      "latitude": "47.31809000",
+      "longitude": "-2.18895000"
+    },
+    {
+      "id": 47411,
+      "name": "Tuffé",
+      "latitude": "48.11319000",
+      "longitude": "0.51551000"
+    },
+    {
+      "id": 47449,
+      "name": "Vaas",
+      "latitude": "47.66890000",
+      "longitude": "0.31677000"
+    },
+    {
+      "id": 47454,
+      "name": "Vaiges",
+      "latitude": "48.04025000",
+      "longitude": "-0.47513000"
+    },
+    {
+      "id": 47458,
+      "name": "Vairé",
+      "latitude": "46.60104000",
+      "longitude": "-1.75538000"
+    },
+    {
+      "id": 47489,
+      "name": "Vallet",
+      "latitude": "47.16227000",
+      "longitude": "-1.26607000"
+    },
+    {
+      "id": 47507,
+      "name": "Varades",
+      "latitude": "47.38458000",
+      "longitude": "-1.02842000"
+    },
+    {
+      "id": 47515,
+      "name": "Varennes-sur-Loire",
+      "latitude": "47.23767000",
+      "longitude": "0.05350000"
+    },
+    {
+      "id": 47520,
+      "name": "Varrains",
+      "latitude": "47.22305000",
+      "longitude": "-0.06033000"
+    },
+    {
+      "id": 47528,
+      "name": "Vauchrétien",
+      "latitude": "47.33234000",
+      "longitude": "-0.47678000"
+    },
+    {
+      "id": 47531,
+      "name": "Vaudelnay",
+      "latitude": "47.13813000",
+      "longitude": "-0.20677000"
+    },
+    {
+      "id": 47549,
+      "name": "Vay",
+      "latitude": "47.55466000",
+      "longitude": "-1.70095000"
+    },
+    {
+      "id": 47562,
+      "name": "Venansault",
+      "latitude": "46.68516000",
+      "longitude": "-1.51415000"
+    },
+    {
+      "id": 47576,
+      "name": "Vendrennes",
+      "latitude": "46.82523000",
+      "longitude": "-1.12357000"
+    },
+    {
+      "id": 47606,
+      "name": "Vern-d’Anjou",
+      "latitude": "47.60119000",
+      "longitude": "-0.83357000"
+    },
+    {
+      "id": 47609,
+      "name": "Vernantes",
+      "latitude": "47.39320000",
+      "longitude": "0.05304000"
+    },
+    {
+      "id": 47618,
+      "name": "Vernoil-le-Fourrier",
+      "latitude": "47.38333000",
+      "longitude": "0.08333000"
+    },
+    {
+      "id": 47642,
+      "name": "Vertou",
+      "latitude": "47.16869000",
+      "longitude": "-1.46929000"
+    },
+    {
+      "id": 47658,
+      "name": "Vezins",
+      "latitude": "47.12015000",
+      "longitude": "-0.70971000"
+    },
+    {
+      "id": 47662,
+      "name": "Vibraye",
+      "latitude": "48.05607000",
+      "longitude": "0.74171000"
+    },
+    {
+      "id": 47678,
+      "name": "Vieillevigne",
+      "latitude": "46.97214000",
+      "longitude": "-1.43405000"
+    },
+    {
+      "id": 47696,
+      "name": "Vigneux-de-Bretagne",
+      "latitude": "47.32547000",
+      "longitude": "-1.73678000"
+    },
+    {
+      "id": 47703,
+      "name": "Vihiers",
+      "latitude": "47.14631000",
+      "longitude": "-0.53238000"
+    },
+    {
+      "id": 47707,
+      "name": "Villaines-la-Juhel",
+      "latitude": "48.34416000",
+      "longitude": "-0.27734000"
+    },
+    {
+      "id": 47722,
+      "name": "Villebernier",
+      "latitude": "47.25374000",
+      "longitude": "-0.03229000"
+    },
+    {
+      "id": 47729,
+      "name": "Villedieu-la-Blouère",
+      "latitude": "47.14738000",
+      "longitude": "-1.06286000"
+    },
+    {
+      "id": 47823,
+      "name": "Villevêque",
+      "latitude": "47.56095000",
+      "longitude": "-0.42383000"
+    },
+    {
+      "id": 47855,
+      "name": "Vion",
+      "latitude": "47.81923000",
+      "longitude": "-0.23916000"
+    },
+    {
+      "id": 47887,
+      "name": "Vivy",
+      "latitude": "47.32648000",
+      "longitude": "-0.05531000"
+    },
+    {
+      "id": 47888,
+      "name": "Vix",
+      "latitude": "46.36456000",
+      "longitude": "-0.86072000"
+    },
+    {
+      "id": 47921,
+      "name": "Vue",
+      "latitude": "47.19953000",
+      "longitude": "-1.87750000"
+    },
+    {
+      "id": 48019,
+      "name": "Yvré-le-Pôlin",
+      "latitude": "47.82235000",
+      "longitude": "0.15581000"
+    },
+    {
+      "id": 48020,
+      "name": "Yzernay",
+      "latitude": "47.02229000",
+      "longitude": "-0.70295000"
+    }
+  ],
+  "country": {
+    "id": 75,
+    "name": "France",
+    "iso3": "FRA",
+    "iso2": "FR",
+    "numeric_code": "250",
+    "phone_code": "33",
+    "capital": "Paris",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "native": "France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "프랑스",
+      "pt-BR": "França",
+      "pt": "França",
+      "nl": "Frankrijk",
+      "hr": "Francuska",
+      "fa": "فرانسه",
+      "de": "Frankreich",
+      "es": "Francia",
+      "fr": "France",
+      "ja": "フランス",
+      "it": "Francia",
+      "cn": "法国",
+      "tr": "Fransa"
+    },
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  }
+}

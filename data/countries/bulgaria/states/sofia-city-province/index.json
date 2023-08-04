@@ -1,0 +1,72 @@
+{
+  "id": 4705,
+  "name": "Sofia City Province",
+  "state_code": "22",
+  "latitude": "42.75701090",
+  "longitude": "23.45046830",
+  "type": null,
+  "cities": [
+    {
+      "id": 9291,
+      "name": "Buhovo",
+      "latitude": "42.76667000",
+      "longitude": "23.56667000"
+    },
+    {
+      "id": 9701,
+      "name": "Sofia",
+      "latitude": "42.69751000",
+      "longitude": "23.32415000"
+    },
+    {
+      "id": 9707,
+      "name": "Stolichna Obshtina",
+      "latitude": "42.68647000",
+      "longitude": "23.30561000"
+    }
+  ],
+  "country": {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "numeric_code": "100",
+    "phone_code": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "native": "България",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "불가리아",
+      "pt-BR": "Bulgária",
+      "pt": "Bulgária",
+      "nl": "Bulgarije",
+      "hr": "Bugarska",
+      "fa": "بلغارستان",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア",
+      "it": "Bulgaria",
+      "cn": "保加利亚",
+      "tr": "Bulgaristan"
+    },
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "id": 1853,
+  "name": "Republic of North Ossetia-Alania",
+  "state_code": "SE",
+  "latitude": "43.04513020",
+  "longitude": "44.28709720",
+  "type": null,
+  "cities": [
+    {
+      "id": 97554,
+      "name": "Alagir",
+      "latitude": "43.04222000",
+      "longitude": "44.22222000"
+    },
+    {
+      "id": 97555,
+      "name": "Alagirskiy Rayon",
+      "latitude": "42.83333000",
+      "longitude": "44.08333000"
+    },
+    {
+      "id": 97658,
+      "name": "Ardon",
+      "latitude": "43.17720000",
+      "longitude": "44.29702000"
+    },
+    {
+      "id": 97670,
+      "name": "Arkhonskaya",
+      "latitude": "43.11000000",
+      "longitude": "44.51250000"
+    },
+    {
+      "id": 97910,
+      "name": "Beslan",
+      "latitude": "43.19217000",
+      "longitude": "44.54313000"
+    },
+    {
+      "id": 98163,
+      "name": "Chermen",
+      "latitude": "43.15186000",
+      "longitude": "44.71231000"
+    },
+    {
+      "id": 98194,
+      "name": "Chikola",
+      "latitude": "43.19055000",
+      "longitude": "43.92093000"
+    },
+    {
+      "id": 98230,
+      "name": "Dachnoye",
+      "latitude": "43.08468000",
+      "longitude": "44.73580000"
+    },
+    {
+      "id": 98273,
+      "name": "Digora",
+      "latitude": "43.15806000",
+      "longitude": "44.15694000"
+    },
+    {
+      "id": 98274,
+      "name": "Digorskiy Rayon",
+      "latitude": "43.16667000",
+      "longitude": "44.08333000"
+    },
+    {
+      "id": 98493,
+      "name": "Gizel’",
+      "latitude": "43.04000000",
+      "longitude": "44.57083000"
+    },
+    {
+      "id": 98686,
+      "name": "Irafskiy Rayon",
+      "latitude": "43.00000000",
+      "longitude": "43.75000000"
+    },
+    {
+      "id": 98807,
+      "name": "Kambileyevskoye",
+      "latitude": "43.07858000",
+      "longitude": "44.75216000"
+    },
+    {
+      "id": 98875,
+      "name": "Kardzhin",
+      "latitude": "43.27368000",
+      "longitude": "44.29075000"
+    },
+    {
+      "id": 99018,
+      "name": "Khumalag",
+      "latitude": "43.24031000",
+      "longitude": "44.47521000"
+    },
+    {
+      "id": 99070,
+      "name": "Kirovskiy Rayon",
+      "latitude": "43.33333000",
+      "longitude": "44.33333000"
+    },
+    {
+      "id": 99093,
+      "name": "Kizlyar",
+      "latitude": "43.70379000",
+      "longitude": "44.59440000"
+    },
+    {
+      "id": 99905,
+      "name": "Mikhaylovskoye",
+      "latitude": "43.09972000",
+      "longitude": "44.63164000"
+    },
+    {
+      "id": 99934,
+      "name": "Mizur",
+      "latitude": "42.85376000",
+      "longitude": "44.06393000"
+    },
+    {
+      "id": 99984,
+      "name": "Mozdok",
+      "latitude": "43.74359000",
+      "longitude": "44.65177000"
+    },
+    {
+      "id": 100194,
+      "name": "Nogir",
+      "latitude": "43.08162000",
+      "longitude": "44.63650000"
+    },
+    {
+      "id": 100565,
+      "name": "Pavlodol’skaya",
+      "latitude": "43.71923000",
+      "longitude": "44.47815000"
+    },
+    {
+      "id": 100804,
+      "name": "Pravoberezhnyy Rayon",
+      "latitude": "43.16667000",
+      "longitude": "44.66667000"
+    },
+    {
+      "id": 100822,
+      "name": "Prigorodnyy Rayon",
+      "latitude": "43.08333000",
+      "longitude": "44.83333000"
+    },
+    {
+      "id": 101667,
+      "name": "Sunzha",
+      "latitude": "43.05862000",
+      "longitude": "44.82281000"
+    },
+    {
+      "id": 101779,
+      "name": "Tarskoye",
+      "latitude": "42.96606000",
+      "longitude": "44.77540000"
+    },
+    {
+      "id": 101837,
+      "name": "Terskaya",
+      "latitude": "43.72376000",
+      "longitude": "44.72442000"
+    },
+    {
+      "id": 101923,
+      "name": "Troitskoye",
+      "latitude": "43.76219000",
+      "longitude": "44.68415000"
+    },
+    {
+      "id": 102252,
+      "name": "Verkhniy Fiagdon",
+      "latitude": "42.83454000",
+      "longitude": "44.30604000"
+    },
+    {
+      "id": 102325,
+      "name": "Vladikavkaz",
+      "latitude": "43.03667000",
+      "longitude": "44.66778000"
+    },
+    {
+      "id": 102754,
+      "name": "Zmeyskaya",
+      "latitude": "43.33617000",
+      "longitude": "44.15733000"
+    }
+  ],
+  "country": {
+    "id": 182,
+    "name": "Russia",
+    "iso3": "RUS",
+    "iso2": "RU",
+    "numeric_code": "643",
+    "phone_code": "7",
+    "capital": "Moscow",
+    "currency": "RUB",
+    "currency_name": "Russian ruble",
+    "currency_symbol": "₽",
+    "tld": ".ru",
+    "native": "Россия",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Anadyr",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "ANAT",
+        "tzName": "Anadyr Time[4"
+      },
+      {
+        "zoneName": "Asia/Barnaul",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Chita",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Irkutsk",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "IRKT",
+        "tzName": "Irkutsk Time"
+      },
+      {
+        "zoneName": "Asia/Kamchatka",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "PETT",
+        "tzName": "Kamchatka Time"
+      },
+      {
+        "zoneName": "Asia/Khandyga",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Krasnoyarsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Magadan",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MAGT",
+        "tzName": "Magadan Time"
+      },
+      {
+        "zoneName": "Asia/Novokuznetsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "KRAT",
+        "tzName": "Krasnoyarsk Time"
+      },
+      {
+        "zoneName": "Asia/Novosibirsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "NOVT",
+        "tzName": "Novosibirsk Time"
+      },
+      {
+        "zoneName": "Asia/Omsk",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "OMST",
+        "tzName": "Omsk Time"
+      },
+      {
+        "zoneName": "Asia/Sakhalin",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SAKT",
+        "tzName": "Sakhalin Island Time"
+      },
+      {
+        "zoneName": "Asia/Srednekolymsk",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SRET",
+        "tzName": "Srednekolymsk Time"
+      },
+      {
+        "zoneName": "Asia/Tomsk",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "MSD+3",
+        "tzName": "Moscow Daylight Time+3"
+      },
+      {
+        "zoneName": "Asia/Ust-Nera",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Vladivostok",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "VLAT",
+        "tzName": "Vladivostok Time"
+      },
+      {
+        "zoneName": "Asia/Yakutsk",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "YAKT",
+        "tzName": "Yakutsk Time"
+      },
+      {
+        "zoneName": "Asia/Yekaterinburg",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "YEKT",
+        "tzName": "Yekaterinburg Time"
+      },
+      {
+        "zoneName": "Europe/Astrakhan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Kaliningrad",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Kirov",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Moscow",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Samara",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Saratov",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSD",
+        "tzName": "Moscow Daylight Time+4"
+      },
+      {
+        "zoneName": "Europe/Ulyanovsk",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SAMT",
+        "tzName": "Samara Time"
+      },
+      {
+        "zoneName": "Europe/Volgograd",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "러시아",
+      "pt-BR": "Rússia",
+      "pt": "Rússia",
+      "nl": "Rusland",
+      "hr": "Rusija",
+      "fa": "روسیه",
+      "de": "Russland",
+      "es": "Rusia",
+      "fr": "Russie",
+      "ja": "ロシア連邦",
+      "it": "Russia",
+      "cn": "俄罗斯联邦",
+      "tr": "Rusya"
+    },
+    "latitude": "60.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇷🇺",
+    "emojiU": "U+1F1F7 U+1F1FA"
+  }
+}

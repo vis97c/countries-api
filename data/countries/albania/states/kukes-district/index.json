@@ -1,0 +1,84 @@
+{
+  "id": 623,
+  "name": "Kukës District",
+  "state_code": "KU",
+  "latitude": "42.08074640",
+  "longitude": "20.41429230",
+  "type": null,
+  "cities": [
+    {
+      "id": 151,
+      "name": "Bajram Curri",
+      "latitude": "42.35734000",
+      "longitude": "20.07679000"
+    },
+    {
+      "id": 215,
+      "name": "Krumë",
+      "latitude": "42.19694000",
+      "longitude": "20.41333000"
+    },
+    {
+      "id": 217,
+      "name": "Kukës",
+      "latitude": "42.07694000",
+      "longitude": "20.42194000"
+    },
+    {
+      "id": 247,
+      "name": "Rrethi i Hasit",
+      "latitude": "42.16667000",
+      "longitude": "20.33333000"
+    },
+    {
+      "id": 251,
+      "name": "Rrethi i Kukësit",
+      "latitude": "42.00000000",
+      "longitude": "20.33333000"
+    }
+  ],
+  "country": {
+    "id": 3,
+    "name": "Albania",
+    "iso3": "ALB",
+    "iso2": "AL",
+    "numeric_code": "008",
+    "phone_code": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "native": "Shqipëria",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알바니아",
+      "pt-BR": "Albânia",
+      "pt": "Albânia",
+      "nl": "Albanië",
+      "hr": "Albanija",
+      "fa": "آلبانی",
+      "de": "Albanien",
+      "es": "Albania",
+      "fr": "Albanie",
+      "ja": "アルバニア",
+      "it": "Albania",
+      "cn": "阿尔巴尼亚",
+      "tr": "Arnavutluk"
+    },
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  }
+}

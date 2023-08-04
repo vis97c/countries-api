@@ -1,0 +1,102 @@
+{
+  "id": 54,
+  "name": "Greater Accra",
+  "state_code": "AA",
+  "latitude": "5.81428360",
+  "longitude": "0.07467670",
+  "type": "region",
+  "cities": [
+    {
+      "id": 52149,
+      "name": "Accra",
+      "latitude": "5.55602000",
+      "longitude": "-0.19690000"
+    },
+    {
+      "id": 52159,
+      "name": "Atsiaman",
+      "latitude": "5.69775000",
+      "longitude": "-0.32824000"
+    },
+    {
+      "id": 52169,
+      "name": "Dome",
+      "latitude": "5.65003000",
+      "longitude": "-0.23610000"
+    },
+    {
+      "id": 52175,
+      "name": "Gbawe",
+      "latitude": "5.57692000",
+      "longitude": "-0.31038000"
+    },
+    {
+      "id": 52190,
+      "name": "Medina Estates",
+      "latitude": "5.66580000",
+      "longitude": "-0.16307000"
+    },
+    {
+      "id": 52195,
+      "name": "Nungua",
+      "latitude": "5.60105000",
+      "longitude": "-0.07713000"
+    },
+    {
+      "id": 52211,
+      "name": "Tema",
+      "latitude": "5.66980000",
+      "longitude": "-0.01657000"
+    },
+    {
+      "id": 52212,
+      "name": "Teshi Old Town",
+      "latitude": "5.58365000",
+      "longitude": "-0.10722000"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

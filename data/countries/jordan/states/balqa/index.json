@@ -1,0 +1,72 @@
+{
+  "id": 961,
+  "name": "Balqa",
+  "state_code": "BA",
+  "latitude": "32.03668060",
+  "longitude": "35.72884800",
+  "type": null,
+  "cities": [
+    {
+      "id": 63134,
+      "name": "Al Karāmah",
+      "latitude": "31.95439000",
+      "longitude": "35.58033000"
+    },
+    {
+      "id": 63145,
+      "name": "As Salţ",
+      "latitude": "32.03917000",
+      "longitude": "35.72722000"
+    },
+    {
+      "id": 63195,
+      "name": "Yarqā",
+      "latitude": "31.97583000",
+      "longitude": "35.69638000"
+    }
+  ],
+  "country": {
+    "id": 111,
+    "name": "Jordan",
+    "iso3": "JOR",
+    "iso2": "JO",
+    "numeric_code": "400",
+    "phone_code": "962",
+    "capital": "Amman",
+    "currency": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "ا.د",
+    "tld": ".jo",
+    "native": "الأردن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Amman",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "요르단",
+      "pt-BR": "Jordânia",
+      "pt": "Jordânia",
+      "nl": "Jordanië",
+      "hr": "Jordan",
+      "fa": "اردن",
+      "de": "Jordanien",
+      "es": "Jordania",
+      "fr": "Jordanie",
+      "ja": "ヨルダン",
+      "it": "Giordania",
+      "cn": "约旦",
+      "tr": "Ürdün"
+    },
+    "latitude": "31.00000000",
+    "longitude": "36.00000000",
+    "emoji": "🇯🇴",
+    "emojiU": "U+1F1EF U+1F1F4"
+  }
+}

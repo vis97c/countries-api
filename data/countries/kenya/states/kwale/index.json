@@ -1,0 +1,84 @@
+{
+  "id": 173,
+  "name": "Kwale",
+  "state_code": "19",
+  "latitude": "-4.18161150",
+  "longitude": "39.46056120",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64785,
+      "name": "Gazi",
+      "latitude": "-4.42402000",
+      "longitude": "39.50588000"
+    },
+    {
+      "id": 64807,
+      "name": "Kinango",
+      "latitude": "-4.13723000",
+      "longitude": "39.31528000"
+    },
+    {
+      "id": 64815,
+      "name": "Kwale",
+      "latitude": "-4.17375000",
+      "longitude": "39.45206000"
+    },
+    {
+      "id": 64867,
+      "name": "Sawa Sawa",
+      "latitude": "-4.47166000",
+      "longitude": "39.48463000"
+    },
+    {
+      "id": 64868,
+      "name": "Shimoni",
+      "latitude": "-4.64756000",
+      "longitude": "39.38175000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "id": 2231,
+  "name": "Madeira",
+  "state_code": "30",
+  "latitude": "32.76070740",
+  "longitude": "-16.95947230",
+  "type": null,
+  "cities": [
+    {
+      "id": 89693,
+      "name": "Água de Pena",
+      "latitude": "32.70143000",
+      "longitude": "-16.77874000"
+    },
+    {
+      "id": 88978,
+      "name": "Arco da Calheta",
+      "latitude": "32.71502000",
+      "longitude": "-17.14974000"
+    },
+    {
+      "id": 89038,
+      "name": "Boaventura",
+      "latitude": "32.81846000",
+      "longitude": "-16.97268000"
+    },
+    {
+      "id": 89068,
+      "name": "Calheta",
+      "latitude": "32.71667000",
+      "longitude": "-17.18333000"
+    },
+    {
+      "id": 89071,
+      "name": "Camacha",
+      "latitude": "32.67919000",
+      "longitude": "-16.84462000"
+    },
+    {
+      "id": 89139,
+      "name": "Câmara de Lobos",
+      "latitude": "32.65043000",
+      "longitude": "-16.97718000"
+    },
+    {
+      "id": 89074,
+      "name": "Campanário",
+      "latitude": "32.66578000",
+      "longitude": "-17.03576000"
+    },
+    {
+      "id": 89084,
+      "name": "Canhas",
+      "latitude": "32.69465000",
+      "longitude": "-17.09867000"
+    },
+    {
+      "id": 89086,
+      "name": "Caniçal",
+      "latitude": "32.73834000",
+      "longitude": "-16.73836000"
+    },
+    {
+      "id": 89087,
+      "name": "Caniço",
+      "latitude": "32.65078000",
+      "longitude": "-16.83749000"
+    },
+    {
+      "id": 89138,
+      "name": "Curral das Freiras",
+      "latitude": "32.72029000",
+      "longitude": "-16.96993000"
+    },
+    {
+      "id": 89156,
+      "name": "Estreito da Calheta",
+      "latitude": "32.73704000",
+      "longitude": "-17.18674000"
+    },
+    {
+      "id": 89161,
+      "name": "Faial",
+      "latitude": "32.78333000",
+      "longitude": "-16.85000000"
+    },
+    {
+      "id": 89162,
+      "name": "Fajã da Ovelha",
+      "latitude": "32.77457000",
+      "longitude": "-17.23412000"
+    },
+    {
+      "id": 89197,
+      "name": "Funchal",
+      "latitude": "32.66568000",
+      "longitude": "-16.92547000"
+    },
+    {
+      "id": 89262,
+      "name": "Machico",
+      "latitude": "32.71620000",
+      "longitude": "-16.76758000"
+    },
+    {
+      "id": 89351,
+      "name": "Nossa Senhora do Monte",
+      "latitude": "32.66667000",
+      "longitude": "-16.90000000"
+    },
+    {
+      "id": 89414,
+      "name": "Ponta do Sol",
+      "latitude": "32.67980000",
+      "longitude": "-17.10000000"
+    },
+    {
+      "id": 89432,
+      "name": "Porto da Cruz",
+      "latitude": "32.76667000",
+      "longitude": "-16.83333000"
+    },
+    {
+      "id": 89429,
+      "name": "Porto Moniz",
+      "latitude": "32.86681000",
+      "longitude": "-17.16667000"
+    },
+    {
+      "id": 89431,
+      "name": "Porto Santo",
+      "latitude": "33.07145000",
+      "longitude": "-16.34304000"
+    },
+    {
+      "id": 89465,
+      "name": "Ribeira Brava",
+      "latitude": "32.67483000",
+      "longitude": "-17.06288000"
+    },
+    {
+      "id": 89499,
+      "name": "Santa Cruz",
+      "latitude": "32.68806000",
+      "longitude": "-16.79388000"
+    },
+    {
+      "id": 89509,
+      "name": "Santana",
+      "latitude": "32.80000000",
+      "longitude": "-16.88333000"
+    },
+    {
+      "id": 89563,
+      "name": "São Jorge",
+      "latitude": "32.81667000",
+      "longitude": "-16.90000000"
+    },
+    {
+      "id": 89575,
+      "name": "São Martinho",
+      "latitude": "32.64480000",
+      "longitude": "-16.93843000"
+    },
+    {
+      "id": 89585,
+      "name": "São Roque",
+      "latitude": "32.66667000",
+      "longitude": "-16.91667000"
+    },
+    {
+      "id": 89591,
+      "name": "São Vicente",
+      "latitude": "32.79673000",
+      "longitude": "-17.04323000"
+    }
+  ],
+  "country": {
+    "id": 177,
+    "name": "Portugal",
+    "iso3": "PRT",
+    "iso2": "PT",
+    "numeric_code": "620",
+    "phone_code": "351",
+    "capital": "Lisbon",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".pt",
+    "native": "Portugal",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Azores",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "AZOT",
+        "tzName": "Azores Standard Time"
+      },
+      {
+        "zoneName": "Atlantic/Madeira",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Lisbon",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      }
+    ],
+    "translations": {
+      "kr": "포르투갈",
+      "pt-BR": "Portugal",
+      "pt": "Portugal",
+      "nl": "Portugal",
+      "hr": "Portugal",
+      "fa": "پرتغال",
+      "de": "Portugal",
+      "es": "Portugal",
+      "fr": "Portugal",
+      "ja": "ポルトガル",
+      "it": "Portogallo",
+      "cn": "葡萄牙",
+      "tr": "Portekiz"
+    },
+    "latitude": "39.50000000",
+    "longitude": "-8.00000000",
+    "emoji": "🇵🇹",
+    "emojiU": "U+1F1F5 U+1F1F9"
+  }
+}

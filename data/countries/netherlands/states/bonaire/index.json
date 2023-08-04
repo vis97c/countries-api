@@ -1,0 +1,102 @@
+{
+  "id": 2624,
+  "name": "Bonaire",
+  "state_code": "BQ1",
+  "latitude": "12.20189020",
+  "longitude": "-68.26238220",
+  "type": "special municipality",
+  "cities": [
+    {
+      "id": 150050,
+      "name": "Boven Bolivia",
+      "latitude": "12.18190000",
+      "longitude": "-68.21810000"
+    },
+    {
+      "id": 150051,
+      "name": "Dorp Tera Kora",
+      "latitude": "12.13333000",
+      "longitude": "-68.26667000"
+    },
+    {
+      "id": 150052,
+      "name": "Oranjestad",
+      "latitude": "17.48333333",
+      "longitude": "-62.98333333"
+    },
+    {
+      "id": 150053,
+      "name": "Rincon",
+      "latitude": "12.23833333",
+      "longitude": "-68.33250000"
+    },
+    {
+      "id": 150054,
+      "name": "St. Johns",
+      "latitude": "17.62100750",
+      "longitude": "-63.24316830"
+    },
+    {
+      "id": 150055,
+      "name": "The Bottom",
+      "latitude": "17.62611111",
+      "longitude": "-63.24916667"
+    },
+    {
+      "id": 150056,
+      "name": "Windwardside",
+      "latitude": "17.62864000",
+      "longitude": "-63.23136000"
+    },
+    {
+      "id": 150057,
+      "name": "Zion's Hill",
+      "latitude": "17.64300000",
+      "longitude": "-63.22649000"
+    }
+  ],
+  "country": {
+    "id": 156,
+    "name": "Netherlands",
+    "iso3": "NLD",
+    "iso2": "NL",
+    "numeric_code": "528",
+    "phone_code": "31",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".nl",
+    "native": "Nederland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Amsterdam",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "네덜란드 ",
+      "pt-BR": "Holanda",
+      "pt": "Países Baixos",
+      "nl": "Nederland",
+      "hr": "Nizozemska",
+      "fa": "پادشاهی هلند",
+      "de": "Niederlande",
+      "es": "Países Bajos",
+      "fr": "Pays-Bas",
+      "ja": "オランダ",
+      "it": "Paesi Bassi",
+      "cn": "荷兰",
+      "tr": "Hollanda"
+    },
+    "latitude": "52.50000000",
+    "longitude": "5.75000000",
+    "emoji": "🇳🇱",
+    "emojiU": "U+1F1F3 U+1F1F1"
+  }
+}

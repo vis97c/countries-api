@@ -1,0 +1,45 @@
+{
+  "id": 187,
+  "name": "Saint Pierre and Miquelon",
+  "iso3": "SPM",
+  "iso2": "PM",
+  "numeric_code": "666",
+  "phone_code": "508",
+  "capital": "Saint-Pierre",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".pm",
+  "native": "Saint-Pierre-et-Miquelon",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "timezones": [
+    {
+      "zoneName": "America/Miquelon",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "PMDT",
+      "tzName": "Pierre & Miquelon Daylight Time"
+    }
+  ],
+  "translations": {
+    "kr": "생피에르 미클롱",
+    "pt-BR": "Saint-Pierre e Miquelon",
+    "pt": "São Pedro e Miquelon",
+    "nl": "Saint Pierre en Miquelon",
+    "hr": "Sveti Petar i Mikelon",
+    "fa": "سن پیر و میکلن",
+    "de": "Saint-Pierre und Miquelon",
+    "es": "San Pedro y Miquelón",
+    "fr": "Saint-Pierre-et-Miquelon",
+    "ja": "サンピエール島・ミクロン島",
+    "it": "Saint-Pierre e Miquelon",
+    "cn": "圣皮埃尔和密克隆",
+    "tr": "Saint Pierre Ve Miquelon"
+  },
+  "latitude": "46.83333333",
+  "longitude": "-56.33333333",
+  "emoji": "🇵🇲",
+  "emojiU": "U+1F1F5 U+1F1F2",
+  "states": []
+}

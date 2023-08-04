@@ -1,0 +1,72 @@
+{
+  "id": 4515,
+  "name": "Liquiçá Municipality",
+  "state_code": "LI",
+  "latitude": "-8.66740950",
+  "longitude": "125.25879640",
+  "type": null,
+  "cities": [
+    {
+      "id": 106838,
+      "name": "Bazartete",
+      "latitude": "-8.62464000",
+      "longitude": "125.38168000"
+    },
+    {
+      "id": 106856,
+      "name": "Likisá",
+      "latitude": "-8.58750000",
+      "longitude": "125.34194000"
+    },
+    {
+      "id": 106862,
+      "name": "Maubara",
+      "latitude": "-8.61194000",
+      "longitude": "125.20611000"
+    }
+  ],
+  "country": {
+    "id": 63,
+    "name": "East Timor",
+    "iso3": "TLS",
+    "iso2": "TL",
+    "numeric_code": "626",
+    "phone_code": "670",
+    "capital": "Dili",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tl",
+    "native": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dili",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "TLT",
+        "tzName": "Timor Leste Time"
+      }
+    ],
+    "translations": {
+      "kr": "동티모르",
+      "pt-BR": "Timor Leste",
+      "pt": "Timor Leste",
+      "nl": "Oost-Timor",
+      "hr": "Istočni Timor",
+      "fa": "تیمور شرقی",
+      "de": "Timor-Leste",
+      "es": "Timor Oriental",
+      "fr": "Timor oriental",
+      "ja": "東ティモール",
+      "it": "Timor Est",
+      "cn": "东帝汶",
+      "tr": "Doğu Timor"
+    },
+    "latitude": "-8.83333333",
+    "longitude": "125.91666666",
+    "emoji": "🇹🇱",
+    "emojiU": "U+1F1F9 U+1F1F1"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 3800,
+  "name": "Kiên Giang",
+  "state_code": "47",
+  "latitude": "9.82495870",
+  "longitude": "105.12589550",
+  "type": null,
+  "cities": [
+    {
+      "id": 130199,
+      "name": "Dương Đông",
+      "latitude": "10.21716000",
+      "longitude": "103.95929000"
+    },
+    {
+      "id": 130556,
+      "name": "Hà Tiên",
+      "latitude": "10.38310000",
+      "longitude": "104.48753000"
+    },
+    {
+      "id": 130208,
+      "name": "Huyện An Biên",
+      "latitude": "9.81291000",
+      "longitude": "105.05230000"
+    },
+    {
+      "id": 130210,
+      "name": "Huyện An Minh",
+      "latitude": "9.66704000",
+      "longitude": "104.94848000"
+    },
+    {
+      "id": 130249,
+      "name": "Huyện Châu Thành",
+      "latitude": "9.94372000",
+      "longitude": "105.16868000"
+    },
+    {
+      "id": 130290,
+      "name": "Huyện Giồng Riềng",
+      "latitude": "9.91224000",
+      "longitude": "105.37311000"
+    },
+    {
+      "id": 130295,
+      "name": "Huyện Gò Quao",
+      "latitude": "9.74027000",
+      "longitude": "105.29766000"
+    },
+    {
+      "id": 130307,
+      "name": "Huyện Hòn Đất",
+      "latitude": "10.22908000",
+      "longitude": "104.95280000"
+    },
+    {
+      "id": 130330,
+      "name": "Huyện Kiên Hải",
+      "latitude": "9.83971000",
+      "longitude": "104.61560000"
+    },
+    {
+      "id": 130400,
+      "name": "Huyện Phú Quốc",
+      "latitude": "10.25516000",
+      "longitude": "104.01455000"
+    },
+    {
+      "id": 130481,
+      "name": "Huyện Tân Hiệp",
+      "latitude": "10.09540000",
+      "longitude": "105.25936000"
+    },
+    {
+      "id": 130502,
+      "name": "Huyện Vĩnh Thuận",
+      "latitude": "9.53306000",
+      "longitude": "105.24490000"
+    },
+    {
+      "id": 130564,
+      "name": "Kien Luong Town",
+      "latitude": "10.24892000",
+      "longitude": "104.59000000"
+    },
+    {
+      "id": 130588,
+      "name": "Rạch Giá",
+      "latitude": "10.01245000",
+      "longitude": "105.08091000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": 322,
+  "name": "Osun",
+  "state_code": "OS",
+  "latitude": "7.56289640",
+  "longitude": "4.51995930",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76776,
+      "name": "Apomu",
+      "latitude": "7.35156000",
+      "longitude": "4.18335000"
+    },
+    {
+      "id": 76856,
+      "name": "Ejigbo",
+      "latitude": "7.90292000",
+      "longitude": "4.31419000"
+    },
+    {
+      "id": 76881,
+      "name": "Gbongan",
+      "latitude": "7.47734000",
+      "longitude": "4.35351000"
+    },
+    {
+      "id": 76928,
+      "name": "Ijebu-Jesa",
+      "latitude": "7.68287000",
+      "longitude": "4.81769000"
+    },
+    {
+      "id": 76935,
+      "name": "Ikire",
+      "latitude": "7.36983000",
+      "longitude": "4.18630000"
+    },
+    {
+      "id": 76936,
+      "name": "Ikirun",
+      "latitude": "7.91283000",
+      "longitude": "4.66741000"
+    },
+    {
+      "id": 76938,
+      "name": "Ila Orangun",
+      "latitude": "8.01714000",
+      "longitude": "4.90421000"
+    },
+    {
+      "id": 76941,
+      "name": "Ile-Ife",
+      "latitude": "7.48240000",
+      "longitude": "4.56032000"
+    },
+    {
+      "id": 76942,
+      "name": "Ilesa",
+      "latitude": "7.62789000",
+      "longitude": "4.74161000"
+    },
+    {
+      "id": 76945,
+      "name": "Ilobu",
+      "latitude": "7.84036000",
+      "longitude": "4.48557000"
+    },
+    {
+      "id": 76948,
+      "name": "Inisa",
+      "latitude": "7.85000000",
+      "longitude": "4.33333000"
+    },
+    {
+      "id": 76956,
+      "name": "Iwo",
+      "latitude": "7.63527000",
+      "longitude": "4.18156000"
+    },
+    {
+      "id": 77032,
+      "name": "Modakeke",
+      "latitude": "7.38299000",
+      "longitude": "4.26031000"
+    },
+    {
+      "id": 77059,
+      "name": "Oke Mesi",
+      "latitude": "7.81667000",
+      "longitude": "4.91667000"
+    },
+    {
+      "id": 77064,
+      "name": "Olupona",
+      "latitude": "7.60000000",
+      "longitude": "4.18333000"
+    },
+    {
+      "id": 77075,
+      "name": "Osogbo",
+      "latitude": "7.77104000",
+      "longitude": "4.55698000"
+    },
+    {
+      "id": 77076,
+      "name": "Otan Ayegbaju",
+      "latitude": "7.94783000",
+      "longitude": "4.78836000"
+    },
+    {
+      "id": 77081,
+      "name": "Oyan",
+      "latitude": "8.05000000",
+      "longitude": "4.76667000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 713,
+  "name": "Kavadarci Municipality",
+  "state_code": "36",
+  "latitude": "41.28900680",
+  "longitude": "21.99994350",
+  "type": null,
+  "cities": [
+    {
+      "id": 67450,
+      "name": "Kavadarci",
+      "latitude": "41.43306000",
+      "longitude": "22.01194000"
+    },
+    {
+      "id": 67550,
+      "name": "Vataša",
+      "latitude": "41.41694000",
+      "longitude": "22.01889000"
+    }
+  ],
+  "country": {
+    "id": 129,
+    "name": "North Macedonia",
+    "iso3": "MKD",
+    "iso2": "MK",
+    "numeric_code": "807",
+    "phone_code": "389",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "native": "Северна Македонија",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "북마케도니아",
+      "pt-BR": "Macedônia do Norte",
+      "pt": "Macedónia do Norte",
+      "nl": "Noord-Macedonië",
+      "hr": "Sjeverna Makedonija",
+      "fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+      "de": "Nordmazedonien",
+      "es": "Macedonia del Norte",
+      "fr": "Macédoine du Nord",
+      "ja": "北マケドニア",
+      "it": "Macedonia del Nord",
+      "cn": "北馬其頓",
+      "tr": "Kuzey Makedonya"
+    },
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  }
+}

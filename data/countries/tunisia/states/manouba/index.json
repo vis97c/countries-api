@@ -1,0 +1,78 @@
+{
+  "id": 2555,
+  "name": "Manouba",
+  "state_code": "14",
+  "latitude": "36.84465040",
+  "longitude": "9.85714160",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106942,
+      "name": "El Battan",
+      "latitude": "36.80368000",
+      "longitude": "9.84424000"
+    },
+    {
+      "id": 106982,
+      "name": "Manouba",
+      "latitude": "36.81006000",
+      "longitude": "10.09557000"
+    },
+    {
+      "id": 106999,
+      "name": "Mu‘tamadīyat Manūbah",
+      "latitude": "36.80907000",
+      "longitude": "10.09467000"
+    },
+    {
+      "id": 107004,
+      "name": "Oued Lill",
+      "latitude": "36.83408000",
+      "longitude": "10.04057000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

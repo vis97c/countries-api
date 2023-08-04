@@ -1,0 +1,180 @@
+{
+  "id": 1495,
+  "name": "Southern Savonia",
+  "state_code": "04",
+  "latitude": "61.69451480",
+  "longitude": "27.80050150",
+  "type": "region",
+  "cities": [
+    {
+      "id": 38746,
+      "name": "Enonkoski",
+      "latitude": "62.08333000",
+      "longitude": "28.93333000"
+    },
+    {
+      "id": 38766,
+      "name": "Haukivuori",
+      "latitude": "62.01753000",
+      "longitude": "27.21906000"
+    },
+    {
+      "id": 38769,
+      "name": "Heinävesi",
+      "latitude": "62.43333000",
+      "longitude": "28.60000000"
+    },
+    {
+      "id": 38773,
+      "name": "Hirvensalmi",
+      "latitude": "61.63333000",
+      "longitude": "26.80000000"
+    },
+    {
+      "id": 38811,
+      "name": "Jäppilä",
+      "latitude": "62.37899000",
+      "longitude": "27.43372000"
+    },
+    {
+      "id": 38800,
+      "name": "Joroinen",
+      "latitude": "62.17823000",
+      "longitude": "27.83165000"
+    },
+    {
+      "id": 38806,
+      "name": "Juva",
+      "latitude": "61.90000000",
+      "longitude": "27.85000000"
+    },
+    {
+      "id": 38821,
+      "name": "Kangasniemi",
+      "latitude": "61.99357000",
+      "longitude": "26.64785000"
+    },
+    {
+      "id": 38846,
+      "name": "Kerimäki",
+      "latitude": "61.91069000",
+      "longitude": "29.28228000"
+    },
+    {
+      "id": 38947,
+      "name": "Mäntyharju",
+      "latitude": "61.41667000",
+      "longitude": "26.88333000"
+    },
+    {
+      "id": 38937,
+      "name": "Mikkeli",
+      "latitude": "61.68857000",
+      "longitude": "27.27227000"
+    },
+    {
+      "id": 38981,
+      "name": "Pertunmaa",
+      "latitude": "61.50000000",
+      "longitude": "26.48333000"
+    },
+    {
+      "id": 38983,
+      "name": "Pieksämäki",
+      "latitude": "62.30000000",
+      "longitude": "27.13333000"
+    },
+    {
+      "id": 38998,
+      "name": "Punkaharju",
+      "latitude": "61.75883000",
+      "longitude": "29.38843000"
+    },
+    {
+      "id": 39000,
+      "name": "Puumala",
+      "latitude": "61.52728000",
+      "longitude": "28.17495000"
+    },
+    {
+      "id": 39013,
+      "name": "Rantasalmi",
+      "latitude": "62.06667000",
+      "longitude": "28.30000000"
+    },
+    {
+      "id": 39024,
+      "name": "Ristiina",
+      "latitude": "61.50579000",
+      "longitude": "27.24643000"
+    },
+    {
+      "id": 39041,
+      "name": "Savonlinna",
+      "latitude": "61.86990000",
+      "longitude": "28.87999000"
+    },
+    {
+      "id": 39042,
+      "name": "Savonranta",
+      "latitude": "62.18333000",
+      "longitude": "29.20000000"
+    },
+    {
+      "id": 39057,
+      "name": "Sulkava",
+      "latitude": "61.78691000",
+      "longitude": "28.37299000"
+    },
+    {
+      "id": 39113,
+      "name": "Virtasalmi",
+      "latitude": "62.12695000",
+      "longitude": "27.46276000"
+    }
+  ],
+  "country": {
+    "id": 74,
+    "name": "Finland",
+    "iso3": "FIN",
+    "iso2": "FI",
+    "numeric_code": "246",
+    "phone_code": "358",
+    "capital": "Helsinki",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fi",
+    "native": "Suomi",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Helsinki",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "핀란드",
+      "pt-BR": "Finlândia",
+      "pt": "Finlândia",
+      "nl": "Finland",
+      "hr": "Finska",
+      "fa": "فنلاند",
+      "de": "Finnland",
+      "es": "Finlandia",
+      "fr": "Finlande",
+      "ja": "フィンランド",
+      "it": "Finlandia",
+      "cn": "芬兰",
+      "tr": "Finlandiya"
+    },
+    "latitude": "64.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇫🇮",
+    "emojiU": "U+1F1EB U+1F1EE"
+  }
+}

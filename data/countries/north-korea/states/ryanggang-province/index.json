@@ -1,0 +1,78 @@
+{
+  "id": 3996,
+  "name": "Ryanggang Province",
+  "state_code": "10",
+  "latitude": "41.23189210",
+  "longitude": "128.50763590",
+  "type": null,
+  "cities": [
+    {
+      "id": 65201,
+      "name": "Hyesan",
+      "latitude": "41.40167000",
+      "longitude": "128.17778000"
+    },
+    {
+      "id": 65202,
+      "name": "Hyesan-dong",
+      "latitude": "41.39756000",
+      "longitude": "128.17873000"
+    },
+    {
+      "id": 65209,
+      "name": "Kapsan-ŭp",
+      "latitude": "41.09028000",
+      "longitude": "128.29333000"
+    },
+    {
+      "id": 65249,
+      "name": "Sŭngjibaegam",
+      "latitude": "41.24278000",
+      "longitude": "128.79889000"
+    }
+  ],
+  "country": {
+    "id": 115,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phone_code": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조선민주주의인민공화국",
+      "pt-BR": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "cn": "朝鲜",
+      "tr": "Kuzey Kore"
+    },
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  }
+}

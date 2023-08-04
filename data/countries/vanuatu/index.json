@@ -1,0 +1,147 @@
+{
+  "id": 237,
+  "name": "Vanuatu",
+  "iso3": "VUT",
+  "iso2": "VU",
+  "numeric_code": "548",
+  "phone_code": "678",
+  "capital": "Port Vila",
+  "currency": "VUV",
+  "currency_name": "Vanuatu vatu",
+  "currency_symbol": "VT",
+  "tld": ".vu",
+  "native": "Vanuatu",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Efate",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "VUT",
+      "tzName": "Vanuatu Time"
+    }
+  ],
+  "translations": {
+    "kr": "바누아투",
+    "pt-BR": "Vanuatu",
+    "pt": "Vanuatu",
+    "nl": "Vanuatu",
+    "hr": "Vanuatu",
+    "fa": "وانواتو",
+    "de": "Vanuatu",
+    "es": "Vanuatu",
+    "fr": "Vanuatu",
+    "ja": "バヌアツ",
+    "it": "Vanuatu",
+    "cn": "瓦努阿图",
+    "tr": "Vanuatu"
+  },
+  "latitude": "-16.00000000",
+  "longitude": "167.00000000",
+  "emoji": "🇻🇺",
+  "emojiU": "U+1F1FB U+1F1FA",
+  "states": [
+    {
+      "id": 4775,
+      "name": "Malampa",
+      "state_code": "MAP",
+      "latitude": "-16.40114050",
+      "longitude": "167.60778650",
+      "type": null,
+      "cities": [
+        {
+          "id": 130637,
+          "name": "Lakatoro",
+          "latitude": "-16.09992000",
+          "longitude": "167.41636000"
+        },
+        {
+          "id": 130639,
+          "name": "Norsup",
+          "latitude": "-16.06536000",
+          "longitude": "167.39714000"
+        }
+      ]
+    },
+    {
+      "id": 4773,
+      "name": "Penama",
+      "state_code": "PAM",
+      "latitude": "-15.37957580",
+      "longitude": "167.90531820",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4776,
+      "name": "Sanma",
+      "state_code": "SAM",
+      "latitude": "-15.48400170",
+      "longitude": "166.91820970",
+      "type": null,
+      "cities": [
+        {
+          "id": 130638,
+          "name": "Luganville",
+          "latitude": "-15.51989000",
+          "longitude": "167.16235000"
+        },
+        {
+          "id": 130640,
+          "name": "Port-Olry",
+          "latitude": "-15.04175000",
+          "longitude": "167.07265000"
+        }
+      ]
+    },
+    {
+      "id": 4774,
+      "name": "Shefa",
+      "state_code": "SEE",
+      "latitude": "32.80576500",
+      "longitude": "35.16997100",
+      "type": null,
+      "cities": [
+        {
+          "id": 130641,
+          "name": "Port-Vila",
+          "latitude": "-17.73648000",
+          "longitude": "168.31366000"
+        }
+      ]
+    },
+    {
+      "id": 4777,
+      "name": "Tafea",
+      "state_code": "TAE",
+      "latitude": "-18.72378270",
+      "longitude": "169.06450560",
+      "type": null,
+      "cities": [
+        {
+          "id": 130636,
+          "name": "Isangel",
+          "latitude": "-19.54167000",
+          "longitude": "169.28167000"
+        }
+      ]
+    },
+    {
+      "id": 4772,
+      "name": "Torba",
+      "state_code": "TOB",
+      "latitude": "37.07653000",
+      "longitude": "27.45657300",
+      "type": null,
+      "cities": [
+        {
+          "id": 130642,
+          "name": "Sola",
+          "latitude": "-13.87611000",
+          "longitude": "167.55167000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": 3542,
+  "name": "Prachin Buri",
+  "state_code": "25",
+  "latitude": "14.04206990",
+  "longitude": "101.66008740",
+  "type": null,
+  "cities": [
+    {
+      "id": 105217,
+      "name": "Amphoe Ban Sang",
+      "latitude": "13.95005000",
+      "longitude": "101.25063000"
+    },
+    {
+      "id": 105362,
+      "name": "Amphoe Kabin Buri",
+      "latitude": "13.90000000",
+      "longitude": "101.80000000"
+    },
+    {
+      "id": 105576,
+      "name": "Amphoe Mueang Prachin Buri",
+      "latitude": "14.09335000",
+      "longitude": "101.39776000"
+    },
+    {
+      "id": 105610,
+      "name": "Amphoe Na Di",
+      "latitude": "14.19253000",
+      "longitude": "101.84557000"
+    },
+    {
+      "id": 105794,
+      "name": "Amphoe Prachantakham",
+      "latitude": "14.22813000",
+      "longitude": "101.57440000"
+    },
+    {
+      "id": 106214,
+      "name": "Amphoe Si Maha Phot",
+      "latitude": "13.89041000",
+      "longitude": "101.54181000"
+    },
+    {
+      "id": 106215,
+      "name": "Amphoe Si Mahosot",
+      "latitude": "13.87669000",
+      "longitude": "101.42499000"
+    },
+    {
+      "id": 106504,
+      "name": "Kabin Buri",
+      "latitude": "13.95114000",
+      "longitude": "101.71769000"
+    },
+    {
+      "id": 106655,
+      "name": "Prachin Buri",
+      "latitude": "14.04992000",
+      "longitude": "101.36864000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

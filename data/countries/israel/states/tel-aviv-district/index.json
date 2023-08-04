@@ -1,0 +1,144 @@
+{
+  "id": 1371,
+  "name": "Tel Aviv District",
+  "state_code": "TA",
+  "latitude": "32.09290750",
+  "longitude": "34.80721650",
+  "type": null,
+  "cities": [
+    {
+      "id": 57441,
+      "name": "Azor",
+      "latitude": "32.02430000",
+      "longitude": "34.80632000"
+    },
+    {
+      "id": 57443,
+      "name": "Bat Yam",
+      "latitude": "32.02379000",
+      "longitude": "34.75185000"
+    },
+    {
+      "id": 57451,
+      "name": "Bnei Brak",
+      "latitude": "32.08074000",
+      "longitude": "34.83380000"
+    },
+    {
+      "id": 57471,
+      "name": "Giv'at Shmuel",
+      "latitude": "32.07817000",
+      "longitude": "34.84858000"
+    },
+    {
+      "id": 57472,
+      "name": "Givatayim",
+      "latitude": "32.07225000",
+      "longitude": "34.81253000"
+    },
+    {
+      "id": 57476,
+      "name": "Herzliya",
+      "latitude": "32.16627000",
+      "longitude": "34.82536000"
+    },
+    {
+      "id": 57477,
+      "name": "Herzliya Pituah",
+      "latitude": "32.17409000",
+      "longitude": "34.80280000"
+    },
+    {
+      "id": 57479,
+      "name": "H̱olon",
+      "latitude": "32.01034000",
+      "longitude": "34.77918000"
+    },
+    {
+      "id": 57482,
+      "name": "Jaffa",
+      "latitude": "32.05043000",
+      "longitude": "34.75224000"
+    },
+    {
+      "id": 57496,
+      "name": "Kefar Shemaryahu",
+      "latitude": "32.18529000",
+      "longitude": "34.82082000"
+    },
+    {
+      "id": 57530,
+      "name": "Or Yehuda",
+      "latitude": "32.02923000",
+      "longitude": "34.85788000"
+    },
+    {
+      "id": 57543,
+      "name": "Ramat Gan",
+      "latitude": "32.08227000",
+      "longitude": "34.81065000"
+    },
+    {
+      "id": 57544,
+      "name": "Ramat HaSharon",
+      "latitude": "32.14613000",
+      "longitude": "34.83940000"
+    },
+    {
+      "id": 57564,
+      "name": "Tel Aviv",
+      "latitude": "32.08088000",
+      "longitude": "34.78057000"
+    },
+    {
+      "id": 57575,
+      "name": "Yehud-Monosson",
+      "latitude": "32.02840000",
+      "longitude": "34.87960000"
+    }
+  ],
+  "country": {
+    "id": 106,
+    "name": "Israel",
+    "iso3": "ISR",
+    "iso2": "IL",
+    "numeric_code": "376",
+    "phone_code": "972",
+    "capital": "Jerusalem",
+    "currency": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "tld": ".il",
+    "native": "יִשְׂרָאֵל",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jerusalem",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "IST",
+        "tzName": "Israel Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "이스라엘",
+      "pt-BR": "Israel",
+      "pt": "Israel",
+      "nl": "Israël",
+      "hr": "Izrael",
+      "fa": "اسرائیل",
+      "de": "Israel",
+      "es": "Israel",
+      "fr": "Israël",
+      "ja": "イスラエル",
+      "it": "Israele",
+      "cn": "以色列",
+      "tr": "İsrail"
+    },
+    "latitude": "31.50000000",
+    "longitude": "34.75000000",
+    "emoji": "🇮🇱",
+    "emojiU": "U+1F1EE U+1F1F1"
+  }
+}

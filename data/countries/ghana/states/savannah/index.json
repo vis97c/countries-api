@@ -1,0 +1,96 @@
+{
+  "id": 4962,
+  "name": "Savannah",
+  "state_code": "SV",
+  "latitude": "9.08333300",
+  "longitude": "-1.81666700",
+  "type": "region",
+  "cities": [
+    {
+      "id": 149112,
+      "name": "Bole",
+      "latitude": "9.02996640",
+      "longitude": "-2.50694300"
+    },
+    {
+      "id": 149113,
+      "name": "Central Gonja",
+      "latitude": "8.92784320",
+      "longitude": "-1.95369720"
+    },
+    {
+      "id": 149115,
+      "name": "East Gonja",
+      "latitude": "8.72568400",
+      "longitude": "-1.07135790"
+    },
+    {
+      "id": 149116,
+      "name": "North East Gonja",
+      "latitude": "9.11746690",
+      "longitude": "-0.55579360"
+    },
+    {
+      "id": 149114,
+      "name": "North Gonja",
+      "latitude": "9.54130850",
+      "longitude": "-1.39766920"
+    },
+    {
+      "id": 149117,
+      "name": "Sawla-Tuna-Kalba",
+      "latitude": "9.39114570",
+      "longitude": "-2.70611660"
+    },
+    {
+      "id": 149118,
+      "name": "West Gonja",
+      "latitude": "9.57513170",
+      "longitude": "-2.26440410"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

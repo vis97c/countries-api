@@ -1,0 +1,90 @@
+{
+  "id": 174,
+  "name": "Kilifi",
+  "state_code": "14",
+  "latitude": "-3.51065080",
+  "longitude": "39.90932690",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64789,
+      "name": "Iten",
+      "latitude": "0.67028000",
+      "longitude": "35.50806000"
+    },
+    {
+      "id": 64797,
+      "name": "Kapsowar",
+      "latitude": "0.97890000",
+      "longitude": "35.55854000"
+    },
+    {
+      "id": 64806,
+      "name": "Kilifi",
+      "latitude": "-3.63045000",
+      "longitude": "39.84992000"
+    },
+    {
+      "id": 64828,
+      "name": "Malindi",
+      "latitude": "-3.21799000",
+      "longitude": "40.11692000"
+    },
+    {
+      "id": 64832,
+      "name": "Mariakani",
+      "latitude": "-3.86261000",
+      "longitude": "39.47458000"
+    },
+    {
+      "id": 64872,
+      "name": "Takaungu",
+      "latitude": "-3.68350000",
+      "longitude": "39.85687000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

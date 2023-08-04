@@ -1,0 +1,72 @@
+{
+  "id": 3951,
+  "name": "Funafuti",
+  "state_code": "FUN",
+  "latitude": "-8.52114710",
+  "longitude": "179.19619260",
+  "type": null,
+  "cities": [
+    {
+      "id": 108993,
+      "name": "Alapi Village",
+      "latitude": "-8.52074000",
+      "longitude": "179.19680000"
+    },
+    {
+      "id": 108995,
+      "name": "Fakaifou Village",
+      "latitude": "-8.51758000",
+      "longitude": "179.20094000"
+    },
+    {
+      "id": 108996,
+      "name": "Funafuti",
+      "latitude": "-8.52425000",
+      "longitude": "179.19417000"
+    }
+  ],
+  "country": {
+    "id": 228,
+    "name": "Tuvalu",
+    "iso3": "TUV",
+    "iso2": "TV",
+    "numeric_code": "798",
+    "phone_code": "688",
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".tv",
+    "native": "Tuvalu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Funafuti",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "TVT",
+        "tzName": "Tuvalu Time"
+      }
+    ],
+    "translations": {
+      "kr": "투발루",
+      "pt-BR": "Tuvalu",
+      "pt": "Tuvalu",
+      "nl": "Tuvalu",
+      "hr": "Tuvalu",
+      "fa": "تووالو",
+      "de": "Tuvalu",
+      "es": "Tuvalu",
+      "fr": "Tuvalu",
+      "ja": "ツバル",
+      "it": "Tuvalu",
+      "cn": "图瓦卢",
+      "tr": "Tuvalu"
+    },
+    "latitude": "-8.00000000",
+    "longitude": "178.00000000",
+    "emoji": "🇹🇻",
+    "emojiU": "U+1F1F9 U+1F1FB"
+  }
+}

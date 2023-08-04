@@ -1,0 +1,237 @@
+{
+  "id": 4679,
+  "name": "Mykolaivska oblast",
+  "state_code": "48",
+  "latitude": "46.97503300",
+  "longitude": "31.99458290",
+  "type": "region",
+  "cities": [
+    {
+      "id": 109326,
+      "name": "Arbuzynka",
+      "latitude": "47.90972000",
+      "longitude": "31.31963000"
+    },
+    {
+      "id": 109355,
+      "name": "Bashtanka",
+      "latitude": "47.40719000",
+      "longitude": "32.43868000"
+    },
+    {
+      "id": 109378,
+      "name": "Berezanka",
+      "latitude": "46.85262000",
+      "longitude": "31.38802000"
+    },
+    {
+      "id": 109382,
+      "name": "Bereznehuvate",
+      "latitude": "47.30783000",
+      "longitude": "32.84993000"
+    },
+    {
+      "id": 109569,
+      "name": "Domanivka",
+      "latitude": "47.63192000",
+      "longitude": "30.98851000"
+    },
+    {
+      "id": 109723,
+      "name": "Kazanka",
+      "latitude": "47.84625000",
+      "longitude": "32.82177000"
+    },
+    {
+      "id": 109765,
+      "name": "Kobleve",
+      "latitude": "46.66499000",
+      "longitude": "31.20804000"
+    },
+    {
+      "id": 109815,
+      "name": "Kostyantynivka",
+      "latitude": "47.82660000",
+      "longitude": "31.13551000"
+    },
+    {
+      "id": 109875,
+      "name": "Kryve Ozero",
+      "latitude": "47.95242000",
+      "longitude": "30.34928000"
+    },
+    {
+      "id": 109958,
+      "name": "Lysa Hora",
+      "latitude": "48.17059000",
+      "longitude": "31.10994000"
+    },
+    {
+      "id": 110066,
+      "name": "Myhiya",
+      "latitude": "48.03719000",
+      "longitude": "30.95153000"
+    },
+    {
+      "id": 110071,
+      "name": "Mykolayiv",
+      "latitude": "46.96591000",
+      "longitude": "31.99740000"
+    },
+    {
+      "id": 110106,
+      "name": "Nova Odesa",
+      "latitude": "47.30778000",
+      "longitude": "31.78506000"
+    },
+    {
+      "id": 110159,
+      "name": "Novyy Buh",
+      "latitude": "47.69308000",
+      "longitude": "32.52160000"
+    },
+    {
+      "id": 110176,
+      "name": "Ochakiv",
+      "latitude": "46.61283000",
+      "longitude": "31.54982000"
+    },
+    {
+      "id": 110185,
+      "name": "Ol'shanskoye",
+      "latitude": "47.18411000",
+      "longitude": "31.79375000"
+    },
+    {
+      "id": 110187,
+      "name": "Oleksandrivka",
+      "latitude": "46.83826000",
+      "longitude": "32.76116000"
+    },
+    {
+      "id": 110228,
+      "name": "Parutyne",
+      "latitude": "46.70538000",
+      "longitude": "31.89709000"
+    },
+    {
+      "id": 110251,
+      "name": "Pervomays’k",
+      "latitude": "48.04433000",
+      "longitude": "30.85073000"
+    },
+    {
+      "id": 110267,
+      "name": "Pidhorodna",
+      "latitude": "48.10704000",
+      "longitude": "30.88953000"
+    },
+    {
+      "id": 110396,
+      "name": "Rybakivka",
+      "latitude": "46.61712000",
+      "longitude": "31.34995000"
+    },
+    {
+      "id": 110443,
+      "name": "Shevchenkove",
+      "latitude": "46.86289000",
+      "longitude": "32.20387000"
+    },
+    {
+      "id": 110492,
+      "name": "Snihurivka",
+      "latitude": "47.07579000",
+      "longitude": "32.80516000"
+    },
+    {
+      "id": 110716,
+      "name": "Veselynove",
+      "latitude": "47.35666000",
+      "longitude": "31.23488000"
+    },
+    {
+      "id": 110751,
+      "name": "Voznesensk",
+      "latitude": "47.56494000",
+      "longitude": "31.33078000"
+    },
+    {
+      "id": 110752,
+      "name": "Vradiyivka",
+      "latitude": "47.86195000",
+      "longitude": "30.59195000"
+    },
+    {
+      "id": 110805,
+      "name": "Yuzhnoukrains'k",
+      "latitude": "47.81777000",
+      "longitude": "31.18263000"
+    }
+  ],
+  "country": {
+    "id": 230,
+    "name": "Ukraine",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "numeric_code": "804",
+    "phone_code": "380",
+    "capital": "Kiev",
+    "currency": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "tld": ".ua",
+    "native": "Україна",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Kiev",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Simferopol",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Uzhgorod",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Zaporozhye",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "우크라이나",
+      "pt-BR": "Ucrânia",
+      "pt": "Ucrânia",
+      "nl": "Oekraïne",
+      "hr": "Ukrajina",
+      "fa": "وکراین",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ",
+      "it": "Ucraina",
+      "cn": "乌克兰",
+      "tr": "Ukrayna"
+    },
+    "latitude": "49.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇦",
+    "emojiU": "U+1F1FA U+1F1E6"
+  }
+}

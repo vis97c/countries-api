@@ -1,0 +1,240 @@
+{
+  "id": 2171,
+  "name": "Konya",
+  "state_code": "42",
+  "latitude": "37.98381340",
+  "longitude": "32.71813750",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107075,
+      "name": "Ahırlı",
+      "latitude": "37.24828000",
+      "longitude": "32.12419000"
+    },
+    {
+      "id": 107112,
+      "name": "Akören",
+      "latitude": "37.46265000",
+      "longitude": "32.37489000"
+    },
+    {
+      "id": 107115,
+      "name": "Akşehir",
+      "latitude": "38.35750000",
+      "longitude": "31.41639000"
+    },
+    {
+      "id": 107140,
+      "name": "Altınekin",
+      "latitude": "38.30778000",
+      "longitude": "32.86861000"
+    },
+    {
+      "id": 107345,
+      "name": "Beyşehir",
+      "latitude": "37.67735000",
+      "longitude": "31.72458000"
+    },
+    {
+      "id": 107386,
+      "name": "Bozkır",
+      "latitude": "37.18963000",
+      "longitude": "32.24736000"
+    },
+    {
+      "id": 108816,
+      "name": "Çeltik",
+      "latitude": "39.03388000",
+      "longitude": "31.79408000"
+    },
+    {
+      "id": 107431,
+      "name": "Cihanbeyli",
+      "latitude": "38.66072000",
+      "longitude": "32.92437000"
+    },
+    {
+      "id": 108849,
+      "name": "Çumra",
+      "latitude": "37.57320000",
+      "longitude": "32.77446000"
+    },
+    {
+      "id": 107471,
+      "name": "Derbent",
+      "latitude": "38.01422000",
+      "longitude": "32.01639000"
+    },
+    {
+      "id": 107473,
+      "name": "Derebucak",
+      "latitude": "37.39179000",
+      "longitude": "31.50918000"
+    },
+    {
+      "id": 107513,
+      "name": "Doğanhisar",
+      "latitude": "38.14630000",
+      "longitude": "31.67648000"
+    },
+    {
+      "id": 107578,
+      "name": "Emirgazi",
+      "latitude": "37.90222000",
+      "longitude": "33.83722000"
+    },
+    {
+      "id": 107589,
+      "name": "Ereğli",
+      "latitude": "37.51333000",
+      "longitude": "34.04672000"
+    },
+    {
+      "id": 107745,
+      "name": "Güneysınır",
+      "latitude": "37.27977000",
+      "longitude": "32.73735000"
+    },
+    {
+      "id": 107770,
+      "name": "Hadim",
+      "latitude": "36.98776000",
+      "longitude": "32.45674000"
+    },
+    {
+      "id": 107778,
+      "name": "Halkapınar",
+      "latitude": "37.43394000",
+      "longitude": "34.18743000"
+    },
+    {
+      "id": 107840,
+      "name": "Hüyük",
+      "latitude": "37.95388000",
+      "longitude": "31.59639000"
+    },
+    {
+      "id": 107846,
+      "name": "Ilgın",
+      "latitude": "38.27917000",
+      "longitude": "31.91389000"
+    },
+    {
+      "id": 107864,
+      "name": "Kadınhanı",
+      "latitude": "38.23972000",
+      "longitude": "32.21139000"
+    },
+    {
+      "id": 107912,
+      "name": "Karapınar",
+      "latitude": "37.71596000",
+      "longitude": "33.55064000"
+    },
+    {
+      "id": 107917,
+      "name": "Karatay",
+      "latitude": "37.94001000",
+      "longitude": "32.99828000"
+    },
+    {
+      "id": 108042,
+      "name": "Kulu",
+      "latitude": "39.09513000",
+      "longitude": "33.07989000"
+    },
+    {
+      "id": 108175,
+      "name": "Meram",
+      "latitude": "37.83984000",
+      "longitude": "32.47111000"
+    },
+    {
+      "id": 108394,
+      "name": "Sarayönü",
+      "latitude": "38.26201000",
+      "longitude": "32.40457000"
+    },
+    {
+      "id": 108427,
+      "name": "Selçuklu",
+      "latitude": "38.05761000",
+      "longitude": "32.54088000"
+    },
+    {
+      "id": 108450,
+      "name": "Seydişehir",
+      "latitude": "37.41926000",
+      "longitude": "31.84527000"
+    },
+    {
+      "id": 108546,
+      "name": "Taşkent",
+      "latitude": "36.92430000",
+      "longitude": "32.49131000"
+    },
+    {
+      "id": 108611,
+      "name": "Tuzlukçu",
+      "latitude": "38.47778000",
+      "longitude": "31.62639000"
+    },
+    {
+      "id": 108668,
+      "name": "Yalıhüyük",
+      "latitude": "37.30077000",
+      "longitude": "32.08548000"
+    },
+    {
+      "id": 108738,
+      "name": "Yunak",
+      "latitude": "38.81418000",
+      "longitude": "31.73223000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

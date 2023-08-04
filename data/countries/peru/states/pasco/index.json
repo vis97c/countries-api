@@ -1,0 +1,108 @@
+{
+  "id": 3686,
+  "name": "Pasco",
+  "state_code": "PAS",
+  "latitude": "46.23050490",
+  "longitude": "-119.09223160",
+  "type": null,
+  "cities": [
+    {
+      "id": 80601,
+      "name": "Cerro de Pasco",
+      "latitude": "-10.66748000",
+      "longitude": "-76.25668000"
+    },
+    {
+      "id": 80605,
+      "name": "Chaupimarca",
+      "latitude": "-10.40696000",
+      "longitude": "-76.46168000"
+    },
+    {
+      "id": 80737,
+      "name": "Oxapampa",
+      "latitude": "-10.57750000",
+      "longitude": "-75.40167000"
+    },
+    {
+      "id": 80757,
+      "name": "Paucartambo",
+      "latitude": "-10.77326000",
+      "longitude": "-75.81109000"
+    },
+    {
+      "id": 80820,
+      "name": "Provincia de Daniel Carrión",
+      "latitude": "-10.50000000",
+      "longitude": "-76.50000000"
+    },
+    {
+      "id": 80867,
+      "name": "Provincia de Oxapampa",
+      "latitude": "-10.33333000",
+      "longitude": "-75.08333000"
+    },
+    {
+      "id": 80875,
+      "name": "Provincia de Pasco",
+      "latitude": "-10.66667000",
+      "longitude": "-76.08333000"
+    },
+    {
+      "id": 80994,
+      "name": "Tinyahuarco",
+      "latitude": "-10.76771000",
+      "longitude": "-76.27523000"
+    },
+    {
+      "id": 81008,
+      "name": "Villa Rica",
+      "latitude": "-10.73944000",
+      "longitude": "-75.26972000"
+    }
+  ],
+  "country": {
+    "id": 173,
+    "name": "Peru",
+    "iso3": "PER",
+    "iso2": "PE",
+    "numeric_code": "604",
+    "phone_code": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "native": "Perú",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "translations": {
+      "kr": "페루",
+      "pt-BR": "Peru",
+      "pt": "Peru",
+      "nl": "Peru",
+      "hr": "Peru",
+      "fa": "پرو",
+      "de": "Peru",
+      "es": "Perú",
+      "fr": "Pérou",
+      "ja": "ペルー",
+      "it": "Perù",
+      "cn": "秘鲁",
+      "tr": "Peru"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
+  }
+}

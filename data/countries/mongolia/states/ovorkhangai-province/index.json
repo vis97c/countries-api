@@ -1,0 +1,98 @@
+{
+  "id": 1965,
+  "name": "Övörkhangai Province",
+  "state_code": "055",
+  "latitude": "45.76243920",
+  "longitude": "103.09170320",
+  "type": null,
+  "cities": [
+    {
+      "id": 67707,
+      "name": "Arvayheer",
+      "latitude": "46.26389000",
+      "longitude": "102.77500000"
+    },
+    {
+      "id": 67721,
+      "name": "Harhorin",
+      "latitude": "47.19753000",
+      "longitude": "102.82379000"
+    },
+    {
+      "id": 67722,
+      "name": "Hovd",
+      "latitude": "44.67024000",
+      "longitude": "102.17491000"
+    },
+    {
+      "id": 67723,
+      "name": "Kharkhorin",
+      "latitude": "47.19245000",
+      "longitude": "102.81349000"
+    },
+    {
+      "id": 67729,
+      "name": "Nariynteel",
+      "latitude": "45.95950000",
+      "longitude": "101.45977000"
+    }
+  ],
+  "country": {
+    "id": 146,
+    "name": "Mongolia",
+    "iso3": "MNG",
+    "iso2": "MN",
+    "numeric_code": "496",
+    "phone_code": "976",
+    "capital": "Ulan Bator",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "native": "Монгол улс",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Choibalsan",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "tzName": "Choibalsan Standard Time"
+      },
+      {
+        "zoneName": "Asia/Hovd",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "tzName": "Hovd Time"
+      },
+      {
+        "zoneName": "Asia/Ulaanbaatar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "tzName": "Ulaanbaatar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "몽골",
+      "pt-BR": "Mongólia",
+      "pt": "Mongólia",
+      "nl": "Mongolië",
+      "hr": "Mongolija",
+      "fa": "مغولستان",
+      "de": "Mongolei",
+      "es": "Mongolia",
+      "fr": "Mongolie",
+      "ja": "モンゴル",
+      "it": "Mongolia",
+      "cn": "蒙古",
+      "tr": "Moğolistan"
+    },
+    "latitude": "46.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3"
+  }
+}

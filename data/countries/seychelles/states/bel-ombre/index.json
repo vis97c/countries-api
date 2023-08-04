@@ -1,0 +1,60 @@
+{
+  "id": 505,
+  "name": "Bel Ombre",
+  "state_code": "10",
+  "latitude": "-20.50100950",
+  "longitude": "57.42596240",
+  "type": null,
+  "cities": [
+    {
+      "id": 102909,
+      "name": "Bel Ombre",
+      "latitude": "-4.61667000",
+      "longitude": "55.41667000"
+    }
+  ],
+  "country": {
+    "id": 197,
+    "name": "Seychelles",
+    "iso3": "SYC",
+    "iso2": "SC",
+    "numeric_code": "690",
+    "phone_code": "248",
+    "capital": "Victoria",
+    "currency": "SCR",
+    "currency_name": "Seychellois rupee",
+    "currency_symbol": "SRe",
+    "tld": ".sc",
+    "native": "Seychelles",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ],
+    "translations": {
+      "kr": "세이셸",
+      "pt-BR": "Seicheles",
+      "pt": "Seicheles",
+      "nl": "Seychellen",
+      "hr": "Sejšeli",
+      "fa": "سیشل",
+      "de": "Seychellen",
+      "es": "Seychelles",
+      "fr": "Seychelles",
+      "ja": "セーシェル",
+      "it": "Seychelles",
+      "cn": "塞舌尔",
+      "tr": "Seyşeller"
+    },
+    "latitude": "-4.58333333",
+    "longitude": "55.66666666",
+    "emoji": "🇸🇨",
+    "emojiU": "U+1F1F8 U+1F1E8"
+  }
+}

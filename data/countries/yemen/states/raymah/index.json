@@ -1,0 +1,90 @@
+{
+  "id": 1248,
+  "name": "Raymah",
+  "state_code": "RA",
+  "latitude": "14.62776820",
+  "longitude": "43.71424840",
+  "type": null,
+  "cities": [
+    {
+      "id": 130701,
+      "name": "Al Jabin",
+      "latitude": "14.68990000",
+      "longitude": "43.61960000"
+    },
+    {
+      "id": 130702,
+      "name": "Al Jafariyah",
+      "latitude": "14.51960000",
+      "longitude": "43.58170000"
+    },
+    {
+      "id": 130776,
+      "name": "As Salafiyah",
+      "latitude": "14.68660000",
+      "longitude": "43.82160000"
+    },
+    {
+      "id": 130826,
+      "name": "Bilad At Ta'am",
+      "latitude": "14.83820000",
+      "longitude": "43.60780000"
+    },
+    {
+      "id": 130899,
+      "name": "Kusmah",
+      "latitude": "14.54740000",
+      "longitude": "43.68330000"
+    },
+    {
+      "id": 130920,
+      "name": "Mazhar",
+      "latitude": "14.57090000",
+      "longitude": "43.76070000"
+    }
+  ],
+  "country": {
+    "id": 245,
+    "name": "Yemen",
+    "iso3": "YEM",
+    "iso2": "YE",
+    "numeric_code": "887",
+    "phone_code": "967",
+    "capital": "Sanaa",
+    "currency": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "tld": ".ye",
+    "native": "اليَمَن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Aden",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "예멘",
+      "pt-BR": "Iêmen",
+      "pt": "Iémen",
+      "nl": "Jemen",
+      "hr": "Jemen",
+      "fa": "یمن",
+      "de": "Jemen",
+      "es": "Yemen",
+      "fr": "Yémen",
+      "ja": "イエメン",
+      "it": "Yemen",
+      "cn": "也门",
+      "tr": "Yemen"
+    },
+    "latitude": "15.00000000",
+    "longitude": "48.00000000",
+    "emoji": "🇾🇪",
+    "emojiU": "U+1F1FE U+1F1EA"
+  }
+}

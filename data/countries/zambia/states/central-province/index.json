@@ -1,0 +1,96 @@
+{
+  "id": 1986,
+  "name": "Central Province",
+  "state_code": "02",
+  "latitude": "7.25649960",
+  "longitude": "80.72144170",
+  "type": null,
+  "cities": [
+    {
+      "id": 131332,
+      "name": "Chibombo",
+      "latitude": "-14.65685000",
+      "longitude": "28.07057000"
+    },
+    {
+      "id": 131333,
+      "name": "Chibombo District",
+      "latitude": "-14.65808000",
+      "longitude": "28.07376000"
+    },
+    {
+      "id": 131345,
+      "name": "Kabwe",
+      "latitude": "-14.44690000",
+      "longitude": "28.44644000"
+    },
+    {
+      "id": 131352,
+      "name": "Kapiri Mposhi",
+      "latitude": "-13.97147000",
+      "longitude": "28.66985000"
+    },
+    {
+      "id": 131371,
+      "name": "Mkushi",
+      "latitude": "-13.62015000",
+      "longitude": "29.39390000"
+    },
+    {
+      "id": 131380,
+      "name": "Mumbwa",
+      "latitude": "-14.98293000",
+      "longitude": "27.06190000"
+    },
+    {
+      "id": 131393,
+      "name": "Serenje",
+      "latitude": "-13.23251000",
+      "longitude": "30.23522000"
+    }
+  ],
+  "country": {
+    "id": 246,
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "numeric_code": "894",
+    "phone_code": "260",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "native": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "잠비아",
+      "pt-BR": "Zâmbia",
+      "pt": "Zâmbia",
+      "nl": "Zambia",
+      "hr": "Zambija",
+      "fa": "زامبیا",
+      "de": "Sambia",
+      "es": "Zambia",
+      "fr": "Zambie",
+      "ja": "ザンビア",
+      "it": "Zambia",
+      "cn": "赞比亚",
+      "tr": "Zambiya"
+    },
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  }
+}

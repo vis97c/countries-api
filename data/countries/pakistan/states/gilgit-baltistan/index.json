@@ -1,0 +1,72 @@
+{
+  "id": 3170,
+  "name": "Gilgit-Baltistan",
+  "state_code": "GB",
+  "latitude": "35.80256670",
+  "longitude": "74.98318080",
+  "type": null,
+  "cities": [
+    {
+      "id": 85352,
+      "name": "Barishal",
+      "latitude": "36.32162000",
+      "longitude": "74.69502000"
+    },
+    {
+      "id": 85450,
+      "name": "Gilgit",
+      "latitude": "35.91869000",
+      "longitude": "74.31245000"
+    },
+    {
+      "id": 85724,
+      "name": "Skardu",
+      "latitude": "35.29787000",
+      "longitude": "75.63372000"
+    }
+  ],
+  "country": {
+    "id": 167,
+    "name": "Pakistan",
+    "iso3": "PAK",
+    "iso2": "PK",
+    "numeric_code": "586",
+    "phone_code": "92",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "currency_name": "Pakistani rupee",
+    "currency_symbol": "₨",
+    "tld": ".pk",
+    "native": "Pakistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Karachi",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "PKT",
+        "tzName": "Pakistan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "파키스탄",
+      "pt-BR": "Paquistão",
+      "pt": "Paquistão",
+      "nl": "Pakistan",
+      "hr": "Pakistan",
+      "fa": "پاکستان",
+      "de": "Pakistan",
+      "es": "Pakistán",
+      "fr": "Pakistan",
+      "ja": "パキスタン",
+      "it": "Pakistan",
+      "cn": "巴基斯坦",
+      "tr": "Pakistan"
+    },
+    "latitude": "30.00000000",
+    "longitude": "70.00000000",
+    "emoji": "🇵🇰",
+    "emojiU": "U+1F1F5 U+1F1F0"
+  }
+}

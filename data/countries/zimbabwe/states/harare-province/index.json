@@ -1,0 +1,72 @@
+{
+  "id": 1958,
+  "name": "Harare Province",
+  "state_code": "HA",
+  "latitude": "-17.82162880",
+  "longitude": "31.04922590",
+  "type": null,
+  "cities": [
+    {
+      "id": 131425,
+      "name": "Chitungwiza",
+      "latitude": "-18.01274000",
+      "longitude": "31.07555000"
+    },
+    {
+      "id": 131431,
+      "name": "Epworth",
+      "latitude": "-17.89000000",
+      "longitude": "31.14750000"
+    },
+    {
+      "id": 131443,
+      "name": "Harare",
+      "latitude": "-17.82772000",
+      "longitude": "31.05337000"
+    }
+  ],
+  "country": {
+    "id": 247,
+    "name": "Zimbabwe",
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "numeric_code": "716",
+    "phone_code": "263",
+    "capital": "Harare",
+    "currency": "ZWL",
+    "currency_name": "Zimbabwe Dollar",
+    "currency_symbol": "$",
+    "tld": ".zw",
+    "native": "Zimbabwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Harare",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "짐바브웨",
+      "pt-BR": "Zimbabwe",
+      "pt": "Zimbabué",
+      "nl": "Zimbabwe",
+      "hr": "Zimbabve",
+      "fa": "زیمباوه",
+      "de": "Simbabwe",
+      "es": "Zimbabue",
+      "fr": "Zimbabwe",
+      "ja": "ジンバブエ",
+      "it": "Zimbabwe",
+      "cn": "津巴布韦",
+      "tr": "Zimbabve"
+    },
+    "latitude": "-20.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇼",
+    "emojiU": "U+1F1FF U+1F1FC"
+  }
+}

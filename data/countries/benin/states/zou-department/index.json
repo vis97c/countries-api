@@ -1,0 +1,78 @@
+{
+  "id": 3073,
+  "name": "Zou Department",
+  "state_code": "ZO",
+  "latitude": "7.34692680",
+  "longitude": "2.06651970",
+  "type": null,
+  "cities": [
+    {
+      "id": 9779,
+      "name": "Abomey",
+      "latitude": "7.18286000",
+      "longitude": "1.99119000"
+    },
+    {
+      "id": 9785,
+      "name": "Bohicon",
+      "latitude": "7.17826000",
+      "longitude": "2.06670000"
+    },
+    {
+      "id": 9787,
+      "name": "Commune of Agbangnizoun",
+      "latitude": "7.07600000",
+      "longitude": "1.96100000"
+    },
+    {
+      "id": 9792,
+      "name": "Cové",
+      "latitude": "7.22097000",
+      "longitude": "2.34017000"
+    }
+  ],
+  "country": {
+    "id": 24,
+    "name": "Benin",
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "numeric_code": "204",
+    "phone_code": "229",
+    "capital": "Porto-Novo",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".bj",
+    "native": "Bénin",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Porto-Novo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "베냉",
+      "pt-BR": "Benin",
+      "pt": "Benim",
+      "nl": "Benin",
+      "hr": "Benin",
+      "fa": "بنین",
+      "de": "Benin",
+      "es": "Benín",
+      "fr": "Bénin",
+      "ja": "ベナン",
+      "it": "Benin",
+      "cn": "贝宁",
+      "tr": "Benin"
+    },
+    "latitude": "9.50000000",
+    "longitude": "2.25000000",
+    "emoji": "🇧🇯",
+    "emojiU": "U+1F1E7 U+1F1EF"
+  }
+}

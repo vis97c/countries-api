@@ -1,0 +1,96 @@
+{
+  "id": 2561,
+  "name": "Kef",
+  "state_code": "33",
+  "latitude": "36.12305120",
+  "longitude": "8.66005860",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106917,
+      "name": "As Sars",
+      "latitude": "36.07640000",
+      "longitude": "9.02117000"
+    },
+    {
+      "id": 106947,
+      "name": "El Kef",
+      "latitude": "36.17424000",
+      "longitude": "8.70486000"
+    },
+    {
+      "id": 106948,
+      "name": "El Ksour",
+      "latitude": "35.89607000",
+      "longitude": "8.88493000"
+    },
+    {
+      "id": 106992,
+      "name": "Menzel Salem",
+      "latitude": "35.85673000",
+      "longitude": "8.47654000"
+    },
+    {
+      "id": 107002,
+      "name": "Nibbar",
+      "latitude": "36.29411000",
+      "longitude": "8.76657000"
+    },
+    {
+      "id": 107013,
+      "name": "Sakiet Sidi Youssef",
+      "latitude": "36.22292000",
+      "longitude": "8.35547000"
+    },
+    {
+      "id": 107032,
+      "name": "Tajerouine",
+      "latitude": "35.89174000",
+      "longitude": "8.55276000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

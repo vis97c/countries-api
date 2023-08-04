@@ -1,0 +1,933 @@
+{
+  "id": 872,
+  "name": "Alberta",
+  "state_code": "AB",
+  "latitude": "53.93327060",
+  "longitude": "-116.57650350",
+  "type": "province",
+  "cities": [
+    {
+      "id": 16151,
+      "name": "Airdrie",
+      "latitude": "51.30011000",
+      "longitude": "-114.03528000"
+    },
+    {
+      "id": 16178,
+      "name": "Athabasca",
+      "latitude": "54.71687000",
+      "longitude": "-113.28537000"
+    },
+    {
+      "id": 16190,
+      "name": "Banff",
+      "latitude": "51.17622000",
+      "longitude": "-115.56982000"
+    },
+    {
+      "id": 16192,
+      "name": "Barrhead",
+      "latitude": "54.13345000",
+      "longitude": "-114.40211000"
+    },
+    {
+      "id": 16196,
+      "name": "Bassano",
+      "latitude": "50.78342000",
+      "longitude": "-112.46854000"
+    },
+    {
+      "id": 16204,
+      "name": "Beaumont",
+      "latitude": "53.35013000",
+      "longitude": "-113.41871000"
+    },
+    {
+      "id": 16207,
+      "name": "Beaverlodge",
+      "latitude": "55.21664000",
+      "longitude": "-119.43605000"
+    },
+    {
+      "id": 16219,
+      "name": "Black Diamond",
+      "latitude": "50.70011000",
+      "longitude": "-114.23530000"
+    },
+    {
+      "id": 16220,
+      "name": "Blackfalds",
+      "latitude": "52.38342000",
+      "longitude": "-113.78530000"
+    },
+    {
+      "id": 16226,
+      "name": "Bon Accord",
+      "latitude": "53.83345000",
+      "longitude": "-113.41872000"
+    },
+    {
+      "id": 16229,
+      "name": "Bonnyville",
+      "latitude": "54.26684000",
+      "longitude": "-110.73505000"
+    },
+    {
+      "id": 16234,
+      "name": "Bow Island",
+      "latitude": "49.86676000",
+      "longitude": "-111.36843000"
+    },
+    {
+      "id": 16245,
+      "name": "Brooks",
+      "latitude": "50.58341000",
+      "longitude": "-111.88509000"
+    },
+    {
+      "id": 16259,
+      "name": "Calgary",
+      "latitude": "51.05011000",
+      "longitude": "-114.08529000"
+    },
+    {
+      "id": 16260,
+      "name": "Calmar",
+      "latitude": "53.26683000",
+      "longitude": "-113.81874000"
+    },
+    {
+      "id": 16265,
+      "name": "Camrose",
+      "latitude": "53.01684000",
+      "longitude": "-112.83525000"
+    },
+    {
+      "id": 16267,
+      "name": "Canmore",
+      "latitude": "51.08335000",
+      "longitude": "-115.35206000"
+    },
+    {
+      "id": 16277,
+      "name": "Cardston",
+      "latitude": "49.19998000",
+      "longitude": "-113.30190000"
+    },
+    {
+      "id": 16284,
+      "name": "Carstairs",
+      "latitude": "51.56681000",
+      "longitude": "-114.10200000"
+    },
+    {
+      "id": 16305,
+      "name": "Chestermere",
+      "latitude": "51.03341000",
+      "longitude": "-113.81867000"
+    },
+    {
+      "id": 16314,
+      "name": "Claresholm",
+      "latitude": "50.03332000",
+      "longitude": "-113.58524000"
+    },
+    {
+      "id": 16316,
+      "name": "Coaldale",
+      "latitude": "49.71670000",
+      "longitude": "-112.61854000"
+    },
+    {
+      "id": 16317,
+      "name": "Coalhurst",
+      "latitude": "49.74640000",
+      "longitude": "-112.93246000"
+    },
+    {
+      "id": 16320,
+      "name": "Cochrane",
+      "latitude": "51.18341000",
+      "longitude": "-114.46871000"
+    },
+    {
+      "id": 16323,
+      "name": "Cold Lake",
+      "latitude": "54.46525000",
+      "longitude": "-110.18154000"
+    },
+    {
+      "id": 16349,
+      "name": "Crossfield",
+      "latitude": "51.43341000",
+      "longitude": "-114.03528000"
+    },
+    {
+      "id": 16371,
+      "name": "Devon",
+      "latitude": "53.36683000",
+      "longitude": "-113.73533000"
+    },
+    {
+      "id": 16372,
+      "name": "Didsbury",
+      "latitude": "51.66681000",
+      "longitude": "-114.13529000"
+    },
+    {
+      "id": 16383,
+      "name": "Drayton Valley",
+      "latitude": "53.21682000",
+      "longitude": "-114.98544000"
+    },
+    {
+      "id": 16396,
+      "name": "Edmonton",
+      "latitude": "53.55014000",
+      "longitude": "-113.46871000"
+    },
+    {
+      "id": 16398,
+      "name": "Edson",
+      "latitude": "53.58345000",
+      "longitude": "-116.43559000"
+    },
+    {
+      "id": 16399,
+      "name": "Elk Point",
+      "latitude": "53.90017000",
+      "longitude": "-110.90170000"
+    },
+    {
+      "id": 16413,
+      "name": "Fairview",
+      "latitude": "56.06675000",
+      "longitude": "-118.38606000"
+    },
+    {
+      "id": 16415,
+      "name": "Falher",
+      "latitude": "55.73339000",
+      "longitude": "-117.20262000"
+    },
+    {
+      "id": 16429,
+      "name": "Fort Macleod",
+      "latitude": "49.71671000",
+      "longitude": "-113.41857000"
+    },
+    {
+      "id": 16430,
+      "name": "Fort McMurray",
+      "latitude": "56.72676000",
+      "longitude": "-111.38103000"
+    },
+    {
+      "id": 16433,
+      "name": "Fort Saskatchewan",
+      "latitude": "53.71684000",
+      "longitude": "-113.21870000"
+    },
+    {
+      "id": 16438,
+      "name": "Fox Creek",
+      "latitude": "54.40007000",
+      "longitude": "-116.80238000"
+    },
+    {
+      "id": 16450,
+      "name": "Gibbons",
+      "latitude": "53.83345000",
+      "longitude": "-113.33531000"
+    },
+    {
+      "id": 16463,
+      "name": "Grand Centre",
+      "latitude": "54.41628000",
+      "longitude": "-110.21304000"
+    },
+    {
+      "id": 16466,
+      "name": "Grande Cache",
+      "latitude": "53.88335000",
+      "longitude": "-119.13585000"
+    },
+    {
+      "id": 16467,
+      "name": "Grande Prairie",
+      "latitude": "55.16667000",
+      "longitude": "-118.80271000"
+    },
+    {
+      "id": 16476,
+      "name": "Grimshaw",
+      "latitude": "56.18339000",
+      "longitude": "-117.60270000"
+    },
+    {
+      "id": 16488,
+      "name": "Hanna",
+      "latitude": "51.63343000",
+      "longitude": "-111.90181000"
+    },
+    {
+      "id": 16502,
+      "name": "Heritage Pointe",
+      "latitude": "50.84213000",
+      "longitude": "-114.00493000"
+    },
+    {
+      "id": 16503,
+      "name": "High Level",
+      "latitude": "58.51688000",
+      "longitude": "-117.13605000"
+    },
+    {
+      "id": 16504,
+      "name": "High Prairie",
+      "latitude": "55.43340000",
+      "longitude": "-116.48580000"
+    },
+    {
+      "id": 16505,
+      "name": "High River",
+      "latitude": "50.58341000",
+      "longitude": "-113.86867000"
+    },
+    {
+      "id": 16506,
+      "name": "Hinton",
+      "latitude": "53.40009000",
+      "longitude": "-117.58567000"
+    },
+    {
+      "id": 16526,
+      "name": "Irricana",
+      "latitude": "51.32372000",
+      "longitude": "-113.60475000"
+    },
+    {
+      "id": 16528,
+      "name": "Jasper Park Lodge",
+      "latitude": "52.88633000",
+      "longitude": "-118.05625000"
+    },
+    {
+      "id": 16543,
+      "name": "Killam",
+      "latitude": "52.78344000",
+      "longitude": "-111.85175000"
+    },
+    {
+      "id": 16575,
+      "name": "Lac La Biche",
+      "latitude": "54.76690000",
+      "longitude": "-111.96861000"
+    },
+    {
+      "id": 16585,
+      "name": "Lacombe",
+      "latitude": "52.46681000",
+      "longitude": "-113.73530000"
+    },
+    {
+      "id": 16592,
+      "name": "Lamont",
+      "latitude": "53.76686000",
+      "longitude": "-112.80195000"
+    },
+    {
+      "id": 16602,
+      "name": "Larkspur",
+      "latitude": "53.47942000",
+      "longitude": "-113.38142000"
+    },
+    {
+      "id": 16603,
+      "name": "Laurel",
+      "latitude": "53.44667000",
+      "longitude": "-113.38197000"
+    },
+    {
+      "id": 16610,
+      "name": "Leduc",
+      "latitude": "53.26682000",
+      "longitude": "-113.55201000"
+    },
+    {
+      "id": 16614,
+      "name": "Lethbridge",
+      "latitude": "49.69999000",
+      "longitude": "-112.81856000"
+    },
+    {
+      "id": 16625,
+      "name": "Lloydminster",
+      "latitude": "53.27237000",
+      "longitude": "-110.02256000"
+    },
+    {
+      "id": 16645,
+      "name": "Magrath",
+      "latitude": "49.41668000",
+      "longitude": "-112.86856000"
+    },
+    {
+      "id": 16653,
+      "name": "Manning",
+      "latitude": "56.91683000",
+      "longitude": "-117.61945000"
+    },
+    {
+      "id": 16654,
+      "name": "Mannville",
+      "latitude": "53.33764000",
+      "longitude": "-111.17750000"
+    },
+    {
+      "id": 16657,
+      "name": "Maple Ridge",
+      "latitude": "53.50172000",
+      "longitude": "-113.36274000"
+    },
+    {
+      "id": 16671,
+      "name": "Mayerthorpe",
+      "latitude": "53.95015000",
+      "longitude": "-115.13547000"
+    },
+    {
+      "id": 16675,
+      "name": "Medicine Hat",
+      "latitude": "50.03928000",
+      "longitude": "-110.67661000"
+    },
+    {
+      "id": 16689,
+      "name": "Mill Woods Town Centre",
+      "latitude": "53.45639000",
+      "longitude": "-113.42751000"
+    },
+    {
+      "id": 16691,
+      "name": "Millet",
+      "latitude": "53.10013000",
+      "longitude": "-113.46870000"
+    },
+    {
+      "id": 16719,
+      "name": "Morinville",
+      "latitude": "53.80014000",
+      "longitude": "-113.65203000"
+    },
+    {
+      "id": 16729,
+      "name": "Nanton",
+      "latitude": "50.35008000",
+      "longitude": "-113.76866000"
+    },
+    {
+      "id": 16774,
+      "name": "Okotoks",
+      "latitude": "50.72885000",
+      "longitude": "-113.98281000"
+    },
+    {
+      "id": 16775,
+      "name": "Olds",
+      "latitude": "51.78341000",
+      "longitude": "-114.10199000"
+    },
+    {
+      "id": 16803,
+      "name": "Peace River",
+      "latitude": "56.23715000",
+      "longitude": "-117.29176000"
+    },
+    {
+      "id": 16810,
+      "name": "Penhold",
+      "latitude": "52.13342000",
+      "longitude": "-113.86870000"
+    },
+    {
+      "id": 16820,
+      "name": "Picture Butte",
+      "latitude": "49.88330000",
+      "longitude": "-112.78516000"
+    },
+    {
+      "id": 16824,
+      "name": "Pincher Creek",
+      "latitude": "49.48328000",
+      "longitude": "-113.95195000"
+    },
+    {
+      "id": 16834,
+      "name": "Ponoka",
+      "latitude": "52.67680000",
+      "longitude": "-113.58147000"
+    },
+    {
+      "id": 16861,
+      "name": "Provost",
+      "latitude": "52.35014000",
+      "longitude": "-110.26828000"
+    },
+    {
+      "id": 16871,
+      "name": "Raymond",
+      "latitude": "49.44998000",
+      "longitude": "-112.65185000"
+    },
+    {
+      "id": 16873,
+      "name": "Red Deer",
+      "latitude": "52.26682000",
+      "longitude": "-113.80200000"
+    },
+    {
+      "id": 16889,
+      "name": "Rideau Park",
+      "latitude": "53.47899000",
+      "longitude": "-113.50470000"
+    },
+    {
+      "id": 16892,
+      "name": "Rimbey",
+      "latitude": "52.63340000",
+      "longitude": "-114.23532000"
+    },
+    {
+      "id": 16901,
+      "name": "Rocky Mountain House",
+      "latitude": "52.36683000",
+      "longitude": "-114.91880000"
+    },
+    {
+      "id": 17029,
+      "name": "Sexsmith",
+      "latitude": "55.34998000",
+      "longitude": "-118.78602000"
+    },
+    {
+      "id": 17040,
+      "name": "Sherwood Park",
+      "latitude": "53.51684000",
+      "longitude": "-113.31870000"
+    },
+    {
+      "id": 17044,
+      "name": "Silver Berry",
+      "latitude": "53.45787000",
+      "longitude": "-113.38170000"
+    },
+    {
+      "id": 17049,
+      "name": "Slave Lake",
+      "latitude": "55.28344000",
+      "longitude": "-114.76896000"
+    },
+    {
+      "id": 17052,
+      "name": "Smoky Lake",
+      "latitude": "54.11687000",
+      "longitude": "-112.46863000"
+    },
+    {
+      "id": 17061,
+      "name": "Spirit River",
+      "latitude": "55.78327000",
+      "longitude": "-118.83607000"
+    },
+    {
+      "id": 17062,
+      "name": "Springbrook",
+      "latitude": "52.17920000",
+      "longitude": "-113.87981000"
+    },
+    {
+      "id": 17065,
+      "name": "Spruce Grove",
+      "latitude": "53.53344000",
+      "longitude": "-113.91874000"
+    },
+    {
+      "id": 17068,
+      "name": "St. Albert",
+      "latitude": "53.63344000",
+      "longitude": "-113.63533000"
+    },
+    {
+      "id": 17078,
+      "name": "Stettler",
+      "latitude": "52.31683000",
+      "longitude": "-112.71861000"
+    },
+    {
+      "id": 17082,
+      "name": "Stony Plain",
+      "latitude": "53.53343000",
+      "longitude": "-114.00205000"
+    },
+    {
+      "id": 17084,
+      "name": "Strathmore",
+      "latitude": "51.05011000",
+      "longitude": "-113.38523000"
+    },
+    {
+      "id": 17088,
+      "name": "Sundre",
+      "latitude": "51.80010000",
+      "longitude": "-114.63532000"
+    },
+    {
+      "id": 17092,
+      "name": "Swan Hills",
+      "latitude": "54.71681000",
+      "longitude": "-115.40226000"
+    },
+    {
+      "id": 17097,
+      "name": "Sylvan Lake",
+      "latitude": "52.31100000",
+      "longitude": "-114.08375000"
+    },
+    {
+      "id": 17098,
+      "name": "Taber",
+      "latitude": "49.78703000",
+      "longitude": "-112.14603000"
+    },
+    {
+      "id": 17099,
+      "name": "Tamarack",
+      "latitude": "53.46441000",
+      "longitude": "-113.36235000"
+    },
+    {
+      "id": 17110,
+      "name": "Three Hills",
+      "latitude": "51.70012000",
+      "longitude": "-113.26863000"
+    },
+    {
+      "id": 17118,
+      "name": "Tofield",
+      "latitude": "53.36684000",
+      "longitude": "-112.66862000"
+    },
+    {
+      "id": 17131,
+      "name": "Two Hills",
+      "latitude": "53.71686000",
+      "longitude": "-111.75181000"
+    },
+    {
+      "id": 17143,
+      "name": "Valleyview",
+      "latitude": "55.06673000",
+      "longitude": "-117.28585000"
+    },
+    {
+      "id": 17151,
+      "name": "Vegreville",
+      "latitude": "53.50015000",
+      "longitude": "-112.05182000"
+    },
+    {
+      "id": 17154,
+      "name": "Vermilion",
+      "latitude": "53.35409000",
+      "longitude": "-110.85849000"
+    },
+    {
+      "id": 17158,
+      "name": "Viking",
+      "latitude": "53.10014000",
+      "longitude": "-111.76844000"
+    },
+    {
+      "id": 17163,
+      "name": "Vulcan",
+      "latitude": "50.40008000",
+      "longitude": "-113.25189000"
+    },
+    {
+      "id": 17166,
+      "name": "Wainwright",
+      "latitude": "52.83482000",
+      "longitude": "-110.85342000"
+    },
+    {
+      "id": 17187,
+      "name": "Wembley",
+      "latitude": "55.14995000",
+      "longitude": "-119.13602000"
+    },
+    {
+      "id": 17194,
+      "name": "Westlake",
+      "latitude": "55.22228000",
+      "longitude": "-118.80415000"
+    },
+    {
+      "id": 17195,
+      "name": "Westlock",
+      "latitude": "54.15016000",
+      "longitude": "-113.86876000"
+    },
+    {
+      "id": 17197,
+      "name": "Wetaskiwin",
+      "latitude": "52.96683000",
+      "longitude": "-113.36869000"
+    },
+    {
+      "id": 17203,
+      "name": "Whitecourt",
+      "latitude": "54.15015000",
+      "longitude": "-115.68548000"
+    },
+    {
+      "id": 17205,
+      "name": "Wild Rose",
+      "latitude": "53.47080000",
+      "longitude": "-113.38119000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

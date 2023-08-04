@@ -1,0 +1,60 @@
+{
+  "id": 4228,
+  "name": "Ptuj City Municipality",
+  "state_code": "096",
+  "latitude": "46.41995350",
+  "longitude": "15.86968840",
+  "type": null,
+  "cities": [
+    {
+      "id": 104238,
+      "name": "Ptuj",
+      "latitude": "46.42005000",
+      "longitude": "15.87018000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

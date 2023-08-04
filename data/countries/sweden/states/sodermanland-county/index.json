@@ -1,0 +1,210 @@
+{
+  "id": 1540,
+  "name": "Södermanland County",
+  "state_code": "D",
+  "latitude": "59.03363490",
+  "longitude": "16.75188990",
+  "type": null,
+  "cities": [
+    {
+      "id": 104003,
+      "name": "Åkers Styckebruk",
+      "latitude": "59.25000000",
+      "longitude": "17.08333000"
+    },
+    {
+      "id": 103998,
+      "name": "Ärla",
+      "latitude": "59.27983000",
+      "longitude": "16.67896000"
+    },
+    {
+      "id": 103013,
+      "name": "Arnö",
+      "latitude": "58.72675000",
+      "longitude": "17.02322000"
+    },
+    {
+      "id": 103027,
+      "name": "Bara",
+      "latitude": "58.68333000",
+      "longitude": "17.06667000"
+    },
+    {
+      "id": 103150,
+      "name": "Eskilstuna",
+      "latitude": "59.36661000",
+      "longitude": "16.50770000"
+    },
+    {
+      "id": 103173,
+      "name": "Flen",
+      "latitude": "59.05834000",
+      "longitude": "16.58781000"
+    },
+    {
+      "id": 103215,
+      "name": "Gnesta",
+      "latitude": "59.04751000",
+      "longitude": "17.31191000"
+    },
+    {
+      "id": 103317,
+      "name": "Hällbybrunn",
+      "latitude": "59.39152000",
+      "longitude": "16.42229000"
+    },
+    {
+      "id": 103320,
+      "name": "Hälleforsnäs",
+      "latitude": "59.15208000",
+      "longitude": "16.49700000"
+    },
+    {
+      "id": 103385,
+      "name": "Katrineholm",
+      "latitude": "58.99587000",
+      "longitude": "16.20721000"
+    },
+    {
+      "id": 103432,
+      "name": "Kvicksund",
+      "latitude": "59.45099000",
+      "longitude": "16.32131000"
+    },
+    {
+      "id": 103515,
+      "name": "Malmköping",
+      "latitude": "59.13333000",
+      "longitude": "16.73333000"
+    },
+    {
+      "id": 103525,
+      "name": "Mariefred",
+      "latitude": "59.25963000",
+      "longitude": "17.22300000"
+    },
+    {
+      "id": 103598,
+      "name": "Nyköping",
+      "latitude": "58.75300000",
+      "longitude": "17.00788000"
+    },
+    {
+      "id": 103614,
+      "name": "Olstorp",
+      "latitude": "58.81667000",
+      "longitude": "16.63333000"
+    },
+    {
+      "id": 103627,
+      "name": "Oxelösund",
+      "latitude": "58.67057000",
+      "longitude": "17.10152000"
+    },
+    {
+      "id": 103709,
+      "name": "Skogstorp",
+      "latitude": "59.32472000",
+      "longitude": "16.48284000"
+    },
+    {
+      "id": 103746,
+      "name": "Stallarholmen",
+      "latitude": "59.36667000",
+      "longitude": "17.20000000"
+    },
+    {
+      "id": 103756,
+      "name": "Stigtomta",
+      "latitude": "58.80000000",
+      "longitude": "16.78333000"
+    },
+    {
+      "id": 103771,
+      "name": "Strängnäs",
+      "latitude": "59.37741000",
+      "longitude": "17.03119000"
+    },
+    {
+      "id": 103793,
+      "name": "Svalsta",
+      "latitude": "58.74273000",
+      "longitude": "16.86978000"
+    },
+    {
+      "id": 103864,
+      "name": "Torshälla",
+      "latitude": "59.41667000",
+      "longitude": "16.46667000"
+    },
+    {
+      "id": 103877,
+      "name": "Trosa",
+      "latitude": "58.89621000",
+      "longitude": "17.54812000"
+    },
+    {
+      "id": 103911,
+      "name": "Vagnhärad",
+      "latitude": "58.94587000",
+      "longitude": "17.48757000"
+    },
+    {
+      "id": 103916,
+      "name": "Valla",
+      "latitude": "59.01667000",
+      "longitude": "16.38333000"
+    },
+    {
+      "id": 103951,
+      "name": "Vingåker",
+      "latitude": "59.04330000",
+      "longitude": "15.87374000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

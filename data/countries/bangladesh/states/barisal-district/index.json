@@ -1,0 +1,132 @@
+{
+  "id": 818,
+  "name": "Barisal District",
+  "state_code": "06",
+  "latitude": "22.70220980",
+  "longitude": "90.36963160",
+  "type": "district",
+  "cities": [
+    {
+      "id": 8459,
+      "name": "Barguna",
+      "latitude": "22.13333000",
+      "longitude": "90.13333000"
+    },
+    {
+      "id": 8460,
+      "name": "Barisal",
+      "latitude": "22.80000000",
+      "longitude": "90.50000000"
+    },
+    {
+      "id": 8466,
+      "name": "Bhāndāria",
+      "latitude": "22.48898000",
+      "longitude": "90.06273000"
+    },
+    {
+      "id": 8465,
+      "name": "Bhola",
+      "latitude": "22.36667000",
+      "longitude": "90.81667000"
+    },
+    {
+      "id": 8471,
+      "name": "Burhānuddin",
+      "latitude": "22.49518000",
+      "longitude": "90.72391000"
+    },
+    {
+      "id": 8495,
+      "name": "Gaurnadi",
+      "latitude": "22.97372000",
+      "longitude": "90.22376000"
+    },
+    {
+      "id": 8505,
+      "name": "Jhalokati",
+      "latitude": "22.60000000",
+      "longitude": "90.20000000"
+    },
+    {
+      "id": 8526,
+      "name": "Lālmohan",
+      "latitude": "22.33774000",
+      "longitude": "90.73708000"
+    },
+    {
+      "id": 8532,
+      "name": "Mathba",
+      "latitude": "22.28616000",
+      "longitude": "89.95883000"
+    },
+    {
+      "id": 8535,
+      "name": "Mehendiganj",
+      "latitude": "22.82257000",
+      "longitude": "90.52859000"
+    },
+    {
+      "id": 8556,
+      "name": "Nālchiti",
+      "latitude": "22.63696000",
+      "longitude": "90.27195000"
+    },
+    {
+      "id": 8565,
+      "name": "Patuakhali",
+      "latitude": "22.33333000",
+      "longitude": "90.33333000"
+    },
+    {
+      "id": 8567,
+      "name": "Pirojpur",
+      "latitude": "22.53671000",
+      "longitude": "90.00033000"
+    }
+  ],
+  "country": {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "numeric_code": "050",
+    "phone_code": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "native": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+    },
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  }
+}

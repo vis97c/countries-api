@@ -1,0 +1,102 @@
+{
+  "id": 2042,
+  "name": "Zulia",
+  "state_code": "V",
+  "latitude": "10.29102370",
+  "longitude": "-72.14161320",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130050,
+      "name": "Cabimas",
+      "latitude": "10.39907000",
+      "longitude": "-71.45206000"
+    },
+    {
+      "id": 130069,
+      "name": "Ciudad Ojeda",
+      "latitude": "10.20161000",
+      "longitude": "-71.31480000"
+    },
+    {
+      "id": 130094,
+      "name": "La Villa del Rosario",
+      "latitude": "10.32580000",
+      "longitude": "-72.31343000"
+    },
+    {
+      "id": 130095,
+      "name": "Lagunillas",
+      "latitude": "10.13008000",
+      "longitude": "-71.25946000"
+    },
+    {
+      "id": 130101,
+      "name": "Machiques",
+      "latitude": "10.06077000",
+      "longitude": "-72.55212000"
+    },
+    {
+      "id": 130103,
+      "name": "Maracaibo",
+      "latitude": "10.66663000",
+      "longitude": "-71.61245000"
+    },
+    {
+      "id": 130143,
+      "name": "San Carlos del Zulia",
+      "latitude": "9.00098000",
+      "longitude": "-71.92683000"
+    },
+    {
+      "id": 130154,
+      "name": "Santa Rita",
+      "latitude": "10.53642000",
+      "longitude": "-71.51104000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

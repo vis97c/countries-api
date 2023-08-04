@@ -1,0 +1,90 @@
+{
+  "id": 308,
+  "name": "Imo",
+  "state_code": "IM",
+  "latitude": "5.57201220",
+  "longitude": "7.05882190",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76925,
+      "name": "Iho",
+      "latitude": "5.58225000",
+      "longitude": "7.09896000"
+    },
+    {
+      "id": 77055,
+      "name": "Oguta",
+      "latitude": "5.71044000",
+      "longitude": "6.80936000"
+    },
+    {
+      "id": 77062,
+      "name": "Okigwe",
+      "latitude": "5.82917000",
+      "longitude": "7.35056000"
+    },
+    {
+      "id": 77073,
+      "name": "Orlu",
+      "latitude": "5.79565000",
+      "longitude": "7.03513000"
+    },
+    {
+      "id": 77074,
+      "name": "Orodo",
+      "latitude": "5.61667000",
+      "longitude": "7.03333000"
+    },
+    {
+      "id": 77078,
+      "name": "Owerri",
+      "latitude": "5.48363000",
+      "longitude": "7.03325000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

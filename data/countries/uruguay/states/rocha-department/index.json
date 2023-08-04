@@ -1,0 +1,102 @@
+{
+  "id": 3216,
+  "name": "Rocha Department",
+  "state_code": "RO",
+  "latitude": "-33.96900810",
+  "longitude": "-54.02148500",
+  "type": null,
+  "cities": [
+    {
+      "id": 129790,
+      "name": "Castillos",
+      "latitude": "-34.19871000",
+      "longitude": "-53.85919000"
+    },
+    {
+      "id": 129792,
+      "name": "Cebollatí",
+      "latitude": "-33.26703000",
+      "longitude": "-53.79425000"
+    },
+    {
+      "id": 129793,
+      "name": "Chui",
+      "latitude": "-33.69792000",
+      "longitude": "-53.45926000"
+    },
+    {
+      "id": 129798,
+      "name": "Dieciocho de Julio",
+      "latitude": "-33.68216000",
+      "longitude": "-53.55325000"
+    },
+    {
+      "id": 129816,
+      "name": "La Paloma",
+      "latitude": "-34.66268000",
+      "longitude": "-54.16452000"
+    },
+    {
+      "id": 129822,
+      "name": "Lascano",
+      "latitude": "-33.67235000",
+      "longitude": "-54.20650000"
+    },
+    {
+      "id": 129853,
+      "name": "Rocha",
+      "latitude": "-34.48333000",
+      "longitude": "-54.33333000"
+    },
+    {
+      "id": 129886,
+      "name": "Velázquez",
+      "latitude": "-34.03631000",
+      "longitude": "-54.28054000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

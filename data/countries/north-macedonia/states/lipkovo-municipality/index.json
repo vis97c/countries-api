@@ -1,0 +1,96 @@
+{
+  "id": 659,
+  "name": "Lipkovo Municipality",
+  "state_code": "48",
+  "latitude": "42.20066260",
+  "longitude": "21.61837550",
+  "type": null,
+  "cities": [
+    {
+      "id": 67443,
+      "name": "Izvor",
+      "latitude": "42.20322000",
+      "longitude": "21.57812000"
+    },
+    {
+      "id": 67469,
+      "name": "Lipkovo",
+      "latitude": "42.15639000",
+      "longitude": "21.58528000"
+    },
+    {
+      "id": 67473,
+      "name": "Lojane",
+      "latitude": "42.23276000",
+      "longitude": "21.66550000"
+    },
+    {
+      "id": 67480,
+      "name": "Matejce",
+      "latitude": "42.12556000",
+      "longitude": "21.59778000"
+    },
+    {
+      "id": 67502,
+      "name": "Otlja",
+      "latitude": "42.14315000",
+      "longitude": "21.58675000"
+    },
+    {
+      "id": 67547,
+      "name": "Vaksince",
+      "latitude": "42.20611000",
+      "longitude": "21.66306000"
+    },
+    {
+      "id": 67579,
+      "name": "Слупчане",
+      "latitude": "42.17333000",
+      "longitude": "21.62778000"
+    }
+  ],
+  "country": {
+    "id": 129,
+    "name": "North Macedonia",
+    "iso3": "MKD",
+    "iso2": "MK",
+    "numeric_code": "807",
+    "phone_code": "389",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "native": "Северна Македонија",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "북마케도니아",
+      "pt-BR": "Macedônia do Norte",
+      "pt": "Macedónia do Norte",
+      "nl": "Noord-Macedonië",
+      "hr": "Sjeverna Makedonija",
+      "fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+      "de": "Nordmazedonien",
+      "es": "Macedonia del Norte",
+      "fr": "Macédoine du Nord",
+      "ja": "北マケドニア",
+      "it": "Macedonia del Nord",
+      "cn": "北馬其頓",
+      "tr": "Kuzey Makedonya"
+    },
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  }
+}

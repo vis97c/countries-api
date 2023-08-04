@@ -1,0 +1,552 @@
+{
+  "id": 154,
+  "name": "Nepal",
+  "iso3": "NPL",
+  "iso2": "NP",
+  "numeric_code": "524",
+  "phone_code": "977",
+  "capital": "Kathmandu",
+  "currency": "NPR",
+  "currency_name": "Nepalese rupee",
+  "currency_symbol": "₨",
+  "tld": ".np",
+  "native": "नपल",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Kathmandu",
+      "gmtOffset": 20700,
+      "gmtOffsetName": "UTC+05:45",
+      "abbreviation": "NPT",
+      "tzName": "Nepal Time"
+    }
+  ],
+  "translations": {
+    "kr": "네팔",
+    "pt-BR": "Nepal",
+    "pt": "Nepal",
+    "nl": "Nepal",
+    "hr": "Nepal",
+    "fa": "نپال",
+    "de": "Népal",
+    "es": "Nepal",
+    "fr": "Népal",
+    "ja": "ネパール",
+    "it": "Nepal",
+    "cn": "尼泊尔",
+    "tr": "Nepal"
+  },
+  "latitude": "28.00000000",
+  "longitude": "84.00000000",
+  "emoji": "🇳🇵",
+  "emojiU": "U+1F1F3 U+1F1F5",
+  "states": [
+    {
+      "id": 2082,
+      "name": "Bagmati Zone",
+      "state_code": "BA",
+      "latitude": "28.03675770",
+      "longitude": "85.43755740",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2071,
+      "name": "Bheri Zone",
+      "state_code": "BH",
+      "latitude": "28.51745600",
+      "longitude": "81.77870210",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2073,
+      "name": "Central Region",
+      "state_code": "1",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 79705,
+          "name": "Banepā",
+          "latitude": "27.63245000",
+          "longitude": "85.52192000"
+        },
+        {
+          "id": 79707,
+          "name": "Bharatpur",
+          "latitude": "27.67680000",
+          "longitude": "84.43589000"
+        },
+        {
+          "id": 79713,
+          "name": "Birgañj",
+          "latitude": "27.01709000",
+          "longitude": "84.88080000"
+        },
+        {
+          "id": 79722,
+          "name": "Dhulikhel",
+          "latitude": "27.62210000",
+          "longitude": "85.54281000"
+        },
+        {
+          "id": 79726,
+          "name": "Gaur",
+          "latitude": "26.76448000",
+          "longitude": "85.27841000"
+        },
+        {
+          "id": 79728,
+          "name": "Hari Bdr Tamang House",
+          "latitude": "27.62890000",
+          "longitude": "85.45893000"
+        },
+        {
+          "id": 79729,
+          "name": "Hetauda",
+          "latitude": "27.42839000",
+          "longitude": "85.03219000"
+        },
+        {
+          "id": 79732,
+          "name": "Jaleshwar",
+          "latitude": "26.64921000",
+          "longitude": "85.80017000"
+        },
+        {
+          "id": 79733,
+          "name": "Janakpur",
+          "latitude": "26.72882000",
+          "longitude": "85.92628000"
+        },
+        {
+          "id": 79759,
+          "name": "kankrabari Dovan",
+          "latitude": "27.62881000",
+          "longitude": "85.45934000"
+        },
+        {
+          "id": 79735,
+          "name": "Kathmandu",
+          "latitude": "27.70169000",
+          "longitude": "85.32060000"
+        },
+        {
+          "id": 79737,
+          "name": "Kirtipur",
+          "latitude": "27.67872000",
+          "longitude": "85.27750000"
+        },
+        {
+          "id": 79740,
+          "name": "Madhyapur Thimi",
+          "latitude": "27.68056000",
+          "longitude": "85.38750000"
+        },
+        {
+          "id": 79742,
+          "name": "Malaṅgawā",
+          "latitude": "26.85658000",
+          "longitude": "85.55940000"
+        },
+        {
+          "id": 79743,
+          "name": "Nagarkot",
+          "latitude": "27.71522000",
+          "longitude": "85.52075000"
+        },
+        {
+          "id": 79746,
+          "name": "Panauti",
+          "latitude": "27.58466000",
+          "longitude": "85.52122000"
+        },
+        {
+          "id": 79749,
+          "name": "Pātan",
+          "latitude": "27.67658000",
+          "longitude": "85.31417000"
+        },
+        {
+          "id": 79751,
+          "name": "Rāmechhāp",
+          "latitude": "27.32560000",
+          "longitude": "86.08768000"
+        }
+      ]
+    },
+    {
+      "id": 2080,
+      "name": "Dhaulagiri Zone",
+      "state_code": "DH",
+      "latitude": "28.61117600",
+      "longitude": "83.50702030",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2069,
+      "name": "Eastern Development Region",
+      "state_code": "4",
+      "latitude": "27.33090720",
+      "longitude": "87.06242610",
+      "type": null,
+      "cities": [
+        {
+          "id": 79706,
+          "name": "Bhadrapur",
+          "latitude": "26.54404000",
+          "longitude": "88.09436000"
+        },
+        {
+          "id": 79709,
+          "name": "Bhojpur",
+          "latitude": "27.17150000",
+          "longitude": "87.04607000"
+        },
+        {
+          "id": 79711,
+          "name": "Biratnagar",
+          "latitude": "26.45505000",
+          "longitude": "87.27007000"
+        },
+        {
+          "id": 79720,
+          "name": "Dhankutā",
+          "latitude": "26.98333000",
+          "longitude": "87.33333000"
+        },
+        {
+          "id": 79721,
+          "name": "Dharān",
+          "latitude": "26.81436000",
+          "longitude": "87.27972000"
+        },
+        {
+          "id": 79730,
+          "name": "Ilām",
+          "latitude": "26.90943000",
+          "longitude": "87.92824000"
+        },
+        {
+          "id": 79731,
+          "name": "Inaruwa",
+          "latitude": "26.60675000",
+          "longitude": "87.14780000"
+        },
+        {
+          "id": 79736,
+          "name": "Khanbari",
+          "latitude": "27.37604000",
+          "longitude": "87.20767000"
+        },
+        {
+          "id": 79738,
+          "name": "Lahān",
+          "latitude": "26.72022000",
+          "longitude": "86.48258000"
+        },
+        {
+          "id": 79739,
+          "name": "Lobujya",
+          "latitude": "27.95000000",
+          "longitude": "86.81667000"
+        },
+        {
+          "id": 79744,
+          "name": "Namche Bazar",
+          "latitude": "27.80528000",
+          "longitude": "86.71058000"
+        },
+        {
+          "id": 79750,
+          "name": "Rājbirāj",
+          "latitude": "26.53968000",
+          "longitude": "86.74796000"
+        },
+        {
+          "id": 79753,
+          "name": "Siraha",
+          "latitude": "26.65422000",
+          "longitude": "86.20795000"
+        },
+        {
+          "id": 79754,
+          "name": "Titahari",
+          "latitude": "26.66371000",
+          "longitude": "87.27403000"
+        },
+        {
+          "id": 79755,
+          "name": "Triyuga",
+          "latitude": "26.79190000",
+          "longitude": "86.69900000"
+        }
+      ]
+    },
+    {
+      "id": 2068,
+      "name": "Far-Western Development Region",
+      "state_code": "5",
+      "latitude": "29.29878710",
+      "longitude": "80.98710740",
+      "type": null,
+      "cities": [
+        {
+          "id": 79717,
+          "name": "Dadeldhurā",
+          "latitude": "29.29842000",
+          "longitude": "80.58059000"
+        },
+        {
+          "id": 79719,
+          "name": "Dhangaḍhi̇̄",
+          "latitude": "28.70137000",
+          "longitude": "80.58975000"
+        },
+        {
+          "id": 79724,
+          "name": "Dipayal",
+          "latitude": "29.26083000",
+          "longitude": "80.94000000"
+        },
+        {
+          "id": 79741,
+          "name": "Mahendranagar",
+          "latitude": "28.96399000",
+          "longitude": "80.17715000"
+        },
+        {
+          "id": 79760,
+          "name": "Ṭikāpur",
+          "latitude": "28.52823000",
+          "longitude": "81.11798000"
+        }
+      ]
+    },
+    {
+      "id": 2081,
+      "name": "Gandaki Zone",
+      "state_code": "GA",
+      "latitude": "28.37320370",
+      "longitude": "84.43827210",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2076,
+      "name": "Janakpur Zone",
+      "state_code": "JA",
+      "latitude": "27.21108990",
+      "longitude": "86.01215730",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2079,
+      "name": "Karnali Zone",
+      "state_code": "KA",
+      "latitude": "29.38625550",
+      "longitude": "82.38857830",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2072,
+      "name": "Kosi Zone",
+      "state_code": "KO",
+      "latitude": "27.05365240",
+      "longitude": "87.30161320",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2074,
+      "name": "Lumbini Zone",
+      "state_code": "LU",
+      "latitude": "27.45000000",
+      "longitude": "83.25000000",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2083,
+      "name": "Mahakali Zone",
+      "state_code": "MA",
+      "latitude": "29.36010790",
+      "longitude": "80.54384500",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2070,
+      "name": "Mechi Zone",
+      "state_code": "ME",
+      "latitude": "26.87600070",
+      "longitude": "87.93348030",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2066,
+      "name": "Mid-Western Region",
+      "state_code": "2",
+      "latitude": "38.41118410",
+      "longitude": "-90.38320980",
+      "type": null,
+      "cities": [
+        {
+          "id": 79710,
+          "name": "Bhojpur",
+          "latitude": "27.93565000",
+          "longitude": "81.77555000"
+        },
+        {
+          "id": 79712,
+          "name": "Birendranagar",
+          "latitude": "28.60194000",
+          "longitude": "81.63389000"
+        },
+        {
+          "id": 79718,
+          "name": "Dailekh",
+          "latitude": "28.84434000",
+          "longitude": "81.71011000"
+        },
+        {
+          "id": 79727,
+          "name": "Gulariyā",
+          "latitude": "28.20580000",
+          "longitude": "81.34532000"
+        },
+        {
+          "id": 79734,
+          "name": "Jumla",
+          "latitude": "29.27472000",
+          "longitude": "82.18383000"
+        },
+        {
+          "id": 79745,
+          "name": "Nepalgunj",
+          "latitude": "28.05000000",
+          "longitude": "81.61667000"
+        },
+        {
+          "id": 79756,
+          "name": "Tulsīpur",
+          "latitude": "28.13099000",
+          "longitude": "82.29726000"
+        }
+      ]
+    },
+    {
+      "id": 2075,
+      "name": "Narayani Zone",
+      "state_code": "NA",
+      "latitude": "27.36117660",
+      "longitude": "84.85679320",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2077,
+      "name": "Rapti Zone",
+      "state_code": "RA",
+      "latitude": "28.27434700",
+      "longitude": "82.38857830",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2084,
+      "name": "Sagarmatha Zone",
+      "state_code": "SA",
+      "latitude": "27.32382630",
+      "longitude": "86.74163740",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2078,
+      "name": "Seti Zone",
+      "state_code": "SE",
+      "latitude": "29.69054270",
+      "longitude": "81.33994140",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2067,
+      "name": "Western Region",
+      "state_code": "3",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 79715,
+          "name": "Bāglung",
+          "latitude": "28.27189000",
+          "longitude": "83.58975000"
+        },
+        {
+          "id": 79708,
+          "name": "Bhattarai Danda",
+          "latitude": "27.88333000",
+          "longitude": "83.93333000"
+        },
+        {
+          "id": 79714,
+          "name": "Butwāl",
+          "latitude": "27.70055000",
+          "longitude": "83.44836000"
+        },
+        {
+          "id": 79716,
+          "name": "Chitre",
+          "latitude": "28.42673000",
+          "longitude": "83.69076000"
+        },
+        {
+          "id": 79725,
+          "name": "Dārchulā",
+          "latitude": "29.83000000",
+          "longitude": "80.55000000"
+        },
+        {
+          "id": 79723,
+          "name": "Dihi",
+          "latitude": "27.87552000",
+          "longitude": "83.92759000"
+        },
+        {
+          "id": 79748,
+          "name": "Pokhara",
+          "latitude": "28.26689000",
+          "longitude": "83.96851000"
+        },
+        {
+          "id": 79752,
+          "name": "Siddharthanagar",
+          "latitude": "27.50000000",
+          "longitude": "83.45000000"
+        },
+        {
+          "id": 79757,
+          "name": "Tānsen",
+          "latitude": "27.86731000",
+          "longitude": "83.54670000"
+        },
+        {
+          "id": 79758,
+          "name": "Wāliṅ",
+          "latitude": "27.98370000",
+          "longitude": "83.75925000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 485,
+  "name": "Louga",
+  "state_code": "LG",
+  "latitude": "15.61417680",
+  "longitude": "-16.22868000",
+  "type": null,
+  "cities": [
+    {
+      "id": 104706,
+      "name": "Dara",
+      "latitude": "15.34844000",
+      "longitude": "-15.47993000"
+    },
+    {
+      "id": 104717,
+      "name": "Guéoul",
+      "latitude": "15.48333000",
+      "longitude": "-16.35000000"
+    },
+    {
+      "id": 104729,
+      "name": "Linguere Department",
+      "latitude": "15.35900000",
+      "longitude": "-15.15800000"
+    },
+    {
+      "id": 104730,
+      "name": "Louga",
+      "latitude": "15.61867000",
+      "longitude": "-16.22436000"
+    },
+    {
+      "id": 104739,
+      "name": "Ndibène Dahra",
+      "latitude": "15.33380000",
+      "longitude": "-15.47660000"
+    }
+  ],
+  "country": {
+    "id": 195,
+    "name": "Senegal",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "numeric_code": "686",
+    "phone_code": "221",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "native": "Sénégal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "세네갈",
+      "pt-BR": "Senegal",
+      "pt": "Senegal",
+      "nl": "Senegal",
+      "hr": "Senegal",
+      "fa": "سنگال",
+      "de": "Senegal",
+      "es": "Senegal",
+      "fr": "Sénégal",
+      "ja": "セネガル",
+      "it": "Senegal",
+      "cn": "塞内加尔",
+      "tr": "Senegal"
+    },
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 4004,
+  "name": "North Hwanghae Province",
+  "state_code": "06",
+  "latitude": "38.37860850",
+  "longitude": "126.43643630",
+  "type": null,
+  "cities": [
+    {
+      "id": 65180,
+      "name": "Anak",
+      "latitude": "38.51083000",
+      "longitude": "125.49417000"
+    },
+    {
+      "id": 65203,
+      "name": "Hŭkkyo-ri",
+      "latitude": "38.79861000",
+      "longitude": "125.79194000"
+    },
+    {
+      "id": 65200,
+      "name": "Hwangju-ŭp",
+      "latitude": "38.67028000",
+      "longitude": "125.77611000"
+    },
+    {
+      "id": 65212,
+      "name": "Koksan",
+      "latitude": "38.78194000",
+      "longitude": "126.66639000"
+    },
+    {
+      "id": 65237,
+      "name": "Sariwŏn",
+      "latitude": "38.50722000",
+      "longitude": "125.75583000"
+    },
+    {
+      "id": 65240,
+      "name": "Sinmak",
+      "latitude": "38.41667000",
+      "longitude": "126.23333000"
+    },
+    {
+      "id": 65243,
+      "name": "Songnim",
+      "latitude": "38.75417000",
+      "longitude": "125.64500000"
+    }
+  ],
+  "country": {
+    "id": 115,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phone_code": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조선민주주의인민공화국",
+      "pt-BR": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "cn": "朝鲜",
+      "tr": "Kuzey Kore"
+    },
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  }
+}

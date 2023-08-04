@@ -1,0 +1,96 @@
+{
+  "id": 4128,
+  "name": "Santa Ana Department",
+  "state_code": "SA",
+  "latitude": "14.14611210",
+  "longitude": "-89.51200840",
+  "type": null,
+  "cities": [
+    {
+      "id": 104852,
+      "name": "Candelaria de La Frontera",
+      "latitude": "14.11667000",
+      "longitude": "-89.65000000"
+    },
+    {
+      "id": 104854,
+      "name": "Chalchuapa",
+      "latitude": "13.98667000",
+      "longitude": "-89.68111000"
+    },
+    {
+      "id": 104860,
+      "name": "Coatepeque",
+      "latitude": "13.92861000",
+      "longitude": "-89.50417000"
+    },
+    {
+      "id": 104868,
+      "name": "El Congo",
+      "latitude": "13.90889000",
+      "longitude": "-89.49583000"
+    },
+    {
+      "id": 104888,
+      "name": "Metapán",
+      "latitude": "14.33333000",
+      "longitude": "-89.45000000"
+    },
+    {
+      "id": 104917,
+      "name": "Santa Ana",
+      "latitude": "13.99417000",
+      "longitude": "-89.55972000"
+    },
+    {
+      "id": 104934,
+      "name": "Texistepeque",
+      "latitude": "14.13333000",
+      "longitude": "-89.50000000"
+    }
+  ],
+  "country": {
+    "id": 66,
+    "name": "El Salvador",
+    "iso3": "SLV",
+    "iso2": "SV",
+    "numeric_code": "222",
+    "phone_code": "503",
+    "capital": "San Salvador",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".sv",
+    "native": "El Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/El_Salvador",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "엘살바도르",
+      "pt-BR": "El Salvador",
+      "pt": "El Salvador",
+      "nl": "El Salvador",
+      "hr": "Salvador",
+      "fa": "السالوادور",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "fr": "Salvador",
+      "ja": "エルサルバドル",
+      "it": "El Salvador",
+      "cn": "萨尔瓦多",
+      "tr": "El Salvador"
+    },
+    "latitude": "13.83333333",
+    "longitude": "-88.91666666",
+    "emoji": "🇸🇻",
+    "emojiU": "U+1F1F8 U+1F1FB"
+  }
+}

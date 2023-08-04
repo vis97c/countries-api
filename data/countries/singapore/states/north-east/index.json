@@ -1,0 +1,84 @@
+{
+  "id": 4649,
+  "name": "North East",
+  "state_code": "02",
+  "latitude": "1.38240000",
+  "longitude": "103.89720000",
+  "type": "district",
+  "cities": [
+    {
+      "id": 153475,
+      "name": "Ang Mo Kio",
+      "latitude": "1.36980000",
+      "longitude": "103.84610000"
+    },
+    {
+      "id": 153472,
+      "name": "Hougang",
+      "latitude": "1.37360000",
+      "longitude": "103.88670000"
+    },
+    {
+      "id": 153474,
+      "name": "Punggol",
+      "latitude": "1.40510000",
+      "longitude": "103.90230000"
+    },
+    {
+      "id": 153471,
+      "name": "Sengkang",
+      "latitude": "1.39010000",
+      "longitude": "103.89520000"
+    },
+    {
+      "id": 153473,
+      "name": "Serangoon",
+      "latitude": "1.34960000",
+      "longitude": "103.87370000"
+    }
+  ],
+  "country": {
+    "id": 199,
+    "name": "Singapore",
+    "iso3": "SGP",
+    "iso2": "SG",
+    "numeric_code": "702",
+    "phone_code": "65",
+    "capital": "Singapur",
+    "currency": "SGD",
+    "currency_name": "Singapore dollar",
+    "currency_symbol": "$",
+    "tld": ".sg",
+    "native": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Singapore",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "SGT",
+        "tzName": "Singapore Time"
+      }
+    ],
+    "translations": {
+      "kr": "싱가포르",
+      "pt-BR": "Singapura",
+      "pt": "Singapura",
+      "nl": "Singapore",
+      "hr": "Singapur",
+      "fa": "سنگاپور",
+      "de": "Singapur",
+      "es": "Singapur",
+      "fr": "Singapour",
+      "ja": "シンガポール",
+      "it": "Singapore",
+      "cn": "新加坡",
+      "tr": "Singapur"
+    },
+    "latitude": "1.36666666",
+    "longitude": "103.80000000",
+    "emoji": "🇸🇬",
+    "emojiU": "U+1F1F8 U+1F1EC"
+  }
+}

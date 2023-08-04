@@ -1,0 +1,222 @@
+{
+  "id": 1647,
+  "name": "Geneva",
+  "state_code": "GE",
+  "latitude": "46.21800730",
+  "longitude": "6.12169250",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17383,
+      "name": "Aire-la-Ville",
+      "latitude": "46.19057000",
+      "longitude": "6.04287000"
+    },
+    {
+      "id": 17399,
+      "name": "Anières",
+      "latitude": "46.27673000",
+      "longitude": "6.22204000"
+    },
+    {
+      "id": 17451,
+      "name": "Bellevue",
+      "latitude": "46.25739000",
+      "longitude": "6.15475000"
+    },
+    {
+      "id": 17464,
+      "name": "Bernex",
+      "latitude": "46.17650000",
+      "longitude": "6.07544000"
+    },
+    {
+      "id": 17612,
+      "name": "Carouge",
+      "latitude": "46.18096000",
+      "longitude": "6.13921000"
+    },
+    {
+      "id": 17625,
+      "name": "Chancy",
+      "latitude": "46.15003000",
+      "longitude": "5.97153000"
+    },
+    {
+      "id": 17643,
+      "name": "Chêne-Bougeries",
+      "latitude": "46.19843000",
+      "longitude": "6.18642000"
+    },
+    {
+      "id": 17644,
+      "name": "Chêne-Bourg",
+      "latitude": "46.19534000",
+      "longitude": "6.19406000"
+    },
+    {
+      "id": 17649,
+      "name": "Confignon",
+      "latitude": "46.17341000",
+      "longitude": "6.08437000"
+    },
+    {
+      "id": 17656,
+      "name": "Corsier",
+      "latitude": "46.26297000",
+      "longitude": "6.22461000"
+    },
+    {
+      "id": 17676,
+      "name": "Dardagny",
+      "latitude": "46.19564000",
+      "longitude": "5.99497000"
+    },
+    {
+      "id": 17827,
+      "name": "Genève",
+      "latitude": "46.20222000",
+      "longitude": "6.14569000"
+    },
+    {
+      "id": 17965,
+      "name": "Jussy",
+      "latitude": "46.23590000",
+      "longitude": "6.26701000"
+    },
+    {
+      "id": 18032,
+      "name": "Lancy",
+      "latitude": "46.18981000",
+      "longitude": "6.11441000"
+    },
+    {
+      "id": 18055,
+      "name": "Le Grand-Saconnex",
+      "latitude": "46.23188000",
+      "longitude": "6.12091000"
+    },
+    {
+      "id": 18068,
+      "name": "Les Avanchets",
+      "latitude": "46.22168000",
+      "longitude": "6.10814000"
+    },
+    {
+      "id": 18141,
+      "name": "Meinier",
+      "latitude": "46.24706000",
+      "longitude": "6.23423000"
+    },
+    {
+      "id": 18158,
+      "name": "Meyrin",
+      "latitude": "46.23424000",
+      "longitude": "6.08025000"
+    },
+    {
+      "id": 18284,
+      "name": "Onex",
+      "latitude": "46.18396000",
+      "longitude": "6.10237000"
+    },
+    {
+      "id": 18316,
+      "name": "Plan-les-Ouates",
+      "latitude": "46.16789000",
+      "longitude": "6.11664000"
+    },
+    {
+      "id": 18330,
+      "name": "Puplinge",
+      "latitude": "46.21043000",
+      "longitude": "6.23114000"
+    },
+    {
+      "id": 18448,
+      "name": "Satigny",
+      "latitude": "46.21462000",
+      "longitude": "6.03553000"
+    },
+    {
+      "id": 18595,
+      "name": "Thônex",
+      "latitude": "46.18815000",
+      "longitude": "6.19904000"
+    },
+    {
+      "id": 18606,
+      "name": "Troinex",
+      "latitude": "46.16313000",
+      "longitude": "6.14745000"
+    },
+    {
+      "id": 18661,
+      "name": "Vandœuvres",
+      "latitude": "46.22179000",
+      "longitude": "6.20285000"
+    },
+    {
+      "id": 18670,
+      "name": "Vernier",
+      "latitude": "46.21702000",
+      "longitude": "6.08497000"
+    },
+    {
+      "id": 18672,
+      "name": "Versoix",
+      "latitude": "46.28382000",
+      "longitude": "6.16214000"
+    },
+    {
+      "id": 18676,
+      "name": "Veyrier",
+      "latitude": "46.16699000",
+      "longitude": "6.18436000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

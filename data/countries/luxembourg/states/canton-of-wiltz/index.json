@@ -1,0 +1,108 @@
+{
+  "id": 1526,
+  "name": "Canton of Wiltz",
+  "state_code": "WI",
+  "latitude": "49.96622000",
+  "longitude": "5.93243060",
+  "type": null,
+  "cities": [
+    {
+      "id": 66727,
+      "name": "Bavigne",
+      "latitude": "49.92194000",
+      "longitude": "5.84944000"
+    },
+    {
+      "id": 66742,
+      "name": "Boulaide",
+      "latitude": "49.88778000",
+      "longitude": "5.81639000"
+    },
+    {
+      "id": 66766,
+      "name": "Esch-sur-Sûre",
+      "latitude": "49.91139000",
+      "longitude": "5.93639000"
+    },
+    {
+      "id": 66774,
+      "name": "Goesdorf",
+      "latitude": "49.92131000",
+      "longitude": "5.96601000"
+    },
+    {
+      "id": 66789,
+      "name": "Kiischpelt",
+      "latitude": "49.97835000",
+      "longitude": "6.00760000"
+    },
+    {
+      "id": 66794,
+      "name": "Lac de la Haute-Sûre",
+      "latitude": "49.91667000",
+      "longitude": "5.83333000"
+    },
+    {
+      "id": 66863,
+      "name": "Wiltz",
+      "latitude": "49.96547000",
+      "longitude": "5.93390000"
+    },
+    {
+      "id": 66864,
+      "name": "Wilwerwiltz",
+      "latitude": "49.98889000",
+      "longitude": "5.99917000"
+    },
+    {
+      "id": 66866,
+      "name": "Winseler",
+      "latitude": "49.96778000",
+      "longitude": "5.89028000"
+    }
+  ],
+  "country": {
+    "id": 127,
+    "name": "Luxembourg",
+    "iso3": "LUX",
+    "iso2": "LU",
+    "numeric_code": "442",
+    "phone_code": "352",
+    "capital": "Luxembourg",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lu",
+    "native": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Luxembourg",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "룩셈부르크",
+      "pt-BR": "Luxemburgo",
+      "pt": "Luxemburgo",
+      "nl": "Luxemburg",
+      "hr": "Luksemburg",
+      "fa": "لوکزامبورگ",
+      "de": "Luxemburg",
+      "es": "Luxemburgo",
+      "fr": "Luxembourg",
+      "ja": "ルクセンブルク",
+      "it": "Lussemburgo",
+      "cn": "卢森堡",
+      "tr": "Lüksemburg"
+    },
+    "latitude": "49.75000000",
+    "longitude": "6.16666666",
+    "emoji": "🇱🇺",
+    "emojiU": "U+1F1F1 U+1F1FA"
+  }
+}

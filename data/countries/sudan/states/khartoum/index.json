@@ -1,0 +1,66 @@
+{
+  "id": 881,
+  "name": "Khartoum",
+  "state_code": "KH",
+  "latitude": "15.50065440",
+  "longitude": "32.55989940",
+  "type": null,
+  "cities": [
+    {
+      "id": 102957,
+      "name": "Khartoum",
+      "latitude": "15.55177000",
+      "longitude": "32.53241000"
+    },
+    {
+      "id": 102967,
+      "name": "Omdurman",
+      "latitude": "15.64453000",
+      "longitude": "32.47773000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3858,
+  "name": "Gwangju",
+  "state_code": "29",
+  "latitude": "35.15954540",
+  "longitude": "126.85260120",
+  "type": null,
+  "cities": [
+    {
+      "id": 65362,
+      "name": "Gwangju",
+      "latitude": "35.15472000",
+      "longitude": "126.91556000"
+    },
+    {
+      "id": 65366,
+      "name": "Gwangsan-gu",
+      "latitude": "35.16158000",
+      "longitude": "126.80810000"
+    },
+    {
+      "id": 65437,
+      "name": "Masan",
+      "latitude": "35.12725000",
+      "longitude": "126.83149000"
+    }
+  ],
+  "country": {
+    "id": 116,
+    "name": "South Korea",
+    "iso3": "KOR",
+    "iso2": "KR",
+    "numeric_code": "410",
+    "phone_code": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currency_name": "Won",
+    "currency_symbol": "₩",
+    "tld": ".kr",
+    "native": "대한민국",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Seoul",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "대한민국",
+      "pt-BR": "Coreia do Sul",
+      "pt": "Coreia do Sul",
+      "nl": "Zuid-Korea",
+      "hr": "Južna Koreja",
+      "fa": "کره شمالی",
+      "de": "Südkorea",
+      "es": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "ja": "大韓民国",
+      "it": "Corea del Sud",
+      "cn": "韩国",
+      "tr": "Güney Kore"
+    },
+    "latitude": "37.00000000",
+    "longitude": "127.50000000",
+    "emoji": "🇰🇷",
+    "emojiU": "U+1F1F0 U+1F1F7"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 3173,
+  "name": "Federally Administered Tribal Areas",
+  "state_code": "TA",
+  "latitude": "32.66747600",
+  "longitude": "69.85974060",
+  "type": null,
+  "cities": [
+    {
+      "id": 85336,
+      "name": "Alizai",
+      "latitude": "33.53613000",
+      "longitude": "70.34607000"
+    },
+    {
+      "id": 85458,
+      "name": "Gulishah Kach",
+      "latitude": "32.67087000",
+      "longitude": "70.33917000"
+    },
+    {
+      "id": 85577,
+      "name": "Landi Kotal",
+      "latitude": "34.09880000",
+      "longitude": "71.14108000"
+    },
+    {
+      "id": 85611,
+      "name": "Miran Shah",
+      "latitude": "33.00059000",
+      "longitude": "70.07117000"
+    },
+    {
+      "id": 85645,
+      "name": "North Wazīristān Agency",
+      "latitude": "32.95087000",
+      "longitude": "69.95764000"
+    },
+    {
+      "id": 85717,
+      "name": "Shinpokh",
+      "latitude": "34.32959000",
+      "longitude": "71.17852000"
+    },
+    {
+      "id": 85728,
+      "name": "South Wazīristān Agency",
+      "latitude": "32.30397000",
+      "longitude": "69.68207000"
+    },
+    {
+      "id": 85764,
+      "name": "Wana",
+      "latitude": "32.29889000",
+      "longitude": "69.57250000"
+    }
+  ],
+  "country": {
+    "id": 167,
+    "name": "Pakistan",
+    "iso3": "PAK",
+    "iso2": "PK",
+    "numeric_code": "586",
+    "phone_code": "92",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "currency_name": "Pakistani rupee",
+    "currency_symbol": "₨",
+    "tld": ".pk",
+    "native": "Pakistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Karachi",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "PKT",
+        "tzName": "Pakistan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "파키스탄",
+      "pt-BR": "Paquistão",
+      "pt": "Paquistão",
+      "nl": "Pakistan",
+      "hr": "Pakistan",
+      "fa": "پاکستان",
+      "de": "Pakistan",
+      "es": "Pakistán",
+      "fr": "Pakistan",
+      "ja": "パキスタン",
+      "it": "Pakistan",
+      "cn": "巴基斯坦",
+      "tr": "Pakistan"
+    },
+    "latitude": "30.00000000",
+    "longitude": "70.00000000",
+    "emoji": "🇵🇰",
+    "emojiU": "U+1F1F5 U+1F1F0"
+  }
+}

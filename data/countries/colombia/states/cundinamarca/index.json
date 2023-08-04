@@ -1,0 +1,756 @@
+{
+  "id": 2875,
+  "name": "Cundinamarca",
+  "state_code": "CUN",
+  "latitude": "5.02600300",
+  "longitude": "-74.03001220",
+  "type": null,
+  "cities": [
+    {
+      "id": 20491,
+      "name": "Agua de Dios",
+      "latitude": "4.37648000",
+      "longitude": "-74.66995000"
+    },
+    {
+      "id": 20501,
+      "name": "Albán",
+      "latitude": "4.89432000",
+      "longitude": "-74.44388000"
+    },
+    {
+      "id": 20516,
+      "name": "Anapoima",
+      "latitude": "4.55099000",
+      "longitude": "-74.53517000"
+    },
+    {
+      "id": 20523,
+      "name": "Anolaima",
+      "latitude": "4.83362000",
+      "longitude": "-74.49950000"
+    },
+    {
+      "id": 20530,
+      "name": "Apulo",
+      "latitude": "4.51952000",
+      "longitude": "-74.59293000"
+    },
+    {
+      "id": 20538,
+      "name": "Arbeláez",
+      "latitude": "4.21251000",
+      "longitude": "-74.41464000"
+    },
+    {
+      "id": 20581,
+      "name": "Beltrán",
+      "latitude": "4.71947000",
+      "longitude": "-74.75660000"
+    },
+    {
+      "id": 20592,
+      "name": "Bituima",
+      "latitude": "4.87252000",
+      "longitude": "-74.53925000"
+    },
+    {
+      "id": 143873,
+      "name": "Bogotá D.C.",
+      "latitude": "4.61263889",
+      "longitude": "-74.07050000"
+    },
+    {
+      "id": 20595,
+      "name": "Bojacá",
+      "latitude": "4.73176000",
+      "longitude": "-74.34129000"
+    },
+    {
+      "id": 20615,
+      "name": "Cabrera",
+      "latitude": "3.98598000",
+      "longitude": "-74.48283000"
+    },
+    {
+      "id": 20619,
+      "name": "Cachipay",
+      "latitude": "5.26667000",
+      "longitude": "-74.56667000"
+    },
+    {
+      "id": 20626,
+      "name": "Cajicá",
+      "latitude": "4.91857000",
+      "longitude": "-74.02799000"
+    },
+    {
+      "id": 20646,
+      "name": "Caparrapí",
+      "latitude": "5.34644000",
+      "longitude": "-74.49147000"
+    },
+    {
+      "id": 20648,
+      "name": "Caqueza",
+      "latitude": "4.38708000",
+      "longitude": "-73.95722000"
+    },
+    {
+      "id": 20655,
+      "name": "Carmen de Carupa",
+      "latitude": "5.34862000",
+      "longitude": "-73.90168000"
+    },
+    {
+      "id": 20675,
+      "name": "Chaguaní",
+      "latitude": "4.94829000",
+      "longitude": "-74.59392000"
+    },
+    {
+      "id": 20705,
+      "name": "Chía",
+      "latitude": "4.84452000",
+      "longitude": "-74.05848000"
+    },
+    {
+      "id": 20691,
+      "name": "Chipaque",
+      "latitude": "4.44250000",
+      "longitude": "-74.04417000"
+    },
+    {
+      "id": 20702,
+      "name": "Choachí",
+      "latitude": "4.52897000",
+      "longitude": "-73.92273000"
+    },
+    {
+      "id": 20703,
+      "name": "Chocontá",
+      "latitude": "5.14468000",
+      "longitude": "-73.68578000"
+    },
+    {
+      "id": 20718,
+      "name": "Cogua",
+      "latitude": "5.06051000",
+      "longitude": "-73.97925000"
+    },
+    {
+      "id": 20741,
+      "name": "Cota",
+      "latitude": "4.80938000",
+      "longitude": "-74.09800000"
+    },
+    {
+      "id": 20752,
+      "name": "Cucunubá",
+      "latitude": "5.24958000",
+      "longitude": "-73.76610000"
+    },
+    {
+      "id": 20803,
+      "name": "El Colegio",
+      "latitude": "4.56047000",
+      "longitude": "-74.42614000"
+    },
+    {
+      "id": 20817,
+      "name": "El Peñón",
+      "latitude": "5.25264000",
+      "longitude": "-74.29069000"
+    },
+    {
+      "id": 20826,
+      "name": "El Rosal",
+      "latitude": "4.85314000",
+      "longitude": "-74.25996000"
+    },
+    {
+      "id": 20842,
+      "name": "Facatativá",
+      "latitude": "4.81367000",
+      "longitude": "-74.35453000"
+    },
+    {
+      "id": 20854,
+      "name": "Fomeque",
+      "latitude": "4.52806000",
+      "longitude": "-73.78879000"
+    },
+    {
+      "id": 20857,
+      "name": "Fosca",
+      "latitude": "4.33916000",
+      "longitude": "-73.93852000"
+    },
+    {
+      "id": 20866,
+      "name": "Funza",
+      "latitude": "4.71638000",
+      "longitude": "-74.21195000"
+    },
+    {
+      "id": 20869,
+      "name": "Fúquene",
+      "latitude": "5.41988000",
+      "longitude": "-73.76997000"
+    },
+    {
+      "id": 20867,
+      "name": "Fusagasugá",
+      "latitude": "4.33646000",
+      "longitude": "-74.36378000"
+    },
+    {
+      "id": 20870,
+      "name": "Gachala",
+      "latitude": "4.66667000",
+      "longitude": "-73.50000000"
+    },
+    {
+      "id": 20872,
+      "name": "Gachancipá",
+      "latitude": "4.99111000",
+      "longitude": "-73.87154000"
+    },
+    {
+      "id": 20874,
+      "name": "Gachetá",
+      "latitude": "4.87104000",
+      "longitude": "-73.61730000"
+    },
+    {
+      "id": 20879,
+      "name": "Gama",
+      "latitude": "4.76288000",
+      "longitude": "-73.61091000"
+    },
+    {
+      "id": 20886,
+      "name": "Girardot",
+      "latitude": "4.31802000",
+      "longitude": "-74.83504000"
+    },
+    {
+      "id": 20892,
+      "name": "Granada",
+      "latitude": "5.06667000",
+      "longitude": "-74.56667000"
+    },
+    {
+      "id": 20898,
+      "name": "Guachetá",
+      "latitude": "5.38425000",
+      "longitude": "-73.68617000"
+    },
+    {
+      "id": 20903,
+      "name": "Guaduas",
+      "latitude": "5.07430000",
+      "longitude": "-74.59854000"
+    },
+    {
+      "id": 20914,
+      "name": "Guasca",
+      "latitude": "4.86601000",
+      "longitude": "-73.87748000"
+    },
+    {
+      "id": 20916,
+      "name": "Guataquí",
+      "latitude": "4.51573000",
+      "longitude": "-74.78935000"
+    },
+    {
+      "id": 20917,
+      "name": "Guatavita",
+      "latitude": "4.93658000",
+      "longitude": "-73.83314000"
+    },
+    {
+      "id": 20921,
+      "name": "Guayabal de Siquima",
+      "latitude": "4.87881000",
+      "longitude": "-74.48306000"
+    },
+    {
+      "id": 20923,
+      "name": "Guayabetal",
+      "latitude": "4.21472000",
+      "longitude": "-73.81719000"
+    },
+    {
+      "id": 20925,
+      "name": "Gutiérrez",
+      "latitude": "4.18486000",
+      "longitude": "-74.01168000"
+    },
+    {
+      "id": 20963,
+      "name": "Jerusalén",
+      "latitude": "4.56309000",
+      "longitude": "-74.69519000"
+    },
+    {
+      "id": 20968,
+      "name": "Junín",
+      "latitude": "4.70725000",
+      "longitude": "-73.69549000"
+    },
+    {
+      "id": 20972,
+      "name": "La Calera",
+      "latitude": "4.68678000",
+      "longitude": "-73.93590000"
+    },
+    {
+      "id": 20993,
+      "name": "La Mesa",
+      "latitude": "4.65374000",
+      "longitude": "-74.47316000"
+    },
+    {
+      "id": 20995,
+      "name": "La Palma",
+      "latitude": "5.31732000",
+      "longitude": "-74.43003000"
+    },
+    {
+      "id": 20999,
+      "name": "La Peña",
+      "latitude": "5.19847000",
+      "longitude": "-74.39368000"
+    },
+    {
+      "id": 21012,
+      "name": "La Vega",
+      "latitude": "4.97382000",
+      "longitude": "-74.34476000"
+    },
+    {
+      "id": 21026,
+      "name": "Lenguazaque",
+      "latitude": "5.30711000",
+      "longitude": "-73.71152000"
+    },
+    {
+      "id": 21045,
+      "name": "Macheta",
+      "latitude": "5.08333000",
+      "longitude": "-73.61667000"
+    },
+    {
+      "id": 21047,
+      "name": "Madrid",
+      "latitude": "4.75564000",
+      "longitude": "-74.27708000"
+    },
+    {
+      "id": 21060,
+      "name": "Manta",
+      "latitude": "4.95720000",
+      "longitude": "-73.58583000"
+    },
+    {
+      "id": 21075,
+      "name": "Medina",
+      "latitude": "4.51005000",
+      "longitude": "-73.34982000"
+    },
+    {
+      "id": 21109,
+      "name": "Mosquera",
+      "latitude": "4.68935000",
+      "longitude": "-74.23599000"
+    },
+    {
+      "id": 21127,
+      "name": "Nariño",
+      "latitude": "4.39913000",
+      "longitude": "-74.82239000"
+    },
+    {
+      "id": 21132,
+      "name": "Nemocón",
+      "latitude": "5.06767000",
+      "longitude": "-73.87769000"
+    },
+    {
+      "id": 21133,
+      "name": "Nilo",
+      "latitude": "4.30604000",
+      "longitude": "-74.62083000"
+    },
+    {
+      "id": 21134,
+      "name": "Nimaima",
+      "latitude": "5.12614000",
+      "longitude": "-74.38495000"
+    },
+    {
+      "id": 21136,
+      "name": "Nocaima",
+      "latitude": "5.06696000",
+      "longitude": "-74.38439000"
+    },
+    {
+      "id": 21159,
+      "name": "Pacho",
+      "latitude": "5.13055555",
+      "longitude": "-74.15833333"
+    },
+    {
+      "id": 21165,
+      "name": "Paime",
+      "latitude": "5.37054000",
+      "longitude": "-74.15219000"
+    },
+    {
+      "id": 21179,
+      "name": "Pandi",
+      "latitude": "4.18032000",
+      "longitude": "-74.47099000"
+    },
+    {
+      "id": 21182,
+      "name": "Paratebueno",
+      "latitude": "4.37575000",
+      "longitude": "-73.21547000"
+    },
+    {
+      "id": 21183,
+      "name": "Pasca",
+      "latitude": "4.30722000",
+      "longitude": "-74.30056000"
+    },
+    {
+      "id": 21254,
+      "name": "Puerto Salgar",
+      "latitude": "5.61892000",
+      "longitude": "-74.58483000"
+    },
+    {
+      "id": 21261,
+      "name": "Pulí",
+      "latitude": "4.68116000",
+      "longitude": "-74.71406000"
+    },
+    {
+      "id": 21270,
+      "name": "Quebradanegra",
+      "latitude": "5.08262000",
+      "longitude": "-74.52117000"
+    },
+    {
+      "id": 21271,
+      "name": "Quetame",
+      "latitude": "4.33234000",
+      "longitude": "-73.86141000"
+    },
+    {
+      "id": 21275,
+      "name": "Quipile",
+      "latitude": "4.74517000",
+      "longitude": "-74.53378000"
+    },
+    {
+      "id": 21287,
+      "name": "Ricaurte",
+      "latitude": "4.28075000",
+      "longitude": "-74.76469000"
+    },
+    {
+      "id": 21338,
+      "name": "San Antonio del Tequendama",
+      "latitude": "4.61667000",
+      "longitude": "-74.35000000"
+    },
+    {
+      "id": 21342,
+      "name": "San Bernardo",
+      "latitude": "4.12956000",
+      "longitude": "-74.35903000"
+    },
+    {
+      "id": 21348,
+      "name": "San Cayetano",
+      "latitude": "5.31693000",
+      "longitude": "-74.07141000"
+    },
+    {
+      "id": 21358,
+      "name": "San Francisco",
+      "latitude": "4.96335000",
+      "longitude": "-74.26613000"
+    },
+    {
+      "id": 21375,
+      "name": "San Juan de Río Seco",
+      "latitude": "4.83077000",
+      "longitude": "-74.68248000"
+    },
+    {
+      "id": 21446,
+      "name": "Sasaima",
+      "latitude": "4.96705000",
+      "longitude": "-74.43512000"
+    },
+    {
+      "id": 21450,
+      "name": "Sesquilé",
+      "latitude": "5.04463000",
+      "longitude": "-73.79724000"
+    },
+    {
+      "id": 21453,
+      "name": "Sibaté",
+      "latitude": "4.49154000",
+      "longitude": "-74.25957000"
+    },
+    {
+      "id": 21456,
+      "name": "Silvania",
+      "latitude": "4.40367000",
+      "longitude": "-74.38670000"
+    },
+    {
+      "id": 21459,
+      "name": "Simijaca",
+      "latitude": "5.50415000",
+      "longitude": "-73.86944000"
+    },
+    {
+      "id": 21464,
+      "name": "Soacha",
+      "latitude": "4.57937000",
+      "longitude": "-74.21682000"
+    },
+    {
+      "id": 21478,
+      "name": "Sopó",
+      "latitude": "4.90750000",
+      "longitude": "-73.93840000"
+    },
+    {
+      "id": 21486,
+      "name": "Subachoque",
+      "latitude": "4.92614000",
+      "longitude": "-74.17299000"
+    },
+    {
+      "id": 21490,
+      "name": "Suesca",
+      "latitude": "5.10289000",
+      "longitude": "-73.79845000"
+    },
+    {
+      "id": 21491,
+      "name": "Supatá",
+      "latitude": "5.06097000",
+      "longitude": "-74.23721000"
+    },
+    {
+      "id": 21494,
+      "name": "Susa",
+      "latitude": "5.42700000",
+      "longitude": "-73.84786000"
+    },
+    {
+      "id": 21497,
+      "name": "Sutatausa",
+      "latitude": "5.24779000",
+      "longitude": "-73.85238000"
+    },
+    {
+      "id": 21503,
+      "name": "Tabio",
+      "latitude": "4.91726000",
+      "longitude": "-74.09364000"
+    },
+    {
+      "id": 21517,
+      "name": "Tausa",
+      "latitude": "5.19903000",
+      "longitude": "-73.89128000"
+    },
+    {
+      "id": 21518,
+      "name": "Tena",
+      "latitude": "4.66001000",
+      "longitude": "-74.39258000"
+    },
+    {
+      "id": 21520,
+      "name": "Tenjo",
+      "latitude": "4.87270000",
+      "longitude": "-74.14435000"
+    },
+    {
+      "id": 21522,
+      "name": "Tibacuy",
+      "latitude": "4.30606000",
+      "longitude": "-74.51639000"
+    },
+    {
+      "id": 21525,
+      "name": "Tibirita",
+      "latitude": "5.05227000",
+      "longitude": "-73.50459000"
+    },
+    {
+      "id": 21534,
+      "name": "Tocaima",
+      "latitude": "4.46073000",
+      "longitude": "-74.65722000"
+    },
+    {
+      "id": 21535,
+      "name": "Tocancipá",
+      "latitude": "4.96531000",
+      "longitude": "-73.91301000"
+    },
+    {
+      "id": 21541,
+      "name": "Topaipí",
+      "latitude": "5.33457000",
+      "longitude": "-74.30292000"
+    },
+    {
+      "id": 21565,
+      "name": "Ubalá",
+      "latitude": "4.74778000",
+      "longitude": "-72.53694000"
+    },
+    {
+      "id": 21566,
+      "name": "Ubaque",
+      "latitude": "4.48667000",
+      "longitude": "-73.93748000"
+    },
+    {
+      "id": 21569,
+      "name": "Une",
+      "latitude": "4.30691000",
+      "longitude": "-74.07104000"
+    },
+    {
+      "id": 21640,
+      "name": "Útica",
+      "latitude": "5.16977000",
+      "longitude": "-74.50134000"
+    },
+    {
+      "id": 21587,
+      "name": "Venecia",
+      "latitude": "4.08808000",
+      "longitude": "-74.47746000"
+    },
+    {
+      "id": 21590,
+      "name": "Vergara",
+      "latitude": "5.13600000",
+      "longitude": "-74.31539000"
+    },
+    {
+      "id": 21593,
+      "name": "Vianí",
+      "latitude": "4.89579000",
+      "longitude": "-74.55398000"
+    },
+    {
+      "id": 21599,
+      "name": "Villa de San Diego de Ubate",
+      "latitude": "5.31544000",
+      "longitude": "-73.82045000"
+    },
+    {
+      "id": 21603,
+      "name": "Villagómez",
+      "latitude": "5.27372000",
+      "longitude": "-74.19614000"
+    },
+    {
+      "id": 21610,
+      "name": "Villapinzón",
+      "latitude": "5.21617000",
+      "longitude": "-73.59490000"
+    },
+    {
+      "id": 21613,
+      "name": "Villeta",
+      "latitude": "5.00008000",
+      "longitude": "-74.50498000"
+    },
+    {
+      "id": 21614,
+      "name": "Viotá",
+      "latitude": "4.43713000",
+      "longitude": "-74.52157000"
+    },
+    {
+      "id": 21619,
+      "name": "Yacopí",
+      "latitude": "5.45948000",
+      "longitude": "-74.33823000"
+    },
+    {
+      "id": 21635,
+      "name": "Zipacón",
+      "latitude": "4.75881000",
+      "longitude": "-74.38017000"
+    },
+    {
+      "id": 21636,
+      "name": "Zipaquirá",
+      "latitude": "5.02208000",
+      "longitude": "-74.00481000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

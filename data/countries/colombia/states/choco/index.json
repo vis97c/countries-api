@@ -1,0 +1,234 @@
+{
+  "id": 2876,
+  "name": "Chocó",
+  "state_code": "CHO",
+  "latitude": "5.25280330",
+  "longitude": "-76.82596520",
+  "type": null,
+  "cities": [
+    {
+      "id": 20489,
+      "name": "Acandí",
+      "latitude": "8.51158000",
+      "longitude": "-77.27719000"
+    },
+    {
+      "id": 20509,
+      "name": "Alto Baudó",
+      "latitude": "5.51604000",
+      "longitude": "-76.97449000"
+    },
+    {
+      "id": 20557,
+      "name": "Atrato",
+      "latitude": "5.57362000",
+      "longitude": "-76.64063000"
+    },
+    {
+      "id": 20559,
+      "name": "Bagadó",
+      "latitude": "5.41164000",
+      "longitude": "-76.41520000"
+    },
+    {
+      "id": 20560,
+      "name": "Bahía Solano",
+      "latitude": "6.22520000",
+      "longitude": "-77.39147000"
+    },
+    {
+      "id": 20561,
+      "name": "Bajo Baudó",
+      "latitude": "4.95334000",
+      "longitude": "-77.36598000"
+    },
+    {
+      "id": 20596,
+      "name": "Bojayá",
+      "latitude": "6.55645000",
+      "longitude": "-76.88389000"
+    },
+    {
+      "id": 20657,
+      "name": "Carmen del Darien",
+      "latitude": "7.15777888",
+      "longitude": "-76.97083333"
+    },
+    {
+      "id": 20767,
+      "name": "Cértegui",
+      "latitude": "5.37073000",
+      "longitude": "-76.60440000"
+    },
+    {
+      "id": 20728,
+      "name": "Condoto",
+      "latitude": "5.09351000",
+      "longitude": "-76.64973000"
+    },
+    {
+      "id": 20791,
+      "name": "El Cantón de San Pablo",
+      "latitude": "5.33889000",
+      "longitude": "-76.73139000"
+    },
+    {
+      "id": 20795,
+      "name": "El Carmen de Atrato",
+      "latitude": "5.83333000",
+      "longitude": "-76.25000000"
+    },
+    {
+      "id": 20952,
+      "name": "Istmina",
+      "latitude": "5.16054000",
+      "longitude": "-76.68397000"
+    },
+    {
+      "id": 20969,
+      "name": "Juradó",
+      "latitude": "7.10421000",
+      "longitude": "-77.76200000"
+    },
+    {
+      "id": 21418,
+      "name": "Litoral del San Juan",
+      "latitude": "4.25875000",
+      "longitude": "-77.36516000"
+    },
+    {
+      "id": 21030,
+      "name": "Lloró",
+      "latitude": "5.49605000",
+      "longitude": "-76.54945000"
+    },
+    {
+      "id": 21076,
+      "name": "Medio Atrato",
+      "latitude": "5.99500000",
+      "longitude": "-76.78250000"
+    },
+    {
+      "id": 21077,
+      "name": "Medio Baudó",
+      "latitude": "5.05000000",
+      "longitude": "-77.05000000"
+    },
+    {
+      "id": 21078,
+      "name": "Medio San Juan",
+      "latitude": "5.09278000",
+      "longitude": "-76.69528000"
+    },
+    {
+      "id": 21143,
+      "name": "Nóvita",
+      "latitude": "4.95511000",
+      "longitude": "-76.60526000"
+    },
+    {
+      "id": 21142,
+      "name": "Nuquí",
+      "latitude": "5.71250000",
+      "longitude": "-77.27083000"
+    },
+    {
+      "id": 21272,
+      "name": "Quibdó",
+      "latitude": "5.76075000",
+      "longitude": "-76.83701000"
+    },
+    {
+      "id": 21304,
+      "name": "Río Iro",
+      "latitude": "5.18333000",
+      "longitude": "-76.48330000"
+    },
+    {
+      "id": 21305,
+      "name": "Río Quito",
+      "latitude": "5.51667000",
+      "longitude": "-76.75000000"
+    },
+    {
+      "id": 21295,
+      "name": "Riosucio",
+      "latitude": "7.41667000",
+      "longitude": "-77.16667000"
+    },
+    {
+      "id": 21371,
+      "name": "San José del Palmar",
+      "latitude": "4.89616000",
+      "longitude": "-76.23422000"
+    },
+    {
+      "id": 21462,
+      "name": "Sipí",
+      "latitude": "4.65374000",
+      "longitude": "-76.64442000"
+    },
+    {
+      "id": 21504,
+      "name": "Tadó",
+      "latitude": "5.26598000",
+      "longitude": "-76.56487000"
+    },
+    {
+      "id": 21570,
+      "name": "Unguía",
+      "latitude": "8.04364000",
+      "longitude": "-77.09137000"
+    },
+    {
+      "id": 21571,
+      "name": "Unión Panamericana",
+      "latitude": "5.28139000",
+      "longitude": "-76.63000000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

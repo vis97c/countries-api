@@ -1,0 +1,66 @@
+{
+  "id": 261,
+  "name": "Eastern Province",
+  "state_code": "02",
+  "latitude": null,
+  "longitude": null,
+  "type": null,
+  "cities": [
+    {
+      "id": 102798,
+      "name": "Kibungo",
+      "latitude": "-2.15970000",
+      "longitude": "30.54270000"
+    },
+    {
+      "id": 102803,
+      "name": "Rwamagana",
+      "latitude": "-1.94870000",
+      "longitude": "30.43470000"
+    }
+  ],
+  "country": {
+    "id": 183,
+    "name": "Rwanda",
+    "iso3": "RWA",
+    "iso2": "RW",
+    "numeric_code": "646",
+    "phone_code": "250",
+    "capital": "Kigali",
+    "currency": "RWF",
+    "currency_name": "Rwandan franc",
+    "currency_symbol": "FRw",
+    "tld": ".rw",
+    "native": "Rwanda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kigali",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "르완다",
+      "pt-BR": "Ruanda",
+      "pt": "Ruanda",
+      "nl": "Rwanda",
+      "hr": "Ruanda",
+      "fa": "رواندا",
+      "de": "Ruanda",
+      "es": "Ruanda",
+      "fr": "Rwanda",
+      "ja": "ルワンダ",
+      "it": "Ruanda",
+      "cn": "卢旺达",
+      "tr": "Ruanda"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇷🇼",
+    "emojiU": "U+1F1F7 U+1F1FC"
+  }
+}

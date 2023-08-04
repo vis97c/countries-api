@@ -1,0 +1,72 @@
+{
+  "id": 2284,
+  "name": "North",
+  "state_code": "AS",
+  "latitude": "34.43806250",
+  "longitude": "35.83082330",
+  "type": null,
+  "cities": [
+    {
+      "id": 65934,
+      "name": "Batroûn",
+      "latitude": "34.25528000",
+      "longitude": "35.65806000"
+    },
+    {
+      "id": 65935,
+      "name": "Bcharré",
+      "latitude": "34.25083000",
+      "longitude": "36.01056000"
+    },
+    {
+      "id": 65953,
+      "name": "Tripoli",
+      "latitude": "34.43352000",
+      "longitude": "35.84415000"
+    }
+  ],
+  "country": {
+    "id": 121,
+    "name": "Lebanon",
+    "iso3": "LBN",
+    "iso2": "LB",
+    "numeric_code": "422",
+    "phone_code": "961",
+    "capital": "Beirut",
+    "currency": "LBP",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "£",
+    "tld": ".lb",
+    "native": "لبنان",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Beirut",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "레바논",
+      "pt-BR": "Líbano",
+      "pt": "Líbano",
+      "nl": "Libanon",
+      "hr": "Libanon",
+      "fa": "لبنان",
+      "de": "Libanon",
+      "es": "Líbano",
+      "fr": "Liban",
+      "ja": "レバノン",
+      "it": "Libano",
+      "cn": "黎巴嫩",
+      "tr": "Lübnan"
+    },
+    "latitude": "33.83333333",
+    "longitude": "35.83333333",
+    "emoji": "🇱🇧",
+    "emojiU": "U+1F1F1 U+1F1E7"
+  }
+}

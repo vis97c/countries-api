@@ -1,0 +1,504 @@
+{
+  "id": 3754,
+  "name": "Manchester Parish",
+  "state_code": "12",
+  "latitude": "18.06696540",
+  "longitude": "-77.51607880",
+  "type": null,
+  "cities": [
+    {
+      "id": 62304,
+      "name": "Alligator Pond",
+      "latitude": "17.88369000",
+      "longitude": "-77.56068000"
+    },
+    {
+      "id": 62321,
+      "name": "Asia/Pratville",
+      "latitude": "17.91584000",
+      "longitude": "-77.41563000"
+    },
+    {
+      "id": 62323,
+      "name": "Auchtembeddie",
+      "latitude": "18.22543000",
+      "longitude": "-77.60361000"
+    },
+    {
+      "id": 62349,
+      "name": "Bellefield",
+      "latitude": "18.09266000",
+      "longitude": "-77.44004000"
+    },
+    {
+      "id": 62354,
+      "name": "Bethany",
+      "latitude": "18.15373000",
+      "longitude": "-77.55032000"
+    },
+    {
+      "id": 62366,
+      "name": "Blue Mountain",
+      "latitude": "18.07095000",
+      "longitude": "-77.42840000"
+    },
+    {
+      "id": 62374,
+      "name": "Bombay",
+      "latitude": "18.11780000",
+      "longitude": "-77.44940000"
+    },
+    {
+      "id": 62407,
+      "name": "Butt-Up",
+      "latitude": "17.97313000",
+      "longitude": "-77.57777000"
+    },
+    {
+      "id": 62437,
+      "name": "Cedar Grove",
+      "latitude": "18.01225000",
+      "longitude": "-77.49630000"
+    },
+    {
+      "id": 62444,
+      "name": "Chantilly",
+      "latitude": "18.10447000",
+      "longitude": "-77.46625000"
+    },
+    {
+      "id": 62453,
+      "name": "Christiana",
+      "latitude": "18.18015000",
+      "longitude": "-77.49045000"
+    },
+    {
+      "id": 62454,
+      "name": "Chudleigh",
+      "latitude": "18.15148000",
+      "longitude": "-77.50707000"
+    },
+    {
+      "id": 62460,
+      "name": "Cobbla",
+      "latitude": "18.14060000",
+      "longitude": "-77.46998000"
+    },
+    {
+      "id": 62465,
+      "name": "Coleyville",
+      "latitude": "18.19993000",
+      "longitude": "-77.51924000"
+    },
+    {
+      "id": 62467,
+      "name": "Comfort",
+      "latitude": "18.05390000",
+      "longitude": "-77.42477000"
+    },
+    {
+      "id": 62470,
+      "name": "Comfort Hall",
+      "latitude": "18.18789000",
+      "longitude": "-77.61041000"
+    },
+    {
+      "id": 62474,
+      "name": "Content",
+      "latitude": "18.07444000",
+      "longitude": "-77.45116000"
+    },
+    {
+      "id": 62486,
+      "name": "Craig Head",
+      "latitude": "18.23658000",
+      "longitude": "-77.56295000"
+    },
+    {
+      "id": 62492,
+      "name": "Cross Keys",
+      "latitude": "17.90727000",
+      "longitude": "-77.50111000"
+    },
+    {
+      "id": 62510,
+      "name": "Devon",
+      "latitude": "18.16595000",
+      "longitude": "-77.52507000"
+    },
+    {
+      "id": 62517,
+      "name": "Downs",
+      "latitude": "17.95004000",
+      "longitude": "-77.57313000"
+    },
+    {
+      "id": 62536,
+      "name": "Ellen Street",
+      "latitude": "17.96796000",
+      "longitude": "-77.43931000"
+    },
+    {
+      "id": 62543,
+      "name": "Evergreen",
+      "latitude": "18.15096000",
+      "longitude": "-77.59965000"
+    },
+    {
+      "id": 62547,
+      "name": "Fairfield",
+      "latitude": "18.03117000",
+      "longitude": "-77.57535000"
+    },
+    {
+      "id": 62571,
+      "name": "French Park",
+      "latitude": "17.95572000",
+      "longitude": "-77.54471000"
+    },
+    {
+      "id": 62581,
+      "name": "George's Valley",
+      "latitude": "18.03172000",
+      "longitude": "-77.48081000"
+    },
+    {
+      "id": 62595,
+      "name": "Good Intent",
+      "latitude": "18.20806000",
+      "longitude": "-77.57086000"
+    },
+    {
+      "id": 62613,
+      "name": "Greenvale",
+      "latitude": "18.03928000",
+      "longitude": "-77.53239000"
+    },
+    {
+      "id": 62617,
+      "name": "Grove Place",
+      "latitude": "18.10467000",
+      "longitude": "-77.52923000"
+    },
+    {
+      "id": 62618,
+      "name": "Grove Town",
+      "latitude": "17.88606000",
+      "longitude": "-77.45882000"
+    },
+    {
+      "id": 62633,
+      "name": "Harmons",
+      "latitude": "17.98171000",
+      "longitude": "-77.41208000"
+    },
+    {
+      "id": 62635,
+      "name": "Harry Watch",
+      "latitude": "18.17314000",
+      "longitude": "-77.57611000"
+    },
+    {
+      "id": 62636,
+      "name": "Hatfield",
+      "latitude": "18.01557000",
+      "longitude": "-77.54009000"
+    },
+    {
+      "id": 62641,
+      "name": "Heartease",
+      "latitude": "18.04878000",
+      "longitude": "-77.48238000"
+    },
+    {
+      "id": 62646,
+      "name": "Hibernia",
+      "latitude": "18.17575000",
+      "longitude": "-77.54830000"
+    },
+    {
+      "id": 62659,
+      "name": "Huntley",
+      "latitude": "18.06647000",
+      "longitude": "-77.58171000"
+    },
+    {
+      "id": 62686,
+      "name": "Kendal",
+      "latitude": "18.08318000",
+      "longitude": "-77.50320000"
+    },
+    {
+      "id": 62697,
+      "name": "Knockpatrick",
+      "latitude": "17.99027000",
+      "longitude": "-77.49270000"
+    },
+    {
+      "id": 62701,
+      "name": "Lancaster",
+      "latitude": "17.93603000",
+      "longitude": "-77.46134000"
+    },
+    {
+      "id": 62716,
+      "name": "Litchfield",
+      "latitude": "18.13502000",
+      "longitude": "-77.52448000"
+    },
+    {
+      "id": 62740,
+      "name": "Maidstone",
+      "latitude": "18.10165000",
+      "longitude": "-77.57284000"
+    },
+    {
+      "id": 62745,
+      "name": "Mandeville",
+      "latitude": "18.04168000",
+      "longitude": "-77.50714000"
+    },
+    {
+      "id": 62746,
+      "name": "Mandeville Proper",
+      "latitude": "18.04453000",
+      "longitude": "-77.50574000"
+    },
+    {
+      "id": 62753,
+      "name": "Marlie Hill",
+      "latitude": "17.86692000",
+      "longitude": "-77.50835000"
+    },
+    {
+      "id": 62763,
+      "name": "May Day",
+      "latitude": "18.00951000",
+      "longitude": "-77.47606000"
+    },
+    {
+      "id": 62769,
+      "name": "Medina",
+      "latitude": "18.12236000",
+      "longitude": "-77.59643000"
+    },
+    {
+      "id": 62773,
+      "name": "Mike Town",
+      "latitude": "18.04253000",
+      "longitude": "-77.55490000"
+    },
+    {
+      "id": 62775,
+      "name": "Mile Gully",
+      "latitude": "18.13395000",
+      "longitude": "-77.56556000"
+    },
+    {
+      "id": 62813,
+      "name": "New Forest",
+      "latitude": "17.92010000",
+      "longitude": "-77.55867000"
+    },
+    {
+      "id": 62814,
+      "name": "New Green",
+      "latitude": "18.07663000",
+      "longitude": "-77.52569000"
+    },
+    {
+      "id": 62824,
+      "name": "Newport",
+      "latitude": "17.96293000",
+      "longitude": "-77.50486000"
+    },
+    {
+      "id": 62837,
+      "name": "Old England",
+      "latitude": "17.98503000",
+      "longitude": "-77.46017000"
+    },
+    {
+      "id": 62856,
+      "name": "Part Of Banana Ground",
+      "latitude": "18.07912000",
+      "longitude": "-77.42134000"
+    },
+    {
+      "id": 62857,
+      "name": "Part Of Gutters",
+      "latitude": "18.00642000",
+      "longitude": "-77.57903000"
+    },
+    {
+      "id": 62864,
+      "name": "Part of Spaldings",
+      "latitude": "18.15819000",
+      "longitude": "-77.46627000"
+    },
+    {
+      "id": 62882,
+      "name": "Pike",
+      "latitude": "18.23229000",
+      "longitude": "-77.53790000"
+    },
+    {
+      "id": 62887,
+      "name": "Plowden",
+      "latitude": "17.89178000",
+      "longitude": "-77.53846000"
+    },
+    {
+      "id": 62900,
+      "name": "Porus",
+      "latitude": "18.03535000",
+      "longitude": "-77.41166000"
+    },
+    {
+      "id": 62905,
+      "name": "Prospect",
+      "latitude": "17.98244000",
+      "longitude": "-77.56775000"
+    },
+    {
+      "id": 62929,
+      "name": "Richmond",
+      "latitude": "18.02560000",
+      "longitude": "-77.46337000"
+    },
+    {
+      "id": 62941,
+      "name": "Robins Hall",
+      "latitude": "18.20405000",
+      "longitude": "-77.55007000"
+    },
+    {
+      "id": 62953,
+      "name": "Rose Hill",
+      "latitude": "17.92471000",
+      "longitude": "-77.52340000"
+    },
+    {
+      "id": 62958,
+      "name": "Royal Flat",
+      "latitude": "18.04965000",
+      "longitude": "-77.46830000"
+    },
+    {
+      "id": 62978,
+      "name": "Scotts Pass",
+      "latitude": "17.99920000",
+      "longitude": "-77.39820000"
+    },
+    {
+      "id": 63000,
+      "name": "Snowdon",
+      "latitude": "17.94198000",
+      "longitude": "-77.49137000"
+    },
+    {
+      "id": 63002,
+      "name": "Somerset",
+      "latitude": "18.08036000",
+      "longitude": "-77.54306000"
+    },
+    {
+      "id": 63014,
+      "name": "Spring Ground",
+      "latitude": "18.16233000",
+      "longitude": "-77.47977000"
+    },
+    {
+      "id": 63018,
+      "name": "Spur Tree",
+      "latitude": "18.00650000",
+      "longitude": "-77.55664000"
+    },
+    {
+      "id": 63025,
+      "name": "St. Paul's",
+      "latitude": "18.13144000",
+      "longitude": "-77.61200000"
+    },
+    {
+      "id": 63043,
+      "name": "Swaby's Hope",
+      "latitude": "17.98608000",
+      "longitude": "-77.53326000"
+    },
+    {
+      "id": 63055,
+      "name": "Top Hill",
+      "latitude": "18.11622000",
+      "longitude": "-77.50344000"
+    },
+    {
+      "id": 63076,
+      "name": "Victoria Town",
+      "latitude": "17.90472000",
+      "longitude": "-77.37795000"
+    },
+    {
+      "id": 63080,
+      "name": "Walderston",
+      "latitude": "18.11637000",
+      "longitude": "-77.48614000"
+    },
+    {
+      "id": 63092,
+      "name": "Watham",
+      "latitude": "18.00675000",
+      "longitude": "-77.51873000"
+    },
+    {
+      "id": 63107,
+      "name": "Williamsfield",
+      "latitude": "18.06664000",
+      "longitude": "-77.46582000"
+    }
+  ],
+  "country": {
+    "id": 108,
+    "name": "Jamaica",
+    "iso3": "JAM",
+    "iso2": "JM",
+    "numeric_code": "388",
+    "phone_code": "+1-876",
+    "capital": "Kingston",
+    "currency": "JMD",
+    "currency_name": "Jamaican dollar",
+    "currency_symbol": "J$",
+    "tld": ".jm",
+    "native": "Jamaica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Jamaica",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "자메이카",
+      "pt-BR": "Jamaica",
+      "pt": "Jamaica",
+      "nl": "Jamaica",
+      "hr": "Jamajka",
+      "fa": "جامائیکا",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "fr": "Jamaïque",
+      "ja": "ジャマイカ",
+      "it": "Giamaica",
+      "cn": "牙买加",
+      "tr": "Jamaika"
+    },
+    "latitude": "18.25000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇯🇲",
+    "emojiU": "U+1F1EF U+1F1F2"
+  }
+}

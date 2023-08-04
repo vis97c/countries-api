@@ -1,0 +1,551 @@
+{
+  "id": 3641,
+  "name": "Santa Fe",
+  "state_code": "S",
+  "latitude": "-31.58551090",
+  "longitude": "-60.72380160",
+  "type": "province",
+  "cities": [
+    {
+      "id": 670,
+      "name": "Armstrong",
+      "latitude": "-32.78215000",
+      "longitude": "-61.60222000"
+    },
+    {
+      "id": 673,
+      "name": "Arroyo Seco",
+      "latitude": "-33.15489000",
+      "longitude": "-60.50863000"
+    },
+    {
+      "id": 675,
+      "name": "Arrufó",
+      "latitude": "-30.23281000",
+      "longitude": "-61.72862000"
+    },
+    {
+      "id": 676,
+      "name": "Avellaneda",
+      "latitude": "-29.11761000",
+      "longitude": "-59.65834000"
+    },
+    {
+      "id": 689,
+      "name": "Bella Italia",
+      "latitude": "-31.28182000",
+      "longitude": "-61.41092000"
+    },
+    {
+      "id": 710,
+      "name": "Calchaquí",
+      "latitude": "-29.88767000",
+      "longitude": "-60.28697000"
+    },
+    {
+      "id": 743,
+      "name": "Cañada de Gómez",
+      "latitude": "-32.81636000",
+      "longitude": "-61.39493000"
+    },
+    {
+      "id": 729,
+      "name": "Capitán Bermúdez",
+      "latitude": "-32.82262000",
+      "longitude": "-60.71852000"
+    },
+    {
+      "id": 732,
+      "name": "Carcarañá",
+      "latitude": "-32.85679000",
+      "longitude": "-61.15331000"
+    },
+    {
+      "id": 736,
+      "name": "Casilda",
+      "latitude": "-33.04417000",
+      "longitude": "-61.16806000"
+    },
+    {
+      "id": 747,
+      "name": "Ceres",
+      "latitude": "-29.88100000",
+      "longitude": "-61.94504000"
+    },
+    {
+      "id": 758,
+      "name": "Chañar Ladeado",
+      "latitude": "-33.32524000",
+      "longitude": "-62.03831000"
+    },
+    {
+      "id": 796,
+      "name": "Coronda",
+      "latitude": "-31.97263000",
+      "longitude": "-60.91983000"
+    },
+    {
+      "id": 835,
+      "name": "Departamento de Belgrano",
+      "latitude": "-32.50000000",
+      "longitude": "-61.75000000"
+    },
+    {
+      "id": 853,
+      "name": "Departamento de Caseros",
+      "latitude": "-33.25000000",
+      "longitude": "-61.66667000"
+    },
+    {
+      "id": 854,
+      "name": "Departamento de Castellanos",
+      "latitude": "-31.16667000",
+      "longitude": "-61.66667000"
+    },
+    {
+      "id": 869,
+      "name": "Departamento de Constitución",
+      "latitude": "-33.50000000",
+      "longitude": "-60.91667000"
+    },
+    {
+      "id": 916,
+      "name": "Departamento de La Capital",
+      "latitude": "-31.50000000",
+      "longitude": "-60.66667000"
+    },
+    {
+      "id": 951,
+      "name": "Departamento de Nueve de Julio",
+      "latitude": "-28.83333000",
+      "longitude": "-61.33333000"
+    },
+    {
+      "id": 985,
+      "name": "Departamento de San Cristóbal",
+      "latitude": "-30.33333000",
+      "longitude": "-61.33333000"
+    },
+    {
+      "id": 988,
+      "name": "Departamento de San Javier",
+      "latitude": "-30.33333000",
+      "longitude": "-59.91667000"
+    },
+    {
+      "id": 992,
+      "name": "Departamento de San Justo",
+      "latitude": "-30.66667000",
+      "longitude": "-60.50000000"
+    },
+    {
+      "id": 993,
+      "name": "Departamento de San Lorenzo",
+      "latitude": "-33.00000000",
+      "longitude": "-61.00000000"
+    },
+    {
+      "id": 1000,
+      "name": "Departamento de San Martín",
+      "latitude": "-32.00000000",
+      "longitude": "-61.83333000"
+    },
+    {
+      "id": 1033,
+      "name": "Departamento de Vera",
+      "latitude": "-29.00000000",
+      "longitude": "-60.50000000"
+    },
+    {
+      "id": 1062,
+      "name": "El Trébol",
+      "latitude": "-32.20080000",
+      "longitude": "-61.70140000"
+    },
+    {
+      "id": 1069,
+      "name": "Esperanza",
+      "latitude": "-31.44880000",
+      "longitude": "-60.93173000"
+    },
+    {
+      "id": 1079,
+      "name": "Firmat",
+      "latitude": "-33.45937000",
+      "longitude": "-61.48320000"
+    },
+    {
+      "id": 1084,
+      "name": "Fray Luis A. Beltrán",
+      "latitude": "-32.79122000",
+      "longitude": "-60.72819000"
+    },
+    {
+      "id": 1086,
+      "name": "Funes",
+      "latitude": "-32.91568000",
+      "longitude": "-60.80995000"
+    },
+    {
+      "id": 1131,
+      "name": "Gálvez",
+      "latitude": "-32.02927000",
+      "longitude": "-61.22103000"
+    },
+    {
+      "id": 1093,
+      "name": "Gato Colorado",
+      "latitude": "-28.02219000",
+      "longitude": "-61.18663000"
+    },
+    {
+      "id": 1117,
+      "name": "Gobernador Gálvez",
+      "latitude": "-33.03016000",
+      "longitude": "-60.64045000"
+    },
+    {
+      "id": 1124,
+      "name": "Granadero Baigorria",
+      "latitude": "-32.85683000",
+      "longitude": "-60.71754000"
+    },
+    {
+      "id": 1133,
+      "name": "Helvecia",
+      "latitude": "-31.09834000",
+      "longitude": "-60.08830000"
+    },
+    {
+      "id": 1140,
+      "name": "Hersilia",
+      "latitude": "-30.00447000",
+      "longitude": "-61.84080000"
+    },
+    {
+      "id": 1158,
+      "name": "Iriondo Department",
+      "latitude": "-32.63333000",
+      "longitude": "-61.33333000"
+    },
+    {
+      "id": 1210,
+      "name": "Laguna Paiva",
+      "latitude": "-31.30391000",
+      "longitude": "-60.65894000"
+    },
+    {
+      "id": 1227,
+      "name": "Las Parejas",
+      "latitude": "-32.68478000",
+      "longitude": "-61.51637000"
+    },
+    {
+      "id": 1230,
+      "name": "Las Rosas",
+      "latitude": "-32.47661000",
+      "longitude": "-61.58041000"
+    },
+    {
+      "id": 1231,
+      "name": "Las Toscas",
+      "latitude": "-28.35290000",
+      "longitude": "-59.25795000"
+    },
+    {
+      "id": 1252,
+      "name": "Los Laureles",
+      "latitude": "-29.36847000",
+      "longitude": "-59.73634000"
+    },
+    {
+      "id": 1265,
+      "name": "Malabrigo",
+      "latitude": "-29.34636000",
+      "longitude": "-59.96957000"
+    },
+    {
+      "id": 1276,
+      "name": "Melincué",
+      "latitude": "-33.65847000",
+      "longitude": "-61.45459000"
+    },
+    {
+      "id": 1366,
+      "name": "Pérez",
+      "latitude": "-32.99835000",
+      "longitude": "-60.76791000"
+    },
+    {
+      "id": 1372,
+      "name": "Rafaela",
+      "latitude": "-31.25033000",
+      "longitude": "-61.48670000"
+    },
+    {
+      "id": 1376,
+      "name": "Reconquista",
+      "latitude": "-29.15000000",
+      "longitude": "-59.65000000"
+    },
+    {
+      "id": 1377,
+      "name": "Recreo",
+      "latitude": "-31.49076000",
+      "longitude": "-60.73299000"
+    },
+    {
+      "id": 1383,
+      "name": "Roldán",
+      "latitude": "-32.89846000",
+      "longitude": "-60.90681000"
+    },
+    {
+      "id": 1384,
+      "name": "Rosario",
+      "latitude": "-32.94682000",
+      "longitude": "-60.63932000"
+    },
+    {
+      "id": 1386,
+      "name": "Rufino",
+      "latitude": "-34.26827000",
+      "longitude": "-62.71262000"
+    },
+    {
+      "id": 1417,
+      "name": "San Carlos Centro",
+      "latitude": "-31.72864000",
+      "longitude": "-61.09192000"
+    },
+    {
+      "id": 1420,
+      "name": "San Cristóbal",
+      "latitude": "-30.31053000",
+      "longitude": "-61.23724000"
+    },
+    {
+      "id": 1427,
+      "name": "San Javier",
+      "latitude": "-30.57781000",
+      "longitude": "-59.93170000"
+    },
+    {
+      "id": 1428,
+      "name": "San Jorge",
+      "latitude": "-31.89618000",
+      "longitude": "-61.85984000"
+    },
+    {
+      "id": 1436,
+      "name": "San Justo",
+      "latitude": "-30.78913000",
+      "longitude": "-60.59189000"
+    },
+    {
+      "id": 1458,
+      "name": "Santa Fe",
+      "latitude": "-31.64881000",
+      "longitude": "-60.70868000"
+    },
+    {
+      "id": 1475,
+      "name": "Santo Tomé",
+      "latitude": "-31.66274000",
+      "longitude": "-60.76530000"
+    },
+    {
+      "id": 1478,
+      "name": "Sastre",
+      "latitude": "-31.76762000",
+      "longitude": "-61.82887000"
+    },
+    {
+      "id": 1490,
+      "name": "Sunchales",
+      "latitude": "-30.94404000",
+      "longitude": "-61.56148000"
+    },
+    {
+      "id": 1494,
+      "name": "Tacuarendí",
+      "latitude": "-28.41265000",
+      "longitude": "-59.26000000"
+    },
+    {
+      "id": 1509,
+      "name": "Tostado",
+      "latitude": "-29.23202000",
+      "longitude": "-61.76917000"
+    },
+    {
+      "id": 1510,
+      "name": "Totoras",
+      "latitude": "-32.58440000",
+      "longitude": "-61.16852000"
+    },
+    {
+      "id": 1529,
+      "name": "Venado Tuerto",
+      "latitude": "-33.74556000",
+      "longitude": "-61.96885000"
+    },
+    {
+      "id": 1530,
+      "name": "Vera",
+      "latitude": "-29.45930000",
+      "longitude": "-60.21261000"
+    },
+    {
+      "id": 1545,
+      "name": "Villa Cañás",
+      "latitude": "-34.00565000",
+      "longitude": "-61.60757000"
+    },
+    {
+      "id": 1547,
+      "name": "Villa Constitución",
+      "latitude": "-33.22778000",
+      "longitude": "-60.32970000"
+    },
+    {
+      "id": 1566,
+      "name": "Villa Mugueta",
+      "latitude": "-33.31129000",
+      "longitude": "-61.05515000"
+    },
+    {
+      "id": 1568,
+      "name": "Villa Ocampo",
+      "latitude": "-28.48752000",
+      "longitude": "-59.35515000"
+    },
+    {
+      "id": 1577,
+      "name": "Villa Trinidad",
+      "latitude": "-30.21329000",
+      "longitude": "-61.87597000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

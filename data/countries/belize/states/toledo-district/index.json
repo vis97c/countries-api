@@ -1,0 +1,60 @@
+{
+  "id": 267,
+  "name": "Toledo District",
+  "state_code": "TOL",
+  "latitude": "16.24919230",
+  "longitude": "-88.86469800",
+  "type": null,
+  "cities": [
+    {
+      "id": 16141,
+      "name": "Punta Gorda",
+      "latitude": "16.09835000",
+      "longitude": "-88.80970000"
+    }
+  ],
+  "country": {
+    "id": 23,
+    "name": "Belize",
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "numeric_code": "084",
+    "phone_code": "501",
+    "capital": "Belmopan",
+    "currency": "BZD",
+    "currency_name": "Belize dollar",
+    "currency_symbol": "$",
+    "tld": ".bz",
+    "native": "Belize",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Belize",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America)"
+      }
+    ],
+    "translations": {
+      "kr": "벨리즈",
+      "pt-BR": "Belize",
+      "pt": "Belize",
+      "nl": "Belize",
+      "hr": "Belize",
+      "fa": "بلیز",
+      "de": "Belize",
+      "es": "Belice",
+      "fr": "Belize",
+      "ja": "ベリーズ",
+      "it": "Belize",
+      "cn": "伯利兹",
+      "tr": "Belize"
+    },
+    "latitude": "17.25000000",
+    "longitude": "-88.75000000",
+    "emoji": "🇧🇿",
+    "emojiU": "U+1F1E7 U+1F1FF"
+  }
+}

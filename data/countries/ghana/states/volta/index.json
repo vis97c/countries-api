@@ -1,0 +1,96 @@
+{
+  "id": 56,
+  "name": "Volta",
+  "state_code": "TV",
+  "latitude": "6.57813730",
+  "longitude": "0.45023680",
+  "type": "region",
+  "cities": [
+    {
+      "id": 52150,
+      "name": "Aflao",
+      "latitude": "6.11982000",
+      "longitude": "1.19012000"
+    },
+    {
+      "id": 52156,
+      "name": "Anloga",
+      "latitude": "5.79473000",
+      "longitude": "0.89728000"
+    },
+    {
+      "id": 52176,
+      "name": "Ho",
+      "latitude": "6.60084000",
+      "longitude": "0.47130000"
+    },
+    {
+      "id": 52177,
+      "name": "Hohoe",
+      "latitude": "7.15181000",
+      "longitude": "0.47362000"
+    },
+    {
+      "id": 52180,
+      "name": "Keta",
+      "latitude": "5.91793000",
+      "longitude": "0.98789000"
+    },
+    {
+      "id": 52181,
+      "name": "Kete Krachi",
+      "latitude": "7.79391000",
+      "longitude": "-0.04980000"
+    },
+    {
+      "id": 52187,
+      "name": "Kpandu",
+      "latitude": "6.99536000",
+      "longitude": "0.29306000"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

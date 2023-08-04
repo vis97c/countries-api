@@ -1,0 +1,84 @@
+{
+  "id": 2043,
+  "name": "Trujillo",
+  "state_code": "T",
+  "latitude": "36.67343430",
+  "longitude": "-121.62875880",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130049,
+      "name": "Boconó",
+      "latitude": "9.25385000",
+      "longitude": "-70.25105000"
+    },
+    {
+      "id": 130120,
+      "name": "Municipio Pampanito",
+      "latitude": "9.41147000",
+      "longitude": "-70.49592000"
+    },
+    {
+      "id": 130121,
+      "name": "Municipio San Rafael de Carvajal",
+      "latitude": "9.30756000",
+      "longitude": "-70.58965000"
+    },
+    {
+      "id": 130159,
+      "name": "Trujillo",
+      "latitude": "9.36583000",
+      "longitude": "-70.43694000"
+    },
+    {
+      "id": 130166,
+      "name": "Valera",
+      "latitude": "9.31778000",
+      "longitude": "-70.60361000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

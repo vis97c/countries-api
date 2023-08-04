@@ -1,0 +1,108 @@
+{
+  "id": 2203,
+  "name": "Gaziantep",
+  "state_code": "27",
+  "latitude": "37.07638820",
+  "longitude": "37.38272340",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107170,
+      "name": "Araban",
+      "latitude": "37.42559000",
+      "longitude": "37.78175000"
+    },
+    {
+      "id": 108917,
+      "name": "İslahiye",
+      "latitude": "36.96528000",
+      "longitude": "36.70972000"
+    },
+    {
+      "id": 107925,
+      "name": "Karkamış",
+      "latitude": "36.83452000",
+      "longitude": "37.99830000"
+    },
+    {
+      "id": 108250,
+      "name": "Nizip",
+      "latitude": "37.00972000",
+      "longitude": "37.79417000"
+    },
+    {
+      "id": 108253,
+      "name": "Nurdağı",
+      "latitude": "37.16821000",
+      "longitude": "36.73623000"
+    },
+    {
+      "id": 108303,
+      "name": "Oğuzeli",
+      "latitude": "36.96572000",
+      "longitude": "37.51339000"
+    },
+    {
+      "id": 108929,
+      "name": "Şahinbey",
+      "latitude": "37.03741000",
+      "longitude": "37.37822000"
+    },
+    {
+      "id": 108946,
+      "name": "Şehitkamil",
+      "latitude": "37.17217000",
+      "longitude": "37.36974000"
+    },
+    {
+      "id": 108677,
+      "name": "Yavuzeli",
+      "latitude": "37.31772000",
+      "longitude": "37.56824000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

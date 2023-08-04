@@ -1,0 +1,102 @@
+{
+  "id": 2786,
+  "name": "Misiones Department",
+  "state_code": "8",
+  "latitude": "-26.84335120",
+  "longitude": "-57.10131880",
+  "type": null,
+  "cities": [
+    {
+      "id": 89788,
+      "name": "Juan de Ayolas",
+      "latitude": "-27.38662000",
+      "longitude": "-56.84724000"
+    },
+    {
+      "id": 89825,
+      "name": "San Juan Bautista",
+      "latitude": "-26.66944000",
+      "longitude": "-57.14583000"
+    },
+    {
+      "id": 89829,
+      "name": "San Miguel",
+      "latitude": "-26.50000000",
+      "longitude": "-57.05000000"
+    },
+    {
+      "id": 89830,
+      "name": "San Patricio",
+      "latitude": "-26.96667000",
+      "longitude": "-56.81667000"
+    },
+    {
+      "id": 89834,
+      "name": "Santa María",
+      "latitude": "-26.78333000",
+      "longitude": "-56.93333000"
+    },
+    {
+      "id": 89836,
+      "name": "Santa Rosa Misiones",
+      "latitude": "-26.88730000",
+      "longitude": "-56.84905000"
+    },
+    {
+      "id": 89837,
+      "name": "Santiago",
+      "latitude": "-27.14310000",
+      "longitude": "-56.76803000"
+    },
+    {
+      "id": 89844,
+      "name": "Villa Florida",
+      "latitude": "-26.38333000",
+      "longitude": "-57.15000000"
+    }
+  ],
+  "country": {
+    "id": 172,
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "iso2": "PY",
+    "numeric_code": "600",
+    "phone_code": "595",
+    "capital": "Asuncion",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "tld": ".py",
+    "native": "Paraguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Asuncion",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PYST",
+        "tzName": "Paraguay Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "파라과이",
+      "pt-BR": "Paraguai",
+      "pt": "Paraguai",
+      "nl": "Paraguay",
+      "hr": "Paragvaj",
+      "fa": "پاراگوئه",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "fr": "Paraguay",
+      "ja": "パラグアイ",
+      "it": "Paraguay",
+      "cn": "巴拉圭",
+      "tr": "Paraguay"
+    },
+    "latitude": "-23.00000000",
+    "longitude": "-58.00000000",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE"
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "id": 4670,
+  "name": "Zakarpatska Oblast",
+  "state_code": "21",
+  "latitude": "48.62080000",
+  "longitude": "22.28788300",
+  "type": "region",
+  "cities": [
+    {
+      "id": 109357,
+      "name": "Batiovo",
+      "latitude": "48.36166000",
+      "longitude": "22.39970000"
+    },
+    {
+      "id": 109373,
+      "name": "Berehivs’ka Mis’krada",
+      "latitude": "48.21255000",
+      "longitude": "22.65536000"
+    },
+    {
+      "id": 109375,
+      "name": "Berehove",
+      "latitude": "48.20555000",
+      "longitude": "22.64418000"
+    },
+    {
+      "id": 109376,
+      "name": "Berehove Raion",
+      "latitude": "48.16667000",
+      "longitude": "22.66667000"
+    },
+    {
+      "id": 109383,
+      "name": "Bereznyky",
+      "latitude": "48.51407000",
+      "longitude": "23.21982000"
+    },
+    {
+      "id": 109385,
+      "name": "Berezovo",
+      "latitude": "48.30943000",
+      "longitude": "23.47400000"
+    },
+    {
+      "id": 109398,
+      "name": "Bilky",
+      "latitude": "48.31503000",
+      "longitude": "23.13248000"
+    },
+    {
+      "id": 109414,
+      "name": "Bobovo",
+      "latitude": "48.07166000",
+      "longitude": "22.89585000"
+    },
+    {
+      "id": 109418,
+      "name": "Bohdan",
+      "latitude": "48.04122000",
+      "longitude": "24.35222000"
+    },
+    {
+      "id": 109464,
+      "name": "Bushtyno",
+      "latitude": "48.05121000",
+      "longitude": "23.48579000"
+    },
+    {
+      "id": 109508,
+      "name": "Chop",
+      "latitude": "48.43198000",
+      "longitude": "22.20555000"
+    },
+    {
+      "id": 109525,
+      "name": "Chynadiyovo",
+      "latitude": "48.48179000",
+      "longitude": "22.82170000"
+    },
+    {
+      "id": 109573,
+      "name": "Dovhe",
+      "latitude": "48.36527000",
+      "longitude": "23.27904000"
+    },
+    {
+      "id": 109576,
+      "name": "Drahovo",
+      "latitude": "48.23573000",
+      "longitude": "23.54914000"
+    },
+    {
+      "id": 109585,
+      "name": "Dubove",
+      "latitude": "48.17205000",
+      "longitude": "23.88954000"
+    },
+    {
+      "id": 109640,
+      "name": "Horinchovo",
+      "latitude": "48.27076000",
+      "longitude": "23.43475000"
+    },
+    {
+      "id": 109674,
+      "name": "Irshava",
+      "latitude": "48.31667000",
+      "longitude": "23.03846000"
+    },
+    {
+      "id": 109675,
+      "name": "Irshava Raion",
+      "latitude": "48.33333000",
+      "longitude": "23.08333000"
+    },
+    {
+      "id": 109686,
+      "name": "Iza",
+      "latitude": "48.21525000",
+      "longitude": "23.32867000"
+    },
+    {
+      "id": 109706,
+      "name": "Kalyny",
+      "latitude": "48.14078000",
+      "longitude": "23.87380000"
+    },
+    {
+      "id": 109711,
+      "name": "Kamianytsia",
+      "latitude": "48.69343000",
+      "longitude": "22.39570000"
+    },
+    {
+      "id": 109742,
+      "name": "Khust",
+      "latitude": "48.17930000",
+      "longitude": "23.29909000"
+    },
+    {
+      "id": 109743,
+      "name": "Khust Raion",
+      "latitude": "48.25000000",
+      "longitude": "23.41667000"
+    },
+    {
+      "id": 109744,
+      "name": "Khusts’ka Mis’krada",
+      "latitude": "48.19058000",
+      "longitude": "23.30322000"
+    },
+    {
+      "id": 109772,
+      "name": "Kolochava",
+      "latitude": "48.42851000",
+      "longitude": "23.69590000"
+    },
+    {
+      "id": 109791,
+      "name": "Kopashnovo",
+      "latitude": "48.21970000",
+      "longitude": "23.48457000"
+    },
+    {
+      "id": 109799,
+      "name": "Korolevo",
+      "latitude": "48.15247000",
+      "longitude": "23.13659000"
+    },
+    {
+      "id": 109810,
+      "name": "Koson’",
+      "latitude": "48.25505000",
+      "longitude": "22.45597000"
+    },
+    {
+      "id": 109873,
+      "name": "Kryva",
+      "latitude": "48.17234000",
+      "longitude": "23.23647000"
+    },
+    {
+      "id": 109891,
+      "name": "Kushnytsya",
+      "latitude": "48.43988000",
+      "longitude": "23.25816000"
+    },
+    {
+      "id": 109896,
+      "name": "Kvasy",
+      "latitude": "48.14973000",
+      "longitude": "24.27995000"
+    },
+    {
+      "id": 109905,
+      "name": "Lazeshchyna",
+      "latitude": "48.26852000",
+      "longitude": "24.42010000"
+    },
+    {
+      "id": 109906,
+      "name": "Lazi",
+      "latitude": "48.06667000",
+      "longitude": "24.23333000"
+    },
+    {
+      "id": 109930,
+      "name": "Lopukhiv",
+      "latitude": "48.36527000",
+      "longitude": "23.96382000"
+    },
+    {
+      "id": 109954,
+      "name": "Lypcha",
+      "latitude": "48.26107000",
+      "longitude": "23.38336000"
+    },
+    {
+      "id": 109961,
+      "name": "Lysychovo",
+      "latitude": "48.49677000",
+      "longitude": "23.28992000"
+    },
+    {
+      "id": 110039,
+      "name": "Mizhhirya",
+      "latitude": "48.52458000",
+      "longitude": "23.50563000"
+    },
+    {
+      "id": 110040,
+      "name": "Mizhhirya Raion",
+      "latitude": "48.58333000",
+      "longitude": "23.50000000"
+    },
+    {
+      "id": 110058,
+      "name": "Mukacheve",
+      "latitude": "48.43919000",
+      "longitude": "22.71779000"
+    },
+    {
+      "id": 110059,
+      "name": "Mukachevo Raion",
+      "latitude": "48.41667000",
+      "longitude": "22.66667000"
+    },
+    {
+      "id": 110065,
+      "name": "Muzhiyevo",
+      "latitude": "48.17959000",
+      "longitude": "22.69943000"
+    },
+    {
+      "id": 110074,
+      "name": "Mynay",
+      "latitude": "48.58880000",
+      "longitude": "22.27502000"
+    },
+    {
+      "id": 110090,
+      "name": "Nelipyno",
+      "latitude": "48.56101000",
+      "longitude": "23.03146000"
+    },
+    {
+      "id": 110092,
+      "name": "Neresnytsya",
+      "latitude": "48.11814000",
+      "longitude": "23.76588000"
+    },
+    {
+      "id": 110094,
+      "name": "Nevyts’ke",
+      "latitude": "48.67472000",
+      "longitude": "22.38813000"
+    },
+    {
+      "id": 110111,
+      "name": "Nove Davydkovo",
+      "latitude": "48.44133000",
+      "longitude": "22.62164000"
+    },
+    {
+      "id": 110168,
+      "name": "Nyzhnye Selyshche",
+      "latitude": "48.19911000",
+      "longitude": "23.44757000"
+    },
+    {
+      "id": 110192,
+      "name": "Oleshnyk",
+      "latitude": "48.16406000",
+      "longitude": "22.96167000"
+    },
+    {
+      "id": 110197,
+      "name": "Onokivtsi",
+      "latitude": "48.65763000",
+      "longitude": "22.34183000"
+    },
+    {
+      "id": 110236,
+      "name": "Perechyn",
+      "latitude": "48.73616000",
+      "longitude": "22.48200000"
+    },
+    {
+      "id": 110237,
+      "name": "Perechyn Raion",
+      "latitude": "48.75000000",
+      "longitude": "22.66667000"
+    },
+    {
+      "id": 110271,
+      "name": "Pidvynohradiv",
+      "latitude": "48.13947000",
+      "longitude": "22.97194000"
+    },
+    {
+      "id": 110304,
+      "name": "Poroshkovo",
+      "latitude": "48.66832000",
+      "longitude": "22.75328000"
+    },
+    {
+      "id": 110334,
+      "name": "Pylypets",
+      "latitude": "48.65899000",
+      "longitude": "23.28346000"
+    },
+    {
+      "id": 110340,
+      "name": "Rakhiv",
+      "latitude": "48.05260000",
+      "longitude": "24.20089000"
+    },
+    {
+      "id": 110341,
+      "name": "Rakhiv Raion",
+      "latitude": "48.08333000",
+      "longitude": "24.33333000"
+    },
+    {
+      "id": 110343,
+      "name": "Rakoshyno",
+      "latitude": "48.46713000",
+      "longitude": "22.59687000"
+    },
+    {
+      "id": 110362,
+      "name": "Rokosovo",
+      "latitude": "48.21018000",
+      "longitude": "23.17624000"
+    },
+    {
+      "id": 110422,
+      "name": "Serednye",
+      "latitude": "48.54043000",
+      "longitude": "22.50696000"
+    },
+    {
+      "id": 110423,
+      "name": "Serednye Vodyane",
+      "latitude": "47.98159000",
+      "longitude": "23.91041000"
+    },
+    {
+      "id": 110513,
+      "name": "Solotvyno",
+      "latitude": "47.94604000",
+      "longitude": "23.87035000"
+    },
+    {
+      "id": 110554,
+      "name": "Storozhnytsya",
+      "latitude": "48.60403000",
+      "longitude": "22.23269000"
+    },
+    {
+      "id": 110555,
+      "name": "Strabychovo",
+      "latitude": "48.39247000",
+      "longitude": "22.54308000"
+    },
+    {
+      "id": 110569,
+      "name": "Svaliava Raion",
+      "latitude": "48.55000000",
+      "longitude": "23.00000000"
+    },
+    {
+      "id": 110570,
+      "name": "Svalyava",
+      "latitude": "48.54853000",
+      "longitude": "22.99578000"
+    },
+    {
+      "id": 110584,
+      "name": "Synevyr",
+      "latitude": "48.48745000",
+      "longitude": "23.62575000"
+    },
+    {
+      "id": 110585,
+      "name": "Synevyrska Poliana",
+      "latitude": "48.58484000",
+      "longitude": "23.68910000"
+    },
+    {
+      "id": 110607,
+      "name": "Tiachiv Raion",
+      "latitude": "48.08333000",
+      "longitude": "23.58333000"
+    },
+    {
+      "id": 110640,
+      "name": "Tyachiv",
+      "latitude": "48.01179000",
+      "longitude": "23.57061000"
+    },
+    {
+      "id": 110667,
+      "name": "Uzhgorod",
+      "latitude": "48.61667000",
+      "longitude": "22.30000000"
+    },
+    {
+      "id": 110668,
+      "name": "Uzhhorod Raion",
+      "latitude": "48.58333000",
+      "longitude": "22.33333000"
+    },
+    {
+      "id": 110674,
+      "name": "Vary",
+      "latitude": "48.12207000",
+      "longitude": "22.71281000"
+    },
+    {
+      "id": 110689,
+      "name": "Velyki Berehy",
+      "latitude": "48.23187000",
+      "longitude": "22.74591000"
+    },
+    {
+      "id": 110694,
+      "name": "Velykyi Bereznyi",
+      "latitude": "48.88831000",
+      "longitude": "22.46052000"
+    },
+    {
+      "id": 110695,
+      "name": "Velykyi Bereznyi Raion",
+      "latitude": "48.91667000",
+      "longitude": "22.58333000"
+    },
+    {
+      "id": 110737,
+      "name": "Volovets",
+      "latitude": "48.71090000",
+      "longitude": "23.18510000"
+    },
+    {
+      "id": 110738,
+      "name": "Volovets Raion",
+      "latitude": "48.75000000",
+      "longitude": "23.08333000"
+    },
+    {
+      "id": 110756,
+      "name": "Vylok",
+      "latitude": "48.10915000",
+      "longitude": "22.83865000"
+    },
+    {
+      "id": 110757,
+      "name": "Vynohradiv",
+      "latitude": "48.14135000",
+      "longitude": "23.02666000"
+    },
+    {
+      "id": 110758,
+      "name": "Vynohradiv Raion",
+      "latitude": "48.16667000",
+      "longitude": "23.00000000"
+    },
+    {
+      "id": 110764,
+      "name": "Vyshkovo",
+      "latitude": "48.04911000",
+      "longitude": "23.42113000"
+    },
+    {
+      "id": 110788,
+      "name": "Yasinya",
+      "latitude": "48.27937000",
+      "longitude": "24.36042000"
+    }
+  ],
+  "country": {
+    "id": 230,
+    "name": "Ukraine",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "numeric_code": "804",
+    "phone_code": "380",
+    "capital": "Kiev",
+    "currency": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "tld": ".ua",
+    "native": "Україна",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Kiev",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Simferopol",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "MSK",
+        "tzName": "Moscow Time"
+      },
+      {
+        "zoneName": "Europe/Uzhgorod",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Europe/Zaporozhye",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "우크라이나",
+      "pt-BR": "Ucrânia",
+      "pt": "Ucrânia",
+      "nl": "Oekraïne",
+      "hr": "Ukrajina",
+      "fa": "وکراین",
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ",
+      "it": "Ucraina",
+      "cn": "乌克兰",
+      "tr": "Ukrayna"
+    },
+    "latitude": "49.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇦",
+    "emojiU": "U+1F1FA U+1F1E6"
+  }
+}

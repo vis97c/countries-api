@@ -1,0 +1,110 @@
+{
+  "id": 1832,
+  "name": "Line Islands",
+  "state_code": "L",
+  "latitude": "1.74294390",
+  "longitude": "-157.21328260",
+  "type": null,
+  "cities": [
+    {
+      "id": 65048,
+      "name": "Banana Village",
+      "latitude": "1.98329000",
+      "longitude": "-157.36526000"
+    },
+    {
+      "id": 65058,
+      "name": "Kiritimati",
+      "latitude": "1.94000000",
+      "longitude": "-157.47500000"
+    },
+    {
+      "id": 65060,
+      "name": "London Village",
+      "latitude": "1.98487000",
+      "longitude": "-157.47502000"
+    },
+    {
+      "id": 65065,
+      "name": "Napari Village",
+      "latitude": "3.90806000",
+      "longitude": "-159.38832000"
+    },
+    {
+      "id": 65072,
+      "name": "Tabuaeran",
+      "latitude": "3.86667000",
+      "longitude": "-159.33333000"
+    },
+    {
+      "id": 65073,
+      "name": "Tabwakea Village",
+      "latitude": "2.01643000",
+      "longitude": "-157.48773000"
+    },
+    {
+      "id": 65078,
+      "name": "Teraina",
+      "latitude": "4.68764000",
+      "longitude": "-160.38803000"
+    }
+  ],
+  "country": {
+    "id": 114,
+    "name": "Kiribati",
+    "iso3": "KIR",
+    "iso2": "KI",
+    "numeric_code": "296",
+    "phone_code": "686",
+    "capital": "Tarawa",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".ki",
+    "native": "Kiribati",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Enderbury",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "PHOT",
+        "tzName": "Phoenix Island Time"
+      },
+      {
+        "zoneName": "Pacific/Kiritimati",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "LINT",
+        "tzName": "Line Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Tarawa",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "GILT",
+        "tzName": "Gilbert Island Time"
+      }
+    ],
+    "translations": {
+      "kr": "키리바시",
+      "pt-BR": "Kiribati",
+      "pt": "Quiribáti",
+      "nl": "Kiribati",
+      "hr": "Kiribati",
+      "fa": "کیریباتی",
+      "de": "Kiribati",
+      "es": "Kiribati",
+      "fr": "Kiribati",
+      "ja": "キリバス",
+      "it": "Kiribati",
+      "cn": "基里巴斯",
+      "tr": "Kiribati"
+    },
+    "latitude": "1.41666666",
+    "longitude": "173.00000000",
+    "emoji": "🇰🇮",
+    "emojiU": "U+1F1F0 U+1F1EE"
+  }
+}

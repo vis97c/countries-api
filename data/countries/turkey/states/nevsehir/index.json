@@ -1,0 +1,102 @@
+{
+  "id": 2196,
+  "name": "Nevşehir",
+  "state_code": "50",
+  "latitude": "38.69393990",
+  "longitude": "34.68565090",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107055,
+      "name": "Acıgöl",
+      "latitude": "38.55028000",
+      "longitude": "34.50917000"
+    },
+    {
+      "id": 107211,
+      "name": "Avanos",
+      "latitude": "38.71500000",
+      "longitude": "34.84667000"
+    },
+    {
+      "id": 107481,
+      "name": "Derinkuyu",
+      "latitude": "38.37510000",
+      "longitude": "34.73419000"
+    },
+    {
+      "id": 107734,
+      "name": "Gülşehir",
+      "latitude": "38.74594000",
+      "longitude": "34.62524000"
+    },
+    {
+      "id": 107765,
+      "name": "Hacıbektaş",
+      "latitude": "38.94077000",
+      "longitude": "34.55770000"
+    },
+    {
+      "id": 108032,
+      "name": "Kozaklı",
+      "latitude": "39.23204000",
+      "longitude": "34.85585000"
+    },
+    {
+      "id": 108192,
+      "name": "Merkez",
+      "latitude": "38.60039000",
+      "longitude": "34.68537000"
+    },
+    {
+      "id": 108873,
+      "name": "Ürgüp",
+      "latitude": "38.57342000",
+      "longitude": "34.94020000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

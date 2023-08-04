@@ -1,0 +1,102 @@
+{
+  "id": 947,
+  "name": "Matagalpa",
+  "state_code": "MT",
+  "latitude": "12.94984360",
+  "longitude": "-85.43755740",
+  "type": "department",
+  "cities": [
+    {
+      "id": 77168,
+      "name": "Ciudad Darío",
+      "latitude": "12.73143000",
+      "longitude": "-86.12402000"
+    },
+    {
+      "id": 77217,
+      "name": "Matagalpa",
+      "latitude": "12.92559000",
+      "longitude": "-85.91747000"
+    },
+    {
+      "id": 77218,
+      "name": "Matiguás",
+      "latitude": "12.83734000",
+      "longitude": "-85.46218000"
+    },
+    {
+      "id": 77238,
+      "name": "Muy Muy",
+      "latitude": "12.76224000",
+      "longitude": "-85.62915000"
+    },
+    {
+      "id": 77254,
+      "name": "Río Blanco",
+      "latitude": "12.93435000",
+      "longitude": "-85.22354000"
+    },
+    {
+      "id": 77256,
+      "name": "San Dionisio",
+      "latitude": "12.76023000",
+      "longitude": "-85.85018000"
+    },
+    {
+      "id": 77271,
+      "name": "San Ramón",
+      "latitude": "12.92344000",
+      "longitude": "-85.83898000"
+    },
+    {
+      "id": 77284,
+      "name": "Terrabona",
+      "latitude": "12.73028000",
+      "longitude": "-85.96474000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

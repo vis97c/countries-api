@@ -1,0 +1,89 @@
+{
+  "id": 3922,
+  "name": "Qom",
+  "state_code": "25",
+  "latitude": "34.64157640",
+  "longitude": "50.87460350",
+  "type": "province",
+  "cities": [
+    {
+      "id": 150729,
+      "name": "Dastjerd",
+      "latitude": "34.55380730",
+      "longitude": "50.23906220"
+    },
+    {
+      "id": 150728,
+      "name": "Jafarie",
+      "latitude": "34.77450740",
+      "longitude": "50.50651060"
+    },
+    {
+      "id": 150732,
+      "name": "Kahak",
+      "latitude": "34.39196580",
+      "longitude": "50.85463990"
+    },
+    {
+      "id": 150731,
+      "name": "Qanavat",
+      "latitude": "34.61233580",
+      "longitude": "51.01366270"
+    },
+    {
+      "id": 134744,
+      "name": "Qom",
+      "latitude": "34.64010000",
+      "longitude": "50.87640000"
+    },
+    {
+      "id": 150730,
+      "name": "Salafchegan",
+      "latitude": "34.47660600",
+      "longitude": "50.45501230"
+    }
+  ],
+  "country": {
+    "id": 103,
+    "name": "Iran",
+    "iso3": "IRN",
+    "iso2": "IR",
+    "numeric_code": "364",
+    "phone_code": "98",
+    "capital": "Tehran",
+    "currency": "IRR",
+    "currency_name": "Iranian rial",
+    "currency_symbol": "﷼",
+    "tld": ".ir",
+    "native": "ایران",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tehran",
+        "gmtOffset": 12600,
+        "gmtOffsetName": "UTC+03:30",
+        "abbreviation": "IRDT",
+        "tzName": "Iran Daylight Time"
+      }
+    ],
+    "translations": {
+      "kr": "이란",
+      "pt-BR": "Irã",
+      "pt": "Irão",
+      "nl": "Iran",
+      "hr": "Iran",
+      "fa": "ایران",
+      "de": "Iran",
+      "es": "Iran",
+      "fr": "Iran",
+      "ja": "イラン・イスラム共和国",
+      "cn": "伊朗",
+      "tr": "İran"
+    },
+    "latitude": "32.00000000",
+    "longitude": "53.00000000",
+    "emoji": "🇮🇷",
+    "emojiU": "U+1F1EE U+1F1F7"
+  }
+}

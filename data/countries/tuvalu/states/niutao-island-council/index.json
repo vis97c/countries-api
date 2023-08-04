@@ -1,0 +1,66 @@
+{
+  "id": 3946,
+  "name": "Niutao Island Council",
+  "state_code": "NIT",
+  "latitude": "-6.10642580",
+  "longitude": "177.34384290",
+  "type": null,
+  "cities": [
+    {
+      "id": 108997,
+      "name": "Kulia Village",
+      "latitude": "-6.10819000",
+      "longitude": "177.33393000"
+    },
+    {
+      "id": 108998,
+      "name": "Niulakita",
+      "latitude": "-10.78800000",
+      "longitude": "179.46600000"
+    }
+  ],
+  "country": {
+    "id": 228,
+    "name": "Tuvalu",
+    "iso3": "TUV",
+    "iso2": "TV",
+    "numeric_code": "798",
+    "phone_code": "688",
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".tv",
+    "native": "Tuvalu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Funafuti",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "TVT",
+        "tzName": "Tuvalu Time"
+      }
+    ],
+    "translations": {
+      "kr": "투발루",
+      "pt-BR": "Tuvalu",
+      "pt": "Tuvalu",
+      "nl": "Tuvalu",
+      "hr": "Tuvalu",
+      "fa": "تووالو",
+      "de": "Tuvalu",
+      "es": "Tuvalu",
+      "fr": "Tuvalu",
+      "ja": "ツバル",
+      "it": "Tuvalu",
+      "cn": "图瓦卢",
+      "tr": "Tuvalu"
+    },
+    "latitude": "-8.00000000",
+    "longitude": "178.00000000",
+    "emoji": "🇹🇻",
+    "emojiU": "U+1F1F9 U+1F1FB"
+  }
+}

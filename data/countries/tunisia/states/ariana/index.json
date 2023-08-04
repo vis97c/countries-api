@@ -1,0 +1,96 @@
+{
+  "id": 2550,
+  "name": "Ariana",
+  "state_code": "12",
+  "latitude": "36.99227510",
+  "longitude": "10.12551640",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106915,
+      "name": "Ariana",
+      "latitude": "36.86012000",
+      "longitude": "10.19337000"
+    },
+    {
+      "id": 153381,
+      "name": "Ettadhamen-Mnihla",
+      "latitude": "36.86250000",
+      "longitude": "10.17030000"
+    },
+    {
+      "id": 106955,
+      "name": "Kalaat el-Andalous",
+      "latitude": "36.88110000",
+      "longitude": "10.26220000"
+    },
+    {
+      "id": 153380,
+      "name": "La Soukra",
+      "latitude": "36.85350000",
+      "longitude": "10.25250000"
+    },
+    {
+      "id": 153382,
+      "name": "Mnihla",
+      "latitude": "36.83690000",
+      "longitude": "10.20020000"
+    },
+    {
+      "id": 153378,
+      "name": "Raoued",
+      "latitude": "36.88500000",
+      "longitude": "10.24650000"
+    },
+    {
+      "id": 153379,
+      "name": "Sidi Thabet",
+      "latitude": "36.83990000",
+      "longitude": "10.04030000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

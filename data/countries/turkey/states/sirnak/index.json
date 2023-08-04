@@ -1,0 +1,96 @@
+{
+  "id": 2225,
+  "name": "Şırnak",
+  "state_code": "73",
+  "latitude": "37.41874810",
+  "longitude": "42.49183380",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107344,
+      "name": "Beytüşşebap",
+      "latitude": "37.57144000",
+      "longitude": "43.16515000"
+    },
+    {
+      "id": 107436,
+      "name": "Cizre",
+      "latitude": "37.33024000",
+      "longitude": "42.18484000"
+    },
+    {
+      "id": 107763,
+      "name": "Güçlükonak",
+      "latitude": "37.47133000",
+      "longitude": "41.91298000"
+    },
+    {
+      "id": 108879,
+      "name": "İdil",
+      "latitude": "37.33481000",
+      "longitude": "41.88944000"
+    },
+    {
+      "id": 108966,
+      "name": "Merkez",
+      "latitude": "37.51393000",
+      "longitude": "42.45432000"
+    },
+    {
+      "id": 108461,
+      "name": "Silopi",
+      "latitude": "37.24379000",
+      "longitude": "42.46345000"
+    },
+    {
+      "id": 108626,
+      "name": "Uludere",
+      "latitude": "37.44074000",
+      "longitude": "42.85236000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

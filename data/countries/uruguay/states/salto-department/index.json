@@ -1,0 +1,72 @@
+{
+  "id": 3220,
+  "name": "Salto Department",
+  "state_code": "SA",
+  "latitude": "-31.38802800",
+  "longitude": "-57.96124550",
+  "type": null,
+  "cities": [
+    {
+      "id": 129783,
+      "name": "Belén",
+      "latitude": "-30.78716000",
+      "longitude": "-57.77577000"
+    },
+    {
+      "id": 129857,
+      "name": "Salto",
+      "latitude": "-31.38333000",
+      "longitude": "-57.96667000"
+    },
+    {
+      "id": 129889,
+      "name": "Villa Constitución",
+      "latitude": "-31.06913000",
+      "longitude": "-57.84946000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

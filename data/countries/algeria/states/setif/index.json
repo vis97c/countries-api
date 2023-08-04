@@ -1,0 +1,90 @@
+{
+  "id": 1141,
+  "name": "Sétif",
+  "state_code": "19",
+  "latitude": "36.30733890",
+  "longitude": "5.56172790",
+  "type": null,
+  "cities": [
+    {
+      "id": 31240,
+      "name": "Aïn Arnat",
+      "latitude": "36.18683000",
+      "longitude": "5.31347000"
+    },
+    {
+      "id": 31253,
+      "name": "BABOR - VILLE",
+      "latitude": "36.48994000",
+      "longitude": "5.53930000"
+    },
+    {
+      "id": 31288,
+      "name": "Bougaa",
+      "latitude": "36.33293000",
+      "longitude": "5.08843000"
+    },
+    {
+      "id": 31333,
+      "name": "El Eulma",
+      "latitude": "36.15281000",
+      "longitude": "5.69016000"
+    },
+    {
+      "id": 31417,
+      "name": "Salah Bey",
+      "latitude": "35.85451000",
+      "longitude": "5.29053000"
+    },
+    {
+      "id": 31440,
+      "name": "Sétif",
+      "latitude": "36.19112000",
+      "longitude": "5.41373000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": 2902,
+  "name": "Sucre",
+  "state_code": "SUC",
+  "latitude": "8.81397700",
+  "longitude": "-74.72328300",
+  "type": null,
+  "cities": [
+    {
+      "id": 149239,
+      "name": "Buenavista",
+      "latitude": "9.31972222",
+      "longitude": "-74.97166777"
+    },
+    {
+      "id": 20623,
+      "name": "Caimito",
+      "latitude": "8.78834000",
+      "longitude": "-75.13583000"
+    },
+    {
+      "id": 20676,
+      "name": "Chalán",
+      "latitude": "9.54765000",
+      "longitude": "-75.31128000"
+    },
+    {
+      "id": 20719,
+      "name": "Coloso",
+      "latitude": "9.51176000",
+      "longitude": "-75.36233000"
+    },
+    {
+      "id": 20739,
+      "name": "Corozal",
+      "latitude": "9.31847000",
+      "longitude": "-75.29330000"
+    },
+    {
+      "id": 20744,
+      "name": "Coveñas",
+      "latitude": "9.40254000",
+      "longitude": "-75.68029000"
+    },
+    {
+      "id": 20825,
+      "name": "El Roble",
+      "latitude": "9.10193000",
+      "longitude": "-75.19508000"
+    },
+    {
+      "id": 20877,
+      "name": "Galeras",
+      "latitude": "9.16095000",
+      "longitude": "-75.04811000"
+    },
+    {
+      "id": 20912,
+      "name": "Guaranda",
+      "latitude": "8.46746000",
+      "longitude": "-74.53617000"
+    },
+    {
+      "id": 21007,
+      "name": "La Unión",
+      "latitude": "8.84965000",
+      "longitude": "-75.27942000"
+    },
+    {
+      "id": 21034,
+      "name": "Los Palmitos",
+      "latitude": "9.37899000",
+      "longitude": "-75.26769000"
+    },
+    {
+      "id": 21052,
+      "name": "Majagual",
+      "latitude": "8.53500000",
+      "longitude": "-74.71499000"
+    },
+    {
+      "id": 21107,
+      "name": "Morroa",
+      "latitude": "9.33348000",
+      "longitude": "-75.30542000"
+    },
+    {
+      "id": 21157,
+      "name": "Ovejas",
+      "latitude": "9.54083000",
+      "longitude": "-75.18333000"
+    },
+    {
+      "id": 21174,
+      "name": "Palmito",
+      "latitude": "9.33667000",
+      "longitude": "-75.56333000"
+    },
+    {
+      "id": 21327,
+      "name": "Sampués",
+      "latitude": "9.18361000",
+      "longitude": "-75.38167000"
+    },
+    {
+      "id": 21340,
+      "name": "San Benito Abad",
+      "latitude": "8.78833000",
+      "longitude": "-74.95666000"
+    },
+    {
+      "id": 21374,
+      "name": "San Juan de Betulia",
+      "latitude": "9.27345000",
+      "longitude": "-75.24103000"
+    },
+    {
+      "id": 21382,
+      "name": "San Luis de Sincé",
+      "latitude": "9.24391000",
+      "longitude": "-75.14675000"
+    },
+    {
+      "id": 21383,
+      "name": "San Marcos",
+      "latitude": "8.58333000",
+      "longitude": "-75.16667000"
+    },
+    {
+      "id": 21391,
+      "name": "San Onofre",
+      "latitude": "9.73586000",
+      "longitude": "-75.52626000"
+    },
+    {
+      "id": 21395,
+      "name": "San Pedro",
+      "latitude": "9.39560000",
+      "longitude": "-75.06476000"
+    },
+    {
+      "id": 21438,
+      "name": "Santiago de Tolú",
+      "latitude": "9.52392000",
+      "longitude": "-75.58139000"
+    },
+    {
+      "id": 21461,
+      "name": "Sincelejo",
+      "latitude": "9.30472000",
+      "longitude": "-75.39778000"
+    },
+    {
+      "id": 21487,
+      "name": "Sucre",
+      "latitude": "8.81136000",
+      "longitude": "-74.72084000"
+    },
+    {
+      "id": 21539,
+      "name": "Tolú Viejo",
+      "latitude": "9.45082000",
+      "longitude": "-75.43864000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

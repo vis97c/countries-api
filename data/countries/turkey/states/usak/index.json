@@ -1,0 +1,90 @@
+{
+  "id": 2201,
+  "name": "Uşak",
+  "state_code": "64",
+  "latitude": "38.54313190",
+  "longitude": "29.23207840",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107281,
+      "name": "Banaz",
+      "latitude": "38.73707000",
+      "longitude": "29.75194000"
+    },
+    {
+      "id": 107629,
+      "name": "Eşme",
+      "latitude": "38.39976000",
+      "longitude": "28.96905000"
+    },
+    {
+      "id": 107894,
+      "name": "Karahallı",
+      "latitude": "38.32083000",
+      "longitude": "29.53028000"
+    },
+    {
+      "id": 108183,
+      "name": "Merkez",
+      "latitude": "38.68463000",
+      "longitude": "29.29455000"
+    },
+    {
+      "id": 108474,
+      "name": "Sivaslı",
+      "latitude": "38.49944000",
+      "longitude": "29.68361000"
+    },
+    {
+      "id": 108621,
+      "name": "Ulubey",
+      "latitude": "38.41987000",
+      "longitude": "29.29129000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

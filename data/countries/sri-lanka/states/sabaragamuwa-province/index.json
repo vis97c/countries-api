@@ -1,0 +1,78 @@
+{
+  "id": 2803,
+  "name": "Sabaragamuwa Province",
+  "state_code": "9",
+  "latitude": "6.73959410",
+  "longitude": "80.36586500",
+  "type": null,
+  "cities": [
+    {
+      "id": 66493,
+      "name": "Kegalle",
+      "latitude": "7.25230000",
+      "longitude": "80.34360000"
+    },
+    {
+      "id": 66494,
+      "name": "Kegalle District",
+      "latitude": "7.11670000",
+      "longitude": "80.33330000"
+    },
+    {
+      "id": 66527,
+      "name": "Ratnapura",
+      "latitude": "6.68580000",
+      "longitude": "80.40360000"
+    },
+    {
+      "id": 66528,
+      "name": "Ratnapura District",
+      "latitude": "6.58310000",
+      "longitude": "80.58330000"
+    }
+  ],
+  "country": {
+    "id": 208,
+    "name": "Sri Lanka",
+    "iso3": "LKA",
+    "iso2": "LK",
+    "numeric_code": "144",
+    "phone_code": "94",
+    "capital": "Colombo",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "native": "śrī laṃkāva",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "스리랑카",
+      "pt-BR": "Sri Lanka",
+      "pt": "Sri Lanka",
+      "nl": "Sri Lanka",
+      "hr": "Šri Lanka",
+      "fa": "سری‌لانکا",
+      "de": "Sri Lanka",
+      "es": "Sri Lanka",
+      "fr": "Sri Lanka",
+      "ja": "スリランカ",
+      "it": "Sri Lanka",
+      "cn": "斯里兰卡",
+      "tr": "Sri Lanka"
+    },
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  }
+}

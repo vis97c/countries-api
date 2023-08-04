@@ -1,0 +1,498 @@
+{
+  "id": 3745,
+  "name": "Saint James Parish",
+  "state_code": "08",
+  "latitude": "30.01792920",
+  "longitude": "-90.79132270",
+  "type": null,
+  "cities": [
+    {
+      "id": 62294,
+      "name": "Adelphi",
+      "latitude": "18.45060000",
+      "longitude": "-77.78590000"
+    },
+    {
+      "id": 62298,
+      "name": "Albion",
+      "latitude": "18.48471000",
+      "longitude": "-77.91408000"
+    },
+    {
+      "id": 62312,
+      "name": "Anchovy",
+      "latitude": "18.41030000",
+      "longitude": "-77.93166000"
+    },
+    {
+      "id": 62315,
+      "name": "Arcadia",
+      "latitude": "18.24993000",
+      "longitude": "-77.79228000"
+    },
+    {
+      "id": 62337,
+      "name": "Barrett Town",
+      "latitude": "18.50871000",
+      "longitude": "-77.79625000"
+    },
+    {
+      "id": 62358,
+      "name": "Bickersteth",
+      "latitude": "18.36335000",
+      "longitude": "-77.93651000"
+    },
+    {
+      "id": 62370,
+      "name": "Bogue",
+      "latitude": "18.43722000",
+      "longitude": "-77.92022000"
+    },
+    {
+      "id": 62386,
+      "name": "Brandon Hill",
+      "latitude": "18.47767000",
+      "longitude": "-77.91117000"
+    },
+    {
+      "id": 62415,
+      "name": "Cambridge",
+      "latitude": "18.31308000",
+      "longitude": "-77.89546000"
+    },
+    {
+      "id": 62418,
+      "name": "Canterbury",
+      "latitude": "18.47919000",
+      "longitude": "-77.91655000"
+    },
+    {
+      "id": 62429,
+      "name": "Catadupa",
+      "latitude": "18.28052000",
+      "longitude": "-77.86579000"
+    },
+    {
+      "id": 62430,
+      "name": "Catherine Hall",
+      "latitude": "18.46258000",
+      "longitude": "-77.92286000"
+    },
+    {
+      "id": 62431,
+      "name": "Catherine Mount",
+      "latitude": "18.45672000",
+      "longitude": "-77.89691000"
+    },
+    {
+      "id": 62469,
+      "name": "Comfort Hall",
+      "latitude": "18.41270000",
+      "longitude": "-77.91814000"
+    },
+    {
+      "id": 62480,
+      "name": "Coral Gardens",
+      "latitude": "18.50791000",
+      "longitude": "-77.88034000"
+    },
+    {
+      "id": 62481,
+      "name": "Cornwall",
+      "latitude": "18.48930000",
+      "longitude": "-77.81016000"
+    },
+    {
+      "id": 62516,
+      "name": "Down Town Montego Bay",
+      "latitude": "18.47726000",
+      "longitude": "-77.92031000"
+    },
+    {
+      "id": 62525,
+      "name": "Dumfries",
+      "latitude": "18.42973000",
+      "longitude": "-77.75593000"
+    },
+    {
+      "id": 62546,
+      "name": "Fairfield",
+      "latitude": "18.45079000",
+      "longitude": "-77.91235000"
+    },
+    {
+      "id": 62551,
+      "name": "Farm Heights",
+      "latitude": "18.46869000",
+      "longitude": "-77.87760000"
+    },
+    {
+      "id": 62555,
+      "name": "Flagstaff",
+      "latitude": "18.35412000",
+      "longitude": "-77.77132000"
+    },
+    {
+      "id": 62556,
+      "name": "Flamstead",
+      "latitude": "18.31409000",
+      "longitude": "-77.81316000"
+    },
+    {
+      "id": 62557,
+      "name": "Flankers",
+      "latitude": "18.50265000",
+      "longitude": "-77.90831000"
+    },
+    {
+      "id": 62560,
+      "name": "Flower Hill",
+      "latitude": "18.48426000",
+      "longitude": "-77.83913000"
+    },
+    {
+      "id": 62572,
+      "name": "Friendship",
+      "latitude": "18.44590000",
+      "longitude": "-77.86242000"
+    },
+    {
+      "id": 62579,
+      "name": "Garlands",
+      "latitude": "18.27811000",
+      "longitude": "-77.78908000"
+    },
+    {
+      "id": 62588,
+      "name": "Glendevon",
+      "latitude": "18.48488000",
+      "longitude": "-77.89710000"
+    },
+    {
+      "id": 62597,
+      "name": "Goodwill",
+      "latitude": "18.46950000",
+      "longitude": "-77.75646000"
+    },
+    {
+      "id": 62604,
+      "name": "Granville",
+      "latitude": "18.44191000",
+      "longitude": "-77.89402000"
+    },
+    {
+      "id": 62611,
+      "name": "Green Pond",
+      "latitude": "18.47361000",
+      "longitude": "-77.87779000"
+    },
+    {
+      "id": 62615,
+      "name": "Greenwood",
+      "latitude": "18.49768000",
+      "longitude": "-77.75243000"
+    },
+    {
+      "id": 62656,
+      "name": "Hopeton",
+      "latitude": "18.39858000",
+      "longitude": "-77.86826000"
+    },
+    {
+      "id": 62664,
+      "name": "Ironshore",
+      "latitude": "18.51323000",
+      "longitude": "-77.85108000"
+    },
+    {
+      "id": 62665,
+      "name": "Irwin",
+      "latitude": "18.44949000",
+      "longitude": "-77.87722000"
+    },
+    {
+      "id": 62675,
+      "name": "John's Hall",
+      "latitude": "18.42849000",
+      "longitude": "-77.85010000"
+    },
+    {
+      "id": 62709,
+      "name": "Lilliput",
+      "latitude": "18.50591000",
+      "longitude": "-77.77686000"
+    },
+    {
+      "id": 62730,
+      "name": "Lottery",
+      "latitude": "18.41499000",
+      "longitude": "-77.80696000"
+    },
+    {
+      "id": 62742,
+      "name": "Maldon",
+      "latitude": "18.33831000",
+      "longitude": "-77.80998000"
+    },
+    {
+      "id": 62754,
+      "name": "Maroon Town",
+      "latitude": "18.34464000",
+      "longitude": "-77.79544000"
+    },
+    {
+      "id": 62779,
+      "name": "Mocho",
+      "latitude": "18.29135000",
+      "longitude": "-77.82580000"
+    },
+    {
+      "id": 62784,
+      "name": "Montego Bay",
+      "latitude": "18.47116000",
+      "longitude": "-77.91883000"
+    },
+    {
+      "id": 62785,
+      "name": "Montego Hill",
+      "latitude": "18.48038000",
+      "longitude": "-77.88150000"
+    },
+    {
+      "id": 62786,
+      "name": "Montpelier",
+      "latitude": "18.37612000",
+      "longitude": "-77.91357000"
+    },
+    {
+      "id": 62794,
+      "name": "Mount Carey",
+      "latitude": "18.38888000",
+      "longitude": "-77.94374000"
+    },
+    {
+      "id": 62795,
+      "name": "Mount Horeb",
+      "latitude": "18.33322000",
+      "longitude": "-77.86675000"
+    },
+    {
+      "id": 62801,
+      "name": "Mount Salem",
+      "latitude": "18.46601000",
+      "longitude": "-77.90793000"
+    },
+    {
+      "id": 62828,
+      "name": "Niagara",
+      "latitude": "18.26534000",
+      "longitude": "-77.81879000"
+    },
+    {
+      "id": 62833,
+      "name": "Norwood",
+      "latitude": "18.49217000",
+      "longitude": "-77.88634000"
+    },
+    {
+      "id": 62842,
+      "name": "Orange",
+      "latitude": "18.45395000",
+      "longitude": "-77.82779000"
+    },
+    {
+      "id": 62852,
+      "name": "Paradise",
+      "latitude": "18.49401000",
+      "longitude": "-77.90982000"
+    },
+    {
+      "id": 62885,
+      "name": "Pitfour",
+      "latitude": "18.43206000",
+      "longitude": "-77.89007000"
+    },
+    {
+      "id": 62899,
+      "name": "Porto Bello",
+      "latitude": "18.46607000",
+      "longitude": "-77.86989000"
+    },
+    {
+      "id": 62914,
+      "name": "Reading",
+      "latitude": "18.43723000",
+      "longitude": "-77.94730000"
+    },
+    {
+      "id": 62922,
+      "name": "Retirement",
+      "latitude": "18.43742000",
+      "longitude": "-77.88004000"
+    },
+    {
+      "id": 62926,
+      "name": "Retrieve",
+      "latitude": "18.28901000",
+      "longitude": "-77.90081000"
+    },
+    {
+      "id": 62948,
+      "name": "Roehampton",
+      "latitude": "18.39897000",
+      "longitude": "-77.89926000"
+    },
+    {
+      "id": 62950,
+      "name": "Rose Hall",
+      "latitude": "18.51228000",
+      "longitude": "-77.81833000"
+    },
+    {
+      "id": 62952,
+      "name": "Rose Heights",
+      "latitude": "18.46945000",
+      "longitude": "-77.89533000"
+    },
+    {
+      "id": 62954,
+      "name": "Rose Mount Garden",
+      "latitude": "18.46394000",
+      "longitude": "-77.89397000"
+    },
+    {
+      "id": 62956,
+      "name": "Rosemount",
+      "latitude": "18.47484000",
+      "longitude": "-77.89216000"
+    },
+    {
+      "id": 62965,
+      "name": "Salt Spring",
+      "latitude": "18.48687000",
+      "longitude": "-77.86554000"
+    },
+    {
+      "id": 62985,
+      "name": "Seven Rivers",
+      "latitude": "18.34702000",
+      "longitude": "-77.91378000"
+    },
+    {
+      "id": 63003,
+      "name": "Somerton",
+      "latitude": "18.40496000",
+      "longitude": "-77.77071000"
+    },
+    {
+      "id": 63010,
+      "name": "Spot Valley",
+      "latitude": "18.47869000",
+      "longitude": "-77.79106000"
+    },
+    {
+      "id": 63032,
+      "name": "Stonehenge",
+      "latitude": "18.24231000",
+      "longitude": "-77.85042000"
+    },
+    {
+      "id": 63039,
+      "name": "Summer Hill",
+      "latitude": "18.37360000",
+      "longitude": "-77.79350000"
+    },
+    {
+      "id": 63041,
+      "name": "Sunderland",
+      "latitude": "18.39794000",
+      "longitude": "-77.82734000"
+    },
+    {
+      "id": 63046,
+      "name": "Tangle River",
+      "latitude": "18.34337000",
+      "longitude": "-77.83621000"
+    },
+    {
+      "id": 63057,
+      "name": "Tower Hill/Moy Hall",
+      "latitude": "18.44044000",
+      "longitude": "-77.96022000"
+    },
+    {
+      "id": 63070,
+      "name": "Tucker",
+      "latitude": "18.44900000",
+      "longitude": "-77.89438000"
+    },
+    {
+      "id": 63073,
+      "name": "Unity Hall",
+      "latitude": "18.43304000",
+      "longitude": "-77.97684000"
+    },
+    {
+      "id": 63075,
+      "name": "Vaughnsfield",
+      "latitude": "18.32135000",
+      "longitude": "-77.78051000"
+    },
+    {
+      "id": 63094,
+      "name": "Welcome Hall",
+      "latitude": "18.36898000",
+      "longitude": "-77.83673000"
+    },
+    {
+      "id": 63097,
+      "name": "West Green",
+      "latitude": "18.46244000",
+      "longitude": "-77.91757000"
+    }
+  ],
+  "country": {
+    "id": 108,
+    "name": "Jamaica",
+    "iso3": "JAM",
+    "iso2": "JM",
+    "numeric_code": "388",
+    "phone_code": "+1-876",
+    "capital": "Kingston",
+    "currency": "JMD",
+    "currency_name": "Jamaican dollar",
+    "currency_symbol": "J$",
+    "tld": ".jm",
+    "native": "Jamaica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Jamaica",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "자메이카",
+      "pt-BR": "Jamaica",
+      "pt": "Jamaica",
+      "nl": "Jamaica",
+      "hr": "Jamajka",
+      "fa": "جامائیکا",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "fr": "Jamaïque",
+      "ja": "ジャマイカ",
+      "it": "Giamaica",
+      "cn": "牙买加",
+      "tr": "Jamaika"
+    },
+    "latitude": "18.25000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇯🇲",
+    "emojiU": "U+1F1EF U+1F1F2"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": 2033,
+  "name": "Kotayk Region",
+  "state_code": "KT",
+  "latitude": "40.54102140",
+  "longitude": "44.76901480",
+  "type": null,
+  "cities": [
+    {
+      "id": 281,
+      "name": "Abovyan",
+      "latitude": "40.27368000",
+      "longitude": "44.63348000"
+    },
+    {
+      "id": 287,
+      "name": "Aghavnadzor",
+      "latitude": "40.58195000",
+      "longitude": "44.69581000"
+    },
+    {
+      "id": 295,
+      "name": "Akunk’",
+      "latitude": "40.26672000",
+      "longitude": "44.68610000"
+    },
+    {
+      "id": 308,
+      "name": "Aramus",
+      "latitude": "40.25095000",
+      "longitude": "44.66351000"
+    },
+    {
+      "id": 323,
+      "name": "Argel",
+      "latitude": "40.37793000",
+      "longitude": "44.60010000"
+    },
+    {
+      "id": 332,
+      "name": "Arzakan",
+      "latitude": "40.45007000",
+      "longitude": "44.60828000"
+    },
+    {
+      "id": 333,
+      "name": "Arzni",
+      "latitude": "40.29730000",
+      "longitude": "44.59869000"
+    },
+    {
+      "id": 349,
+      "name": "Balahovit",
+      "latitude": "40.25153000",
+      "longitude": "44.60828000"
+    },
+    {
+      "id": 357,
+      "name": "Bjni",
+      "latitude": "40.45831000",
+      "longitude": "44.65008000"
+    },
+    {
+      "id": 360,
+      "name": "Buzhakan",
+      "latitude": "40.45569000",
+      "longitude": "44.51947000"
+    },
+    {
+      "id": 363,
+      "name": "Byureghavan",
+      "latitude": "40.31417000",
+      "longitude": "44.59333000"
+    },
+    {
+      "id": 379,
+      "name": "Dzoraghbyur",
+      "latitude": "40.20412000",
+      "longitude": "44.64150000"
+    },
+    {
+      "id": 382,
+      "name": "Fantan",
+      "latitude": "40.39447000",
+      "longitude": "44.68610000"
+    },
+    {
+      "id": 386,
+      "name": "Garrni",
+      "latitude": "40.11931000",
+      "longitude": "44.73442000"
+    },
+    {
+      "id": 400,
+      "name": "Goght’",
+      "latitude": "40.13470000",
+      "longitude": "44.78332000"
+    },
+    {
+      "id": 417,
+      "name": "Hrazdan",
+      "latitude": "40.49748000",
+      "longitude": "44.76620000"
+    },
+    {
+      "id": 426,
+      "name": "Kaputan",
+      "latitude": "40.32507000",
+      "longitude": "44.70007000"
+    },
+    {
+      "id": 435,
+      "name": "Kotayk’",
+      "latitude": "40.27789000",
+      "longitude": "44.66388000"
+    },
+    {
+      "id": 442,
+      "name": "Lerrnanist",
+      "latitude": "40.46676000",
+      "longitude": "44.79249000"
+    },
+    {
+      "id": 459,
+      "name": "Mayakovski",
+      "latitude": "40.25293000",
+      "longitude": "44.63892000"
+    },
+    {
+      "id": 462,
+      "name": "Meghradzor",
+      "latitude": "40.60611000",
+      "longitude": "44.65147000"
+    },
+    {
+      "id": 474,
+      "name": "Mrgashen",
+      "latitude": "40.28607000",
+      "longitude": "44.54449000"
+    },
+    {
+      "id": 484,
+      "name": "Nor Geghi",
+      "latitude": "40.32233000",
+      "longitude": "44.58331000"
+    },
+    {
+      "id": 485,
+      "name": "Nor Gyugh",
+      "latitude": "40.26672000",
+      "longitude": "44.65832000"
+    },
+    {
+      "id": 500,
+      "name": "Prroshyan",
+      "latitude": "40.24731000",
+      "longitude": "44.41949000"
+    },
+    {
+      "id": 501,
+      "name": "Ptghni",
+      "latitude": "40.25568000",
+      "longitude": "44.58612000"
+    },
+    {
+      "id": 527,
+      "name": "Solak",
+      "latitude": "40.46252000",
+      "longitude": "44.70709000"
+    },
+    {
+      "id": 537,
+      "name": "Tsaghkadzor",
+      "latitude": "40.53259000",
+      "longitude": "44.72025000"
+    },
+    {
+      "id": 577,
+      "name": "Yeghvard",
+      "latitude": "40.32507000",
+      "longitude": "44.48608000"
+    },
+    {
+      "id": 583,
+      "name": "Zarr",
+      "latitude": "40.25848000",
+      "longitude": "44.73328000"
+    },
+    {
+      "id": 586,
+      "name": "Zoravan",
+      "latitude": "40.35553000",
+      "longitude": "44.52228000"
+    },
+    {
+      "id": 587,
+      "name": "Zovaber",
+      "latitude": "40.56671000",
+      "longitude": "44.79028000"
+    }
+  ],
+  "country": {
+    "id": 12,
+    "name": "Armenia",
+    "iso3": "ARM",
+    "iso2": "AM",
+    "numeric_code": "051",
+    "phone_code": "374",
+    "capital": "Yerevan",
+    "currency": "AMD",
+    "currency_name": "Armenian dram",
+    "currency_symbol": "֏",
+    "tld": ".am",
+    "native": "Հայաստան",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yerevan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AMT",
+        "tzName": "Armenia Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르메니아",
+      "pt-BR": "Armênia",
+      "pt": "Arménia",
+      "nl": "Armenië",
+      "hr": "Armenija",
+      "fa": "ارمنستان",
+      "de": "Armenien",
+      "es": "Armenia",
+      "fr": "Arménie",
+      "ja": "アルメニア",
+      "it": "Armenia",
+      "cn": "亚美尼亚",
+      "tr": "Ermenistan"
+    },
+    "latitude": "40.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇦🇲",
+    "emojiU": "U+1F1E6 U+1F1F2"
+  }
+}

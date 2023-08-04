@@ -1,0 +1,91 @@
+{
+  "id": 2911,
+  "name": "Imbabura",
+  "state_code": "I",
+  "latitude": "0.34997680",
+  "longitude": "-78.12601290",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31483,
+      "name": "Atuntaqui",
+      "latitude": "0.33247000",
+      "longitude": "-78.21371000"
+    },
+    {
+      "id": 31500,
+      "name": "Cotacachi",
+      "latitude": "0.30107000",
+      "longitude": "-78.26428000"
+    },
+    {
+      "id": 31513,
+      "name": "Ibarra",
+      "latitude": "0.35171000",
+      "longitude": "-78.12233000"
+    },
+    {
+      "id": 31536,
+      "name": "Otavalo",
+      "latitude": "0.23457000",
+      "longitude": "-78.26248000"
+    },
+    {
+      "id": 31546,
+      "name": "Pimampiro",
+      "latitude": "0.39116000",
+      "longitude": "-77.94068000"
+    }
+  ],
+  "country": {
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phone_code": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "translations": {
+      "kr": "에콰도르",
+      "pt-BR": "Equador",
+      "pt": "Equador",
+      "nl": "Ecuador",
+      "hr": "Ekvador",
+      "fa": "اکوادور",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fr": "Équateur",
+      "ja": "エクアドル",
+      "it": "Ecuador",
+      "cn": "厄瓜多尔",
+      "tr": "Ekvator"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  }
+}

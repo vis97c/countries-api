@@ -1,0 +1,84 @@
+{
+  "id": 208,
+  "name": "West Pokot",
+  "state_code": "47",
+  "latitude": "1.62100760",
+  "longitude": "35.39050460",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64779,
+      "name": "Chepareria",
+      "latitude": "1.30583000",
+      "longitude": "35.20365000"
+    },
+    {
+      "id": 64795,
+      "name": "Kapenguria",
+      "latitude": "1.23889000",
+      "longitude": "35.11194000"
+    },
+    {
+      "id": 64873,
+      "name": "Taveta",
+      "latitude": "-3.39879000",
+      "longitude": "37.68336000"
+    },
+    {
+      "id": 64875,
+      "name": "Voi",
+      "latitude": "-3.39605000",
+      "longitude": "38.55609000"
+    },
+    {
+      "id": 64880,
+      "name": "Wundanyi",
+      "latitude": "-3.39642000",
+      "longitude": "38.35729000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

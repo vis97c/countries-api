@@ -1,0 +1,168 @@
+{
+  "id": 2671,
+  "name": "North Bank Division",
+  "state_code": "N",
+  "latitude": "13.52854360",
+  "longitude": "-16.01699710",
+  "type": null,
+  "cities": [
+    {
+      "id": 52220,
+      "name": "Bambali",
+      "latitude": "13.48333000",
+      "longitude": "-15.33333000"
+    },
+    {
+      "id": 52224,
+      "name": "Barra",
+      "latitude": "13.48278000",
+      "longitude": "-16.54556000"
+    },
+    {
+      "id": 52230,
+      "name": "Central Baddibu",
+      "latitude": "13.53333000",
+      "longitude": "-15.91667000"
+    },
+    {
+      "id": 52231,
+      "name": "Chilla",
+      "latitude": "13.55000000",
+      "longitude": "-16.28333000"
+    },
+    {
+      "id": 52234,
+      "name": "Daru Rilwan",
+      "latitude": "13.55000000",
+      "longitude": "-15.98333000"
+    },
+    {
+      "id": 52239,
+      "name": "Essau",
+      "latitude": "13.48389000",
+      "longitude": "-16.53472000"
+    },
+    {
+      "id": 52240,
+      "name": "Farafenni",
+      "latitude": "13.56667000",
+      "longitude": "-15.60000000"
+    },
+    {
+      "id": 52250,
+      "name": "Gunjur",
+      "latitude": "13.52278000",
+      "longitude": "-16.02778000"
+    },
+    {
+      "id": 52261,
+      "name": "Jokadu",
+      "latitude": "13.53333000",
+      "longitude": "-16.18333000"
+    },
+    {
+      "id": 52267,
+      "name": "Katchang",
+      "latitude": "13.50000000",
+      "longitude": "-15.75000000"
+    },
+    {
+      "id": 52269,
+      "name": "Kerewan",
+      "latitude": "13.48980000",
+      "longitude": "-16.08879000"
+    },
+    {
+      "id": 52282,
+      "name": "Lamin",
+      "latitude": "13.35222000",
+      "longitude": "-16.43389000"
+    },
+    {
+      "id": 52283,
+      "name": "Lower Baddibu District",
+      "latitude": "13.50000000",
+      "longitude": "-16.05000000"
+    },
+    {
+      "id": 52284,
+      "name": "Lower Niumi District",
+      "latitude": "13.53333000",
+      "longitude": "-16.41667000"
+    },
+    {
+      "id": 52292,
+      "name": "No Kunda",
+      "latitude": "13.56667000",
+      "longitude": "-15.83333000"
+    },
+    {
+      "id": 52296,
+      "name": "Saba",
+      "latitude": "13.51639000",
+      "longitude": "-16.04917000"
+    },
+    {
+      "id": 52302,
+      "name": "Sara Kunda",
+      "latitude": "13.53333000",
+      "longitude": "-15.41667000"
+    },
+    {
+      "id": 52315,
+      "name": "Upper Baddibu",
+      "latitude": "13.55000000",
+      "longitude": "-15.66667000"
+    },
+    {
+      "id": 52316,
+      "name": "Upper Niumi District",
+      "latitude": "13.40000000",
+      "longitude": "-16.33333000"
+    }
+  ],
+  "country": {
+    "id": 80,
+    "name": "Gambia The",
+    "iso3": "GMB",
+    "iso2": "GM",
+    "numeric_code": "270",
+    "phone_code": "220",
+    "capital": "Banjul",
+    "currency": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "tld": ".gm",
+    "native": "Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "감비아",
+      "pt-BR": "Gâmbia",
+      "pt": "Gâmbia",
+      "nl": "Gambia",
+      "hr": "Gambija",
+      "fa": "گامبیا",
+      "de": "Gambia",
+      "es": "Gambia",
+      "fr": "Gambie",
+      "ja": "ガンビア",
+      "it": "Gambia",
+      "cn": "冈比亚",
+      "tr": "Gambiya"
+    },
+    "latitude": "13.46666666",
+    "longitude": "-16.56666666",
+    "emoji": "🇬🇲",
+    "emojiU": "U+1F1EC U+1F1F2"
+  }
+}

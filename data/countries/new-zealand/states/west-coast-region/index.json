@@ -1,0 +1,79 @@
+{
+  "id": 4064,
+  "name": "West Coast Region",
+  "state_code": "WTC",
+  "latitude": "62.41136340",
+  "longitude": "-149.07297140",
+  "type": null,
+  "cities": [
+    {
+      "id": 79798,
+      "name": "Greymouth",
+      "latitude": "-42.46667000",
+      "longitude": "171.20000000"
+    },
+    {
+      "id": 79802,
+      "name": "Hokitika",
+      "latitude": "-42.71667000",
+      "longitude": "170.96667000"
+    },
+    {
+      "id": 79918,
+      "name": "Westport",
+      "latitude": "-41.75262000",
+      "longitude": "171.60370000"
+    }
+  ],
+  "country": {
+    "id": 158,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phone_code": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "뉴질랜드",
+      "pt-BR": "Nova Zelândia",
+      "pt": "Nova Zelândia",
+      "nl": "Nieuw-Zeeland",
+      "hr": "Novi Zeland",
+      "fa": "نیوزیلند",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "ja": "ニュージーランド",
+      "it": "Nuova Zelanda",
+      "cn": "新西兰",
+      "tr": "Yeni Zelanda"
+    },
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  }
+}

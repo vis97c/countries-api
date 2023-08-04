@@ -1,0 +1,143 @@
+{
+  "id": 206,
+  "name": "South Sudan",
+  "iso3": "SSD",
+  "iso2": "SS",
+  "numeric_code": "728",
+  "phone_code": "211",
+  "capital": "Juba",
+  "currency": "SSP",
+  "currency_name": "South Sudanese pound",
+  "currency_symbol": "£",
+  "tld": ".ss",
+  "native": "South Sudan",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Juba",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "kr": "남수단",
+    "pt-BR": "Sudão do Sul",
+    "pt": "Sudão do Sul",
+    "nl": "Zuid-Soedan",
+    "hr": "Južni Sudan",
+    "fa": "سودان جنوبی",
+    "de": "Südsudan",
+    "es": "Sudán del Sur",
+    "fr": "Soudan du Sud",
+    "ja": "南スーダン",
+    "it": "Sudan del sud",
+    "cn": "南苏丹",
+    "tr": "Güney Sudan"
+  },
+  "latitude": "7.00000000",
+  "longitude": "30.00000000",
+  "emoji": "🇸🇸",
+  "emojiU": "U+1F1F8 U+1F1F8",
+  "states": [
+    {
+      "id": 2092,
+      "name": "Central Equatoria",
+      "state_code": "EC",
+      "latitude": "4.61440630",
+      "longitude": "31.26263660",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2093,
+      "name": "Eastern Equatoria",
+      "state_code": "EE",
+      "latitude": "5.06929950",
+      "longitude": "33.43835300",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2094,
+      "name": "Jonglei State",
+      "state_code": "JG",
+      "latitude": "7.18196190",
+      "longitude": "32.35609520",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2090,
+      "name": "Lakes",
+      "state_code": "LK",
+      "latitude": "37.16282550",
+      "longitude": "-95.69116230",
+      "type": null,
+      "cities": [
+        {
+          "id": 104834,
+          "name": "Yirol",
+          "latitude": "6.55250000",
+          "longitude": "30.49806000"
+        }
+      ]
+    },
+    {
+      "id": 2088,
+      "name": "Northern Bahr el Ghazal",
+      "state_code": "BN",
+      "latitude": "8.53604490",
+      "longitude": "26.79678490",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2085,
+      "name": "Unity",
+      "state_code": "UY",
+      "latitude": "37.78712760",
+      "longitude": "-122.40340790",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2086,
+      "name": "Upper Nile",
+      "state_code": "NU",
+      "latitude": "9.88942020",
+      "longitude": "32.71813750",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2087,
+      "name": "Warrap",
+      "state_code": "WR",
+      "latitude": "8.08862380",
+      "longitude": "28.64106410",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2091,
+      "name": "Western Bahr el Ghazal",
+      "state_code": "BW",
+      "latitude": "8.64523990",
+      "longitude": "25.28375850",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2089,
+      "name": "Western Equatoria",
+      "state_code": "EW",
+      "latitude": "5.34717990",
+      "longitude": "28.29943500",
+      "type": null,
+      "cities": []
+    }
+  ]
+}

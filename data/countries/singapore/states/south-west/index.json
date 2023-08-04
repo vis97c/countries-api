@@ -1,0 +1,72 @@
+{
+  "id": 4652,
+  "name": "South West",
+  "state_code": "05",
+  "latitude": "1.35710000",
+  "longitude": "103.94510000",
+  "type": "district",
+  "cities": [
+    {
+      "id": 153481,
+      "name": "Bukit Batok",
+      "latitude": "1.34960000",
+      "longitude": "103.75280000"
+    },
+    {
+      "id": 153482,
+      "name": "Bukit Panjang",
+      "latitude": "1.37860000",
+      "longitude": "103.76260000"
+    },
+    {
+      "id": 153480,
+      "name": "Jurong West",
+      "latitude": "1.33960000",
+      "longitude": "103.70730000"
+    }
+  ],
+  "country": {
+    "id": 199,
+    "name": "Singapore",
+    "iso3": "SGP",
+    "iso2": "SG",
+    "numeric_code": "702",
+    "phone_code": "65",
+    "capital": "Singapur",
+    "currency": "SGD",
+    "currency_name": "Singapore dollar",
+    "currency_symbol": "$",
+    "tld": ".sg",
+    "native": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Singapore",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "SGT",
+        "tzName": "Singapore Time"
+      }
+    ],
+    "translations": {
+      "kr": "싱가포르",
+      "pt-BR": "Singapura",
+      "pt": "Singapura",
+      "nl": "Singapore",
+      "hr": "Singapur",
+      "fa": "سنگاپور",
+      "de": "Singapur",
+      "es": "Singapur",
+      "fr": "Singapour",
+      "ja": "シンガポール",
+      "it": "Singapore",
+      "cn": "新加坡",
+      "tr": "Singapur"
+    },
+    "latitude": "1.36666666",
+    "longitude": "103.80000000",
+    "emoji": "🇸🇬",
+    "emojiU": "U+1F1F8 U+1F1EC"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 880,
+  "name": "Red Sea",
+  "state_code": "RS",
+  "latitude": "20.28023200",
+  "longitude": "38.51257300",
+  "type": null,
+  "cities": [
+    {
+      "id": 102950,
+      "name": "Gebeit",
+      "latitude": "21.06667000",
+      "longitude": "36.31667000"
+    },
+    {
+      "id": 102968,
+      "name": "Port Sudan",
+      "latitude": "19.61745000",
+      "longitude": "37.21644000"
+    },
+    {
+      "id": 102970,
+      "name": "Sawākin",
+      "latitude": "19.10590000",
+      "longitude": "37.33210000"
+    },
+    {
+      "id": 102976,
+      "name": "Tokār",
+      "latitude": "18.42540000",
+      "longitude": "37.72900000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": 220,
+  "name": "Togo",
+  "iso3": "TGO",
+  "iso2": "TG",
+  "numeric_code": "768",
+  "phone_code": "228",
+  "capital": "Lome",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".tg",
+  "native": "Togo",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Lome",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "kr": "토고",
+    "pt-BR": "Togo",
+    "pt": "Togo",
+    "nl": "Togo",
+    "hr": "Togo",
+    "fa": "توگو",
+    "de": "Togo",
+    "es": "Togo",
+    "fr": "Togo",
+    "ja": "トーゴ",
+    "it": "Togo",
+    "cn": "多哥",
+    "tr": "Togo"
+  },
+  "latitude": "8.00000000",
+  "longitude": "1.16666666",
+  "emoji": "🇹🇬",
+  "emojiU": "U+1F1F9 U+1F1EC",
+  "states": [
+    {
+      "id": 2575,
+      "name": "Centrale Region",
+      "state_code": "C",
+      "latitude": "8.65860290",
+      "longitude": "1.05861350",
+      "type": null,
+      "cities": [
+        {
+          "id": 105173,
+          "name": "Sokodé",
+          "latitude": "8.98333000",
+          "longitude": "1.13333000"
+        },
+        {
+          "id": 105174,
+          "name": "Sotouboua",
+          "latitude": "8.56340000",
+          "longitude": "0.98399000"
+        },
+        {
+          "id": 105176,
+          "name": "Tchamba",
+          "latitude": "9.03333000",
+          "longitude": "1.41667000"
+        }
+      ]
+    },
+    {
+      "id": 2579,
+      "name": "Kara Region",
+      "state_code": "K",
+      "latitude": "9.72163930",
+      "longitude": "1.05861350",
+      "type": null,
+      "cities": [
+        {
+          "id": 105161,
+          "name": "Bafilo",
+          "latitude": "9.35000000",
+          "longitude": "1.26667000"
+        },
+        {
+          "id": 105162,
+          "name": "Bassar",
+          "latitude": "9.25025000",
+          "longitude": "0.78213000"
+        },
+        {
+          "id": 105164,
+          "name": "Kandé",
+          "latitude": "9.95778000",
+          "longitude": "1.04472000"
+        },
+        {
+          "id": 105165,
+          "name": "Kara",
+          "latitude": "9.55111000",
+          "longitude": "1.18611000"
+        },
+        {
+          "id": 105168,
+          "name": "Niamtougou",
+          "latitude": "9.76806000",
+          "longitude": "1.10528000"
+        },
+        {
+          "id": 105170,
+          "name": "Pagouda",
+          "latitude": "9.75250000",
+          "longitude": "1.32778000"
+        },
+        {
+          "id": 105171,
+          "name": "Préfecture de Bassar",
+          "latitude": "9.25000000",
+          "longitude": "0.75000000"
+        }
+      ]
+    },
+    {
+      "id": 2576,
+      "name": "Maritime",
+      "state_code": "M",
+      "latitude": "41.65514930",
+      "longitude": "-83.52784670",
+      "type": null,
+      "cities": [
+        {
+          "id": 105158,
+          "name": "Aného",
+          "latitude": "6.22798000",
+          "longitude": "1.59190000"
+        },
+        {
+          "id": 105167,
+          "name": "Lomé",
+          "latitude": "6.12874000",
+          "longitude": "1.22154000"
+        },
+        {
+          "id": 105175,
+          "name": "Tabligbo",
+          "latitude": "6.58333000",
+          "longitude": "1.50000000"
+        },
+        {
+          "id": 105177,
+          "name": "Tsévié",
+          "latitude": "6.42611000",
+          "longitude": "1.21333000"
+        },
+        {
+          "id": 105178,
+          "name": "Vogan",
+          "latitude": "6.33333000",
+          "longitude": "1.53333000"
+        }
+      ]
+    },
+    {
+      "id": 2577,
+      "name": "Plateaux Region",
+      "state_code": "P",
+      "latitude": "7.61013780",
+      "longitude": "1.05861350",
+      "type": null,
+      "cities": [
+        {
+          "id": 105157,
+          "name": "Amlamé",
+          "latitude": "7.46667000",
+          "longitude": "0.90000000"
+        },
+        {
+          "id": 105159,
+          "name": "Atakpamé",
+          "latitude": "7.53333000",
+          "longitude": "1.13333000"
+        },
+        {
+          "id": 105160,
+          "name": "Badou",
+          "latitude": "7.58333000",
+          "longitude": "0.60000000"
+        },
+        {
+          "id": 105166,
+          "name": "Kpalimé",
+          "latitude": "6.90000000",
+          "longitude": "0.63333000"
+        },
+        {
+          "id": 105169,
+          "name": "Notsé",
+          "latitude": "6.95000000",
+          "longitude": "1.16667000"
+        }
+      ]
+    },
+    {
+      "id": 2578,
+      "name": "Savanes Region",
+      "state_code": "S",
+      "latitude": "10.52917810",
+      "longitude": "0.52578230",
+      "type": null,
+      "cities": [
+        {
+          "id": 105163,
+          "name": "Dapaong",
+          "latitude": "10.86225000",
+          "longitude": "0.20762000"
+        },
+        {
+          "id": 105172,
+          "name": "Sansanné-Mango",
+          "latitude": "10.35917000",
+          "longitude": "0.47083000"
+        }
+      ]
+    }
+  ]
+}

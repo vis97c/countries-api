@@ -1,0 +1,60 @@
+{
+  "id": 2932,
+  "name": "Arta Region",
+  "state_code": "AR",
+  "latitude": "11.52555280",
+  "longitude": "42.84794740",
+  "type": null,
+  "cities": [
+    {
+      "id": 30563,
+      "name": "Arta",
+      "latitude": "11.52639000",
+      "longitude": "42.85194000"
+    }
+  ],
+  "country": {
+    "id": 60,
+    "name": "Djibouti",
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "numeric_code": "262",
+    "phone_code": "253",
+    "capital": "Djibouti",
+    "currency": "DJF",
+    "currency_name": "Djiboutian franc",
+    "currency_symbol": "Fdj",
+    "tld": ".dj",
+    "native": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Djibouti",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "지부티",
+      "pt-BR": "Djibuti",
+      "pt": "Djibuti",
+      "nl": "Djibouti",
+      "hr": "Džibuti",
+      "fa": "جیبوتی",
+      "de": "Dschibuti",
+      "es": "Yibuti",
+      "fr": "Djibouti",
+      "ja": "ジブチ",
+      "it": "Gibuti",
+      "cn": "吉布提",
+      "tr": "Cibuti"
+    },
+    "latitude": "11.50000000",
+    "longitude": "43.00000000",
+    "emoji": "🇩🇯",
+    "emojiU": "U+1F1E9 U+1F1EF"
+  }
+}

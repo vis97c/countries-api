@@ -1,0 +1,53 @@
+{
+  "id": 1090,
+  "name": "Kilkenny",
+  "state_code": "KK",
+  "latitude": "52.57769570",
+  "longitude": "-7.21800200",
+  "type": "county",
+  "cities": [],
+  "country": {
+    "id": 105,
+    "name": "Ireland",
+    "iso3": "IRL",
+    "iso2": "IE",
+    "numeric_code": "372",
+    "phone_code": "353",
+    "capital": "Dublin",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ie",
+    "native": "Éire",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Dublin",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "아일랜드",
+      "pt-BR": "Irlanda",
+      "pt": "Irlanda",
+      "nl": "Ierland",
+      "hr": "Irska",
+      "fa": "ایرلند",
+      "de": "Irland",
+      "es": "Irlanda",
+      "fr": "Irlande",
+      "ja": "アイルランド",
+      "it": "Irlanda",
+      "cn": "爱尔兰",
+      "tr": "İrlanda"
+    },
+    "latitude": "53.00000000",
+    "longitude": "-8.00000000",
+    "emoji": "🇮🇪",
+    "emojiU": "U+1F1EE U+1F1EA"
+  }
+}

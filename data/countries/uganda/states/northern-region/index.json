@@ -1,0 +1,156 @@
+{
+  "id": 332,
+  "name": "Northern Region",
+  "state_code": "N",
+  "latitude": "9.54392690",
+  "longitude": "-0.90566230",
+  "type": null,
+  "cities": [
+    {
+      "id": 110874,
+      "name": "Adjumani",
+      "latitude": "3.37786000",
+      "longitude": "31.79090000"
+    },
+    {
+      "id": 110875,
+      "name": "Amudat",
+      "latitude": "1.95000000",
+      "longitude": "34.95000000"
+    },
+    {
+      "id": 110876,
+      "name": "Apac",
+      "latitude": "1.97556000",
+      "longitude": "32.53861000"
+    },
+    {
+      "id": 110877,
+      "name": "Arua",
+      "latitude": "3.02013000",
+      "longitude": "30.91105000"
+    },
+    {
+      "id": 110894,
+      "name": "Gulu",
+      "latitude": "2.77457000",
+      "longitude": "32.29899000"
+    },
+    {
+      "id": 110920,
+      "name": "Kitgum",
+      "latitude": "3.27833000",
+      "longitude": "32.88667000"
+    },
+    {
+      "id": 110921,
+      "name": "Kotido",
+      "latitude": "2.98056000",
+      "longitude": "34.13306000"
+    },
+    {
+      "id": 110925,
+      "name": "Lira",
+      "latitude": "2.24990000",
+      "longitude": "32.89985000"
+    },
+    {
+      "id": 110937,
+      "name": "Moroto",
+      "latitude": "2.53453000",
+      "longitude": "34.66659000"
+    },
+    {
+      "id": 110938,
+      "name": "Moyo",
+      "latitude": "3.66088000",
+      "longitude": "31.72474000"
+    },
+    {
+      "id": 110946,
+      "name": "Nebbi",
+      "latitude": "2.47826000",
+      "longitude": "31.08893000"
+    },
+    {
+      "id": 110950,
+      "name": "Otuke District",
+      "latitude": "2.48372000",
+      "longitude": "33.34201000"
+    },
+    {
+      "id": 110951,
+      "name": "Oyam District",
+      "latitude": "2.38129000",
+      "longitude": "32.50071000"
+    },
+    {
+      "id": 110952,
+      "name": "Pader",
+      "latitude": "3.05000000",
+      "longitude": "33.21667000"
+    },
+    {
+      "id": 110953,
+      "name": "Pader Palwo",
+      "latitude": "2.80056000",
+      "longitude": "33.13500000"
+    },
+    {
+      "id": 110954,
+      "name": "Paidha",
+      "latitude": "2.41669000",
+      "longitude": "30.98551000"
+    },
+    {
+      "id": 110964,
+      "name": "Yumbe",
+      "latitude": "3.46506000",
+      "longitude": "31.24689000"
+    }
+  ],
+  "country": {
+    "id": 229,
+    "name": "Uganda",
+    "iso3": "UGA",
+    "iso2": "UG",
+    "numeric_code": "800",
+    "phone_code": "256",
+    "capital": "Kampala",
+    "currency": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "tld": ".ug",
+    "native": "Uganda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "우간다",
+      "pt-BR": "Uganda",
+      "pt": "Uganda",
+      "nl": "Oeganda",
+      "hr": "Uganda",
+      "fa": "اوگاندا",
+      "de": "Uganda",
+      "es": "Uganda",
+      "fr": "Uganda",
+      "ja": "ウガンダ",
+      "it": "Uganda",
+      "cn": "乌干达",
+      "tr": "Uganda"
+    },
+    "latitude": "1.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇬",
+    "emojiU": "U+1F1FA U+1F1EC"
+  }
+}

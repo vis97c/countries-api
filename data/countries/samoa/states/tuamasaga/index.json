@@ -1,0 +1,84 @@
+{
+  "id": 4770,
+  "name": "Tuamasaga",
+  "state_code": "TU",
+  "latitude": "-13.91635920",
+  "longitude": "-171.82243620",
+  "type": null,
+  "cities": [
+    {
+      "id": 130643,
+      "name": "Afega",
+      "latitude": "-13.79726000",
+      "longitude": "-171.85308000"
+    },
+    {
+      "id": 130644,
+      "name": "Apia",
+      "latitude": "-13.83333000",
+      "longitude": "-171.76666000"
+    },
+    {
+      "id": 130652,
+      "name": "Malie",
+      "latitude": "-13.80044000",
+      "longitude": "-171.84690000"
+    },
+    {
+      "id": 130660,
+      "name": "Vailima",
+      "latitude": "-13.86417000",
+      "longitude": "-171.76126000"
+    },
+    {
+      "id": 130662,
+      "name": "Vaiusu",
+      "latitude": "-13.82678000",
+      "longitude": "-171.79333000"
+    }
+  ],
+  "country": {
+    "id": 191,
+    "name": "Samoa",
+    "iso3": "WSM",
+    "iso2": "WS",
+    "numeric_code": "882",
+    "phone_code": "685",
+    "capital": "Apia",
+    "currency": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "SAT",
+    "tld": ".ws",
+    "native": "Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Apia",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "WST",
+        "tzName": "West Samoa Time"
+      }
+    ],
+    "translations": {
+      "kr": "사모아",
+      "pt-BR": "Samoa",
+      "pt": "Samoa",
+      "nl": "Samoa",
+      "hr": "Samoa",
+      "fa": "ساموآ",
+      "de": "Samoa",
+      "es": "Samoa",
+      "fr": "Samoa",
+      "ja": "サモア",
+      "it": "Samoa",
+      "cn": "萨摩亚",
+      "tr": "Samoa"
+    },
+    "latitude": "-13.58333333",
+    "longitude": "-172.33333333",
+    "emoji": "🇼🇸",
+    "emojiU": "U+1F1FC U+1F1F8"
+  }
+}

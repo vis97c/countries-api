@@ -1,0 +1,285 @@
+{
+  "id": 878,
+  "name": "Northwest Territories",
+  "state_code": "NT",
+  "latitude": "64.82554410",
+  "longitude": "-124.84573340",
+  "type": "territory",
+  "cities": [
+    {
+      "id": 16209,
+      "name": "Behchokǫ̀",
+      "latitude": "62.80250000",
+      "longitude": "-116.04639000"
+    },
+    {
+      "id": 16431,
+      "name": "Fort McPherson",
+      "latitude": "67.43863000",
+      "longitude": "-134.88543000"
+    },
+    {
+      "id": 16434,
+      "name": "Fort Smith",
+      "latitude": "60.00439000",
+      "longitude": "-111.88871000"
+    },
+    {
+      "id": 16498,
+      "name": "Hay River",
+      "latitude": "60.81555000",
+      "longitude": "-115.79993000"
+    },
+    {
+      "id": 16522,
+      "name": "Inuvik",
+      "latitude": "68.34986000",
+      "longitude": "-133.72181000"
+    },
+    {
+      "id": 16753,
+      "name": "Norman Wells",
+      "latitude": "65.28201000",
+      "longitude": "-126.83290000"
+    },
+    {
+      "id": 17221,
+      "name": "Yellowknife",
+      "latitude": "62.45411000",
+      "longitude": "-114.37248000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

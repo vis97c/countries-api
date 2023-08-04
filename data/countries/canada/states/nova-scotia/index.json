@@ -1,0 +1,501 @@
+{
+  "id": 874,
+  "name": "Nova Scotia",
+  "state_code": "NS",
+  "latitude": "44.68198660",
+  "longitude": "-63.74431100",
+  "type": "province",
+  "cities": [
+    {
+      "id": 16161,
+      "name": "Amherst",
+      "latitude": "45.83345000",
+      "longitude": "-64.19874000"
+    },
+    {
+      "id": 16170,
+      "name": "Annapolis County",
+      "latitude": "44.58345000",
+      "longitude": "-65.16551000"
+    },
+    {
+      "id": 16171,
+      "name": "Antigonish",
+      "latitude": "45.61685000",
+      "longitude": "-61.99858000"
+    },
+    {
+      "id": 16216,
+      "name": "Berwick",
+      "latitude": "45.05015000",
+      "longitude": "-64.73208000"
+    },
+    {
+      "id": 16242,
+      "name": "Bridgewater",
+      "latitude": "44.37856000",
+      "longitude": "-64.51882000"
+    },
+    {
+      "id": 16272,
+      "name": "Cape Breton County",
+      "latitude": "46.00014000",
+      "longitude": "-60.31516000"
+    },
+    {
+      "id": 16304,
+      "name": "Chester",
+      "latitude": "44.54225000",
+      "longitude": "-64.23891000"
+    },
+    {
+      "id": 16322,
+      "name": "Colchester",
+      "latitude": "45.33345000",
+      "longitude": "-63.24868000"
+    },
+    {
+      "id": 16324,
+      "name": "Cole Harbour",
+      "latitude": "44.67244000",
+      "longitude": "-63.47506000"
+    },
+    {
+      "id": 16342,
+      "name": "Cow Bay",
+      "latitude": "44.63141000",
+      "longitude": "-63.43218000"
+    },
+    {
+      "id": 16355,
+      "name": "Dartmouth",
+      "latitude": "44.67134000",
+      "longitude": "-63.57719000"
+    },
+    {
+      "id": 16374,
+      "name": "Digby",
+      "latitude": "44.62188000",
+      "longitude": "-65.75860000"
+    },
+    {
+      "id": 16375,
+      "name": "Digby County",
+      "latitude": "44.36685000",
+      "longitude": "-65.69884000"
+    },
+    {
+      "id": 16406,
+      "name": "English Corner",
+      "latitude": "44.73345000",
+      "longitude": "-63.78201000"
+    },
+    {
+      "id": 16407,
+      "name": "Eskasoni 3",
+      "latitude": "45.94522000",
+      "longitude": "-60.61617000"
+    },
+    {
+      "id": 16416,
+      "name": "Fall River",
+      "latitude": "44.81685000",
+      "longitude": "-63.61540000"
+    },
+    {
+      "id": 16454,
+      "name": "Glace Bay",
+      "latitude": "46.19695000",
+      "longitude": "-59.95698000"
+    },
+    {
+      "id": 16475,
+      "name": "Greenwood",
+      "latitude": "44.97413000",
+      "longitude": "-64.93169000"
+    },
+    {
+      "id": 16482,
+      "name": "Halifax",
+      "latitude": "44.64533000",
+      "longitude": "-63.57239000"
+    },
+    {
+      "id": 16490,
+      "name": "Hantsport",
+      "latitude": "45.06685000",
+      "longitude": "-64.16544000"
+    },
+    {
+      "id": 16499,
+      "name": "Hayes Subdivision",
+      "latitude": "45.05519000",
+      "longitude": "-64.58795000"
+    },
+    {
+      "id": 16539,
+      "name": "Kentville",
+      "latitude": "45.07710000",
+      "longitude": "-64.49605000"
+    },
+    {
+      "id": 16589,
+      "name": "Lake Echo",
+      "latitude": "44.73345000",
+      "longitude": "-63.38198000"
+    },
+    {
+      "id": 16600,
+      "name": "Lantz",
+      "latitude": "44.98345000",
+      "longitude": "-63.48199000"
+    },
+    {
+      "id": 16632,
+      "name": "Lower Sackville",
+      "latitude": "44.77599000",
+      "longitude": "-63.67865000"
+    },
+    {
+      "id": 16637,
+      "name": "Lunenburg",
+      "latitude": "44.37847000",
+      "longitude": "-64.31658000"
+    },
+    {
+      "id": 16686,
+      "name": "Middleton",
+      "latitude": "44.94284000",
+      "longitude": "-65.07022000"
+    },
+    {
+      "id": 16739,
+      "name": "New Glasgow",
+      "latitude": "45.58344000",
+      "longitude": "-62.64863000"
+    },
+    {
+      "id": 16791,
+      "name": "Oxford",
+      "latitude": "45.73345000",
+      "longitude": "-63.86542000"
+    },
+    {
+      "id": 16799,
+      "name": "Parrsboro",
+      "latitude": "45.40567000",
+      "longitude": "-64.32585000"
+    },
+    {
+      "id": 16818,
+      "name": "Pictou",
+      "latitude": "45.67875000",
+      "longitude": "-62.70936000"
+    },
+    {
+      "id": 16819,
+      "name": "Pictou County",
+      "latitude": "45.50015000",
+      "longitude": "-62.58193000"
+    },
+    {
+      "id": 16840,
+      "name": "Port Hawkesbury",
+      "latitude": "45.61685000",
+      "longitude": "-61.34853000"
+    },
+    {
+      "id": 16846,
+      "name": "Port Williams",
+      "latitude": "45.10015000",
+      "longitude": "-64.41546000"
+    },
+    {
+      "id": 16859,
+      "name": "Princeville",
+      "latitude": "45.76684000",
+      "longitude": "-61.29853000"
+    },
+    {
+      "id": 17037,
+      "name": "Shelburne",
+      "latitude": "43.76325000",
+      "longitude": "-65.32355000"
+    },
+    {
+      "id": 17064,
+      "name": "Springhill",
+      "latitude": "45.65015000",
+      "longitude": "-64.04873000"
+    },
+    {
+      "id": 17095,
+      "name": "Sydney",
+      "latitude": "46.13510000",
+      "longitude": "-60.18310000"
+    },
+    {
+      "id": 17096,
+      "name": "Sydney Mines",
+      "latitude": "46.23669000",
+      "longitude": "-60.21767000"
+    },
+    {
+      "id": 17127,
+      "name": "Truro",
+      "latitude": "45.36685000",
+      "longitude": "-63.26538000"
+    },
+    {
+      "id": 17211,
+      "name": "Windsor",
+      "latitude": "44.98345000",
+      "longitude": "-64.13204000"
+    },
+    {
+      "id": 17216,
+      "name": "Wolfville",
+      "latitude": "45.08345000",
+      "longitude": "-64.36546000"
+    },
+    {
+      "id": 17220,
+      "name": "Yarmouth",
+      "latitude": "43.83345000",
+      "longitude": "-66.11557000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

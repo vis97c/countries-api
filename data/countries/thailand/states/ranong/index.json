@@ -1,0 +1,90 @@
+{
+  "id": 3479,
+  "name": "Ranong",
+  "state_code": "85",
+  "latitude": "9.95287020",
+  "longitude": "98.60846410",
+  "type": null,
+  "cities": [
+    {
+      "id": 105377,
+      "name": "Amphoe Kapoe",
+      "latitude": "9.53028000",
+      "longitude": "98.62369000"
+    },
+    {
+      "id": 105451,
+      "name": "Amphoe Kra Buri",
+      "latitude": "10.45895000",
+      "longitude": "98.84373000"
+    },
+    {
+      "id": 105469,
+      "name": "Amphoe La-un",
+      "latitude": "10.09691000",
+      "longitude": "98.78498000"
+    },
+    {
+      "id": 105578,
+      "name": "Amphoe Mueang Ranong",
+      "latitude": "9.86238000",
+      "longitude": "98.62229000"
+    },
+    {
+      "id": 106254,
+      "name": "Amphoe Suk Samran",
+      "latitude": "9.41570000",
+      "longitude": "98.49117000"
+    },
+    {
+      "id": 106661,
+      "name": "Ranong",
+      "latitude": "9.96583000",
+      "longitude": "98.63476000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

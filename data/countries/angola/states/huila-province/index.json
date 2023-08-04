@@ -1,0 +1,132 @@
+{
+  "id": 225,
+  "name": "Huíla Province",
+  "state_code": "HUI",
+  "latitude": "-14.92805530",
+  "longitude": "14.65878210",
+  "type": null,
+  "cities": [
+    {
+      "id": 592,
+      "name": "Caconda",
+      "latitude": "-13.73333000",
+      "longitude": "15.06667000"
+    },
+    {
+      "id": 593,
+      "name": "Caluquembe",
+      "latitude": "-13.92093000",
+      "longitude": "14.53476000"
+    },
+    {
+      "id": 602,
+      "name": "Chibia",
+      "latitude": "-15.23657000",
+      "longitude": "13.88468000"
+    },
+    {
+      "id": 603,
+      "name": "Chicomba",
+      "latitude": "-14.30788000",
+      "longitude": "14.98672000"
+    },
+    {
+      "id": 604,
+      "name": "Chipindo",
+      "latitude": "-13.86830000",
+      "longitude": "15.73277000"
+    },
+    {
+      "id": 607,
+      "name": "Cuvango",
+      "latitude": "-14.27693000",
+      "longitude": "16.31475000"
+    },
+    {
+      "id": 608,
+      "name": "Gambos",
+      "latitude": "-15.80926000",
+      "longitude": "14.07661000"
+    },
+    {
+      "id": 610,
+      "name": "Humpata",
+      "latitude": "-15.07250000",
+      "longitude": "13.36771000"
+    },
+    {
+      "id": 612,
+      "name": "Jamba",
+      "latitude": "-14.76294000",
+      "longitude": "15.83493000"
+    },
+    {
+      "id": 617,
+      "name": "Lubango",
+      "latitude": "-14.91717000",
+      "longitude": "13.49250000"
+    },
+    {
+      "id": 623,
+      "name": "Matala",
+      "latitude": "-15.23967000",
+      "longitude": "15.17246000"
+    },
+    {
+      "id": 630,
+      "name": "Quilengues",
+      "latitude": "-13.99213000",
+      "longitude": "13.76705000"
+    },
+    {
+      "id": 631,
+      "name": "Quipungo",
+      "latitude": "-15.12203000",
+      "longitude": "14.55953000"
+    }
+  ],
+  "country": {
+    "id": 7,
+    "name": "Angola",
+    "iso3": "AGO",
+    "iso2": "AO",
+    "numeric_code": "024",
+    "phone_code": "244",
+    "capital": "Luanda",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "native": "Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "앙골라",
+      "pt-BR": "Angola",
+      "pt": "Angola",
+      "nl": "Angola",
+      "hr": "Angola",
+      "fa": "آنگولا",
+      "de": "Angola",
+      "es": "Angola",
+      "fr": "Angola",
+      "ja": "アンゴラ",
+      "it": "Angola",
+      "cn": "安哥拉",
+      "tr": "Angola"
+    },
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  }
+}

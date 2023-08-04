@@ -1,0 +1,169 @@
+{
+  "id": 2271,
+  "name": "Chongqing",
+  "state_code": "CQ",
+  "latitude": "29.43158610",
+  "longitude": "106.91225100",
+  "type": "municipality",
+  "cities": [
+    {
+      "id": 19327,
+      "name": "Beibei",
+      "latitude": "29.82739000",
+      "longitude": "106.43645000"
+    },
+    {
+      "id": 19356,
+      "name": "Caijia",
+      "latitude": "28.90889000",
+      "longitude": "106.34040000"
+    },
+    {
+      "id": 19404,
+      "name": "Chongqing",
+      "latitude": "29.56278000",
+      "longitude": "106.55278000"
+    },
+    {
+      "id": 19479,
+      "name": "Dongxi",
+      "latitude": "28.76139000",
+      "longitude": "106.66111000"
+    },
+    {
+      "id": 19521,
+      "name": "Fuling",
+      "latitude": "29.70600000",
+      "longitude": "107.39575000"
+    },
+    {
+      "id": 19536,
+      "name": "Ganshui",
+      "latitude": "28.74222000",
+      "longitude": "106.71111000"
+    },
+    {
+      "id": 19577,
+      "name": "Guofuchang",
+      "latitude": "28.85000000",
+      "longitude": "106.60139000"
+    },
+    {
+      "id": 19604,
+      "name": "Hechuan",
+      "latitude": "29.99228000",
+      "longitude": "106.26461000"
+    },
+    {
+      "id": 19724,
+      "name": "Jijiang",
+      "latitude": "29.28993000",
+      "longitude": "106.25001000"
+    },
+    {
+      "id": 19815,
+      "name": "Liangping District",
+      "latitude": "30.67409000",
+      "longitude": "107.79380000"
+    },
+    {
+      "id": 19991,
+      "name": "Puhechang",
+      "latitude": "28.95250000",
+      "longitude": "106.83111000"
+    },
+    {
+      "id": 20084,
+      "name": "Shapingba District",
+      "latitude": "29.54166000",
+      "longitude": "106.45547000"
+    },
+    {
+      "id": 20095,
+      "name": "Shijiaochang",
+      "latitude": "28.92444000",
+      "longitude": "106.75611000"
+    },
+    {
+      "id": 20211,
+      "name": "Wanxian",
+      "latitude": "30.81544000",
+      "longitude": "108.37089000"
+    },
+    {
+      "id": 20212,
+      "name": "Wanzhou District",
+      "latitude": "30.70576000",
+      "longitude": "108.40202000"
+    },
+    {
+      "id": 20385,
+      "name": "Yongchuan",
+      "latitude": "29.35376000",
+      "longitude": "105.89392000"
+    },
+    {
+      "id": 20395,
+      "name": "Yudong",
+      "latitude": "29.38500000",
+      "longitude": "106.51944000"
+    },
+    {
+      "id": 20412,
+      "name": "Yuzhong District",
+      "latitude": "29.55208000",
+      "longitude": "106.53814000"
+    }
+  ],
+  "country": {
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phone_code": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "중국",
+      "pt-BR": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین",
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "cn": "中国",
+      "tr": "Çin"
+    },
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  }
+}

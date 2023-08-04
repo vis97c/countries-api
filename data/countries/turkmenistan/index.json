@@ -1,0 +1,286 @@
+{
+  "id": 226,
+  "name": "Turkmenistan",
+  "iso3": "TKM",
+  "iso2": "TM",
+  "numeric_code": "795",
+  "phone_code": "993",
+  "capital": "Ashgabat",
+  "currency": "TMT",
+  "currency_name": "Turkmenistan manat",
+  "currency_symbol": "T",
+  "tld": ".tm",
+  "native": "Türkmenistan",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Ashgabat",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "TMT",
+      "tzName": "Turkmenistan Time"
+    }
+  ],
+  "translations": {
+    "kr": "투르크메니스탄",
+    "pt-BR": "Turcomenistão",
+    "pt": "Turquemenistão",
+    "nl": "Turkmenistan",
+    "hr": "Turkmenistan",
+    "fa": "ترکمنستان",
+    "de": "Turkmenistan",
+    "es": "Turkmenistán",
+    "fr": "Turkménistan",
+    "ja": "トルクメニスタン",
+    "it": "Turkmenistan",
+    "cn": "土库曼斯坦",
+    "tr": "Türkmenistan"
+  },
+  "latitude": "40.00000000",
+  "longitude": "60.00000000",
+  "emoji": "🇹🇲",
+  "emojiU": "U+1F1F9 U+1F1F2",
+  "states": [
+    {
+      "id": 3374,
+      "name": "Ahal Region",
+      "state_code": "A",
+      "latitude": "38.63993980",
+      "longitude": "59.47209040",
+      "type": null,
+      "cities": [
+        {
+          "id": 106880,
+          "name": "Abadan",
+          "latitude": "38.05415000",
+          "longitude": "58.19721000"
+        },
+        {
+          "id": 106882,
+          "name": "Annau",
+          "latitude": "37.88754000",
+          "longitude": "58.51596000"
+        },
+        {
+          "id": 106883,
+          "name": "Arçabil",
+          "latitude": "37.91500000",
+          "longitude": "58.08987000"
+        },
+        {
+          "id": 106886,
+          "name": "Baharly",
+          "latitude": "38.43624000",
+          "longitude": "57.43158000"
+        },
+        {
+          "id": 106896,
+          "name": "Kaka",
+          "latitude": "37.34821000",
+          "longitude": "59.61431000"
+        },
+        {
+          "id": 106905,
+          "name": "Tejen",
+          "latitude": "37.38338000",
+          "longitude": "60.50545000"
+        }
+      ]
+    },
+    {
+      "id": 3371,
+      "name": "Ashgabat",
+      "state_code": "S",
+      "latitude": "37.96007660",
+      "longitude": "58.32606290",
+      "type": null,
+      "cities": [
+        {
+          "id": 106884,
+          "name": "Ashgabat",
+          "latitude": "37.95000000",
+          "longitude": "58.38333000"
+        }
+      ]
+    },
+    {
+      "id": 3372,
+      "name": "Balkan Region",
+      "state_code": "B",
+      "latitude": "41.81014720",
+      "longitude": "21.09373110",
+      "type": null,
+      "cities": [
+        {
+          "id": 106887,
+          "name": "Balkanabat",
+          "latitude": "39.51075000",
+          "longitude": "54.36713000"
+        },
+        {
+          "id": 106889,
+          "name": "Bereket",
+          "latitude": "39.24463000",
+          "longitude": "55.51536000"
+        },
+        {
+          "id": 106895,
+          "name": "Gumdag",
+          "latitude": "39.20611000",
+          "longitude": "54.59056000"
+        },
+        {
+          "id": 106898,
+          "name": "Magtymguly",
+          "latitude": "38.43749000",
+          "longitude": "56.28081000"
+        },
+        {
+          "id": 106901,
+          "name": "Serdar",
+          "latitude": "38.97644000",
+          "longitude": "56.27575000"
+        },
+        {
+          "id": 106907,
+          "name": "Türkmenbaşy",
+          "latitude": "40.02216000",
+          "longitude": "52.95517000"
+        }
+      ]
+    },
+    {
+      "id": 3373,
+      "name": "Daşoguz Region",
+      "state_code": "D",
+      "latitude": "41.83687370",
+      "longitude": "59.96519040",
+      "type": null,
+      "cities": [
+        {
+          "id": 106881,
+          "name": "Akdepe",
+          "latitude": "42.05513000",
+          "longitude": "59.37877000"
+        },
+        {
+          "id": 106890,
+          "name": "Boldumsaz",
+          "latitude": "42.12824000",
+          "longitude": "59.67101000"
+        },
+        {
+          "id": 106891,
+          "name": "Daşoguz",
+          "latitude": "41.83625000",
+          "longitude": "59.96661000"
+        },
+        {
+          "id": 106897,
+          "name": "Köneürgench",
+          "latitude": "42.32773000",
+          "longitude": "59.15442000"
+        },
+        {
+          "id": 106904,
+          "name": "Tagta",
+          "latitude": "41.65041000",
+          "longitude": "59.91640000"
+        },
+        {
+          "id": 106909,
+          "name": "Yylanly",
+          "latitude": "41.83333000",
+          "longitude": "59.65000000"
+        }
+      ]
+    },
+    {
+      "id": 3370,
+      "name": "Lebap Region",
+      "state_code": "L",
+      "latitude": "38.12724620",
+      "longitude": "64.71624150",
+      "type": null,
+      "cities": [
+        {
+          "id": 106885,
+          "name": "Atamyrat",
+          "latitude": "37.83573000",
+          "longitude": "65.21058000"
+        },
+        {
+          "id": 106892,
+          "name": "Farap",
+          "latitude": "39.17037000",
+          "longitude": "63.61165000"
+        },
+        {
+          "id": 106893,
+          "name": "Gazojak",
+          "latitude": "41.18746000",
+          "longitude": "61.40360000"
+        },
+        {
+          "id": 106894,
+          "name": "Gowurdak",
+          "latitude": "37.81244000",
+          "longitude": "66.04656000"
+        },
+        {
+          "id": 106900,
+          "name": "Saýat",
+          "latitude": "38.78393000",
+          "longitude": "63.88035000"
+        },
+        {
+          "id": 106906,
+          "name": "Türkmenabat",
+          "latitude": "39.07328000",
+          "longitude": "63.57861000"
+        }
+      ]
+    },
+    {
+      "id": 3369,
+      "name": "Mary Region",
+      "state_code": "M",
+      "latitude": "36.94816230",
+      "longitude": "62.45041540",
+      "type": null,
+      "cities": [
+        {
+          "id": 106888,
+          "name": "Bayramaly",
+          "latitude": "37.61852000",
+          "longitude": "62.16715000"
+        },
+        {
+          "id": 106899,
+          "name": "Mary",
+          "latitude": "37.59378000",
+          "longitude": "61.83031000"
+        },
+        {
+          "id": 106902,
+          "name": "Serhetabat",
+          "latitude": "35.27992000",
+          "longitude": "62.34383000"
+        },
+        {
+          "id": 106903,
+          "name": "Seydi",
+          "latitude": "39.48160000",
+          "longitude": "62.91374000"
+        },
+        {
+          "id": 106908,
+          "name": "Yolöten",
+          "latitude": "37.29886000",
+          "longitude": "62.35975000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "id": 1827,
+  "name": "Jawa Timur",
+  "state_code": "JI",
+  "latitude": "-7.53606390",
+  "longitude": "112.23840170",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56185,
+      "name": "Babat",
+      "latitude": "-7.11282000",
+      "longitude": "112.16354000"
+    },
+    {
+      "id": 56191,
+      "name": "Balung",
+      "latitude": "-7.73333000",
+      "longitude": "113.91667000"
+    },
+    {
+      "id": 56197,
+      "name": "Bangil",
+      "latitude": "-7.59939000",
+      "longitude": "112.81860000"
+    },
+    {
+      "id": 56198,
+      "name": "Bangkalan",
+      "latitude": "-7.04550000",
+      "longitude": "112.73510000"
+    },
+    {
+      "id": 56206,
+      "name": "Banyuwangi",
+      "latitude": "-8.23250000",
+      "longitude": "114.35755000"
+    },
+    {
+      "id": 56210,
+      "name": "Batu",
+      "latitude": "-7.87000000",
+      "longitude": "112.52833000"
+    },
+    {
+      "id": 56219,
+      "name": "Besuki",
+      "latitude": "-7.73379000",
+      "longitude": "113.69785000"
+    },
+    {
+      "id": 56224,
+      "name": "Blitar",
+      "latitude": "-8.09830000",
+      "longitude": "112.16810000"
+    },
+    {
+      "id": 56227,
+      "name": "Bojonegoro",
+      "latitude": "-7.15020000",
+      "longitude": "111.88170000"
+    },
+    {
+      "id": 56228,
+      "name": "Bondowoso",
+      "latitude": "-7.91346000",
+      "longitude": "113.82145000"
+    },
+    {
+      "id": 56231,
+      "name": "Boyolangu",
+      "latitude": "-8.11810000",
+      "longitude": "111.89350000"
+    },
+    {
+      "id": 56233,
+      "name": "Buduran",
+      "latitude": "-7.42810000",
+      "longitude": "112.72340000"
+    },
+    {
+      "id": 56259,
+      "name": "Dampit",
+      "latitude": "-8.21162000",
+      "longitude": "112.74934000"
+    },
+    {
+      "id": 56266,
+      "name": "Diwek",
+      "latitude": "-7.57897000",
+      "longitude": "112.23109000"
+    },
+    {
+      "id": 56268,
+      "name": "Driyorejo",
+      "latitude": "-7.36590000",
+      "longitude": "112.62190000"
+    },
+    {
+      "id": 56274,
+      "name": "Gambiran Satu",
+      "latitude": "-8.39390000",
+      "longitude": "114.14640000"
+    },
+    {
+      "id": 56275,
+      "name": "Gampengrejo",
+      "latitude": "-7.76667000",
+      "longitude": "112.01667000"
+    },
+    {
+      "id": 56279,
+      "name": "Gedangan",
+      "latitude": "-7.39083000",
+      "longitude": "112.72667000"
+    },
+    {
+      "id": 56280,
+      "name": "Genteng",
+      "latitude": "-8.36667000",
+      "longitude": "114.15000000"
+    },
+    {
+      "id": 56284,
+      "name": "Gongdanglegi Kulon",
+      "latitude": "-8.17529000",
+      "longitude": "112.63594000"
+    },
+    {
+      "id": 56286,
+      "name": "Gresik",
+      "latitude": "-7.15389000",
+      "longitude": "112.65611000"
+    },
+    {
+      "id": 56287,
+      "name": "Gresik Regency",
+      "latitude": "-7.19330000",
+      "longitude": "112.55300000"
+    },
+    {
+      "id": 56301,
+      "name": "Jember",
+      "latitude": "-8.17211000",
+      "longitude": "113.69953000"
+    },
+    {
+      "id": 56304,
+      "name": "Jombang",
+      "latitude": "-7.54595000",
+      "longitude": "112.23307000"
+    },
+    {
+      "id": 56333,
+      "name": "Kabupaten Bangkalan",
+      "latitude": "-7.05000000",
+      "longitude": "112.93333000"
+    },
+    {
+      "id": 56340,
+      "name": "Kabupaten Banyuwangi",
+      "latitude": "-8.33333000",
+      "longitude": "114.20000000"
+    },
+    {
+      "id": 56363,
+      "name": "Kabupaten Blitar",
+      "latitude": "-8.13333000",
+      "longitude": "112.25000000"
+    },
+    {
+      "id": 56367,
+      "name": "Kabupaten Bojonegoro",
+      "latitude": "-7.25000000",
+      "longitude": "111.80000000"
+    },
+    {
+      "id": 56373,
+      "name": "Kabupaten Bondowoso",
+      "latitude": "-7.94040000",
+      "longitude": "113.98340000"
+    },
+    {
+      "id": 56430,
+      "name": "Kabupaten Jember",
+      "latitude": "-8.25000000",
+      "longitude": "113.65000000"
+    },
+    {
+      "id": 56434,
+      "name": "Kabupaten Jombang",
+      "latitude": "-7.55000000",
+      "longitude": "112.25000000"
+    },
+    {
+      "id": 56446,
+      "name": "Kabupaten Kediri",
+      "latitude": "-7.83333000",
+      "longitude": "112.16667000"
+    },
+    {
+      "id": 56483,
+      "name": "Kabupaten Lamongan",
+      "latitude": "-7.13333000",
+      "longitude": "112.31667000"
+    },
+    {
+      "id": 56500,
+      "name": "Kabupaten Lumajang",
+      "latitude": "-8.11667000",
+      "longitude": "113.15000000"
+    },
+    {
+      "id": 56504,
+      "name": "Kabupaten Madiun",
+      "latitude": "-7.61667000",
+      "longitude": "111.65000000"
+    },
+    {
+      "id": 56506,
+      "name": "Kabupaten Magetan",
+      "latitude": "-7.64472000",
+      "longitude": "111.35917000"
+    },
+    {
+      "id": 56511,
+      "name": "Kabupaten Malang",
+      "latitude": "-8.16667000",
+      "longitude": "112.66667000"
+    },
+    {
+      "id": 56540,
+      "name": "Kabupaten Mojokerto",
+      "latitude": "-7.55000000",
+      "longitude": "112.50000000"
+    },
+    {
+      "id": 56557,
+      "name": "Kabupaten Nganjuk",
+      "latitude": "-7.60000000",
+      "longitude": "111.93333000"
+    },
+    {
+      "id": 56558,
+      "name": "Kabupaten Ngawi",
+      "latitude": "-7.47444000",
+      "longitude": "111.33444000"
+    },
+    {
+      "id": 56568,
+      "name": "Kabupaten Pacitan",
+      "latitude": "-8.13333000",
+      "longitude": "111.16667000"
+    },
+    {
+      "id": 56573,
+      "name": "Kabupaten Pamekasan",
+      "latitude": "-7.06667000",
+      "longitude": "113.50000000"
+    },
+    {
+      "id": 56582,
+      "name": "Kabupaten Pasuruan",
+      "latitude": "-7.73333000",
+      "longitude": "112.83333000"
+    },
+    {
+      "id": 56597,
+      "name": "Kabupaten Ponorogo",
+      "latitude": "-7.93333000",
+      "longitude": "111.50000000"
+    },
+    {
+      "id": 56600,
+      "name": "Kabupaten Probolinggo",
+      "latitude": "-7.86667000",
+      "longitude": "113.31667000"
+    },
+    {
+      "id": 56616,
+      "name": "Kabupaten Sampang",
+      "latitude": "-7.05000000",
+      "longitude": "113.25000000"
+    },
+    {
+      "id": 56629,
+      "name": "Kabupaten Sidoarjo",
+      "latitude": "-7.45000000",
+      "longitude": "112.70000000"
+    },
+    {
+      "id": 56636,
+      "name": "Kabupaten Situbondo",
+      "latitude": "-7.71667000",
+      "longitude": "114.05000000"
+    },
+    {
+      "id": 56655,
+      "name": "Kabupaten Sumenep",
+      "latitude": "-7.11667000",
+      "longitude": "114.33333000"
+    },
+    {
+      "id": 56685,
+      "name": "Kabupaten Trenggalek",
+      "latitude": "-8.16667000",
+      "longitude": "111.61667000"
+    },
+    {
+      "id": 56686,
+      "name": "Kabupaten Tuban",
+      "latitude": "-6.96667000",
+      "longitude": "111.90000000"
+    },
+    {
+      "id": 56688,
+      "name": "Kabupaten Tulungagung",
+      "latitude": "-8.11667000",
+      "longitude": "111.91667000"
+    },
+    {
+      "id": 56696,
+      "name": "Kalianget",
+      "latitude": "-7.05370000",
+      "longitude": "113.94244000"
+    },
+    {
+      "id": 56697,
+      "name": "Kamal",
+      "latitude": "-7.16778000",
+      "longitude": "112.71917000"
+    },
+    {
+      "id": 56705,
+      "name": "Kebomas",
+      "latitude": "-7.16667000",
+      "longitude": "112.63330000"
+    },
+    {
+      "id": 56707,
+      "name": "Kediri",
+      "latitude": "-7.81667000",
+      "longitude": "112.01667000"
+    },
+    {
+      "id": 56708,
+      "name": "Kedungwaru",
+      "latitude": "-8.06667000",
+      "longitude": "111.91667000"
+    },
+    {
+      "id": 56711,
+      "name": "Kencong",
+      "latitude": "-8.28333000",
+      "longitude": "113.36667000"
+    },
+    {
+      "id": 56713,
+      "name": "Kepanjen",
+      "latitude": "-8.13030000",
+      "longitude": "112.57270000"
+    },
+    {
+      "id": 56714,
+      "name": "Kertosono",
+      "latitude": "-7.58333000",
+      "longitude": "112.10000000"
+    },
+    {
+      "id": 56736,
+      "name": "Kota Batu",
+      "latitude": "-7.83272000",
+      "longitude": "112.53751000"
+    },
+    {
+      "id": 56743,
+      "name": "Kota Blitar",
+      "latitude": "-8.10000000",
+      "longitude": "112.16667000"
+    },
+    {
+      "id": 56757,
+      "name": "Kota Kediri",
+      "latitude": "-7.83333000",
+      "longitude": "112.01667000"
+    },
+    {
+      "id": 56764,
+      "name": "Kota Madiun",
+      "latitude": "-7.63333000",
+      "longitude": "111.53333000"
+    },
+    {
+      "id": 56767,
+      "name": "Kota Malang",
+      "latitude": "-7.97500000",
+      "longitude": "112.63333000"
+    },
+    {
+      "id": 56772,
+      "name": "Kota Mojokerto",
+      "latitude": "-7.46667000",
+      "longitude": "112.43333000"
+    },
+    {
+      "id": 56784,
+      "name": "Kota Pasuruan",
+      "latitude": "-7.65000000",
+      "longitude": "112.90000000"
+    },
+    {
+      "id": 56790,
+      "name": "Kota Probolinggo",
+      "latitude": "-7.78333000",
+      "longitude": "113.21667000"
+    },
+    {
+      "id": 56803,
+      "name": "Kota Surabaya",
+      "latitude": "-7.26667000",
+      "longitude": "112.71667000"
+    },
+    {
+      "id": 56818,
+      "name": "Kraksaan",
+      "latitude": "-7.75845000",
+      "longitude": "113.39624000"
+    },
+    {
+      "id": 56820,
+      "name": "Krian",
+      "latitude": "-7.41040000",
+      "longitude": "112.57920000"
+    },
+    {
+      "id": 56836,
+      "name": "Lamongan",
+      "latitude": "-7.11667000",
+      "longitude": "112.41667000"
+    },
+    {
+      "id": 56839,
+      "name": "Lawang",
+      "latitude": "-7.83530000",
+      "longitude": "112.69470000"
+    },
+    {
+      "id": 56848,
+      "name": "Lumajang",
+      "latitude": "-8.13350000",
+      "longitude": "113.22480000"
+    },
+    {
+      "id": 56850,
+      "name": "Madiun",
+      "latitude": "-7.62980000",
+      "longitude": "111.52390000"
+    },
+    {
+      "id": 56856,
+      "name": "Malang",
+      "latitude": "-7.97970000",
+      "longitude": "112.63040000"
+    },
+    {
+      "id": 56874,
+      "name": "Mojoagung",
+      "latitude": "-7.56667000",
+      "longitude": "112.35000000"
+    },
+    {
+      "id": 56875,
+      "name": "Mojokerto",
+      "latitude": "-7.46640000",
+      "longitude": "112.43380000"
+    },
+    {
+      "id": 56878,
+      "name": "Muncar",
+      "latitude": "-8.43333000",
+      "longitude": "114.33333000"
+    },
+    {
+      "id": 56885,
+      "name": "Nganjuk",
+      "latitude": "-7.60510000",
+      "longitude": "111.90350000"
+    },
+    {
+      "id": 56888,
+      "name": "Ngoro",
+      "latitude": "-7.68386000",
+      "longitude": "112.25804000"
+    },
+    {
+      "id": 56889,
+      "name": "Ngunut",
+      "latitude": "-8.10580000",
+      "longitude": "112.01591000"
+    },
+    {
+      "id": 56891,
+      "name": "Paciran",
+      "latitude": "-6.87666000",
+      "longitude": "112.37606000"
+    },
+    {
+      "id": 56896,
+      "name": "Pakisaji",
+      "latitude": "-8.06650000",
+      "longitude": "112.59810000"
+    },
+    {
+      "id": 56903,
+      "name": "Pamekasan",
+      "latitude": "-7.15680000",
+      "longitude": "113.47460000"
+    },
+    {
+      "id": 56906,
+      "name": "Panarukan",
+      "latitude": "-7.70181000",
+      "longitude": "113.91844000"
+    },
+    {
+      "id": 56907,
+      "name": "Pandaan",
+      "latitude": "-7.65268000",
+      "longitude": "112.68750000"
+    },
+    {
+      "id": 56913,
+      "name": "Panji",
+      "latitude": "-7.72528000",
+      "longitude": "114.09954000"
+    },
+    {
+      "id": 56915,
+      "name": "Pare",
+      "latitude": "-7.76790000",
+      "longitude": "112.19800000"
+    },
+    {
+      "id": 56921,
+      "name": "Pasuruan",
+      "latitude": "-7.64530000",
+      "longitude": "112.90750000"
+    },
+    {
+      "id": 56936,
+      "name": "Ponorogo",
+      "latitude": "-7.86850000",
+      "longitude": "111.46200000"
+    },
+    {
+      "id": 56941,
+      "name": "Prigen",
+      "latitude": "-7.68333000",
+      "longitude": "112.61667000"
+    },
+    {
+      "id": 56942,
+      "name": "Probolinggo",
+      "latitude": "-7.75430000",
+      "longitude": "113.21590000"
+    },
+    {
+      "id": 56960,
+      "name": "Sampang",
+      "latitude": "-7.18720000",
+      "longitude": "113.23940000"
+    },
+    {
+      "id": 56975,
+      "name": "Sidoarjo",
+      "latitude": "-7.44780000",
+      "longitude": "112.71830000"
+    },
+    {
+      "id": 56983,
+      "name": "Singojuruh",
+      "latitude": "-8.31667000",
+      "longitude": "114.23333000"
+    },
+    {
+      "id": 56984,
+      "name": "Singosari",
+      "latitude": "-7.89240000",
+      "longitude": "112.66580000"
+    },
+    {
+      "id": 56986,
+      "name": "Situbondo",
+      "latitude": "-7.70623000",
+      "longitude": "114.00976000"
+    },
+    {
+      "id": 56992,
+      "name": "Soko",
+      "latitude": "-7.48315000",
+      "longitude": "112.42704000"
+    },
+    {
+      "id": 56999,
+      "name": "Srono",
+      "latitude": "-8.40003000",
+      "longitude": "114.26661000"
+    },
+    {
+      "id": 57004,
+      "name": "Sumberpucung",
+      "latitude": "-8.15856000",
+      "longitude": "112.48292000"
+    },
+    {
+      "id": 57007,
+      "name": "Sumenep",
+      "latitude": "-7.01667000",
+      "longitude": "113.86667000"
+    },
+    {
+      "id": 57011,
+      "name": "Surabaya",
+      "latitude": "-7.24917000",
+      "longitude": "112.75083000"
+    },
+    {
+      "id": 57015,
+      "name": "Tanggul",
+      "latitude": "-8.16450000",
+      "longitude": "113.45250000"
+    },
+    {
+      "id": 57016,
+      "name": "Tanggulangin",
+      "latitude": "-7.49958000",
+      "longitude": "112.69992000"
+    },
+    {
+      "id": 57039,
+      "name": "Trenggalek",
+      "latitude": "-8.07640000",
+      "longitude": "111.70641000"
+    },
+    {
+      "id": 57042,
+      "name": "Tuban",
+      "latitude": "-6.89760000",
+      "longitude": "112.06490000"
+    },
+    {
+      "id": 57044,
+      "name": "Tulangan Utara",
+      "latitude": "-7.47370000",
+      "longitude": "112.65050000"
+    },
+    {
+      "id": 57045,
+      "name": "Tulungagung",
+      "latitude": "-8.06570000",
+      "longitude": "111.90250000"
+    },
+    {
+      "id": 57058,
+      "name": "Wongsorejo",
+      "latitude": "-7.99080000",
+      "longitude": "114.40090000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 3429,
+  "name": "Southern Red Sea Region",
+  "state_code": "DK",
+  "latitude": "13.51371030",
+  "longitude": "41.76064720",
+  "type": null,
+  "cities": [
+    {
+      "id": 31884,
+      "name": "Assab",
+      "latitude": "13.00917000",
+      "longitude": "42.73944000"
+    },
+    {
+      "id": 31887,
+      "name": "Edd",
+      "latitude": "13.93088000",
+      "longitude": "41.69380000"
+    }
+  ],
+  "country": {
+    "id": 68,
+    "name": "Eritrea",
+    "iso3": "ERI",
+    "iso2": "ER",
+    "numeric_code": "232",
+    "phone_code": "291",
+    "capital": "Asmara",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "native": "ኤርትራ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "에리트레아",
+      "pt-BR": "Eritreia",
+      "pt": "Eritreia",
+      "nl": "Eritrea",
+      "hr": "Eritreja",
+      "fa": "اریتره",
+      "de": "Eritrea",
+      "es": "Eritrea",
+      "fr": "Érythrée",
+      "ja": "エリトリア",
+      "it": "Eritrea",
+      "cn": "厄立特里亚",
+      "tr": "Eritre"
+    },
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  }
+}

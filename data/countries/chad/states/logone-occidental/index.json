@@ -1,0 +1,78 @@
+{
+  "id": 3585,
+  "name": "Logone Occidental",
+  "state_code": "LO",
+  "latitude": "8.75967600",
+  "longitude": "15.87600400",
+  "type": "province",
+  "cities": [
+    {
+      "id": 105122,
+      "name": "Beïnamar",
+      "latitude": "8.66980000",
+      "longitude": "15.38130000"
+    },
+    {
+      "id": 105121,
+      "name": "Benoy",
+      "latitude": "8.98327000",
+      "longitude": "16.31991000"
+    },
+    {
+      "id": 105143,
+      "name": "Lac Wey",
+      "latitude": "8.70502000",
+      "longitude": "15.98303000"
+    },
+    {
+      "id": 105151,
+      "name": "Moundou",
+      "latitude": "8.56667000",
+      "longitude": "16.08333000"
+    }
+  ],
+  "country": {
+    "id": 43,
+    "name": "Chad",
+    "iso3": "TCD",
+    "iso2": "TD",
+    "numeric_code": "148",
+    "phone_code": "235",
+    "capital": "N'Djamena",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "native": "Tchad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "차드",
+      "pt-BR": "Chade",
+      "pt": "Chade",
+      "nl": "Tsjaad",
+      "hr": "Čad",
+      "fa": "چاد",
+      "de": "Tschad",
+      "es": "Chad",
+      "fr": "Tchad",
+      "ja": "チャド",
+      "it": "Ciad",
+      "cn": "乍得",
+      "tr": "Çad"
+    },
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  }
+}

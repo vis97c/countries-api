@@ -1,0 +1,78 @@
+{
+  "id": 2036,
+  "name": "Portuguesa",
+  "state_code": "P",
+  "latitude": "9.09439990",
+  "longitude": "-69.09702300",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130038,
+      "name": "Acarigua",
+      "latitude": "9.55451000",
+      "longitude": "-69.19564000"
+    },
+    {
+      "id": 130043,
+      "name": "Araure",
+      "latitude": "9.58144000",
+      "longitude": "-69.23851000"
+    },
+    {
+      "id": 130082,
+      "name": "Guanare",
+      "latitude": "9.04183000",
+      "longitude": "-69.74206000"
+    },
+    {
+      "id": 130168,
+      "name": "Villa Bruzual",
+      "latitude": "9.33186000",
+      "longitude": "-69.11968000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

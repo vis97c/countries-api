@@ -1,0 +1,78 @@
+{
+  "id": 2562,
+  "name": "Kebili",
+  "state_code": "73",
+  "latitude": "33.70715510",
+  "longitude": "8.97146230",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106939,
+      "name": "Douz",
+      "latitude": "33.46632000",
+      "longitude": "9.02030000"
+    },
+    {
+      "id": 106944,
+      "name": "El Golaa",
+      "latitude": "33.48485000",
+      "longitude": "9.00678000"
+    },
+    {
+      "id": 106964,
+      "name": "Jemna",
+      "latitude": "33.57778000",
+      "longitude": "9.01472000"
+    },
+    {
+      "id": 106970,
+      "name": "Kebili",
+      "latitude": "33.70439000",
+      "longitude": "8.96903000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

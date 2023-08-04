@@ -1,0 +1,60 @@
+{
+  "id": 21,
+  "name": "Berane Municipality",
+  "state_code": "03",
+  "latitude": "42.82572890",
+  "longitude": "19.90205090",
+  "type": null,
+  "cities": [
+    {
+      "id": 67345,
+      "name": "Berane",
+      "latitude": "42.84250000",
+      "longitude": "19.87333000"
+    }
+  ],
+  "country": {
+    "id": 147,
+    "name": "Montenegro",
+    "iso3": "MNE",
+    "iso2": "ME",
+    "numeric_code": "499",
+    "phone_code": "382",
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".me",
+    "native": "Црна Гора",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Podgorica",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몬테네그로",
+      "pt-BR": "Montenegro",
+      "pt": "Montenegro",
+      "nl": "Montenegro",
+      "hr": "Crna Gora",
+      "fa": "مونته‌نگرو",
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "fr": "Monténégro",
+      "ja": "モンテネグロ",
+      "it": "Montenegro",
+      "cn": "黑山",
+      "tr": "Karadağ"
+    },
+    "latitude": "42.50000000",
+    "longitude": "19.30000000",
+    "emoji": "🇲🇪",
+    "emojiU": "U+1F1F2 U+1F1EA"
+  }
+}

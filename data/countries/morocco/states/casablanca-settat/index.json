@@ -1,0 +1,180 @@
+{
+  "id": 3303,
+  "name": "Casablanca-Settat",
+  "state_code": "06",
+  "latitude": "33.21608720",
+  "longitude": "-7.43813550",
+  "type": "region",
+  "cities": [
+    {
+      "id": 67071,
+      "name": "Azemmour",
+      "latitude": "33.28952000",
+      "longitude": "-8.34250000"
+    },
+    {
+      "id": 67079,
+      "name": "Benslimane",
+      "latitude": "33.50000000",
+      "longitude": "-7.16667000"
+    },
+    {
+      "id": 67081,
+      "name": "Berrechid",
+      "latitude": "33.26553000",
+      "longitude": "-7.58754000"
+    },
+    {
+      "id": 67082,
+      "name": "Berrechid Province",
+      "latitude": "33.26582000",
+      "longitude": "-7.58142000"
+    },
+    {
+      "id": 67091,
+      "name": "Boulaouane",
+      "latitude": "32.85995000",
+      "longitude": "-8.05555000"
+    },
+    {
+      "id": 67093,
+      "name": "Bouskoura",
+      "latitude": "33.44976000",
+      "longitude": "-7.65239000"
+    },
+    {
+      "id": 67094,
+      "name": "Bouznika",
+      "latitude": "33.78942000",
+      "longitude": "-7.15968000"
+    },
+    {
+      "id": 67098,
+      "name": "Casablanca",
+      "latitude": "33.58840000",
+      "longitude": "-7.55785000"
+    },
+    {
+      "id": 67110,
+      "name": "El Jadid",
+      "latitude": "33.25682000",
+      "longitude": "-8.50882000"
+    },
+    {
+      "id": 67113,
+      "name": "El-Jadida",
+      "latitude": "32.90000000",
+      "longitude": "-8.50000000"
+    },
+    {
+      "id": 67162,
+      "name": "Mediouna",
+      "latitude": "33.52012000",
+      "longitude": "-7.50350000"
+    },
+    {
+      "id": 67170,
+      "name": "Mohammedia",
+      "latitude": "33.68607000",
+      "longitude": "-7.38298000"
+    },
+    {
+      "id": 67174,
+      "name": "Nouaceur",
+      "latitude": "33.45839000",
+      "longitude": "-7.64726000"
+    },
+    {
+      "id": 67175,
+      "name": "Oualidia",
+      "latitude": "32.73372000",
+      "longitude": "-9.03059000"
+    },
+    {
+      "id": 67188,
+      "name": "Oulad Frej",
+      "latitude": "32.95956000",
+      "longitude": "-8.22740000"
+    },
+    {
+      "id": 67203,
+      "name": "Settat",
+      "latitude": "33.00103000",
+      "longitude": "-7.61662000"
+    },
+    {
+      "id": 67204,
+      "name": "Settat Province",
+      "latitude": "33.08333000",
+      "longitude": "-7.41667000"
+    },
+    {
+      "id": 67206,
+      "name": "Sidi Bennour",
+      "latitude": "32.64896000",
+      "longitude": "-8.42686000"
+    },
+    {
+      "id": 67215,
+      "name": "Sidi Smai’il",
+      "latitude": "32.82461000",
+      "longitude": "-8.51122000"
+    },
+    {
+      "id": 67258,
+      "name": "Tit Mellil",
+      "latitude": "33.55808000",
+      "longitude": "-7.48647000"
+    },
+    {
+      "id": 67265,
+      "name": "Zawyat an Nwaçer",
+      "latitude": "33.37981000",
+      "longitude": "-7.61932000"
+    }
+  ],
+  "country": {
+    "id": 149,
+    "name": "Morocco",
+    "iso3": "MAR",
+    "iso2": "MA",
+    "numeric_code": "504",
+    "phone_code": "212",
+    "capital": "Rabat",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "native": "المغرب",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "모로코",
+      "pt-BR": "Marrocos",
+      "pt": "Marrocos",
+      "nl": "Marokko",
+      "hr": "Maroko",
+      "fa": "مراکش",
+      "de": "Marokko",
+      "es": "Marruecos",
+      "fr": "Maroc",
+      "ja": "モロッコ",
+      "it": "Marocco",
+      "cn": "摩洛哥",
+      "tr": "Fas"
+    },
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  }
+}

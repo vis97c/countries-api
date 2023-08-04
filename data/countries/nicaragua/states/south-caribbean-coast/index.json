@@ -1,0 +1,114 @@
+{
+  "id": 952,
+  "name": "South Caribbean Coast",
+  "state_code": "AS",
+  "latitude": "12.19185020",
+  "longitude": "-84.10128610",
+  "type": "autonomous region",
+  "cities": [
+    {
+      "id": 77158,
+      "name": "Bluefields",
+      "latitude": "12.01366000",
+      "longitude": "-83.76353000"
+    },
+    {
+      "id": 77160,
+      "name": "Bocana de Paiwas",
+      "latitude": "12.78571000",
+      "longitude": "-85.12269000"
+    },
+    {
+      "id": 77173,
+      "name": "Corn Island",
+      "latitude": "12.17575000",
+      "longitude": "-83.06145000"
+    },
+    {
+      "id": 77185,
+      "name": "El Rama",
+      "latitude": "12.15965000",
+      "longitude": "-84.21952000"
+    },
+    {
+      "id": 77189,
+      "name": "El Tortuguero",
+      "latitude": "12.82247000",
+      "longitude": "-84.19629000"
+    },
+    {
+      "id": 77198,
+      "name": "Kukrahill",
+      "latitude": "12.24096000",
+      "longitude": "-83.74517000"
+    },
+    {
+      "id": 77203,
+      "name": "La Cruz de Río Grande",
+      "latitude": "13.11290000",
+      "longitude": "-84.18588000"
+    },
+    {
+      "id": 77208,
+      "name": "Laguna de Perlas",
+      "latitude": "12.34294000",
+      "longitude": "-83.67123000"
+    },
+    {
+      "id": 77221,
+      "name": "Muelle de los Bueyes",
+      "latitude": "12.06999000",
+      "longitude": "-84.53503000"
+    },
+    {
+      "id": 77244,
+      "name": "Nueva Guinea",
+      "latitude": "11.68758000",
+      "longitude": "-84.45616000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

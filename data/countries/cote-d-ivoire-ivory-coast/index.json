@@ -1,0 +1,847 @@
+{
+  "id": 54,
+  "name": "Cote D'Ivoire (Ivory Coast)",
+  "iso3": "CIV",
+  "iso2": "CI",
+  "numeric_code": "384",
+  "phone_code": "225",
+  "capital": "Yamoussoukro",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".ci",
+  "native": null,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Abidjan",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "kr": "코트디부아르",
+    "pt-BR": "Costa do Marfim",
+    "pt": "Costa do Marfim",
+    "nl": "Ivoorkust",
+    "hr": "Obala Bjelokosti",
+    "fa": "ساحل عاج",
+    "de": "Elfenbeinküste",
+    "es": "Costa de Marfil",
+    "fr": "Côte d'Ivoire",
+    "ja": "コートジボワール",
+    "it": "Costa D'Avorio",
+    "cn": "科特迪瓦",
+    "tr": "Kotdivuar"
+  },
+  "latitude": "8.00000000",
+  "longitude": "-5.00000000",
+  "emoji": "🇨🇮",
+  "emojiU": "U+1F1E8 U+1F1EE",
+  "states": [
+    {
+      "id": 2634,
+      "name": "Abidjan",
+      "state_code": "AB",
+      "latitude": "5.35995170",
+      "longitude": "-4.00825630",
+      "type": null,
+      "cities": [
+        {
+          "id": 18860,
+          "name": "Abidjan",
+          "latitude": "5.30966000",
+          "longitude": "-4.01266000"
+        },
+        {
+          "id": 18861,
+          "name": "Abobo",
+          "latitude": "5.41613000",
+          "longitude": "-4.01590000"
+        },
+        {
+          "id": 18870,
+          "name": "Anyama",
+          "latitude": "5.49462000",
+          "longitude": "-4.05183000"
+        },
+        {
+          "id": 18876,
+          "name": "Bingerville",
+          "latitude": "5.35581000",
+          "longitude": "-3.88537000"
+        }
+      ]
+    },
+    {
+      "id": 2626,
+      "name": "Agnéby",
+      "state_code": "16",
+      "latitude": "5.32245030",
+      "longitude": "-4.34495290",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2636,
+      "name": "Bafing Region",
+      "state_code": "17",
+      "latitude": "8.32520470",
+      "longitude": "-7.52472430",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2643,
+      "name": "Bas-Sassandra District",
+      "state_code": "BS",
+      "latitude": "5.27983560",
+      "longitude": "-6.15269850",
+      "type": null,
+      "cities": [
+        {
+          "id": 18901,
+          "name": "Gbôklé",
+          "latitude": "4.95712000",
+          "longitude": "-6.09372000"
+        },
+        {
+          "id": 18924,
+          "name": "Nawa",
+          "latitude": "5.80112000",
+          "longitude": "-6.60313000"
+        },
+        {
+          "id": 18928,
+          "name": "San-Pédro",
+          "latitude": "4.76768000",
+          "longitude": "-6.65033000"
+        },
+        {
+          "id": 18929,
+          "name": "Sassandra",
+          "latitude": "4.95384000",
+          "longitude": "-6.08531000"
+        },
+        {
+          "id": 18933,
+          "name": "Tabou",
+          "latitude": "4.42295000",
+          "longitude": "-7.35280000"
+        }
+      ]
+    },
+    {
+      "id": 2635,
+      "name": "Bas-Sassandra Region",
+      "state_code": "09",
+      "latitude": "5.35679160",
+      "longitude": "-6.74939930",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2654,
+      "name": "Comoé District",
+      "state_code": "CM",
+      "latitude": "5.55279300",
+      "longitude": "-3.25836260",
+      "type": null,
+      "cities": [
+        {
+          "id": 18859,
+          "name": "Abengourou",
+          "latitude": "6.72972000",
+          "longitude": "-3.49639000"
+        },
+        {
+          "id": 18862,
+          "name": "Aboisso",
+          "latitude": "5.46779000",
+          "longitude": "-3.20711000"
+        },
+        {
+          "id": 18863,
+          "name": "Adiaké",
+          "latitude": "5.28634000",
+          "longitude": "-3.30403000"
+        },
+        {
+          "id": 18867,
+          "name": "Agnibilékrou",
+          "latitude": "7.13113000",
+          "longitude": "-3.20415000"
+        },
+        {
+          "id": 18872,
+          "name": "Ayamé",
+          "latitude": "5.60520000",
+          "longitude": "-3.15709000"
+        },
+        {
+          "id": 18880,
+          "name": "Bonoua",
+          "latitude": "5.27247000",
+          "longitude": "-3.59625000"
+        },
+        {
+          "id": 18903,
+          "name": "Grand-Bassam",
+          "latitude": "5.21180000",
+          "longitude": "-3.73884000"
+        },
+        {
+          "id": 18913,
+          "name": "Indénié-Djuablin",
+          "latitude": "6.74434000",
+          "longitude": "-3.49400000"
+        },
+        {
+          "id": 18931,
+          "name": "Sud-Comoé",
+          "latitude": "5.49961000",
+          "longitude": "-3.24080000"
+        }
+      ]
+    },
+    {
+      "id": 2644,
+      "name": "Denguélé District",
+      "state_code": "DN",
+      "latitude": "48.07077630",
+      "longitude": "-68.56093410",
+      "type": null,
+      "cities": [
+        {
+          "id": 18898,
+          "name": "Folon",
+          "latitude": "9.81241000",
+          "longitude": "-7.51894000"
+        },
+        {
+          "id": 18915,
+          "name": "Kabadougou",
+          "latitude": "9.60571000",
+          "longitude": "-7.43774000"
+        },
+        {
+          "id": 18925,
+          "name": "Odienné",
+          "latitude": "9.50511000",
+          "longitude": "-7.56433000"
+        }
+      ]
+    },
+    {
+      "id": 2642,
+      "name": "Denguélé Region",
+      "state_code": "10",
+      "latitude": "9.46623720",
+      "longitude": "-7.43813550",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2645,
+      "name": "Dix-Huit Montagnes",
+      "state_code": "06",
+      "latitude": "7.37623730",
+      "longitude": "-7.43813550",
+      "type": null,
+      "cities": [
+        {
+          "id": 18874,
+          "name": "Bangolo",
+          "latitude": "7.01232000",
+          "longitude": "-7.48639000"
+        },
+        {
+          "id": 18875,
+          "name": "Biankouma",
+          "latitude": "7.73909000",
+          "longitude": "-7.61377000"
+        },
+        {
+          "id": 18889,
+          "name": "Cavally",
+          "latitude": "6.56343000",
+          "longitude": "-7.92526000"
+        },
+        {
+          "id": 18893,
+          "name": "Danané",
+          "latitude": "7.25957000",
+          "longitude": "-8.15498000"
+        },
+        {
+          "id": 18897,
+          "name": "Duekoué",
+          "latitude": "6.74202000",
+          "longitude": "-7.34918000"
+        },
+        {
+          "id": 18908,
+          "name": "Guémon",
+          "latitude": "7.09300000",
+          "longitude": "-7.17785000"
+        },
+        {
+          "id": 18907,
+          "name": "Guiglo",
+          "latitude": "6.54368000",
+          "longitude": "-7.49350000"
+        },
+        {
+          "id": 18919,
+          "name": "Man",
+          "latitude": "7.41251000",
+          "longitude": "-7.55383000"
+        },
+        {
+          "id": 18936,
+          "name": "Tonkpi",
+          "latitude": "7.56785000",
+          "longitude": "-7.60941000"
+        },
+        {
+          "id": 18938,
+          "name": "Toulépleu Gueré",
+          "latitude": "6.57395000",
+          "longitude": "-8.42592000"
+        }
+      ]
+    },
+    {
+      "id": 2633,
+      "name": "Fromager",
+      "state_code": "18",
+      "latitude": "45.54502130",
+      "longitude": "-73.60462230",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2651,
+      "name": "Gôh-Djiboua District",
+      "state_code": "GD",
+      "latitude": "5.87113930",
+      "longitude": "-5.56172790",
+      "type": null,
+      "cities": [
+        {
+          "id": 18896,
+          "name": "Divo",
+          "latitude": "5.83739000",
+          "longitude": "-5.35723000"
+        },
+        {
+          "id": 18899,
+          "name": "Gagnoa",
+          "latitude": "6.13193000",
+          "longitude": "-5.95060000"
+        },
+        {
+          "id": 18909,
+          "name": "Gôh",
+          "latitude": "6.14459000",
+          "longitude": "-5.92644000"
+        },
+        {
+          "id": 18906,
+          "name": "Guibéroua",
+          "latitude": "6.23869000",
+          "longitude": "-6.17147000"
+        },
+        {
+          "id": 18917,
+          "name": "Lakota",
+          "latitude": "5.84752000",
+          "longitude": "-5.68200000"
+        },
+        {
+          "id": 18918,
+          "name": "Lôh-Djiboua",
+          "latitude": "5.82483000",
+          "longitude": "-5.47668000"
+        },
+        {
+          "id": 18926,
+          "name": "Oumé",
+          "latitude": "6.38309000",
+          "longitude": "-5.41759000"
+        }
+      ]
+    },
+    {
+      "id": 2638,
+      "name": "Haut-Sassandra",
+      "state_code": "02",
+      "latitude": "6.87578480",
+      "longitude": "-6.57833870",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2632,
+      "name": "Lacs District",
+      "state_code": "LC",
+      "latitude": "48.19801690",
+      "longitude": "-80.45644120",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2640,
+      "name": "Lacs Region",
+      "state_code": "07",
+      "latitude": "47.73958660",
+      "longitude": "-70.41866520",
+      "type": null,
+      "cities": [
+        {
+          "id": 18871,
+          "name": "Arrah",
+          "latitude": "6.67342000",
+          "longitude": "-3.96938000"
+        },
+        {
+          "id": 18886,
+          "name": "Bélier",
+          "latitude": "7.02582000",
+          "longitude": "-5.06744000"
+        },
+        {
+          "id": 18877,
+          "name": "Bocanda",
+          "latitude": "7.06264000",
+          "longitude": "-4.49948000"
+        },
+        {
+          "id": 18879,
+          "name": "Bongouanou",
+          "latitude": "6.65175000",
+          "longitude": "-4.20406000"
+        },
+        {
+          "id": 18894,
+          "name": "Daoukro",
+          "latitude": "7.05910000",
+          "longitude": "-3.96310000"
+        },
+        {
+          "id": 18895,
+          "name": "Dimbokro",
+          "latitude": "6.64678000",
+          "longitude": "-4.70519000"
+        },
+        {
+          "id": 18912,
+          "name": "Iffou",
+          "latitude": "7.11509000",
+          "longitude": "-3.95027000"
+        },
+        {
+          "id": 18922,
+          "name": "Moronou",
+          "latitude": "6.66830000",
+          "longitude": "-4.13155000"
+        },
+        {
+          "id": 18923,
+          "name": "N'Zi",
+          "latitude": "6.82803000",
+          "longitude": "-4.58130000"
+        },
+        {
+          "id": 18939,
+          "name": "Toumodi",
+          "latitude": "6.55799000",
+          "longitude": "-5.01769000"
+        },
+        {
+          "id": 18942,
+          "name": "Yamoussoukro",
+          "latitude": "6.82055000",
+          "longitude": "-5.27674000"
+        }
+      ]
+    },
+    {
+      "id": 2627,
+      "name": "Lagunes District",
+      "state_code": "LG",
+      "latitude": "5.88273340",
+      "longitude": "-4.23333550",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2639,
+      "name": "Lagunes region",
+      "state_code": "01",
+      "latitude": "5.88273340",
+      "longitude": "-4.23333550",
+      "type": null,
+      "cities": [
+        {
+          "id": 18864,
+          "name": "Adzopé",
+          "latitude": "6.10694000",
+          "longitude": "-3.86194000"
+        },
+        {
+          "id": 18865,
+          "name": "Affery",
+          "latitude": "6.32035000",
+          "longitude": "-3.95235000"
+        },
+        {
+          "id": 18866,
+          "name": "Agboville",
+          "latitude": "5.92801000",
+          "longitude": "-4.21319000"
+        },
+        {
+          "id": 18868,
+          "name": "Agnéby-Tiassa",
+          "latitude": "5.79488000",
+          "longitude": "-4.37187000"
+        },
+        {
+          "id": 18869,
+          "name": "Akoupé",
+          "latitude": "6.38423000",
+          "longitude": "-3.88759000"
+        },
+        {
+          "id": 18891,
+          "name": "Dabou",
+          "latitude": "5.32556000",
+          "longitude": "-4.37685000"
+        },
+        {
+          "id": 18904,
+          "name": "Grand-Lahou",
+          "latitude": "5.25068000",
+          "longitude": "-5.00333000"
+        },
+        {
+          "id": 18905,
+          "name": "Grands-Ponts",
+          "latitude": "5.30487000",
+          "longitude": "-4.39247000"
+        },
+        {
+          "id": 18935,
+          "name": "Tiassalé",
+          "latitude": "5.89839000",
+          "longitude": "-4.82293000"
+        }
+      ]
+    },
+    {
+      "id": 2631,
+      "name": "Marahoué Region",
+      "state_code": "12",
+      "latitude": "6.88462070",
+      "longitude": "-5.89871390",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2629,
+      "name": "Montagnes District",
+      "state_code": "MG",
+      "latitude": "7.37623730",
+      "longitude": "-7.43813550",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2646,
+      "name": "Moyen-Cavally",
+      "state_code": "19",
+      "latitude": "6.52087930",
+      "longitude": "-7.61142170",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2630,
+      "name": "Moyen-Comoé",
+      "state_code": "05",
+      "latitude": "6.65149170",
+      "longitude": "-3.50034540",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2655,
+      "name": "N'zi-Comoé",
+      "state_code": "11",
+      "latitude": "7.24567490",
+      "longitude": "-4.23333550",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2648,
+      "name": "Sassandra-Marahoué District",
+      "state_code": "SM",
+      "latitude": "6.88033480",
+      "longitude": "-6.23759470",
+      "type": null,
+      "cities": [
+        {
+          "id": 18882,
+          "name": "Bouaflé",
+          "latitude": "6.99041000",
+          "longitude": "-5.74420000"
+        },
+        {
+          "id": 18892,
+          "name": "Daloa",
+          "latitude": "6.87735000",
+          "longitude": "-6.45022000"
+        },
+        {
+          "id": 18911,
+          "name": "Haut-Sassandra",
+          "latitude": "6.66961000",
+          "longitude": "-6.50116000"
+        },
+        {
+          "id": 18914,
+          "name": "Issia",
+          "latitude": "6.49224000",
+          "longitude": "-6.58558000"
+        },
+        {
+          "id": 18921,
+          "name": "Marahoué",
+          "latitude": "7.03252000",
+          "longitude": "-5.80215000"
+        },
+        {
+          "id": 18940,
+          "name": "Vavoua",
+          "latitude": "7.38194000",
+          "longitude": "-6.47778000"
+        },
+        {
+          "id": 18943,
+          "name": "Zuénoula",
+          "latitude": "7.43027000",
+          "longitude": "-6.05054000"
+        }
+      ]
+    },
+    {
+      "id": 2625,
+      "name": "Savanes Region",
+      "state_code": "03",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2628,
+      "name": "Sud-Bandama",
+      "state_code": "15",
+      "latitude": "5.53570830",
+      "longitude": "-5.56172790",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2652,
+      "name": "Sud-Comoé",
+      "state_code": "13",
+      "latitude": "5.55279300",
+      "longitude": "-3.25836260",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2637,
+      "name": "Vallée du Bandama District",
+      "state_code": "VB",
+      "latitude": "8.27897800",
+      "longitude": "-4.89356270",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2647,
+      "name": "Vallée du Bandama Region",
+      "state_code": "04",
+      "latitude": "8.27897800",
+      "longitude": "-4.89356270",
+      "type": null,
+      "cities": [
+        {
+          "id": 18887,
+          "name": "Béoumi",
+          "latitude": "7.67395000",
+          "longitude": "-5.58085000"
+        },
+        {
+          "id": 18881,
+          "name": "Botro",
+          "latitude": "7.85249000",
+          "longitude": "-5.31063000"
+        },
+        {
+          "id": 18883,
+          "name": "Bouaké",
+          "latitude": "7.69385000",
+          "longitude": "-5.03031000"
+        },
+        {
+          "id": 18890,
+          "name": "Dabakala",
+          "latitude": "8.36321000",
+          "longitude": "-4.42863000"
+        },
+        {
+          "id": 18900,
+          "name": "Gbêkê",
+          "latitude": "7.70271000",
+          "longitude": "-5.28511000"
+        },
+        {
+          "id": 18910,
+          "name": "Hambol",
+          "latitude": "8.30368000",
+          "longitude": "-5.15396000"
+        },
+        {
+          "id": 18916,
+          "name": "Katiola",
+          "latitude": "8.13728000",
+          "longitude": "-5.10095000"
+        },
+        {
+          "id": 18927,
+          "name": "Sakassou",
+          "latitude": "7.45462000",
+          "longitude": "-5.29263000"
+        }
+      ]
+    },
+    {
+      "id": 2650,
+      "name": "Woroba District",
+      "state_code": "WR",
+      "latitude": "8.24913720",
+      "longitude": "-6.92091350",
+      "type": null,
+      "cities": [
+        {
+          "id": 18873,
+          "name": "Bafing",
+          "latitude": "8.40611000",
+          "longitude": "-7.58048000"
+        },
+        {
+          "id": 18888,
+          "name": "Béré",
+          "latitude": "8.18952000",
+          "longitude": "-6.17157000"
+        },
+        {
+          "id": 18920,
+          "name": "Mankono",
+          "latitude": "8.05861000",
+          "longitude": "-6.18972000"
+        },
+        {
+          "id": 18932,
+          "name": "Séguéla",
+          "latitude": "7.96111000",
+          "longitude": "-6.67306000"
+        },
+        {
+          "id": 18937,
+          "name": "Touba",
+          "latitude": "8.28333000",
+          "longitude": "-7.68333000"
+        },
+        {
+          "id": 18941,
+          "name": "Worodougou",
+          "latitude": "8.16482000",
+          "longitude": "-6.66595000"
+        }
+      ]
+    },
+    {
+      "id": 2649,
+      "name": "Worodougou",
+      "state_code": "14",
+      "latitude": "8.25489620",
+      "longitude": "-6.57833870",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2653,
+      "name": "Yamoussoukro",
+      "state_code": "YM",
+      "latitude": "6.82762280",
+      "longitude": "-5.28934330",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2641,
+      "name": "Zanzan Region",
+      "state_code": "ZZ",
+      "latitude": "8.82079040",
+      "longitude": "-3.41955270",
+      "type": null,
+      "cities": [
+        {
+          "id": 18878,
+          "name": "Bondoukou",
+          "latitude": "8.04020000",
+          "longitude": "-2.80003000"
+        },
+        {
+          "id": 18884,
+          "name": "Bouna",
+          "latitude": "9.26927000",
+          "longitude": "-2.99510000"
+        },
+        {
+          "id": 18885,
+          "name": "Bounkani",
+          "latitude": "9.47841000",
+          "longitude": "-3.31238000"
+        },
+        {
+          "id": 18902,
+          "name": "Gontougo",
+          "latitude": "7.87132000",
+          "longitude": "-3.07068000"
+        },
+        {
+          "id": 18930,
+          "name": "Sinfra",
+          "latitude": "6.62103000",
+          "longitude": "-5.91144000"
+        },
+        {
+          "id": 18934,
+          "name": "Tanda",
+          "latitude": "7.80335000",
+          "longitude": "-3.16832000"
+        }
+      ]
+    }
+  ]
+}

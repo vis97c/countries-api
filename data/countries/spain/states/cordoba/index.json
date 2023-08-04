@@ -1,0 +1,518 @@
+{
+  "id": 5097,
+  "name": "Córdoba",
+  "state_code": "CO",
+  "latitude": "36.51638510",
+  "longitude": "-6.29997670",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31929,
+      "name": "Adamuz",
+      "latitude": "38.02674000",
+      "longitude": "-4.52231000"
+    },
+    {
+      "id": 151367,
+      "name": "Aguilar de la Frontera",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32087,
+      "name": "Alcaracejos",
+      "latitude": "38.38333000",
+      "longitude": "-4.96667000"
+    },
+    {
+      "id": 32277,
+      "name": "Almedinilla",
+      "latitude": "37.43902000",
+      "longitude": "-4.09052000"
+    },
+    {
+      "id": 32295,
+      "name": "Almodóvar del Río",
+      "latitude": "37.81070000",
+      "longitude": "-5.02037000"
+    },
+    {
+      "id": 32596,
+      "name": "Añora",
+      "latitude": "38.41667000",
+      "longitude": "-4.90000000"
+    },
+    {
+      "id": 32607,
+      "name": "Baena",
+      "latitude": "37.61670000",
+      "longitude": "-4.32245000"
+    },
+    {
+      "id": 32734,
+      "name": "Belalcázar",
+      "latitude": "38.57566000",
+      "longitude": "-5.16653000"
+    },
+    {
+      "id": 33059,
+      "name": "Bélmez",
+      "latitude": "38.26667000",
+      "longitude": "-5.20000000"
+    },
+    {
+      "id": 32771,
+      "name": "Benamejí",
+      "latitude": "37.26833000",
+      "longitude": "-4.54123000"
+    },
+    {
+      "id": 151368,
+      "name": "Blázquez Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33014,
+      "name": "Bujalance",
+      "latitude": "37.89556000",
+      "longitude": "-4.38074000"
+    },
+    {
+      "id": 33098,
+      "name": "Cabra",
+      "latitude": "37.47249000",
+      "longitude": "-4.44206000"
+    },
+    {
+      "id": 33540,
+      "name": "Cañete de las Torres",
+      "latitude": "37.86717000",
+      "longitude": "-4.31835000"
+    },
+    {
+      "id": 33290,
+      "name": "Carcabuey",
+      "latitude": "37.44420000",
+      "longitude": "-4.27471000"
+    },
+    {
+      "id": 33298,
+      "name": "Cardeña",
+      "latitude": "38.27023000",
+      "longitude": "-4.32358000"
+    },
+    {
+      "id": 151369,
+      "name": "Carlota La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151370,
+      "name": "Carpio El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33491,
+      "name": "Castro del Río",
+      "latitude": "37.69125000",
+      "longitude": "-4.48058000"
+    },
+    {
+      "id": 33762,
+      "name": "Conquista",
+      "latitude": "38.40000000",
+      "longitude": "-4.50000000"
+    },
+    {
+      "id": 33904,
+      "name": "Córdoba",
+      "latitude": "37.89155000",
+      "longitude": "-4.77275000"
+    },
+    {
+      "id": 33954,
+      "name": "Doña Mencía",
+      "latitude": "37.55346000",
+      "longitude": "-4.35602000"
+    },
+    {
+      "id": 33950,
+      "name": "Dos Torres",
+      "latitude": "38.45000000",
+      "longitude": "-4.90000000"
+    },
+    {
+      "id": 34047,
+      "name": "Encinas Reales",
+      "latitude": "37.27419000",
+      "longitude": "-4.48828000"
+    },
+    {
+      "id": 34112,
+      "name": "Espejo",
+      "latitude": "37.67980000",
+      "longitude": "-4.55355000"
+    },
+    {
+      "id": 34116,
+      "name": "Espiel",
+      "latitude": "38.20000000",
+      "longitude": "-5.01667000"
+    },
+    {
+      "id": 34175,
+      "name": "Fernán-Núñez",
+      "latitude": "37.67044000",
+      "longitude": "-4.72640000"
+    },
+    {
+      "id": 34304,
+      "name": "Fuente la Lancha",
+      "latitude": "38.41667000",
+      "longitude": "-5.03333000"
+    },
+    {
+      "id": 34292,
+      "name": "Fuente Obejuna",
+      "latitude": "38.26667000",
+      "longitude": "-5.41667000"
+    },
+    {
+      "id": 34293,
+      "name": "Fuente Palmera",
+      "latitude": "37.70494000",
+      "longitude": "-5.09965000"
+    },
+    {
+      "id": 34306,
+      "name": "Fuente-Tójar",
+      "latitude": "37.51095000",
+      "longitude": "-4.14631000"
+    },
+    {
+      "id": 151371,
+      "name": "Granjuela La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34523,
+      "name": "Guadalcázar",
+      "latitude": "37.75738000",
+      "longitude": "-4.94387000"
+    },
+    {
+      "id": 151372,
+      "name": "Guijo El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34627,
+      "name": "Hinojosa del Duque",
+      "latitude": "38.50057000",
+      "longitude": "-5.14651000"
+    },
+    {
+      "id": 34660,
+      "name": "Hornachuelos",
+      "latitude": "37.83333000",
+      "longitude": "-5.23333000"
+    },
+    {
+      "id": 34782,
+      "name": "Iznájar",
+      "latitude": "37.25766000",
+      "longitude": "-4.30836000"
+    },
+    {
+      "id": 35149,
+      "name": "Lucena",
+      "latitude": "37.40881000",
+      "longitude": "-4.48522000"
+    },
+    {
+      "id": 35169,
+      "name": "Luque",
+      "latitude": "37.55797000",
+      "longitude": "-4.27974000"
+    },
+    {
+      "id": 35533,
+      "name": "Montalbán de Córdoba",
+      "latitude": "37.57996000",
+      "longitude": "-4.74935000"
+    },
+    {
+      "id": 35558,
+      "name": "Montemayor",
+      "latitude": "37.64790000",
+      "longitude": "-4.69779000"
+    },
+    {
+      "id": 35577,
+      "name": "Montilla",
+      "latitude": "37.58627000",
+      "longitude": "-4.63805000"
+    },
+    {
+      "id": 35583,
+      "name": "Montoro",
+      "latitude": "38.02409000",
+      "longitude": "-4.38340000"
+    },
+    {
+      "id": 35585,
+      "name": "Monturque",
+      "latitude": "37.47186000",
+      "longitude": "-4.58164000"
+    },
+    {
+      "id": 35629,
+      "name": "Moriles",
+      "latitude": "37.43670000",
+      "longitude": "-4.60761000"
+    },
+    {
+      "id": 151373,
+      "name": "Nueva Carteya",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35853,
+      "name": "Obejo",
+      "latitude": "38.13265000",
+      "longitude": "-4.80018000"
+    },
+    {
+      "id": 36024,
+      "name": "Palenciana",
+      "latitude": "37.24851000",
+      "longitude": "-4.58261000"
+    },
+    {
+      "id": 36029,
+      "name": "Palma del Río",
+      "latitude": "37.70024000",
+      "longitude": "-5.28121000"
+    },
+    {
+      "id": 36098,
+      "name": "Pedro Abad",
+      "latitude": "37.96686000",
+      "longitude": "-4.45560000"
+    },
+    {
+      "id": 36102,
+      "name": "Pedroche",
+      "latitude": "38.42848000",
+      "longitude": "-4.76325000"
+    },
+    {
+      "id": 36174,
+      "name": "Peñarroya-Pueblonuevo",
+      "latitude": "38.30000000",
+      "longitude": "-5.26667000"
+    },
+    {
+      "id": 36303,
+      "name": "Posadas",
+      "latitude": "37.80205000",
+      "longitude": "-5.10726000"
+    },
+    {
+      "id": 36323,
+      "name": "Pozoblanco",
+      "latitude": "38.37906000",
+      "longitude": "-4.84827000"
+    },
+    {
+      "id": 36354,
+      "name": "Priego de Córdoba",
+      "latitude": "37.43807000",
+      "longitude": "-4.19523000"
+    },
+    {
+      "id": 151374,
+      "name": "Puente Genil",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151375,
+      "name": "Rambla La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36706,
+      "name": "Rute",
+      "latitude": "37.32690000",
+      "longitude": "-4.36827000"
+    },
+    {
+      "id": 36921,
+      "name": "San Sebastián de los Ballesteros",
+      "latitude": "37.65376000",
+      "longitude": "-4.82409000"
+    },
+    {
+      "id": 37049,
+      "name": "Santa Eufemia",
+      "latitude": "38.60000000",
+      "longitude": "-4.90000000"
+    },
+    {
+      "id": 37104,
+      "name": "Santaella",
+      "latitude": "37.56294000",
+      "longitude": "-4.84362000"
+    },
+    {
+      "id": 37513,
+      "name": "Torrecampo",
+      "latitude": "38.46667000",
+      "longitude": "-4.66667000"
+    },
+    {
+      "id": 37823,
+      "name": "Valenzuela",
+      "latitude": "37.77560000",
+      "longitude": "-4.22038000"
+    },
+    {
+      "id": 151376,
+      "name": "Valsequillo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151377,
+      "name": "Victoria La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38014,
+      "name": "Villa del Río",
+      "latitude": "37.98108000",
+      "longitude": "-4.29003000"
+    },
+    {
+      "id": 38056,
+      "name": "Villafranca de Córdoba",
+      "latitude": "37.96257000",
+      "longitude": "-4.54547000"
+    },
+    {
+      "id": 38081,
+      "name": "Villaharta",
+      "latitude": "38.13333000",
+      "longitude": "-4.90000000"
+    },
+    {
+      "id": 38180,
+      "name": "Villanueva de Córdoba",
+      "latitude": "38.32277000",
+      "longitude": "-4.62873000"
+    },
+    {
+      "id": 38217,
+      "name": "Villanueva del Duque",
+      "latitude": "38.38333000",
+      "longitude": "-5.00000000"
+    },
+    {
+      "id": 151378,
+      "name": "Villanueva del Rey",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38264,
+      "name": "Villaralto",
+      "latitude": "38.45000000",
+      "longitude": "-4.98333000"
+    },
+    {
+      "id": 38356,
+      "name": "Villaviciosa de Córdoba",
+      "latitude": "38.08333000",
+      "longitude": "-5.01667000"
+    },
+    {
+      "id": 151379,
+      "name": "Viso El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38507,
+      "name": "Zuheros",
+      "latitude": "37.54332000",
+      "longitude": "-4.31531000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

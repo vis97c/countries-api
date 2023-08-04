@@ -1,0 +1,66 @@
+{
+  "id": 4080,
+  "name": "Saint Patrick Parish",
+  "state_code": "09",
+  "latitude": null,
+  "longitude": null,
+  "type": null,
+  "cities": [
+    {
+      "id": 31002,
+      "name": "Berekua",
+      "latitude": "15.23333000",
+      "longitude": "-61.31667000"
+    },
+    {
+      "id": 31006,
+      "name": "La Plaine",
+      "latitude": "15.32768000",
+      "longitude": "-61.24753000"
+    }
+  ],
+  "country": {
+    "id": 61,
+    "name": "Dominica",
+    "iso3": "DMA",
+    "iso2": "DM",
+    "numeric_code": "212",
+    "phone_code": "+1-767",
+    "capital": "Roseau",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".dm",
+    "native": "Dominica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Dominica",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "도미니카 연방",
+      "pt-BR": "Dominica",
+      "pt": "Dominica",
+      "nl": "Dominica",
+      "hr": "Dominika",
+      "fa": "دومینیکا",
+      "de": "Dominica",
+      "es": "Dominica",
+      "fr": "Dominique",
+      "ja": "ドミニカ国",
+      "it": "Dominica",
+      "cn": "多米尼加",
+      "tr": "Dominika"
+    },
+    "latitude": "15.41666666",
+    "longitude": "-61.33333333",
+    "emoji": "🇩🇲",
+    "emojiU": "U+1F1E9 U+1F1F2"
+  }
+}

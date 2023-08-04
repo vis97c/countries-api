@@ -1,0 +1,192 @@
+{
+  "id": 147,
+  "name": "Jambyl Region",
+  "state_code": "ZHA",
+  "latitude": "44.22203080",
+  "longitude": "72.36579670",
+  "type": null,
+  "cities": [
+    {
+      "id": 65610,
+      "name": "Aqbaqay",
+      "latitude": "45.00000000",
+      "longitude": "72.78333000"
+    },
+    {
+      "id": 65663,
+      "name": "Chu",
+      "latitude": "43.60334000",
+      "longitude": "73.75919000"
+    },
+    {
+      "id": 65680,
+      "name": "Georgiyevka",
+      "latitude": "43.03882000",
+      "longitude": "74.71287000"
+    },
+    {
+      "id": 65683,
+      "name": "Granitogorsk",
+      "latitude": "42.74400000",
+      "longitude": "73.46848000"
+    },
+    {
+      "id": 65692,
+      "name": "Karatau",
+      "latitude": "43.17869000",
+      "longitude": "70.46768000"
+    },
+    {
+      "id": 65696,
+      "name": "Khantaū",
+      "latitude": "44.22744000",
+      "longitude": "73.79555000"
+    },
+    {
+      "id": 65717,
+      "name": "Lugovoy",
+      "latitude": "42.94197000",
+      "longitude": "72.76098000"
+    },
+    {
+      "id": 65718,
+      "name": "Lugovoye",
+      "latitude": "42.91010000",
+      "longitude": "72.72066000"
+    },
+    {
+      "id": 65728,
+      "name": "Merke",
+      "latitude": "42.86976000",
+      "longitude": "73.18463000"
+    },
+    {
+      "id": 65730,
+      "name": "Moyynkum",
+      "latitude": "44.28461000",
+      "longitude": "72.93920000"
+    },
+    {
+      "id": 65733,
+      "name": "Mynaral",
+      "latitude": "45.41611000",
+      "longitude": "73.68444000"
+    },
+    {
+      "id": 65743,
+      "name": "Oytal",
+      "latitude": "42.90573000",
+      "longitude": "73.26972000"
+    },
+    {
+      "id": 65766,
+      "name": "Sarykemer",
+      "latitude": "43.00000000",
+      "longitude": "71.50000000"
+    },
+    {
+      "id": 65791,
+      "name": "Shyghanaq",
+      "latitude": "44.83056000",
+      "longitude": "70.00194000"
+    },
+    {
+      "id": 65803,
+      "name": "Taraz",
+      "latitude": "42.90000000",
+      "longitude": "71.36667000"
+    },
+    {
+      "id": 65839,
+      "name": "Zhangatas",
+      "latitude": "43.56222000",
+      "longitude": "69.73428000"
+    }
+  ],
+  "country": {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "numeric_code": "398",
+    "phone_code": "7",
+    "capital": "Astana",
+    "currency": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "лв",
+    "tld": ".kz",
+    "native": "Қазақстан",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Almaty",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "tzName": "Alma-Ata Time[1"
+      },
+      {
+        "zoneName": "Asia/Aqtau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Aqtobe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Atyrau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "tzName": "Moscow Daylight Time+1"
+      },
+      {
+        "zoneName": "Asia/Oral",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "tzName": "Oral Time"
+      },
+      {
+        "zoneName": "Asia/Qostanay",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "tzName": "Qyzylorda Summer Time"
+      },
+      {
+        "zoneName": "Asia/Qyzylorda",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "tzName": "Qyzylorda Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "카자흐스탄",
+      "pt-BR": "Cazaquistão",
+      "pt": "Cazaquistão",
+      "nl": "Kazachstan",
+      "hr": "Kazahstan",
+      "fa": "قزاقستان",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "fr": "Kazakhstan",
+      "ja": "カザフスタン",
+      "it": "Kazakistan",
+      "cn": "哈萨克斯坦",
+      "tr": "Kazakistan"
+    },
+    "latitude": "48.00000000",
+    "longitude": "68.00000000",
+    "emoji": "🇰🇿",
+    "emojiU": "U+1F1F0 U+1F1FF"
+  }
+}

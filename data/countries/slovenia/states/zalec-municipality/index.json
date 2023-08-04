@@ -1,0 +1,78 @@
+{
+  "id": 4258,
+  "name": "Žalec Municipality",
+  "state_code": "190",
+  "latitude": "46.25197120",
+  "longitude": "15.16500720",
+  "type": null,
+  "cities": [
+    {
+      "id": 104111,
+      "name": "Gotovlje",
+      "latitude": "46.27418000",
+      "longitude": "15.15186000"
+    },
+    {
+      "id": 104344,
+      "name": "Šempeter v Savinj. Dolini",
+      "latitude": "46.25639000",
+      "longitude": "15.12194000"
+    },
+    {
+      "id": 104324,
+      "name": "Zabukovica",
+      "latitude": "46.21408000",
+      "longitude": "15.15954000"
+    },
+    {
+      "id": 104364,
+      "name": "Žalec",
+      "latitude": "46.25151000",
+      "longitude": "15.16482000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

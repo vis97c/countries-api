@@ -1,0 +1,138 @@
+{
+  "id": 275,
+  "name": "Granma Province",
+  "state_code": "12",
+  "latitude": "20.38449020",
+  "longitude": "-76.64127120",
+  "type": null,
+  "cities": [
+    {
+      "id": 21812,
+      "name": "Bartolomé Masó",
+      "latitude": "20.16635000",
+      "longitude": "-76.94291000"
+    },
+    {
+      "id": 21815,
+      "name": "Bayamo",
+      "latitude": "20.37417000",
+      "longitude": "-76.64361000"
+    },
+    {
+      "id": 21827,
+      "name": "Campechuela",
+      "latitude": "20.23329000",
+      "longitude": "-77.27990000"
+    },
+    {
+      "id": 21829,
+      "name": "Cauto Cristo",
+      "latitude": "20.55709000",
+      "longitude": "-76.47270000"
+    },
+    {
+      "id": 21862,
+      "name": "Guisa",
+      "latitude": "20.25494000",
+      "longitude": "-76.53930000"
+    },
+    {
+      "id": 21875,
+      "name": "Jiguaní",
+      "latitude": "20.36785000",
+      "longitude": "-76.42741000"
+    },
+    {
+      "id": 21894,
+      "name": "Manzanillo",
+      "latitude": "20.34173000",
+      "longitude": "-77.12126000"
+    },
+    {
+      "id": 21898,
+      "name": "Media Luna",
+      "latitude": "20.14298000",
+      "longitude": "-77.43532000"
+    },
+    {
+      "id": 21907,
+      "name": "Municipio de Bayamo",
+      "latitude": "20.42511000",
+      "longitude": "-76.68614000"
+    },
+    {
+      "id": 21922,
+      "name": "Municipio de Manzanillo",
+      "latitude": "20.24732000",
+      "longitude": "-77.10273000"
+    },
+    {
+      "id": 21927,
+      "name": "Municipio de Niquero",
+      "latitude": "19.93912000",
+      "longitude": "-77.57085000"
+    },
+    {
+      "id": 21936,
+      "name": "Niquero",
+      "latitude": "20.04698000",
+      "longitude": "-77.58089000"
+    },
+    {
+      "id": 21954,
+      "name": "Río Cauto",
+      "latitude": "20.55971000",
+      "longitude": "-76.91673000"
+    },
+    {
+      "id": 21985,
+      "name": "Yara",
+      "latitude": "20.27465000",
+      "longitude": "-76.95132000"
+    }
+  ],
+  "country": {
+    "id": 56,
+    "name": "Cuba",
+    "iso3": "CUB",
+    "iso2": "CU",
+    "numeric_code": "192",
+    "phone_code": "53",
+    "capital": "Havana",
+    "currency": "CUP",
+    "currency_name": "Cuban peso",
+    "currency_symbol": "$",
+    "tld": ".cu",
+    "native": "Cuba",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Havana",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "CST",
+        "tzName": "Cuba Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "쿠바",
+      "pt-BR": "Cuba",
+      "pt": "Cuba",
+      "nl": "Cuba",
+      "hr": "Kuba",
+      "fa": "کوبا",
+      "de": "Kuba",
+      "es": "Cuba",
+      "fr": "Cuba",
+      "ja": "キューバ",
+      "it": "Cuba",
+      "cn": "古巴",
+      "tr": "Küba"
+    },
+    "latitude": "21.50000000",
+    "longitude": "-80.00000000",
+    "emoji": "🇨🇺",
+    "emojiU": "U+1F1E8 U+1F1FA"
+  }
+}

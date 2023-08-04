@@ -1,0 +1,912 @@
+{
+  "id": 1362,
+  "name": "Zamboanga Sibugay",
+  "state_code": "ZSI",
+  "latitude": "7.52252470",
+  "longitude": "122.31075170",
+  "type": "province",
+  "cities": [
+    {
+      "id": 81213,
+      "name": "Alicia",
+      "latitude": "7.51389000",
+      "longitude": "122.93000000"
+    },
+    {
+      "id": 81335,
+      "name": "Aurora",
+      "latitude": "7.95060000",
+      "longitude": "123.58260000"
+    },
+    {
+      "id": 81433,
+      "name": "Balagon",
+      "latitude": "8.00630000",
+      "longitude": "123.23960000"
+    },
+    {
+      "id": 81572,
+      "name": "Barcelona",
+      "latitude": "8.52750000",
+      "longitude": "123.45870000"
+    },
+    {
+      "id": 81635,
+      "name": "Batu",
+      "latitude": "7.75333000",
+      "longitude": "122.82944000"
+    },
+    {
+      "id": 81666,
+      "name": "Bayog",
+      "latitude": "7.86667000",
+      "longitude": "123.06667000"
+    },
+    {
+      "id": 81732,
+      "name": "Binuatan",
+      "latitude": "7.61222000",
+      "longitude": "123.34417000"
+    },
+    {
+      "id": 81781,
+      "name": "Bolong",
+      "latitude": "7.09833000",
+      "longitude": "122.23917000"
+    },
+    {
+      "id": 81832,
+      "name": "Buenavista",
+      "latitude": "7.23611000",
+      "longitude": "122.25528000"
+    },
+    {
+      "id": 81899,
+      "name": "Bunguiao",
+      "latitude": "7.10444000",
+      "longitude": "122.19639000"
+    },
+    {
+      "id": 81928,
+      "name": "Buug",
+      "latitude": "7.72940000",
+      "longitude": "123.05980000"
+    },
+    {
+      "id": 81943,
+      "name": "Cabaluay",
+      "latitude": "7.00139000",
+      "longitude": "122.18028000"
+    },
+    {
+      "id": 82010,
+      "name": "Calabasa",
+      "latitude": "7.24639000",
+      "longitude": "122.23417000"
+    },
+    {
+      "id": 82147,
+      "name": "Caracal",
+      "latitude": "8.12722000",
+      "longitude": "122.84500000"
+    },
+    {
+      "id": 82314,
+      "name": "Culianan",
+      "latitude": "6.98028000",
+      "longitude": "122.14667000"
+    },
+    {
+      "id": 82322,
+      "name": "Curuan",
+      "latitude": "7.20528000",
+      "longitude": "122.23306000"
+    },
+    {
+      "id": 82344,
+      "name": "Dalangin",
+      "latitude": "7.85056000",
+      "longitude": "122.57833000"
+    },
+    {
+      "id": 82371,
+      "name": "Danlugan",
+      "latitude": "7.89139000",
+      "longitude": "123.37278000"
+    },
+    {
+      "id": 82381,
+      "name": "Dapitan",
+      "latitude": "8.65610000",
+      "longitude": "123.42270000"
+    },
+    {
+      "id": 82398,
+      "name": "Dawa-Dawa",
+      "latitude": "7.46833000",
+      "longitude": "122.83694000"
+    },
+    {
+      "id": 82408,
+      "name": "Del Monte",
+      "latitude": "7.72583000",
+      "longitude": "123.00806000"
+    },
+    {
+      "id": 82420,
+      "name": "Dicayong",
+      "latitude": "8.22060000",
+      "longitude": "123.03380000"
+    },
+    {
+      "id": 82430,
+      "name": "Dimataling",
+      "latitude": "7.53440000",
+      "longitude": "123.37380000"
+    },
+    {
+      "id": 82442,
+      "name": "Diplahan",
+      "latitude": "7.71667000",
+      "longitude": "123.01667000"
+    },
+    {
+      "id": 82443,
+      "name": "Dipolo",
+      "latitude": "7.78280000",
+      "longitude": "123.11580000"
+    },
+    {
+      "id": 82444,
+      "name": "Dipolog",
+      "latitude": "8.56697000",
+      "longitude": "123.33471000"
+    },
+    {
+      "id": 82445,
+      "name": "Disod",
+      "latitude": "8.26110000",
+      "longitude": "123.01690000"
+    },
+    {
+      "id": 82478,
+      "name": "Dulian",
+      "latitude": "7.12139000",
+      "longitude": "122.17889000"
+    },
+    {
+      "id": 82485,
+      "name": "Dumalinao",
+      "latitude": "7.81910000",
+      "longitude": "123.36940000"
+    },
+    {
+      "id": 82492,
+      "name": "Dumingag",
+      "latitude": "8.16917000",
+      "longitude": "123.35056000"
+    },
+    {
+      "id": 82498,
+      "name": "East Migpulao",
+      "latitude": "7.63250000",
+      "longitude": "123.35917000"
+    },
+    {
+      "id": 82566,
+      "name": "Ganyangan",
+      "latitude": "7.67889000",
+      "longitude": "122.90944000"
+    },
+    {
+      "id": 82615,
+      "name": "Gubaan",
+      "latitude": "7.97480000",
+      "longitude": "123.56400000"
+    },
+    {
+      "id": 82634,
+      "name": "Guiniculalay",
+      "latitude": "7.65611000",
+      "longitude": "123.39139000"
+    },
+    {
+      "id": 82644,
+      "name": "Guipos",
+      "latitude": "7.71610000",
+      "longitude": "123.32190000"
+    },
+    {
+      "id": 82660,
+      "name": "Gutalac",
+      "latitude": "7.98250000",
+      "longitude": "122.40472000"
+    },
+    {
+      "id": 82726,
+      "name": "Ilaya",
+      "latitude": "8.54590000",
+      "longitude": "123.43080000"
+    },
+    {
+      "id": 82756,
+      "name": "Ipil",
+      "latitude": "7.78444000",
+      "longitude": "122.58611000"
+    },
+    {
+      "id": 82763,
+      "name": "Irasan",
+      "latitude": "8.52600000",
+      "longitude": "123.20600000"
+    },
+    {
+      "id": 82813,
+      "name": "Josefina",
+      "latitude": "8.20000000",
+      "longitude": "123.53333000"
+    },
+    {
+      "id": 82826,
+      "name": "Kabasalan",
+      "latitude": "7.79722000",
+      "longitude": "122.76500000"
+    },
+    {
+      "id": 82835,
+      "name": "Kagawasan",
+      "latitude": "7.86611000",
+      "longitude": "123.39500000"
+    },
+    {
+      "id": 82844,
+      "name": "Kalawit",
+      "latitude": "8.06667000",
+      "longitude": "122.51667000"
+    },
+    {
+      "id": 82849,
+      "name": "Kalian",
+      "latitude": "7.59160000",
+      "longitude": "123.23190000"
+    },
+    {
+      "id": 82879,
+      "name": "Katipunan",
+      "latitude": "7.58250000",
+      "longitude": "122.83056000"
+    },
+    {
+      "id": 82887,
+      "name": "Kawayan",
+      "latitude": "7.53833000",
+      "longitude": "122.87250000"
+    },
+    {
+      "id": 82912,
+      "name": "Kipit",
+      "latitude": "8.04611000",
+      "longitude": "122.53222000"
+    },
+    {
+      "id": 82933,
+      "name": "Kumalarang",
+      "latitude": "7.74780000",
+      "longitude": "123.14450000"
+    },
+    {
+      "id": 82939,
+      "name": "La Dicha",
+      "latitude": "7.67600000",
+      "longitude": "123.00230000"
+    },
+    {
+      "id": 82956,
+      "name": "Labangan",
+      "latitude": "7.86540000",
+      "longitude": "123.51230000"
+    },
+    {
+      "id": 82958,
+      "name": "Labason",
+      "latitude": "8.06917000",
+      "longitude": "122.52167000"
+    },
+    {
+      "id": 82966,
+      "name": "Labuan",
+      "latitude": "7.09972000",
+      "longitude": "121.90417000"
+    },
+    {
+      "id": 83001,
+      "name": "Lamisahan",
+      "latitude": "7.07083000",
+      "longitude": "122.15833000"
+    },
+    {
+      "id": 83011,
+      "name": "Landang Laum",
+      "latitude": "6.96889000",
+      "longitude": "122.24917000"
+    },
+    {
+      "id": 83012,
+      "name": "Langatian",
+      "latitude": "8.52080000",
+      "longitude": "123.23240000"
+    },
+    {
+      "id": 83029,
+      "name": "Laparay",
+      "latitude": "7.40361000",
+      "longitude": "122.81722000"
+    },
+    {
+      "id": 83039,
+      "name": "Lapuyan",
+      "latitude": "7.63790000",
+      "longitude": "123.19440000"
+    },
+    {
+      "id": 83062,
+      "name": "Legrada",
+      "latitude": "7.63330000",
+      "longitude": "123.30450000"
+    },
+    {
+      "id": 83067,
+      "name": "Leon Postigo",
+      "latitude": "8.15510000",
+      "longitude": "122.93110000"
+    },
+    {
+      "id": 83113,
+      "name": "Liloy",
+      "latitude": "8.11444000",
+      "longitude": "122.65944000"
+    },
+    {
+      "id": 83117,
+      "name": "Limaong",
+      "latitude": "7.36056000",
+      "longitude": "122.36639000"
+    },
+    {
+      "id": 83126,
+      "name": "Limpapa",
+      "latitude": "7.11972000",
+      "longitude": "121.91056000"
+    },
+    {
+      "id": 83136,
+      "name": "Linay",
+      "latitude": "8.51667000",
+      "longitude": "123.13333000"
+    },
+    {
+      "id": 83137,
+      "name": "Lingasan",
+      "latitude": "8.49660000",
+      "longitude": "123.39970000"
+    },
+    {
+      "id": 83144,
+      "name": "Lintangan",
+      "latitude": "7.21554000",
+      "longitude": "121.95200000"
+    },
+    {
+      "id": 83220,
+      "name": "Lumbayan",
+      "latitude": "6.94722000",
+      "longitude": "122.14111000"
+    },
+    {
+      "id": 83224,
+      "name": "Lumbog",
+      "latitude": "7.55810000",
+      "longitude": "123.20140000"
+    },
+    {
+      "id": 83288,
+      "name": "Mabuhay",
+      "latitude": "7.41778000",
+      "longitude": "122.83667000"
+    },
+    {
+      "id": 83360,
+      "name": "Mahayag",
+      "latitude": "8.11830000",
+      "longitude": "123.44550000"
+    },
+    {
+      "id": 83404,
+      "name": "Malangas",
+      "latitude": "7.63028000",
+      "longitude": "123.03167000"
+    },
+    {
+      "id": 83417,
+      "name": "Malayal",
+      "latitude": "7.20801000",
+      "longitude": "121.94204000"
+    },
+    {
+      "id": 83432,
+      "name": "Malim",
+      "latitude": "7.45200000",
+      "longitude": "123.43120000"
+    },
+    {
+      "id": 83505,
+      "name": "Mandih",
+      "latitude": "8.20870000",
+      "longitude": "123.01410000"
+    },
+    {
+      "id": 83519,
+      "name": "Mangusu",
+      "latitude": "7.32556000",
+      "longitude": "122.27750000"
+    },
+    {
+      "id": 83521,
+      "name": "Manicahan",
+      "latitude": "7.01944000",
+      "longitude": "122.20111000"
+    },
+    {
+      "id": 83545,
+      "name": "Manukan",
+      "latitude": "8.53333000",
+      "longitude": "123.10000000"
+    },
+    {
+      "id": 83572,
+      "name": "Margos",
+      "latitude": "7.93200000",
+      "longitude": "123.65900000"
+    },
+    {
+      "id": 83573,
+      "name": "Margosatubig",
+      "latitude": "7.57770000",
+      "longitude": "123.16580000"
+    },
+    {
+      "id": 83661,
+      "name": "Mercedes",
+      "latitude": "6.95861000",
+      "longitude": "122.14833000"
+    },
+    {
+      "id": 83669,
+      "name": "Midsalip",
+      "latitude": "8.00000000",
+      "longitude": "123.26667000"
+    },
+    {
+      "id": 83695,
+      "name": "Molave",
+      "latitude": "8.08440000",
+      "longitude": "123.49100000"
+    },
+    {
+      "id": 83700,
+      "name": "Monching",
+      "latitude": "7.71583000",
+      "longitude": "122.86639000"
+    },
+    {
+      "id": 83727,
+      "name": "Muricay",
+      "latitude": "7.82750000",
+      "longitude": "123.47820000"
+    },
+    {
+      "id": 83728,
+      "name": "Muti",
+      "latitude": "7.27583000",
+      "longitude": "122.28000000"
+    },
+    {
+      "id": 83742,
+      "name": "Naga",
+      "latitude": "7.77028000",
+      "longitude": "122.75083000"
+    },
+    {
+      "id": 83851,
+      "name": "Olingan",
+      "latitude": "8.53810000",
+      "longitude": "123.32160000"
+    },
+    {
+      "id": 83853,
+      "name": "Olutanga",
+      "latitude": "7.31056000",
+      "longitude": "122.84639000"
+    },
+    {
+      "id": 83887,
+      "name": "Pagadian",
+      "latitude": "7.82570000",
+      "longitude": "123.43700000"
+    },
+    {
+      "id": 83928,
+      "name": "Palomoc",
+      "latitude": "7.91530000",
+      "longitude": "122.58290000"
+    },
+    {
+      "id": 84006,
+      "name": "Panubigan",
+      "latitude": "7.42810000",
+      "longitude": "123.34660000"
+    },
+    {
+      "id": 84040,
+      "name": "Patawag",
+      "latitude": "8.10639000",
+      "longitude": "122.62083000"
+    },
+    {
+      "id": 84066,
+      "name": "Payao",
+      "latitude": "7.58667000",
+      "longitude": "122.80278000"
+    },
+    {
+      "id": 84123,
+      "name": "Pitogo",
+      "latitude": "7.45460000",
+      "longitude": "123.31110000"
+    },
+    {
+      "id": 84142,
+      "name": "Polanco",
+      "latitude": "8.53290000",
+      "longitude": "123.36170000"
+    },
+    {
+      "id": 84159,
+      "name": "Ponot",
+      "latitude": "8.45200000",
+      "longitude": "123.02220000"
+    },
+    {
+      "id": 84180,
+      "name": "Province of  Zamboanga del Sur",
+      "latitude": "7.90430000",
+      "longitude": "123.31940000"
+    },
+    {
+      "id": 84252,
+      "name": "Province of Zamboanga del Norte",
+      "latitude": "8.00000000",
+      "longitude": "122.66667000"
+    },
+    {
+      "id": 84251,
+      "name": "Province of Zamboanga Sibugay",
+      "latitude": "7.76270000",
+      "longitude": "122.54356000"
+    },
+    {
+      "id": 84310,
+      "name": "Quinipot",
+      "latitude": "7.18028000",
+      "longitude": "122.22028000"
+    },
+    {
+      "id": 84324,
+      "name": "Ramon Magsaysay",
+      "latitude": "8.00194000",
+      "longitude": "123.50944000"
+    },
+    {
+      "id": 84328,
+      "name": "Rancheria Payau",
+      "latitude": "7.85410000",
+      "longitude": "123.15980000"
+    },
+    {
+      "id": 84334,
+      "name": "Recodo",
+      "latitude": "6.95194000",
+      "longitude": "121.96361000"
+    },
+    {
+      "id": 84349,
+      "name": "Robonkon",
+      "latitude": "7.75350000",
+      "longitude": "123.41870000"
+    },
+    {
+      "id": 84379,
+      "name": "Sagacad",
+      "latitude": "7.68611000",
+      "longitude": "123.34056000"
+    },
+    {
+      "id": 84415,
+      "name": "Salug",
+      "latitude": "8.11472000",
+      "longitude": "122.78333000"
+    },
+    {
+      "id": 84563,
+      "name": "San Miguel",
+      "latitude": "7.64833000",
+      "longitude": "123.26750000"
+    },
+    {
+      "id": 84576,
+      "name": "San Pablo",
+      "latitude": "7.65639000",
+      "longitude": "123.46083000"
+    },
+    {
+      "id": 84631,
+      "name": "Sangali",
+      "latitude": "7.06944000",
+      "longitude": "122.20139000"
+    },
+    {
+      "id": 84759,
+      "name": "Seres",
+      "latitude": "8.48030000",
+      "longitude": "123.26290000"
+    },
+    {
+      "id": 84760,
+      "name": "Sergio Osmeña Sr",
+      "latitude": "8.16667000",
+      "longitude": "123.50000000"
+    },
+    {
+      "id": 84763,
+      "name": "Siari",
+      "latitude": "8.32450000",
+      "longitude": "122.98810000"
+    },
+    {
+      "id": 84766,
+      "name": "Siay",
+      "latitude": "7.69611000",
+      "longitude": "122.86306000"
+    },
+    {
+      "id": 84767,
+      "name": "Siayan",
+      "latitude": "8.26667000",
+      "longitude": "123.10000000"
+    },
+    {
+      "id": 84773,
+      "name": "Sibuco",
+      "latitude": "7.29111000",
+      "longitude": "122.06556000"
+    },
+    {
+      "id": 84778,
+      "name": "Sibulao",
+      "latitude": "7.32417000",
+      "longitude": "122.23944000"
+    },
+    {
+      "id": 84779,
+      "name": "Sibutao",
+      "latitude": "8.59160000",
+      "longitude": "123.48590000"
+    },
+    {
+      "id": 84813,
+      "name": "Sindangan",
+      "latitude": "8.23760000",
+      "longitude": "122.99740000"
+    },
+    {
+      "id": 84821,
+      "name": "Sinubong",
+      "latitude": "7.02806000",
+      "longitude": "121.92528000"
+    },
+    {
+      "id": 84823,
+      "name": "Siocon",
+      "latitude": "7.70611000",
+      "longitude": "122.13528000"
+    },
+    {
+      "id": 84828,
+      "name": "Siraway",
+      "latitude": "7.58528000",
+      "longitude": "122.13972000"
+    },
+    {
+      "id": 84876,
+      "name": "Sumalig",
+      "latitude": "7.99860000",
+      "longitude": "123.66270000"
+    },
+    {
+      "id": 84896,
+      "name": "Tabina",
+      "latitude": "7.46690000",
+      "longitude": "123.40810000"
+    },
+    {
+      "id": 84931,
+      "name": "Tagasilay",
+      "latitude": "7.30250000",
+      "longitude": "122.25861000"
+    },
+    {
+      "id": 84951,
+      "name": "Taguitic",
+      "latitude": "7.93870000",
+      "longitude": "123.63120000"
+    },
+    {
+      "id": 84959,
+      "name": "Talabaan",
+      "latitude": "6.94111000",
+      "longitude": "122.17222000"
+    },
+    {
+      "id": 84986,
+      "name": "Talisayan",
+      "latitude": "6.98722000",
+      "longitude": "121.92722000"
+    },
+    {
+      "id": 84999,
+      "name": "Taluksangay",
+      "latitude": "6.95417000",
+      "longitude": "122.18389000"
+    },
+    {
+      "id": 85000,
+      "name": "Talusan",
+      "latitude": "7.42667000",
+      "longitude": "122.81028000"
+    },
+    {
+      "id": 85014,
+      "name": "Tambulig",
+      "latitude": "8.07020000",
+      "longitude": "123.53480000"
+    },
+    {
+      "id": 85025,
+      "name": "Tampilisan",
+      "latitude": "8.01667000",
+      "longitude": "122.68333000"
+    },
+    {
+      "id": 85065,
+      "name": "Tawagan",
+      "latitude": "7.84500000",
+      "longitude": "123.47528000"
+    },
+    {
+      "id": 85103,
+      "name": "Tigbao",
+      "latitude": "7.42833000",
+      "longitude": "122.32750000"
+    },
+    {
+      "id": 85111,
+      "name": "Tigpalay",
+      "latitude": "7.49479000",
+      "longitude": "122.34496000"
+    },
+    {
+      "id": 85112,
+      "name": "Tigtabon",
+      "latitude": "6.89556000",
+      "longitude": "122.16694000"
+    },
+    {
+      "id": 85113,
+      "name": "Tiguha",
+      "latitude": "7.70444000",
+      "longitude": "123.21139000"
+    },
+    {
+      "id": 85122,
+      "name": "Timonan",
+      "latitude": "8.21170000",
+      "longitude": "123.06820000"
+    },
+    {
+      "id": 85143,
+      "name": "Tiparak",
+      "latitude": "8.03410000",
+      "longitude": "123.52880000"
+    },
+    {
+      "id": 85148,
+      "name": "Titay",
+      "latitude": "7.81250000",
+      "longitude": "122.53444000"
+    },
+    {
+      "id": 85159,
+      "name": "Tolosa",
+      "latitude": "7.03222000",
+      "longitude": "122.16139000"
+    },
+    {
+      "id": 85202,
+      "name": "Tucuran",
+      "latitude": "7.85240000",
+      "longitude": "123.57430000"
+    },
+    {
+      "id": 85227,
+      "name": "Tungawan",
+      "latitude": "7.50806000",
+      "longitude": "122.37111000"
+    },
+    {
+      "id": 85308,
+      "name": "Vitali",
+      "latitude": "7.37111000",
+      "longitude": "122.28861000"
+    },
+    {
+      "id": 85324,
+      "name": "Zamboanga",
+      "latitude": "6.91028000",
+      "longitude": "122.07389000"
+    }
+  ],
+  "country": {
+    "id": 174,
+    "name": "Philippines",
+    "iso3": "PHL",
+    "iso2": "PH",
+    "numeric_code": "608",
+    "phone_code": "63",
+    "capital": "Manila",
+    "currency": "PHP",
+    "currency_name": "Philippine peso",
+    "currency_symbol": "₱",
+    "tld": ".ph",
+    "native": "Pilipinas",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Manila",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "PHT",
+        "tzName": "Philippine Time"
+      }
+    ],
+    "translations": {
+      "kr": "필리핀",
+      "pt-BR": "Filipinas",
+      "pt": "Filipinas",
+      "nl": "Filipijnen",
+      "hr": "Filipini",
+      "fa": "جزایر الندفیلیپین",
+      "de": "Philippinen",
+      "es": "Filipinas",
+      "fr": "Philippines",
+      "ja": "フィリピン",
+      "it": "Filippine",
+      "cn": "菲律宾",
+      "tr": "Filipinler"
+    },
+    "latitude": "13.00000000",
+    "longitude": "122.00000000",
+    "emoji": "🇵🇭",
+    "emojiU": "U+1F1F5 U+1F1ED"
+  }
+}

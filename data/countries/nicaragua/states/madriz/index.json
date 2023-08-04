@@ -1,0 +1,108 @@
+{
+  "id": 948,
+  "name": "Madriz",
+  "state_code": "MD",
+  "latitude": "13.47260050",
+  "longitude": "-86.45920910",
+  "type": "department",
+  "cities": [
+    {
+      "id": 77211,
+      "name": "Las Sabanas",
+      "latitude": "13.34302000",
+      "longitude": "-86.62184000"
+    },
+    {
+      "id": 77245,
+      "name": "Palacagüina",
+      "latitude": "13.45566000",
+      "longitude": "-86.40622000"
+    },
+    {
+      "id": 77259,
+      "name": "San José de Cusmapa",
+      "latitude": "13.28841000",
+      "longitude": "-86.65539000"
+    },
+    {
+      "id": 77263,
+      "name": "San Juan de Río Coco",
+      "latitude": "13.54476000",
+      "longitude": "-86.16499000"
+    },
+    {
+      "id": 77266,
+      "name": "San Lucas",
+      "latitude": "13.41380000",
+      "longitude": "-86.61110000"
+    },
+    {
+      "id": 77281,
+      "name": "Somoto",
+      "latitude": "13.48082000",
+      "longitude": "-86.58208000"
+    },
+    {
+      "id": 77283,
+      "name": "Telpaneca",
+      "latitude": "13.53151000",
+      "longitude": "-86.28710000"
+    },
+    {
+      "id": 77290,
+      "name": "Totogalpa",
+      "latitude": "13.56284000",
+      "longitude": "-86.49254000"
+    },
+    {
+      "id": 77296,
+      "name": "Yalagüina",
+      "latitude": "13.48383000",
+      "longitude": "-86.49305000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

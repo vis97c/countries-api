@@ -1,0 +1,96 @@
+{
+  "id": 3561,
+  "name": "Saare County",
+  "state_code": "74",
+  "latitude": "58.48497210",
+  "longitude": "22.61364080",
+  "type": null,
+  "cities": [
+    {
+      "id": 31643,
+      "name": "Kuressaare",
+      "latitude": "58.24806000",
+      "longitude": "22.50389000"
+    },
+    {
+      "id": 31649,
+      "name": "Liiva",
+      "latitude": "58.60194000",
+      "longitude": "23.24694000"
+    },
+    {
+      "id": 31660,
+      "name": "Muhu vald",
+      "latitude": "58.58486000",
+      "longitude": "23.25609000"
+    },
+    {
+      "id": 31670,
+      "name": "Orissaare",
+      "latitude": "58.55917000",
+      "longitude": "23.08262000"
+    },
+    {
+      "id": 31696,
+      "name": "Ruhnu",
+      "latitude": "57.80028000",
+      "longitude": "23.24833000"
+    },
+    {
+      "id": 31697,
+      "name": "Ruhnu vald",
+      "latitude": "57.80309000",
+      "longitude": "23.24250000"
+    },
+    {
+      "id": 31723,
+      "name": "Tehumardi",
+      "latitude": "58.18027000",
+      "longitude": "22.24646000"
+    }
+  ],
+  "country": {
+    "id": 69,
+    "name": "Estonia",
+    "iso3": "EST",
+    "iso2": "EE",
+    "numeric_code": "233",
+    "phone_code": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "native": "Eesti",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스토니아",
+      "pt-BR": "Estônia",
+      "pt": "Estónia",
+      "nl": "Estland",
+      "hr": "Estonija",
+      "fa": "استونی",
+      "de": "Estland",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア",
+      "it": "Estonia",
+      "cn": "爱沙尼亚",
+      "tr": "Estonya"
+    },
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  }
+}

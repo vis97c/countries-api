@@ -1,0 +1,73 @@
+{
+  "id": 2909,
+  "name": "Zamora Chinchipe",
+  "state_code": "Z",
+  "latitude": "-4.06558920",
+  "longitude": "-78.95035250",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31590,
+      "name": "Yantzaza",
+      "latitude": "-3.83261000",
+      "longitude": "-78.76076000"
+    },
+    {
+      "id": 31591,
+      "name": "Zamora",
+      "latitude": "-4.06685000",
+      "longitude": "-78.95488000"
+    }
+  ],
+  "country": {
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phone_code": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "translations": {
+      "kr": "에콰도르",
+      "pt-BR": "Equador",
+      "pt": "Equador",
+      "nl": "Ecuador",
+      "hr": "Ekvador",
+      "fa": "اکوادور",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fr": "Équateur",
+      "ja": "エクアドル",
+      "it": "Ecuador",
+      "cn": "厄瓜多尔",
+      "tr": "Ekvator"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  }
+}

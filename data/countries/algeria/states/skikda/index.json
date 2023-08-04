@@ -1,0 +1,78 @@
+{
+  "id": 1110,
+  "name": "Skikda",
+  "state_code": "21",
+  "latitude": "36.67211980",
+  "longitude": "6.83509990",
+  "type": null,
+  "cities": [
+    {
+      "id": 31239,
+      "name": "Azzaba",
+      "latitude": "36.73944000",
+      "longitude": "7.10528000"
+    },
+    {
+      "id": 31360,
+      "name": "Karkira",
+      "latitude": "36.92917000",
+      "longitude": "6.58556000"
+    },
+    {
+      "id": 31434,
+      "name": "Skikda",
+      "latitude": "36.87617000",
+      "longitude": "6.90921000"
+    },
+    {
+      "id": 31442,
+      "name": "Tamalous",
+      "latitude": "36.83763000",
+      "longitude": "6.64018000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

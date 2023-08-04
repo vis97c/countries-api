@@ -1,0 +1,1556 @@
+{
+  "id": 1200,
+  "name": "Léon",
+  "state_code": "LE",
+  "latitude": "42.59870410",
+  "longitude": "-5.56708390",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31922,
+      "name": "Acebedo",
+      "latitude": "43.03969000",
+      "longitude": "-5.11600000"
+    },
+    {
+      "id": 32208,
+      "name": "Algadefe",
+      "latitude": "42.21931000",
+      "longitude": "-5.58419000"
+    },
+    {
+      "id": 152977,
+      "name": "Alija del Infantado",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32267,
+      "name": "Almanza",
+      "latitude": "42.65825000",
+      "longitude": "-5.03620000"
+    },
+    {
+      "id": 152978,
+      "name": "Antigua La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32442,
+      "name": "Ardón",
+      "latitude": "42.43629000",
+      "longitude": "-5.56048000"
+    },
+    {
+      "id": 32463,
+      "name": "Arganza",
+      "latitude": "42.64077000",
+      "longitude": "-6.68627000"
+    },
+    {
+      "id": 32540,
+      "name": "Astorga",
+      "latitude": "42.45879000",
+      "longitude": "-6.05601000"
+    },
+    {
+      "id": 32621,
+      "name": "Balboa",
+      "latitude": "42.70608000",
+      "longitude": "-6.92222000"
+    },
+    {
+      "id": 152979,
+      "name": "Bañeza La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32665,
+      "name": "Barjas",
+      "latitude": "42.61182000",
+      "longitude": "-6.97979000"
+    },
+    {
+      "id": 32669,
+      "name": "Barraco",
+      "latitude": "40.47647000",
+      "longitude": "-4.64346000"
+    },
+    {
+      "id": 152980,
+      "name": "Barrios de Luna Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32756,
+      "name": "Bembibre",
+      "latitude": "42.61771000",
+      "longitude": "-6.41545000"
+    },
+    {
+      "id": 32782,
+      "name": "Benavides",
+      "latitude": "42.50442000",
+      "longitude": "-5.89442000"
+    },
+    {
+      "id": 32828,
+      "name": "Benuza",
+      "latitude": "42.39941000",
+      "longitude": "-6.70969000"
+    },
+    {
+      "id": 32842,
+      "name": "Bercianos del Páramo",
+      "latitude": "42.38017000",
+      "longitude": "-5.70834000"
+    },
+    {
+      "id": 32843,
+      "name": "Bercianos del Real Camino",
+      "latitude": "42.38732000",
+      "longitude": "-5.14462000"
+    },
+    {
+      "id": 32856,
+      "name": "Berlanga del Bierzo",
+      "latitude": "42.73104000",
+      "longitude": "-6.60565000"
+    },
+    {
+      "id": 32922,
+      "name": "Boca de Huérgano",
+      "latitude": "42.97287000",
+      "longitude": "-4.92419000"
+    },
+    {
+      "id": 32967,
+      "name": "Boñar",
+      "latitude": "42.86680000",
+      "longitude": "-5.32386000"
+    },
+    {
+      "id": 32961,
+      "name": "Borrenes",
+      "latitude": "42.49019000",
+      "longitude": "-6.72338000"
+    },
+    {
+      "id": 32972,
+      "name": "Brazuelo",
+      "latitude": "42.49702000",
+      "longitude": "-6.15734000"
+    },
+    {
+      "id": 152981,
+      "name": "Burgo Ranero El",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33034,
+      "name": "Burón",
+      "latitude": "43.02486000",
+      "longitude": "-5.05119000"
+    },
+    {
+      "id": 33042,
+      "name": "Bustillo del Páramo",
+      "latitude": "42.44126000",
+      "longitude": "-5.79280000"
+    },
+    {
+      "id": 152982,
+      "name": "Cabañas Raras",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33090,
+      "name": "Cabezón",
+      "latitude": "41.73369000",
+      "longitude": "-4.64510000"
+    },
+    {
+      "id": 33108,
+      "name": "Cabreros del Río",
+      "latitude": "42.40205000",
+      "longitude": "-5.54154000"
+    },
+    {
+      "id": 33109,
+      "name": "Cabrillanes",
+      "latitude": "42.95343000",
+      "longitude": "-6.14849000"
+    },
+    {
+      "id": 33112,
+      "name": "Cacabelos",
+      "latitude": "42.60021000",
+      "longitude": "-6.72373000"
+    },
+    {
+      "id": 33160,
+      "name": "Calzada del Coto",
+      "latitude": "42.38613000",
+      "longitude": "-5.07809000"
+    },
+    {
+      "id": 33184,
+      "name": "Campazas",
+      "latitude": "42.14219000",
+      "longitude": "-5.49349000"
+    },
+    {
+      "id": 33204,
+      "name": "Campo de Villavidel",
+      "latitude": "42.43906000",
+      "longitude": "-5.52808000"
+    },
+    {
+      "id": 33206,
+      "name": "Camponaraya",
+      "latitude": "42.57799000",
+      "longitude": "-6.66709000"
+    },
+    {
+      "id": 33230,
+      "name": "Candín",
+      "latitude": "42.81695000",
+      "longitude": "-6.72848000"
+    },
+    {
+      "id": 33897,
+      "name": "Cármenes",
+      "latitude": "42.95863000",
+      "longitude": "-5.57346000"
+    },
+    {
+      "id": 33315,
+      "name": "Carracedelo",
+      "latitude": "42.55602000",
+      "longitude": "-6.73317000"
+    },
+    {
+      "id": 152983,
+      "name": "Carrizo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33329,
+      "name": "Carrizo de la Ribera",
+      "latitude": "42.58395000",
+      "longitude": "-5.82881000"
+    },
+    {
+      "id": 33334,
+      "name": "Carrocera",
+      "latitude": "42.79605000",
+      "longitude": "-5.74374000"
+    },
+    {
+      "id": 33341,
+      "name": "Carucedo",
+      "latitude": "42.49029000",
+      "longitude": "-6.76565000"
+    },
+    {
+      "id": 33449,
+      "name": "Castilfalé",
+      "latitude": "42.21991000",
+      "longitude": "-5.42122000"
+    },
+    {
+      "id": 33475,
+      "name": "Castrillo de Cabrera",
+      "latitude": "42.34036000",
+      "longitude": "-6.54451000"
+    },
+    {
+      "id": 33482,
+      "name": "Castrillo de la Valduerna",
+      "latitude": "42.32393000",
+      "longitude": "-6.13455000"
+    },
+    {
+      "id": 33494,
+      "name": "Castrocalbón",
+      "latitude": "42.19706000",
+      "longitude": "-5.98226000"
+    },
+    {
+      "id": 33495,
+      "name": "Castrocontrigo",
+      "latitude": "42.18363000",
+      "longitude": "-6.19022000"
+    },
+    {
+      "id": 33505,
+      "name": "Castropodame",
+      "latitude": "42.57943000",
+      "longitude": "-6.46837000"
+    },
+    {
+      "id": 152984,
+      "name": "Castrotierra de Valmadrigal",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152985,
+      "name": "Cea",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33548,
+      "name": "Cebanico",
+      "latitude": "42.72526000",
+      "longitude": "-5.02568000"
+    },
+    {
+      "id": 33552,
+      "name": "Cebrones del Río",
+      "latitude": "42.25726000",
+      "longitude": "-5.82622000"
+    },
+    {
+      "id": 33646,
+      "name": "Chozas de Abajo",
+      "latitude": "42.50657000",
+      "longitude": "-5.68656000"
+    },
+    {
+      "id": 33673,
+      "name": "Cimanes de la Vega",
+      "latitude": "42.11646000",
+      "longitude": "-5.59851000"
+    },
+    {
+      "id": 33674,
+      "name": "Cimanes del Tejar",
+      "latitude": "42.61789000",
+      "longitude": "-5.80506000"
+    },
+    {
+      "id": 33693,
+      "name": "Cistierna",
+      "latitude": "42.80344000",
+      "longitude": "-5.12664000"
+    },
+    {
+      "id": 33758,
+      "name": "Congosto",
+      "latitude": "42.61755000",
+      "longitude": "-6.52048000"
+    },
+    {
+      "id": 33776,
+      "name": "Corbillos de los Oteros",
+      "latitude": "42.40769000",
+      "longitude": "-5.45963000"
+    },
+    {
+      "id": 33803,
+      "name": "Corrales",
+      "latitude": "41.35800000",
+      "longitude": "-5.72479000"
+    },
+    {
+      "id": 33813,
+      "name": "Corullón",
+      "latitude": "42.57896000",
+      "longitude": "-6.81925000"
+    },
+    {
+      "id": 33841,
+      "name": "Crémenes",
+      "latitude": "42.90357000",
+      "longitude": "-5.14374000"
+    },
+    {
+      "id": 33842,
+      "name": "Cuadros",
+      "latitude": "42.71163000",
+      "longitude": "-5.63828000"
+    },
+    {
+      "id": 33853,
+      "name": "Cubillas de los Oteros",
+      "latitude": "42.37199000",
+      "longitude": "-5.50877000"
+    },
+    {
+      "id": 33851,
+      "name": "Cubillas de Rueda",
+      "latitude": "42.65626000",
+      "longitude": "-5.17528000"
+    },
+    {
+      "id": 33857,
+      "name": "Cubillos del Sil",
+      "latitude": "42.62519000",
+      "longitude": "-6.56360000"
+    },
+    {
+      "id": 33930,
+      "name": "Destriana",
+      "latitude": "42.32729000",
+      "longitude": "-6.09573000"
+    },
+    {
+      "id": 33979,
+      "name": "El Barco de Ávila",
+      "latitude": "40.35710000",
+      "longitude": "-5.52365000"
+    },
+    {
+      "id": 33983,
+      "name": "El Burgo de Osma",
+      "latitude": "41.58619000",
+      "longitude": "-3.06522000"
+    },
+    {
+      "id": 34000,
+      "name": "El Hoyo de Pinares",
+      "latitude": "40.50084000",
+      "longitude": "-4.42357000"
+    },
+    {
+      "id": 34020,
+      "name": "El Tiemblo",
+      "latitude": "40.41533000",
+      "longitude": "-4.50156000"
+    },
+    {
+      "id": 34053,
+      "name": "Encinedo",
+      "latitude": "42.27049000",
+      "longitude": "-6.59368000"
+    },
+    {
+      "id": 152986,
+      "name": "Ercina La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34085,
+      "name": "Escobar de Campos",
+      "latitude": "42.31337000",
+      "longitude": "-4.96573000"
+    },
+    {
+      "id": 34155,
+      "name": "Fabero",
+      "latitude": "42.76803000",
+      "longitude": "-6.62651000"
+    },
+    {
+      "id": 34200,
+      "name": "Folgoso de la Ribera",
+      "latitude": "42.64693000",
+      "longitude": "-6.32035000"
+    },
+    {
+      "id": 34263,
+      "name": "Fresno de la Vega",
+      "latitude": "42.34545000",
+      "longitude": "-5.53587000"
+    },
+    {
+      "id": 34342,
+      "name": "Fuentes de Carbajal",
+      "latitude": "42.17776000",
+      "longitude": "-5.44606000"
+    },
+    {
+      "id": 34400,
+      "name": "Gamonal",
+      "latitude": "42.35664000",
+      "longitude": "-3.67321000"
+    },
+    {
+      "id": 34421,
+      "name": "Garrafe de Torío",
+      "latitude": "42.73285000",
+      "longitude": "-5.52360000"
+    },
+    {
+      "id": 34485,
+      "name": "Gordaliza del Pino",
+      "latitude": "42.34357000",
+      "longitude": "-5.15731000"
+    },
+    {
+      "id": 34486,
+      "name": "Gordoncillo",
+      "latitude": "42.13557000",
+      "longitude": "-5.40181000"
+    },
+    {
+      "id": 34492,
+      "name": "Gradefes",
+      "latitude": "42.62396000",
+      "longitude": "-5.22691000"
+    },
+    {
+      "id": 34495,
+      "name": "Grajal de Campos",
+      "latitude": "42.32073000",
+      "longitude": "-5.01938000"
+    },
+    {
+      "id": 34555,
+      "name": "Gusendos de los Oteros",
+      "latitude": "42.37818000",
+      "longitude": "-5.43088000"
+    },
+    {
+      "id": 34669,
+      "name": "Hospital de Órbigo",
+      "latitude": "42.46354000",
+      "longitude": "-5.88636000"
+    },
+    {
+      "id": 34691,
+      "name": "Huerta del Rey",
+      "latitude": "41.83910000",
+      "longitude": "-3.34755000"
+    },
+    {
+      "id": 34742,
+      "name": "Igüeña",
+      "latitude": "42.72853000",
+      "longitude": "-6.27738000"
+    },
+    {
+      "id": 34778,
+      "name": "Izagre",
+      "latitude": "42.22410000",
+      "longitude": "-5.25727000"
+    },
+    {
+      "id": 34820,
+      "name": "Joarilla de las Matas",
+      "latitude": "42.28755000",
+      "longitude": "-5.17855000"
+    },
+    {
+      "id": 34848,
+      "name": "La Adrada",
+      "latitude": "40.29953000",
+      "longitude": "-4.63589000"
+    },
+    {
+      "id": 34850,
+      "name": "La Alberca",
+      "latitude": "40.48908000",
+      "longitude": "-6.11107000"
+    },
+    {
+      "id": 34856,
+      "name": "La Bañeza",
+      "latitude": "42.30026000",
+      "longitude": "-5.89772000"
+    },
+    {
+      "id": 34859,
+      "name": "La Bouza",
+      "latitude": "40.83626000",
+      "longitude": "-6.79551000"
+    },
+    {
+      "id": 34866,
+      "name": "La Carrera",
+      "latitude": "40.34777000",
+      "longitude": "-5.55474000"
+    },
+    {
+      "id": 34869,
+      "name": "La Cuesta",
+      "latitude": "41.08280000",
+      "longitude": "-3.96017000"
+    },
+    {
+      "id": 34873,
+      "name": "La Fuente de San Esteban",
+      "latitude": "40.80161000",
+      "longitude": "-6.25852000"
+    },
+    {
+      "id": 34889,
+      "name": "La Lastrilla",
+      "latitude": "40.96817000",
+      "longitude": "-4.10468000"
+    },
+    {
+      "id": 34901,
+      "name": "La Pedraja de Portillo",
+      "latitude": "41.47124000",
+      "longitude": "-4.64639000"
+    },
+    {
+      "id": 34908,
+      "name": "La Pola de Gordón",
+      "latitude": "42.85658000",
+      "longitude": "-5.66768000"
+    },
+    {
+      "id": 34918,
+      "name": "La Robla",
+      "latitude": "42.80302000",
+      "longitude": "-5.62904000"
+    },
+    {
+      "id": 34925,
+      "name": "La Seca",
+      "latitude": "41.41364000",
+      "longitude": "-4.90552000"
+    },
+    {
+      "id": 34945,
+      "name": "Laguna Dalga",
+      "latitude": "42.33192000",
+      "longitude": "-5.75220000"
+    },
+    {
+      "id": 34949,
+      "name": "Laguna de Negrillos",
+      "latitude": "42.23889000",
+      "longitude": "-5.66066000"
+    },
+    {
+      "id": 34987,
+      "name": "Las Navas del Marqués",
+      "latitude": "40.60244000",
+      "longitude": "-4.33449000"
+    },
+    {
+      "id": 35045,
+      "name": "León",
+      "latitude": "42.60003000",
+      "longitude": "-5.57032000"
+    },
+    {
+      "id": 35065,
+      "name": "Llamas de la Ribera",
+      "latitude": "42.63504000",
+      "longitude": "-5.82524000"
+    },
+    {
+      "id": 152987,
+      "name": "Lucillo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35170,
+      "name": "Luyego",
+      "latitude": "42.36667000",
+      "longitude": "-6.23333000"
+    },
+    {
+      "id": 35202,
+      "name": "Magaz de Cepeda",
+      "latitude": "42.53967000",
+      "longitude": "-6.07170000"
+    },
+    {
+      "id": 35258,
+      "name": "Mansilla de las Mulas",
+      "latitude": "42.49886000",
+      "longitude": "-5.41738000"
+    },
+    {
+      "id": 35257,
+      "name": "Mansilla Mayor",
+      "latitude": "42.50943000",
+      "longitude": "-5.44271000"
+    },
+    {
+      "id": 35279,
+      "name": "Maraña",
+      "latitude": "43.04991000",
+      "longitude": "-5.17726000"
+    },
+    {
+      "id": 35333,
+      "name": "Matadeón de los Oteros",
+      "latitude": "42.33776000",
+      "longitude": "-5.36887000"
+    },
+    {
+      "id": 35335,
+      "name": "Matallana de Torío",
+      "latitude": "42.86560000",
+      "longitude": "-5.52034000"
+    },
+    {
+      "id": 152988,
+      "name": "Matanza",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35479,
+      "name": "Molinaseca",
+      "latitude": "42.53829000",
+      "longitude": "-6.51997000"
+    },
+    {
+      "id": 35674,
+      "name": "Murias de Paredes",
+      "latitude": "42.85027000",
+      "longitude": "-6.19164000"
+    },
+    {
+      "id": 152989,
+      "name": "Noceda del Bierzo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35861,
+      "name": "Oencia",
+      "latitude": "42.54758000",
+      "longitude": "-6.96859000"
+    },
+    {
+      "id": 152990,
+      "name": "Omañas Las",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35930,
+      "name": "Onzonilla",
+      "latitude": "42.52435000",
+      "longitude": "-5.58160000"
+    },
+    {
+      "id": 35971,
+      "name": "Oseja de Sajambre",
+      "latitude": "43.13671000",
+      "longitude": "-5.03786000"
+    },
+    {
+      "id": 36003,
+      "name": "Pajares de los Oteros",
+      "latitude": "42.33010000",
+      "longitude": "-5.47313000"
+    },
+    {
+      "id": 36009,
+      "name": "Palacios de la Valduerna",
+      "latitude": "42.32773000",
+      "longitude": "-5.93830000"
+    },
+    {
+      "id": 36012,
+      "name": "Palacios del Sil",
+      "latitude": "42.87601000",
+      "longitude": "-6.43150000"
+    },
+    {
+      "id": 36483,
+      "name": "Páramo del Sil",
+      "latitude": "42.82056000",
+      "longitude": "-6.48747000"
+    },
+    {
+      "id": 36145,
+      "name": "Peranzanes",
+      "latitude": "42.87725000",
+      "longitude": "-6.63383000"
+    },
+    {
+      "id": 36250,
+      "name": "Pobladura de Pelayo García",
+      "latitude": "42.30602000",
+      "longitude": "-5.68560000"
+    },
+    {
+      "id": 152991,
+      "name": "Pola de Gordón La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36270,
+      "name": "Ponferrada",
+      "latitude": "42.54664000",
+      "longitude": "-6.59619000"
+    },
+    {
+      "id": 36302,
+      "name": "Posada de Valdeón",
+      "latitude": "43.15154000",
+      "longitude": "-4.92102000"
+    },
+    {
+      "id": 36337,
+      "name": "Pozuelo del Páramo",
+      "latitude": "42.17101000",
+      "longitude": "-5.76813000"
+    },
+    {
+      "id": 36345,
+      "name": "Prado de la Guzpeña",
+      "latitude": "42.78309000",
+      "longitude": "-5.02554000"
+    },
+    {
+      "id": 36352,
+      "name": "Priaranza del Bierzo",
+      "latitude": "42.50978000",
+      "longitude": "-6.67017000"
+    },
+    {
+      "id": 36356,
+      "name": "Prioro",
+      "latitude": "42.89481000",
+      "longitude": "-4.96349000"
+    },
+    {
+      "id": 36394,
+      "name": "Provincia de Ávila",
+      "latitude": "40.58333000",
+      "longitude": "-5.00000000"
+    },
+    {
+      "id": 36364,
+      "name": "Provincia de Burgos",
+      "latitude": "42.33939000",
+      "longitude": "-3.70789000"
+    },
+    {
+      "id": 36377,
+      "name": "Provincia de León",
+      "latitude": "42.66667000",
+      "longitude": "-6.00000000"
+    },
+    {
+      "id": 36383,
+      "name": "Provincia de Palencia",
+      "latitude": "42.41667000",
+      "longitude": "-4.50000000"
+    },
+    {
+      "id": 36385,
+      "name": "Provincia de Salamanca",
+      "latitude": "40.83333000",
+      "longitude": "-6.00000000"
+    },
+    {
+      "id": 36387,
+      "name": "Provincia de Segovia",
+      "latitude": "41.16667000",
+      "longitude": "-4.00000000"
+    },
+    {
+      "id": 36389,
+      "name": "Provincia de Soria",
+      "latitude": "41.66667000",
+      "longitude": "-2.66667000"
+    },
+    {
+      "id": 36391,
+      "name": "Provincia de Valladolid",
+      "latitude": "41.58333000",
+      "longitude": "-4.66667000"
+    },
+    {
+      "id": 36392,
+      "name": "Provincia de Zamora",
+      "latitude": "41.75000000",
+      "longitude": "-6.00000000"
+    },
+    {
+      "id": 36418,
+      "name": "Puebla de Lillo",
+      "latitude": "43.00691000",
+      "longitude": "-5.27387000"
+    },
+    {
+      "id": 36435,
+      "name": "Puente de Domingo Flórez",
+      "latitude": "42.41166000",
+      "longitude": "-6.82077000"
+    },
+    {
+      "id": 36503,
+      "name": "Quintana del Castillo",
+      "latitude": "42.65987000",
+      "longitude": "-6.04978000"
+    },
+    {
+      "id": 36504,
+      "name": "Quintana del Marco",
+      "latitude": "42.20670000",
+      "longitude": "-5.85030000"
+    },
+    {
+      "id": 36507,
+      "name": "Quintana y Congosto",
+      "latitude": "42.25585000",
+      "longitude": "-6.03636000"
+    },
+    {
+      "id": 36565,
+      "name": "Regueras de Arriba",
+      "latitude": "42.29414000",
+      "longitude": "-5.85958000"
+    },
+    {
+      "id": 36598,
+      "name": "Reyero",
+      "latitude": "42.94882000",
+      "longitude": "-5.19892000"
+    },
+    {
+      "id": 36605,
+      "name": "Riaño",
+      "latitude": "42.97705000",
+      "longitude": "-5.00352000"
+    },
+    {
+      "id": 36622,
+      "name": "Riego de la Vega",
+      "latitude": "42.39138000",
+      "longitude": "-5.98102000"
+    },
+    {
+      "id": 152992,
+      "name": "Riello",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152993,
+      "name": "Rioseco de Tapia",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152994,
+      "name": "Robla La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36674,
+      "name": "Roperuelos del Páramo",
+      "latitude": "42.23780000",
+      "longitude": "-5.78235000"
+    },
+    {
+      "id": 36701,
+      "name": "Ruesga",
+      "latitude": "42.86413000",
+      "longitude": "-4.52942000"
+    },
+    {
+      "id": 36723,
+      "name": "Sabero",
+      "latitude": "42.83593000",
+      "longitude": "-5.14875000"
+    },
+    {
+      "id": 36741,
+      "name": "Sahagún",
+      "latitude": "42.37085000",
+      "longitude": "-5.02942000"
+    },
+    {
+      "id": 36797,
+      "name": "San Adrián del Valle",
+      "latitude": "42.13033000",
+      "longitude": "-5.72905000"
+    },
+    {
+      "id": 36803,
+      "name": "San Andrés del Rabanedo",
+      "latitude": "42.61174000",
+      "longitude": "-5.61671000"
+    },
+    {
+      "id": 36824,
+      "name": "San Cristóbal de la Polantera",
+      "latitude": "42.39041000",
+      "longitude": "-5.90732000"
+    },
+    {
+      "id": 36826,
+      "name": "San Emiliano",
+      "latitude": "42.97164000",
+      "longitude": "-6.00075000"
+    },
+    {
+      "id": 36829,
+      "name": "San Esteban de Nogales",
+      "latitude": "42.15995000",
+      "longitude": "-5.93065000"
+    },
+    {
+      "id": 36838,
+      "name": "San Ildefonso",
+      "latitude": "40.90182000",
+      "longitude": "-4.00685000"
+    },
+    {
+      "id": 36854,
+      "name": "San Justo de la Vega",
+      "latitude": "42.45696000",
+      "longitude": "-6.01825000"
+    },
+    {
+      "id": 36892,
+      "name": "San Millán de los Caballeros",
+      "latitude": "42.28520000",
+      "longitude": "-5.56107000"
+    },
+    {
+      "id": 36900,
+      "name": "San Pedro Bercianos",
+      "latitude": "42.39145000",
+      "longitude": "-5.71341000"
+    },
+    {
+      "id": 36934,
+      "name": "Sancedo",
+      "latitude": "42.66666000",
+      "longitude": "-6.63456000"
+    },
+    {
+      "id": 37018,
+      "name": "Santa Colomba de Curueño",
+      "latitude": "42.75058000",
+      "longitude": "-5.41201000"
+    },
+    {
+      "id": 37019,
+      "name": "Santa Colomba de Somoza",
+      "latitude": "42.44466000",
+      "longitude": "-6.24483000"
+    },
+    {
+      "id": 37023,
+      "name": "Santa Cristina de Valmadrigal",
+      "latitude": "42.35446000",
+      "longitude": "-5.30929000"
+    },
+    {
+      "id": 37048,
+      "name": "Santa Elena de Jamuz",
+      "latitude": "42.26064000",
+      "longitude": "-5.88762000"
+    },
+    {
+      "id": 37080,
+      "name": "Santa María de la Isla",
+      "latitude": "42.35533000",
+      "longitude": "-5.92870000"
+    },
+    {
+      "id": 37076,
+      "name": "Santa María de Ordás",
+      "latitude": "42.72653000",
+      "longitude": "-5.82301000"
+    },
+    {
+      "id": 37088,
+      "name": "Santa María del Monte de Cea",
+      "latitude": "42.49137000",
+      "longitude": "-5.11689000"
+    },
+    {
+      "id": 37089,
+      "name": "Santa María del Páramo",
+      "latitude": "42.35512000",
+      "longitude": "-5.75151000"
+    },
+    {
+      "id": 37068,
+      "name": "Santa Marina del Rey",
+      "latitude": "42.51334000",
+      "longitude": "-5.86065000"
+    },
+    {
+      "id": 37108,
+      "name": "Santas Martas",
+      "latitude": "42.43220000",
+      "longitude": "-5.37066000"
+    },
+    {
+      "id": 37112,
+      "name": "Santiago Millas",
+      "latitude": "42.38379000",
+      "longitude": "-6.10538000"
+    },
+    {
+      "id": 152995,
+      "name": "Santovenia de la Valdoncina",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37162,
+      "name": "Sariegos",
+      "latitude": "42.65000000",
+      "longitude": "-5.63333000"
+    },
+    {
+      "id": 37208,
+      "name": "Sena de Luna",
+      "latitude": "42.92906000",
+      "longitude": "-5.95267000"
+    },
+    {
+      "id": 37275,
+      "name": "Sobrado",
+      "latitude": "42.51667000",
+      "longitude": "-6.85000000"
+    },
+    {
+      "id": 37318,
+      "name": "Soto de la Vega",
+      "latitude": "42.33227000",
+      "longitude": "-5.88225000"
+    },
+    {
+      "id": 37320,
+      "name": "Soto y Amío",
+      "latitude": "42.77477000",
+      "longitude": "-5.88693000"
+    },
+    {
+      "id": 37454,
+      "name": "Toral de los Guzmanes",
+      "latitude": "42.24274000",
+      "longitude": "-5.56771000"
+    },
+    {
+      "id": 152999,
+      "name": "Toral de los Vados",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37464,
+      "name": "Toreno",
+      "latitude": "42.69955000",
+      "longitude": "-6.51236000"
+    },
+    {
+      "id": 37499,
+      "name": "Torre del Bierzo",
+      "latitude": "42.60769000",
+      "longitude": "-6.36675000"
+    },
+    {
+      "id": 37612,
+      "name": "Trabadelo",
+      "latitude": "42.64874000",
+      "longitude": "-6.88000000"
+    },
+    {
+      "id": 37643,
+      "name": "Truchas",
+      "latitude": "42.26093000",
+      "longitude": "-6.43605000"
+    },
+    {
+      "id": 37654,
+      "name": "Turcia",
+      "latitude": "42.53431000",
+      "longitude": "-5.87844000"
+    },
+    {
+      "id": 37691,
+      "name": "Urdiales del Páramo",
+      "latitude": "42.37034000",
+      "longitude": "-5.77297000"
+    },
+    {
+      "id": 37719,
+      "name": "Val de San Lorenzo",
+      "latitude": "42.41819000",
+      "longitude": "-6.12391000"
+    },
+    {
+      "id": 37744,
+      "name": "Valdefresno",
+      "latitude": "42.59492000",
+      "longitude": "-5.49355000"
+    },
+    {
+      "id": 37747,
+      "name": "Valdefuentes del Páramo",
+      "latitude": "42.32370000",
+      "longitude": "-5.83097000"
+    },
+    {
+      "id": 152996,
+      "name": "Valdelugueros",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37770,
+      "name": "Valdemora",
+      "latitude": "42.19541000",
+      "longitude": "-5.42747000"
+    },
+    {
+      "id": 37785,
+      "name": "Valdepiélago",
+      "latitude": "42.86895000",
+      "longitude": "-5.39763000"
+    },
+    {
+      "id": 37787,
+      "name": "Valdepolo",
+      "latitude": "42.57686000",
+      "longitude": "-5.22513000"
+    },
+    {
+      "id": 37790,
+      "name": "Valderas",
+      "latitude": "42.07830000",
+      "longitude": "-5.44355000"
+    },
+    {
+      "id": 37792,
+      "name": "Valderrey",
+      "latitude": "42.39408000",
+      "longitude": "-6.02151000"
+    },
+    {
+      "id": 37797,
+      "name": "Valderrueda",
+      "latitude": "42.81558000",
+      "longitude": "-4.94731000"
+    },
+    {
+      "id": 37799,
+      "name": "Valdesamario",
+      "latitude": "42.72094000",
+      "longitude": "-5.95104000"
+    },
+    {
+      "id": 37807,
+      "name": "Valdevimbre",
+      "latitude": "42.41959000",
+      "longitude": "-5.61975000"
+    },
+    {
+      "id": 37818,
+      "name": "Valencia de Don Juan",
+      "latitude": "42.29374000",
+      "longitude": "-5.51720000"
+    },
+    {
+      "id": 37849,
+      "name": "Vallecillo",
+      "latitude": "42.35604000",
+      "longitude": "-5.21088000"
+    },
+    {
+      "id": 37891,
+      "name": "Valverde de la Virgen",
+      "latitude": "42.56823000",
+      "longitude": "-5.68461000"
+    },
+    {
+      "id": 37896,
+      "name": "Valverde-Enrique",
+      "latitude": "42.30459000",
+      "longitude": "-5.29990000"
+    },
+    {
+      "id": 152997,
+      "name": "Vecilla La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37903,
+      "name": "Vega de Espinareda",
+      "latitude": "42.72537000",
+      "longitude": "-6.65439000"
+    },
+    {
+      "id": 37904,
+      "name": "Vega de Infanzones",
+      "latitude": "42.48116000",
+      "longitude": "-5.53295000"
+    },
+    {
+      "id": 37911,
+      "name": "Vega de Valcarce",
+      "latitude": "42.66068000",
+      "longitude": "-6.93785000"
+    },
+    {
+      "id": 37915,
+      "name": "Vegacervera",
+      "latitude": "42.88808000",
+      "longitude": "-5.53549000"
+    },
+    {
+      "id": 37918,
+      "name": "Vegaquemada",
+      "latitude": "42.81870000",
+      "longitude": "-5.33242000"
+    },
+    {
+      "id": 152998,
+      "name": "Vegas del Condado",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38017,
+      "name": "Villablino",
+      "latitude": "42.93932000",
+      "longitude": "-6.31943000"
+    },
+    {
+      "id": 38019,
+      "name": "Villabraz",
+      "latitude": "42.24658000",
+      "longitude": "-5.44593000"
+    },
+    {
+      "id": 38037,
+      "name": "Villadangos del Páramo",
+      "latitude": "42.51672000",
+      "longitude": "-5.76737000"
+    },
+    {
+      "id": 38038,
+      "name": "Villadecanes",
+      "latitude": "42.57973000",
+      "longitude": "-6.75971000"
+    },
+    {
+      "id": 38039,
+      "name": "Villademor de la Vega",
+      "latitude": "42.26964000",
+      "longitude": "-5.56808000"
+    },
+    {
+      "id": 38062,
+      "name": "Villafranca del Bierzo",
+      "latitude": "42.60601000",
+      "longitude": "-6.81069000"
+    },
+    {
+      "id": 38074,
+      "name": "Villagatón",
+      "latitude": "42.63413000",
+      "longitude": "-6.16184000"
+    },
+    {
+      "id": 38078,
+      "name": "Villagonzalo-Pedernales",
+      "latitude": "42.30145000",
+      "longitude": "-3.73539000"
+    },
+    {
+      "id": 38147,
+      "name": "Villamañán",
+      "latitude": "42.32198000",
+      "longitude": "-5.58195000"
+    },
+    {
+      "id": 38129,
+      "name": "Villamandos",
+      "latitude": "42.18058000",
+      "longitude": "-5.59397000"
+    },
+    {
+      "id": 38135,
+      "name": "Villamanín",
+      "latitude": "42.93864000",
+      "longitude": "-5.65669000"
+    },
+    {
+      "id": 38138,
+      "name": "Villamartín de Don Sancho",
+      "latitude": "42.56943000",
+      "longitude": "-5.06056000"
+    },
+    {
+      "id": 38151,
+      "name": "Villamejil",
+      "latitude": "42.56205000",
+      "longitude": "-6.02514000"
+    },
+    {
+      "id": 38158,
+      "name": "Villamol",
+      "latitude": "42.42766000",
+      "longitude": "-5.04832000"
+    },
+    {
+      "id": 38159,
+      "name": "Villamontán de la Valduerna",
+      "latitude": "42.30962000",
+      "longitude": "-5.99656000"
+    },
+    {
+      "id": 38161,
+      "name": "Villamoratiel de las Matas",
+      "latitude": "42.39755000",
+      "longitude": "-5.30064000"
+    },
+    {
+      "id": 38206,
+      "name": "Villanueva de las Manzanas",
+      "latitude": "42.47264000",
+      "longitude": "-5.48043000"
+    },
+    {
+      "id": 38228,
+      "name": "Villaobispo de Otero",
+      "latitude": "42.50065000",
+      "longitude": "-6.05809000"
+    },
+    {
+      "id": 153000,
+      "name": "Villaornate y Castro",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38231,
+      "name": "Villaquejida",
+      "latitude": "42.14500000",
+      "longitude": "-5.59699000"
+    },
+    {
+      "id": 38232,
+      "name": "Villaquilambre",
+      "latitude": "42.64685000",
+      "longitude": "-5.55835000"
+    },
+    {
+      "id": 38275,
+      "name": "Villarejo de Órbigo",
+      "latitude": "42.44559000",
+      "longitude": "-5.90462000"
+    },
+    {
+      "id": 38281,
+      "name": "Villares de Órbigo",
+      "latitude": "42.46955000",
+      "longitude": "-5.91002000"
+    },
+    {
+      "id": 38310,
+      "name": "Villasabariego",
+      "latitude": "42.53288000",
+      "longitude": "-5.41322000"
+    },
+    {
+      "id": 38311,
+      "name": "Villasana de Mena",
+      "latitude": "43.10017000",
+      "longitude": "-3.28253000"
+    },
+    {
+      "id": 38324,
+      "name": "Villaselán",
+      "latitude": "42.56105000",
+      "longitude": "-5.04820000"
+    },
+    {
+      "id": 38336,
+      "name": "Villaturiel",
+      "latitude": "42.51819000",
+      "longitude": "-5.48615000"
+    },
+    {
+      "id": 38362,
+      "name": "Villazala",
+      "latitude": "42.36146000",
+      "longitude": "-5.85600000"
+    },
+    {
+      "id": 38363,
+      "name": "Villazanzo de Valderaduey",
+      "latitude": "42.53592000",
+      "longitude": "-4.96462000"
+    },
+    {
+      "id": 38500,
+      "name": "Zotes del Páramo",
+      "latitude": "42.27268000",
+      "longitude": "-5.73617000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

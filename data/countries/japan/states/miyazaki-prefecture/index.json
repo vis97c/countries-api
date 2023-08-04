@@ -1,0 +1,156 @@
+{
+  "id": 855,
+  "name": "Miyazaki Prefecture",
+  "state_code": "45",
+  "latitude": "32.60360220",
+  "longitude": "131.44125100",
+  "type": null,
+  "cities": [
+    {
+      "id": 63328,
+      "name": "Ebino-shi",
+      "latitude": "32.01667000",
+      "longitude": "130.80000000"
+    },
+    {
+      "id": 63527,
+      "name": "Hyūga-shi",
+      "latitude": "32.37710000",
+      "longitude": "131.52275000"
+    },
+    {
+      "id": 63818,
+      "name": "Kobayashi",
+      "latitude": "31.98333000",
+      "longitude": "130.98333000"
+    },
+    {
+      "id": 63819,
+      "name": "Kobayashi Shi",
+      "latitude": "32.04556000",
+      "longitude": "131.02762000"
+    },
+    {
+      "id": 63884,
+      "name": "Kushima",
+      "latitude": "31.48621000",
+      "longitude": "131.24210000"
+    },
+    {
+      "id": 63885,
+      "name": "Kushima Shi",
+      "latitude": "31.48571000",
+      "longitude": "131.26485000"
+    },
+    {
+      "id": 64003,
+      "name": "Miyakonojō",
+      "latitude": "31.73333000",
+      "longitude": "131.06667000"
+    },
+    {
+      "id": 64004,
+      "name": "Miyakonojō Shi",
+      "latitude": "31.80920000",
+      "longitude": "131.07904000"
+    },
+    {
+      "id": 64009,
+      "name": "Miyazaki",
+      "latitude": "31.91667000",
+      "longitude": "131.41667000"
+    },
+    {
+      "id": 64010,
+      "name": "Miyazaki-shi",
+      "latitude": "31.96192000",
+      "longitude": "131.38455000"
+    },
+    {
+      "id": 64125,
+      "name": "Nichinan",
+      "latitude": "31.60000000",
+      "longitude": "131.36667000"
+    },
+    {
+      "id": 64126,
+      "name": "Nichinan Shi",
+      "latitude": "31.63737000",
+      "longitude": "131.33409000"
+    },
+    {
+      "id": 64159,
+      "name": "Nobeoka",
+      "latitude": "32.58333000",
+      "longitude": "131.66667000"
+    },
+    {
+      "id": 64160,
+      "name": "Nobeoka-shi",
+      "latitude": "32.67238000",
+      "longitude": "131.64311000"
+    },
+    {
+      "id": 64252,
+      "name": "Saito-shi",
+      "latitude": "32.17288000",
+      "longitude": "131.31543000"
+    },
+    {
+      "id": 64429,
+      "name": "Takanabe",
+      "latitude": "32.13333000",
+      "longitude": "131.50000000"
+    },
+    {
+      "id": 64551,
+      "name": "Tsuma",
+      "latitude": "32.10000000",
+      "longitude": "131.40000000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

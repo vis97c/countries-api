@@ -1,0 +1,78 @@
+{
+  "id": 13,
+  "name": "Bar Municipality",
+  "state_code": "02",
+  "latitude": "42.12781190",
+  "longitude": "19.14043800",
+  "type": null,
+  "cities": [
+    {
+      "id": 67344,
+      "name": "Bar",
+      "latitude": "42.09306000",
+      "longitude": "19.10028000"
+    },
+    {
+      "id": 67369,
+      "name": "Stari Bar",
+      "latitude": "42.09700000",
+      "longitude": "19.13600000"
+    },
+    {
+      "id": 67375,
+      "name": "Šušanj",
+      "latitude": "42.11556000",
+      "longitude": "19.08833000"
+    },
+    {
+      "id": 67370,
+      "name": "Sutomore",
+      "latitude": "42.14278000",
+      "longitude": "19.04667000"
+    }
+  ],
+  "country": {
+    "id": 147,
+    "name": "Montenegro",
+    "iso3": "MNE",
+    "iso2": "ME",
+    "numeric_code": "499",
+    "phone_code": "382",
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".me",
+    "native": "Црна Гора",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Podgorica",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몬테네그로",
+      "pt-BR": "Montenegro",
+      "pt": "Montenegro",
+      "nl": "Montenegro",
+      "hr": "Crna Gora",
+      "fa": "مونته‌نگرو",
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "fr": "Monténégro",
+      "ja": "モンテネグロ",
+      "it": "Montenegro",
+      "cn": "黑山",
+      "tr": "Karadağ"
+    },
+    "latitude": "42.50000000",
+    "longitude": "19.30000000",
+    "emoji": "🇲🇪",
+    "emojiU": "U+1F1F2 U+1F1EA"
+  }
+}

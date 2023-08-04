@@ -1,0 +1,390 @@
+{
+  "id": 861,
+  "name": "Fukuoka Prefecture",
+  "state_code": "40",
+  "latitude": "33.56625590",
+  "longitude": "130.71585700",
+  "type": null,
+  "cities": [
+    {
+      "id": 63239,
+      "name": "Amagi",
+      "latitude": "33.41804000",
+      "longitude": "130.65413000"
+    },
+    {
+      "id": 63263,
+      "name": "Asakura Shi",
+      "latitude": "33.41684000",
+      "longitude": "130.74167000"
+    },
+    {
+      "id": 63290,
+      "name": "Buzen",
+      "latitude": "33.61153000",
+      "longitude": "131.13002000"
+    },
+    {
+      "id": 63291,
+      "name": "Buzen-shi",
+      "latitude": "33.56743000",
+      "longitude": "131.08578000"
+    },
+    {
+      "id": 63298,
+      "name": "Chikugo Shi",
+      "latitude": "33.20748000",
+      "longitude": "130.49122000"
+    },
+    {
+      "id": 63302,
+      "name": "Chikushino-shi",
+      "latitude": "33.49631000",
+      "longitude": "130.51560000"
+    },
+    {
+      "id": 63325,
+      "name": "Dazaifu-shi",
+      "latitude": "33.50000000",
+      "longitude": "130.53333000"
+    },
+    {
+      "id": 63365,
+      "name": "Fukuoka",
+      "latitude": "33.60000000",
+      "longitude": "130.41667000"
+    },
+    {
+      "id": 63366,
+      "name": "Fukuoka-shi",
+      "latitude": "33.56894000",
+      "longitude": "130.35764000"
+    },
+    {
+      "id": 63372,
+      "name": "Fukutsu Shi",
+      "latitude": "33.77982000",
+      "longitude": "130.49804000"
+    },
+    {
+      "id": 63551,
+      "name": "Iizuka",
+      "latitude": "33.63654000",
+      "longitude": "130.68678000"
+    },
+    {
+      "id": 63552,
+      "name": "Iizuka Shi",
+      "latitude": "33.61353000",
+      "longitude": "130.66098000"
+    },
+    {
+      "id": 63614,
+      "name": "Itoshima-shi",
+      "latitude": "33.53317000",
+      "longitude": "130.17975000"
+    },
+    {
+      "id": 63676,
+      "name": "Kama Shi",
+      "latitude": "33.53663000",
+      "longitude": "130.74028000"
+    },
+    {
+      "id": 63708,
+      "name": "Kanda",
+      "latitude": "33.78333000",
+      "longitude": "130.98333000"
+    },
+    {
+      "id": 63744,
+      "name": "Kasuga Shi",
+      "latitude": "33.52404000",
+      "longitude": "130.45641000"
+    },
+    {
+      "id": 63776,
+      "name": "Kawasaki",
+      "latitude": "33.59993000",
+      "longitude": "130.81495000"
+    },
+    {
+      "id": 63808,
+      "name": "Kitakyushu",
+      "latitude": "33.85181000",
+      "longitude": "130.85034000"
+    },
+    {
+      "id": 63823,
+      "name": "Koga",
+      "latitude": "33.73333000",
+      "longitude": "130.46667000"
+    },
+    {
+      "id": 63825,
+      "name": "Koga-shi",
+      "latitude": "33.72139000",
+      "longitude": "130.49947000"
+    },
+    {
+      "id": 63879,
+      "name": "Kurume",
+      "latitude": "33.31667000",
+      "longitude": "130.51667000"
+    },
+    {
+      "id": 63880,
+      "name": "Kurume Shi",
+      "latitude": "33.30358000",
+      "longitude": "130.56549000"
+    },
+    {
+      "id": 63907,
+      "name": "Maebaru-chūō",
+      "latitude": "33.55916000",
+      "longitude": "130.20148000"
+    },
+    {
+      "id": 64005,
+      "name": "Miyama Shi",
+      "latitude": "33.12369000",
+      "longitude": "130.49540000"
+    },
+    {
+      "id": 64007,
+      "name": "Miyata",
+      "latitude": "33.70811000",
+      "longitude": "130.65297000"
+    },
+    {
+      "id": 64008,
+      "name": "Miyawaka Shi",
+      "latitude": "33.71559000",
+      "longitude": "130.61506000"
+    },
+    {
+      "id": 64044,
+      "name": "Munakata-shi",
+      "latitude": "33.80000000",
+      "longitude": "130.55000000"
+    },
+    {
+      "id": 64084,
+      "name": "Nakama",
+      "latitude": "33.81688000",
+      "longitude": "130.70962000"
+    },
+    {
+      "id": 64085,
+      "name": "Nakama Shi",
+      "latitude": "33.82081000",
+      "longitude": "130.70862000"
+    },
+    {
+      "id": 64147,
+      "name": "Nishifukuma",
+      "latitude": "33.76627000",
+      "longitude": "130.47461000"
+    },
+    {
+      "id": 64174,
+      "name": "Nōgata",
+      "latitude": "33.74051000",
+      "longitude": "130.72263000"
+    },
+    {
+      "id": 64175,
+      "name": "Nōgata Shi",
+      "latitude": "33.75116000",
+      "longitude": "130.74592000"
+    },
+    {
+      "id": 64189,
+      "name": "Ogōri-shi",
+      "latitude": "33.38333000",
+      "longitude": "130.56667000"
+    },
+    {
+      "id": 64730,
+      "name": "Ōkawa",
+      "latitude": "33.20566000",
+      "longitude": "130.37527000"
+    },
+    {
+      "id": 64731,
+      "name": "Ōkawa-shi",
+      "latitude": "33.20736000",
+      "longitude": "130.38253000"
+    },
+    {
+      "id": 64745,
+      "name": "Ōmuta",
+      "latitude": "33.03333000",
+      "longitude": "130.45000000"
+    },
+    {
+      "id": 64746,
+      "name": "Ōmuta Shi",
+      "latitude": "33.04616000",
+      "longitude": "130.46912000"
+    },
+    {
+      "id": 64207,
+      "name": "Onga-gun",
+      "latitude": "33.85699000",
+      "longitude": "130.63626000"
+    },
+    {
+      "id": 64749,
+      "name": "Ōnojō",
+      "latitude": "33.53567000",
+      "longitude": "130.47861000"
+    },
+    {
+      "id": 64750,
+      "name": "Ōnojō Shi",
+      "latitude": "33.51302000",
+      "longitude": "130.47925000"
+    },
+    {
+      "id": 64287,
+      "name": "Sasaguri",
+      "latitude": "33.61561000",
+      "longitude": "130.55105000"
+    },
+    {
+      "id": 64303,
+      "name": "Setakamachi-takayanagi",
+      "latitude": "33.14858000",
+      "longitude": "130.46548000"
+    },
+    {
+      "id": 64318,
+      "name": "Shiida",
+      "latitude": "33.65341000",
+      "longitude": "131.05797000"
+    },
+    {
+      "id": 64340,
+      "name": "Shingū",
+      "latitude": "33.71399000",
+      "longitude": "130.43130000"
+    },
+    {
+      "id": 64408,
+      "name": "Tagawa",
+      "latitude": "33.63333000",
+      "longitude": "130.80000000"
+    },
+    {
+      "id": 64409,
+      "name": "Tagawa Shi",
+      "latitude": "33.63159000",
+      "longitude": "130.79966000"
+    },
+    {
+      "id": 64468,
+      "name": "Tanushimarumachi-toyoki",
+      "latitude": "33.35000000",
+      "longitude": "130.68333000"
+    },
+    {
+      "id": 64543,
+      "name": "Tsuiki",
+      "latitude": "33.67307000",
+      "longitude": "131.03776000"
+    },
+    {
+      "id": 64588,
+      "name": "Ukiha Shi",
+      "latitude": "33.31184000",
+      "longitude": "130.79325000"
+    },
+    {
+      "id": 64589,
+      "name": "Umi",
+      "latitude": "33.56826000",
+      "longitude": "130.51009000"
+    },
+    {
+      "id": 64648,
+      "name": "Yame Shi",
+      "latitude": "33.23302000",
+      "longitude": "130.62775000"
+    },
+    {
+      "id": 64650,
+      "name": "Yanagawa",
+      "latitude": "33.16667000",
+      "longitude": "130.40000000"
+    },
+    {
+      "id": 64651,
+      "name": "Yanagawa Shi",
+      "latitude": "33.14932000",
+      "longitude": "130.40725000"
+    },
+    {
+      "id": 64689,
+      "name": "Yoshitomi",
+      "latitude": "33.60247000",
+      "longitude": "131.17599000"
+    },
+    {
+      "id": 64696,
+      "name": "Yukuhashi",
+      "latitude": "33.72873000",
+      "longitude": "130.98300000"
+    },
+    {
+      "id": 64697,
+      "name": "Yukuhashi Shi",
+      "latitude": "33.71404000",
+      "longitude": "130.97108000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 4963,
+  "name": "Western North",
+  "state_code": "WN",
+  "latitude": "6.30000000",
+  "longitude": "-2.80000000",
+  "type": "region",
+  "cities": [
+    {
+      "id": 149119,
+      "name": "Aowin",
+      "latitude": "5.75309280",
+      "longitude": "-3.07518870"
+    },
+    {
+      "id": 149120,
+      "name": "Bia East",
+      "latitude": "6.76860400",
+      "longitude": "-3.33302410"
+    },
+    {
+      "id": 149121,
+      "name": "Bia West",
+      "latitude": "6.76860400",
+      "longitude": "-3.33302410"
+    },
+    {
+      "id": 149122,
+      "name": "Bibiani-Anhwiaso-Bekwai",
+      "latitude": "6.30210040",
+      "longitude": "-2.35675070"
+    },
+    {
+      "id": 149123,
+      "name": "Bodi",
+      "latitude": "6.22240910",
+      "longitude": "-2.76615150"
+    },
+    {
+      "id": 149124,
+      "name": "Juaboso",
+      "latitude": "6.33331570",
+      "longitude": "-2.84206140"
+    },
+    {
+      "id": 149125,
+      "name": "Sefwi-Akontombra",
+      "latitude": "6.04285480",
+      "longitude": "-2.88133620"
+    },
+    {
+      "id": 149126,
+      "name": "Sefwi-Wiawso",
+      "latitude": "6.21965670",
+      "longitude": "-2.50059150"
+    },
+    {
+      "id": 149127,
+      "name": "Suaman",
+      "latitude": "5.75309280",
+      "longitude": "-3.07518870"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

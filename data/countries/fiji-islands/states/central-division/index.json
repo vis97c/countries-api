@@ -1,0 +1,90 @@
+{
+  "id": 1929,
+  "name": "Central Division",
+  "state_code": "C",
+  "latitude": "34.04400660",
+  "longitude": "-118.24727380",
+  "type": null,
+  "cities": [
+    {
+      "id": 39145,
+      "name": "Naitasiri Province",
+      "latitude": "-17.83333000",
+      "longitude": "178.25000000"
+    },
+    {
+      "id": 39146,
+      "name": "Namosi Province",
+      "latitude": "-18.05000000",
+      "longitude": "178.13333000"
+    },
+    {
+      "id": 39149,
+      "name": "Rewa Province",
+      "latitude": "-18.08333000",
+      "longitude": "178.33333000"
+    },
+    {
+      "id": 39150,
+      "name": "Serua Province",
+      "latitude": "-18.16667000",
+      "longitude": "178.00000000"
+    },
+    {
+      "id": 39151,
+      "name": "Suva",
+      "latitude": "-18.14161000",
+      "longitude": "178.44149000"
+    },
+    {
+      "id": 39152,
+      "name": "Tailevu Province",
+      "latitude": "-17.83333000",
+      "longitude": "178.50000000"
+    }
+  ],
+  "country": {
+    "id": 73,
+    "name": "Fiji Islands",
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "numeric_code": "242",
+    "phone_code": "679",
+    "capital": "Suva",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "native": "Fiji",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "translations": {
+      "kr": "피지",
+      "pt-BR": "Fiji",
+      "pt": "Fiji",
+      "nl": "Fiji",
+      "hr": "Fiđi",
+      "fa": "فیجی",
+      "de": "Fidschi",
+      "es": "Fiyi",
+      "fr": "Fidji",
+      "ja": "フィジー",
+      "it": "Figi",
+      "cn": "斐济",
+      "tr": "Fiji"
+    },
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  }
+}
