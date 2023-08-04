@@ -1,0 +1,575 @@
+{
+  "id": 3638,
+  "name": "Corrientes",
+  "state_code": "W",
+  "latitude": "-27.46921310",
+  "longitude": "-58.83063490",
+  "type": "province",
+  "cities": [
+    {
+      "id": 658,
+      "name": "Alvear",
+      "latitude": "-29.09683000",
+      "longitude": "-56.55043000"
+    },
+    {
+      "id": 696,
+      "name": "Berón de Astrada",
+      "latitude": "-27.55067000",
+      "longitude": "-57.53460000"
+    },
+    {
+      "id": 698,
+      "name": "Bonpland",
+      "latitude": "-29.81708000",
+      "longitude": "-57.42974000"
+    },
+    {
+      "id": 756,
+      "name": "Chavarría",
+      "latitude": "-28.95489000",
+      "longitude": "-58.57277000"
+    },
+    {
+      "id": 789,
+      "name": "Concepción",
+      "latitude": "-28.39175000",
+      "longitude": "-57.88777000"
+    },
+    {
+      "id": 803,
+      "name": "Corrientes",
+      "latitude": "-27.46784000",
+      "longitude": "-58.83440000"
+    },
+    {
+      "id": 810,
+      "name": "Cruz de los Milagros",
+      "latitude": "-28.83646000",
+      "longitude": "-59.00476000"
+    },
+    {
+      "id": 813,
+      "name": "Curuzú Cuatiá",
+      "latitude": "-29.79171000",
+      "longitude": "-58.05460000"
+    },
+    {
+      "id": 836,
+      "name": "Departamento de Bella Vista",
+      "latitude": "-28.50000000",
+      "longitude": "-58.83333000"
+    },
+    {
+      "id": 838,
+      "name": "Departamento de Berón de Astrada",
+      "latitude": "-27.50000000",
+      "longitude": "-57.66667000"
+    },
+    {
+      "id": 847,
+      "name": "Departamento de Capital",
+      "latitude": "-27.50000000",
+      "longitude": "-58.75000000"
+    },
+    {
+      "id": 866,
+      "name": "Departamento de Concepción",
+      "latitude": "-28.33333000",
+      "longitude": "-58.00000000"
+    },
+    {
+      "id": 872,
+      "name": "Departamento de Curuzú Cuatiá",
+      "latitude": "-29.50000000",
+      "longitude": "-58.50000000"
+    },
+    {
+      "id": 879,
+      "name": "Departamento de Empedrado",
+      "latitude": "-27.83333000",
+      "longitude": "-58.66667000"
+    },
+    {
+      "id": 881,
+      "name": "Departamento de Esquina",
+      "latitude": "-30.00000000",
+      "longitude": "-59.33333000"
+    },
+    {
+      "id": 888,
+      "name": "Departamento de General Alvear",
+      "latitude": "-28.83333000",
+      "longitude": "-56.50000000"
+    },
+    {
+      "id": 895,
+      "name": "Departamento de General Paz",
+      "latitude": "-27.75000000",
+      "longitude": "-57.83333000"
+    },
+    {
+      "id": 899,
+      "name": "Departamento de Goya",
+      "latitude": "-29.50000000",
+      "longitude": "-59.50000000"
+    },
+    {
+      "id": 912,
+      "name": "Departamento de Itatí",
+      "latitude": "-27.33333000",
+      "longitude": "-58.00000000"
+    },
+    {
+      "id": 913,
+      "name": "Departamento de Ituzaingó",
+      "latitude": "-27.90085000",
+      "longitude": "-56.86604000"
+    },
+    {
+      "id": 925,
+      "name": "Departamento de Lavalle",
+      "latitude": "-29.00000000",
+      "longitude": "-58.91667000"
+    },
+    {
+      "id": 940,
+      "name": "Departamento de Mburucuyá",
+      "latitude": "-28.00000000",
+      "longitude": "-58.25000000"
+    },
+    {
+      "id": 941,
+      "name": "Departamento de Mercedes",
+      "latitude": "-29.00000000",
+      "longitude": "-57.83333000"
+    },
+    {
+      "id": 945,
+      "name": "Departamento de Monte Caseros",
+      "latitude": "-30.25000000",
+      "longitude": "-57.83333000"
+    },
+    {
+      "id": 957,
+      "name": "Departamento de Paso de los Libres",
+      "latitude": "-29.66667000",
+      "longitude": "-57.25000000"
+    },
+    {
+      "id": 980,
+      "name": "Departamento de Saladas",
+      "latitude": "-28.25000000",
+      "longitude": "-58.75000000"
+    },
+    {
+      "id": 984,
+      "name": "Departamento de San Cosme",
+      "latitude": "-27.33333000",
+      "longitude": "-58.50000000"
+    },
+    {
+      "id": 995,
+      "name": "Departamento de San Luis del Palmar",
+      "latitude": "-27.50000000",
+      "longitude": "-58.25000000"
+    },
+    {
+      "id": 996,
+      "name": "Departamento de San Martín",
+      "latitude": "-28.83333000",
+      "longitude": "-56.91667000"
+    },
+    {
+      "id": 1001,
+      "name": "Departamento de San Miguel",
+      "latitude": "-27.91667000",
+      "longitude": "-57.50000000"
+    },
+    {
+      "id": 1004,
+      "name": "Departamento de San Roque",
+      "latitude": "-28.66667000",
+      "longitude": "-58.75000000"
+    },
+    {
+      "id": 1009,
+      "name": "Departamento de Santo Tomé",
+      "latitude": "-28.25000000",
+      "longitude": "-56.25000000"
+    },
+    {
+      "id": 1014,
+      "name": "Departamento de Sauce",
+      "latitude": "-30.00000000",
+      "longitude": "-58.66667000"
+    },
+    {
+      "id": 1068,
+      "name": "Empedrado",
+      "latitude": "-27.95178000",
+      "longitude": "-58.80584000"
+    },
+    {
+      "id": 1071,
+      "name": "Esquina",
+      "latitude": "-30.01476000",
+      "longitude": "-59.52890000"
+    },
+    {
+      "id": 1077,
+      "name": "Felipe Yofré",
+      "latitude": "-29.10226000",
+      "longitude": "-58.33772000"
+    },
+    {
+      "id": 1089,
+      "name": "Garruchos",
+      "latitude": "-28.17208000",
+      "longitude": "-55.65406000"
+    },
+    {
+      "id": 1118,
+      "name": "Gobernador Juan E. Martínez",
+      "latitude": "-28.91161000",
+      "longitude": "-58.93594000"
+    },
+    {
+      "id": 1121,
+      "name": "Gobernador Virasora",
+      "latitude": "-28.05000000",
+      "longitude": "-56.03333000"
+    },
+    {
+      "id": 1123,
+      "name": "Goya",
+      "latitude": "-29.13995000",
+      "longitude": "-59.26343000"
+    },
+    {
+      "id": 1134,
+      "name": "Herlitzka",
+      "latitude": "-27.56516000",
+      "longitude": "-58.25557000"
+    },
+    {
+      "id": 1163,
+      "name": "Itá Ibaté",
+      "latitude": "-27.42573000",
+      "longitude": "-57.33758000"
+    },
+    {
+      "id": 1161,
+      "name": "Itatí",
+      "latitude": "-27.27043000",
+      "longitude": "-58.24458000"
+    },
+    {
+      "id": 1162,
+      "name": "Ituzaingó",
+      "latitude": "-27.58162000",
+      "longitude": "-56.68231000"
+    },
+    {
+      "id": 1171,
+      "name": "Juan Pujol",
+      "latitude": "-30.41873000",
+      "longitude": "-57.85612000"
+    },
+    {
+      "id": 1184,
+      "name": "La Cruz",
+      "latitude": "-29.17443000",
+      "longitude": "-56.64326000"
+    },
+    {
+      "id": 1235,
+      "name": "Libertad",
+      "latitude": "-30.04300000",
+      "longitude": "-57.82020000"
+    },
+    {
+      "id": 1237,
+      "name": "Lomas de Vallejos",
+      "latitude": "-27.73501000",
+      "longitude": "-57.91850000"
+    },
+    {
+      "id": 1242,
+      "name": "Loreto",
+      "latitude": "-27.76834000",
+      "longitude": "-57.27531000"
+    },
+    {
+      "id": 1271,
+      "name": "Mariano I. Loza",
+      "latitude": "-29.37667000",
+      "longitude": "-58.19436000"
+    },
+    {
+      "id": 1275,
+      "name": "Mburucuyá",
+      "latitude": "-28.04532000",
+      "longitude": "-58.22835000"
+    },
+    {
+      "id": 1279,
+      "name": "Mercedes",
+      "latitude": "-29.18416000",
+      "longitude": "-58.07519000"
+    },
+    {
+      "id": 1284,
+      "name": "Mocoretá",
+      "latitude": "-30.61891000",
+      "longitude": "-57.96344000"
+    },
+    {
+      "id": 1287,
+      "name": "Monte Caseros",
+      "latitude": "-30.25359000",
+      "longitude": "-57.63626000"
+    },
+    {
+      "id": 1301,
+      "name": "Nuestra Señora del Rosario de Caa Catí",
+      "latitude": "-27.75072000",
+      "longitude": "-57.62073000"
+    },
+    {
+      "id": 1303,
+      "name": "Nueve de Julio",
+      "latitude": "-28.84051000",
+      "longitude": "-58.82650000"
+    },
+    {
+      "id": 1311,
+      "name": "Palmar Grande",
+      "latitude": "-27.94195000",
+      "longitude": "-57.90057000"
+    },
+    {
+      "id": 1323,
+      "name": "Paso de la Patria",
+      "latitude": "-27.31676000",
+      "longitude": "-58.57197000"
+    },
+    {
+      "id": 1324,
+      "name": "Paso de los Libres",
+      "latitude": "-29.71251000",
+      "longitude": "-57.08771000"
+    },
+    {
+      "id": 1325,
+      "name": "Pedro R. Fernández",
+      "latitude": "-28.75097000",
+      "longitude": "-58.65583000"
+    },
+    {
+      "id": 1327,
+      "name": "Perugorría",
+      "latitude": "-29.34132000",
+      "longitude": "-58.61059000"
+    },
+    {
+      "id": 1349,
+      "name": "Pueblo Libertador",
+      "latitude": "-30.22087000",
+      "longitude": "-59.38981000"
+    },
+    {
+      "id": 1382,
+      "name": "Riachuelo",
+      "latitude": "-27.58191000",
+      "longitude": "-58.74497000"
+    },
+    {
+      "id": 1399,
+      "name": "Saladas",
+      "latitude": "-28.25384000",
+      "longitude": "-58.62591000"
+    },
+    {
+      "id": 1416,
+      "name": "San Carlos",
+      "latitude": "-27.74586000",
+      "longitude": "-55.89731000"
+    },
+    {
+      "id": 1419,
+      "name": "San Cosme",
+      "latitude": "-27.37123000",
+      "longitude": "-58.51214000"
+    },
+    {
+      "id": 1437,
+      "name": "San Lorenzo",
+      "latitude": "-28.13306000",
+      "longitude": "-58.76733000"
+    },
+    {
+      "id": 1439,
+      "name": "San Luis del Palmar",
+      "latitude": "-27.50790000",
+      "longitude": "-58.55454000"
+    },
+    {
+      "id": 1443,
+      "name": "San Miguel",
+      "latitude": "-27.99585000",
+      "longitude": "-57.58964000"
+    },
+    {
+      "id": 1461,
+      "name": "Santa Lucía",
+      "latitude": "-28.98746000",
+      "longitude": "-59.10287000"
+    },
+    {
+      "id": 1466,
+      "name": "Santa Rosa",
+      "latitude": "-28.26318000",
+      "longitude": "-58.11891000"
+    },
+    {
+      "id": 1476,
+      "name": "Santo Tomé",
+      "latitude": "-28.54939000",
+      "longitude": "-56.04077000"
+    },
+    {
+      "id": 1594,
+      "name": "Yapeyú",
+      "latitude": "-29.46914000",
+      "longitude": "-56.81841000"
+    },
+    {
+      "id": 1595,
+      "name": "Yataity Calle",
+      "latitude": "-29.01913000",
+      "longitude": "-58.90846000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

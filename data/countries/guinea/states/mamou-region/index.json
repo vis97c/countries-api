@@ -1,0 +1,78 @@
+{
+  "id": 2698,
+  "name": "Mamou Region",
+  "state_code": "M",
+  "latitude": "10.57360240",
+  "longitude": "-11.88917210",
+  "type": null,
+  "cities": [
+    {
+      "id": 52329,
+      "name": "Dalaba",
+      "latitude": "10.75000000",
+      "longitude": "-12.30000000"
+    },
+    {
+      "id": 52354,
+      "name": "Mamou",
+      "latitude": "10.37546000",
+      "longitude": "-12.09148000"
+    },
+    {
+      "id": 52355,
+      "name": "Mamou Prefecture",
+      "latitude": "10.45900000",
+      "longitude": "-11.81500000"
+    },
+    {
+      "id": 52360,
+      "name": "Pita",
+      "latitude": "10.83333000",
+      "longitude": "-12.58333000"
+    }
+  ],
+  "country": {
+    "id": 92,
+    "name": "Guinea",
+    "iso3": "GIN",
+    "iso2": "GN",
+    "numeric_code": "324",
+    "phone_code": "224",
+    "capital": "Conakry",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "native": "Guinée",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "기니",
+      "pt-BR": "Guiné",
+      "pt": "Guiné",
+      "nl": "Guinee",
+      "hr": "Gvineja",
+      "fa": "گینه",
+      "de": "Guinea",
+      "es": "Guinea",
+      "fr": "Guinée",
+      "ja": "ギニア",
+      "it": "Guinea",
+      "cn": "几内亚",
+      "tr": "Gine"
+    },
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  }
+}

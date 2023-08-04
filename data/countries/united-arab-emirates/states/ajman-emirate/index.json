@@ -1,0 +1,78 @@
+{
+  "id": 3395,
+  "name": "Ajman Emirate",
+  "state_code": "AJ",
+  "latitude": "25.40521650",
+  "longitude": "55.51364330",
+  "type": null,
+  "cities": [
+    {
+      "id": 14,
+      "name": "Ajman",
+      "latitude": "25.40328000",
+      "longitude": "55.52341000"
+    },
+    {
+      "id": 15,
+      "name": "Ajman City",
+      "latitude": "25.40177000",
+      "longitude": "55.47878000"
+    },
+    {
+      "id": 37,
+      "name": "Manama",
+      "latitude": "25.32568000",
+      "longitude": "56.00259000"
+    },
+    {
+      "id": 38,
+      "name": "Masfout",
+      "latitude": "24.83982000",
+      "longitude": "56.05158000"
+    }
+  ],
+  "country": {
+    "id": 231,
+    "name": "United Arab Emirates",
+    "iso3": "ARE",
+    "iso2": "AE",
+    "numeric_code": "784",
+    "phone_code": "971",
+    "capital": "Abu Dhabi",
+    "currency": "AED",
+    "currency_name": "United Arab Emirates dirham",
+    "currency_symbol": "إ.د",
+    "tld": ".ae",
+    "native": "دولة الإمارات العربية المتحدة",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dubai",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "아랍에미리트",
+      "pt-BR": "Emirados árabes Unidos",
+      "pt": "Emirados árabes Unidos",
+      "nl": "Verenigde Arabische Emiraten",
+      "hr": "Ujedinjeni Arapski Emirati",
+      "fa": "امارات متحده عربی",
+      "de": "Vereinigte Arabische Emirate",
+      "es": "Emiratos Árabes Unidos",
+      "fr": "Émirats arabes unis",
+      "ja": "アラブ首長国連邦",
+      "it": "Emirati Arabi Uniti",
+      "cn": "阿拉伯联合酋长国",
+      "tr": "Birleşik Arap Emirlikleri"
+    },
+    "latitude": "24.00000000",
+    "longitude": "54.00000000",
+    "emoji": "🇦🇪",
+    "emojiU": "U+1F1E6 U+1F1EA"
+  }
+}

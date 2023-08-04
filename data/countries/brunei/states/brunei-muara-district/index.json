@@ -1,0 +1,84 @@
+{
+  "id": 1216,
+  "name": "Brunei-Muara District",
+  "state_code": "BM",
+  "latitude": "4.93112060",
+  "longitude": "114.95168690",
+  "type": null,
+  "cities": [
+    {
+      "id": 9816,
+      "name": "Bandar Seri Begawan",
+      "latitude": "4.89035000",
+      "longitude": "114.94006000"
+    },
+    {
+      "id": 9818,
+      "name": "Berakas A",
+      "latitude": "4.97032000",
+      "longitude": "114.92989000"
+    },
+    {
+      "id": 9819,
+      "name": "Kapok",
+      "latitude": "5.02447000",
+      "longitude": "115.04664000"
+    },
+    {
+      "id": 9821,
+      "name": "Mentiri",
+      "latitude": "4.97058000",
+      "longitude": "115.02078000"
+    },
+    {
+      "id": 9822,
+      "name": "Serasa",
+      "latitude": "5.01718000",
+      "longitude": "115.05841000"
+    }
+  ],
+  "country": {
+    "id": 33,
+    "name": "Brunei",
+    "iso3": "BRN",
+    "iso2": "BN",
+    "numeric_code": "096",
+    "phone_code": "673",
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND",
+    "currency_name": "Brunei dollar",
+    "currency_symbol": "B$",
+    "tld": ".bn",
+    "native": "Negara Brunei Darussalam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Brunei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "BNT",
+        "tzName": "Brunei Darussalam Time"
+      }
+    ],
+    "translations": {
+      "kr": "브루나이",
+      "pt-BR": "Brunei",
+      "pt": "Brunei",
+      "nl": "Brunei",
+      "hr": "Brunej",
+      "fa": "برونئی",
+      "de": "Brunei",
+      "es": "Brunei",
+      "fr": "Brunei",
+      "ja": "ブルネイ・ダルサラーム",
+      "it": "Brunei",
+      "cn": "文莱",
+      "tr": "Brunei"
+    },
+    "latitude": "4.50000000",
+    "longitude": "114.66666666",
+    "emoji": "🇧🇳",
+    "emojiU": "U+1F1E7 U+1F1F3"
+  }
+}

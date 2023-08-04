@@ -1,0 +1,252 @@
+{
+  "id": 199,
+  "name": "Singapore",
+  "iso3": "SGP",
+  "iso2": "SG",
+  "numeric_code": "702",
+  "phone_code": "65",
+  "capital": "Singapur",
+  "currency": "SGD",
+  "currency_name": "Singapore dollar",
+  "currency_symbol": "$",
+  "tld": ".sg",
+  "native": "Singapore",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Singapore",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "SGT",
+      "tzName": "Singapore Time"
+    }
+  ],
+  "translations": {
+    "kr": "싱가포르",
+    "pt-BR": "Singapura",
+    "pt": "Singapura",
+    "nl": "Singapore",
+    "hr": "Singapur",
+    "fa": "سنگاپور",
+    "de": "Singapur",
+    "es": "Singapur",
+    "fr": "Singapour",
+    "ja": "シンガポール",
+    "it": "Singapore",
+    "cn": "新加坡",
+    "tr": "Singapur"
+  },
+  "latitude": "1.36666666",
+  "longitude": "103.80000000",
+  "emoji": "🇸🇬",
+  "emojiU": "U+1F1F8 U+1F1EC",
+  "states": [
+    {
+      "id": 4651,
+      "name": "Central Singapore",
+      "state_code": "01",
+      "latitude": "1.28840000",
+      "longitude": "103.85350000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153462,
+          "name": "Bukit Timah",
+          "latitude": "1.32940000",
+          "longitude": "103.80210000"
+        },
+        {
+          "id": 153466,
+          "name": "Downtown Core",
+          "latitude": "1.27800000",
+          "longitude": "103.85200000"
+        },
+        {
+          "id": 153463,
+          "name": "Geylang",
+          "latitude": "1.31820000",
+          "longitude": "103.88710000"
+        },
+        {
+          "id": 153467,
+          "name": "Kallang",
+          "latitude": "1.31060000",
+          "longitude": "103.86600000"
+        },
+        {
+          "id": 153459,
+          "name": "Marine Parade",
+          "latitude": "1.30300000",
+          "longitude": "103.90720000"
+        },
+        {
+          "id": 153461,
+          "name": "Novena",
+          "latitude": "1.32010000",
+          "longitude": "103.84390000"
+        },
+        {
+          "id": 153464,
+          "name": "Orchard Road",
+          "latitude": "1.30360000",
+          "longitude": "103.83180000"
+        },
+        {
+          "id": 153468,
+          "name": "Outram",
+          "latitude": "1.28190000",
+          "longitude": "103.83900000"
+        },
+        {
+          "id": 153465,
+          "name": "Rochor",
+          "latitude": "1.30490000",
+          "longitude": "103.85200000"
+        },
+        {
+          "id": 104057,
+          "name": "Singapore",
+          "latitude": "1.28967000",
+          "longitude": "103.85007000"
+        },
+        {
+          "id": 153460,
+          "name": "Tanjong Pagar",
+          "latitude": "1.27640000",
+          "longitude": "103.84340000"
+        },
+        {
+          "id": 153469,
+          "name": "Toa Payoh",
+          "latitude": "1.33540000",
+          "longitude": "103.84970000"
+        }
+      ]
+    },
+    {
+      "id": 4649,
+      "name": "North East",
+      "state_code": "02",
+      "latitude": "1.38240000",
+      "longitude": "103.89720000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153475,
+          "name": "Ang Mo Kio",
+          "latitude": "1.36980000",
+          "longitude": "103.84610000"
+        },
+        {
+          "id": 153472,
+          "name": "Hougang",
+          "latitude": "1.37360000",
+          "longitude": "103.88670000"
+        },
+        {
+          "id": 153474,
+          "name": "Punggol",
+          "latitude": "1.40510000",
+          "longitude": "103.90230000"
+        },
+        {
+          "id": 153471,
+          "name": "Sengkang",
+          "latitude": "1.39010000",
+          "longitude": "103.89520000"
+        },
+        {
+          "id": 153473,
+          "name": "Serangoon",
+          "latitude": "1.34960000",
+          "longitude": "103.87370000"
+        }
+      ]
+    },
+    {
+      "id": 4653,
+      "name": "North West",
+      "state_code": "03",
+      "latitude": "1.41800000",
+      "longitude": "103.82750000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153476,
+          "name": "Sembawang",
+          "latitude": "1.44910000",
+          "longitude": "103.82010000"
+        },
+        {
+          "id": 104058,
+          "name": "Woodlands",
+          "latitude": "1.43801000",
+          "longitude": "103.78877000"
+        },
+        {
+          "id": 153470,
+          "name": "Yishun",
+          "latitude": "1.42930000",
+          "longitude": "103.83550000"
+        }
+      ]
+    },
+    {
+      "id": 4650,
+      "name": "South East",
+      "state_code": "04",
+      "latitude": "1.35710000",
+      "longitude": "103.70040000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153478,
+          "name": "Bedok",
+          "latitude": "1.32360000",
+          "longitude": "103.92730000"
+        },
+        {
+          "id": 153479,
+          "name": "Pasir Ris",
+          "latitude": "1.37390000",
+          "longitude": "103.94930000"
+        },
+        {
+          "id": 153477,
+          "name": "Tampines",
+          "latitude": "1.35470000",
+          "longitude": "103.94370000"
+        }
+      ]
+    },
+    {
+      "id": 4652,
+      "name": "South West",
+      "state_code": "05",
+      "latitude": "1.35710000",
+      "longitude": "103.94510000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153481,
+          "name": "Bukit Batok",
+          "latitude": "1.34960000",
+          "longitude": "103.75280000"
+        },
+        {
+          "id": 153482,
+          "name": "Bukit Panjang",
+          "latitude": "1.37860000",
+          "longitude": "103.76260000"
+        },
+        {
+          "id": 153480,
+          "name": "Jurong West",
+          "latitude": "1.33960000",
+          "longitude": "103.70730000"
+        }
+      ]
+    }
+  ]
+}

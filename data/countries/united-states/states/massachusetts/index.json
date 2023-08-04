@@ -1,0 +1,2680 @@
+{
+  "id": 1433,
+  "name": "Massachusetts",
+  "state_code": "MA",
+  "latitude": "42.40721070",
+  "longitude": "-71.38243740",
+  "type": "state",
+  "cities": [
+    {
+      "id": 110986,
+      "name": "Abington",
+      "latitude": "42.10482000",
+      "longitude": "-70.94532000"
+    },
+    {
+      "id": 110999,
+      "name": "Acton",
+      "latitude": "42.48509000",
+      "longitude": "-71.43284000"
+    },
+    {
+      "id": 111002,
+      "name": "Acushnet",
+      "latitude": "41.68066000",
+      "longitude": "-70.90782000"
+    },
+    {
+      "id": 111003,
+      "name": "Acushnet Center",
+      "latitude": "41.68508000",
+      "longitude": "-70.90642000"
+    },
+    {
+      "id": 111013,
+      "name": "Adams",
+      "latitude": "42.62425000",
+      "longitude": "-73.11760000"
+    },
+    {
+      "id": 111055,
+      "name": "Agawam",
+      "latitude": "42.06954000",
+      "longitude": "-72.61481000"
+    },
+    {
+      "id": 111279,
+      "name": "Amesbury",
+      "latitude": "42.85842000",
+      "longitude": "-70.93005000"
+    },
+    {
+      "id": 111282,
+      "name": "Amherst",
+      "latitude": "42.36723000",
+      "longitude": "-72.51852000"
+    },
+    {
+      "id": 111285,
+      "name": "Amherst Center",
+      "latitude": "42.37537000",
+      "longitude": "-72.51925000"
+    },
+    {
+      "id": 111323,
+      "name": "Andover",
+      "latitude": "42.65843000",
+      "longitude": "-71.13700000"
+    },
+    {
+      "id": 111465,
+      "name": "Arlington",
+      "latitude": "42.41537000",
+      "longitude": "-71.15644000"
+    },
+    {
+      "id": 111516,
+      "name": "Ashburnham",
+      "latitude": "42.63620000",
+      "longitude": "-71.90785000"
+    },
+    {
+      "id": 111517,
+      "name": "Ashby",
+      "latitude": "42.67787000",
+      "longitude": "-71.82035000"
+    },
+    {
+      "id": 111523,
+      "name": "Ashfield",
+      "latitude": "42.52647000",
+      "longitude": "-72.78843000"
+    },
+    {
+      "id": 111534,
+      "name": "Ashland",
+      "latitude": "42.26121000",
+      "longitude": "-71.46340000"
+    },
+    {
+      "id": 111556,
+      "name": "Assonet",
+      "latitude": "41.79594000",
+      "longitude": "-71.06782000"
+    },
+    {
+      "id": 111583,
+      "name": "Athol",
+      "latitude": "42.59592000",
+      "longitude": "-72.22675000"
+    },
+    {
+      "id": 111611,
+      "name": "Attleboro",
+      "latitude": "41.94454000",
+      "longitude": "-71.28561000"
+    },
+    {
+      "id": 111624,
+      "name": "Auburn",
+      "latitude": "42.19454000",
+      "longitude": "-71.83563000"
+    },
+    {
+      "id": 111691,
+      "name": "Avon",
+      "latitude": "42.13066000",
+      "longitude": "-71.04116000"
+    },
+    {
+      "id": 111708,
+      "name": "Ayer",
+      "latitude": "42.56120000",
+      "longitude": "-71.58979000"
+    },
+    {
+      "id": 111765,
+      "name": "Baldwinville",
+      "latitude": "42.60842000",
+      "longitude": "-72.07591000"
+    },
+    {
+      "id": 111834,
+      "name": "Barnstable",
+      "latitude": "41.70011000",
+      "longitude": "-70.29947000"
+    },
+    {
+      "id": 111835,
+      "name": "Barnstable County",
+      "latitude": "41.68419000",
+      "longitude": "-70.27405000"
+    },
+    {
+      "id": 111841,
+      "name": "Barre",
+      "latitude": "42.42287000",
+      "longitude": "-72.10508000"
+    },
+    {
+      "id": 112014,
+      "name": "Becket",
+      "latitude": "42.33203000",
+      "longitude": "-73.08288000"
+    },
+    {
+      "id": 112023,
+      "name": "Bedford",
+      "latitude": "42.49065000",
+      "longitude": "-71.27617000"
+    },
+    {
+      "id": 112051,
+      "name": "Belchertown",
+      "latitude": "42.27704000",
+      "longitude": "-72.40092000"
+    },
+    {
+      "id": 112119,
+      "name": "Bellingham",
+      "latitude": "42.08676000",
+      "longitude": "-71.47451000"
+    },
+    {
+      "id": 112138,
+      "name": "Belmont",
+      "latitude": "42.39593000",
+      "longitude": "-71.17867000"
+    },
+    {
+      "id": 112229,
+      "name": "Berkley",
+      "latitude": "41.84593000",
+      "longitude": "-71.08282000"
+    },
+    {
+      "id": 112233,
+      "name": "Berkshire County",
+      "latitude": "42.37067000",
+      "longitude": "-73.20640000"
+    },
+    {
+      "id": 112237,
+      "name": "Berlin",
+      "latitude": "42.38120000",
+      "longitude": "-71.63701000"
+    },
+    {
+      "id": 112244,
+      "name": "Bernardston",
+      "latitude": "42.67092000",
+      "longitude": "-72.54953000"
+    },
+    {
+      "id": 112300,
+      "name": "Beverly",
+      "latitude": "42.55843000",
+      "longitude": "-70.88005000"
+    },
+    {
+      "id": 112302,
+      "name": "Beverly Cove",
+      "latitude": "42.55343000",
+      "longitude": "-70.85366000"
+    },
+    {
+      "id": 112342,
+      "name": "Billerica",
+      "latitude": "42.55843000",
+      "longitude": "-71.26895000"
+    },
+    {
+      "id": 112393,
+      "name": "Blackstone",
+      "latitude": "42.01788000",
+      "longitude": "-71.54117000"
+    },
+    {
+      "id": 112430,
+      "name": "Bliss Corner",
+      "latitude": "41.61177000",
+      "longitude": "-70.93837000"
+    },
+    {
+      "id": 112525,
+      "name": "Bolton",
+      "latitude": "42.43343000",
+      "longitude": "-71.60784000"
+    },
+    {
+      "id": 112532,
+      "name": "Bondsville",
+      "latitude": "42.21259000",
+      "longitude": "-72.34536000"
+    },
+    {
+      "id": 112589,
+      "name": "Boston",
+      "latitude": "42.35843000",
+      "longitude": "-71.05977000"
+    },
+    {
+      "id": 112617,
+      "name": "Bourne",
+      "latitude": "41.74122000",
+      "longitude": "-70.59892000"
+    },
+    {
+      "id": 112638,
+      "name": "Boxborough",
+      "latitude": "42.49084000",
+      "longitude": "-71.52851000"
+    },
+    {
+      "id": 112639,
+      "name": "Boxford",
+      "latitude": "42.66120000",
+      "longitude": "-70.99672000"
+    },
+    {
+      "id": 112650,
+      "name": "Boylston",
+      "latitude": "42.39176000",
+      "longitude": "-71.70368000"
+    },
+    {
+      "id": 112682,
+      "name": "Braintree",
+      "latitude": "42.20384000",
+      "longitude": "-71.00215000"
+    },
+    {
+      "id": 112741,
+      "name": "Brewster",
+      "latitude": "41.76011000",
+      "longitude": "-70.08280000"
+    },
+    {
+      "id": 112775,
+      "name": "Bridgewater",
+      "latitude": "41.99038000",
+      "longitude": "-70.97504000"
+    },
+    {
+      "id": 112797,
+      "name": "Brimfield",
+      "latitude": "42.12287000",
+      "longitude": "-72.20091000"
+    },
+    {
+      "id": 112814,
+      "name": "Bristol County",
+      "latitude": "41.75709000",
+      "longitude": "-71.08852000"
+    },
+    {
+      "id": 112834,
+      "name": "Brockton",
+      "latitude": "42.08343000",
+      "longitude": "-71.01838000"
+    },
+    {
+      "id": 112867,
+      "name": "Brookline",
+      "latitude": "42.33176000",
+      "longitude": "-71.12116000"
+    },
+    {
+      "id": 112987,
+      "name": "Buckland",
+      "latitude": "42.59231000",
+      "longitude": "-72.79176000"
+    },
+    {
+      "id": 113070,
+      "name": "Burlington",
+      "latitude": "42.50482000",
+      "longitude": "-71.19561000"
+    },
+    {
+      "id": 113133,
+      "name": "Buzzards Bay",
+      "latitude": "41.74538000",
+      "longitude": "-70.61809000"
+    },
+    {
+      "id": 113252,
+      "name": "Cambridge",
+      "latitude": "42.37510000",
+      "longitude": "-71.10561000"
+    },
+    {
+      "id": 113344,
+      "name": "Canton",
+      "latitude": "42.15843000",
+      "longitude": "-71.14477000"
+    },
+    {
+      "id": 113404,
+      "name": "Carlisle",
+      "latitude": "42.52926000",
+      "longitude": "-71.34950000"
+    },
+    {
+      "id": 113500,
+      "name": "Carver",
+      "latitude": "41.88344000",
+      "longitude": "-70.76254000"
+    },
+    {
+      "id": 113659,
+      "name": "Centerville",
+      "latitude": "41.64872000",
+      "longitude": "-70.34808000"
+    },
+    {
+      "id": 113752,
+      "name": "Charlemont",
+      "latitude": "42.62786000",
+      "longitude": "-72.86982000"
+    },
+    {
+      "id": 113788,
+      "name": "Charlton",
+      "latitude": "42.13565000",
+      "longitude": "-71.97007000"
+    },
+    {
+      "id": 113798,
+      "name": "Chatham",
+      "latitude": "41.68206000",
+      "longitude": "-69.95974000"
+    },
+    {
+      "id": 113828,
+      "name": "Chelmsford",
+      "latitude": "42.59981000",
+      "longitude": "-71.36728000"
+    },
+    {
+      "id": 113831,
+      "name": "Chelsea",
+      "latitude": "42.39176000",
+      "longitude": "-71.03283000"
+    },
+    {
+      "id": 113904,
+      "name": "Chesterfield",
+      "latitude": "42.39175000",
+      "longitude": "-72.83982000"
+    },
+    {
+      "id": 113945,
+      "name": "Chicopee",
+      "latitude": "42.14870000",
+      "longitude": "-72.60787000"
+    },
+    {
+      "id": 114280,
+      "name": "Clinton",
+      "latitude": "42.41676000",
+      "longitude": "-71.68285000"
+    },
+    {
+      "id": 114350,
+      "name": "Cochituate",
+      "latitude": "42.32093000",
+      "longitude": "-71.36423000"
+    },
+    {
+      "id": 114372,
+      "name": "Cohasset",
+      "latitude": "42.24177000",
+      "longitude": "-70.80365000"
+    },
+    {
+      "id": 114461,
+      "name": "Colrain",
+      "latitude": "42.67314000",
+      "longitude": "-72.69676000"
+    },
+    {
+      "id": 114538,
+      "name": "Concord",
+      "latitude": "42.46037000",
+      "longitude": "-71.34895000"
+    },
+    {
+      "id": 114584,
+      "name": "Conway",
+      "latitude": "42.50981000",
+      "longitude": "-72.69953000"
+    },
+    {
+      "id": 114634,
+      "name": "Cordaville",
+      "latitude": "42.26898000",
+      "longitude": "-71.52395000"
+    },
+    {
+      "id": 114707,
+      "name": "Cotuit",
+      "latitude": "41.61678000",
+      "longitude": "-70.43697000"
+    },
+    {
+      "id": 115002,
+      "name": "Dalton",
+      "latitude": "42.47370000",
+      "longitude": "-73.16621000"
+    },
+    {
+      "id": 115029,
+      "name": "Danvers",
+      "latitude": "42.57509000",
+      "longitude": "-70.93005000"
+    },
+    {
+      "id": 149310,
+      "name": "Dartmouth",
+      "latitude": "41.59419180",
+      "longitude": "-71.11043520"
+    },
+    {
+      "id": 115167,
+      "name": "Dedham",
+      "latitude": "42.24177000",
+      "longitude": "-71.16616000"
+    },
+    {
+      "id": 115242,
+      "name": "Dennis",
+      "latitude": "41.73539000",
+      "longitude": "-70.19391000"
+    },
+    {
+      "id": 115243,
+      "name": "Dennis Port",
+      "latitude": "41.65845000",
+      "longitude": "-70.12863000"
+    },
+    {
+      "id": 115296,
+      "name": "Devens",
+      "latitude": "42.54470000",
+      "longitude": "-71.61318000"
+    },
+    {
+      "id": 115335,
+      "name": "Dighton",
+      "latitude": "41.81399000",
+      "longitude": "-71.12032000"
+    },
+    {
+      "id": 115421,
+      "name": "Douglas",
+      "latitude": "42.05426000",
+      "longitude": "-71.73951000"
+    },
+    {
+      "id": 115448,
+      "name": "Dover",
+      "latitude": "42.24593000",
+      "longitude": "-71.28283000"
+    },
+    {
+      "id": 115466,
+      "name": "Dracut",
+      "latitude": "42.67037000",
+      "longitude": "-71.30201000"
+    },
+    {
+      "id": 115505,
+      "name": "Dudley",
+      "latitude": "42.04510000",
+      "longitude": "-71.93007000"
+    },
+    {
+      "id": 115508,
+      "name": "Dukes County",
+      "latitude": "41.38877000",
+      "longitude": "-70.69877000"
+    },
+    {
+      "id": 115554,
+      "name": "Dunstable",
+      "latitude": "42.67509000",
+      "longitude": "-71.48284000"
+    },
+    {
+      "id": 115583,
+      "name": "Duxbury",
+      "latitude": "42.04177000",
+      "longitude": "-70.67226000"
+    },
+    {
+      "id": 115637,
+      "name": "East Bridgewater",
+      "latitude": "42.03343000",
+      "longitude": "-70.95921000"
+    },
+    {
+      "id": 115639,
+      "name": "East Brookfield",
+      "latitude": "42.22787000",
+      "longitude": "-72.04674000"
+    },
+    {
+      "id": 115649,
+      "name": "East Dennis",
+      "latitude": "41.74261000",
+      "longitude": "-70.16196000"
+    },
+    {
+      "id": 115650,
+      "name": "East Douglas",
+      "latitude": "42.07232000",
+      "longitude": "-71.71340000"
+    },
+    {
+      "id": 115657,
+      "name": "East Falmouth",
+      "latitude": "41.57844000",
+      "longitude": "-70.55864000"
+    },
+    {
+      "id": 115685,
+      "name": "East Harwich",
+      "latitude": "41.70011000",
+      "longitude": "-70.02724000"
+    },
+    {
+      "id": 115705,
+      "name": "East Longmeadow",
+      "latitude": "42.06454000",
+      "longitude": "-72.51259000"
+    },
+    {
+      "id": 115733,
+      "name": "East Pepperell",
+      "latitude": "42.66537000",
+      "longitude": "-71.57312000"
+    },
+    {
+      "id": 115756,
+      "name": "East Sandwich",
+      "latitude": "41.74177000",
+      "longitude": "-70.45169000"
+    },
+    {
+      "id": 115778,
+      "name": "Eastham",
+      "latitude": "41.83011000",
+      "longitude": "-69.97391000"
+    },
+    {
+      "id": 115779,
+      "name": "Easthampton",
+      "latitude": "42.26676000",
+      "longitude": "-72.66898000"
+    },
+    {
+      "id": 115787,
+      "name": "Easton",
+      "latitude": "42.02454000",
+      "longitude": "-71.12866000"
+    },
+    {
+      "id": 115838,
+      "name": "Edgartown",
+      "latitude": "41.38901000",
+      "longitude": "-70.51336000"
+    },
+    {
+      "id": 116174,
+      "name": "Erving",
+      "latitude": "42.60009000",
+      "longitude": "-72.39814000"
+    },
+    {
+      "id": 116192,
+      "name": "Essex",
+      "latitude": "42.63204000",
+      "longitude": "-70.78283000"
+    },
+    {
+      "id": 116194,
+      "name": "Essex County",
+      "latitude": "42.63887000",
+      "longitude": "-70.86792000"
+    },
+    {
+      "id": 116258,
+      "name": "Everett",
+      "latitude": "42.40843000",
+      "longitude": "-71.05366000"
+    },
+    {
+      "id": 116325,
+      "name": "Fairhaven",
+      "latitude": "41.63760000",
+      "longitude": "-70.90365000"
+    },
+    {
+      "id": 116373,
+      "name": "Fall River",
+      "latitude": "41.70149000",
+      "longitude": "-71.15505000"
+    },
+    {
+      "id": 116388,
+      "name": "Falmouth",
+      "latitude": "41.55150000",
+      "longitude": "-70.61475000"
+    },
+    {
+      "id": 116533,
+      "name": "Fiskdale",
+      "latitude": "42.11621000",
+      "longitude": "-72.11341000"
+    },
+    {
+      "id": 116534,
+      "name": "Fitchburg",
+      "latitude": "42.58342000",
+      "longitude": "-71.80230000"
+    },
+    {
+      "id": 116670,
+      "name": "Forestdale",
+      "latitude": "41.69177000",
+      "longitude": "-70.49947000"
+    },
+    {
+      "id": 116809,
+      "name": "Foxborough",
+      "latitude": "42.06538000",
+      "longitude": "-71.24783000"
+    },
+    {
+      "id": 116811,
+      "name": "Framingham",
+      "latitude": "42.27926000",
+      "longitude": "-71.41617000"
+    },
+    {
+      "id": 116812,
+      "name": "Framingham Center",
+      "latitude": "42.29732000",
+      "longitude": "-71.43701000"
+    },
+    {
+      "id": 116834,
+      "name": "Franklin",
+      "latitude": "42.08343000",
+      "longitude": "-71.39673000"
+    },
+    {
+      "id": 116858,
+      "name": "Franklin County",
+      "latitude": "42.58312000",
+      "longitude": "-72.59187000"
+    },
+    {
+      "id": 116918,
+      "name": "Freetown",
+      "latitude": "41.76677000",
+      "longitude": "-71.03282000"
+    },
+    {
+      "id": 117075,
+      "name": "Gardner",
+      "latitude": "42.57509000",
+      "longitude": "-71.99813000"
+    },
+    {
+      "id": 117213,
+      "name": "Gill",
+      "latitude": "42.64036000",
+      "longitude": "-72.49953000"
+    },
+    {
+      "id": 117322,
+      "name": "Gloucester",
+      "latitude": "42.61405000",
+      "longitude": "-70.66313000"
+    },
+    {
+      "id": 117429,
+      "name": "Grafton",
+      "latitude": "42.20704000",
+      "longitude": "-71.68562000"
+    },
+    {
+      "id": 117447,
+      "name": "Granby",
+      "latitude": "42.25648000",
+      "longitude": "-72.51620000"
+    },
+    {
+      "id": 117534,
+      "name": "Granville",
+      "latitude": "42.06676000",
+      "longitude": "-72.86149000"
+    },
+    {
+      "id": 117569,
+      "name": "Great Barrington",
+      "latitude": "42.19592000",
+      "longitude": "-73.36206000"
+    },
+    {
+      "id": 117596,
+      "name": "Green Harbor-Cedar Crest",
+      "latitude": "42.07495000",
+      "longitude": "-70.65843000"
+    },
+    {
+      "id": 117650,
+      "name": "Greenfield",
+      "latitude": "42.58759000",
+      "longitude": "-72.59953000"
+    },
+    {
+      "id": 117752,
+      "name": "Groton",
+      "latitude": "42.61120000",
+      "longitude": "-71.57451000"
+    },
+    {
+      "id": 117759,
+      "name": "Groveland",
+      "latitude": "42.76037000",
+      "longitude": "-71.03145000"
+    },
+    {
+      "id": 117833,
+      "name": "Hadley",
+      "latitude": "42.34176000",
+      "longitude": "-72.58842000"
+    },
+    {
+      "id": 117861,
+      "name": "Halifax",
+      "latitude": "41.99121000",
+      "longitude": "-70.86199000"
+    },
+    {
+      "id": 117906,
+      "name": "Hamilton Worcester",
+      "latitude": "42.25620000",
+      "longitude": "-71.76757000"
+    },
+    {
+      "id": 117916,
+      "name": "Hampden",
+      "latitude": "42.06398000",
+      "longitude": "-72.41342000"
+    },
+    {
+      "id": 117918,
+      "name": "Hampden County",
+      "latitude": "42.13511000",
+      "longitude": "-72.63162000"
+    },
+    {
+      "id": 117922,
+      "name": "Hampshire County",
+      "latitude": "42.34014000",
+      "longitude": "-72.66377000"
+    },
+    {
+      "id": 117970,
+      "name": "Hanover",
+      "latitude": "42.11316000",
+      "longitude": "-70.81199000"
+    },
+    {
+      "id": 117978,
+      "name": "Hanson",
+      "latitude": "42.07510000",
+      "longitude": "-70.88004000"
+    },
+    {
+      "id": 118008,
+      "name": "Hardwick",
+      "latitude": "42.35009000",
+      "longitude": "-72.19952000"
+    },
+    {
+      "id": 118109,
+      "name": "Harvard",
+      "latitude": "42.50009000",
+      "longitude": "-71.58284000"
+    },
+    {
+      "id": 118117,
+      "name": "Harwich",
+      "latitude": "41.68622000",
+      "longitude": "-70.07585000"
+    },
+    {
+      "id": 118118,
+      "name": "Harwich Center",
+      "latitude": "41.69235000",
+      "longitude": "-70.06938000"
+    },
+    {
+      "id": 118119,
+      "name": "Harwich Port",
+      "latitude": "41.66678000",
+      "longitude": "-70.07863000"
+    },
+    {
+      "id": 118138,
+      "name": "Hatfield",
+      "latitude": "42.37092000",
+      "longitude": "-72.59814000"
+    },
+    {
+      "id": 118150,
+      "name": "Haverhill",
+      "latitude": "42.77620000",
+      "longitude": "-71.07728000"
+    },
+    {
+      "id": 118214,
+      "name": "Head of Westport",
+      "latitude": "41.62094000",
+      "longitude": "-71.06199000"
+    },
+    {
+      "id": 118483,
+      "name": "Hingham",
+      "latitude": "42.24177000",
+      "longitude": "-70.88977000"
+    },
+    {
+      "id": 118484,
+      "name": "Hinsdale",
+      "latitude": "42.43870000",
+      "longitude": "-73.12538000"
+    },
+    {
+      "id": 118517,
+      "name": "Holbrook",
+      "latitude": "42.15510000",
+      "longitude": "-71.00866000"
+    },
+    {
+      "id": 118523,
+      "name": "Holden",
+      "latitude": "42.35176000",
+      "longitude": "-71.86341000"
+    },
+    {
+      "id": 118538,
+      "name": "Holland",
+      "latitude": "42.06398000",
+      "longitude": "-72.15730000"
+    },
+    {
+      "id": 118553,
+      "name": "Holliston",
+      "latitude": "42.20010000",
+      "longitude": "-71.42450000"
+    },
+    {
+      "id": 118583,
+      "name": "Holyoke",
+      "latitude": "42.20426000",
+      "longitude": "-72.61620000"
+    },
+    {
+      "id": 118647,
+      "name": "Hopedale",
+      "latitude": "42.13065000",
+      "longitude": "-71.54117000"
+    },
+    {
+      "id": 118656,
+      "name": "Hopkinton",
+      "latitude": "42.22871000",
+      "longitude": "-71.52256000"
+    },
+    {
+      "id": 118695,
+      "name": "Housatonic",
+      "latitude": "42.25425000",
+      "longitude": "-73.36622000"
+    },
+    {
+      "id": 118734,
+      "name": "Hubbardston",
+      "latitude": "42.47370000",
+      "longitude": "-72.00619000"
+    },
+    {
+      "id": 118740,
+      "name": "Hudson",
+      "latitude": "42.39176000",
+      "longitude": "-71.56618000"
+    },
+    {
+      "id": 118772,
+      "name": "Hull",
+      "latitude": "42.30204000",
+      "longitude": "-70.90782000"
+    },
+    {
+      "id": 118842,
+      "name": "Hyannis",
+      "latitude": "41.65289000",
+      "longitude": "-70.28280000"
+    },
+    {
+      "id": 118982,
+      "name": "Ipswich",
+      "latitude": "42.67926000",
+      "longitude": "-70.84116000"
+    },
+    {
+      "id": 119114,
+      "name": "Jamaica Plain",
+      "latitude": "42.30982000",
+      "longitude": "-71.12033000"
+    },
+    {
+      "id": 119623,
+      "name": "Kingston",
+      "latitude": "41.99455000",
+      "longitude": "-70.72448000"
+    },
+    {
+      "id": 120083,
+      "name": "Lancaster",
+      "latitude": "42.45565000",
+      "longitude": "-71.67312000"
+    },
+    {
+      "id": 120107,
+      "name": "Lanesborough",
+      "latitude": "42.51731000",
+      "longitude": "-73.22816000"
+    },
+    {
+      "id": 120227,
+      "name": "Lawrence",
+      "latitude": "42.70704000",
+      "longitude": "-71.16311000"
+    },
+    {
+      "id": 120303,
+      "name": "Lee",
+      "latitude": "42.30425000",
+      "longitude": "-73.24816000"
+    },
+    {
+      "id": 120337,
+      "name": "Leicester",
+      "latitude": "42.24593000",
+      "longitude": "-71.90868000"
+    },
+    {
+      "id": 120376,
+      "name": "Lenox",
+      "latitude": "42.35648000",
+      "longitude": "-73.28483000"
+    },
+    {
+      "id": 120382,
+      "name": "Leominster",
+      "latitude": "42.52509000",
+      "longitude": "-71.75979000"
+    },
+    {
+      "id": 120406,
+      "name": "Leverett",
+      "latitude": "42.45203000",
+      "longitude": "-72.50148000"
+    },
+    {
+      "id": 120448,
+      "name": "Lexington",
+      "latitude": "42.44732000",
+      "longitude": "-71.22450000"
+    },
+    {
+      "id": 120504,
+      "name": "Lincoln",
+      "latitude": "42.42593000",
+      "longitude": "-71.30395000"
+    },
+    {
+      "id": 120637,
+      "name": "Littleton Common",
+      "latitude": "42.54593000",
+      "longitude": "-71.47451000"
+    },
+    {
+      "id": 120753,
+      "name": "Longmeadow",
+      "latitude": "42.05010000",
+      "longitude": "-72.58287000"
+    },
+    {
+      "id": 120836,
+      "name": "Lowell",
+      "latitude": "42.63342000",
+      "longitude": "-71.31617000"
+    },
+    {
+      "id": 120870,
+      "name": "Ludlow",
+      "latitude": "42.16009000",
+      "longitude": "-72.47592000"
+    },
+    {
+      "id": 120887,
+      "name": "Lunenburg",
+      "latitude": "42.59453000",
+      "longitude": "-71.72452000"
+    },
+    {
+      "id": 120927,
+      "name": "Lynn",
+      "latitude": "42.46676000",
+      "longitude": "-70.94949000"
+    },
+    {
+      "id": 120930,
+      "name": "Lynnfield",
+      "latitude": "42.53898000",
+      "longitude": "-71.04811000"
+    },
+    {
+      "id": 121060,
+      "name": "Malden",
+      "latitude": "42.42510000",
+      "longitude": "-71.06616000"
+    },
+    {
+      "id": 121104,
+      "name": "Manchester-by-the-Sea",
+      "latitude": "42.57787000",
+      "longitude": "-70.76894000"
+    },
+    {
+      "id": 121146,
+      "name": "Mansfield",
+      "latitude": "42.03343000",
+      "longitude": "-71.21894000"
+    },
+    {
+      "id": 121148,
+      "name": "Mansfield Center",
+      "latitude": "42.02262000",
+      "longitude": "-71.21808000"
+    },
+    {
+      "id": 121189,
+      "name": "Marblehead",
+      "latitude": "42.50010000",
+      "longitude": "-70.85783000"
+    },
+    {
+      "id": 121242,
+      "name": "Marion",
+      "latitude": "41.70010000",
+      "longitude": "-70.76281000"
+    },
+    {
+      "id": 121246,
+      "name": "Marion Center",
+      "latitude": "41.70424000",
+      "longitude": "-70.76286000"
+    },
+    {
+      "id": 121280,
+      "name": "Marlborough",
+      "latitude": "42.34593000",
+      "longitude": "-71.55229000"
+    },
+    {
+      "id": 121326,
+      "name": "Marshfield",
+      "latitude": "42.09177000",
+      "longitude": "-70.70559000"
+    },
+    {
+      "id": 121328,
+      "name": "Marshfield Hills",
+      "latitude": "42.14594000",
+      "longitude": "-70.73976000"
+    },
+    {
+      "id": 121331,
+      "name": "Marstons Mills",
+      "latitude": "41.65622000",
+      "longitude": "-70.41614000"
+    },
+    {
+      "id": 121370,
+      "name": "Mashpee",
+      "latitude": "41.64844000",
+      "longitude": "-70.48114000"
+    },
+    {
+      "id": 121407,
+      "name": "Mattapoisett",
+      "latitude": "41.65844000",
+      "longitude": "-70.81615000"
+    },
+    {
+      "id": 121408,
+      "name": "Mattapoisett Center",
+      "latitude": "41.66595000",
+      "longitude": "-70.80720000"
+    },
+    {
+      "id": 121440,
+      "name": "Maynard",
+      "latitude": "42.43343000",
+      "longitude": "-71.44951000"
+    },
+    {
+      "id": 121590,
+      "name": "Medfield",
+      "latitude": "42.18760000",
+      "longitude": "-71.30645000"
+    },
+    {
+      "id": 121592,
+      "name": "Medford",
+      "latitude": "42.41843000",
+      "longitude": "-71.10616000"
+    },
+    {
+      "id": 121610,
+      "name": "Medway",
+      "latitude": "42.14176000",
+      "longitude": "-71.39673000"
+    },
+    {
+      "id": 121628,
+      "name": "Melrose",
+      "latitude": "42.45843000",
+      "longitude": "-71.06616000"
+    },
+    {
+      "id": 121653,
+      "name": "Mendon",
+      "latitude": "42.10565000",
+      "longitude": "-71.55229000"
+    },
+    {
+      "id": 121710,
+      "name": "Merrimac",
+      "latitude": "42.83065000",
+      "longitude": "-71.00228000"
+    },
+    {
+      "id": 121734,
+      "name": "Methuen",
+      "latitude": "42.72620000",
+      "longitude": "-71.19089000"
+    },
+    {
+      "id": 121765,
+      "name": "Middleborough",
+      "latitude": "41.89316000",
+      "longitude": "-70.91115000"
+    },
+    {
+      "id": 121766,
+      "name": "Middleborough Center",
+      "latitude": "41.89460000",
+      "longitude": "-70.92618000"
+    },
+    {
+      "id": 121780,
+      "name": "Middlesex County",
+      "latitude": "42.48555000",
+      "longitude": "-71.39184000"
+    },
+    {
+      "id": 121782,
+      "name": "Middleton",
+      "latitude": "42.59509000",
+      "longitude": "-71.01616000"
+    },
+    {
+      "id": 121850,
+      "name": "Milford",
+      "latitude": "42.13982000",
+      "longitude": "-71.51617000"
+    },
+    {
+      "id": 121874,
+      "name": "Millbury",
+      "latitude": "42.19398000",
+      "longitude": "-71.76007000"
+    },
+    {
+      "id": 121885,
+      "name": "Millers Falls",
+      "latitude": "42.58203000",
+      "longitude": "-72.49259000"
+    },
+    {
+      "id": 121894,
+      "name": "Millis",
+      "latitude": "42.16760000",
+      "longitude": "-71.35784000"
+    },
+    {
+      "id": 121895,
+      "name": "Millis-Clicquot",
+      "latitude": "42.16480000",
+      "longitude": "-71.35442000"
+    },
+    {
+      "id": 121905,
+      "name": "Millville",
+      "latitude": "42.02788000",
+      "longitude": "-71.58090000"
+    },
+    {
+      "id": 121915,
+      "name": "Milton",
+      "latitude": "42.24954000",
+      "longitude": "-71.06616000"
+    },
+    {
+      "id": 122090,
+      "name": "Monson",
+      "latitude": "42.10426000",
+      "longitude": "-72.31897000"
+    },
+    {
+      "id": 122091,
+      "name": "Monson Center",
+      "latitude": "42.09898000",
+      "longitude": "-72.30481000"
+    },
+    {
+      "id": 122096,
+      "name": "Montague",
+      "latitude": "42.53564000",
+      "longitude": "-72.53509000"
+    },
+    {
+      "id": 122192,
+      "name": "Monument Beach",
+      "latitude": "41.71955000",
+      "longitude": "-70.61198000"
+    },
+    {
+      "id": 122535,
+      "name": "Nahant",
+      "latitude": "42.42649000",
+      "longitude": "-70.91894000"
+    },
+    {
+      "id": 122542,
+      "name": "Nantucket",
+      "latitude": "41.28346000",
+      "longitude": "-70.09946000"
+    },
+    {
+      "id": 122543,
+      "name": "Nantucket County",
+      "latitude": "41.26955000",
+      "longitude": "-70.02171000"
+    },
+    {
+      "id": 122590,
+      "name": "Natick",
+      "latitude": "42.28343000",
+      "longitude": "-71.34950000"
+    },
+    {
+      "id": 122613,
+      "name": "Needham",
+      "latitude": "42.28343000",
+      "longitude": "-71.23283000"
+    },
+    {
+      "id": 122662,
+      "name": "New Bedford",
+      "latitude": "41.63526000",
+      "longitude": "-70.92701000"
+    },
+    {
+      "id": 122752,
+      "name": "New Marlborough",
+      "latitude": "42.12287000",
+      "longitude": "-73.22872000"
+    },
+    {
+      "id": 122819,
+      "name": "Newburyport",
+      "latitude": "42.81259000",
+      "longitude": "-70.87728000"
+    },
+    {
+      "id": 122865,
+      "name": "Newton",
+      "latitude": "42.33704000",
+      "longitude": "-71.20922000"
+    },
+    {
+      "id": 122942,
+      "name": "Norfolk",
+      "latitude": "42.11954000",
+      "longitude": "-71.32506000"
+    },
+    {
+      "id": 122945,
+      "name": "Norfolk County",
+      "latitude": "42.17097000",
+      "longitude": "-71.18381000"
+    },
+    {
+      "id": 122958,
+      "name": "North Adams",
+      "latitude": "42.70092000",
+      "longitude": "-73.10871000"
+    },
+    {
+      "id": 122960,
+      "name": "North Amherst",
+      "latitude": "42.41037000",
+      "longitude": "-72.53092000"
+    },
+    {
+      "id": 122962,
+      "name": "North Andover",
+      "latitude": "42.69870000",
+      "longitude": "-71.13506000"
+    },
+    {
+      "id": 122967,
+      "name": "North Attleborough Center",
+      "latitude": "41.97263000",
+      "longitude": "-71.32474000"
+    },
+    {
+      "id": 122996,
+      "name": "North Brookfield",
+      "latitude": "42.26676000",
+      "longitude": "-72.08285000"
+    },
+    {
+      "id": 123007,
+      "name": "North Chicopee",
+      "latitude": "42.18343000",
+      "longitude": "-72.59953000"
+    },
+    {
+      "id": 123019,
+      "name": "North Eastham",
+      "latitude": "41.86511000",
+      "longitude": "-69.99113000"
+    },
+    {
+      "id": 123025,
+      "name": "North Falmouth",
+      "latitude": "41.64594000",
+      "longitude": "-70.61836000"
+    },
+    {
+      "id": 123051,
+      "name": "North Lakeville",
+      "latitude": "41.85760000",
+      "longitude": "-70.94226000"
+    },
+    {
+      "id": 123078,
+      "name": "North Pembroke",
+      "latitude": "42.09316000",
+      "longitude": "-70.79254000"
+    },
+    {
+      "id": 123083,
+      "name": "North Plymouth",
+      "latitude": "41.97094000",
+      "longitude": "-70.68281000"
+    },
+    {
+      "id": 123091,
+      "name": "North Reading",
+      "latitude": "42.57509000",
+      "longitude": "-71.07867000"
+    },
+    {
+      "id": 123101,
+      "name": "North Scituate",
+      "latitude": "42.21899000",
+      "longitude": "-70.78560000"
+    },
+    {
+      "id": 123104,
+      "name": "North Seekonk",
+      "latitude": "41.88927000",
+      "longitude": "-71.33005000"
+    },
+    {
+      "id": 123128,
+      "name": "North Westport",
+      "latitude": "41.66038000",
+      "longitude": "-71.08838000"
+    },
+    {
+      "id": 123134,
+      "name": "Northampton",
+      "latitude": "42.32509000",
+      "longitude": "-72.64120000"
+    },
+    {
+      "id": 123139,
+      "name": "Northborough",
+      "latitude": "42.31954000",
+      "longitude": "-71.64118000"
+    },
+    {
+      "id": 123140,
+      "name": "Northbridge",
+      "latitude": "42.15148000",
+      "longitude": "-71.64951000"
+    },
+    {
+      "id": 123150,
+      "name": "Northfield",
+      "latitude": "42.69592000",
+      "longitude": "-72.45287000"
+    },
+    {
+      "id": 123176,
+      "name": "Northwest Harwich",
+      "latitude": "41.69029000",
+      "longitude": "-70.10250000"
+    },
+    {
+      "id": 123184,
+      "name": "Norton",
+      "latitude": "41.96677000",
+      "longitude": "-71.18699000"
+    },
+    {
+      "id": 123185,
+      "name": "Norton Center",
+      "latitude": "41.97254000",
+      "longitude": "-71.18535000"
+    },
+    {
+      "id": 123194,
+      "name": "Norwell",
+      "latitude": "42.16177000",
+      "longitude": "-70.79393000"
+    },
+    {
+      "id": 123199,
+      "name": "Norwood",
+      "latitude": "42.19454000",
+      "longitude": "-71.19950000"
+    },
+    {
+      "id": 123229,
+      "name": "Oak Bluffs",
+      "latitude": "41.45428000",
+      "longitude": "-70.56197000"
+    },
+    {
+      "id": 123278,
+      "name": "Oakham",
+      "latitude": "42.35287000",
+      "longitude": "-72.04535000"
+    },
+    {
+      "id": 123324,
+      "name": "Ocean Bluff-Brant Rock",
+      "latitude": "42.10234000",
+      "longitude": "-70.65736000"
+    },
+    {
+      "id": 123330,
+      "name": "Ocean Grove",
+      "latitude": "41.72927000",
+      "longitude": "-71.20921000"
+    },
+    {
+      "id": 123483,
+      "name": "Onset",
+      "latitude": "41.74177000",
+      "longitude": "-70.65781000"
+    },
+    {
+      "id": 123508,
+      "name": "Orange",
+      "latitude": "42.59036000",
+      "longitude": "-72.30981000"
+    },
+    {
+      "id": 123564,
+      "name": "Orleans",
+      "latitude": "41.78983000",
+      "longitude": "-69.98974000"
+    },
+    {
+      "id": 123620,
+      "name": "Osterville",
+      "latitude": "41.62844000",
+      "longitude": "-70.38697000"
+    },
+    {
+      "id": 123628,
+      "name": "Otis",
+      "latitude": "42.19315000",
+      "longitude": "-73.09177000"
+    },
+    {
+      "id": 123683,
+      "name": "Oxford",
+      "latitude": "42.11676000",
+      "longitude": "-71.86479000"
+    },
+    {
+      "id": 123759,
+      "name": "Palmer",
+      "latitude": "42.15843000",
+      "longitude": "-72.32869000"
+    },
+    {
+      "id": 123942,
+      "name": "Paxton",
+      "latitude": "42.31120000",
+      "longitude": "-71.92813000"
+    },
+    {
+      "id": 123954,
+      "name": "Peabody",
+      "latitude": "42.52787000",
+      "longitude": "-70.92866000"
+    },
+    {
+      "id": 123990,
+      "name": "Pelham",
+      "latitude": "42.39315000",
+      "longitude": "-72.40370000"
+    },
+    {
+      "id": 124054,
+      "name": "Pepperell",
+      "latitude": "42.66592000",
+      "longitude": "-71.58840000"
+    },
+    {
+      "id": 124141,
+      "name": "Phillipston",
+      "latitude": "42.54870000",
+      "longitude": "-72.13286000"
+    },
+    {
+      "id": 124252,
+      "name": "Pinehurst",
+      "latitude": "42.52926000",
+      "longitude": "-71.22811000"
+    },
+    {
+      "id": 124298,
+      "name": "Pittsfield",
+      "latitude": "42.45008000",
+      "longitude": "-73.24538000"
+    },
+    {
+      "id": 124335,
+      "name": "Plainville",
+      "latitude": "42.00427000",
+      "longitude": "-71.33283000"
+    },
+    {
+      "id": 124402,
+      "name": "Plymouth",
+      "latitude": "41.95844000",
+      "longitude": "-70.66726000"
+    },
+    {
+      "id": 124410,
+      "name": "Plymouth County",
+      "latitude": "41.98743000",
+      "longitude": "-70.73707000"
+    },
+    {
+      "id": 124412,
+      "name": "Plympton",
+      "latitude": "41.95288000",
+      "longitude": "-70.81448000"
+    },
+    {
+      "id": 124417,
+      "name": "Pocasset",
+      "latitude": "41.68622000",
+      "longitude": "-70.61614000"
+    },
+    {
+      "id": 124687,
+      "name": "Princeton",
+      "latitude": "42.44870000",
+      "longitude": "-71.87730000"
+    },
+    {
+      "id": 124720,
+      "name": "Provincetown",
+      "latitude": "42.05295000",
+      "longitude": "-70.18640000"
+    },
+    {
+      "id": 124797,
+      "name": "Quincy",
+      "latitude": "42.25288000",
+      "longitude": "-71.00227000"
+    },
+    {
+      "id": 124865,
+      "name": "Randolph",
+      "latitude": "42.16260000",
+      "longitude": "-71.04116000"
+    },
+    {
+      "id": 124924,
+      "name": "Raynham",
+      "latitude": "41.94871000",
+      "longitude": "-71.07310000"
+    },
+    {
+      "id": 124925,
+      "name": "Raynham Center",
+      "latitude": "41.92371000",
+      "longitude": "-71.05227000"
+    },
+    {
+      "id": 124929,
+      "name": "Reading",
+      "latitude": "42.52565000",
+      "longitude": "-71.09533000"
+    },
+    {
+      "id": 125004,
+      "name": "Rehoboth",
+      "latitude": "41.84038000",
+      "longitude": "-71.24949000"
+    },
+    {
+      "id": 125037,
+      "name": "Revere",
+      "latitude": "42.40843000",
+      "longitude": "-71.01199000"
+    },
+    {
+      "id": 125090,
+      "name": "Richmond",
+      "latitude": "42.37314000",
+      "longitude": "-73.36761000"
+    },
+    {
+      "id": 125262,
+      "name": "Rochester",
+      "latitude": "41.73177000",
+      "longitude": "-70.82004000"
+    },
+    {
+      "id": 125309,
+      "name": "Rockland",
+      "latitude": "42.13066000",
+      "longitude": "-70.91616000"
+    },
+    {
+      "id": 125317,
+      "name": "Rockport",
+      "latitude": "42.65565000",
+      "longitude": "-70.62032000"
+    },
+    {
+      "id": 125482,
+      "name": "Rowley",
+      "latitude": "42.71676000",
+      "longitude": "-70.87866000"
+    },
+    {
+      "id": 125494,
+      "name": "Royalston",
+      "latitude": "42.67759000",
+      "longitude": "-72.18786000"
+    },
+    {
+      "id": 125555,
+      "name": "Rutland",
+      "latitude": "42.36954000",
+      "longitude": "-71.94813000"
+    },
+    {
+      "id": 125586,
+      "name": "Sagamore",
+      "latitude": "41.77011000",
+      "longitude": "-70.52836000"
+    },
+    {
+      "id": 125735,
+      "name": "Salem",
+      "latitude": "42.51954000",
+      "longitude": "-70.89672000"
+    },
+    {
+      "id": 125757,
+      "name": "Salisbury",
+      "latitude": "42.84176000",
+      "longitude": "-70.86061000"
+    },
+    {
+      "id": 125877,
+      "name": "Sandwich",
+      "latitude": "41.75900000",
+      "longitude": "-70.49392000"
+    },
+    {
+      "id": 125961,
+      "name": "Saugus",
+      "latitude": "42.46482000",
+      "longitude": "-71.01005000"
+    },
+    {
+      "id": 126030,
+      "name": "Scituate",
+      "latitude": "42.19593000",
+      "longitude": "-70.72587000"
+    },
+    {
+      "id": 126123,
+      "name": "Seekonk",
+      "latitude": "41.80843000",
+      "longitude": "-71.33700000"
+    },
+    {
+      "id": 126228,
+      "name": "Sharon",
+      "latitude": "42.12371000",
+      "longitude": "-71.17866000"
+    },
+    {
+      "id": 126262,
+      "name": "Sheffield",
+      "latitude": "42.11037000",
+      "longitude": "-73.35511000"
+    },
+    {
+      "id": 126265,
+      "name": "Shelburne",
+      "latitude": "42.58981000",
+      "longitude": "-72.68842000"
+    },
+    {
+      "id": 126266,
+      "name": "Shelburne Falls",
+      "latitude": "42.60425000",
+      "longitude": "-72.73926000"
+    },
+    {
+      "id": 126313,
+      "name": "Sherborn",
+      "latitude": "42.23899000",
+      "longitude": "-71.36978000"
+    },
+    {
+      "id": 126360,
+      "name": "Shirley",
+      "latitude": "42.54370000",
+      "longitude": "-71.64951000"
+    },
+    {
+      "id": 126385,
+      "name": "Shrewsbury",
+      "latitude": "42.29593000",
+      "longitude": "-71.71285000"
+    },
+    {
+      "id": 126389,
+      "name": "Shutesbury",
+      "latitude": "42.45648000",
+      "longitude": "-72.40981000"
+    },
+    {
+      "id": 126516,
+      "name": "Smith Mills",
+      "latitude": "41.63899000",
+      "longitude": "-70.99115000"
+    },
+    {
+      "id": 126582,
+      "name": "Somerset",
+      "latitude": "41.76955000",
+      "longitude": "-71.12866000"
+    },
+    {
+      "id": 126595,
+      "name": "Somerville",
+      "latitude": "42.38760000",
+      "longitude": "-71.09950000"
+    },
+    {
+      "id": 126613,
+      "name": "South Amherst",
+      "latitude": "42.34037000",
+      "longitude": "-72.50509000"
+    },
+    {
+      "id": 126615,
+      "name": "South Ashburnham",
+      "latitude": "42.61037000",
+      "longitude": "-71.93897000"
+    },
+    {
+      "id": 126629,
+      "name": "South Boston",
+      "latitude": "42.33343000",
+      "longitude": "-71.04949000"
+    },
+    {
+      "id": 126646,
+      "name": "South Deerfield",
+      "latitude": "42.47731000",
+      "longitude": "-72.60787000"
+    },
+    {
+      "id": 126647,
+      "name": "South Dennis",
+      "latitude": "41.68956000",
+      "longitude": "-70.15641000"
+    },
+    {
+      "id": 126649,
+      "name": "South Duxbury",
+      "latitude": "42.02316000",
+      "longitude": "-70.68281000"
+    },
+    {
+      "id": 126665,
+      "name": "South Hadley",
+      "latitude": "42.25842000",
+      "longitude": "-72.57453000"
+    },
+    {
+      "id": 126685,
+      "name": "South Lancaster",
+      "latitude": "42.44454000",
+      "longitude": "-71.68701000"
+    },
+    {
+      "id": 126708,
+      "name": "South Peabody",
+      "latitude": "42.50982000",
+      "longitude": "-70.94949000"
+    },
+    {
+      "id": 126755,
+      "name": "South Yarmouth",
+      "latitude": "41.66678000",
+      "longitude": "-70.18474000"
+    },
+    {
+      "id": 126757,
+      "name": "Southampton",
+      "latitude": "42.22926000",
+      "longitude": "-72.73009000"
+    },
+    {
+      "id": 126761,
+      "name": "Southborough",
+      "latitude": "42.30565000",
+      "longitude": "-71.52451000"
+    },
+    {
+      "id": 126762,
+      "name": "Southbridge",
+      "latitude": "42.07510000",
+      "longitude": "-72.03341000"
+    },
+    {
+      "id": 126791,
+      "name": "Southwick",
+      "latitude": "42.05482000",
+      "longitude": "-72.77037000"
+    },
+    {
+      "id": 126826,
+      "name": "Spencer",
+      "latitude": "42.24398000",
+      "longitude": "-71.99230000"
+    },
+    {
+      "id": 126897,
+      "name": "Springfield",
+      "latitude": "42.10148000",
+      "longitude": "-72.58981000"
+    },
+    {
+      "id": 127028,
+      "name": "Sterling",
+      "latitude": "42.43759000",
+      "longitude": "-71.76063000"
+    },
+    {
+      "id": 127068,
+      "name": "Stockbridge",
+      "latitude": "42.28759000",
+      "longitude": "-73.32039000"
+    },
+    {
+      "id": 127089,
+      "name": "Stoneham",
+      "latitude": "42.48010000",
+      "longitude": "-71.09950000"
+    },
+    {
+      "id": 127109,
+      "name": "Stoughton",
+      "latitude": "42.12510000",
+      "longitude": "-71.10227000"
+    },
+    {
+      "id": 127112,
+      "name": "Stow",
+      "latitude": "42.43704000",
+      "longitude": "-71.50562000"
+    },
+    {
+      "id": 127147,
+      "name": "Sturbridge",
+      "latitude": "42.10843000",
+      "longitude": "-72.07869000"
+    },
+    {
+      "id": 127161,
+      "name": "Sudbury",
+      "latitude": "42.38343000",
+      "longitude": "-71.41617000"
+    },
+    {
+      "id": 127167,
+      "name": "Suffolk County",
+      "latitude": "42.35550000",
+      "longitude": "-71.06575000"
+    },
+    {
+      "id": 127249,
+      "name": "Sunderland",
+      "latitude": "42.24454000",
+      "longitude": "-71.77174000"
+    },
+    {
+      "id": 127312,
+      "name": "Sutton",
+      "latitude": "42.15010000",
+      "longitude": "-71.76285000"
+    },
+    {
+      "id": 127321,
+      "name": "Swampscott",
+      "latitude": "42.47093000",
+      "longitude": "-70.91755000"
+    },
+    {
+      "id": 127326,
+      "name": "Swansea",
+      "latitude": "41.74816000",
+      "longitude": "-71.18977000"
+    },
+    {
+      "id": 127441,
+      "name": "Taunton",
+      "latitude": "41.90010000",
+      "longitude": "-71.08977000"
+    },
+    {
+      "id": 127476,
+      "name": "Teaticket",
+      "latitude": "41.56455000",
+      "longitude": "-70.59586000"
+    },
+    {
+      "id": 127504,
+      "name": "Templeton",
+      "latitude": "42.55564000",
+      "longitude": "-72.06758000"
+    },
+    {
+      "id": 127542,
+      "name": "Tewksbury",
+      "latitude": "42.61065000",
+      "longitude": "-71.23422000"
+    },
+    {
+      "id": 127619,
+      "name": "Three Rivers",
+      "latitude": "42.18120000",
+      "longitude": "-72.36064000"
+    },
+    {
+      "id": 127735,
+      "name": "Topsfield",
+      "latitude": "42.63759000",
+      "longitude": "-70.94950000"
+    },
+    {
+      "id": 127765,
+      "name": "Townsend",
+      "latitude": "42.66676000",
+      "longitude": "-71.70507000"
+    },
+    {
+      "id": 127859,
+      "name": "Truro",
+      "latitude": "41.99344000",
+      "longitude": "-70.04975000"
+    },
+    {
+      "id": 127905,
+      "name": "Turners Falls",
+      "latitude": "42.60425000",
+      "longitude": "-72.55648000"
+    },
+    {
+      "id": 127947,
+      "name": "Tyngsboro",
+      "latitude": "42.67676000",
+      "longitude": "-71.42451000"
+    },
+    {
+      "id": 128055,
+      "name": "Upton",
+      "latitude": "42.17454000",
+      "longitude": "-71.60229000"
+    },
+    {
+      "id": 128071,
+      "name": "Uxbridge",
+      "latitude": "42.07732000",
+      "longitude": "-71.62951000"
+    },
+    {
+      "id": 128274,
+      "name": "Vineyard Haven",
+      "latitude": "41.45428000",
+      "longitude": "-70.60364000"
+    },
+    {
+      "id": 128359,
+      "name": "Wakefield",
+      "latitude": "42.50648000",
+      "longitude": "-71.07283000"
+    },
+    {
+      "id": 128379,
+      "name": "Wales",
+      "latitude": "42.06954000",
+      "longitude": "-72.22230000"
+    },
+    {
+      "id": 128425,
+      "name": "Walpole",
+      "latitude": "42.14177000",
+      "longitude": "-71.24950000"
+    },
+    {
+      "id": 128432,
+      "name": "Waltham",
+      "latitude": "42.37649000",
+      "longitude": "-71.23561000"
+    },
+    {
+      "id": 128462,
+      "name": "Ware",
+      "latitude": "42.25981000",
+      "longitude": "-72.23980000"
+    },
+    {
+      "id": 128465,
+      "name": "Wareham Center",
+      "latitude": "41.76677000",
+      "longitude": "-70.72615000"
+    },
+    {
+      "id": 128478,
+      "name": "Warren",
+      "latitude": "42.21259000",
+      "longitude": "-72.19119000"
+    },
+    {
+      "id": 128621,
+      "name": "Watertown",
+      "latitude": "42.37093000",
+      "longitude": "-71.18283000"
+    },
+    {
+      "id": 128678,
+      "name": "Wayland",
+      "latitude": "42.36260000",
+      "longitude": "-71.36145000"
+    },
+    {
+      "id": 128731,
+      "name": "Webster",
+      "latitude": "42.05010000",
+      "longitude": "-71.88007000"
+    },
+    {
+      "id": 128773,
+      "name": "Wellesley",
+      "latitude": "42.29649000",
+      "longitude": "-71.29256000"
+    },
+    {
+      "id": 128774,
+      "name": "Wellfleet",
+      "latitude": "41.93761000",
+      "longitude": "-70.03280000"
+    },
+    {
+      "id": 128799,
+      "name": "Wendell",
+      "latitude": "42.54814000",
+      "longitude": "-72.39675000"
+    },
+    {
+      "id": 128802,
+      "name": "Wenham",
+      "latitude": "42.60426000",
+      "longitude": "-70.89116000"
+    },
+    {
+      "id": 128821,
+      "name": "West Barnstable",
+      "latitude": "41.70566000",
+      "longitude": "-70.37447000"
+    },
+    {
+      "id": 128830,
+      "name": "West Boylston",
+      "latitude": "42.36676000",
+      "longitude": "-71.78563000"
+    },
+    {
+      "id": 128835,
+      "name": "West Bridgewater",
+      "latitude": "42.01899000",
+      "longitude": "-71.00782000"
+    },
+    {
+      "id": 128836,
+      "name": "West Brookfield",
+      "latitude": "42.23537000",
+      "longitude": "-72.14119000"
+    },
+    {
+      "id": 128844,
+      "name": "West Chatham",
+      "latitude": "41.68122000",
+      "longitude": "-69.99113000"
+    },
+    {
+      "id": 128850,
+      "name": "West Concord",
+      "latitude": "42.45843000",
+      "longitude": "-71.39534000"
+    },
+    {
+      "id": 128856,
+      "name": "West Dennis",
+      "latitude": "41.66456000",
+      "longitude": "-70.17280000"
+    },
+    {
+      "id": 128868,
+      "name": "West Falmouth",
+      "latitude": "41.60427000",
+      "longitude": "-70.63447000"
+    },
+    {
+      "id": 128939,
+      "name": "West Newbury",
+      "latitude": "42.80148000",
+      "longitude": "-70.98978000"
+    },
+    {
+      "id": 128985,
+      "name": "West Springfield",
+      "latitude": "42.10704000",
+      "longitude": "-72.62037000"
+    },
+    {
+      "id": 128986,
+      "name": "West Stockbridge",
+      "latitude": "42.34592000",
+      "longitude": "-73.36622000"
+    },
+    {
+      "id": 128990,
+      "name": "West Tisbury",
+      "latitude": "41.38122000",
+      "longitude": "-70.67447000"
+    },
+    {
+      "id": 129000,
+      "name": "West Wareham",
+      "latitude": "41.78983000",
+      "longitude": "-70.76031000"
+    },
+    {
+      "id": 129008,
+      "name": "West Yarmouth",
+      "latitude": "41.65011000",
+      "longitude": "-70.24113000"
+    },
+    {
+      "id": 129012,
+      "name": "Westborough",
+      "latitude": "42.26954000",
+      "longitude": "-71.61618000"
+    },
+    {
+      "id": 129028,
+      "name": "Westfield",
+      "latitude": "42.12509000",
+      "longitude": "-72.74954000"
+    },
+    {
+      "id": 129033,
+      "name": "Westford",
+      "latitude": "42.57926000",
+      "longitude": "-71.43784000"
+    },
+    {
+      "id": 129034,
+      "name": "Westhampton",
+      "latitude": "42.30287000",
+      "longitude": "-72.77454000"
+    },
+    {
+      "id": 129046,
+      "name": "Westminster",
+      "latitude": "42.54592000",
+      "longitude": "-71.91063000"
+    },
+    {
+      "id": 129061,
+      "name": "Weston",
+      "latitude": "42.36676000",
+      "longitude": "-71.30311000"
+    },
+    {
+      "id": 129085,
+      "name": "Westwood",
+      "latitude": "42.21399000",
+      "longitude": "-71.22450000"
+    },
+    {
+      "id": 129095,
+      "name": "Weweantic",
+      "latitude": "41.73538000",
+      "longitude": "-70.73198000"
+    },
+    {
+      "id": 129100,
+      "name": "Weymouth",
+      "latitude": "42.22093000",
+      "longitude": "-70.93977000"
+    },
+    {
+      "id": 129106,
+      "name": "Whately",
+      "latitude": "42.43981000",
+      "longitude": "-72.63481000"
+    },
+    {
+      "id": 129144,
+      "name": "White Island Shores",
+      "latitude": "41.80010000",
+      "longitude": "-70.63475000"
+    },
+    {
+      "id": 129198,
+      "name": "Whitinsville",
+      "latitude": "42.11121000",
+      "longitude": "-71.66618000"
+    },
+    {
+      "id": 129203,
+      "name": "Whitman",
+      "latitude": "42.08066000",
+      "longitude": "-70.93560000"
+    },
+    {
+      "id": 129226,
+      "name": "Wilbraham",
+      "latitude": "42.12371000",
+      "longitude": "-72.43147000"
+    },
+    {
+      "id": 129269,
+      "name": "Williamsburg",
+      "latitude": "42.39314000",
+      "longitude": "-72.73009000"
+    },
+    {
+      "id": 129288,
+      "name": "Williamstown",
+      "latitude": "42.71202000",
+      "longitude": "-73.20372000"
+    },
+    {
+      "id": 129324,
+      "name": "Wilmington",
+      "latitude": "42.54648000",
+      "longitude": "-71.17367000"
+    },
+    {
+      "id": 129351,
+      "name": "Winchendon",
+      "latitude": "42.68620000",
+      "longitude": "-72.04397000"
+    },
+    {
+      "id": 129358,
+      "name": "Winchester",
+      "latitude": "42.45232000",
+      "longitude": "-71.13700000"
+    },
+    {
+      "id": 129450,
+      "name": "Winthrop",
+      "latitude": "42.37510000",
+      "longitude": "-70.98283000"
+    },
+    {
+      "id": 129466,
+      "name": "Woburn",
+      "latitude": "42.47926000",
+      "longitude": "-71.15228000"
+    },
+    {
+      "id": 129584,
+      "name": "Worcester",
+      "latitude": "42.26259000",
+      "longitude": "-71.80229000"
+    },
+    {
+      "id": 129587,
+      "name": "Worcester County",
+      "latitude": "42.35140000",
+      "longitude": "-71.90774000"
+    },
+    {
+      "id": 129604,
+      "name": "Wrentham",
+      "latitude": "42.06677000",
+      "longitude": "-71.32811000"
+    },
+    {
+      "id": 129667,
+      "name": "Yarmouth",
+      "latitude": "41.70567000",
+      "longitude": "-70.22863000"
+    },
+    {
+      "id": 129668,
+      "name": "Yarmouth Port",
+      "latitude": "41.70205000",
+      "longitude": "-70.24947000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "id": 3634,
+  "name": "San Juan",
+  "state_code": "J",
+  "latitude": "-31.53169760",
+  "longitude": "-68.56769620",
+  "type": "province",
+  "cities": [
+    {
+      "id": 644,
+      "name": "Albardón",
+      "latitude": "-31.43722000",
+      "longitude": "-68.52556000"
+    },
+    {
+      "id": 714,
+      "name": "Calingasta",
+      "latitude": "-31.33394000",
+      "longitude": "-69.42080000"
+    },
+    {
+      "id": 741,
+      "name": "Caucete",
+      "latitude": "-31.65179000",
+      "longitude": "-68.28105000"
+    },
+    {
+      "id": 762,
+      "name": "Chimbas",
+      "latitude": "-31.48333000",
+      "longitude": "-68.53333000"
+    },
+    {
+      "id": 821,
+      "name": "Departamento de Albardón",
+      "latitude": "-31.28333000",
+      "longitude": "-68.41667000"
+    },
+    {
+      "id": 827,
+      "name": "Departamento de Angaco",
+      "latitude": "-31.20000000",
+      "longitude": "-68.13333000"
+    },
+    {
+      "id": 844,
+      "name": "Departamento de Calingasta",
+      "latitude": "-31.50000000",
+      "longitude": "-69.75000000"
+    },
+    {
+      "id": 851,
+      "name": "Departamento de Capital",
+      "latitude": "-31.53333000",
+      "longitude": "-68.53333000"
+    },
+    {
+      "id": 856,
+      "name": "Departamento de Caucete",
+      "latitude": "-31.45000000",
+      "longitude": "-67.66667000"
+    },
+    {
+      "id": 859,
+      "name": "Departamento de Chimbas",
+      "latitude": "-31.48738000",
+      "longitude": "-68.52691000"
+    },
+    {
+      "id": 907,
+      "name": "Departamento de Iglesia",
+      "latitude": "-29.33333000",
+      "longitude": "-69.58333000"
+    },
+    {
+      "id": 915,
+      "name": "Departamento de Jáchal",
+      "latitude": "-30.50000000",
+      "longitude": "-68.50000000"
+    },
+    {
+      "id": 952,
+      "name": "Departamento de Nueve de Julio",
+      "latitude": "-31.65072000",
+      "longitude": "-68.38925000"
+    },
+    {
+      "id": 964,
+      "name": "Departamento de Rawson",
+      "latitude": "-31.70000000",
+      "longitude": "-68.46667000"
+    },
+    {
+      "id": 966,
+      "name": "Departamento de Rivadavia",
+      "latitude": "-31.56450000",
+      "longitude": "-68.65219000"
+    },
+    {
+      "id": 998,
+      "name": "Departamento de San Martín",
+      "latitude": "-31.50000000",
+      "longitude": "-68.25000000"
+    },
+    {
+      "id": 1005,
+      "name": "Departamento de Santa Lucía",
+      "latitude": "-31.53333000",
+      "longitude": "-68.46667000"
+    },
+    {
+      "id": 1013,
+      "name": "Departamento de Sarmiento",
+      "latitude": "-32.00000000",
+      "longitude": "-68.66667000"
+    },
+    {
+      "id": 1028,
+      "name": "Departamento de Ullúm",
+      "latitude": "-31.00000000",
+      "longitude": "-68.91667000"
+    },
+    {
+      "id": 1036,
+      "name": "Departamento de Zonda",
+      "latitude": "-31.68260000",
+      "longitude": "-68.89938000"
+    },
+    {
+      "id": 1302,
+      "name": "Nueve de Julio",
+      "latitude": "-31.66914000",
+      "longitude": "-68.39023000"
+    },
+    {
+      "id": 1339,
+      "name": "Pocito",
+      "latitude": "-31.68333000",
+      "longitude": "-68.58333000"
+    },
+    {
+      "id": 1407,
+      "name": "San Agustín de Valle Fértil",
+      "latitude": "-30.63353000",
+      "longitude": "-67.46821000"
+    },
+    {
+      "id": 1431,
+      "name": "San José de Jáchal",
+      "latitude": "-30.24057000",
+      "longitude": "-68.74693000"
+    },
+    {
+      "id": 1433,
+      "name": "San Juan",
+      "latitude": "-31.53750000",
+      "longitude": "-68.53639000"
+    },
+    {
+      "id": 1441,
+      "name": "San Martín",
+      "latitude": "-31.42957000",
+      "longitude": "-68.50065000"
+    },
+    {
+      "id": 1460,
+      "name": "Santa Lucía",
+      "latitude": "-31.53987000",
+      "longitude": "-68.49503000"
+    },
+    {
+      "id": 1540,
+      "name": "Villa Basilio Nievas",
+      "latitude": "-31.55000000",
+      "longitude": "-68.73333000"
+    },
+    {
+      "id": 1572,
+      "name": "Villa Paula de Sarmiento",
+      "latitude": "-31.49330000",
+      "longitude": "-68.53838000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

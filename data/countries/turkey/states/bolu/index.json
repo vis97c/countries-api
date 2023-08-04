@@ -1,0 +1,108 @@
+{
+  "id": 2172,
+  "name": "Bolu",
+  "state_code": "14",
+  "latitude": "40.57597660",
+  "longitude": "31.57880860",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107537,
+      "name": "Dörtdivan",
+      "latitude": "40.72052000",
+      "longitude": "32.06314000"
+    },
+    {
+      "id": 107665,
+      "name": "Gerede",
+      "latitude": "40.71364000",
+      "longitude": "32.31263000"
+    },
+    {
+      "id": 107719,
+      "name": "Göynük",
+      "latitude": "40.40028000",
+      "longitude": "30.78833000"
+    },
+    {
+      "id": 108096,
+      "name": "Kıbrıscık",
+      "latitude": "40.40778000",
+      "longitude": "31.85194000"
+    },
+    {
+      "id": 108172,
+      "name": "Mengen",
+      "latitude": "40.93877000",
+      "longitude": "32.07642000"
+    },
+    {
+      "id": 107366,
+      "name": "Merkez",
+      "latitude": "40.73583000",
+      "longitude": "31.60611000"
+    },
+    {
+      "id": 108218,
+      "name": "Mudurnu",
+      "latitude": "40.47300000",
+      "longitude": "31.20755000"
+    },
+    {
+      "id": 108421,
+      "name": "Seben",
+      "latitude": "40.41134000",
+      "longitude": "31.57359000"
+    },
+    {
+      "id": 108709,
+      "name": "Yeniçağa",
+      "latitude": "40.77115000",
+      "longitude": "32.03375000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

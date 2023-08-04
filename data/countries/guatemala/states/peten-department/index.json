@@ -1,0 +1,168 @@
+{
+  "id": 3669,
+  "name": "Petén Department",
+  "state_code": "PE",
+  "latitude": "16.91203300",
+  "longitude": "-90.29957850",
+  "type": null,
+  "cities": [
+    {
+      "id": 53479,
+      "name": "Dolores",
+      "latitude": "16.51178000",
+      "longitude": "-89.41704000"
+    },
+    {
+      "id": 53494,
+      "name": "Flores",
+      "latitude": "16.92258000",
+      "longitude": "-89.89941000"
+    },
+    {
+      "id": 53520,
+      "name": "La Libertad",
+      "latitude": "16.78850000",
+      "longitude": "-90.11698000"
+    },
+    {
+      "id": 53533,
+      "name": "Melchor de Mencos",
+      "latitude": "17.06606000",
+      "longitude": "-89.15229000"
+    },
+    {
+      "id": 53560,
+      "name": "Municipio de Flores",
+      "latitude": "16.92381000",
+      "longitude": "-89.89709000"
+    },
+    {
+      "id": 53576,
+      "name": "Municipio de Poptún",
+      "latitude": "16.35687000",
+      "longitude": "-89.58912000"
+    },
+    {
+      "id": 53578,
+      "name": "Municipio de San Andrés",
+      "latitude": "17.49541000",
+      "longitude": "-90.39883000"
+    },
+    {
+      "id": 53582,
+      "name": "Municipio de San Benito",
+      "latitude": "16.91289000",
+      "longitude": "-89.90979000"
+    },
+    {
+      "id": 53584,
+      "name": "Municipio de San Francisco",
+      "latitude": "16.72425000",
+      "longitude": "-89.90877000"
+    },
+    {
+      "id": 53589,
+      "name": "Municipio de Santa Ana",
+      "latitude": "16.77305000",
+      "longitude": "-89.66878000"
+    },
+    {
+      "id": 53596,
+      "name": "Municipio de Sayaxché",
+      "latitude": "16.33160000",
+      "longitude": "-90.16339000"
+    },
+    {
+      "id": 53631,
+      "name": "Poptún",
+      "latitude": "16.33111000",
+      "longitude": "-89.41694000"
+    },
+    {
+      "id": 53649,
+      "name": "San Andrés",
+      "latitude": "16.96667000",
+      "longitude": "-89.91667000"
+    },
+    {
+      "id": 53665,
+      "name": "San Benito",
+      "latitude": "16.91675000",
+      "longitude": "-89.91898000"
+    },
+    {
+      "id": 53673,
+      "name": "San Francisco",
+      "latitude": "16.80000000",
+      "longitude": "-89.93333000"
+    },
+    {
+      "id": 53681,
+      "name": "San José",
+      "latitude": "16.98333000",
+      "longitude": "-89.90000000"
+    },
+    {
+      "id": 53704,
+      "name": "San Luis",
+      "latitude": "16.19889000",
+      "longitude": "-89.44028000"
+    },
+    {
+      "id": 53743,
+      "name": "Santa Ana",
+      "latitude": "16.80000000",
+      "longitude": "-89.83333000"
+    },
+    {
+      "id": 53776,
+      "name": "Sayaxché",
+      "latitude": "16.52446000",
+      "longitude": "-90.18801000"
+    }
+  ],
+  "country": {
+    "id": 90,
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "iso2": "GT",
+    "numeric_code": "320",
+    "phone_code": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "tld": ".gt",
+    "native": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Guatemala",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "과테말라",
+      "pt-BR": "Guatemala",
+      "pt": "Guatemala",
+      "nl": "Guatemala",
+      "hr": "Gvatemala",
+      "fa": "گواتمالا",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fr": "Guatemala",
+      "ja": "グアテマラ",
+      "it": "Guatemala",
+      "cn": "危地马拉",
+      "tr": "Guatemala"
+    },
+    "latitude": "15.50000000",
+    "longitude": "-90.25000000",
+    "emoji": "🇬🇹",
+    "emojiU": "U+1F1EC U+1F1F9"
+  }
+}

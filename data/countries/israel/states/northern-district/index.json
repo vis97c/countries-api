@@ -1,0 +1,390 @@
+{
+  "id": 1366,
+  "name": "Northern District",
+  "state_code": "Z",
+  "latitude": "36.15118640",
+  "longitude": "-95.99517630",
+  "type": null,
+  "cities": [
+    {
+      "id": 57581,
+      "name": "‘Eilabun",
+      "latitude": "32.83693000",
+      "longitude": "35.40029000"
+    },
+    {
+      "id": 57583,
+      "name": "‘Uzeir",
+      "latitude": "32.79212000",
+      "longitude": "35.32984000"
+    },
+    {
+      "id": 57435,
+      "name": "Acre",
+      "latitude": "32.92814000",
+      "longitude": "35.07647000"
+    },
+    {
+      "id": 57436,
+      "name": "Afula",
+      "latitude": "32.60907000",
+      "longitude": "35.28920000"
+    },
+    {
+      "id": 57442,
+      "name": "Basmat Ṭab‘ūn",
+      "latitude": "32.73898000",
+      "longitude": "35.15716000"
+    },
+    {
+      "id": 57445,
+      "name": "Beit Jann",
+      "latitude": "32.96464000",
+      "longitude": "35.38152000"
+    },
+    {
+      "id": 57448,
+      "name": "Bet She’an",
+      "latitude": "32.49728000",
+      "longitude": "35.49632000"
+    },
+    {
+      "id": 57454,
+      "name": "Bīr el Maksūr",
+      "latitude": "32.77732000",
+      "longitude": "35.22069000"
+    },
+    {
+      "id": 57453,
+      "name": "Bu‘eina",
+      "latitude": "32.80636000",
+      "longitude": "35.36486000"
+    },
+    {
+      "id": 57452,
+      "name": "Buqei‘a",
+      "latitude": "32.97747000",
+      "longitude": "35.33345000"
+    },
+    {
+      "id": 57456,
+      "name": "Dabbūrīya",
+      "latitude": "32.69256000",
+      "longitude": "35.37123000"
+    },
+    {
+      "id": 57458,
+      "name": "Deir Ḥannā",
+      "latitude": "32.86196000",
+      "longitude": "35.36365000"
+    },
+    {
+      "id": 57462,
+      "name": "El Mazra‘a",
+      "latitude": "32.98338000",
+      "longitude": "35.09837000"
+    },
+    {
+      "id": 57464,
+      "name": "Er Reina",
+      "latitude": "32.72339000",
+      "longitude": "35.31622000"
+    },
+    {
+      "id": 57465,
+      "name": "Esh Sheikh Dannūn",
+      "latitude": "32.99410000",
+      "longitude": "35.14805000"
+    },
+    {
+      "id": 57578,
+      "name": "Ḥurfeish",
+      "latitude": "33.01711000",
+      "longitude": "35.34835000"
+    },
+    {
+      "id": 57481,
+      "name": "Iksāl",
+      "latitude": "32.68164000",
+      "longitude": "35.32365000"
+    },
+    {
+      "id": 57486,
+      "name": "Jīsh",
+      "latitude": "33.02216000",
+      "longitude": "35.44694000"
+    },
+    {
+      "id": 57485,
+      "name": "Judeida Makr",
+      "latitude": "32.92820000",
+      "longitude": "35.15705000"
+    },
+    {
+      "id": 57502,
+      "name": "Kābūl",
+      "latitude": "32.86856000",
+      "longitude": "35.21171000"
+    },
+    {
+      "id": 57487,
+      "name": "Kafr Kammā",
+      "latitude": "32.72129000",
+      "longitude": "35.44122000"
+    },
+    {
+      "id": 57488,
+      "name": "Kafr Kannā",
+      "latitude": "32.74660000",
+      "longitude": "35.34242000"
+    },
+    {
+      "id": 57489,
+      "name": "Kafr Mandā",
+      "latitude": "32.81034000",
+      "longitude": "35.26009000"
+    },
+    {
+      "id": 57490,
+      "name": "Kafr Miṣr",
+      "latitude": "32.64521000",
+      "longitude": "35.42147000"
+    },
+    {
+      "id": 57492,
+      "name": "Karmi’el",
+      "latitude": "32.91708000",
+      "longitude": "35.30501000"
+    },
+    {
+      "id": 57493,
+      "name": "Kaukab Abū el Hījā",
+      "latitude": "32.83155000",
+      "longitude": "35.24848000"
+    },
+    {
+      "id": 57495,
+      "name": "Kefar Rosh HaNiqra",
+      "latitude": "33.08607000",
+      "longitude": "35.11348000"
+    },
+    {
+      "id": 57497,
+      "name": "Kefar Tavor",
+      "latitude": "32.68655000",
+      "longitude": "35.42118000"
+    },
+    {
+      "id": 57498,
+      "name": "Kefar Weradim",
+      "latitude": "32.99385000",
+      "longitude": "35.27793000"
+    },
+    {
+      "id": 57501,
+      "name": "Kfar Yasif",
+      "latitude": "32.95451000",
+      "longitude": "35.16230000"
+    },
+    {
+      "id": 57577,
+      "name": "maalot Tarshīhā",
+      "latitude": "33.01667000",
+      "longitude": "35.26667000"
+    },
+    {
+      "id": 57506,
+      "name": "Maghār",
+      "latitude": "32.88984000",
+      "longitude": "35.40703000"
+    },
+    {
+      "id": 57508,
+      "name": "Metulla",
+      "latitude": "33.27918000",
+      "longitude": "35.57950000"
+    },
+    {
+      "id": 57513,
+      "name": "Mi‘ilyā",
+      "latitude": "33.02781000",
+      "longitude": "35.25658000"
+    },
+    {
+      "id": 57511,
+      "name": "Migdal Ha‘Emeq",
+      "latitude": "32.67597000",
+      "longitude": "35.23986000"
+    },
+    {
+      "id": 57516,
+      "name": "Nahariyya",
+      "latitude": "33.00892000",
+      "longitude": "35.09814000"
+    },
+    {
+      "id": 57518,
+      "name": "Naḥf",
+      "latitude": "32.93444000",
+      "longitude": "35.31679000"
+    },
+    {
+      "id": 57517,
+      "name": "Nazareth",
+      "latitude": "32.70056000",
+      "longitude": "35.29722000"
+    },
+    {
+      "id": 57519,
+      "name": "Nefat ‘Akko",
+      "latitude": "32.95000000",
+      "longitude": "35.23333000"
+    },
+    {
+      "id": 57520,
+      "name": "Nein",
+      "latitude": "32.63063000",
+      "longitude": "35.34885000"
+    },
+    {
+      "id": 57532,
+      "name": "Pasuta",
+      "latitude": "33.04895000",
+      "longitude": "35.30893000"
+    },
+    {
+      "id": 57539,
+      "name": "Qiryat Shemona",
+      "latitude": "33.20733000",
+      "longitude": "35.57212000"
+    },
+    {
+      "id": 57545,
+      "name": "Ramat Yishay",
+      "latitude": "32.70444000",
+      "longitude": "35.17070000"
+    },
+    {
+      "id": 57551,
+      "name": "Rosh Pinna",
+      "latitude": "32.96894000",
+      "longitude": "35.54258000"
+    },
+    {
+      "id": 57552,
+      "name": "Rumat Heib",
+      "latitude": "32.77802000",
+      "longitude": "35.30571000"
+    },
+    {
+      "id": 57553,
+      "name": "Safed",
+      "latitude": "32.96465000",
+      "longitude": "35.49600000"
+    },
+    {
+      "id": 57561,
+      "name": "Sājūr",
+      "latitude": "32.94266000",
+      "longitude": "35.34136000"
+    },
+    {
+      "id": 57554,
+      "name": "Sakhnīn",
+      "latitude": "32.86422000",
+      "longitude": "35.29707000"
+    },
+    {
+      "id": 57555,
+      "name": "Sallama",
+      "latitude": "32.89443000",
+      "longitude": "35.36931000"
+    },
+    {
+      "id": 57558,
+      "name": "Shelomi",
+      "latitude": "33.07216000",
+      "longitude": "35.14452000"
+    },
+    {
+      "id": 57559,
+      "name": "Shibli",
+      "latitude": "32.69464000",
+      "longitude": "35.39252000"
+    },
+    {
+      "id": 57562,
+      "name": "Sūlam",
+      "latitude": "32.60606000",
+      "longitude": "35.33408000"
+    },
+    {
+      "id": 57563,
+      "name": "Tamra",
+      "latitude": "32.85301000",
+      "longitude": "35.19870000"
+    },
+    {
+      "id": 57566,
+      "name": "Tiberias",
+      "latitude": "32.79221000",
+      "longitude": "35.53124000"
+    },
+    {
+      "id": 57567,
+      "name": "Timrat",
+      "latitude": "32.70302000",
+      "longitude": "35.22359000"
+    },
+    {
+      "id": 57572,
+      "name": "Yavne’el",
+      "latitude": "32.70619000",
+      "longitude": "35.50435000"
+    }
+  ],
+  "country": {
+    "id": 106,
+    "name": "Israel",
+    "iso3": "ISR",
+    "iso2": "IL",
+    "numeric_code": "376",
+    "phone_code": "972",
+    "capital": "Jerusalem",
+    "currency": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "tld": ".il",
+    "native": "יִשְׂרָאֵל",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jerusalem",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "IST",
+        "tzName": "Israel Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "이스라엘",
+      "pt-BR": "Israel",
+      "pt": "Israel",
+      "nl": "Israël",
+      "hr": "Izrael",
+      "fa": "اسرائیل",
+      "de": "Israel",
+      "es": "Israel",
+      "fr": "Israël",
+      "ja": "イスラエル",
+      "it": "Israele",
+      "cn": "以色列",
+      "tr": "İsrail"
+    },
+    "latitude": "31.50000000",
+    "longitude": "34.75000000",
+    "emoji": "🇮🇱",
+    "emojiU": "U+1F1EE U+1F1F1"
+  }
+}

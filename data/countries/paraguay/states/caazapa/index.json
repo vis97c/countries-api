@@ -1,0 +1,96 @@
+{
+  "id": 2775,
+  "name": "Caazapá",
+  "state_code": "6",
+  "latitude": "-26.18277130",
+  "longitude": "-56.37123270",
+  "type": null,
+  "cities": [
+    {
+      "id": 89716,
+      "name": "Abaí",
+      "latitude": "-26.03333000",
+      "longitude": "-55.93333000"
+    },
+    {
+      "id": 89728,
+      "name": "Buena Vista",
+      "latitude": "-26.18387000",
+      "longitude": "-56.08171000"
+    },
+    {
+      "id": 89732,
+      "name": "Caazapá",
+      "latitude": "-26.19583000",
+      "longitude": "-56.36806000"
+    },
+    {
+      "id": 89772,
+      "name": "General Higinio Morínigo",
+      "latitude": "-25.95000000",
+      "longitude": "-55.91667000"
+    },
+    {
+      "id": 89826,
+      "name": "San Juan Nepomuceno",
+      "latitude": "-26.11229000",
+      "longitude": "-55.93861000"
+    },
+    {
+      "id": 89850,
+      "name": "Yegros",
+      "latitude": "-26.45000000",
+      "longitude": "-56.40000000"
+    },
+    {
+      "id": 89855,
+      "name": "Yuty",
+      "latitude": "-26.61471000",
+      "longitude": "-56.24607000"
+    }
+  ],
+  "country": {
+    "id": 172,
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "iso2": "PY",
+    "numeric_code": "600",
+    "phone_code": "595",
+    "capital": "Asuncion",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "tld": ".py",
+    "native": "Paraguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Asuncion",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PYST",
+        "tzName": "Paraguay Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "파라과이",
+      "pt-BR": "Paraguai",
+      "pt": "Paraguai",
+      "nl": "Paraguay",
+      "hr": "Paragvaj",
+      "fa": "پاراگوئه",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "fr": "Paraguay",
+      "ja": "パラグアイ",
+      "it": "Paraguay",
+      "cn": "巴拉圭",
+      "tr": "Paraguay"
+    },
+    "latitude": "-23.00000000",
+    "longitude": "-58.00000000",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE"
+  }
+}

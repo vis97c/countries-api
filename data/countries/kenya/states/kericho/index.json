@@ -1,0 +1,78 @@
+{
+  "id": 193,
+  "name": "Kericho",
+  "state_code": "12",
+  "latitude": "-0.18279130",
+  "longitude": "35.47819260",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64799,
+      "name": "Kericho",
+      "latitude": "-0.36774000",
+      "longitude": "35.28314000"
+    },
+    {
+      "id": 64809,
+      "name": "Kipkelion",
+      "latitude": "-0.19982000",
+      "longitude": "35.46735000"
+    },
+    {
+      "id": 64818,
+      "name": "Litein",
+      "latitude": "-0.58249000",
+      "longitude": "35.18969000"
+    },
+    {
+      "id": 64820,
+      "name": "Londiani",
+      "latitude": "-0.16552000",
+      "longitude": "35.59359000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

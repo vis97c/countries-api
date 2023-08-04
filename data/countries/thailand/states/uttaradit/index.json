@@ -1,0 +1,114 @@
+{
+  "id": 3489,
+  "name": "Uttaradit",
+  "state_code": "53",
+  "latitude": "17.62008860",
+  "longitude": "100.09929420",
+  "type": null,
+  "cities": [
+    {
+      "id": 105196,
+      "name": "Amphoe Ban Khok",
+      "latitude": "18.14680000",
+      "longitude": "101.06610000"
+    },
+    {
+      "id": 105339,
+      "name": "Amphoe Fak Tha",
+      "latitude": "18.00078000",
+      "longitude": "100.88885000"
+    },
+    {
+      "id": 105486,
+      "name": "Amphoe Lap Lae",
+      "latitude": "17.65741000",
+      "longitude": "100.01484000"
+    },
+    {
+      "id": 105603,
+      "name": "Amphoe Mueang Uttaradit",
+      "latitude": "17.68138000",
+      "longitude": "100.19963000"
+    },
+    {
+      "id": 105637,
+      "name": "Amphoe Nam Pat",
+      "latitude": "17.70025000",
+      "longitude": "100.72738000"
+    },
+    {
+      "id": 105740,
+      "name": "Amphoe Phichai",
+      "latitude": "17.30188000",
+      "longitude": "100.11281000"
+    },
+    {
+      "id": 106281,
+      "name": "Amphoe Tha Pla",
+      "latitude": "17.85868000",
+      "longitude": "100.47061000"
+    },
+    {
+      "id": 106310,
+      "name": "Amphoe Thong Saen Khan",
+      "latitude": "17.49930000",
+      "longitude": "100.39658000"
+    },
+    {
+      "id": 106323,
+      "name": "Amphoe Tron",
+      "latitude": "17.47231000",
+      "longitude": "100.13467000"
+    },
+    {
+      "id": 106740,
+      "name": "Uttaradit",
+      "latitude": "17.62557000",
+      "longitude": "100.09421000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

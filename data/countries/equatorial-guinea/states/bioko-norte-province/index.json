@@ -1,0 +1,72 @@
+{
+  "id": 3446,
+  "name": "Bioko Norte Province",
+  "state_code": "BN",
+  "latitude": "3.65950720",
+  "longitude": "8.79218360",
+  "type": null,
+  "cities": [
+    {
+      "id": 52387,
+      "name": "Malabo",
+      "latitude": "3.75578000",
+      "longitude": "8.78166000"
+    },
+    {
+      "id": 52395,
+      "name": "Rebola",
+      "latitude": "3.71667000",
+      "longitude": "8.83333000"
+    },
+    {
+      "id": 52398,
+      "name": "Santiago de Baney",
+      "latitude": "3.69920000",
+      "longitude": "8.90840000"
+    }
+  ],
+  "country": {
+    "id": 67,
+    "name": "Equatorial Guinea",
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "numeric_code": "226",
+    "phone_code": "240",
+    "capital": "Malabo",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".gq",
+    "native": "Guinea Ecuatorial",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "적도 기니",
+      "pt-BR": "Guiné Equatorial",
+      "pt": "Guiné Equatorial",
+      "nl": "Equatoriaal-Guinea",
+      "hr": "Ekvatorijalna Gvineja",
+      "fa": "گینه استوایی",
+      "de": "Äquatorial-Guinea",
+      "es": "Guinea Ecuatorial",
+      "fr": "Guinée-Équatoriale",
+      "ja": "赤道ギニア",
+      "it": "Guinea Equatoriale",
+      "cn": "赤道几内亚",
+      "tr": "Ekvator Ginesi"
+    },
+    "latitude": "2.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇬🇶",
+    "emojiU": "U+1F1EC U+1F1F6"
+  }
+}

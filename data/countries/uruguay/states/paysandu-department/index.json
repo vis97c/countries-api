@@ -1,0 +1,90 @@
+{
+  "id": 3212,
+  "name": "Paysandú Department",
+  "state_code": "PA",
+  "latitude": "-32.06673660",
+  "longitude": "-57.33647890",
+  "type": null,
+  "cities": [
+    {
+      "id": 129803,
+      "name": "Estación Porvenir",
+      "latitude": "-32.37085000",
+      "longitude": "-57.85371000"
+    },
+    {
+      "id": 129807,
+      "name": "Guichón",
+      "latitude": "-32.35846000",
+      "longitude": "-57.19778000"
+    },
+    {
+      "id": 129844,
+      "name": "Paysandú",
+      "latitude": "-32.31710000",
+      "longitude": "-58.08072000"
+    },
+    {
+      "id": 129845,
+      "name": "Piedras Coloradas",
+      "latitude": "-32.37183000",
+      "longitude": "-57.60901000"
+    },
+    {
+      "id": 129850,
+      "name": "Quebracho",
+      "latitude": "-31.93526000",
+      "longitude": "-57.90140000"
+    },
+    {
+      "id": 129861,
+      "name": "San Félix",
+      "latitude": "-32.34631000",
+      "longitude": "-58.10094000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

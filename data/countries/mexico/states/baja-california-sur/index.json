@@ -1,0 +1,310 @@
+{
+  "id": 3460,
+  "name": "Baja California Sur",
+  "state_code": "BCS",
+  "latitude": "26.04444460",
+  "longitude": "-111.66607250",
+  "type": "state",
+  "cities": [
+    {
+      "id": 68498,
+      "name": "Bahía Asunción",
+      "latitude": "27.14231000",
+      "longitude": "-114.29582000"
+    },
+    {
+      "id": 68499,
+      "name": "Bahía Tortugas",
+      "latitude": "27.69056000",
+      "longitude": "-114.89660000"
+    },
+    {
+      "id": 68704,
+      "name": "Cabo San Lucas",
+      "latitude": "22.89088000",
+      "longitude": "-109.91238000"
+    },
+    {
+      "id": 68967,
+      "name": "Chametla",
+      "latitude": "24.09926000",
+      "longitude": "-110.37395000"
+    },
+    {
+      "id": 69151,
+      "name": "Ciudad Constitución",
+      "latitude": "25.03210000",
+      "longitude": "-111.66256000"
+    },
+    {
+      "id": 69162,
+      "name": "Ciudad Insurgentes",
+      "latitude": "25.26345000",
+      "longitude": "-111.77444000"
+    },
+    {
+      "id": 69382,
+      "name": "Colonia del Sol",
+      "latitude": "22.91273000",
+      "longitude": "-109.92655000"
+    },
+    {
+      "id": 69427,
+      "name": "Comondú",
+      "latitude": "26.06667000",
+      "longitude": "-111.81666000"
+    },
+    {
+      "id": 69893,
+      "name": "El Centenario",
+      "latitude": "24.10250000",
+      "longitude": "-110.41444000"
+    },
+    {
+      "id": 70100,
+      "name": "El Pescadero",
+      "latitude": "23.36417000",
+      "longitude": "-110.16833000"
+    },
+    {
+      "id": 70206,
+      "name": "El Silencio",
+      "latitude": "27.46801000",
+      "longitude": "-113.29987000"
+    },
+    {
+      "id": 71436,
+      "name": "La Paz",
+      "latitude": "24.14437000",
+      "longitude": "-110.30050000"
+    },
+    {
+      "id": 71453,
+      "name": "La Playa",
+      "latitude": "23.06417000",
+      "longitude": "-109.66833000"
+    },
+    {
+      "id": 71479,
+      "name": "La Rivera",
+      "latitude": "23.59458000",
+      "longitude": "-109.58523000"
+    },
+    {
+      "id": 71619,
+      "name": "Las Margaritas",
+      "latitude": "27.61833000",
+      "longitude": "-113.45361000"
+    },
+    {
+      "id": 71630,
+      "name": "Las Palmas",
+      "latitude": "22.93672000",
+      "longitude": "-109.94235000"
+    },
+    {
+      "id": 71651,
+      "name": "Las Veredas",
+      "latitude": "23.15028000",
+      "longitude": "-109.70611000"
+    },
+    {
+      "id": 71762,
+      "name": "Loreto",
+      "latitude": "26.01217000",
+      "longitude": "-111.34888000"
+    },
+    {
+      "id": 71777,
+      "name": "Los Barriles",
+      "latitude": "23.68273000",
+      "longitude": "-109.69953000"
+    },
+    {
+      "id": 71781,
+      "name": "Los Cabos",
+      "latitude": "23.27663000",
+      "longitude": "-109.75322000"
+    },
+    {
+      "id": 72073,
+      "name": "Melitón Albáñez Domínguez",
+      "latitude": "23.66139000",
+      "longitude": "-110.42083000"
+    },
+    {
+      "id": 72153,
+      "name": "Miraflores",
+      "latitude": "23.36975000",
+      "longitude": "-109.77436000"
+    },
+    {
+      "id": 72251,
+      "name": "Mulegé",
+      "latitude": "26.60000000",
+      "longitude": "-112.33333000"
+    },
+    {
+      "id": 72965,
+      "name": "Puerto Adolfo Lopez Mateos",
+      "latitude": "25.19224000",
+      "longitude": "-112.11680000"
+    },
+    {
+      "id": 72974,
+      "name": "Puerto San Carlos",
+      "latitude": "24.78874000",
+      "longitude": "-112.10504000"
+    },
+    {
+      "id": 73543,
+      "name": "San Francisco",
+      "latitude": "27.64500000",
+      "longitude": "-113.41917000"
+    },
+    {
+      "id": 73834,
+      "name": "San José del Cabo",
+      "latitude": "23.05888000",
+      "longitude": "-109.69771000"
+    },
+    {
+      "id": 74855,
+      "name": "Santa Rosalía",
+      "latitude": "27.34045000",
+      "longitude": "-112.26761000"
+    },
+    {
+      "id": 75719,
+      "name": "Todos Santos",
+      "latitude": "23.44688000",
+      "longitude": "-110.22308000"
+    },
+    {
+      "id": 75988,
+      "name": "Villa Alberto Andrés Alvarado Arámburo",
+      "latitude": "27.64444000",
+      "longitude": "-113.38472000"
+    },
+    {
+      "id": 76037,
+      "name": "Villa Morelos",
+      "latitude": "24.93000000",
+      "longitude": "-111.62806000"
+    }
+  ],
+  "country": {
+    "id": 142,
+    "name": "Mexico",
+    "iso3": "MEX",
+    "iso2": "MX",
+    "numeric_code": "484",
+    "phone_code": "52",
+    "capital": "Ciudad de México",
+    "currency": "MXN",
+    "currency_name": "Mexican peso",
+    "currency_symbol": "$",
+    "tld": ".mx",
+    "native": "México",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Bahia_Banderas",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Cancun",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chihuahua",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Hermosillo",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Matamoros",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mazatlan",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Merida",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Mexico_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Monterrey",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Ojinaga",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Tijuana",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "멕시코",
+      "pt-BR": "México",
+      "pt": "México",
+      "nl": "Mexico",
+      "hr": "Meksiko",
+      "fa": "مکزیک",
+      "de": "Mexiko",
+      "es": "México",
+      "fr": "Mexique",
+      "ja": "メキシコ",
+      "it": "Messico",
+      "cn": "墨西哥",
+      "tr": "Meksika"
+    },
+    "latitude": "23.00000000",
+    "longitude": "-102.00000000",
+    "emoji": "🇲🇽",
+    "emojiU": "U+1F1F2 U+1F1FD"
+  }
+}

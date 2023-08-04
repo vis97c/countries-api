@@ -1,0 +1,90 @@
+{
+  "id": 2038,
+  "name": "Lara",
+  "state_code": "K",
+  "latitude": "33.98221650",
+  "longitude": "-118.13227470",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130047,
+      "name": "Barquisimeto",
+      "latitude": "10.06470000",
+      "longitude": "-69.35703000"
+    },
+    {
+      "id": 130051,
+      "name": "Cabudare",
+      "latitude": "10.02658000",
+      "longitude": "-69.26203000"
+    },
+    {
+      "id": 130057,
+      "name": "Carora",
+      "latitude": "10.17283000",
+      "longitude": "-70.08100000"
+    },
+    {
+      "id": 130079,
+      "name": "El Tocuyo",
+      "latitude": "9.78709000",
+      "longitude": "-69.79294000"
+    },
+    {
+      "id": 130099,
+      "name": "Los Rastrojos",
+      "latitude": "10.02588000",
+      "longitude": "-69.24166000"
+    },
+    {
+      "id": 130137,
+      "name": "Quíbor",
+      "latitude": "9.92866000",
+      "longitude": "-69.62010000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": 470,
+  "name": "Republika Srpska",
+  "state_code": "SRP",
+  "latitude": "44.72801860",
+  "longitude": "17.31481360",
+  "type": null,
+  "cities": [
+    {
+      "id": 8215,
+      "name": "Balatun",
+      "latitude": "44.86332000",
+      "longitude": "19.33931000"
+    },
+    {
+      "id": 8216,
+      "name": "Banja Luka",
+      "latitude": "44.77842000",
+      "longitude": "17.19386000"
+    },
+    {
+      "id": 8221,
+      "name": "Bijeljina",
+      "latitude": "44.76583000",
+      "longitude": "19.15083000"
+    },
+    {
+      "id": 8223,
+      "name": "Bileća",
+      "latitude": "42.87645000",
+      "longitude": "18.42967000"
+    },
+    {
+      "id": 8225,
+      "name": "Blatnica",
+      "latitude": "44.48677000",
+      "longitude": "17.82278000"
+    },
+    {
+      "id": 8231,
+      "name": "Brod",
+      "latitude": "45.13747000",
+      "longitude": "17.98722000"
+    },
+    {
+      "id": 8232,
+      "name": "Bronzani Majdan",
+      "latitude": "44.79237000",
+      "longitude": "16.94039000"
+    },
+    {
+      "id": 8430,
+      "name": "Čajniče",
+      "latitude": "43.55712000",
+      "longitude": "19.07186000"
+    },
+    {
+      "id": 8434,
+      "name": "Čečava",
+      "latitude": "44.67961000",
+      "longitude": "17.75780000"
+    },
+    {
+      "id": 8432,
+      "name": "Čelinac",
+      "latitude": "44.72453000",
+      "longitude": "17.32431000"
+    },
+    {
+      "id": 8240,
+      "name": "Derventa",
+      "latitude": "44.97839000",
+      "longitude": "17.90779000"
+    },
+    {
+      "id": 8242,
+      "name": "Doboj",
+      "latitude": "44.75944000",
+      "longitude": "18.06500000"
+    },
+    {
+      "id": 8244,
+      "name": "Dobrljin",
+      "latitude": "45.15106000",
+      "longitude": "16.47869000"
+    },
+    {
+      "id": 8256,
+      "name": "Dvorovi",
+      "latitude": "44.80753000",
+      "longitude": "19.25999000"
+    },
+    {
+      "id": 8258,
+      "name": "Foča",
+      "latitude": "43.50646000",
+      "longitude": "18.77854000"
+    },
+    {
+      "id": 8259,
+      "name": "Gacko",
+      "latitude": "43.16722000",
+      "longitude": "18.53528000"
+    },
+    {
+      "id": 8272,
+      "name": "Gradiška",
+      "latitude": "45.14484000",
+      "longitude": "17.25453000"
+    },
+    {
+      "id": 8278,
+      "name": "Hiseti",
+      "latitude": "44.76111000",
+      "longitude": "17.17944000"
+    },
+    {
+      "id": 8282,
+      "name": "Istočni Mostar",
+      "latitude": "43.42056000",
+      "longitude": "18.00833000"
+    },
+    {
+      "id": 8286,
+      "name": "Janja",
+      "latitude": "44.66554000",
+      "longitude": "19.24691000"
+    },
+    {
+      "id": 8290,
+      "name": "Kalenderovci Donji",
+      "latitude": "44.94673000",
+      "longitude": "17.83785000"
+    },
+    {
+      "id": 8297,
+      "name": "Kneževo",
+      "latitude": "44.49071000",
+      "longitude": "17.38161000"
+    },
+    {
+      "id": 8298,
+      "name": "Knežica",
+      "latitude": "45.10548000",
+      "longitude": "16.67668000"
+    },
+    {
+      "id": 8301,
+      "name": "Koran",
+      "latitude": "43.81038000",
+      "longitude": "18.56999000"
+    },
+    {
+      "id": 8302,
+      "name": "Kostajnica",
+      "latitude": "45.21956000",
+      "longitude": "16.53929000"
+    },
+    {
+      "id": 8303,
+      "name": "Kotor Varoš",
+      "latitude": "44.61831000",
+      "longitude": "17.37204000"
+    },
+    {
+      "id": 8305,
+      "name": "Kozarska Dubica",
+      "latitude": "45.17667000",
+      "longitude": "16.80944000"
+    },
+    {
+      "id": 8307,
+      "name": "Krupa na Vrbasu",
+      "latitude": "44.61875000",
+      "longitude": "17.14351000"
+    },
+    {
+      "id": 8308,
+      "name": "Laktaši",
+      "latitude": "44.90857000",
+      "longitude": "17.30135000"
+    },
+    {
+      "id": 8309,
+      "name": "Lamovita",
+      "latitude": "44.92018000",
+      "longitude": "16.89933000"
+    },
+    {
+      "id": 8312,
+      "name": "Ljubinje",
+      "latitude": "42.95120000",
+      "longitude": "18.08702000"
+    },
+    {
+      "id": 8315,
+      "name": "Lopare",
+      "latitude": "44.63498000",
+      "longitude": "18.84340000"
+    },
+    {
+      "id": 8319,
+      "name": "Maglajani",
+      "latitude": "44.94975000",
+      "longitude": "17.35014000"
+    },
+    {
+      "id": 8323,
+      "name": "Marićka",
+      "latitude": "44.86801000",
+      "longitude": "16.85510000"
+    },
+    {
+      "id": 8324,
+      "name": "Maslovare",
+      "latitude": "44.56594000",
+      "longitude": "17.53216000"
+    },
+    {
+      "id": 8325,
+      "name": "Mejdan - Obilićevo",
+      "latitude": "44.76324000",
+      "longitude": "17.19012000"
+    },
+    {
+      "id": 8326,
+      "name": "Milići",
+      "latitude": "44.17016000",
+      "longitude": "19.09195000"
+    },
+    {
+      "id": 8328,
+      "name": "Modriča",
+      "latitude": "44.95444000",
+      "longitude": "18.30361000"
+    },
+    {
+      "id": 8331,
+      "name": "Mrkonjić Grad",
+      "latitude": "44.41729000",
+      "longitude": "17.08288000"
+    },
+    {
+      "id": 8333,
+      "name": "Nevesinje",
+      "latitude": "43.25861000",
+      "longitude": "18.11333000"
+    },
+    {
+      "id": 8334,
+      "name": "Novi Grad",
+      "latitude": "45.04643000",
+      "longitude": "16.37782000"
+    },
+    {
+      "id": 8337,
+      "name": "Obudovac",
+      "latitude": "44.95215000",
+      "longitude": "18.59869000"
+    },
+    {
+      "id": 8341,
+      "name": "Omarska",
+      "latitude": "44.89170000",
+      "longitude": "16.89814000"
+    },
+    {
+      "id": 8342,
+      "name": "Opština Oštra Luka",
+      "latitude": "44.73278000",
+      "longitude": "16.82861000"
+    },
+    {
+      "id": 8343,
+      "name": "Opština Višegrad",
+      "latitude": "43.72167000",
+      "longitude": "19.31361000"
+    },
+    {
+      "id": 8350,
+      "name": "Oštra Luka",
+      "latitude": "44.99724000",
+      "longitude": "18.58464000"
+    },
+    {
+      "id": 8352,
+      "name": "Pale",
+      "latitude": "43.81664000",
+      "longitude": "18.56949000"
+    },
+    {
+      "id": 8354,
+      "name": "Pelagićevo",
+      "latitude": "44.90105000",
+      "longitude": "18.59185000"
+    },
+    {
+      "id": 8355,
+      "name": "Petkovci",
+      "latitude": "44.46849000",
+      "longitude": "19.07466000"
+    },
+    {
+      "id": 8358,
+      "name": "Piskavica",
+      "latitude": "44.86717000",
+      "longitude": "16.97464000"
+    },
+    {
+      "id": 8360,
+      "name": "Podbrdo",
+      "latitude": "44.44189000",
+      "longitude": "17.01495000"
+    },
+    {
+      "id": 8365,
+      "name": "Popovi",
+      "latitude": "44.76547000",
+      "longitude": "19.28667000"
+    },
+    {
+      "id": 8367,
+      "name": "Pribinić",
+      "latitude": "44.61010000",
+      "longitude": "17.68981000"
+    },
+    {
+      "id": 8368,
+      "name": "Priboj",
+      "latitude": "44.60233000",
+      "longitude": "18.93165000"
+    },
+    {
+      "id": 8369,
+      "name": "Prijedor",
+      "latitude": "44.97991000",
+      "longitude": "16.71401000"
+    },
+    {
+      "id": 8374,
+      "name": "Rogatica",
+      "latitude": "43.79894000",
+      "longitude": "19.00363000"
+    },
+    {
+      "id": 8375,
+      "name": "Rudo",
+      "latitude": "43.61781000",
+      "longitude": "19.36719000"
+    },
+    {
+      "id": 8436,
+      "name": "Šamac",
+      "latitude": "45.05987000",
+      "longitude": "18.46756000"
+    },
+    {
+      "id": 8437,
+      "name": "Šekovići",
+      "latitude": "44.29896000",
+      "longitude": "18.85532000"
+    },
+    {
+      "id": 8439,
+      "name": "Šipovo",
+      "latitude": "44.28237000",
+      "longitude": "17.08597000"
+    },
+    {
+      "id": 8383,
+      "name": "Sokolac",
+      "latitude": "43.93817000",
+      "longitude": "18.80079000"
+    },
+    {
+      "id": 8385,
+      "name": "Srbac",
+      "latitude": "45.09730000",
+      "longitude": "17.52331000"
+    },
+    {
+      "id": 8386,
+      "name": "Srebrenica",
+      "latitude": "44.10748000",
+      "longitude": "19.29669000"
+    },
+    {
+      "id": 8388,
+      "name": "Stanari",
+      "latitude": "44.74475000",
+      "longitude": "17.82714000"
+    },
+    {
+      "id": 8389,
+      "name": "Starcevica",
+      "latitude": "44.75708000",
+      "longitude": "17.21178000"
+    },
+    {
+      "id": 8393,
+      "name": "Svodna",
+      "latitude": "45.03770000",
+      "longitude": "16.54019000"
+    },
+    {
+      "id": 8395,
+      "name": "Teslić",
+      "latitude": "44.60639000",
+      "longitude": "17.85972000"
+    },
+    {
+      "id": 8402,
+      "name": "Trebinje",
+      "latitude": "42.71197000",
+      "longitude": "18.34362000"
+    },
+    {
+      "id": 8403,
+      "name": "Trn",
+      "latitude": "44.85829000",
+      "longitude": "17.23583000"
+    },
+    {
+      "id": 8407,
+      "name": "Ugljevik",
+      "latitude": "44.66361000",
+      "longitude": "19.02028000"
+    },
+    {
+      "id": 8413,
+      "name": "Velika Obarska",
+      "latitude": "44.80461000",
+      "longitude": "19.16183000"
+    },
+    {
+      "id": 8418,
+      "name": "Višegrad",
+      "latitude": "43.78260000",
+      "longitude": "19.29256000"
+    },
+    {
+      "id": 8419,
+      "name": "Vlasenica",
+      "latitude": "44.18183000",
+      "longitude": "18.94096000"
+    },
+    {
+      "id": 8446,
+      "name": "Živinice",
+      "latitude": "44.54765000",
+      "longitude": "17.37357000"
+    },
+    {
+      "id": 8428,
+      "name": "Zvornik",
+      "latitude": "44.38605000",
+      "longitude": "19.10247000"
+    }
+  ],
+  "country": {
+    "id": 28,
+    "name": "Bosnia and Herzegovina",
+    "iso3": "BIH",
+    "iso2": "BA",
+    "numeric_code": "070",
+    "phone_code": "387",
+    "capital": "Sarajevo",
+    "currency": "BAM",
+    "currency_name": "Bosnia and Herzegovina convertible mark",
+    "currency_symbol": "KM",
+    "tld": ".ba",
+    "native": "Bosna i Hercegovina",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sarajevo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "보스니아 헤르체고비나",
+      "pt-BR": "Bósnia e Herzegovina",
+      "pt": "Bósnia e Herzegovina",
+      "nl": "Bosnië en Herzegovina",
+      "hr": "Bosna i Hercegovina",
+      "fa": "بوسنی و هرزگوین",
+      "de": "Bosnien und Herzegowina",
+      "es": "Bosnia y Herzegovina",
+      "fr": "Bosnie-Herzégovine",
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "it": "Bosnia ed Erzegovina",
+      "cn": "波斯尼亚和黑塞哥维那",
+      "tr": "Bosna Hersek"
+    },
+    "latitude": "44.00000000",
+    "longitude": "18.00000000",
+    "emoji": "🇧🇦",
+    "emojiU": "U+1F1E7 U+1F1E6"
+  }
+}

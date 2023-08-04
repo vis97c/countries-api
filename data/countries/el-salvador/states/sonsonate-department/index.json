@@ -1,0 +1,102 @@
+{
+  "id": 4140,
+  "name": "Sonsonate Department",
+  "state_code": "SO",
+  "latitude": "13.68235800",
+  "longitude": "-89.66281110",
+  "type": null,
+  "cities": [
+    {
+      "id": 104840,
+      "name": "Acajutla",
+      "latitude": "13.59278000",
+      "longitude": "-89.82750000"
+    },
+    {
+      "id": 104847,
+      "name": "Armenia",
+      "latitude": "13.74361000",
+      "longitude": "-89.49889000"
+    },
+    {
+      "id": 104877,
+      "name": "Izalco",
+      "latitude": "13.74472000",
+      "longitude": "-89.67306000"
+    },
+    {
+      "id": 104880,
+      "name": "Juayúa",
+      "latitude": "13.84139000",
+      "longitude": "-89.74556000"
+    },
+    {
+      "id": 104890,
+      "name": "Nahuizalco",
+      "latitude": "13.77750000",
+      "longitude": "-89.73667000"
+    },
+    {
+      "id": 104904,
+      "name": "San Antonio del Monte",
+      "latitude": "13.71639000",
+      "longitude": "-89.73833000"
+    },
+    {
+      "id": 104927,
+      "name": "Sonsonate",
+      "latitude": "13.71889000",
+      "longitude": "-89.72417000"
+    },
+    {
+      "id": 104928,
+      "name": "Sonzacate",
+      "latitude": "13.73417000",
+      "longitude": "-89.71472000"
+    }
+  ],
+  "country": {
+    "id": 66,
+    "name": "El Salvador",
+    "iso3": "SLV",
+    "iso2": "SV",
+    "numeric_code": "222",
+    "phone_code": "503",
+    "capital": "San Salvador",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".sv",
+    "native": "El Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/El_Salvador",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "엘살바도르",
+      "pt-BR": "El Salvador",
+      "pt": "El Salvador",
+      "nl": "El Salvador",
+      "hr": "Salvador",
+      "fa": "السالوادور",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "fr": "Salvador",
+      "ja": "エルサルバドル",
+      "it": "El Salvador",
+      "cn": "萨尔瓦多",
+      "tr": "El Salvador"
+    },
+    "latitude": "13.83333333",
+    "longitude": "-88.91666666",
+    "emoji": "🇸🇻",
+    "emojiU": "U+1F1F8 U+1F1FB"
+  }
+}

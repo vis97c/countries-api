@@ -1,0 +1,150 @@
+{
+  "id": 294,
+  "name": "Kaduna",
+  "state_code": "KD",
+  "latitude": "10.37640060",
+  "longitude": "7.70945370",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76772,
+      "name": "Anchau",
+      "latitude": "10.96245000",
+      "longitude": "8.39233000"
+    },
+    {
+      "id": 76819,
+      "name": "Burumburum",
+      "latitude": "11.39106000",
+      "longitude": "8.72341000"
+    },
+    {
+      "id": 76849,
+      "name": "Dutsen Wai",
+      "latitude": "10.85009000",
+      "longitude": "8.19900000"
+    },
+    {
+      "id": 76905,
+      "name": "Hunkuyi",
+      "latitude": "11.26680000",
+      "longitude": "7.64916000"
+    },
+    {
+      "id": 76965,
+      "name": "Kachia",
+      "latitude": "9.87342000",
+      "longitude": "7.95407000"
+    },
+    {
+      "id": 76966,
+      "name": "Kaduna",
+      "latitude": "10.52641000",
+      "longitude": "7.43879000"
+    },
+    {
+      "id": 76967,
+      "name": "Kafanchan",
+      "latitude": "9.58126000",
+      "longitude": "8.29260000"
+    },
+    {
+      "id": 76970,
+      "name": "Kagoro",
+      "latitude": "9.60776000",
+      "longitude": "8.39043000"
+    },
+    {
+      "id": 76972,
+      "name": "Kajuru",
+      "latitude": "10.32281000",
+      "longitude": "7.68462000"
+    },
+    {
+      "id": 76989,
+      "name": "Kujama",
+      "latitude": "10.45767000",
+      "longitude": "7.63808000"
+    },
+    {
+      "id": 77010,
+      "name": "Lere",
+      "latitude": "10.38584000",
+      "longitude": "8.57286000"
+    },
+    {
+      "id": 77023,
+      "name": "Mando",
+      "latitude": "10.71667000",
+      "longitude": "6.56667000"
+    },
+    {
+      "id": 77098,
+      "name": "Saminaka",
+      "latitude": "10.41227000",
+      "longitude": "8.68748000"
+    },
+    {
+      "id": 77105,
+      "name": "Soba",
+      "latitude": "10.98133000",
+      "longitude": "8.05749000"
+    },
+    {
+      "id": 77106,
+      "name": "Sofo-Birnin-Gwari",
+      "latitude": "11.01537000",
+      "longitude": "6.78036000"
+    },
+    {
+      "id": 77151,
+      "name": "Zaria",
+      "latitude": "11.11128000",
+      "longitude": "7.72270000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

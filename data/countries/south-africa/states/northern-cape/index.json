@@ -1,0 +1,222 @@
+{
+  "id": 931,
+  "name": "Northern Cape",
+  "state_code": "NC",
+  "latitude": "-29.04668080",
+  "longitude": "21.85685860",
+  "type": null,
+  "cities": [
+    {
+      "id": 131029,
+      "name": "Barkly West",
+      "latitude": "-28.53537000",
+      "longitude": "24.52151000"
+    },
+    {
+      "id": 131047,
+      "name": "Brandvlei",
+      "latitude": "-30.46532000",
+      "longitude": "20.48659000"
+    },
+    {
+      "id": 131058,
+      "name": "Calvinia",
+      "latitude": "-31.47069000",
+      "longitude": "19.77601000"
+    },
+    {
+      "id": 131063,
+      "name": "Carnarvon",
+      "latitude": "-30.96827000",
+      "longitude": "22.13303000"
+    },
+    {
+      "id": 131076,
+      "name": "Colesberg",
+      "latitude": "-30.71999000",
+      "longitude": "25.09718000"
+    },
+    {
+      "id": 131080,
+      "name": "Daniëlskuil",
+      "latitude": "-28.18873000",
+      "longitude": "23.53951000"
+    },
+    {
+      "id": 131081,
+      "name": "De Aar",
+      "latitude": "-30.64966000",
+      "longitude": "24.01230000"
+    },
+    {
+      "id": 131110,
+      "name": "Frances Baard District Municipality",
+      "latitude": "-28.30003000",
+      "longitude": "24.38188000"
+    },
+    {
+      "id": 131112,
+      "name": "Fraserburg",
+      "latitude": "-31.91566000",
+      "longitude": "21.51335000"
+    },
+    {
+      "id": 131137,
+      "name": "John Taolo Gaetsewe District Municipality",
+      "latitude": "-27.04549000",
+      "longitude": "23.04706000"
+    },
+    {
+      "id": 131138,
+      "name": "Kathu",
+      "latitude": "-27.69569000",
+      "longitude": "23.04929000"
+    },
+    {
+      "id": 131139,
+      "name": "Kenhardt",
+      "latitude": "-29.34574000",
+      "longitude": "21.15786000"
+    },
+    {
+      "id": 131140,
+      "name": "Kimberley",
+      "latitude": "-28.73226000",
+      "longitude": "24.76232000"
+    },
+    {
+      "id": 131153,
+      "name": "Kuruman",
+      "latitude": "-27.45240000",
+      "longitude": "23.43246000"
+    },
+    {
+      "id": 131195,
+      "name": "Namakwa District Municipality",
+      "latitude": "-30.53561000",
+      "longitude": "19.42892000"
+    },
+    {
+      "id": 131205,
+      "name": "Noupoort",
+      "latitude": "-31.18736000",
+      "longitude": "24.94991000"
+    },
+    {
+      "id": 131208,
+      "name": "Orania",
+      "latitude": "-29.81381000",
+      "longitude": "24.41205000"
+    },
+    {
+      "id": 131213,
+      "name": "Pampierstad",
+      "latitude": "-27.78324000",
+      "longitude": "24.68768000"
+    },
+    {
+      "id": 131220,
+      "name": "Pixley ka Seme District Municipality",
+      "latitude": "-30.28920000",
+      "longitude": "23.25818000"
+    },
+    {
+      "id": 131222,
+      "name": "Pofadder",
+      "latitude": "-29.12830000",
+      "longitude": "19.39492000"
+    },
+    {
+      "id": 131228,
+      "name": "Postmasburg",
+      "latitude": "-28.33392000",
+      "longitude": "23.06541000"
+    },
+    {
+      "id": 131231,
+      "name": "Prieska",
+      "latitude": "-29.66803000",
+      "longitude": "22.74251000"
+    },
+    {
+      "id": 131241,
+      "name": "Ritchie",
+      "latitude": "-29.03801000",
+      "longitude": "24.60278000"
+    },
+    {
+      "id": 131258,
+      "name": "Siyanda District Municipality",
+      "latitude": "-28.00013000",
+      "longitude": "21.18459000"
+    },
+    {
+      "id": 131261,
+      "name": "Springbok",
+      "latitude": "-29.66434000",
+      "longitude": "17.88650000"
+    },
+    {
+      "id": 131281,
+      "name": "Upington",
+      "latitude": "-28.44776000",
+      "longitude": "21.25612000"
+    },
+    {
+      "id": 131283,
+      "name": "Van Wyksvlei",
+      "latitude": "-30.35101000",
+      "longitude": "21.82498000"
+    },
+    {
+      "id": 131299,
+      "name": "Warrenton",
+      "latitude": "-28.11396000",
+      "longitude": "24.84753000"
+    }
+  ],
+  "country": {
+    "id": 204,
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "numeric_code": "710",
+    "phone_code": "27",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "tld": ".za",
+    "native": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "남아프리카 공화국",
+      "pt-BR": "República Sul-Africana",
+      "pt": "República Sul-Africana",
+      "nl": "Zuid-Afrika",
+      "hr": "Južnoafrička Republika",
+      "fa": "آفریقای جنوبی",
+      "de": "Republik Südafrika",
+      "es": "República de Sudáfrica",
+      "fr": "Afrique du Sud",
+      "ja": "南アフリカ",
+      "it": "Sud Africa",
+      "cn": "南非",
+      "tr": "Güney Afrika Cumhuriyeti"
+    },
+    "latitude": "-29.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇿🇦",
+    "emojiU": "U+1F1FF U+1F1E6"
+  }
+}

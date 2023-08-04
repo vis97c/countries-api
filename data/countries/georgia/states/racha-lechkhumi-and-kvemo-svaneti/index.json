@@ -1,0 +1,78 @@
+{
+  "id": 909,
+  "name": "Racha-Lechkhumi and Kvemo Svaneti",
+  "state_code": "RL",
+  "latitude": "42.67188730",
+  "longitude": "43.05628360",
+  "type": null,
+  "cities": [
+    {
+      "id": 52047,
+      "name": "Ambrolauri",
+      "latitude": "42.52111000",
+      "longitude": "43.16222000"
+    },
+    {
+      "id": 52048,
+      "name": "Ambrolauris Munitsip’alit’et’i",
+      "latitude": "42.56667000",
+      "longitude": "43.10000000"
+    },
+    {
+      "id": 52092,
+      "name": "Lent’ekhi",
+      "latitude": "42.78893000",
+      "longitude": "42.72226000"
+    },
+    {
+      "id": 52106,
+      "name": "Oni",
+      "latitude": "42.57944000",
+      "longitude": "43.44250000"
+    }
+  ],
+  "country": {
+    "id": 81,
+    "name": "Georgia",
+    "iso3": "GEO",
+    "iso2": "GE",
+    "numeric_code": "268",
+    "phone_code": "995",
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "currency_name": "Georgian lari",
+    "currency_symbol": "ლ",
+    "tld": ".ge",
+    "native": "საქართველო",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tbilisi",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GET",
+        "tzName": "Georgia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조지아",
+      "pt-BR": "Geórgia",
+      "pt": "Geórgia",
+      "nl": "Georgië",
+      "hr": "Gruzija",
+      "fa": "گرجستان",
+      "de": "Georgien",
+      "es": "Georgia",
+      "fr": "Géorgie",
+      "ja": "グルジア",
+      "it": "Georgia",
+      "cn": "格鲁吉亚",
+      "tr": "Gürcistan"
+    },
+    "latitude": "42.00000000",
+    "longitude": "43.50000000",
+    "emoji": "🇬🇪",
+    "emojiU": "U+1F1EC U+1F1EA"
+  }
+}

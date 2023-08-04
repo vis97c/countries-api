@@ -1,0 +1,79 @@
+{
+  "id": 744,
+  "name": "Kyrenia District (Keryneia)",
+  "state_code": "06",
+  "latitude": "35.29919400",
+  "longitude": "33.23632460",
+  "type": "district",
+  "cities": [
+    {
+      "id": 22045,
+      "name": "Kyrenia",
+      "latitude": "35.33634000",
+      "longitude": "33.31729000"
+    },
+    {
+      "id": 22046,
+      "name": "Kyrenia Municipality",
+      "latitude": "35.33672000",
+      "longitude": "33.31504000"
+    },
+    {
+      "id": 22059,
+      "name": "Lápithos",
+      "latitude": "35.33823000",
+      "longitude": "33.17368000"
+    }
+  ],
+  "country": {
+    "id": 57,
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "iso2": "CY",
+    "numeric_code": "196",
+    "phone_code": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "native": "Κύπρος",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Famagusta",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Nicosia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "키프로스",
+      "pt-BR": "Chipre",
+      "pt": "Chipre",
+      "nl": "Cyprus",
+      "hr": "Cipar",
+      "fa": "قبرس",
+      "de": "Zypern",
+      "es": "Chipre",
+      "fr": "Chypre",
+      "ja": "キプロス",
+      "it": "Cipro",
+      "cn": "塞浦路斯",
+      "tr": "Kuzey Kıbrıs Türk Cumhuriyeti"
+    },
+    "latitude": "35.00000000",
+    "longitude": "33.00000000",
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE"
+  }
+}

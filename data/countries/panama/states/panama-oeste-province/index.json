@@ -1,0 +1,402 @@
+{
+  "id": 1394,
+  "name": "Panamá Oeste Province",
+  "state_code": "10",
+  "latitude": "9.11967510",
+  "longitude": "-79.29021330",
+  "type": null,
+  "cities": [
+    {
+      "id": 79966,
+      "name": "Alto del Espino",
+      "latitude": "8.84213000",
+      "longitude": "-79.84551000"
+    },
+    {
+      "id": 79967,
+      "name": "Altos de San Francisco",
+      "latitude": "8.86167000",
+      "longitude": "-79.79000000"
+    },
+    {
+      "id": 79971,
+      "name": "Arenosa",
+      "latitude": "9.03978000",
+      "longitude": "-79.95128000"
+    },
+    {
+      "id": 79972,
+      "name": "Arosemena",
+      "latitude": "8.97091000",
+      "longitude": "-79.96641000"
+    },
+    {
+      "id": 79973,
+      "name": "Arraiján",
+      "latitude": "8.95187000",
+      "longitude": "-79.66011000"
+    },
+    {
+      "id": 79989,
+      "name": "Bejuco",
+      "latitude": "8.60037000",
+      "longitude": "-79.88988000"
+    },
+    {
+      "id": 80008,
+      "name": "Buenos Aires",
+      "latitude": "8.63146000",
+      "longitude": "-79.94775000"
+    },
+    {
+      "id": 80016,
+      "name": "Cabuya",
+      "latitude": "8.57472000",
+      "longitude": "-79.92714000"
+    },
+    {
+      "id": 80020,
+      "name": "Caimito",
+      "latitude": "8.81143000",
+      "longitude": "-79.94738000"
+    },
+    {
+      "id": 80033,
+      "name": "Capira",
+      "latitude": "8.75636000",
+      "longitude": "-79.87996000"
+    },
+    {
+      "id": 80044,
+      "name": "Cermeño",
+      "latitude": "8.74082000",
+      "longitude": "-79.85299000"
+    },
+    {
+      "id": 80047,
+      "name": "Cerro Cama",
+      "latitude": "9.02802000",
+      "longitude": "-79.90744000"
+    },
+    {
+      "id": 80053,
+      "name": "Chame",
+      "latitude": "8.57753000",
+      "longitude": "-79.88595000"
+    },
+    {
+      "id": 80069,
+      "name": "Cirí de Los Sotos",
+      "latitude": "8.97206000",
+      "longitude": "-80.09209000"
+    },
+    {
+      "id": 80083,
+      "name": "Distrito Arraiján",
+      "latitude": "8.95000000",
+      "longitude": "-79.70000000"
+    },
+    {
+      "id": 80097,
+      "name": "Distrito de Capira",
+      "latitude": "8.76228000",
+      "longitude": "-79.88275000"
+    },
+    {
+      "id": 80100,
+      "name": "Distrito de Chame",
+      "latitude": "8.60000000",
+      "longitude": "-79.91667000"
+    },
+    {
+      "id": 80112,
+      "name": "Distrito de La Chorrera",
+      "latitude": "8.95000000",
+      "longitude": "-79.85000000"
+    },
+    {
+      "id": 80135,
+      "name": "Distrito de San Carlos",
+      "latitude": "8.53196000",
+      "longitude": "-80.06906000"
+    },
+    {
+      "id": 80152,
+      "name": "El Cacao",
+      "latitude": "8.76134000",
+      "longitude": "-80.01294000"
+    },
+    {
+      "id": 80164,
+      "name": "El Coco",
+      "latitude": "8.87009000",
+      "longitude": "-79.80415000"
+    },
+    {
+      "id": 80171,
+      "name": "El Espavé",
+      "latitude": "8.66161000",
+      "longitude": "-79.87584000"
+    },
+    {
+      "id": 80172,
+      "name": "El Espino",
+      "latitude": "8.83795000",
+      "longitude": "-79.84925000"
+    },
+    {
+      "id": 80178,
+      "name": "El Higo",
+      "latitude": "8.44731000",
+      "longitude": "-80.03603000"
+    },
+    {
+      "id": 80179,
+      "name": "El Líbano",
+      "latitude": "8.61685000",
+      "longitude": "-79.83483000"
+    },
+    {
+      "id": 80219,
+      "name": "Guadalupe",
+      "latitude": "8.85452000",
+      "longitude": "-79.81408000"
+    },
+    {
+      "id": 80227,
+      "name": "Guayabito",
+      "latitude": "8.54828000",
+      "longitude": "-80.01350000"
+    },
+    {
+      "id": 80232,
+      "name": "Hato Montaña",
+      "latitude": "8.91938000",
+      "longitude": "-79.73915000"
+    },
+    {
+      "id": 80243,
+      "name": "La Chorrera",
+      "latitude": "8.88028000",
+      "longitude": "-79.78333000"
+    },
+    {
+      "id": 80250,
+      "name": "La Ermita",
+      "latitude": "8.45622000",
+      "longitude": "-80.06835000"
+    },
+    {
+      "id": 80257,
+      "name": "La Herradura",
+      "latitude": "8.84848000",
+      "longitude": "-79.80404000"
+    },
+    {
+      "id": 80258,
+      "name": "La Laguna",
+      "latitude": "9.04404000",
+      "longitude": "-79.84215000"
+    },
+    {
+      "id": 80268,
+      "name": "La Mitra",
+      "latitude": "8.84091000",
+      "longitude": "-79.78648000"
+    },
+    {
+      "id": 80273,
+      "name": "La Pesa",
+      "latitude": "8.85073000",
+      "longitude": "-79.82374000"
+    },
+    {
+      "id": 80286,
+      "name": "Las Colinas",
+      "latitude": "8.55000000",
+      "longitude": "-80.08333000"
+    },
+    {
+      "id": 80294,
+      "name": "Las Lajas",
+      "latitude": "8.54963000",
+      "longitude": "-79.93521000"
+    },
+    {
+      "id": 80308,
+      "name": "Las Uvas",
+      "latitude": "8.45937000",
+      "longitude": "-80.00075000"
+    },
+    {
+      "id": 80318,
+      "name": "Llano Largo",
+      "latitude": "8.83463000",
+      "longitude": "-79.80765000"
+    },
+    {
+      "id": 80336,
+      "name": "Los Llanitos",
+      "latitude": "8.59787000",
+      "longitude": "-80.09503000"
+    },
+    {
+      "id": 80352,
+      "name": "Mendoza",
+      "latitude": "9.01471000",
+      "longitude": "-79.85073000"
+    },
+    {
+      "id": 80371,
+      "name": "Nueva Arenosa",
+      "latitude": "8.86944000",
+      "longitude": "-79.99472000"
+    },
+    {
+      "id": 80373,
+      "name": "Nueva Gorgona",
+      "latitude": "8.55000000",
+      "longitude": "-79.87547000"
+    },
+    {
+      "id": 80374,
+      "name": "Nuevo Arraiján",
+      "latitude": "8.92453000",
+      "longitude": "-79.72004000"
+    },
+    {
+      "id": 80377,
+      "name": "Nuevo Emperador",
+      "latitude": "9.00273000",
+      "longitude": "-79.73141000"
+    },
+    {
+      "id": 80416,
+      "name": "Playa Leona",
+      "latitude": "8.78389000",
+      "longitude": "-79.77547000"
+    },
+    {
+      "id": 80426,
+      "name": "Potrero Grande",
+      "latitude": "8.88051000",
+      "longitude": "-79.82795000"
+    },
+    {
+      "id": 80432,
+      "name": "Puerto Caimito",
+      "latitude": "8.87022000",
+      "longitude": "-79.71423000"
+    },
+    {
+      "id": 80458,
+      "name": "Río Congo",
+      "latitude": "8.96666000",
+      "longitude": "-79.76105000"
+    },
+    {
+      "id": 80475,
+      "name": "San Carlos",
+      "latitude": "8.47323000",
+      "longitude": "-79.96104000"
+    },
+    {
+      "id": 80483,
+      "name": "San José",
+      "latitude": "8.93333000",
+      "longitude": "-79.73333000"
+    },
+    {
+      "id": 80495,
+      "name": "San Vicente de Bique",
+      "latitude": "8.91143000",
+      "longitude": "-79.67360000"
+    },
+    {
+      "id": 80498,
+      "name": "Santa Clara",
+      "latitude": "9.02875000",
+      "longitude": "-79.75443000"
+    },
+    {
+      "id": 80505,
+      "name": "Santa Rita",
+      "latitude": "8.85681000",
+      "longitude": "-79.87954000"
+    },
+    {
+      "id": 80518,
+      "name": "Sorá",
+      "latitude": "8.63191000",
+      "longitude": "-80.00888000"
+    },
+    {
+      "id": 80540,
+      "name": "Veracruz",
+      "latitude": "8.88988000",
+      "longitude": "-79.62603000"
+    },
+    {
+      "id": 80543,
+      "name": "Villa Carmen",
+      "latitude": "8.79832000",
+      "longitude": "-79.86929000"
+    },
+    {
+      "id": 80545,
+      "name": "Villa Rosario",
+      "latitude": "8.77379000",
+      "longitude": "-79.87547000"
+    },
+    {
+      "id": 80547,
+      "name": "Vista Alegre",
+      "latitude": "8.92772000",
+      "longitude": "-79.70280000"
+    }
+  ],
+  "country": {
+    "id": 170,
+    "name": "Panama",
+    "iso3": "PAN",
+    "iso2": "PA",
+    "numeric_code": "591",
+    "phone_code": "507",
+    "capital": "Panama City",
+    "currency": "PAB",
+    "currency_name": "Panamanian balboa",
+    "currency_symbol": "B/.",
+    "tld": ".pa",
+    "native": "Panamá",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Panama",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "파나마",
+      "pt-BR": "Panamá",
+      "pt": "Panamá",
+      "nl": "Panama",
+      "hr": "Panama",
+      "fa": "پاناما",
+      "de": "Panama",
+      "es": "Panamá",
+      "fr": "Panama",
+      "ja": "パナマ",
+      "it": "Panama",
+      "cn": "巴拿马",
+      "tr": "Panama"
+    },
+    "latitude": "9.00000000",
+    "longitude": "-80.00000000",
+    "emoji": "🇵🇦",
+    "emojiU": "U+1F1F5 U+1F1E6"
+  }
+}

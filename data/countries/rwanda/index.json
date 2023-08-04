@@ -1,0 +1,168 @@
+{
+  "id": 183,
+  "name": "Rwanda",
+  "iso3": "RWA",
+  "iso2": "RW",
+  "numeric_code": "646",
+  "phone_code": "250",
+  "capital": "Kigali",
+  "currency": "RWF",
+  "currency_name": "Rwandan franc",
+  "currency_symbol": "FRw",
+  "tld": ".rw",
+  "native": "Rwanda",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Kigali",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "translations": {
+    "kr": "르완다",
+    "pt-BR": "Ruanda",
+    "pt": "Ruanda",
+    "nl": "Rwanda",
+    "hr": "Ruanda",
+    "fa": "رواندا",
+    "de": "Ruanda",
+    "es": "Ruanda",
+    "fr": "Rwanda",
+    "ja": "ルワンダ",
+    "it": "Ruanda",
+    "cn": "卢旺达",
+    "tr": "Ruanda"
+  },
+  "latitude": "-2.00000000",
+  "longitude": "30.00000000",
+  "emoji": "🇷🇼",
+  "emojiU": "U+1F1F7 U+1F1FC",
+  "states": [
+    {
+      "id": 261,
+      "name": "Eastern Province",
+      "state_code": "02",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102798,
+          "name": "Kibungo",
+          "latitude": "-2.15970000",
+          "longitude": "30.54270000"
+        },
+        {
+          "id": 102803,
+          "name": "Rwamagana",
+          "latitude": "-1.94870000",
+          "longitude": "30.43470000"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Kigali district",
+      "state_code": "01",
+      "latitude": "-1.94407270",
+      "longitude": "30.06188510",
+      "type": null,
+      "cities": [
+        {
+          "id": 102800,
+          "name": "Kigali",
+          "latitude": "-1.94995000",
+          "longitude": "30.05885000"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Northern Province",
+      "state_code": "03",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102793,
+          "name": "Byumba",
+          "latitude": "-1.57630000",
+          "longitude": "30.06750000"
+        },
+        {
+          "id": 102801,
+          "name": "Musanze",
+          "latitude": "-1.49984000",
+          "longitude": "29.63497000"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Southern Province",
+      "state_code": "05",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102792,
+          "name": "Butare",
+          "latitude": "-2.59667000",
+          "longitude": "29.73944000"
+        },
+        {
+          "id": 102795,
+          "name": "Eglise Catholique Centrale GIKO",
+          "latitude": "-1.93653000",
+          "longitude": "29.80610000"
+        },
+        {
+          "id": 102797,
+          "name": "Gitarama",
+          "latitude": "-2.07444000",
+          "longitude": "29.75667000"
+        },
+        {
+          "id": 102802,
+          "name": "Nzega",
+          "latitude": "-2.47900000",
+          "longitude": "29.55640000"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Western Province",
+      "state_code": "04",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102794,
+          "name": "Cyangugu",
+          "latitude": "-2.48460000",
+          "longitude": "28.90750000"
+        },
+        {
+          "id": 102796,
+          "name": "Gisenyi",
+          "latitude": "-1.70278000",
+          "longitude": "29.25639000"
+        },
+        {
+          "id": 102799,
+          "name": "Kibuye",
+          "latitude": "-2.06028000",
+          "longitude": "29.34778000"
+        }
+      ]
+    }
+  ]
+}

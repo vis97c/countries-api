@@ -1,0 +1,180 @@
+{
+  "id": 839,
+  "name": "Aomori Prefecture",
+  "state_code": "02",
+  "latitude": "40.76570770",
+  "longitude": "140.91758790",
+  "type": null,
+  "cities": [
+    {
+      "id": 63249,
+      "name": "Aomori",
+      "latitude": "40.81667000",
+      "longitude": "140.73333000"
+    },
+    {
+      "id": 63250,
+      "name": "Aomori Shi",
+      "latitude": "40.77001000",
+      "longitude": "140.75423000"
+    },
+    {
+      "id": 63394,
+      "name": "Goshogawara",
+      "latitude": "40.80444000",
+      "longitude": "140.44139000"
+    },
+    {
+      "id": 63395,
+      "name": "Goshogawara Shi",
+      "latitude": "40.91657000",
+      "longitude": "140.46998000"
+    },
+    {
+      "id": 63408,
+      "name": "Hachinohe",
+      "latitude": "40.50000000",
+      "longitude": "141.50000000"
+    },
+    {
+      "id": 63409,
+      "name": "Hachinohe Shi",
+      "latitude": "40.47389000",
+      "longitude": "141.48125000"
+    },
+    {
+      "id": 63491,
+      "name": "Hirakawa",
+      "latitude": "40.58728000",
+      "longitude": "140.57107000"
+    },
+    {
+      "id": 63492,
+      "name": "Hirakawa Shi",
+      "latitude": "40.51832000",
+      "longitude": "140.70048000"
+    },
+    {
+      "id": 63497,
+      "name": "Hirosaki",
+      "latitude": "40.59306000",
+      "longitude": "140.47250000"
+    },
+    {
+      "id": 63498,
+      "name": "Hirosaki Shi",
+      "latitude": "40.60512000",
+      "longitude": "140.38460000"
+    },
+    {
+      "id": 63876,
+      "name": "Kuroishi",
+      "latitude": "40.64581000",
+      "longitude": "140.58354000"
+    },
+    {
+      "id": 63877,
+      "name": "Kuroishi Shi",
+      "latitude": "40.61709000",
+      "longitude": "140.70467000"
+    },
+    {
+      "id": 63983,
+      "name": "Misawa",
+      "latitude": "40.68682000",
+      "longitude": "141.38969000"
+    },
+    {
+      "id": 63984,
+      "name": "Misawa Shi",
+      "latitude": "40.74647000",
+      "longitude": "141.38124000"
+    },
+    {
+      "id": 64054,
+      "name": "Mutsu",
+      "latitude": "41.28944000",
+      "longitude": "141.21694000"
+    },
+    {
+      "id": 64055,
+      "name": "Mutsu-shi",
+      "latitude": "41.29090000",
+      "longitude": "141.03327000"
+    },
+    {
+      "id": 64098,
+      "name": "Namioka",
+      "latitude": "40.71069000",
+      "longitude": "140.59048000"
+    },
+    {
+      "id": 64333,
+      "name": "Shimokizukuri",
+      "latitude": "40.81609000",
+      "longitude": "140.37539000"
+    },
+    {
+      "id": 64520,
+      "name": "Towada Shi",
+      "latitude": "40.56736000",
+      "longitude": "141.05794000"
+    },
+    {
+      "id": 64541,
+      "name": "Tsugaru",
+      "latitude": "40.80357000",
+      "longitude": "140.40299000"
+    },
+    {
+      "id": 64542,
+      "name": "Tsugaru Shi",
+      "latitude": "40.86988000",
+      "longitude": "140.34963000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

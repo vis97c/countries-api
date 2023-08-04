@@ -1,0 +1,138 @@
+{
+  "id": 313,
+  "name": "Katsina",
+  "state_code": "KT",
+  "latitude": "12.37967070",
+  "longitude": "7.63057480",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76831,
+      "name": "Danja",
+      "latitude": "11.37710000",
+      "longitude": "7.56097000"
+    },
+    {
+      "id": 76833,
+      "name": "Dankama",
+      "latitude": "13.29782000",
+      "longitude": "7.79492000"
+    },
+    {
+      "id": 76838,
+      "name": "Daura",
+      "latitude": "13.03299000",
+      "longitude": "8.32351000"
+    },
+    {
+      "id": 76850,
+      "name": "Dutsin-Ma",
+      "latitude": "12.45392000",
+      "longitude": "7.49723000"
+    },
+    {
+      "id": 76870,
+      "name": "Funtua",
+      "latitude": "11.47196000",
+      "longitude": "7.30699000"
+    },
+    {
+      "id": 76887,
+      "name": "Gora",
+      "latitude": "11.91294000",
+      "longitude": "7.66531000"
+    },
+    {
+      "id": 76960,
+      "name": "Jibia",
+      "latitude": "13.09378000",
+      "longitude": "7.22624000"
+    },
+    {
+      "id": 76961,
+      "name": "Jikamshi",
+      "latitude": "12.17328000",
+      "longitude": "7.77424000"
+    },
+    {
+      "id": 76976,
+      "name": "Kankara",
+      "latitude": "11.93114000",
+      "longitude": "7.41115000"
+    },
+    {
+      "id": 76979,
+      "name": "Katsina",
+      "latitude": "12.99082000",
+      "longitude": "7.60177000"
+    },
+    {
+      "id": 77026,
+      "name": "Mashi",
+      "latitude": "12.98044000",
+      "longitude": "7.94703000"
+    },
+    {
+      "id": 77093,
+      "name": "Ruma",
+      "latitude": "12.86260000",
+      "longitude": "7.23469000"
+    },
+    {
+      "id": 77094,
+      "name": "Runka",
+      "latitude": "12.44788000",
+      "longitude": "7.30918000"
+    },
+    {
+      "id": 77131,
+      "name": "Wagini",
+      "latitude": "12.68781000",
+      "longitude": "7.19579000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

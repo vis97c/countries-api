@@ -1,0 +1,53 @@
+{
+  "id": 1994,
+  "name": "Northern",
+  "state_code": "17",
+  "latitude": "26.15519140",
+  "longitude": "50.48251730",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 18,
+    "name": "Bahrain",
+    "iso3": "BHR",
+    "iso2": "BH",
+    "numeric_code": "048",
+    "phone_code": "973",
+    "capital": "Manama",
+    "currency": "BHD",
+    "currency_name": "Bahraini dinar",
+    "currency_symbol": ".د.ب",
+    "tld": ".bh",
+    "native": "‏البحرين",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bahrain",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "바레인",
+      "pt-BR": "Bahrein",
+      "pt": "Barém",
+      "nl": "Bahrein",
+      "hr": "Bahrein",
+      "fa": "بحرین",
+      "de": "Bahrain",
+      "es": "Bahrein",
+      "fr": "Bahreïn",
+      "ja": "バーレーン",
+      "it": "Bahrein",
+      "cn": "巴林",
+      "tr": "Bahreyn"
+    },
+    "latitude": "26.00000000",
+    "longitude": "50.55000000",
+    "emoji": "🇧🇭",
+    "emojiU": "U+1F1E7 U+1F1ED"
+  }
+}

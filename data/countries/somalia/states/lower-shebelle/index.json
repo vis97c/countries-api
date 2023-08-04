@@ -1,0 +1,78 @@
+{
+  "id": 921,
+  "name": "Lower Shebelle",
+  "state_code": "SH",
+  "latitude": "1.87664580",
+  "longitude": "44.24790150",
+  "type": null,
+  "cities": [
+    {
+      "id": 104775,
+      "name": "Afgooye",
+      "latitude": "2.13810000",
+      "longitude": "45.12120000"
+    },
+    {
+      "id": 104809,
+      "name": "Marka",
+      "latitude": "1.71594000",
+      "longitude": "44.77166000"
+    },
+    {
+      "id": 104813,
+      "name": "Qoryooley",
+      "latitude": "1.78784000",
+      "longitude": "44.52999000"
+    },
+    {
+      "id": 104817,
+      "name": "Wanlaweyn",
+      "latitude": "2.61850000",
+      "longitude": "44.89380000"
+    }
+  ],
+  "country": {
+    "id": 203,
+    "name": "Somalia",
+    "iso3": "SOM",
+    "iso2": "SO",
+    "numeric_code": "706",
+    "phone_code": "252",
+    "capital": "Mogadishu",
+    "currency": "SOS",
+    "currency_name": "Somali shilling",
+    "currency_symbol": "Sh.so.",
+    "tld": ".so",
+    "native": "Soomaaliya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mogadishu",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "소말리아",
+      "pt-BR": "Somália",
+      "pt": "Somália",
+      "nl": "Somalië",
+      "hr": "Somalija",
+      "fa": "سومالی",
+      "de": "Somalia",
+      "es": "Somalia",
+      "fr": "Somalie",
+      "ja": "ソマリア",
+      "it": "Somalia",
+      "cn": "索马里",
+      "tr": "Somali"
+    },
+    "latitude": "10.00000000",
+    "longitude": "49.00000000",
+    "emoji": "🇸🇴",
+    "emojiU": "U+1F1F8 U+1F1F4"
+  }
+}

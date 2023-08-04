@@ -1,0 +1,84 @@
+{
+  "id": 2566,
+  "name": "Ben Arous",
+  "state_code": "13",
+  "latitude": "36.64356060",
+  "longitude": "10.21515780",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106920,
+      "name": "Ben Arous",
+      "latitude": "36.75310000",
+      "longitude": "10.22940000"
+    },
+    {
+      "id": 106959,
+      "name": "Hammam Lif",
+      "latitude": "36.72030000",
+      "longitude": "10.32610000"
+    },
+    {
+      "id": 106977,
+      "name": "Mornag",
+      "latitude": "36.66160000",
+      "longitude": "10.14630000"
+    },
+    {
+      "id": 106961,
+      "name": "Mornaguia",
+      "latitude": "36.72140000",
+      "longitude": "10.04940000"
+    },
+    {
+      "id": 107007,
+      "name": "Radès",
+      "latitude": "36.76946000",
+      "longitude": "10.27468000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

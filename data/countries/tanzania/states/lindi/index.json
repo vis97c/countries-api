@@ -1,0 +1,96 @@
+{
+  "id": 1483,
+  "name": "Lindi",
+  "state_code": "12",
+  "latitude": "-9.23433940",
+  "longitude": "38.31657250",
+  "type": "Region",
+  "cities": [
+    {
+      "id": 109142,
+      "name": "Lindi",
+      "latitude": "-9.99709000",
+      "longitude": "39.71649000"
+    },
+    {
+      "id": 109187,
+      "name": "Mbekenyera",
+      "latitude": "-10.00000000",
+      "longitude": "38.98333000"
+    },
+    {
+      "id": 109198,
+      "name": "Mingoyo",
+      "latitude": "-10.10526000",
+      "longitude": "39.61859000"
+    },
+    {
+      "id": 109214,
+      "name": "Mtama",
+      "latitude": "-10.30000000",
+      "longitude": "39.36667000"
+    },
+    {
+      "id": 109235,
+      "name": "Nachingwea",
+      "latitude": "-10.37250000",
+      "longitude": "38.76251000"
+    },
+    {
+      "id": 109266,
+      "name": "Nyangao",
+      "latitude": "-10.33333000",
+      "longitude": "39.28333000"
+    },
+    {
+      "id": 109272,
+      "name": "Ruangwa",
+      "latitude": "-10.06667000",
+      "longitude": "38.93333000"
+    }
+  ],
+  "country": {
+    "id": 218,
+    "name": "Tanzania",
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "numeric_code": "834",
+    "phone_code": "255",
+    "capital": "Dodoma",
+    "currency": "TZS",
+    "currency_name": "Tanzanian shilling",
+    "currency_symbol": "TSh",
+    "tld": ".tz",
+    "native": "Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dar_es_Salaam",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "탄자니아",
+      "pt-BR": "Tanzânia",
+      "pt": "Tanzânia",
+      "nl": "Tanzania",
+      "hr": "Tanzanija",
+      "fa": "تانزانیا",
+      "de": "Tansania",
+      "es": "Tanzania",
+      "fr": "Tanzanie",
+      "ja": "タンザニア",
+      "it": "Tanzania",
+      "cn": "坦桑尼亚",
+      "tr": "Tanzanya"
+    },
+    "latitude": "-6.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇿",
+    "emojiU": "U+1F1F9 U+1F1FF"
+  }
+}

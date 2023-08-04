@@ -1,0 +1,114 @@
+{
+  "id": 1686,
+  "name": "Barletta-Andria-Trani",
+  "state_code": "BT",
+  "latitude": "41.20045430",
+  "longitude": "16.20514840",
+  "type": "province",
+  "cities": [
+    {
+      "id": 135491,
+      "name": "Andria",
+      "latitude": "41.23117000",
+      "longitude": "16.29797000"
+    },
+    {
+      "id": 135860,
+      "name": "Barletta",
+      "latitude": "41.31429000",
+      "longitude": "16.28165000"
+    },
+    {
+      "id": 136061,
+      "name": "Bisceglie",
+      "latitude": "41.24264000",
+      "longitude": "16.50104000"
+    },
+    {
+      "id": 136732,
+      "name": "Canosa di Puglia",
+      "latitude": "41.21954000",
+      "longitude": "16.06768000"
+    },
+    {
+      "id": 139863,
+      "name": "Margherita di Savoia",
+      "latitude": "41.37174000",
+      "longitude": "16.15275000"
+    },
+    {
+      "id": 140159,
+      "name": "Minervino Murge",
+      "latitude": "41.08264000",
+      "longitude": "16.07861000"
+    },
+    {
+      "id": 59915,
+      "name": "San Ferdinando di Puglia",
+      "latitude": "41.30263000",
+      "longitude": "16.07046000"
+    },
+    {
+      "id": 61014,
+      "name": "Spinazzola",
+      "latitude": "40.96399000",
+      "longitude": "16.09111000"
+    },
+    {
+      "id": 61437,
+      "name": "Trani",
+      "latitude": "41.27733000",
+      "longitude": "16.41011000"
+    },
+    {
+      "id": 61528,
+      "name": "Trinitapoli",
+      "latitude": "41.35654000",
+      "longitude": "16.08924000"
+    }
+  ],
+  "country": {
+    "id": 107,
+    "name": "Italy",
+    "iso3": "ITA",
+    "iso2": "IT",
+    "numeric_code": "380",
+    "phone_code": "39",
+    "capital": "Rome",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "native": "Italia",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이탈리아",
+      "pt-BR": "Itália",
+      "pt": "Itália",
+      "nl": "Italië",
+      "hr": "Italija",
+      "fa": "ایتالیا",
+      "de": "Italien",
+      "es": "Italia",
+      "fr": "Italie",
+      "ja": "イタリア",
+      "it": "Italia",
+      "cn": "意大利",
+      "tr": "İtalya"
+    },
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  }
+}

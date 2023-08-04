@@ -1,0 +1,53 @@
+{
+  "id": 2072,
+  "name": "Kosi Zone",
+  "state_code": "KO",
+  "latitude": "27.05365240",
+  "longitude": "87.30161320",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 154,
+    "name": "Nepal",
+    "iso3": "NPL",
+    "iso2": "NP",
+    "numeric_code": "524",
+    "phone_code": "977",
+    "capital": "Kathmandu",
+    "currency": "NPR",
+    "currency_name": "Nepalese rupee",
+    "currency_symbol": "₨",
+    "tld": ".np",
+    "native": "नपल",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kathmandu",
+        "gmtOffset": 20700,
+        "gmtOffsetName": "UTC+05:45",
+        "abbreviation": "NPT",
+        "tzName": "Nepal Time"
+      }
+    ],
+    "translations": {
+      "kr": "네팔",
+      "pt-BR": "Nepal",
+      "pt": "Nepal",
+      "nl": "Nepal",
+      "hr": "Nepal",
+      "fa": "نپال",
+      "de": "Népal",
+      "es": "Nepal",
+      "fr": "Népal",
+      "ja": "ネパール",
+      "it": "Nepal",
+      "cn": "尼泊尔",
+      "tr": "Nepal"
+    },
+    "latitude": "28.00000000",
+    "longitude": "84.00000000",
+    "emoji": "🇳🇵",
+    "emojiU": "U+1F1F3 U+1F1F5"
+  }
+}

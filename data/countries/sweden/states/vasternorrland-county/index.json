@@ -1,0 +1,210 @@
+{
+  "id": 1552,
+  "name": "Västernorrland County",
+  "state_code": "Y",
+  "latitude": "63.42764730",
+  "longitude": "17.72924440",
+  "type": null,
+  "cities": [
+    {
+      "id": 104009,
+      "name": "Ånge",
+      "latitude": "62.52495000",
+      "longitude": "15.65904000"
+    },
+    {
+      "id": 104015,
+      "name": "Ås",
+      "latitude": "63.36667000",
+      "longitude": "16.58333000"
+    },
+    {
+      "id": 103034,
+      "name": "Bergeforsen",
+      "latitude": "62.53074000",
+      "longitude": "17.38123000"
+    },
+    {
+      "id": 103051,
+      "name": "Bjästa",
+      "latitude": "63.20000000",
+      "longitude": "18.50000000"
+    },
+    {
+      "id": 103069,
+      "name": "Bollstabruk",
+      "latitude": "62.99777000",
+      "longitude": "17.67348000"
+    },
+    {
+      "id": 103084,
+      "name": "Bredbyn",
+      "latitude": "63.44655000",
+      "longitude": "18.11019000"
+    },
+    {
+      "id": 103185,
+      "name": "Fränsta",
+      "latitude": "62.49855000",
+      "longitude": "16.17016000"
+    },
+    {
+      "id": 103322,
+      "name": "Härnösand",
+      "latitude": "62.63228000",
+      "longitude": "17.93794000"
+    },
+    {
+      "id": 103311,
+      "name": "Husum",
+      "latitude": "63.33333000",
+      "longitude": "19.16667000"
+    },
+    {
+      "id": 103352,
+      "name": "Johannedal",
+      "latitude": "62.43424000",
+      "longitude": "17.37273000"
+    },
+    {
+      "id": 103445,
+      "name": "Köpmanholmen",
+      "latitude": "63.16667000",
+      "longitude": "18.56667000"
+    },
+    {
+      "id": 103411,
+      "name": "Kramfors",
+      "latitude": "62.93161000",
+      "longitude": "17.77646000"
+    },
+    {
+      "id": 103434,
+      "name": "Kvissleby",
+      "latitude": "62.29361000",
+      "longitude": "17.37500000"
+    },
+    {
+      "id": 103502,
+      "name": "Långsele",
+      "latitude": "63.18333000",
+      "longitude": "17.06667000"
+    },
+    {
+      "id": 103534,
+      "name": "Matfors",
+      "latitude": "62.34864000",
+      "longitude": "17.03173000"
+    },
+    {
+      "id": 103574,
+      "name": "Njurundabommen",
+      "latitude": "62.26339000",
+      "longitude": "17.38354000"
+    },
+    {
+      "id": 103575,
+      "name": "Nolby",
+      "latitude": "62.28750000",
+      "longitude": "17.36917000"
+    },
+    {
+      "id": 104039,
+      "name": "Örnsköldsvik",
+      "latitude": "63.29091000",
+      "longitude": "18.71525000"
+    },
+    {
+      "id": 103710,
+      "name": "Skottsund",
+      "latitude": "62.29056000",
+      "longitude": "17.38694000"
+    },
+    {
+      "id": 103735,
+      "name": "Sollefteå",
+      "latitude": "63.16667000",
+      "longitude": "17.26667000"
+    },
+    {
+      "id": 103833,
+      "name": "Söråker",
+      "latitude": "62.50561000",
+      "longitude": "17.51032000"
+    },
+    {
+      "id": 103760,
+      "name": "Stockvik",
+      "latitude": "62.33667000",
+      "longitude": "17.36583000"
+    },
+    {
+      "id": 103785,
+      "name": "Sundsbruk",
+      "latitude": "62.45806000",
+      "longitude": "17.34889000"
+    },
+    {
+      "id": 103786,
+      "name": "Sundsvall",
+      "latitude": "62.39129000",
+      "longitude": "17.30630000"
+    },
+    {
+      "id": 103850,
+      "name": "Timrå",
+      "latitude": "62.48654000",
+      "longitude": "17.32613000"
+    },
+    {
+      "id": 103939,
+      "name": "Vi",
+      "latitude": "62.43333000",
+      "longitude": "17.41667000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

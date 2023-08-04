@@ -1,0 +1,90 @@
+{
+  "id": 3232,
+  "name": "Qalyubia",
+  "state_code": "KB",
+  "latitude": "30.32923680",
+  "longitude": "31.21684660",
+  "type": null,
+  "cities": [
+    {
+      "id": 31771,
+      "name": "Al Khānkah",
+      "latitude": "30.21035000",
+      "longitude": "31.36812000"
+    },
+    {
+      "id": 31779,
+      "name": "Al Qanāţir al Khayrīyah",
+      "latitude": "30.19327000",
+      "longitude": "31.13703000"
+    },
+    {
+      "id": 31796,
+      "name": "Banhā",
+      "latitude": "30.45977000",
+      "longitude": "31.18420000"
+    },
+    {
+      "id": 31851,
+      "name": "Qalyūb",
+      "latitude": "30.17922000",
+      "longitude": "31.20560000"
+    },
+    {
+      "id": 31864,
+      "name": "Shibīn al Qanāṭir",
+      "latitude": "30.31269000",
+      "longitude": "31.32018000"
+    },
+    {
+      "id": 31873,
+      "name": "Toukh",
+      "latitude": "30.35487000",
+      "longitude": "31.20105000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

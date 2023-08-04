@@ -1,0 +1,1492 @@
+{
+  "id": 1414,
+  "name": "Utah",
+  "state_code": "UT",
+  "latitude": "39.32098010",
+  "longitude": "-111.09373110",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111225,
+      "name": "Alpine",
+      "latitude": "40.45328000",
+      "longitude": "-111.77799000"
+    },
+    {
+      "id": 111273,
+      "name": "American Fork",
+      "latitude": "40.37690000",
+      "longitude": "-111.79576000"
+    },
+    {
+      "id": 111663,
+      "name": "Aurora",
+      "latitude": "38.92219000",
+      "longitude": "-111.93409000"
+    },
+    {
+      "id": 111770,
+      "name": "Ballard",
+      "latitude": "40.28940000",
+      "longitude": "-109.94320000"
+    },
+    {
+      "id": 111995,
+      "name": "Beaver",
+      "latitude": "38.27691000",
+      "longitude": "-112.64105000"
+    },
+    {
+      "id": 111999,
+      "name": "Beaver County",
+      "latitude": "38.35771000",
+      "longitude": "-113.23576000"
+    },
+    {
+      "id": 112170,
+      "name": "Benjamin",
+      "latitude": "40.09829000",
+      "longitude": "-111.73132000"
+    },
+    {
+      "id": 112185,
+      "name": "Benson",
+      "latitude": "41.78743000",
+      "longitude": "-111.93022000"
+    },
+    {
+      "id": 112422,
+      "name": "Blanding",
+      "latitude": "37.62433000",
+      "longitude": "-109.47966000"
+    },
+    {
+      "id": 112482,
+      "name": "Bluffdale",
+      "latitude": "40.48967000",
+      "longitude": "-111.93882000"
+    },
+    {
+      "id": 112610,
+      "name": "Bountiful",
+      "latitude": "40.88939000",
+      "longitude": "-111.88077000"
+    },
+    {
+      "id": 112637,
+      "name": "Box Elder County",
+      "latitude": "41.52097000",
+      "longitude": "-113.08209000"
+    },
+    {
+      "id": 112784,
+      "name": "Brigham City",
+      "latitude": "41.51021000",
+      "longitude": "-112.01550000"
+    },
+    {
+      "id": 113156,
+      "name": "Cache County",
+      "latitude": "41.72237000",
+      "longitude": "-111.74356000"
+    },
+    {
+      "id": 113360,
+      "name": "Canyon Rim",
+      "latitude": "40.70661000",
+      "longitude": "-111.82188000"
+    },
+    {
+      "id": 113383,
+      "name": "Carbon County",
+      "latitude": "39.64817000",
+      "longitude": "-110.58898000"
+    },
+    {
+      "id": 113391,
+      "name": "Carbonville",
+      "latitude": "39.61996000",
+      "longitude": "-110.83433000"
+    },
+    {
+      "id": 113543,
+      "name": "Castle Dale",
+      "latitude": "39.21219000",
+      "longitude": "-111.01961000"
+    },
+    {
+      "id": 113603,
+      "name": "Cedar City",
+      "latitude": "37.67748000",
+      "longitude": "-113.06189000"
+    },
+    {
+      "id": 113616,
+      "name": "Cedar Hills",
+      "latitude": "40.41412000",
+      "longitude": "-111.75854000"
+    },
+    {
+      "id": 113649,
+      "name": "Centerfield",
+      "latitude": "39.12524000",
+      "longitude": "-111.81909000"
+    },
+    {
+      "id": 113662,
+      "name": "Centerville",
+      "latitude": "40.91800000",
+      "longitude": "-111.87216000"
+    },
+    {
+      "id": 114217,
+      "name": "Clearfield",
+      "latitude": "41.11078000",
+      "longitude": "-112.02605000"
+    },
+    {
+      "id": 114288,
+      "name": "Clinton",
+      "latitude": "41.13967000",
+      "longitude": "-112.05050000"
+    },
+    {
+      "id": 114339,
+      "name": "Coalville",
+      "latitude": "40.91773000",
+      "longitude": "-111.39936000"
+    },
+    {
+      "id": 114705,
+      "name": "Cottonwood Heights",
+      "latitude": "40.61967000",
+      "longitude": "-111.81021000"
+    },
+    {
+      "id": 114969,
+      "name": "Daggett County",
+      "latitude": "40.88727000",
+      "longitude": "-109.50765000"
+    },
+    {
+      "id": 115022,
+      "name": "Daniel",
+      "latitude": "40.47079000",
+      "longitude": "-111.41463000"
+    },
+    {
+      "id": 115075,
+      "name": "Davis County",
+      "latitude": "40.99061000",
+      "longitude": "-112.11124000"
+    },
+    {
+      "id": 115223,
+      "name": "Delta",
+      "latitude": "39.35218000",
+      "longitude": "-112.57717000"
+    },
+    {
+      "id": 115469,
+      "name": "Draper",
+      "latitude": "40.52467000",
+      "longitude": "-111.86382000"
+    },
+    {
+      "id": 115502,
+      "name": "Duchesne",
+      "latitude": "40.16329000",
+      "longitude": "-110.40293000"
+    },
+    {
+      "id": 115503,
+      "name": "Duchesne County",
+      "latitude": "40.29751000",
+      "longitude": "-110.42476000"
+    },
+    {
+      "id": 115607,
+      "name": "Eagle Mountain",
+      "latitude": "40.31412000",
+      "longitude": "-112.00688000"
+    },
+    {
+      "id": 115642,
+      "name": "East Carbon City",
+      "latitude": "39.54774000",
+      "longitude": "-110.41488000"
+    },
+    {
+      "id": 115712,
+      "name": "East Millcreek",
+      "latitude": "40.69995000",
+      "longitude": "-111.81049000"
+    },
+    {
+      "id": 115992,
+      "name": "Elk Ridge",
+      "latitude": "40.01134000",
+      "longitude": "-111.67687000"
+    },
+    {
+      "id": 116083,
+      "name": "Elwood",
+      "latitude": "41.69048000",
+      "longitude": "-112.14106000"
+    },
+    {
+      "id": 116096,
+      "name": "Emery County",
+      "latitude": "38.99677000",
+      "longitude": "-110.70067000"
+    },
+    {
+      "id": 116142,
+      "name": "Enoch",
+      "latitude": "37.77331000",
+      "longitude": "-113.02439000"
+    },
+    {
+      "id": 116151,
+      "name": "Enterprise",
+      "latitude": "37.57359000",
+      "longitude": "-113.71913000"
+    },
+    {
+      "id": 116154,
+      "name": "Ephraim",
+      "latitude": "39.35968000",
+      "longitude": "-111.58631000"
+    },
+    {
+      "id": 116162,
+      "name": "Erda",
+      "latitude": "40.61272000",
+      "longitude": "-112.30439000"
+    },
+    {
+      "id": 116357,
+      "name": "Fairview",
+      "latitude": "39.62635000",
+      "longitude": "-111.43963000"
+    },
+    {
+      "id": 116422,
+      "name": "Farmington",
+      "latitude": "40.98050000",
+      "longitude": "-111.88744000"
+    },
+    {
+      "id": 116428,
+      "name": "Farr West",
+      "latitude": "41.29717000",
+      "longitude": "-112.02772000"
+    },
+    {
+      "id": 116496,
+      "name": "Ferron",
+      "latitude": "39.09358000",
+      "longitude": "-111.13322000"
+    },
+    {
+      "id": 116509,
+      "name": "Fillmore",
+      "latitude": "38.96885000",
+      "longitude": "-112.32355000"
+    },
+    {
+      "id": 116780,
+      "name": "Fountain Green",
+      "latitude": "39.62996000",
+      "longitude": "-111.63520000"
+    },
+    {
+      "id": 116814,
+      "name": "Francis",
+      "latitude": "40.61051000",
+      "longitude": "-111.28074000"
+    },
+    {
+      "id": 116967,
+      "name": "Fruit Heights",
+      "latitude": "41.03217000",
+      "longitude": "-111.90216000"
+    },
+    {
+      "id": 117085,
+      "name": "Garfield County",
+      "latitude": "37.85492000",
+      "longitude": "-111.44313000"
+    },
+    {
+      "id": 117090,
+      "name": "Garland",
+      "latitude": "41.74104000",
+      "longitude": "-112.16162000"
+    },
+    {
+      "id": 117149,
+      "name": "Genola",
+      "latitude": "39.99634000",
+      "longitude": "-111.84327000"
+    },
+    {
+      "id": 117455,
+      "name": "Grand County",
+      "latitude": "38.98174000",
+      "longitude": "-109.56971000"
+    },
+    {
+      "id": 117492,
+      "name": "Granite",
+      "latitude": "40.57300000",
+      "longitude": "-111.80604000"
+    },
+    {
+      "id": 117531,
+      "name": "Grantsville",
+      "latitude": "40.59994000",
+      "longitude": "-112.46440000"
+    },
+    {
+      "id": 117803,
+      "name": "Gunnison",
+      "latitude": "39.15524000",
+      "longitude": "-111.81826000"
+    },
+    {
+      "id": 118077,
+      "name": "Harrisville",
+      "latitude": "41.28133000",
+      "longitude": "-111.98828000"
+    },
+    {
+      "id": 118229,
+      "name": "Heber City",
+      "latitude": "40.50690000",
+      "longitude": "-111.41324000"
+    },
+    {
+      "id": 118262,
+      "name": "Helper",
+      "latitude": "39.68413000",
+      "longitude": "-110.85461000"
+    },
+    {
+      "id": 118338,
+      "name": "Herriman",
+      "latitude": "40.51411000",
+      "longitude": "-112.03299000"
+    },
+    {
+      "id": 118400,
+      "name": "Highland",
+      "latitude": "40.42548000",
+      "longitude": "-111.79447000"
+    },
+    {
+      "id": 118429,
+      "name": "Hildale",
+      "latitude": "37.00360000",
+      "longitude": "-112.96688000"
+    },
+    {
+      "id": 118433,
+      "name": "Hill Air Force Base",
+      "latitude": "41.11118000",
+      "longitude": "-111.97712000"
+    },
+    {
+      "id": 118536,
+      "name": "Holladay",
+      "latitude": "40.66884000",
+      "longitude": "-111.82466000"
+    },
+    {
+      "id": 118621,
+      "name": "Honeyville",
+      "latitude": "41.63854000",
+      "longitude": "-112.07939000"
+    },
+    {
+      "id": 118633,
+      "name": "Hooper",
+      "latitude": "41.16383000",
+      "longitude": "-112.12244000"
+    },
+    {
+      "id": 118803,
+      "name": "Huntington",
+      "latitude": "39.32664000",
+      "longitude": "-110.96461000"
+    },
+    {
+      "id": 118828,
+      "name": "Hurricane",
+      "latitude": "37.17526000",
+      "longitude": "-113.28995000"
+    },
+    {
+      "id": 118853,
+      "name": "Hyde Park",
+      "latitude": "41.79882000",
+      "longitude": "-111.81911000"
+    },
+    {
+      "id": 118857,
+      "name": "Hyrum",
+      "latitude": "41.63410000",
+      "longitude": "-111.85217000"
+    },
+    {
+      "id": 118991,
+      "name": "Iron County",
+      "latitude": "37.85917000",
+      "longitude": "-113.28927000"
+    },
+    {
+      "id": 119051,
+      "name": "Ivins",
+      "latitude": "37.16859000",
+      "longitude": "-113.67941000"
+    },
+    {
+      "id": 119325,
+      "name": "Juab County",
+      "latitude": "39.70262000",
+      "longitude": "-112.78477000"
+    },
+    {
+      "id": 119332,
+      "name": "Junction",
+      "latitude": "38.23748000",
+      "longitude": "-112.21993000"
+    },
+    {
+      "id": 119370,
+      "name": "Kamas",
+      "latitude": "40.64301000",
+      "longitude": "-111.28074000"
+    },
+    {
+      "id": 119372,
+      "name": "Kanab",
+      "latitude": "37.04749000",
+      "longitude": "-112.52631000"
+    },
+    {
+      "id": 119378,
+      "name": "Kane County",
+      "latitude": "37.28507000",
+      "longitude": "-111.88785000"
+    },
+    {
+      "id": 119403,
+      "name": "Kaysville",
+      "latitude": "41.03522000",
+      "longitude": "-111.93855000"
+    },
+    {
+      "id": 119411,
+      "name": "Kearns",
+      "latitude": "40.65995000",
+      "longitude": "-111.99633000"
+    },
+    {
+      "id": 119807,
+      "name": "LaVerkin",
+      "latitude": "37.20109000",
+      "longitude": "-113.26967000"
+    },
+    {
+      "id": 120254,
+      "name": "Layton",
+      "latitude": "41.06022000",
+      "longitude": "-111.97105000"
+    },
+    {
+      "id": 120333,
+      "name": "Lehi",
+      "latitude": "40.39162000",
+      "longitude": "-111.85077000"
+    },
+    {
+      "id": 120429,
+      "name": "Lewiston",
+      "latitude": "41.97576000",
+      "longitude": "-111.85634000"
+    },
+    {
+      "id": 120468,
+      "name": "Liberty",
+      "latitude": "41.33355000",
+      "longitude": "-111.86355000"
+    },
+    {
+      "id": 120571,
+      "name": "Lindon",
+      "latitude": "40.34329000",
+      "longitude": "-111.72076000"
+    },
+    {
+      "id": 120615,
+      "name": "Little Cottonwood Creek Valley",
+      "latitude": "40.60439000",
+      "longitude": "-111.82938000"
+    },
+    {
+      "id": 120668,
+      "name": "Loa",
+      "latitude": "38.40276000",
+      "longitude": "-111.64296000"
+    },
+    {
+      "id": 120695,
+      "name": "Logan",
+      "latitude": "41.73549000",
+      "longitude": "-111.83439000"
+    },
+    {
+      "id": 121030,
+      "name": "Maeser",
+      "latitude": "40.47718000",
+      "longitude": "-109.58681000"
+    },
+    {
+      "id": 121034,
+      "name": "Magna",
+      "latitude": "40.70911000",
+      "longitude": "-112.10161000"
+    },
+    {
+      "id": 121120,
+      "name": "Manila",
+      "latitude": "40.98801000",
+      "longitude": "-109.72265000"
+    },
+    {
+      "id": 121157,
+      "name": "Manti",
+      "latitude": "39.26830000",
+      "longitude": "-111.63686000"
+    },
+    {
+      "id": 121176,
+      "name": "Mapleton",
+      "latitude": "40.13023000",
+      "longitude": "-111.57853000"
+    },
+    {
+      "id": 121297,
+      "name": "Marriott-Slaterville",
+      "latitude": "41.25161000",
+      "longitude": "-112.02550000"
+    },
+    {
+      "id": 121655,
+      "name": "Mendon",
+      "latitude": "41.70993000",
+      "longitude": "-111.97773000"
+    },
+    {
+      "id": 121811,
+      "name": "Midvale",
+      "latitude": "40.61106000",
+      "longitude": "-111.89994000"
+    },
+    {
+      "id": 121819,
+      "name": "Midway",
+      "latitude": "40.51218000",
+      "longitude": "-111.47435000"
+    },
+    {
+      "id": 121859,
+      "name": "Milford",
+      "latitude": "38.39691000",
+      "longitude": "-113.01079000"
+    },
+    {
+      "id": 121869,
+      "name": "Millard County",
+      "latitude": "39.07381000",
+      "longitude": "-113.10046000"
+    },
+    {
+      "id": 121875,
+      "name": "Millcreek",
+      "latitude": "40.68689000",
+      "longitude": "-111.87549000"
+    },
+    {
+      "id": 121906,
+      "name": "Millville",
+      "latitude": "41.68160000",
+      "longitude": "-111.82300000"
+    },
+    {
+      "id": 122006,
+      "name": "Moab",
+      "latitude": "38.57332000",
+      "longitude": "-109.54984000"
+    },
+    {
+      "id": 122031,
+      "name": "Mona",
+      "latitude": "39.81607000",
+      "longitude": "-111.85549000"
+    },
+    {
+      "id": 122064,
+      "name": "Monroe",
+      "latitude": "38.62997000",
+      "longitude": "-112.12076000"
+    },
+    {
+      "id": 122171,
+      "name": "Monticello",
+      "latitude": "37.87138000",
+      "longitude": "-109.34289000"
+    },
+    {
+      "id": 122234,
+      "name": "Morgan",
+      "latitude": "41.03606000",
+      "longitude": "-111.67688000"
+    },
+    {
+      "id": 122245,
+      "name": "Morgan County",
+      "latitude": "41.08932000",
+      "longitude": "-111.57312000"
+    },
+    {
+      "id": 122262,
+      "name": "Moroni",
+      "latitude": "39.52496000",
+      "longitude": "-111.59047000"
+    },
+    {
+      "id": 122372,
+      "name": "Mount Olympus",
+      "latitude": "40.68550000",
+      "longitude": "-111.78854000"
+    },
+    {
+      "id": 122381,
+      "name": "Mount Pleasant",
+      "latitude": "39.54691000",
+      "longitude": "-111.45547000"
+    },
+    {
+      "id": 122413,
+      "name": "Mountain Green",
+      "latitude": "41.14300000",
+      "longitude": "-111.79160000"
+    },
+    {
+      "id": 122492,
+      "name": "Murray",
+      "latitude": "40.66689000",
+      "longitude": "-111.88799000"
+    },
+    {
+      "id": 122555,
+      "name": "Naples",
+      "latitude": "40.42691000",
+      "longitude": "-109.49930000"
+    },
+    {
+      "id": 122635,
+      "name": "Nephi",
+      "latitude": "39.71023000",
+      "longitude": "-111.83632000"
+    },
+    {
+      "id": 122884,
+      "name": "Nibley",
+      "latitude": "41.67438000",
+      "longitude": "-111.83300000"
+    },
+    {
+      "id": 123060,
+      "name": "North Logan",
+      "latitude": "41.76937000",
+      "longitude": "-111.80467000"
+    },
+    {
+      "id": 123074,
+      "name": "North Ogden",
+      "latitude": "41.30716000",
+      "longitude": "-111.96022000"
+    },
+    {
+      "id": 123099,
+      "name": "North Salt Lake",
+      "latitude": "40.84856000",
+      "longitude": "-111.90688000"
+    },
+    {
+      "id": 123300,
+      "name": "Oakley",
+      "latitude": "40.71467000",
+      "longitude": "-111.30074000"
+    },
+    {
+      "id": 123369,
+      "name": "Ogden",
+      "latitude": "41.22300000",
+      "longitude": "-111.97383000"
+    },
+    {
+      "id": 123501,
+      "name": "Oquirrh",
+      "latitude": "40.63050000",
+      "longitude": "-112.03383000"
+    },
+    {
+      "id": 123531,
+      "name": "Orangeville",
+      "latitude": "39.22719000",
+      "longitude": "-111.05350000"
+    },
+    {
+      "id": 123551,
+      "name": "Orem",
+      "latitude": "40.29690000",
+      "longitude": "-111.69465000"
+    },
+    {
+      "id": 123800,
+      "name": "Panguitch",
+      "latitude": "37.82276000",
+      "longitude": "-112.43576000"
+    },
+    {
+      "id": 123840,
+      "name": "Park City",
+      "latitude": "40.64606000",
+      "longitude": "-111.49797000"
+    },
+    {
+      "id": 123888,
+      "name": "Parowan",
+      "latitude": "37.84220000",
+      "longitude": "-112.82800000"
+    },
+    {
+      "id": 123950,
+      "name": "Payson",
+      "latitude": "40.04440000",
+      "longitude": "-111.73215000"
+    },
+    {
+      "id": 124073,
+      "name": "Perry",
+      "latitude": "41.46494000",
+      "longitude": "-112.03245000"
+    },
+    {
+      "id": 124307,
+      "name": "Piute County",
+      "latitude": "38.33645000",
+      "longitude": "-112.12695000"
+    },
+    {
+      "id": 124315,
+      "name": "Plain City",
+      "latitude": "41.29800000",
+      "longitude": "-112.08605000"
+    },
+    {
+      "id": 124367,
+      "name": "Pleasant Grove",
+      "latitude": "40.36412000",
+      "longitude": "-111.73854000"
+    },
+    {
+      "id": 124381,
+      "name": "Pleasant View",
+      "latitude": "41.31828000",
+      "longitude": "-111.99216000"
+    },
+    {
+      "id": 124663,
+      "name": "Price",
+      "latitude": "39.59941000",
+      "longitude": "-110.81071000"
+    },
+    {
+      "id": 124717,
+      "name": "Providence",
+      "latitude": "41.70632000",
+      "longitude": "-111.81717000"
+    },
+    {
+      "id": 124721,
+      "name": "Provo",
+      "latitude": "40.23384000",
+      "longitude": "-111.65853000"
+    },
+    {
+      "id": 124870,
+      "name": "Randolph",
+      "latitude": "41.66578000",
+      "longitude": "-111.18214000"
+    },
+    {
+      "id": 125056,
+      "name": "Rich County",
+      "latitude": "41.63232000",
+      "longitude": "-111.24445000"
+    },
+    {
+      "id": 125063,
+      "name": "Richfield",
+      "latitude": "38.77247000",
+      "longitude": "-112.08409000"
+    },
+    {
+      "id": 125097,
+      "name": "Richmond",
+      "latitude": "41.92271000",
+      "longitude": "-111.81356000"
+    },
+    {
+      "id": 125181,
+      "name": "River Heights",
+      "latitude": "41.72160000",
+      "longitude": "-111.82133000"
+    },
+    {
+      "id": 125197,
+      "name": "Riverdale",
+      "latitude": "41.17689000",
+      "longitude": "-112.00383000"
+    },
+    {
+      "id": 125215,
+      "name": "Riverton",
+      "latitude": "40.52189000",
+      "longitude": "-111.93910000"
+    },
+    {
+      "id": 125392,
+      "name": "Roosevelt",
+      "latitude": "40.29940000",
+      "longitude": "-109.98876000"
+    },
+    {
+      "id": 125487,
+      "name": "Roy",
+      "latitude": "41.16161000",
+      "longitude": "-112.02633000"
+    },
+    {
+      "id": 125644,
+      "name": "Saint George",
+      "latitude": "37.10415000",
+      "longitude": "-113.58412000"
+    },
+    {
+      "id": 125739,
+      "name": "Salem",
+      "latitude": "40.05301000",
+      "longitude": "-111.67354000"
+    },
+    {
+      "id": 125746,
+      "name": "Salina",
+      "latitude": "38.95774000",
+      "longitude": "-111.85993000"
+    },
+    {
+      "id": 125767,
+      "name": "Salt Lake City",
+      "latitude": "40.76078000",
+      "longitude": "-111.89105000"
+    },
+    {
+      "id": 125768,
+      "name": "Salt Lake County",
+      "latitude": "40.66758000",
+      "longitude": "-111.92403000"
+    },
+    {
+      "id": 125822,
+      "name": "San Juan County",
+      "latitude": "37.62601000",
+      "longitude": "-109.80457000"
+    },
+    {
+      "id": 125881,
+      "name": "Sandy",
+      "latitude": "40.59161000",
+      "longitude": "-111.88410000"
+    },
+    {
+      "id": 125882,
+      "name": "Sandy Hills",
+      "latitude": "40.58106000",
+      "longitude": "-111.85077000"
+    },
+    {
+      "id": 125896,
+      "name": "Sanpete County",
+      "latitude": "39.37396000",
+      "longitude": "-111.57634000"
+    },
+    {
+      "id": 125905,
+      "name": "Santa Clara",
+      "latitude": "37.13304000",
+      "longitude": "-113.65413000"
+    },
+    {
+      "id": 125929,
+      "name": "Santaquin",
+      "latitude": "39.97551000",
+      "longitude": "-111.78521000"
+    },
+    {
+      "id": 125945,
+      "name": "Saratoga Springs",
+      "latitude": "40.34912000",
+      "longitude": "-111.90466000"
+    },
+    {
+      "id": 126182,
+      "name": "Sevier County",
+      "latitude": "38.74764000",
+      "longitude": "-111.80464000"
+    },
+    {
+      "id": 126438,
+      "name": "Silver Summit",
+      "latitude": "40.74144000",
+      "longitude": "-111.48775000"
+    },
+    {
+      "id": 126521,
+      "name": "Smithfield",
+      "latitude": "41.83826000",
+      "longitude": "-111.83272000"
+    },
+    {
+      "id": 126552,
+      "name": "Snyderville",
+      "latitude": "40.69439000",
+      "longitude": "-111.54381000"
+    },
+    {
+      "id": 126680,
+      "name": "South Jordan",
+      "latitude": "40.56217000",
+      "longitude": "-111.92966000"
+    },
+    {
+      "id": 126681,
+      "name": "South Jordan Heights",
+      "latitude": "40.56384000",
+      "longitude": "-111.94938000"
+    },
+    {
+      "id": 126696,
+      "name": "South Ogden",
+      "latitude": "41.19189000",
+      "longitude": "-111.97133000"
+    },
+    {
+      "id": 126722,
+      "name": "South Salt Lake",
+      "latitude": "40.71884000",
+      "longitude": "-111.88827000"
+    },
+    {
+      "id": 126745,
+      "name": "South Weber",
+      "latitude": "41.13244000",
+      "longitude": "-111.93022000"
+    },
+    {
+      "id": 126749,
+      "name": "South Willard",
+      "latitude": "41.36327000",
+      "longitude": "-112.03578000"
+    },
+    {
+      "id": 126798,
+      "name": "Spanish Fork",
+      "latitude": "40.11496000",
+      "longitude": "-111.65492000"
+    },
+    {
+      "id": 126853,
+      "name": "Spring City",
+      "latitude": "39.48246000",
+      "longitude": "-111.49602000"
+    },
+    {
+      "id": 126855,
+      "name": "Spring Glen",
+      "latitude": "39.65941000",
+      "longitude": "-110.85349000"
+    },
+    {
+      "id": 126918,
+      "name": "Springville",
+      "latitude": "40.16523000",
+      "longitude": "-111.61075000"
+    },
+    {
+      "id": 126965,
+      "name": "Stansbury park",
+      "latitude": "40.63772000",
+      "longitude": "-112.29606000"
+    },
+    {
+      "id": 127217,
+      "name": "Summit County",
+      "latitude": "40.86815000",
+      "longitude": "-110.95567000"
+    },
+    {
+      "id": 127219,
+      "name": "Summit Park",
+      "latitude": "40.74578000",
+      "longitude": "-111.61159000"
+    },
+    {
+      "id": 127273,
+      "name": "Sunset",
+      "latitude": "41.13633000",
+      "longitude": "-112.03105000"
+    },
+    {
+      "id": 127367,
+      "name": "Syracuse",
+      "latitude": "41.08939000",
+      "longitude": "-112.06467000"
+    },
+    {
+      "id": 127466,
+      "name": "Taylorsville",
+      "latitude": "40.66772000",
+      "longitude": "-111.93883000"
+    },
+    {
+      "id": 127725,
+      "name": "Tooele",
+      "latitude": "40.53078000",
+      "longitude": "-112.29828000"
+    },
+    {
+      "id": 127726,
+      "name": "Tooele County",
+      "latitude": "40.44875000",
+      "longitude": "-113.13106000"
+    },
+    {
+      "id": 127738,
+      "name": "Toquerville",
+      "latitude": "37.25332000",
+      "longitude": "-113.28467000"
+    },
+    {
+      "id": 127797,
+      "name": "Tremonton",
+      "latitude": "41.71187000",
+      "longitude": "-112.16551000"
+    },
+    {
+      "id": 127956,
+      "name": "Uintah",
+      "latitude": "41.14411000",
+      "longitude": "-111.92327000"
+    },
+    {
+      "id": 127957,
+      "name": "Uintah County",
+      "latitude": "40.12495000",
+      "longitude": "-109.51839000"
+    },
+    {
+      "id": 128064,
+      "name": "Utah County",
+      "latitude": "40.11995000",
+      "longitude": "-111.67031000"
+    },
+    {
+      "id": 128187,
+      "name": "Vernal",
+      "latitude": "40.45552000",
+      "longitude": "-109.52875000"
+    },
+    {
+      "id": 128272,
+      "name": "Vineyard",
+      "latitude": "40.29704000",
+      "longitude": "-111.74670000"
+    },
+    {
+      "id": 128526,
+      "name": "Wasatch County",
+      "latitude": "40.33035000",
+      "longitude": "-111.16847000"
+    },
+    {
+      "id": 128551,
+      "name": "Washington",
+      "latitude": "37.13054000",
+      "longitude": "-113.50829000"
+    },
+    {
+      "id": 128578,
+      "name": "Washington County",
+      "latitude": "37.28036000",
+      "longitude": "-113.50494000"
+    },
+    {
+      "id": 128586,
+      "name": "Washington Terrace",
+      "latitude": "41.17272000",
+      "longitude": "-111.97661000"
+    },
+    {
+      "id": 128703,
+      "name": "Wayne County",
+      "latitude": "38.32436000",
+      "longitude": "-110.90367000"
+    },
+    {
+      "id": 128729,
+      "name": "Weber County",
+      "latitude": "41.26988000",
+      "longitude": "-111.91327000"
+    },
+    {
+      "id": 128779,
+      "name": "Wellington",
+      "latitude": "39.54247000",
+      "longitude": "-110.73543000"
+    },
+    {
+      "id": 128794,
+      "name": "Wellsville",
+      "latitude": "41.63854000",
+      "longitude": "-111.93383000"
+    },
+    {
+      "id": 128801,
+      "name": "Wendover",
+      "latitude": "40.73715000",
+      "longitude": "-114.03751000"
+    },
+    {
+      "id": 128829,
+      "name": "West Bountiful",
+      "latitude": "40.89383000",
+      "longitude": "-111.90188000"
+    },
+    {
+      "id": 128888,
+      "name": "West Haven",
+      "latitude": "41.20300000",
+      "longitude": "-112.05105000"
+    },
+    {
+      "id": 128905,
+      "name": "West Jordan",
+      "latitude": "40.60967000",
+      "longitude": "-111.93910000"
+    },
+    {
+      "id": 128937,
+      "name": "West Mountain",
+      "latitude": "40.06079000",
+      "longitude": "-111.78827000"
+    },
+    {
+      "id": 128963,
+      "name": "West Point",
+      "latitude": "41.11828000",
+      "longitude": "-112.08411000"
+    },
+    {
+      "id": 128997,
+      "name": "West Valley City",
+      "latitude": "40.69161000",
+      "longitude": "-112.00105000"
+    },
+    {
+      "id": 129132,
+      "name": "White City",
+      "latitude": "40.56578000",
+      "longitude": "-111.86438000"
+    },
+    {
+      "id": 129258,
+      "name": "Willard",
+      "latitude": "41.40911000",
+      "longitude": "-112.03606000"
+    },
+    {
+      "id": 129471,
+      "name": "Wolf Creek",
+      "latitude": "41.33327000",
+      "longitude": "-111.82716000"
+    },
+    {
+      "id": 129531,
+      "name": "Woodland Hills",
+      "latitude": "40.01532000",
+      "longitude": "-111.64868000"
+    },
+    {
+      "id": 129551,
+      "name": "Woods Cross",
+      "latitude": "40.87161000",
+      "longitude": "-111.89216000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

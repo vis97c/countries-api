@@ -1,0 +1,165 @@
+{
+  "id": 1804,
+  "name": "Kalimantan Timur",
+  "state_code": "KI",
+  "latitude": "0.53865860",
+  "longitude": "116.41938900",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56190,
+      "name": "Balikpapan",
+      "latitude": "-1.26753000",
+      "longitude": "116.82887000"
+    },
+    {
+      "id": 56229,
+      "name": "Bontang",
+      "latitude": "0.13240000",
+      "longitude": "117.48540000"
+    },
+    {
+      "id": 56254,
+      "name": "City of Balikpapan",
+      "latitude": "-1.24204000",
+      "longitude": "116.89419000"
+    },
+    {
+      "id": 56358,
+      "name": "Kabupaten Berau",
+      "latitude": "2.00000000",
+      "longitude": "117.30000000"
+    },
+    {
+      "id": 56476,
+      "name": "Kabupaten Kutai Barat",
+      "latitude": "-0.59417000",
+      "longitude": "115.51575000"
+    },
+    {
+      "id": 56477,
+      "name": "Kabupaten Kutai Kartanegara",
+      "latitude": "-0.44019000",
+      "longitude": "116.98139000"
+    },
+    {
+      "id": 56478,
+      "name": "Kabupaten Kutai Timur",
+      "latitude": "1.03769000",
+      "longitude": "117.83112000"
+    },
+    {
+      "id": 56507,
+      "name": "Kabupaten Mahakam Hulu",
+      "latitude": "0.37822000",
+      "longitude": "115.38048000"
+    },
+    {
+      "id": 56581,
+      "name": "Kabupaten Paser",
+      "latitude": "-1.43517000",
+      "longitude": "116.23535000"
+    },
+    {
+      "id": 56588,
+      "name": "Kabupaten Penajam Paser Utara",
+      "latitude": "-1.25000000",
+      "longitude": "116.83333000"
+    },
+    {
+      "id": 56728,
+      "name": "Kota Balikpapan",
+      "latitude": "-1.16667000",
+      "longitude": "116.88333000"
+    },
+    {
+      "id": 56745,
+      "name": "Kota Bontang",
+      "latitude": "0.12526000",
+      "longitude": "117.49603000"
+    },
+    {
+      "id": 56793,
+      "name": "Kota Samarinda",
+      "latitude": "-0.43333000",
+      "longitude": "117.18333000"
+    },
+    {
+      "id": 56845,
+      "name": "Loa Janan",
+      "latitude": "-0.58295000",
+      "longitude": "117.09503000"
+    },
+    {
+      "id": 56959,
+      "name": "Samarinda",
+      "latitude": "-0.49167000",
+      "longitude": "117.14583000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

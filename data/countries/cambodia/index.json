@@ -1,0 +1,921 @@
+{
+  "id": 37,
+  "name": "Cambodia",
+  "iso3": "KHM",
+  "iso2": "KH",
+  "numeric_code": "116",
+  "phone_code": "855",
+  "capital": "Phnom Penh",
+  "currency": "KHR",
+  "currency_name": "Cambodian riel",
+  "currency_symbol": "KHR",
+  "tld": ".kh",
+  "native": "Kâmpŭchéa",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Phnom_Penh",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "ICT",
+      "tzName": "Indochina Time"
+    }
+  ],
+  "translations": {
+    "kr": "캄보디아",
+    "pt-BR": "Camboja",
+    "pt": "Camboja",
+    "nl": "Cambodja",
+    "hr": "Kambodža",
+    "fa": "کامبوج",
+    "de": "Kambodscha",
+    "es": "Camboya",
+    "fr": "Cambodge",
+    "ja": "カンボジア",
+    "it": "Cambogia",
+    "cn": "柬埔寨",
+    "tr": "Kamboçya"
+  },
+  "latitude": "13.00000000",
+  "longitude": "105.00000000",
+  "emoji": "🇰🇭",
+  "emojiU": "U+1F1F0 U+1F1ED",
+  "states": [
+    {
+      "id": 3984,
+      "name": "Banteay Meanchey",
+      "state_code": "1",
+      "latitude": "13.75319140",
+      "longitude": "102.98961500",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64967,
+          "name": "Mongkol Borei",
+          "latitude": "13.45531000",
+          "longitude": "102.99186000"
+        },
+        {
+          "id": 64969,
+          "name": "Paoy Paet",
+          "latitude": "13.65805000",
+          "longitude": "102.56365000"
+        },
+        {
+          "id": 64981,
+          "name": "Sisophon",
+          "latitude": "13.58588000",
+          "longitude": "102.97369000"
+        },
+        {
+          "id": 65009,
+          "name": "Srŏk Malai",
+          "latitude": "13.49902000",
+          "longitude": "102.60164000"
+        },
+        {
+          "id": 65022,
+          "name": "Srŏk Svay Chék",
+          "latitude": "13.81305000",
+          "longitude": "102.95269000"
+        }
+      ]
+    },
+    {
+      "id": 3976,
+      "name": "Battambang",
+      "state_code": "2",
+      "latitude": "13.02869710",
+      "longitude": "102.98961500",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64940,
+          "name": "Battambang",
+          "latitude": "13.10271000",
+          "longitude": "103.19822000"
+        },
+        {
+          "id": 65028,
+          "name": "Srŏk Âk Phnŭm",
+          "latitude": "13.23621000",
+          "longitude": "103.45894000"
+        },
+        {
+          "id": 64988,
+          "name": "Srŏk Banăn",
+          "latitude": "12.97067000",
+          "longitude": "103.04742000"
+        },
+        {
+          "id": 64995,
+          "name": "Srŏk Bâvĭl",
+          "latitude": "13.23601000",
+          "longitude": "102.82910000"
+        },
+        {
+          "id": 65017,
+          "name": "Srŏk Rotanak Mondol",
+          "latitude": "12.84048000",
+          "longitude": "102.88700000"
+        }
+      ]
+    },
+    {
+      "id": 3991,
+      "name": "Kampong Cham",
+      "state_code": "3",
+      "latitude": "12.09829180",
+      "longitude": "105.31311850",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64941,
+          "name": "Cheung Prey",
+          "latitude": "12.10000000",
+          "longitude": "105.07000000"
+        },
+        {
+          "id": 64944,
+          "name": "Kampong Cham",
+          "latitude": "11.98000000",
+          "longitude": "105.44500000"
+        },
+        {
+          "id": 64990,
+          "name": "Srŏk Bathéay",
+          "latitude": "12.02986000",
+          "longitude": "104.93171000"
+        }
+      ]
+    },
+    {
+      "id": 3979,
+      "name": "Kampong Chhnang",
+      "state_code": "4",
+      "latitude": "12.13923520",
+      "longitude": "104.56552730",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64939,
+          "name": "Baribour",
+          "latitude": "12.43000000",
+          "longitude": "104.47000000"
+        },
+        {
+          "id": 64945,
+          "name": "Kampong Chhnang",
+          "latitude": "12.26000000",
+          "longitude": "104.67000000"
+        },
+        {
+          "id": 64974,
+          "name": "Rolea B'ier",
+          "latitude": "12.21000000",
+          "longitude": "104.61000000"
+        },
+        {
+          "id": 64997,
+          "name": "Srŏk Chol Kiri",
+          "latitude": "12.15861000",
+          "longitude": "104.82287000"
+        },
+        {
+          "id": 65019,
+          "name": "Srŏk Sameakki Mean Chey",
+          "latitude": "11.86788000",
+          "longitude": "104.55549000"
+        }
+      ]
+    },
+    {
+      "id": 3988,
+      "name": "Kampong Speu",
+      "state_code": "5",
+      "latitude": "11.61551090",
+      "longitude": "104.37919120",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64946,
+          "name": "Kampong Speu",
+          "latitude": "11.45332000",
+          "longitude": "104.52085000"
+        },
+        {
+          "id": 64962,
+          "name": "Krŏng Chbar Mon",
+          "latitude": "11.47091000",
+          "longitude": "104.50655000"
+        },
+        {
+          "id": 64989,
+          "name": "Srŏk Basedth",
+          "latitude": "11.18432000",
+          "longitude": "104.53584000"
+        },
+        {
+          "id": 65008,
+          "name": "Srŏk Kông Pĭsei",
+          "latitude": "11.31648000",
+          "longitude": "104.65992000"
+        },
+        {
+          "id": 65032,
+          "name": "Srŏk Ŏdŏngk",
+          "latitude": "11.66845000",
+          "longitude": "104.61224000"
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "name": "Kampong Thom",
+      "state_code": "6",
+      "latitude": "12.81674850",
+      "longitude": "103.84131040",
+      "type": "province",
+      "cities": []
+    },
+    {
+      "id": 3981,
+      "name": "Kampot",
+      "state_code": "7",
+      "latitude": "10.73253510",
+      "longitude": "104.37919120",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64935,
+          "name": "Angkor Chey",
+          "latitude": "10.76667000",
+          "longitude": "104.65000000"
+        },
+        {
+          "id": 64938,
+          "name": "Banteay Meas",
+          "latitude": "10.61667000",
+          "longitude": "104.53333000"
+        },
+        {
+          "id": 64942,
+          "name": "Chhouk District",
+          "latitude": "10.81667000",
+          "longitude": "104.45000000"
+        },
+        {
+          "id": 64943,
+          "name": "Kampong Bay",
+          "latitude": "10.59554000",
+          "longitude": "104.17136000"
+        },
+        {
+          "id": 64947,
+          "name": "Kampong Tranch",
+          "latitude": "10.55000000",
+          "longitude": "104.46667000"
+        },
+        {
+          "id": 64948,
+          "name": "Kampot",
+          "latitude": "10.61041000",
+          "longitude": "104.18145000"
+        },
+        {
+          "id": 64998,
+          "name": "Srŏk Chŭm Kiri",
+          "latitude": "11.00540000",
+          "longitude": "104.44207000"
+        },
+        {
+          "id": 65001,
+          "name": "Srŏk Dângtóng",
+          "latitude": "10.70733000",
+          "longitude": "104.42229000"
+        },
+        {
+          "id": 64986,
+          "name": "Srok Tuek Chhou",
+          "latitude": "10.74557000",
+          "longitude": "104.11013000"
+        }
+      ]
+    },
+    {
+      "id": 3983,
+      "name": "Kandal",
+      "state_code": "8",
+      "latitude": "11.22373830",
+      "longitude": "105.12589550",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64965,
+          "name": "Krŏng Ta Khmau",
+          "latitude": "11.45474000",
+          "longitude": "104.94350000"
+        },
+        {
+          "id": 65003,
+          "name": "Srŏk Khsăch Kândal",
+          "latitude": "11.69224000",
+          "longitude": "105.03732000"
+        },
+        {
+          "id": 65037,
+          "name": "Ta Khmau",
+          "latitude": "11.48333000",
+          "longitude": "104.95000000"
+        }
+      ]
+    },
+    {
+      "id": 3978,
+      "name": "Kep",
+      "state_code": "23",
+      "latitude": "10.53608900",
+      "longitude": "104.35591580",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64961,
+          "name": "Krong Kep",
+          "latitude": "10.48291000",
+          "longitude": "104.31672000"
+        },
+        {
+          "id": 65000,
+          "name": "Srŏk Dâmnăk Châng’aeur",
+          "latitude": "10.53394000",
+          "longitude": "104.34855000"
+        }
+      ]
+    },
+    {
+      "id": 3982,
+      "name": "Koh Kong",
+      "state_code": "9",
+      "latitude": "11.57628040",
+      "longitude": "103.35872880",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64957,
+          "name": "Koh Kong",
+          "latitude": "11.61531000",
+          "longitude": "102.98380000"
+        },
+        {
+          "id": 64982,
+          "name": "Smach Mean Chey",
+          "latitude": "11.54665000",
+          "longitude": "103.03569000"
+        },
+        {
+          "id": 64984,
+          "name": "Srae Ambel",
+          "latitude": "11.10968000",
+          "longitude": "103.76226000"
+        },
+        {
+          "id": 64991,
+          "name": "Srŏk Batum Sakôr",
+          "latitude": "11.11465000",
+          "longitude": "103.38993000"
+        },
+        {
+          "id": 65011,
+          "name": "Srŏk Môndôl Seima",
+          "latitude": "11.81292000",
+          "longitude": "103.01159000"
+        }
+      ]
+    },
+    {
+      "id": 3986,
+      "name": "Kratie",
+      "state_code": "10",
+      "latitude": "12.50436080",
+      "longitude": "105.96998780",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64958,
+          "name": "Kracheh",
+          "latitude": "12.57000000",
+          "longitude": "106.20000000"
+        },
+        {
+          "id": 64960,
+          "name": "Kratié",
+          "latitude": "12.48811000",
+          "longitude": "106.01879000"
+        },
+        {
+          "id": 64983,
+          "name": "Snuol",
+          "latitude": "12.19373000",
+          "longitude": "106.47361000"
+        }
+      ]
+    },
+    {
+      "id": 3985,
+      "name": "Mondulkiri",
+      "state_code": "11",
+      "latitude": "12.78794270",
+      "longitude": "107.10119310",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64964,
+          "name": "Krŏng Sênmônoŭrôm",
+          "latitude": "12.50480000",
+          "longitude": "107.15525000"
+        },
+        {
+          "id": 64978,
+          "name": "Sen Monorom",
+          "latitude": "12.45583000",
+          "longitude": "107.18811000"
+        },
+        {
+          "id": 65002,
+          "name": "Srŏk Kaev Seima",
+          "latitude": "12.41722000",
+          "longitude": "106.77025000"
+        },
+        {
+          "id": 65014,
+          "name": "Srŏk Pech Chreada",
+          "latitude": "12.72780000",
+          "longitude": "107.09480000"
+        }
+      ]
+    },
+    {
+      "id": 3987,
+      "name": "Oddar Meanchey",
+      "state_code": "22",
+      "latitude": "14.16097380",
+      "longitude": "103.82162610",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64976,
+          "name": "Samraong",
+          "latitude": "14.18175000",
+          "longitude": "103.51761000"
+        },
+        {
+          "id": 64994,
+          "name": "Srŏk Bântéay Âmpĭl",
+          "latitude": "14.18590000",
+          "longitude": "103.25925000"
+        },
+        {
+          "id": 65023,
+          "name": "Srŏk Sâmraông",
+          "latitude": "14.25039000",
+          "longitude": "103.62739000"
+        },
+        {
+          "id": 65026,
+          "name": "Srŏk Trâpeăng Prasat",
+          "latitude": "14.25809000",
+          "longitude": "104.30835000"
+        }
+      ]
+    },
+    {
+      "id": 3980,
+      "name": "Pailin",
+      "state_code": "24",
+      "latitude": "12.90929620",
+      "longitude": "102.66755750",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64956,
+          "name": "Khan Sala Krau",
+          "latitude": "12.97984000",
+          "longitude": "102.63957000"
+        },
+        {
+          "id": 64968,
+          "name": "Pailin",
+          "latitude": "12.84895000",
+          "longitude": "102.60928000"
+        }
+      ]
+    },
+    {
+      "id": 3994,
+      "name": "Phnom Penh",
+      "state_code": "12",
+      "latitude": "11.55637380",
+      "longitude": "104.92820990",
+      "type": "autonomous municipality",
+      "cities": [
+        {
+          "id": 64949,
+          "name": "Khan 7 Makara",
+          "latitude": "11.56254000",
+          "longitude": "104.91405000"
+        },
+        {
+          "id": 64950,
+          "name": "Khan Châmkar Mon",
+          "latitude": "11.54390000",
+          "longitude": "104.92175000"
+        },
+        {
+          "id": 64952,
+          "name": "Khan Dângkaô",
+          "latitude": "11.52457000",
+          "longitude": "104.83944000"
+        },
+        {
+          "id": 64951,
+          "name": "Khan Duŏn Pénh",
+          "latitude": "11.57561000",
+          "longitude": "104.92025000"
+        },
+        {
+          "id": 64953,
+          "name": "Khan Méan Chey",
+          "latitude": "11.51976000",
+          "longitude": "104.95467000"
+        },
+        {
+          "id": 64954,
+          "name": "Khan Russey Keo",
+          "latitude": "11.61946000",
+          "longitude": "104.90990000"
+        },
+        {
+          "id": 64955,
+          "name": "Khan Saen Sokh",
+          "latitude": "11.61289000",
+          "longitude": "104.86078000"
+        },
+        {
+          "id": 64970,
+          "name": "Phnom Penh",
+          "latitude": "11.56245000",
+          "longitude": "104.91601000"
+        }
+      ]
+    },
+    {
+      "id": 3973,
+      "name": "Preah Vihear",
+      "state_code": "13",
+      "latitude": "14.00857970",
+      "longitude": "104.84546190",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64977,
+          "name": "Sangkom Thmei",
+          "latitude": "13.47395000",
+          "longitude": "104.77051000"
+        },
+        {
+          "id": 64999,
+          "name": "Srŏk Ch’êh Sên",
+          "latitude": "13.58215000",
+          "longitude": "105.34533000"
+        },
+        {
+          "id": 64996,
+          "name": "Srŏk Chhêb",
+          "latitude": "13.91077000",
+          "longitude": "105.46180000"
+        },
+        {
+          "id": 65005,
+          "name": "Srŏk Kulén",
+          "latitude": "13.78597000",
+          "longitude": "104.61052000"
+        },
+        {
+          "id": 65018,
+          "name": "Srŏk Rôviĕng",
+          "latitude": "13.35105000",
+          "longitude": "105.09956000"
+        },
+        {
+          "id": 65025,
+          "name": "Srŏk Tbêng Méanchey",
+          "latitude": "13.78622000",
+          "longitude": "105.01586000"
+        },
+        {
+          "id": 65039,
+          "name": "Tbeng Meanchey",
+          "latitude": "13.80731000",
+          "longitude": "104.98046000"
+        }
+      ]
+    },
+    {
+      "id": 3974,
+      "name": "Prey Veng",
+      "state_code": "14",
+      "latitude": "11.38024420",
+      "longitude": "105.50054830",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64972,
+          "name": "Prey Veng",
+          "latitude": "11.48682000",
+          "longitude": "105.32533000"
+        },
+        {
+          "id": 65006,
+          "name": "Srŏk Kâmpóng Léav",
+          "latitude": "11.50970000",
+          "longitude": "105.30110000"
+        },
+        {
+          "id": 65010,
+          "name": "Srŏk Mésang",
+          "latitude": "11.35528000",
+          "longitude": "105.57235000"
+        },
+        {
+          "id": 65016,
+          "name": "Srŏk Preăh Sdéch",
+          "latitude": "11.08690000",
+          "longitude": "105.37497000"
+        }
+      ]
+    },
+    {
+      "id": 3977,
+      "name": "Pursat",
+      "state_code": "15",
+      "latitude": "12.27209560",
+      "longitude": "103.72891670",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64936,
+          "name": "Bakan",
+          "latitude": "12.78000000",
+          "longitude": "103.79000000"
+        },
+        {
+          "id": 64959,
+          "name": "Krakor",
+          "latitude": "12.48000000",
+          "longitude": "104.19000000"
+        },
+        {
+          "id": 64973,
+          "name": "Pursat",
+          "latitude": "12.53878000",
+          "longitude": "103.91920000"
+        },
+        {
+          "id": 64975,
+          "name": "Sampov Meas",
+          "latitude": "12.47055000",
+          "longitude": "103.91817000"
+        },
+        {
+          "id": 65007,
+          "name": "Srŏk Kândiĕng",
+          "latitude": "12.71245000",
+          "longitude": "104.02592000"
+        },
+        {
+          "id": 65027,
+          "name": "Srŏk Véal Vêng",
+          "latitude": "12.24230000",
+          "longitude": "103.13444000"
+        }
+      ]
+    },
+    {
+      "id": 3990,
+      "name": "Ratanakiri",
+      "state_code": "16",
+      "latitude": "13.85766070",
+      "longitude": "107.10119310",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64937,
+          "name": "Banlung",
+          "latitude": "13.73939000",
+          "longitude": "106.98727000"
+        },
+        {
+          "id": 64966,
+          "name": "Lumphat",
+          "latitude": "13.49146000",
+          "longitude": "106.98022000"
+        },
+        {
+          "id": 65029,
+          "name": "Srŏk Ândong Méas",
+          "latitude": "13.93352000",
+          "longitude": "107.31155000"
+        },
+        {
+          "id": 64993,
+          "name": "Srŏk Bâ Kêv",
+          "latitude": "13.70749000",
+          "longitude": "107.19442000"
+        },
+        {
+          "id": 64987,
+          "name": "Srŏk Ban Lŭng",
+          "latitude": "13.68200000",
+          "longitude": "107.03025000"
+        },
+        {
+          "id": 65004,
+          "name": "Srŏk Koun Mom",
+          "latitude": "13.51772000",
+          "longitude": "106.75142000"
+        },
+        {
+          "id": 65012,
+          "name": "Srŏk Ou Chum",
+          "latitude": "13.84069000",
+          "longitude": "107.03469000"
+        },
+        {
+          "id": 65013,
+          "name": "Srŏk Ou Ya Dav",
+          "latitude": "13.54328000",
+          "longitude": "107.44636000"
+        },
+        {
+          "id": 65024,
+          "name": "Srŏk Ta Vêng",
+          "latitude": "14.29192000",
+          "longitude": "107.24031000"
+        }
+      ]
+    },
+    {
+      "id": 3992,
+      "name": "Siem Reap",
+      "state_code": "17",
+      "latitude": "13.33026600",
+      "longitude": "104.10013260",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64979,
+          "name": "Siem Reap",
+          "latitude": "13.36179000",
+          "longitude": "103.86056000"
+        },
+        {
+          "id": 65031,
+          "name": "Srŏk Ângkôr Thum",
+          "latitude": "13.57881000",
+          "longitude": "103.85645000"
+        },
+        {
+          "id": 65015,
+          "name": "Srŏk Prasat Bakong",
+          "latitude": "13.21031000",
+          "longitude": "103.97689000"
+        },
+        {
+          "id": 65035,
+          "name": "Svay Leu",
+          "latitude": "13.69168000",
+          "longitude": "104.27446000"
+        },
+        {
+          "id": 65040,
+          "name": "Varin",
+          "latitude": "13.83574000",
+          "longitude": "103.89968000"
+        }
+      ]
+    },
+    {
+      "id": 3989,
+      "name": "Sihanoukville",
+      "state_code": "18",
+      "latitude": "10.75818990",
+      "longitude": "103.82162610",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64980,
+          "name": "Sihanoukville",
+          "latitude": "10.60932000",
+          "longitude": "103.52958000"
+        },
+        {
+          "id": 64985,
+          "name": "Srok Stueng Hav",
+          "latitude": "10.85249000",
+          "longitude": "103.74016000"
+        }
+      ]
+    },
+    {
+      "id": 3993,
+      "name": "Stung Treng",
+      "state_code": "19",
+      "latitude": "13.57647300",
+      "longitude": "105.96998780",
+      "type": "province",
+      "cities": [
+        {
+          "id": 65020,
+          "name": "Srŏk Srêsén",
+          "latitude": "13.60530000",
+          "longitude": "106.35819000"
+        },
+        {
+          "id": 65033,
+          "name": "Stueng Traeng",
+          "latitude": "13.65000000",
+          "longitude": "106.07000000"
+        },
+        {
+          "id": 65034,
+          "name": "Stung Treng",
+          "latitude": "13.52586000",
+          "longitude": "105.96830000"
+        }
+      ]
+    },
+    {
+      "id": 3972,
+      "name": "Svay Rieng",
+      "state_code": "20",
+      "latitude": "11.14272200",
+      "longitude": "105.82902980",
+      "type": "province",
+      "cities": [
+        {
+          "id": 65021,
+          "name": "Srŏk Svay Chrŭm",
+          "latitude": "11.11160000",
+          "longitude": "105.69814000"
+        },
+        {
+          "id": 65036,
+          "name": "Svay Rieng",
+          "latitude": "11.08785000",
+          "longitude": "105.79935000"
+        }
+      ]
+    },
+    {
+      "id": 3975,
+      "name": "Takeo",
+      "state_code": "21",
+      "latitude": "10.93215190",
+      "longitude": "104.79877100",
+      "type": "province",
+      "cities": [
+        {
+          "id": 64963,
+          "name": "Krŏng Doun Kaev",
+          "latitude": "10.99459000",
+          "longitude": "104.79550000"
+        },
+        {
+          "id": 64971,
+          "name": "Phumĭ Véal Srê",
+          "latitude": "10.98081000",
+          "longitude": "104.77828000"
+        },
+        {
+          "id": 65030,
+          "name": "Srŏk Ângkôr Borei",
+          "latitude": "10.99291000",
+          "longitude": "104.95177000"
+        },
+        {
+          "id": 64992,
+          "name": "Srŏk Borei Cholsar",
+          "latitude": "10.81414000",
+          "longitude": "104.98994000"
+        },
+        {
+          "id": 65038,
+          "name": "Takeo",
+          "latitude": "10.99081000",
+          "longitude": "104.78498000"
+        }
+      ]
+    }
+  ]
+}

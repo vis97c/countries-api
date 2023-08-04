@@ -1,0 +1,204 @@
+{
+  "id": 3550,
+  "name": "Kalasin",
+  "state_code": "46",
+  "latitude": "16.43850800",
+  "longitude": "103.50609940",
+  "type": null,
+  "cities": [
+    {
+      "id": 105329,
+      "name": "Amphoe Don Chan",
+      "latitude": "16.46667000",
+      "longitude": "103.71667000"
+    },
+    {
+      "id": 105354,
+      "name": "Amphoe Huai Mek",
+      "latitude": "16.58868000",
+      "longitude": "103.24098000"
+    },
+    {
+      "id": 105355,
+      "name": "Amphoe Huai Phueng",
+      "latitude": "16.66972000",
+      "longitude": "103.87997000"
+    },
+    {
+      "id": 105368,
+      "name": "Amphoe Kamalasai",
+      "latitude": "16.27999000",
+      "longitude": "103.60010000"
+    },
+    {
+      "id": 105384,
+      "name": "Amphoe Kham Muang",
+      "latitude": "16.93884000",
+      "longitude": "103.63980000"
+    },
+    {
+      "id": 105399,
+      "name": "Amphoe Khao Wong",
+      "latitude": "16.67959000",
+      "longitude": "104.10030000"
+    },
+    {
+      "id": 105423,
+      "name": "Amphoe Khong Chai",
+      "latitude": "16.25845000",
+      "longitude": "103.48167000"
+    },
+    {
+      "id": 105459,
+      "name": "Amphoe Kuchinarai",
+      "latitude": "16.51977000",
+      "longitude": "104.05097000"
+    },
+    {
+      "id": 105542,
+      "name": "Amphoe Mueang Kalasin",
+      "latitude": "16.50918000",
+      "longitude": "103.54984000"
+    },
+    {
+      "id": 105615,
+      "name": "Amphoe Na Khu",
+      "latitude": "16.75018000",
+      "longitude": "104.00062000"
+    },
+    {
+      "id": 105618,
+      "name": "Amphoe Na Mon",
+      "latitude": "16.56994000",
+      "longitude": "103.78015000"
+    },
+    {
+      "id": 105670,
+      "name": "Amphoe Nong Kung Si",
+      "latitude": "16.71932000",
+      "longitude": "103.31922000"
+    },
+    {
+      "id": 105813,
+      "name": "Amphoe Rong Kham",
+      "latitude": "16.27925000",
+      "longitude": "103.71238000"
+    },
+    {
+      "id": 105820,
+      "name": "Amphoe Sahatsakhan",
+      "latitude": "16.70987000",
+      "longitude": "103.57909000"
+    },
+    {
+      "id": 105828,
+      "name": "Amphoe Sam Chai",
+      "latitude": "16.86909000",
+      "longitude": "103.52243000"
+    },
+    {
+      "id": 106243,
+      "name": "Amphoe Somdet",
+      "latitude": "16.76973000",
+      "longitude": "103.75012000"
+    },
+    {
+      "id": 106274,
+      "name": "Amphoe Tha Khantho",
+      "latitude": "16.88333000",
+      "longitude": "103.25000000"
+    },
+    {
+      "id": 106376,
+      "name": "Amphoe Yang Talat",
+      "latitude": "16.43961000",
+      "longitude": "103.34085000"
+    },
+    {
+      "id": 106501,
+      "name": "Huai Mek",
+      "latitude": "16.58975000",
+      "longitude": "103.23547000"
+    },
+    {
+      "id": 106506,
+      "name": "Kalasin",
+      "latitude": "16.43281000",
+      "longitude": "103.50658000"
+    },
+    {
+      "id": 106507,
+      "name": "Kamalasai",
+      "latitude": "16.33839000",
+      "longitude": "103.57564000"
+    },
+    {
+      "id": 106520,
+      "name": "Khao Wong",
+      "latitude": "16.70008000",
+      "longitude": "104.09019000"
+    },
+    {
+      "id": 106543,
+      "name": "Kuchinarai",
+      "latitude": "16.54100000",
+      "longitude": "104.05004000"
+    },
+    {
+      "id": 106602,
+      "name": "Nong Kung Si",
+      "latitude": "16.65000000",
+      "longitude": "103.30000000"
+    },
+    {
+      "id": 106757,
+      "name": "Yang Talat",
+      "latitude": "16.39982000",
+      "longitude": "103.36785000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

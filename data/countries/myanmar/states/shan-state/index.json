@@ -1,0 +1,72 @@
+{
+  "id": 2139,
+  "name": "Shan State",
+  "state_code": "17",
+  "latitude": "22.03619850",
+  "longitude": "98.13385580",
+  "type": null,
+  "cities": [
+    {
+      "id": 67650,
+      "name": "Lashio",
+      "latitude": "22.93590000",
+      "longitude": "97.74980000"
+    },
+    {
+      "id": 67689,
+      "name": "Tachilek",
+      "latitude": "20.44750000",
+      "longitude": "99.88083000"
+    },
+    {
+      "id": 67693,
+      "name": "Taunggyi",
+      "latitude": "20.78919000",
+      "longitude": "97.03776000"
+    }
+  ],
+  "country": {
+    "id": 151,
+    "name": "Myanmar",
+    "iso3": "MMR",
+    "iso2": "MM",
+    "numeric_code": "104",
+    "phone_code": "95",
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK",
+    "currency_name": "Burmese kyat",
+    "currency_symbol": "K",
+    "tld": ".mm",
+    "native": "မြန်မာ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yangon",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "MMT",
+        "tzName": "Myanmar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미얀마",
+      "pt-BR": "Myanmar",
+      "pt": "Myanmar",
+      "nl": "Myanmar",
+      "hr": "Mijanmar",
+      "fa": "میانمار",
+      "de": "Myanmar",
+      "es": "Myanmar",
+      "fr": "Myanmar",
+      "ja": "ミャンマー",
+      "it": "Birmania",
+      "cn": "缅甸",
+      "tr": "Myanmar"
+    },
+    "latitude": "22.00000000",
+    "longitude": "98.00000000",
+    "emoji": "🇲🇲",
+    "emojiU": "U+1F1F2 U+1F1F2"
+  }
+}

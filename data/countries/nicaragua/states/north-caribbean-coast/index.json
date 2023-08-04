@@ -1,0 +1,90 @@
+{
+  "id": 951,
+  "name": "North Caribbean Coast",
+  "state_code": "AN",
+  "latitude": "13.83944560",
+  "longitude": "-83.93208060",
+  "type": "autonomous region",
+  "cities": [
+    {
+      "id": 77161,
+      "name": "Bonanza",
+      "latitude": "14.02885000",
+      "longitude": "-84.59103000"
+    },
+    {
+      "id": 77248,
+      "name": "Prinzapolka",
+      "latitude": "13.40708000",
+      "longitude": "-83.56452000"
+    },
+    {
+      "id": 77250,
+      "name": "Puerto Cabezas",
+      "latitude": "14.03507000",
+      "longitude": "-83.38882000"
+    },
+    {
+      "id": 77279,
+      "name": "Siuna",
+      "latitude": "13.73321000",
+      "longitude": "-84.77725000"
+    },
+    {
+      "id": 77294,
+      "name": "Waslala",
+      "latitude": "13.23333000",
+      "longitude": "-85.38333000"
+    },
+    {
+      "id": 77295,
+      "name": "Waspán",
+      "latitude": "14.74189000",
+      "longitude": "-83.97170000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

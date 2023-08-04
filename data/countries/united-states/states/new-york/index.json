@@ -1,0 +1,6550 @@
+{
+  "id": 1452,
+  "name": "New York",
+  "state_code": "NY",
+  "latitude": "40.71277530",
+  "longitude": "-74.00597280",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111014,
+      "name": "Adams",
+      "latitude": "43.80923000",
+      "longitude": "-76.02409000"
+    },
+    {
+      "id": 111016,
+      "name": "Adams Center",
+      "latitude": "43.86006000",
+      "longitude": "-76.00548000"
+    },
+    {
+      "id": 111037,
+      "name": "Addison",
+      "latitude": "42.10285000",
+      "longitude": "-77.23359000"
+    },
+    {
+      "id": 111071,
+      "name": "Airmont",
+      "latitude": "41.10093000",
+      "longitude": "-74.11625000"
+    },
+    {
+      "id": 111078,
+      "name": "Akron",
+      "latitude": "43.02089000",
+      "longitude": "-78.49530000"
+    },
+    {
+      "id": 111082,
+      "name": "Alabama",
+      "latitude": "43.09645000",
+      "longitude": "-78.39086000"
+    },
+    {
+      "id": 111108,
+      "name": "Albany",
+      "latitude": "42.65258000",
+      "longitude": "-73.75623000"
+    },
+    {
+      "id": 111112,
+      "name": "Albany County",
+      "latitude": "42.60018000",
+      "longitude": "-73.97356000"
+    },
+    {
+      "id": 111119,
+      "name": "Albertson",
+      "latitude": "40.77343000",
+      "longitude": "-73.64318000"
+    },
+    {
+      "id": 111128,
+      "name": "Albion",
+      "latitude": "43.24645000",
+      "longitude": "-78.19363000"
+    },
+    {
+      "id": 111136,
+      "name": "Alden",
+      "latitude": "42.90006000",
+      "longitude": "-78.49197000"
+    },
+    {
+      "id": 111157,
+      "name": "Alexandria Bay",
+      "latitude": "44.33588000",
+      "longitude": "-75.91773000"
+    },
+    {
+      "id": 111160,
+      "name": "Alfred",
+      "latitude": "42.25424000",
+      "longitude": "-77.79055000"
+    },
+    {
+      "id": 111180,
+      "name": "Allegany",
+      "latitude": "42.09006000",
+      "longitude": "-78.49419000"
+    },
+    {
+      "id": 111182,
+      "name": "Allegany County",
+      "latitude": "42.25739000",
+      "longitude": "-78.02756000"
+    },
+    {
+      "id": 111235,
+      "name": "Altamont",
+      "latitude": "42.70063000",
+      "longitude": "-74.03374000"
+    },
+    {
+      "id": 111262,
+      "name": "Amagansett",
+      "latitude": "40.97371000",
+      "longitude": "-72.14369000"
+    },
+    {
+      "id": 111283,
+      "name": "Amherst",
+      "latitude": "42.97839000",
+      "longitude": "-78.79976000"
+    },
+    {
+      "id": 111292,
+      "name": "Amityville",
+      "latitude": "40.67899000",
+      "longitude": "-73.41707000"
+    },
+    {
+      "id": 111295,
+      "name": "Amsterdam",
+      "latitude": "42.93869000",
+      "longitude": "-74.18819000"
+    },
+    {
+      "id": 111325,
+      "name": "Andover",
+      "latitude": "42.15646000",
+      "longitude": "-77.79555000"
+    },
+    {
+      "id": 111341,
+      "name": "Angola",
+      "latitude": "42.63839000",
+      "longitude": "-79.02782000"
+    },
+    {
+      "id": 111342,
+      "name": "Angola on the Lake",
+      "latitude": "42.65478000",
+      "longitude": "-79.04893000"
+    },
+    {
+      "id": 111383,
+      "name": "Apalachin",
+      "latitude": "42.06952000",
+      "longitude": "-76.15465000"
+    },
+    {
+      "id": 111405,
+      "name": "Aquebogue",
+      "latitude": "40.94454000",
+      "longitude": "-72.62704000"
+    },
+    {
+      "id": 111419,
+      "name": "Arcade",
+      "latitude": "42.53395000",
+      "longitude": "-78.42307000"
+    },
+    {
+      "id": 111444,
+      "name": "Ardsley",
+      "latitude": "41.01065000",
+      "longitude": "-73.84375000"
+    },
+    {
+      "id": 111468,
+      "name": "Arlington",
+      "latitude": "41.69593000",
+      "longitude": "-73.89680000"
+    },
+    {
+      "id": 111478,
+      "name": "Armonk",
+      "latitude": "41.12648000",
+      "longitude": "-73.71402000"
+    },
+    {
+      "id": 111493,
+      "name": "Arrochar",
+      "latitude": "40.59844000",
+      "longitude": "-74.07264000"
+    },
+    {
+      "id": 111504,
+      "name": "Arverne",
+      "latitude": "40.59122000",
+      "longitude": "-73.79597000"
+    },
+    {
+      "id": 111562,
+      "name": "Astoria",
+      "latitude": "40.77205000",
+      "longitude": "-73.93014000"
+    },
+    {
+      "id": 111579,
+      "name": "Athens",
+      "latitude": "42.26036000",
+      "longitude": "-73.80957000"
+    },
+    {
+      "id": 111597,
+      "name": "Atlantic Beach",
+      "latitude": "40.58899000",
+      "longitude": "-73.72902000"
+    },
+    {
+      "id": 111610,
+      "name": "Attica",
+      "latitude": "42.86423000",
+      "longitude": "-78.28029000"
+    },
+    {
+      "id": 111628,
+      "name": "Auburn",
+      "latitude": "42.93173000",
+      "longitude": "-76.56605000"
+    },
+    {
+      "id": 111650,
+      "name": "Augusta",
+      "latitude": "42.97479000",
+      "longitude": "-75.50129000"
+    },
+    {
+      "id": 111680,
+      "name": "Averill Park",
+      "latitude": "42.63397000",
+      "longitude": "-73.55373000"
+    },
+    {
+      "id": 111693,
+      "name": "Avon",
+      "latitude": "42.91201000",
+      "longitude": "-77.74556000"
+    },
+    {
+      "id": 111716,
+      "name": "Babylon",
+      "latitude": "40.69566000",
+      "longitude": "-73.32568000"
+    },
+    {
+      "id": 111733,
+      "name": "Bainbridge",
+      "latitude": "42.29341000",
+      "longitude": "-75.47935000"
+    },
+    {
+      "id": 111737,
+      "name": "Baiting Hollow",
+      "latitude": "40.95621000",
+      "longitude": "-72.74427000"
+    },
+    {
+      "id": 111756,
+      "name": "Baldwin",
+      "latitude": "40.65649000",
+      "longitude": "-73.60930000"
+    },
+    {
+      "id": 111762,
+      "name": "Baldwin Harbor",
+      "latitude": "40.63955000",
+      "longitude": "-73.60846000"
+    },
+    {
+      "id": 111764,
+      "name": "Baldwinsville",
+      "latitude": "43.15868000",
+      "longitude": "-76.33271000"
+    },
+    {
+      "id": 111775,
+      "name": "Ballston Spa",
+      "latitude": "43.00091000",
+      "longitude": "-73.84901000"
+    },
+    {
+      "id": 111779,
+      "name": "Balmville",
+      "latitude": "41.53482000",
+      "longitude": "-74.01486000"
+    },
+    {
+      "id": 111819,
+      "name": "Bardonia",
+      "latitude": "41.10954000",
+      "longitude": "-73.99625000"
+    },
+    {
+      "id": 111837,
+      "name": "Barnum Island",
+      "latitude": "40.60455000",
+      "longitude": "-73.64402000"
+    },
+    {
+      "id": 111888,
+      "name": "Batavia",
+      "latitude": "42.99812000",
+      "longitude": "-78.18752000"
+    },
+    {
+      "id": 111898,
+      "name": "Bath",
+      "latitude": "42.33702000",
+      "longitude": "-77.31776000"
+    },
+    {
+      "id": 111900,
+      "name": "Bath Beach",
+      "latitude": "40.60455000",
+      "longitude": "-74.00431000"
+    },
+    {
+      "id": 111918,
+      "name": "Baxter Estates",
+      "latitude": "40.83482000",
+      "longitude": "-73.69541000"
+    },
+    {
+      "id": 111930,
+      "name": "Bay Park",
+      "latitude": "40.63316000",
+      "longitude": "-73.67041000"
+    },
+    {
+      "id": 111934,
+      "name": "Bay Shore",
+      "latitude": "40.72510000",
+      "longitude": "-73.24539000"
+    },
+    {
+      "id": 111936,
+      "name": "Bay Wood",
+      "latitude": "40.75010000",
+      "longitude": "-73.29123000"
+    },
+    {
+      "id": 111940,
+      "name": "Baychester",
+      "latitude": "40.86928000",
+      "longitude": "-73.83645000"
+    },
+    {
+      "id": 111952,
+      "name": "Bayport",
+      "latitude": "40.73843000",
+      "longitude": "-73.05067000"
+    },
+    {
+      "id": 111955,
+      "name": "Bayside",
+      "latitude": "40.76844000",
+      "longitude": "-73.77708000"
+    },
+    {
+      "id": 111961,
+      "name": "Bayville",
+      "latitude": "40.91065000",
+      "longitude": "-73.56207000"
+    },
+    {
+      "id": 111968,
+      "name": "Beacon",
+      "latitude": "41.50482000",
+      "longitude": "-73.96958000"
+    },
+    {
+      "id": 112003,
+      "name": "Beaver Dam Lake",
+      "latitude": "41.44743000",
+      "longitude": "-74.11463000"
+    },
+    {
+      "id": 112007,
+      "name": "Beaverdam Lake-Salisbury Mills",
+      "latitude": "41.44162000",
+      "longitude": "-74.11629000"
+    },
+    {
+      "id": 112025,
+      "name": "Bedford",
+      "latitude": "41.20426000",
+      "longitude": "-73.64374000"
+    },
+    {
+      "id": 112030,
+      "name": "Bedford Hills",
+      "latitude": "41.23676000",
+      "longitude": "-73.69458000"
+    },
+    {
+      "id": 112077,
+      "name": "Bellaire",
+      "latitude": "40.71399000",
+      "longitude": "-73.75402000"
+    },
+    {
+      "id": 112084,
+      "name": "Belle Harbor",
+      "latitude": "40.57594000",
+      "longitude": "-73.84819000"
+    },
+    {
+      "id": 112100,
+      "name": "Bellerose",
+      "latitude": "40.72427000",
+      "longitude": "-73.71513000"
+    },
+    {
+      "id": 112101,
+      "name": "Bellerose Terrace",
+      "latitude": "40.72066000",
+      "longitude": "-73.72596000"
+    },
+    {
+      "id": 112123,
+      "name": "Bellmore",
+      "latitude": "40.66871000",
+      "longitude": "-73.52707000"
+    },
+    {
+      "id": 112125,
+      "name": "Bellport",
+      "latitude": "40.75704000",
+      "longitude": "-72.93927000"
+    },
+    {
+      "id": 112140,
+      "name": "Belmont",
+      "latitude": "42.22312000",
+      "longitude": "-78.03445000"
+    },
+    {
+      "id": 112187,
+      "name": "Bensonhurst",
+      "latitude": "40.60177000",
+      "longitude": "-73.99403000"
+    },
+    {
+      "id": 112216,
+      "name": "Bergen",
+      "latitude": "43.08534000",
+      "longitude": "-77.94223000"
+    },
+    {
+      "id": 112217,
+      "name": "Bergen Beach",
+      "latitude": "40.62038000",
+      "longitude": "-73.90680000"
+    },
+    {
+      "id": 112293,
+      "name": "Bethpage",
+      "latitude": "40.74427000",
+      "longitude": "-73.48207000"
+    },
+    {
+      "id": 112320,
+      "name": "Big Flats",
+      "latitude": "42.13730000",
+      "longitude": "-76.93691000"
+    },
+    {
+      "id": 112346,
+      "name": "Billington Heights",
+      "latitude": "42.78423000",
+      "longitude": "-78.62642000"
+    },
+    {
+      "id": 112351,
+      "name": "Binghamton",
+      "latitude": "42.09869000",
+      "longitude": "-75.91797000"
+    },
+    {
+      "id": 112382,
+      "name": "Black River",
+      "latitude": "44.01256000",
+      "longitude": "-75.79437000"
+    },
+    {
+      "id": 112424,
+      "name": "Blasdell",
+      "latitude": "42.79728000",
+      "longitude": "-78.82337000"
+    },
+    {
+      "id": 112425,
+      "name": "Blauvelt",
+      "latitude": "41.06343000",
+      "longitude": "-73.95764000"
+    },
+    {
+      "id": 112438,
+      "name": "Bloomfield",
+      "latitude": "40.61260000",
+      "longitude": "-74.17820000"
+    },
+    {
+      "id": 112473,
+      "name": "Blue Point",
+      "latitude": "40.74399000",
+      "longitude": "-73.03455000"
+    },
+    {
+      "id": 112502,
+      "name": "Bohemia",
+      "latitude": "40.76926000",
+      "longitude": "-73.11511000"
+    },
+    {
+      "id": 112520,
+      "name": "Bolivar",
+      "latitude": "42.06673000",
+      "longitude": "-78.16779000"
+    },
+    {
+      "id": 112570,
+      "name": "Boonville",
+      "latitude": "43.48368000",
+      "longitude": "-75.33656000"
+    },
+    {
+      "id": 112580,
+      "name": "Borough Park",
+      "latitude": "40.63399000",
+      "longitude": "-73.99681000"
+    },
+    {
+      "id": 112590,
+      "name": "Boston",
+      "latitude": "42.62895000",
+      "longitude": "-78.73753000"
+    },
+    {
+      "id": 112731,
+      "name": "Brentwood",
+      "latitude": "40.78121000",
+      "longitude": "-73.24623000"
+    },
+    {
+      "id": 112740,
+      "name": "Brewerton",
+      "latitude": "43.23812000",
+      "longitude": "-76.14076000"
+    },
+    {
+      "id": 112743,
+      "name": "Brewster",
+      "latitude": "41.39732000",
+      "longitude": "-73.61707000"
+    },
+    {
+      "id": 112746,
+      "name": "Brewster Hill",
+      "latitude": "41.42398000",
+      "longitude": "-73.60429000"
+    },
+    {
+      "id": 112750,
+      "name": "Briarcliff Manor",
+      "latitude": "41.14565000",
+      "longitude": "-73.82375000"
+    },
+    {
+      "id": 112751,
+      "name": "Briarwood",
+      "latitude": "40.70935000",
+      "longitude": "-73.81529000"
+    },
+    {
+      "id": 112757,
+      "name": "Bridgehampton",
+      "latitude": "40.93788000",
+      "longitude": "-72.30092000"
+    },
+    {
+      "id": 112763,
+      "name": "Bridgeport",
+      "latitude": "43.15535000",
+      "longitude": "-75.96936000"
+    },
+    {
+      "id": 112790,
+      "name": "Brighton",
+      "latitude": "43.14756000",
+      "longitude": "-77.55055000"
+    },
+    {
+      "id": 112792,
+      "name": "Brighton Beach",
+      "latitude": "40.57788000",
+      "longitude": "-73.95958000"
+    },
+    {
+      "id": 112794,
+      "name": "Brightwaters",
+      "latitude": "40.72093000",
+      "longitude": "-73.26734000"
+    },
+    {
+      "id": 112798,
+      "name": "Brinckerhoff",
+      "latitude": "41.54398000",
+      "longitude": "-73.86819000"
+    },
+    {
+      "id": 112820,
+      "name": "Broad Channel",
+      "latitude": "40.60316000",
+      "longitude": "-73.82041000"
+    },
+    {
+      "id": 112823,
+      "name": "Broadalbin",
+      "latitude": "43.05868000",
+      "longitude": "-74.19652000"
+    },
+    {
+      "id": 112833,
+      "name": "Brockport",
+      "latitude": "43.21367000",
+      "longitude": "-77.93918000"
+    },
+    {
+      "id": 112836,
+      "name": "Brocton",
+      "latitude": "42.38867000",
+      "longitude": "-79.44116000"
+    },
+    {
+      "id": 112846,
+      "name": "Bronx",
+      "latitude": "40.82732000",
+      "longitude": "-73.92357000"
+    },
+    {
+      "id": 112847,
+      "name": "Bronxville",
+      "latitude": "40.93815000",
+      "longitude": "-73.83208000"
+    },
+    {
+      "id": 112860,
+      "name": "Brookhaven",
+      "latitude": "40.77927000",
+      "longitude": "-72.91538000"
+    },
+    {
+      "id": 112872,
+      "name": "Brooklyn",
+      "latitude": "40.65010000",
+      "longitude": "-73.94958000"
+    },
+    {
+      "id": 112875,
+      "name": "Brooklyn Heights",
+      "latitude": "40.69538000",
+      "longitude": "-73.99375000"
+    },
+    {
+      "id": 112895,
+      "name": "Brookville",
+      "latitude": "40.81316000",
+      "longitude": "-73.56735000"
+    },
+    {
+      "id": 112899,
+      "name": "Broome County",
+      "latitude": "42.16022000",
+      "longitude": "-75.81962000"
+    },
+    {
+      "id": 112933,
+      "name": "Brownsville",
+      "latitude": "40.66094000",
+      "longitude": "-73.92014000"
+    },
+    {
+      "id": 112938,
+      "name": "Brownville",
+      "latitude": "44.00700000",
+      "longitude": "-75.98409000"
+    },
+    {
+      "id": 112972,
+      "name": "Buchanan",
+      "latitude": "41.26204000",
+      "longitude": "-73.93819000"
+    },
+    {
+      "id": 113014,
+      "name": "Buffalo",
+      "latitude": "42.88645000",
+      "longitude": "-78.87837000"
+    },
+    {
+      "id": 113103,
+      "name": "Bushwick",
+      "latitude": "40.69427000",
+      "longitude": "-73.91875000"
+    },
+    {
+      "id": 113171,
+      "name": "Cairo",
+      "latitude": "42.29897000",
+      "longitude": "-73.99847000"
+    },
+    {
+      "id": 113178,
+      "name": "Calcium",
+      "latitude": "44.02173000",
+      "longitude": "-75.84604000"
+    },
+    {
+      "id": 113191,
+      "name": "Caledonia",
+      "latitude": "42.97312000",
+      "longitude": "-77.85278000"
+    },
+    {
+      "id": 113237,
+      "name": "Calverton",
+      "latitude": "40.90649000",
+      "longitude": "-72.74343000"
+    },
+    {
+      "id": 113248,
+      "name": "Cambria Heights",
+      "latitude": "40.69455000",
+      "longitude": "-73.73847000"
+    },
+    {
+      "id": 113254,
+      "name": "Cambridge",
+      "latitude": "43.02813000",
+      "longitude": "-73.38122000"
+    },
+    {
+      "id": 113267,
+      "name": "Camden",
+      "latitude": "43.33451000",
+      "longitude": "-75.74796000"
+    },
+    {
+      "id": 113284,
+      "name": "Camillus",
+      "latitude": "43.03923000",
+      "longitude": "-76.30410000"
+    },
+    {
+      "id": 113317,
+      "name": "Canajoharie",
+      "latitude": "42.90563000",
+      "longitude": "-74.57181000"
+    },
+    {
+      "id": 113318,
+      "name": "Canandaigua",
+      "latitude": "42.87423000",
+      "longitude": "-77.28804000"
+    },
+    {
+      "id": 113319,
+      "name": "Canarsie",
+      "latitude": "40.64372000",
+      "longitude": "-73.90069000"
+    },
+    {
+      "id": 113320,
+      "name": "Canastota",
+      "latitude": "43.07951000",
+      "longitude": "-75.75074000"
+    },
+    {
+      "id": 113329,
+      "name": "Canisteo",
+      "latitude": "42.27035000",
+      "longitude": "-77.60582000"
+    },
+    {
+      "id": 113347,
+      "name": "Canton",
+      "latitude": "44.59562000",
+      "longitude": "-75.16909000"
+    },
+    {
+      "id": 113397,
+      "name": "Carle Place",
+      "latitude": "40.75260000",
+      "longitude": "-73.61041000"
+    },
+    {
+      "id": 113417,
+      "name": "Carmel",
+      "latitude": "41.43009000",
+      "longitude": "-73.68013000"
+    },
+    {
+      "id": 113419,
+      "name": "Carmel Hamlet",
+      "latitude": "41.41485000",
+      "longitude": "-73.68524000"
+    },
+    {
+      "id": 113497,
+      "name": "Carthage",
+      "latitude": "43.97812000",
+      "longitude": "-75.60936000"
+    },
+    {
+      "id": 113553,
+      "name": "Castleton-on-Hudson",
+      "latitude": "42.51841000",
+      "longitude": "-73.75123000"
+    },
+    {
+      "id": 113579,
+      "name": "Catskill",
+      "latitude": "42.21731000",
+      "longitude": "-73.86457000"
+    },
+    {
+      "id": 113580,
+      "name": "Cattaraugus County",
+      "latitude": "42.24863000",
+      "longitude": "-78.67885000"
+    },
+    {
+      "id": 113594,
+      "name": "Cayuga County",
+      "latitude": "43.01033000",
+      "longitude": "-76.57436000"
+    },
+    {
+      "id": 113595,
+      "name": "Cayuga Heights",
+      "latitude": "42.46010000",
+      "longitude": "-76.48776000"
+    },
+    {
+      "id": 113596,
+      "name": "Cazenovia",
+      "latitude": "42.93007000",
+      "longitude": "-75.85269000"
+    },
+    {
+      "id": 113626,
+      "name": "Cedarhurst",
+      "latitude": "40.62288000",
+      "longitude": "-73.72430000"
+    },
+    {
+      "id": 113632,
+      "name": "Celoron",
+      "latitude": "42.10950000",
+      "longitude": "-79.28310000"
+    },
+    {
+      "id": 113645,
+      "name": "Center Moriches",
+      "latitude": "40.80038000",
+      "longitude": "-72.78982000"
+    },
+    {
+      "id": 113648,
+      "name": "Centereach",
+      "latitude": "40.85843000",
+      "longitude": "-73.09955000"
+    },
+    {
+      "id": 113650,
+      "name": "Centerport",
+      "latitude": "40.88538000",
+      "longitude": "-73.37623000"
+    },
+    {
+      "id": 113678,
+      "name": "Central Islip",
+      "latitude": "40.79065000",
+      "longitude": "-73.20178000"
+    },
+    {
+      "id": 113681,
+      "name": "Central Square",
+      "latitude": "43.28674000",
+      "longitude": "-76.14604000"
+    },
+    {
+      "id": 113682,
+      "name": "Central Valley",
+      "latitude": "41.33176000",
+      "longitude": "-74.12098000"
+    },
+    {
+      "id": 113708,
+      "name": "Chadwicks",
+      "latitude": "43.02785000",
+      "longitude": "-75.27155000"
+    },
+    {
+      "id": 113726,
+      "name": "Champlain",
+      "latitude": "44.98643000",
+      "longitude": "-73.44653000"
+    },
+    {
+      "id": 113746,
+      "name": "Chappaqua",
+      "latitude": "41.15954000",
+      "longitude": "-73.76485000"
+    },
+    {
+      "id": 113768,
+      "name": "Charleston",
+      "latitude": "40.53677000",
+      "longitude": "-74.23737000"
+    },
+    {
+      "id": 113799,
+      "name": "Chatham",
+      "latitude": "42.36425000",
+      "longitude": "-73.59484000"
+    },
+    {
+      "id": 113815,
+      "name": "Chautauqua County",
+      "latitude": "42.30294000",
+      "longitude": "-79.40576000"
+    },
+    {
+      "id": 113824,
+      "name": "Cheektowaga",
+      "latitude": "42.90339000",
+      "longitude": "-78.75475000"
+    },
+    {
+      "id": 113834,
+      "name": "Chelsea",
+      "latitude": "40.60066000",
+      "longitude": "-74.19487000"
+    },
+    {
+      "id": 113836,
+      "name": "Chemung County",
+      "latitude": "42.14125000",
+      "longitude": "-76.76003000"
+    },
+    {
+      "id": 113837,
+      "name": "Chenango Bridge",
+      "latitude": "42.16674000",
+      "longitude": "-75.86242000"
+    },
+    {
+      "id": 113838,
+      "name": "Chenango County",
+      "latitude": "42.49351000",
+      "longitude": "-75.61158000"
+    },
+    {
+      "id": 113888,
+      "name": "Chester",
+      "latitude": "41.36259000",
+      "longitude": "-74.27126000"
+    },
+    {
+      "id": 113912,
+      "name": "Chestnut Ridge",
+      "latitude": "41.08426000",
+      "longitude": "-74.05570000"
+    },
+    {
+      "id": 113981,
+      "name": "Chittenango",
+      "latitude": "43.04507000",
+      "longitude": "-75.86658000"
+    },
+    {
+      "id": 114013,
+      "name": "Churchville",
+      "latitude": "43.10423000",
+      "longitude": "-77.88445000"
+    },
+    {
+      "id": 114043,
+      "name": "City Island",
+      "latitude": "40.84732000",
+      "longitude": "-73.78652000"
+    },
+    {
+      "id": 114108,
+      "name": "Clarence",
+      "latitude": "42.97673000",
+      "longitude": "-78.59197000"
+    },
+    {
+      "id": 114109,
+      "name": "Clarence Center",
+      "latitude": "43.01061000",
+      "longitude": "-78.63753000"
+    },
+    {
+      "id": 114132,
+      "name": "Clark Mills",
+      "latitude": "43.09229000",
+      "longitude": "-75.37962000"
+    },
+    {
+      "id": 114146,
+      "name": "Clarkson",
+      "latitude": "43.23312000",
+      "longitude": "-77.92751000"
+    },
+    {
+      "id": 114202,
+      "name": "Clayton",
+      "latitude": "44.23949000",
+      "longitude": "-76.08578000"
+    },
+    {
+      "id": 114258,
+      "name": "Clifton",
+      "latitude": "40.62010000",
+      "longitude": "-74.07709000"
+    },
+    {
+      "id": 114264,
+      "name": "Clifton Springs",
+      "latitude": "42.96173000",
+      "longitude": "-77.13998000"
+    },
+    {
+      "id": 114283,
+      "name": "Clinton",
+      "latitude": "43.04840000",
+      "longitude": "-75.37850000"
+    },
+    {
+      "id": 114295,
+      "name": "Clinton County",
+      "latitude": "44.74623000",
+      "longitude": "-73.67817000"
+    },
+    {
+      "id": 114298,
+      "name": "Clintondale",
+      "latitude": "41.69482000",
+      "longitude": "-74.05125000"
+    },
+    {
+      "id": 114320,
+      "name": "Clyde",
+      "latitude": "43.08423000",
+      "longitude": "-76.86940000"
+    },
+    {
+      "id": 114322,
+      "name": "Clymer",
+      "latitude": "42.02089000",
+      "longitude": "-79.63005000"
+    },
+    {
+      "id": 114347,
+      "name": "Cobleskill",
+      "latitude": "42.67785000",
+      "longitude": "-74.48542000"
+    },
+    {
+      "id": 114375,
+      "name": "Cohoes",
+      "latitude": "42.77424000",
+      "longitude": "-73.70012000"
+    },
+    {
+      "id": 114387,
+      "name": "Cold Spring",
+      "latitude": "41.42009000",
+      "longitude": "-73.95458000"
+    },
+    {
+      "id": 114388,
+      "name": "Cold Spring Harbor",
+      "latitude": "40.87149000",
+      "longitude": "-73.45679000"
+    },
+    {
+      "id": 114416,
+      "name": "College Point",
+      "latitude": "40.78760000",
+      "longitude": "-73.84597000"
+    },
+    {
+      "id": 114452,
+      "name": "Colonie",
+      "latitude": "42.71786000",
+      "longitude": "-73.83346000"
+    },
+    {
+      "id": 114480,
+      "name": "Columbia County",
+      "latitude": "42.25008000",
+      "longitude": "-73.63185000"
+    },
+    {
+      "id": 114521,
+      "name": "Commack",
+      "latitude": "40.84288000",
+      "longitude": "-73.29289000"
+    },
+    {
+      "id": 114540,
+      "name": "Concord",
+      "latitude": "40.60816000",
+      "longitude": "-74.08431000"
+    },
+    {
+      "id": 114556,
+      "name": "Coney Island",
+      "latitude": "40.57788000",
+      "longitude": "-73.99403000"
+    },
+    {
+      "id": 114557,
+      "name": "Congers",
+      "latitude": "41.15065000",
+      "longitude": "-73.94542000"
+    },
+    {
+      "id": 114572,
+      "name": "Constantia",
+      "latitude": "43.24785000",
+      "longitude": "-76.00020000"
+    },
+    {
+      "id": 114605,
+      "name": "Cooperstown",
+      "latitude": "42.70048000",
+      "longitude": "-74.92426000"
+    },
+    {
+      "id": 114616,
+      "name": "Copiague",
+      "latitude": "40.68149000",
+      "longitude": "-73.39984000"
+    },
+    {
+      "id": 114629,
+      "name": "Coram",
+      "latitude": "40.86871000",
+      "longitude": "-73.00149000"
+    },
+    {
+      "id": 114645,
+      "name": "Corinth",
+      "latitude": "43.24452000",
+      "longitude": "-73.83234000"
+    },
+    {
+      "id": 114653,
+      "name": "Corning",
+      "latitude": "42.14285000",
+      "longitude": "-77.05469000"
+    },
+    {
+      "id": 114658,
+      "name": "Cornwall",
+      "latitude": "41.44482000",
+      "longitude": "-74.01570000"
+    },
+    {
+      "id": 114661,
+      "name": "Corona",
+      "latitude": "40.74705000",
+      "longitude": "-73.86014000"
+    },
+    {
+      "id": 114676,
+      "name": "Cortland",
+      "latitude": "42.60118000",
+      "longitude": "-76.18048000"
+    },
+    {
+      "id": 114677,
+      "name": "Cortland County",
+      "latitude": "42.59501000",
+      "longitude": "-76.07027000"
+    },
+    {
+      "id": 114678,
+      "name": "Cortland West",
+      "latitude": "42.59431000",
+      "longitude": "-76.22587000"
+    },
+    {
+      "id": 114721,
+      "name": "Country Knolls",
+      "latitude": "42.91508000",
+      "longitude": "-73.80512000"
+    },
+    {
+      "id": 114751,
+      "name": "Coxsackie",
+      "latitude": "42.35092000",
+      "longitude": "-73.80290000"
+    },
+    {
+      "id": 114834,
+      "name": "Crompond",
+      "latitude": "41.29509000",
+      "longitude": "-73.86541000"
+    },
+    {
+      "id": 114859,
+      "name": "Croton-on-Hudson",
+      "latitude": "41.20843000",
+      "longitude": "-73.89125000"
+    },
+    {
+      "id": 114866,
+      "name": "Crown Heights",
+      "latitude": "41.63732000",
+      "longitude": "-73.93792000"
+    },
+    {
+      "id": 114872,
+      "name": "Crugers",
+      "latitude": "41.23343000",
+      "longitude": "-73.92264000"
+    },
+    {
+      "id": 114887,
+      "name": "Cuba",
+      "latitude": "42.21757000",
+      "longitude": "-78.27529000"
+    },
+    {
+      "id": 114920,
+      "name": "Cumberland Head",
+      "latitude": "44.71643000",
+      "longitude": "-73.40263000"
+    },
+    {
+      "id": 114944,
+      "name": "Cutchogue",
+      "latitude": "41.01066000",
+      "longitude": "-72.48509000"
+    },
+    {
+      "id": 114956,
+      "name": "Cypress Hills",
+      "latitude": "40.67705000",
+      "longitude": "-73.89125000"
+    },
+    {
+      "id": 115027,
+      "name": "Dannemora",
+      "latitude": "44.72143000",
+      "longitude": "-73.72375000"
+    },
+    {
+      "id": 115028,
+      "name": "Dansville",
+      "latitude": "42.56090000",
+      "longitude": "-77.69611000"
+    },
+    {
+      "id": 115177,
+      "name": "Deer Park",
+      "latitude": "40.76177000",
+      "longitude": "-73.32929000"
+    },
+    {
+      "id": 115207,
+      "name": "Delaware County",
+      "latitude": "42.19809000",
+      "longitude": "-74.96647000"
+    },
+    {
+      "id": 115210,
+      "name": "Delevan",
+      "latitude": "42.48923000",
+      "longitude": "-78.48085000"
+    },
+    {
+      "id": 115212,
+      "name": "Delhi",
+      "latitude": "42.27814000",
+      "longitude": "-74.91599000"
+    },
+    {
+      "id": 115218,
+      "name": "Delmar",
+      "latitude": "42.62202000",
+      "longitude": "-73.83262000"
+    },
+    {
+      "id": 115256,
+      "name": "Depew",
+      "latitude": "42.90395000",
+      "longitude": "-78.69225000"
+    },
+    {
+      "id": 115258,
+      "name": "Deposit",
+      "latitude": "42.06008000",
+      "longitude": "-75.42768000"
+    },
+    {
+      "id": 115310,
+      "name": "Dexter",
+      "latitude": "44.00784000",
+      "longitude": "-76.04437000"
+    },
+    {
+      "id": 115358,
+      "name": "Dix Hills",
+      "latitude": "40.80482000",
+      "longitude": "-73.33623000"
+    },
+    {
+      "id": 115370,
+      "name": "Dobbs Ferry",
+      "latitude": "41.01454000",
+      "longitude": "-73.87264000"
+    },
+    {
+      "id": 115387,
+      "name": "Dolgeville",
+      "latitude": "43.10090000",
+      "longitude": "-74.77293000"
+    },
+    {
+      "id": 115396,
+      "name": "Dongan Hills",
+      "latitude": "40.58844000",
+      "longitude": "-74.09625000"
+    },
+    {
+      "id": 115439,
+      "name": "Douglaston",
+      "latitude": "40.76871000",
+      "longitude": "-73.74708000"
+    },
+    {
+      "id": 115456,
+      "name": "Dover Plains",
+      "latitude": "41.74121000",
+      "longitude": "-73.57652000"
+    },
+    {
+      "id": 115485,
+      "name": "Dryden",
+      "latitude": "42.49091000",
+      "longitude": "-76.29716000"
+    },
+    {
+      "id": 115530,
+      "name": "Dundee",
+      "latitude": "42.52340000",
+      "longitude": "-76.97663000"
+    },
+    {
+      "id": 115539,
+      "name": "Dunkirk",
+      "latitude": "42.47950000",
+      "longitude": "-79.33393000"
+    },
+    {
+      "id": 115572,
+      "name": "Durham",
+      "latitude": "42.39953000",
+      "longitude": "-74.17236000"
+    },
+    {
+      "id": 115579,
+      "name": "Dutchess County",
+      "latitude": "41.76515000",
+      "longitude": "-73.74286000"
+    },
+    {
+      "id": 115590,
+      "name": "Dyker Heights",
+      "latitude": "40.62149000",
+      "longitude": "-74.00958000"
+    },
+    {
+      "id": 115627,
+      "name": "East Atlantic Beach",
+      "latitude": "40.78982000",
+      "longitude": "-73.74708000"
+    },
+    {
+      "id": 115628,
+      "name": "East Aurora",
+      "latitude": "42.76784000",
+      "longitude": "-78.61336000"
+    },
+    {
+      "id": 115655,
+      "name": "East Elmhurst",
+      "latitude": "40.76121000",
+      "longitude": "-73.86514000"
+    },
+    {
+      "id": 115658,
+      "name": "East Farmingdale",
+      "latitude": "40.72927000",
+      "longitude": "-73.41679000"
+    },
+    {
+      "id": 115661,
+      "name": "East Flatbush",
+      "latitude": "40.65371000",
+      "longitude": "-73.93042000"
+    },
+    {
+      "id": 115667,
+      "name": "East Garden City",
+      "latitude": "40.73083000",
+      "longitude": "-73.59806000"
+    },
+    {
+      "id": 115669,
+      "name": "East Glenville",
+      "latitude": "42.89452000",
+      "longitude": "-73.92790000"
+    },
+    {
+      "id": 115672,
+      "name": "East Greenbush",
+      "latitude": "42.59091000",
+      "longitude": "-73.70179000"
+    },
+    {
+      "id": 115680,
+      "name": "East Hampton",
+      "latitude": "40.96343000",
+      "longitude": "-72.18480000"
+    },
+    {
+      "id": 115681,
+      "name": "East Hampton North",
+      "latitude": "40.97276000",
+      "longitude": "-72.18911000"
+    },
+    {
+      "id": 115683,
+      "name": "East Harlem",
+      "latitude": "40.79472000",
+      "longitude": "-73.94250000"
+    },
+    {
+      "id": 115692,
+      "name": "East Hills",
+      "latitude": "40.79371000",
+      "longitude": "-73.62707000"
+    },
+    {
+      "id": 115695,
+      "name": "East Islip",
+      "latitude": "40.73204000",
+      "longitude": "-73.18567000"
+    },
+    {
+      "id": 115696,
+      "name": "East Ithaca",
+      "latitude": "42.43952000",
+      "longitude": "-76.47855000"
+    },
+    {
+      "id": 115708,
+      "name": "East Massapequa",
+      "latitude": "40.67343000",
+      "longitude": "-73.43651000"
+    },
+    {
+      "id": 115710,
+      "name": "East Meadow",
+      "latitude": "40.71399000",
+      "longitude": "-73.55902000"
+    },
+    {
+      "id": 115717,
+      "name": "East Moriches",
+      "latitude": "40.80510000",
+      "longitude": "-72.76093000"
+    },
+    {
+      "id": 115719,
+      "name": "East New York",
+      "latitude": "40.66677000",
+      "longitude": "-73.88236000"
+    },
+    {
+      "id": 115722,
+      "name": "East Northport",
+      "latitude": "40.87676000",
+      "longitude": "-73.32456000"
+    },
+    {
+      "id": 115724,
+      "name": "East Norwich",
+      "latitude": "40.84677000",
+      "longitude": "-73.53512000"
+    },
+    {
+      "id": 115730,
+      "name": "East Patchogue",
+      "latitude": "40.76704000",
+      "longitude": "-72.99622000"
+    },
+    {
+      "id": 115743,
+      "name": "East Quogue",
+      "latitude": "40.84066000",
+      "longitude": "-72.58148000"
+    },
+    {
+      "id": 115749,
+      "name": "East Rochester",
+      "latitude": "43.10867000",
+      "longitude": "-77.48750000"
+    },
+    {
+      "id": 115750,
+      "name": "East Rockaway",
+      "latitude": "40.64205000",
+      "longitude": "-73.66957000"
+    },
+    {
+      "id": 115757,
+      "name": "East Setauket",
+      "latitude": "40.94149000",
+      "longitude": "-73.10594000"
+    },
+    {
+      "id": 115758,
+      "name": "East Shoreham",
+      "latitude": "40.94482000",
+      "longitude": "-72.87955000"
+    },
+    {
+      "id": 115763,
+      "name": "East Syracuse",
+      "latitude": "43.06534000",
+      "longitude": "-76.07853000"
+    },
+    {
+      "id": 115765,
+      "name": "East Tremont",
+      "latitude": "40.84538000",
+      "longitude": "-73.89097000"
+    },
+    {
+      "id": 115769,
+      "name": "East Village",
+      "latitude": "40.72927000",
+      "longitude": "-73.98736000"
+    },
+    {
+      "id": 115773,
+      "name": "East Williston",
+      "latitude": "40.75843000",
+      "longitude": "-73.63485000"
+    },
+    {
+      "id": 115776,
+      "name": "Eastchester",
+      "latitude": "40.95833000",
+      "longitude": "-73.80861000"
+    },
+    {
+      "id": 115796,
+      "name": "Eastport",
+      "latitude": "40.82593000",
+      "longitude": "-72.73177000"
+    },
+    {
+      "id": 115805,
+      "name": "Eatons Neck",
+      "latitude": "40.93065000",
+      "longitude": "-73.40151000"
+    },
+    {
+      "id": 115830,
+      "name": "Eden",
+      "latitude": "42.65228000",
+      "longitude": "-78.89698000"
+    },
+    {
+      "id": 115845,
+      "name": "Edgemere",
+      "latitude": "40.59622000",
+      "longitude": "-73.76763000"
+    },
+    {
+      "id": 115872,
+      "name": "Edinburg",
+      "latitude": "43.22174000",
+      "longitude": "-74.10402000"
+    },
+    {
+      "id": 115902,
+      "name": "Eggertsville",
+      "latitude": "42.96339000",
+      "longitude": "-78.80392000"
+    },
+    {
+      "id": 115947,
+      "name": "Elbridge",
+      "latitude": "43.03451000",
+      "longitude": "-76.44799000"
+    },
+    {
+      "id": 115980,
+      "name": "Elizabethtown",
+      "latitude": "44.21616000",
+      "longitude": "-73.59097000"
+    },
+    {
+      "id": 116020,
+      "name": "Ellenville",
+      "latitude": "41.71704000",
+      "longitude": "-74.39571000"
+    },
+    {
+      "id": 116047,
+      "name": "Elma Center",
+      "latitude": "42.82978000",
+      "longitude": "-78.63614000"
+    },
+    {
+      "id": 116052,
+      "name": "Elmhurst",
+      "latitude": "40.73649000",
+      "longitude": "-73.87791000"
+    },
+    {
+      "id": 116053,
+      "name": "Elmira",
+      "latitude": "42.08980000",
+      "longitude": "-76.80773000"
+    },
+    {
+      "id": 116054,
+      "name": "Elmira Heights",
+      "latitude": "42.12980000",
+      "longitude": "-76.82079000"
+    },
+    {
+      "id": 116055,
+      "name": "Elmont",
+      "latitude": "40.70094000",
+      "longitude": "-73.71291000"
+    },
+    {
+      "id": 116059,
+      "name": "Elmsford",
+      "latitude": "41.05510000",
+      "longitude": "-73.82013000"
+    },
+    {
+      "id": 116072,
+      "name": "Eltingville",
+      "latitude": "40.54538000",
+      "longitude": "-74.16570000"
+    },
+    {
+      "id": 116082,
+      "name": "Elwood",
+      "latitude": "40.84538000",
+      "longitude": "-73.33512000"
+    },
+    {
+      "id": 116095,
+      "name": "Emerson Hill",
+      "latitude": "40.60872000",
+      "longitude": "-74.09598000"
+    },
+    {
+      "id": 116120,
+      "name": "Endicott",
+      "latitude": "42.09841000",
+      "longitude": "-76.04937000"
+    },
+    {
+      "id": 116121,
+      "name": "Endwell",
+      "latitude": "42.11285000",
+      "longitude": "-76.02103000"
+    },
+    {
+      "id": 116168,
+      "name": "Erie County",
+      "latitude": "42.75824000",
+      "longitude": "-78.77966000"
+    },
+    {
+      "id": 116196,
+      "name": "Essex County",
+      "latitude": "44.11722000",
+      "longitude": "-73.77271000"
+    },
+    {
+      "id": 116341,
+      "name": "Fairmount",
+      "latitude": "43.04729000",
+      "longitude": "-76.23854000"
+    },
+    {
+      "id": 116345,
+      "name": "Fairport",
+      "latitude": "43.09867000",
+      "longitude": "-77.44194000"
+    },
+    {
+      "id": 116353,
+      "name": "Fairview",
+      "latitude": "41.72370000",
+      "longitude": "-73.91986000"
+    },
+    {
+      "id": 116367,
+      "name": "Falconer",
+      "latitude": "42.11867000",
+      "longitude": "-79.19838000"
+    },
+    {
+      "id": 116384,
+      "name": "Fallsburg",
+      "latitude": "41.73204000",
+      "longitude": "-74.60127000"
+    },
+    {
+      "id": 116395,
+      "name": "Far Rockaway",
+      "latitude": "40.60538000",
+      "longitude": "-73.75513000"
+    },
+    {
+      "id": 116411,
+      "name": "Farmingdale",
+      "latitude": "40.73260000",
+      "longitude": "-73.44540000"
+    },
+    {
+      "id": 116424,
+      "name": "Farmingville",
+      "latitude": "40.83121000",
+      "longitude": "-73.02955000"
+    },
+    {
+      "id": 116460,
+      "name": "Fayetteville",
+      "latitude": "43.02979000",
+      "longitude": "-76.00436000"
+    },
+    {
+      "id": 116524,
+      "name": "Firthcliffe",
+      "latitude": "41.43926000",
+      "longitude": "-74.04514000"
+    },
+    {
+      "id": 116532,
+      "name": "Fishkill",
+      "latitude": "41.53565000",
+      "longitude": "-73.89903000"
+    },
+    {
+      "id": 116548,
+      "name": "Flanders",
+      "latitude": "40.90343000",
+      "longitude": "-72.61759000"
+    },
+    {
+      "id": 116553,
+      "name": "Flatbush",
+      "latitude": "40.65205000",
+      "longitude": "-73.95903000"
+    },
+    {
+      "id": 116555,
+      "name": "Flatlands",
+      "latitude": "40.62122000",
+      "longitude": "-73.93486000"
+    },
+    {
+      "id": 116575,
+      "name": "Floral Park",
+      "latitude": "40.72371000",
+      "longitude": "-73.70485000"
+    },
+    {
+      "id": 116592,
+      "name": "Florida",
+      "latitude": "41.33176000",
+      "longitude": "-74.35682000"
+    },
+    {
+      "id": 116600,
+      "name": "Flower Hill",
+      "latitude": "40.80732000",
+      "longitude": "-73.68124000"
+    },
+    {
+      "id": 116629,
+      "name": "Fonda",
+      "latitude": "42.95452000",
+      "longitude": "-74.37652000"
+    },
+    {
+      "id": 116639,
+      "name": "Fordham",
+      "latitude": "40.85927000",
+      "longitude": "-73.89847000"
+    },
+    {
+      "id": 116658,
+      "name": "Forest Hills",
+      "latitude": "40.71621000",
+      "longitude": "-73.85014000"
+    },
+    {
+      "id": 116702,
+      "name": "Fort Covington Hamlet",
+      "latitude": "44.97178000",
+      "longitude": "-74.50757000"
+    },
+    {
+      "id": 116708,
+      "name": "Fort Drum",
+      "latitude": "44.05843000",
+      "longitude": "-75.76189000"
+    },
+    {
+      "id": 116709,
+      "name": "Fort Edward",
+      "latitude": "43.26702000",
+      "longitude": "-73.58456000"
+    },
+    {
+      "id": 116715,
+      "name": "Fort Hamilton",
+      "latitude": "40.61872000",
+      "longitude": "-74.03320000"
+    },
+    {
+      "id": 116732,
+      "name": "Fort Montgomery",
+      "latitude": "41.33148000",
+      "longitude": "-73.98681000"
+    },
+    {
+      "id": 116743,
+      "name": "Fort Plain",
+      "latitude": "42.93146000",
+      "longitude": "-74.62264000"
+    },
+    {
+      "id": 116748,
+      "name": "Fort Salonga",
+      "latitude": "40.91260000",
+      "longitude": "-73.30095000"
+    },
+    {
+      "id": 116758,
+      "name": "Fort Wadsworth",
+      "latitude": "40.60113000",
+      "longitude": "-74.05738000"
+    },
+    {
+      "id": 116823,
+      "name": "Frankfort",
+      "latitude": "43.03896000",
+      "longitude": "-75.07044000"
+    },
+    {
+      "id": 116861,
+      "name": "Franklin County",
+      "latitude": "44.59293000",
+      "longitude": "-74.30376000"
+    },
+    {
+      "id": 116872,
+      "name": "Franklin Square",
+      "latitude": "40.70732000",
+      "longitude": "-73.67596000"
+    },
+    {
+      "id": 116876,
+      "name": "Franklinville",
+      "latitude": "42.33701000",
+      "longitude": "-78.45808000"
+    },
+    {
+      "id": 116896,
+      "name": "Fredonia",
+      "latitude": "42.44006000",
+      "longitude": "-79.33171000"
+    },
+    {
+      "id": 116914,
+      "name": "Freeport",
+      "latitude": "40.65760000",
+      "longitude": "-73.58318000"
+    },
+    {
+      "id": 116937,
+      "name": "Fresh Meadows",
+      "latitude": "40.73482000",
+      "longitude": "-73.79347000"
+    },
+    {
+      "id": 116941,
+      "name": "Frewsburg",
+      "latitude": "42.05450000",
+      "longitude": "-79.15810000"
+    },
+    {
+      "id": 116949,
+      "name": "Friendship",
+      "latitude": "42.20646000",
+      "longitude": "-78.13751000"
+    },
+    {
+      "id": 116991,
+      "name": "Fulton",
+      "latitude": "43.32285000",
+      "longitude": "-76.41716000"
+    },
+    {
+      "id": 116997,
+      "name": "Fulton County",
+      "latitude": "43.11385000",
+      "longitude": "-74.42217000"
+    },
+    {
+      "id": 117031,
+      "name": "Galeville",
+      "latitude": "43.09007000",
+      "longitude": "-76.17298000"
+    },
+    {
+      "id": 117050,
+      "name": "Gang Mills",
+      "latitude": "42.14619000",
+      "longitude": "-77.11164000"
+    },
+    {
+      "id": 117058,
+      "name": "Garden City",
+      "latitude": "40.72677000",
+      "longitude": "-73.63430000"
+    },
+    {
+      "id": 117062,
+      "name": "Garden City Park",
+      "latitude": "40.74093000",
+      "longitude": "-73.66263000"
+    },
+    {
+      "id": 117063,
+      "name": "Garden City South",
+      "latitude": "40.71232000",
+      "longitude": "-73.66096000"
+    },
+    {
+      "id": 117077,
+      "name": "Gardnertown",
+      "latitude": "41.53509000",
+      "longitude": "-74.07014000"
+    },
+    {
+      "id": 117111,
+      "name": "Gasport",
+      "latitude": "43.19922000",
+      "longitude": "-78.57614000"
+    },
+    {
+      "id": 117120,
+      "name": "Gates-North Gates",
+      "latitude": "43.16547000",
+      "longitude": "-77.70066000"
+    },
+    {
+      "id": 117136,
+      "name": "Genesee County",
+      "latitude": "43.00093000",
+      "longitude": "-78.19371000"
+    },
+    {
+      "id": 117138,
+      "name": "Geneseo",
+      "latitude": "42.79590000",
+      "longitude": "-77.81695000"
+    },
+    {
+      "id": 117144,
+      "name": "Geneva",
+      "latitude": "42.86896000",
+      "longitude": "-76.97774000"
+    },
+    {
+      "id": 117242,
+      "name": "Glasco",
+      "latitude": "42.04370000",
+      "longitude": "-73.94736000"
+    },
+    {
+      "id": 117264,
+      "name": "Glen Cove",
+      "latitude": "40.86232000",
+      "longitude": "-73.63374000"
+    },
+    {
+      "id": 117267,
+      "name": "Glen Head",
+      "latitude": "40.83538000",
+      "longitude": "-73.62374000"
+    },
+    {
+      "id": 117269,
+      "name": "Glen Oaks",
+      "latitude": "40.74705000",
+      "longitude": "-73.71152000"
+    },
+    {
+      "id": 117283,
+      "name": "Glendale",
+      "latitude": "40.70149000",
+      "longitude": "-73.88680000"
+    },
+    {
+      "id": 117304,
+      "name": "Glens Falls",
+      "latitude": "43.30952000",
+      "longitude": "-73.64401000"
+    },
+    {
+      "id": 117305,
+      "name": "Glens Falls North",
+      "latitude": "43.33506000",
+      "longitude": "-73.68251000"
+    },
+    {
+      "id": 117317,
+      "name": "Glenwood Landing",
+      "latitude": "40.83066000",
+      "longitude": "-73.63874000"
+    },
+    {
+      "id": 117328,
+      "name": "Gloversville",
+      "latitude": "43.05285000",
+      "longitude": "-74.34375000"
+    },
+    {
+      "id": 117362,
+      "name": "Goldens Bridge",
+      "latitude": "41.29343000",
+      "longitude": "-73.67680000"
+    },
+    {
+      "id": 117399,
+      "name": "Gordon Heights",
+      "latitude": "40.85871000",
+      "longitude": "-72.97066000"
+    },
+    {
+      "id": 117409,
+      "name": "Goshen",
+      "latitude": "41.40204000",
+      "longitude": "-74.32432000"
+    },
+    {
+      "id": 117419,
+      "name": "Gouverneur",
+      "latitude": "44.33673000",
+      "longitude": "-75.46299000"
+    },
+    {
+      "id": 117422,
+      "name": "Gowanda",
+      "latitude": "42.46312000",
+      "longitude": "-78.93587000"
+    },
+    {
+      "id": 117462,
+      "name": "Grand Island",
+      "latitude": "43.03311000",
+      "longitude": "-78.96254000"
+    },
+    {
+      "id": 117485,
+      "name": "Grandyle Village",
+      "latitude": "42.99645000",
+      "longitude": "-78.95504000"
+    },
+    {
+      "id": 117503,
+      "name": "Graniteville",
+      "latitude": "40.62483000",
+      "longitude": "-74.14848000"
+    },
+    {
+      "id": 117507,
+      "name": "Grant City",
+      "latitude": "40.58205000",
+      "longitude": "-74.10486000"
+    },
+    {
+      "id": 117536,
+      "name": "Granville",
+      "latitude": "43.40785000",
+      "longitude": "-73.25955000"
+    },
+    {
+      "id": 117548,
+      "name": "Gravesend",
+      "latitude": "40.59760000",
+      "longitude": "-73.96514000"
+    },
+    {
+      "id": 117574,
+      "name": "Great Kills",
+      "latitude": "40.55427000",
+      "longitude": "-74.15153000"
+    },
+    {
+      "id": 117575,
+      "name": "Great Neck",
+      "latitude": "40.80066000",
+      "longitude": "-73.72846000"
+    },
+    {
+      "id": 117576,
+      "name": "Great Neck Estates",
+      "latitude": "40.78705000",
+      "longitude": "-73.73680000"
+    },
+    {
+      "id": 117577,
+      "name": "Great Neck Gardens",
+      "latitude": "40.79722000",
+      "longitude": "-73.72389000"
+    },
+    {
+      "id": 117578,
+      "name": "Great Neck Plaza",
+      "latitude": "40.78677000",
+      "longitude": "-73.72652000"
+    },
+    {
+      "id": 117579,
+      "name": "Great River",
+      "latitude": "40.72121000",
+      "longitude": "-73.15761000"
+    },
+    {
+      "id": 117584,
+      "name": "Greece",
+      "latitude": "43.20978000",
+      "longitude": "-77.69306000"
+    },
+    {
+      "id": 117599,
+      "name": "Green Island",
+      "latitude": "42.74424000",
+      "longitude": "-73.69151000"
+    },
+    {
+      "id": 117622,
+      "name": "Greenburgh",
+      "latitude": "41.03287000",
+      "longitude": "-73.84291000"
+    },
+    {
+      "id": 117630,
+      "name": "Greene",
+      "latitude": "42.32924000",
+      "longitude": "-75.76991000"
+    },
+    {
+      "id": 117642,
+      "name": "Greene County",
+      "latitude": "42.27652000",
+      "longitude": "-74.12271000"
+    },
+    {
+      "id": 117658,
+      "name": "Greenlawn",
+      "latitude": "40.86899000",
+      "longitude": "-73.36512000"
+    },
+    {
+      "id": 117661,
+      "name": "Greenpoint",
+      "latitude": "40.72371000",
+      "longitude": "-73.95097000"
+    },
+    {
+      "id": 117662,
+      "name": "Greenport",
+      "latitude": "41.10343000",
+      "longitude": "-72.35925000"
+    },
+    {
+      "id": 117663,
+      "name": "Greenport West",
+      "latitude": "41.10178000",
+      "longitude": "-72.37195000"
+    },
+    {
+      "id": 117679,
+      "name": "Greenvale",
+      "latitude": "40.81066000",
+      "longitude": "-73.62846000"
+    },
+    {
+      "id": 117693,
+      "name": "Greenville",
+      "latitude": "40.99315000",
+      "longitude": "-73.81986000"
+    },
+    {
+      "id": 117699,
+      "name": "Greenwich",
+      "latitude": "43.09063000",
+      "longitude": "-73.49873000"
+    },
+    {
+      "id": 117711,
+      "name": "Greenwood Lake",
+      "latitude": "41.22259000",
+      "longitude": "-74.29432000"
+    },
+    {
+      "id": 117750,
+      "name": "Groton",
+      "latitude": "42.58785000",
+      "longitude": "-76.36688000"
+    },
+    {
+      "id": 117775,
+      "name": "Grymes Hill",
+      "latitude": "40.61872000",
+      "longitude": "-74.09348000"
+    },
+    {
+      "id": 117834,
+      "name": "Hadley",
+      "latitude": "43.31729000",
+      "longitude": "-73.84818000"
+    },
+    {
+      "id": 117835,
+      "name": "Hagaman",
+      "latitude": "42.97452000",
+      "longitude": "-74.15096000"
+    },
+    {
+      "id": 117852,
+      "name": "Halesite",
+      "latitude": "40.88843000",
+      "longitude": "-73.41540000"
+    },
+    {
+      "id": 117884,
+      "name": "Hamburg",
+      "latitude": "42.71589000",
+      "longitude": "-78.82948000"
+    },
+    {
+      "id": 117893,
+      "name": "Hamilton",
+      "latitude": "42.82701000",
+      "longitude": "-75.54462000"
+    },
+    {
+      "id": 117903,
+      "name": "Hamilton County",
+      "latitude": "43.66112000",
+      "longitude": "-74.49736000"
+    },
+    {
+      "id": 117909,
+      "name": "Hamlin",
+      "latitude": "43.30312000",
+      "longitude": "-77.92112000"
+    },
+    {
+      "id": 117935,
+      "name": "Hampton Bays",
+      "latitude": "40.86899000",
+      "longitude": "-72.51759000"
+    },
+    {
+      "id": 117939,
+      "name": "Hampton Manor",
+      "latitude": "42.62091000",
+      "longitude": "-73.72845000"
+    },
+    {
+      "id": 117964,
+      "name": "Hannawa Falls",
+      "latitude": "44.61228000",
+      "longitude": "-74.97103000"
+    },
+    {
+      "id": 117990,
+      "name": "Harbor Isle",
+      "latitude": "40.60344000",
+      "longitude": "-73.66457000"
+    },
+    {
+      "id": 118023,
+      "name": "Harlem",
+      "latitude": "40.80788000",
+      "longitude": "-73.94542000"
+    },
+    {
+      "id": 118040,
+      "name": "Harriman",
+      "latitude": "41.30843000",
+      "longitude": "-74.14459000"
+    },
+    {
+      "id": 118046,
+      "name": "Harris Hill",
+      "latitude": "42.96478000",
+      "longitude": "-78.67753000"
+    },
+    {
+      "id": 118059,
+      "name": "Harrison",
+      "latitude": "40.96899000",
+      "longitude": "-73.71263000"
+    },
+    {
+      "id": 118090,
+      "name": "Hartford",
+      "latitude": "43.36368000",
+      "longitude": "-73.39372000"
+    },
+    {
+      "id": 118101,
+      "name": "Hartsdale",
+      "latitude": "41.01899000",
+      "longitude": "-73.79819000"
+    },
+    {
+      "id": 118135,
+      "name": "Hastings-on-Hudson",
+      "latitude": "40.99454000",
+      "longitude": "-73.87875000"
+    },
+    {
+      "id": 118143,
+      "name": "Hauppauge",
+      "latitude": "40.82565000",
+      "longitude": "-73.20261000"
+    },
+    {
+      "id": 118152,
+      "name": "Haverstraw",
+      "latitude": "41.19759000",
+      "longitude": "-73.96458000"
+    },
+    {
+      "id": 118153,
+      "name": "Haviland",
+      "latitude": "41.76676000",
+      "longitude": "-73.90152000"
+    },
+    {
+      "id": 118174,
+      "name": "Hawthorne",
+      "latitude": "41.10732000",
+      "longitude": "-73.79597000"
+    },
+    {
+      "id": 118215,
+      "name": "Head of the Harbor",
+      "latitude": "40.90343000",
+      "longitude": "-73.15789000"
+    },
+    {
+      "id": 118270,
+      "name": "Hempstead",
+      "latitude": "40.70621000",
+      "longitude": "-73.61874000"
+    },
+    {
+      "id": 118318,
+      "name": "Heritage Hills",
+      "latitude": "41.33954000",
+      "longitude": "-73.69735000"
+    },
+    {
+      "id": 118323,
+      "name": "Herkimer",
+      "latitude": "43.02563000",
+      "longitude": "-74.98599000"
+    },
+    {
+      "id": 118324,
+      "name": "Herkimer County",
+      "latitude": "43.41970000",
+      "longitude": "-74.96250000"
+    },
+    {
+      "id": 118337,
+      "name": "Herricks",
+      "latitude": "40.75538000",
+      "longitude": "-73.66680000"
+    },
+    {
+      "id": 118349,
+      "name": "Hewlett",
+      "latitude": "40.64316000",
+      "longitude": "-73.69569000"
+    },
+    {
+      "id": 118350,
+      "name": "Hewlett Harbor",
+      "latitude": "40.63621000",
+      "longitude": "-73.68152000"
+    },
+    {
+      "id": 118371,
+      "name": "Hicksville",
+      "latitude": "40.76843000",
+      "longitude": "-73.52513000"
+    },
+    {
+      "id": 118397,
+      "name": "Highland",
+      "latitude": "41.72093000",
+      "longitude": "-73.96014000"
+    },
+    {
+      "id": 118405,
+      "name": "Highland Falls",
+      "latitude": "41.36926000",
+      "longitude": "-73.96625000"
+    },
+    {
+      "id": 118409,
+      "name": "Highland Mills",
+      "latitude": "41.34704000",
+      "longitude": "-74.12626000"
+    },
+    {
+      "id": 118440,
+      "name": "Hillcrest",
+      "latitude": "41.12787000",
+      "longitude": "-74.04097000"
+    },
+    {
+      "id": 118465,
+      "name": "Hillside",
+      "latitude": "40.70788000",
+      "longitude": "-73.78680000"
+    },
+    {
+      "id": 118466,
+      "name": "Hillside Lake",
+      "latitude": "41.61482000",
+      "longitude": "-73.79819000"
+    },
+    {
+      "id": 118473,
+      "name": "Hilton",
+      "latitude": "43.28812000",
+      "longitude": "-77.79334000"
+    },
+    {
+      "id": 118518,
+      "name": "Holbrook",
+      "latitude": "40.81232000",
+      "longitude": "-73.07844000"
+    },
+    {
+      "id": 118520,
+      "name": "Holcomb",
+      "latitude": "42.90229000",
+      "longitude": "-77.41971000"
+    },
+    {
+      "id": 118540,
+      "name": "Holland",
+      "latitude": "42.64117000",
+      "longitude": "-78.54169000"
+    },
+    {
+      "id": 118543,
+      "name": "Holley",
+      "latitude": "43.22645000",
+      "longitude": "-78.02668000"
+    },
+    {
+      "id": 118549,
+      "name": "Hollis",
+      "latitude": "40.71344000",
+      "longitude": "-73.76708000"
+    },
+    {
+      "id": 118580,
+      "name": "Holtsville",
+      "latitude": "40.81538000",
+      "longitude": "-73.04511000"
+    },
+    {
+      "id": 118596,
+      "name": "Homer",
+      "latitude": "42.63701000",
+      "longitude": "-76.17882000"
+    },
+    {
+      "id": 118617,
+      "name": "Honeoye Falls",
+      "latitude": "42.95229000",
+      "longitude": "-77.59028000"
+    },
+    {
+      "id": 118637,
+      "name": "Hoosick Falls",
+      "latitude": "42.90119000",
+      "longitude": "-73.35150000"
+    },
+    {
+      "id": 118667,
+      "name": "Hornell",
+      "latitude": "42.32785000",
+      "longitude": "-77.66110000"
+    },
+    {
+      "id": 118673,
+      "name": "Horseheads",
+      "latitude": "42.16702000",
+      "longitude": "-76.82051000"
+    },
+    {
+      "id": 118674,
+      "name": "Horseheads North",
+      "latitude": "42.19278000",
+      "longitude": "-76.80782000"
+    },
+    {
+      "id": 118690,
+      "name": "Houghton",
+      "latitude": "42.42340000",
+      "longitude": "-78.15723000"
+    },
+    {
+      "id": 118710,
+      "name": "Howard Beach",
+      "latitude": "40.65788000",
+      "longitude": "-73.83625000"
+    },
+    {
+      "id": 118744,
+      "name": "Hudson",
+      "latitude": "42.25286000",
+      "longitude": "-73.79096000"
+    },
+    {
+      "id": 118750,
+      "name": "Hudson Falls",
+      "latitude": "43.30063000",
+      "longitude": "-73.58595000"
+    },
+    {
+      "id": 118769,
+      "name": "Huguenot",
+      "latitude": "40.53733000",
+      "longitude": "-74.19459000"
+    },
+    {
+      "id": 118802,
+      "name": "Huntington",
+      "latitude": "40.86815000",
+      "longitude": "-73.42568000"
+    },
+    {
+      "id": 118804,
+      "name": "Huntington Bay",
+      "latitude": "40.89982000",
+      "longitude": "-73.41484000"
+    },
+    {
+      "id": 118808,
+      "name": "Huntington Station",
+      "latitude": "40.85343000",
+      "longitude": "-73.41151000"
+    },
+    {
+      "id": 118813,
+      "name": "Hunts Point",
+      "latitude": "40.81260000",
+      "longitude": "-73.88402000"
+    },
+    {
+      "id": 118820,
+      "name": "Hurley",
+      "latitude": "41.92454000",
+      "longitude": "-74.06125000"
+    },
+    {
+      "id": 118850,
+      "name": "Hyde Park",
+      "latitude": "41.78482000",
+      "longitude": "-73.93319000"
+    },
+    {
+      "id": 118878,
+      "name": "Ilion",
+      "latitude": "43.01507000",
+      "longitude": "-75.03543000"
+    },
+    {
+      "id": 118963,
+      "name": "Inwood",
+      "latitude": "40.86566000",
+      "longitude": "-73.92680000"
+    },
+    {
+      "id": 118996,
+      "name": "Irondequoit",
+      "latitude": "43.21340000",
+      "longitude": "-77.57972000"
+    },
+    {
+      "id": 119010,
+      "name": "Irvington",
+      "latitude": "41.03922000",
+      "longitude": "-73.86823000"
+    },
+    {
+      "id": 119027,
+      "name": "Island Park",
+      "latitude": "40.60427000",
+      "longitude": "-73.65541000"
+    },
+    {
+      "id": 119029,
+      "name": "Islandia",
+      "latitude": "40.80426000",
+      "longitude": "-73.16900000"
+    },
+    {
+      "id": 119034,
+      "name": "Islip",
+      "latitude": "40.72982000",
+      "longitude": "-73.21039000"
+    },
+    {
+      "id": 119035,
+      "name": "Islip Terrace",
+      "latitude": "40.74315000",
+      "longitude": "-73.19262000"
+    },
+    {
+      "id": 119044,
+      "name": "Ithaca",
+      "latitude": "42.44063000",
+      "longitude": "-76.49661000"
+    },
+    {
+      "id": 119097,
+      "name": "Jackson Heights",
+      "latitude": "40.75566000",
+      "longitude": "-73.88541000"
+    },
+    {
+      "id": 119111,
+      "name": "Jamaica",
+      "latitude": "40.69149000",
+      "longitude": "-73.80569000"
+    },
+    {
+      "id": 119119,
+      "name": "Jamesport",
+      "latitude": "40.94954000",
+      "longitude": "-72.58148000"
+    },
+    {
+      "id": 119124,
+      "name": "Jamestown",
+      "latitude": "42.09700000",
+      "longitude": "-79.23533000"
+    },
+    {
+      "id": 119127,
+      "name": "Jamestown West",
+      "latitude": "42.08851000",
+      "longitude": "-79.28110000"
+    },
+    {
+      "id": 119191,
+      "name": "Jefferson County",
+      "latitude": "43.99885000",
+      "longitude": "-76.05211000"
+    },
+    {
+      "id": 119201,
+      "name": "Jefferson Heights",
+      "latitude": "42.23398000",
+      "longitude": "-73.88235000"
+    },
+    {
+      "id": 119204,
+      "name": "Jefferson Valley-Yorktown",
+      "latitude": "41.31797000",
+      "longitude": "-73.80066000"
+    },
+    {
+      "id": 119224,
+      "name": "Jericho",
+      "latitude": "40.79204000",
+      "longitude": "-73.53985000"
+    },
+    {
+      "id": 119259,
+      "name": "Johnson City",
+      "latitude": "42.11563000",
+      "longitude": "-75.95881000"
+    },
+    {
+      "id": 119284,
+      "name": "Johnstown",
+      "latitude": "43.00674000",
+      "longitude": "-74.36764000"
+    },
+    {
+      "id": 119316,
+      "name": "Jordan",
+      "latitude": "43.06534000",
+      "longitude": "-76.47299000"
+    },
+    {
+      "id": 119391,
+      "name": "Kaser",
+      "latitude": "41.12121000",
+      "longitude": "-74.06709000"
+    },
+    {
+      "id": 119394,
+      "name": "Katonah",
+      "latitude": "41.25898000",
+      "longitude": "-73.68541000"
+    },
+    {
+      "id": 119423,
+      "name": "Keeseville",
+      "latitude": "44.50505000",
+      "longitude": "-73.48013000"
+    },
+    {
+      "id": 119462,
+      "name": "Kenmore",
+      "latitude": "42.96589000",
+      "longitude": "-78.87004000"
+    },
+    {
+      "id": 119483,
+      "name": "Kensington",
+      "latitude": "40.79343000",
+      "longitude": "-73.72208000"
+    },
+    {
+      "id": 119511,
+      "name": "Kerhonkson",
+      "latitude": "41.77482000",
+      "longitude": "-74.29821000"
+    },
+    {
+      "id": 119529,
+      "name": "Keuka Park",
+      "latitude": "42.61535000",
+      "longitude": "-77.09219000"
+    },
+    {
+      "id": 119530,
+      "name": "Kew Gardens",
+      "latitude": "40.71427000",
+      "longitude": "-73.83097000"
+    },
+    {
+      "id": 119531,
+      "name": "Kew Gardens Hills",
+      "latitude": "40.73002000",
+      "longitude": "-73.82340000"
+    },
+    {
+      "id": 119550,
+      "name": "Kiantone",
+      "latitude": "42.02200000",
+      "longitude": "-79.19810000"
+    },
+    {
+      "id": 119575,
+      "name": "Kinderhook",
+      "latitude": "42.39536000",
+      "longitude": "-73.69790000"
+    },
+    {
+      "id": 119599,
+      "name": "Kings Bridge",
+      "latitude": "40.87871000",
+      "longitude": "-73.90514000"
+    },
+    {
+      "id": 119601,
+      "name": "Kings County",
+      "latitude": "40.63439000",
+      "longitude": "-73.95027000"
+    },
+    {
+      "id": 119605,
+      "name": "Kings Park",
+      "latitude": "40.88621000",
+      "longitude": "-73.25734000"
+    },
+    {
+      "id": 119608,
+      "name": "Kings Point",
+      "latitude": "40.81982000",
+      "longitude": "-73.73513000"
+    },
+    {
+      "id": 119627,
+      "name": "Kingston",
+      "latitude": "41.92704000",
+      "longitude": "-73.99736000"
+    },
+    {
+      "id": 119656,
+      "name": "Kiryas Joel",
+      "latitude": "41.34204000",
+      "longitude": "-74.16792000"
+    },
+    {
+      "id": 119813,
+      "name": "Lackawanna",
+      "latitude": "42.82561000",
+      "longitude": "-78.82337000"
+    },
+    {
+      "id": 119875,
+      "name": "Lake Carmel",
+      "latitude": "41.46148000",
+      "longitude": "-73.67096000"
+    },
+    {
+      "id": 119907,
+      "name": "Lake Erie Beach",
+      "latitude": "42.62423000",
+      "longitude": "-79.06698000"
+    },
+    {
+      "id": 119914,
+      "name": "Lake Grove",
+      "latitude": "40.85288000",
+      "longitude": "-73.11511000"
+    },
+    {
+      "id": 119926,
+      "name": "Lake Katrine",
+      "latitude": "41.98565000",
+      "longitude": "-73.98819000"
+    },
+    {
+      "id": 119935,
+      "name": "Lake Luzerne",
+      "latitude": "43.31285000",
+      "longitude": "-73.83484000"
+    },
+    {
+      "id": 119945,
+      "name": "Lake Mohegan",
+      "latitude": "41.31787000",
+      "longitude": "-73.84625000"
+    },
+    {
+      "id": 119963,
+      "name": "Lake Placid",
+      "latitude": "44.27962000",
+      "longitude": "-73.98198000"
+    },
+    {
+      "id": 119964,
+      "name": "Lake Pleasant",
+      "latitude": "43.47090000",
+      "longitude": "-74.41265000"
+    },
+    {
+      "id": 119970,
+      "name": "Lake Ronkonkoma",
+      "latitude": "40.83510000",
+      "longitude": "-73.13122000"
+    },
+    {
+      "id": 119982,
+      "name": "Lake Success",
+      "latitude": "40.77066000",
+      "longitude": "-73.71763000"
+    },
+    {
+      "id": 120016,
+      "name": "Lakeland",
+      "latitude": "43.09034000",
+      "longitude": "-76.24048000"
+    },
+    {
+      "id": 120039,
+      "name": "Lakeview",
+      "latitude": "40.68538000",
+      "longitude": "-73.65263000"
+    },
+    {
+      "id": 120049,
+      "name": "Lakewood",
+      "latitude": "42.10422000",
+      "longitude": "-79.33310000"
+    },
+    {
+      "id": 120086,
+      "name": "Lancaster",
+      "latitude": "42.90061000",
+      "longitude": "-78.67031000"
+    },
+    {
+      "id": 120128,
+      "name": "Lansing",
+      "latitude": "42.48424000",
+      "longitude": "-76.47994000"
+    },
+    {
+      "id": 120141,
+      "name": "Larchmont",
+      "latitude": "40.92788000",
+      "longitude": "-73.75180000"
+    },
+    {
+      "id": 120168,
+      "name": "Latham",
+      "latitude": "42.74702000",
+      "longitude": "-73.75901000"
+    },
+    {
+      "id": 120177,
+      "name": "Lattingtown",
+      "latitude": "40.89538000",
+      "longitude": "-73.60096000"
+    },
+    {
+      "id": 120192,
+      "name": "Laurel",
+      "latitude": "40.96954000",
+      "longitude": "-72.56203000"
+    },
+    {
+      "id": 120198,
+      "name": "Laurel Hollow",
+      "latitude": "40.85677000",
+      "longitude": "-73.46957000"
+    },
+    {
+      "id": 120204,
+      "name": "Laurelton",
+      "latitude": "40.67019000",
+      "longitude": "-73.74659000"
+    },
+    {
+      "id": 120228,
+      "name": "Lawrence",
+      "latitude": "40.61566000",
+      "longitude": "-73.72958000"
+    },
+    {
+      "id": 120263,
+      "name": "Le Roy",
+      "latitude": "42.97839000",
+      "longitude": "-77.98418000"
+    },
+    {
+      "id": 120407,
+      "name": "Levittown",
+      "latitude": "40.72593000",
+      "longitude": "-73.51429000"
+    },
+    {
+      "id": 120415,
+      "name": "Lewis County",
+      "latitude": "43.78469000",
+      "longitude": "-75.44879000"
+    },
+    {
+      "id": 120426,
+      "name": "Lewiston",
+      "latitude": "43.17256000",
+      "longitude": "-79.03588000"
+    },
+    {
+      "id": 120466,
+      "name": "Liberty",
+      "latitude": "41.80120000",
+      "longitude": "-74.74655000"
+    },
+    {
+      "id": 120478,
+      "name": "Lido Beach",
+      "latitude": "40.58899000",
+      "longitude": "-73.62541000"
+    },
+    {
+      "id": 120489,
+      "name": "Lima",
+      "latitude": "42.90479000",
+      "longitude": "-77.61139000"
+    },
+    {
+      "id": 120543,
+      "name": "Lincoln Park",
+      "latitude": "41.95065000",
+      "longitude": "-73.99403000"
+    },
+    {
+      "id": 120548,
+      "name": "Lincolndale",
+      "latitude": "41.32287000",
+      "longitude": "-73.71819000"
+    },
+    {
+      "id": 120568,
+      "name": "Lindenhurst",
+      "latitude": "40.68677000",
+      "longitude": "-73.37345000"
+    },
+    {
+      "id": 120570,
+      "name": "Lindley",
+      "latitude": "42.02841000",
+      "longitude": "-77.13969000"
+    },
+    {
+      "id": 120619,
+      "name": "Little Falls",
+      "latitude": "43.04340000",
+      "longitude": "-74.85960000"
+    },
+    {
+      "id": 120622,
+      "name": "Little Neck",
+      "latitude": "40.76289000",
+      "longitude": "-73.73225000"
+    },
+    {
+      "id": 120631,
+      "name": "Little Valley",
+      "latitude": "42.25256000",
+      "longitude": "-78.80559000"
+    },
+    {
+      "id": 120646,
+      "name": "Liverpool",
+      "latitude": "43.10646000",
+      "longitude": "-76.21770000"
+    },
+    {
+      "id": 120658,
+      "name": "Livingston County",
+      "latitude": "42.72808000",
+      "longitude": "-77.77549000"
+    },
+    {
+      "id": 120659,
+      "name": "Livingston Manor",
+      "latitude": "41.90037000",
+      "longitude": "-74.82822000"
+    },
+    {
+      "id": 120663,
+      "name": "Livonia",
+      "latitude": "42.82145000",
+      "longitude": "-77.66861000"
+    },
+    {
+      "id": 120667,
+      "name": "Lloyd Harbor",
+      "latitude": "40.90343000",
+      "longitude": "-73.45984000"
+    },
+    {
+      "id": 120681,
+      "name": "Lockport",
+      "latitude": "43.17061000",
+      "longitude": "-78.69031000"
+    },
+    {
+      "id": 120688,
+      "name": "Locust Valley",
+      "latitude": "40.87593000",
+      "longitude": "-73.59707000"
+    },
+    {
+      "id": 120737,
+      "name": "Long Beach",
+      "latitude": "40.58844000",
+      "longitude": "-73.65791000"
+    },
+    {
+      "id": 120745,
+      "name": "Long Island City",
+      "latitude": "40.74482000",
+      "longitude": "-73.94875000"
+    },
+    {
+      "id": 120772,
+      "name": "Lorenz Park",
+      "latitude": "42.26370000",
+      "longitude": "-73.76846000"
+    },
+    {
+      "id": 120850,
+      "name": "Lowville",
+      "latitude": "43.78674000",
+      "longitude": "-75.49185000"
+    },
+    {
+      "id": 120913,
+      "name": "Lynbrook",
+      "latitude": "40.65483000",
+      "longitude": "-73.67180000"
+    },
+    {
+      "id": 120917,
+      "name": "Lyncourt",
+      "latitude": "43.08146000",
+      "longitude": "-76.12576000"
+    },
+    {
+      "id": 120943,
+      "name": "Lyons",
+      "latitude": "43.06423000",
+      "longitude": "-76.99025000"
+    },
+    {
+      "id": 120954,
+      "name": "Macedon",
+      "latitude": "43.06923000",
+      "longitude": "-77.29887000"
+    },
+    {
+      "id": 121017,
+      "name": "Madison County",
+      "latitude": "42.91277000",
+      "longitude": "-75.66967000"
+    },
+    {
+      "id": 121046,
+      "name": "Mahopac",
+      "latitude": "41.37232000",
+      "longitude": "-73.73346000"
+    },
+    {
+      "id": 121066,
+      "name": "Malone",
+      "latitude": "44.84866000",
+      "longitude": "-74.29490000"
+    },
+    {
+      "id": 121074,
+      "name": "Malverne",
+      "latitude": "40.67899000",
+      "longitude": "-73.67402000"
+    },
+    {
+      "id": 121075,
+      "name": "Mamaroneck",
+      "latitude": "40.94871000",
+      "longitude": "-73.73263000"
+    },
+    {
+      "id": 121099,
+      "name": "Manchester",
+      "latitude": "42.96979000",
+      "longitude": "-77.23026000"
+    },
+    {
+      "id": 121111,
+      "name": "Manhasset",
+      "latitude": "40.79788000",
+      "longitude": "-73.69957000"
+    },
+    {
+      "id": 121112,
+      "name": "Manhasset Hills",
+      "latitude": "40.75927000",
+      "longitude": "-73.67985000"
+    },
+    {
+      "id": 121115,
+      "name": "Manhattan",
+      "latitude": "40.78343000",
+      "longitude": "-73.96625000"
+    },
+    {
+      "id": 121131,
+      "name": "Manlius",
+      "latitude": "43.00201000",
+      "longitude": "-75.97686000"
+    },
+    {
+      "id": 121140,
+      "name": "Manorhaven",
+      "latitude": "40.84316000",
+      "longitude": "-73.71485000"
+    },
+    {
+      "id": 121141,
+      "name": "Manorville",
+      "latitude": "40.87371000",
+      "longitude": "-72.80788000"
+    },
+    {
+      "id": 121191,
+      "name": "Marbletown",
+      "latitude": "41.88343000",
+      "longitude": "-74.11320000"
+    },
+    {
+      "id": 121195,
+      "name": "Marcellus",
+      "latitude": "42.98284000",
+      "longitude": "-76.34049000"
+    },
+    {
+      "id": 121227,
+      "name": "Mariners Harbor",
+      "latitude": "40.63677000",
+      "longitude": "-74.15875000"
+    },
+    {
+      "id": 121244,
+      "name": "Marion",
+      "latitude": "43.14340000",
+      "longitude": "-77.18915000"
+    },
+    {
+      "id": 121275,
+      "name": "Marlboro",
+      "latitude": "41.60565000",
+      "longitude": "-73.97153000"
+    },
+    {
+      "id": 121386,
+      "name": "Maspeth",
+      "latitude": "40.72316000",
+      "longitude": "-73.91264000"
+    },
+    {
+      "id": 121391,
+      "name": "Massapequa",
+      "latitude": "40.68066000",
+      "longitude": "-73.47429000"
+    },
+    {
+      "id": 121392,
+      "name": "Massapequa Park",
+      "latitude": "40.68038000",
+      "longitude": "-73.45512000"
+    },
+    {
+      "id": 121393,
+      "name": "Massena",
+      "latitude": "44.92810000",
+      "longitude": "-74.89186000"
+    },
+    {
+      "id": 121394,
+      "name": "Mastic",
+      "latitude": "40.80204000",
+      "longitude": "-72.84094000"
+    },
+    {
+      "id": 121395,
+      "name": "Mastic Beach",
+      "latitude": "40.76677000",
+      "longitude": "-72.85205000"
+    },
+    {
+      "id": 121413,
+      "name": "Mattituck",
+      "latitude": "40.99121000",
+      "longitude": "-72.53425000"
+    },
+    {
+      "id": 121415,
+      "name": "Mattydale",
+      "latitude": "43.09784000",
+      "longitude": "-76.14520000"
+    },
+    {
+      "id": 121431,
+      "name": "Maybrook",
+      "latitude": "41.48398000",
+      "longitude": "-74.21765000"
+    },
+    {
+      "id": 121455,
+      "name": "Mayville",
+      "latitude": "42.25395000",
+      "longitude": "-79.50449000"
+    },
+    {
+      "id": 121504,
+      "name": "McGraw",
+      "latitude": "42.59618000",
+      "longitude": "-76.09326000"
+    },
+    {
+      "id": 121526,
+      "name": "McKownville",
+      "latitude": "42.68397000",
+      "longitude": "-73.84762000"
+    },
+    {
+      "id": 121581,
+      "name": "Mechanicstown",
+      "latitude": "41.44287000",
+      "longitude": "-74.38849000"
+    },
+    {
+      "id": 121586,
+      "name": "Mechanicville",
+      "latitude": "42.90285000",
+      "longitude": "-73.68734000"
+    },
+    {
+      "id": 121594,
+      "name": "Medford",
+      "latitude": "40.81760000",
+      "longitude": "-73.00011000"
+    },
+    {
+      "id": 121605,
+      "name": "Medina",
+      "latitude": "43.22006000",
+      "longitude": "-78.38697000"
+    },
+    {
+      "id": 121630,
+      "name": "Melrose",
+      "latitude": "40.82455000",
+      "longitude": "-73.91041000"
+    },
+    {
+      "id": 121633,
+      "name": "Melrose Park",
+      "latitude": "42.90868000",
+      "longitude": "-76.54022000"
+    },
+    {
+      "id": 121635,
+      "name": "Melville",
+      "latitude": "40.79343000",
+      "longitude": "-73.41512000"
+    },
+    {
+      "id": 121645,
+      "name": "Menands",
+      "latitude": "42.69202000",
+      "longitude": "-73.72456000"
+    },
+    {
+      "id": 121704,
+      "name": "Merrick",
+      "latitude": "40.66288000",
+      "longitude": "-73.55152000"
+    },
+    {
+      "id": 121715,
+      "name": "Merritt Park",
+      "latitude": "41.53848000",
+      "longitude": "-73.87238000"
+    },
+    {
+      "id": 121743,
+      "name": "Mexico",
+      "latitude": "43.45951000",
+      "longitude": "-76.22882000"
+    },
+    {
+      "id": 121761,
+      "name": "Middle Island",
+      "latitude": "40.88427000",
+      "longitude": "-72.93733000"
+    },
+    {
+      "id": 121764,
+      "name": "Middle Village",
+      "latitude": "40.71649000",
+      "longitude": "-73.88125000"
+    },
+    {
+      "id": 121770,
+      "name": "Middleburgh",
+      "latitude": "42.59869000",
+      "longitude": "-74.33292000"
+    },
+    {
+      "id": 121775,
+      "name": "Middleport",
+      "latitude": "43.21256000",
+      "longitude": "-78.47641000"
+    },
+    {
+      "id": 121791,
+      "name": "Middletown",
+      "latitude": "41.44593000",
+      "longitude": "-74.42293000"
+    },
+    {
+      "id": 121802,
+      "name": "Midland Beach",
+      "latitude": "40.57316000",
+      "longitude": "-74.09459000"
+    },
+    {
+      "id": 121866,
+      "name": "Mill Neck",
+      "latitude": "40.88704000",
+      "longitude": "-73.55512000"
+    },
+    {
+      "id": 121873,
+      "name": "Millbrook",
+      "latitude": "41.78509000",
+      "longitude": "-73.69402000"
+    },
+    {
+      "id": 121883,
+      "name": "Miller Place",
+      "latitude": "40.95982000",
+      "longitude": "-72.99621000"
+    },
+    {
+      "id": 121916,
+      "name": "Milton",
+      "latitude": "43.03369000",
+      "longitude": "-73.85262000"
+    },
+    {
+      "id": 121932,
+      "name": "Mineola",
+      "latitude": "40.74927000",
+      "longitude": "-73.64068000"
+    },
+    {
+      "id": 121944,
+      "name": "Minetto",
+      "latitude": "43.39812000",
+      "longitude": "-76.47744000"
+    },
+    {
+      "id": 121945,
+      "name": "Mineville",
+      "latitude": "44.09283000",
+      "longitude": "-73.51818000"
+    },
+    {
+      "id": 121960,
+      "name": "Minoa",
+      "latitude": "43.07618000",
+      "longitude": "-76.00075000"
+    },
+    {
+      "id": 122021,
+      "name": "Mohawk",
+      "latitude": "43.01146000",
+      "longitude": "-75.00404000"
+    },
+    {
+      "id": 122062,
+      "name": "Monroe",
+      "latitude": "41.33065000",
+      "longitude": "-74.18681000"
+    },
+    {
+      "id": 122080,
+      "name": "Monroe County",
+      "latitude": "43.16512000",
+      "longitude": "-77.63626000"
+    },
+    {
+      "id": 122089,
+      "name": "Monsey",
+      "latitude": "41.11121000",
+      "longitude": "-74.06848000"
+    },
+    {
+      "id": 122103,
+      "name": "Montauk",
+      "latitude": "41.03594000",
+      "longitude": "-71.95451000"
+    },
+    {
+      "id": 122113,
+      "name": "Montebello",
+      "latitude": "41.13593000",
+      "longitude": "-74.11848000"
+    },
+    {
+      "id": 122135,
+      "name": "Montgomery",
+      "latitude": "41.52759000",
+      "longitude": "-74.23682000"
+    },
+    {
+      "id": 122154,
+      "name": "Montgomery County",
+      "latitude": "42.90228000",
+      "longitude": "-74.43968000"
+    },
+    {
+      "id": 122169,
+      "name": "Monticello",
+      "latitude": "41.65565000",
+      "longitude": "-74.68933000"
+    },
+    {
+      "id": 122174,
+      "name": "Montour Falls",
+      "latitude": "42.34730000",
+      "longitude": "-76.84524000"
+    },
+    {
+      "id": 122182,
+      "name": "Montrose",
+      "latitude": "41.25232000",
+      "longitude": "-73.93153000"
+    },
+    {
+      "id": 122223,
+      "name": "Moravia",
+      "latitude": "42.71257000",
+      "longitude": "-76.42160000"
+    },
+    {
+      "id": 122256,
+      "name": "Moriches",
+      "latitude": "40.80732000",
+      "longitude": "-72.82121000"
+    },
+    {
+      "id": 122258,
+      "name": "Morningside Heights",
+      "latitude": "40.81000000",
+      "longitude": "-73.96250000"
+    },
+    {
+      "id": 122272,
+      "name": "Morris Heights",
+      "latitude": "40.84982000",
+      "longitude": "-73.91986000"
+    },
+    {
+      "id": 122273,
+      "name": "Morris Park",
+      "latitude": "40.85232000",
+      "longitude": "-73.85347000"
+    },
+    {
+      "id": 122275,
+      "name": "Morrisania",
+      "latitude": "40.82927000",
+      "longitude": "-73.90653000"
+    },
+    {
+      "id": 122279,
+      "name": "Morrisonville",
+      "latitude": "44.69310000",
+      "longitude": "-73.56208000"
+    },
+    {
+      "id": 122285,
+      "name": "Morrisville",
+      "latitude": "42.89868000",
+      "longitude": "-75.64018000"
+    },
+    {
+      "id": 122313,
+      "name": "Mott Haven",
+      "latitude": "40.80899000",
+      "longitude": "-73.92291000"
+    },
+    {
+      "id": 122356,
+      "name": "Mount Ivy",
+      "latitude": "41.18676000",
+      "longitude": "-74.03486000"
+    },
+    {
+      "id": 122360,
+      "name": "Mount Kisco",
+      "latitude": "41.20426000",
+      "longitude": "-73.72708000"
+    },
+    {
+      "id": 122365,
+      "name": "Mount Morris",
+      "latitude": "42.72562000",
+      "longitude": "-77.87417000"
+    },
+    {
+      "id": 122389,
+      "name": "Mount Sinai",
+      "latitude": "40.94704000",
+      "longitude": "-73.02955000"
+    },
+    {
+      "id": 122402,
+      "name": "Mount Vernon",
+      "latitude": "40.91260000",
+      "longitude": "-73.83708000"
+    },
+    {
+      "id": 122423,
+      "name": "Mountain Lodge Park",
+      "latitude": "41.38843000",
+      "longitude": "-74.14181000"
+    },
+    {
+      "id": 122476,
+      "name": "Munsey Park",
+      "latitude": "40.79871000",
+      "longitude": "-73.67985000"
+    },
+    {
+      "id": 122477,
+      "name": "Munsons Corners",
+      "latitude": "42.58229000",
+      "longitude": "-76.20910000"
+    },
+    {
+      "id": 122516,
+      "name": "Muttontown",
+      "latitude": "40.82399000",
+      "longitude": "-73.54763000"
+    },
+    {
+      "id": 122517,
+      "name": "Myers Corner",
+      "latitude": "41.60620000",
+      "longitude": "-73.87291000"
+    },
+    {
+      "id": 122545,
+      "name": "Nanuet",
+      "latitude": "41.08871000",
+      "longitude": "-74.01347000"
+    },
+    {
+      "id": 122548,
+      "name": "Napanoch",
+      "latitude": "41.74398000",
+      "longitude": "-74.37154000"
+    },
+    {
+      "id": 122554,
+      "name": "Naples",
+      "latitude": "42.61535000",
+      "longitude": "-77.40249000"
+    },
+    {
+      "id": 122580,
+      "name": "Nassau",
+      "latitude": "42.51591000",
+      "longitude": "-73.61012000"
+    },
+    {
+      "id": 122583,
+      "name": "Nassau County",
+      "latitude": "40.73217000",
+      "longitude": "-73.58545000"
+    },
+    {
+      "id": 122612,
+      "name": "Nedrow",
+      "latitude": "42.97507000",
+      "longitude": "-76.14131000"
+    },
+    {
+      "id": 122636,
+      "name": "Neponsit",
+      "latitude": "40.57177000",
+      "longitude": "-73.86152000"
+    },
+    {
+      "id": 122639,
+      "name": "Nesconset",
+      "latitude": "40.85204000",
+      "longitude": "-73.15400000"
+    },
+    {
+      "id": 122672,
+      "name": "New Brighton",
+      "latitude": "40.64233000",
+      "longitude": "-74.09292000"
+    },
+    {
+      "id": 122682,
+      "name": "New Cassel",
+      "latitude": "40.75899000",
+      "longitude": "-73.56957000"
+    },
+    {
+      "id": 122695,
+      "name": "New City",
+      "latitude": "41.14760000",
+      "longitude": "-73.98931000"
+    },
+    {
+      "id": 122699,
+      "name": "New Dorp",
+      "latitude": "40.57399000",
+      "longitude": "-74.11598000"
+    },
+    {
+      "id": 122700,
+      "name": "New Dorp Beach",
+      "latitude": "40.56538000",
+      "longitude": "-74.10292000"
+    },
+    {
+      "id": 122712,
+      "name": "New Hartford",
+      "latitude": "43.07340000",
+      "longitude": "-75.28767000"
+    },
+    {
+      "id": 122720,
+      "name": "New Hempstead",
+      "latitude": "41.14982000",
+      "longitude": "-74.03375000"
+    },
+    {
+      "id": 122729,
+      "name": "New Hyde Park",
+      "latitude": "40.73510000",
+      "longitude": "-73.68791000"
+    },
+    {
+      "id": 122759,
+      "name": "New Paltz",
+      "latitude": "41.74759000",
+      "longitude": "-74.08681000"
+    },
+    {
+      "id": 122773,
+      "name": "New Rochelle",
+      "latitude": "40.91149000",
+      "longitude": "-73.78235000"
+    },
+    {
+      "id": 122781,
+      "name": "New Springville",
+      "latitude": "40.59344000",
+      "longitude": "-74.16320000"
+    },
+    {
+      "id": 122782,
+      "name": "New Square",
+      "latitude": "41.13956000",
+      "longitude": "-74.02942000"
+    },
+    {
+      "id": 122794,
+      "name": "New Windsor",
+      "latitude": "41.47676000",
+      "longitude": "-74.02375000"
+    },
+    {
+      "id": 122795,
+      "name": "New York City",
+      "latitude": "40.71427000",
+      "longitude": "-74.00597000"
+    },
+    {
+      "id": 122798,
+      "name": "New York Mills",
+      "latitude": "43.10535000",
+      "longitude": "-75.29128000"
+    },
+    {
+      "id": 122804,
+      "name": "Newark",
+      "latitude": "43.04673000",
+      "longitude": "-77.09525000"
+    },
+    {
+      "id": 122817,
+      "name": "Newburgh",
+      "latitude": "41.50343000",
+      "longitude": "-74.01042000"
+    },
+    {
+      "id": 122826,
+      "name": "Newfane",
+      "latitude": "43.28672000",
+      "longitude": "-78.71031000"
+    },
+    {
+      "id": 122881,
+      "name": "Niagara County",
+      "latitude": "43.17314000",
+      "longitude": "-78.69095000"
+    },
+    {
+      "id": 122882,
+      "name": "Niagara Falls",
+      "latitude": "43.09450000",
+      "longitude": "-79.05671000"
+    },
+    {
+      "id": 122906,
+      "name": "Niskayuna",
+      "latitude": "42.77980000",
+      "longitude": "-73.84568000"
+    },
+    {
+      "id": 122907,
+      "name": "Nissequogue",
+      "latitude": "40.90399000",
+      "longitude": "-73.19789000"
+    },
+    {
+      "id": 122910,
+      "name": "Niverville",
+      "latitude": "42.44092000",
+      "longitude": "-73.66095000"
+    },
+    {
+      "id": 122944,
+      "name": "Norfolk",
+      "latitude": "44.80089000",
+      "longitude": "-74.99103000"
+    },
+    {
+      "id": 122961,
+      "name": "North Amityville",
+      "latitude": "40.69760000",
+      "longitude": "-73.42512000"
+    },
+    {
+      "id": 122971,
+      "name": "North Babylon",
+      "latitude": "40.71649000",
+      "longitude": "-73.32179000"
+    },
+    {
+      "id": 122972,
+      "name": "North Ballston Spa",
+      "latitude": "43.01969000",
+      "longitude": "-73.85109000"
+    },
+    {
+      "id": 122975,
+      "name": "North Bay Shore",
+      "latitude": "40.73621000",
+      "longitude": "-73.26262000"
+    },
+    {
+      "id": 122981,
+      "name": "North Bellmore",
+      "latitude": "40.69149000",
+      "longitude": "-73.53346000"
+    },
+    {
+      "id": 122982,
+      "name": "North Bellport",
+      "latitude": "40.77427000",
+      "longitude": "-72.94288000"
+    },
+    {
+      "id": 122991,
+      "name": "North Boston",
+      "latitude": "42.68562000",
+      "longitude": "-78.77670000"
+    },
+    {
+      "id": 123001,
+      "name": "North Castle",
+      "latitude": "41.14000000",
+      "longitude": "-73.68389000"
+    },
+    {
+      "id": 123008,
+      "name": "North Collins",
+      "latitude": "42.59534000",
+      "longitude": "-78.94115000"
+    },
+    {
+      "id": 123022,
+      "name": "North Elba",
+      "latitude": "44.24338000",
+      "longitude": "-73.95431000"
+    },
+    {
+      "id": 123030,
+      "name": "North Gates",
+      "latitude": "43.17645000",
+      "longitude": "-77.70139000"
+    },
+    {
+      "id": 123032,
+      "name": "North Great River",
+      "latitude": "40.74732000",
+      "longitude": "-73.16984000"
+    },
+    {
+      "id": 123040,
+      "name": "North Hills",
+      "latitude": "40.78093000",
+      "longitude": "-73.67652000"
+    },
+    {
+      "id": 123058,
+      "name": "North Lindenhurst",
+      "latitude": "40.71427000",
+      "longitude": "-73.38151000"
+    },
+    {
+      "id": 123064,
+      "name": "North Massapequa",
+      "latitude": "40.70093000",
+      "longitude": "-73.46207000"
+    },
+    {
+      "id": 123065,
+      "name": "North Merrick",
+      "latitude": "40.69121000",
+      "longitude": "-73.56318000"
+    },
+    {
+      "id": 123071,
+      "name": "North New Hyde Park",
+      "latitude": "40.74316000",
+      "longitude": "-73.69319000"
+    },
+    {
+      "id": 123076,
+      "name": "North Patchogue",
+      "latitude": "40.78704000",
+      "longitude": "-73.00900000"
+    },
+    {
+      "id": 123103,
+      "name": "North Sea",
+      "latitude": "40.93288000",
+      "longitude": "-72.41425000"
+    },
+    {
+      "id": 123113,
+      "name": "North Syracuse",
+      "latitude": "43.13479000",
+      "longitude": "-76.12992000"
+    },
+    {
+      "id": 123115,
+      "name": "North Tonawanda",
+      "latitude": "43.03867000",
+      "longitude": "-78.86420000"
+    },
+    {
+      "id": 123120,
+      "name": "North Valley Stream",
+      "latitude": "40.68510000",
+      "longitude": "-73.70180000"
+    },
+    {
+      "id": 123124,
+      "name": "North Wantagh",
+      "latitude": "40.69343000",
+      "longitude": "-73.50763000"
+    },
+    {
+      "id": 123146,
+      "name": "Northeast Ithaca",
+      "latitude": "42.47032000",
+      "longitude": "-76.46228000"
+    },
+    {
+      "id": 123162,
+      "name": "Northport",
+      "latitude": "40.90093000",
+      "longitude": "-73.34317000"
+    },
+    {
+      "id": 123165,
+      "name": "Northumberland",
+      "latitude": "43.12730000",
+      "longitude": "-73.58817000"
+    },
+    {
+      "id": 123172,
+      "name": "Northville",
+      "latitude": "40.97010000",
+      "longitude": "-72.61898000"
+    },
+    {
+      "id": 123174,
+      "name": "Northwest Harbor",
+      "latitude": "41.00982000",
+      "longitude": "-72.22119000"
+    },
+    {
+      "id": 123178,
+      "name": "Northwest Ithaca",
+      "latitude": "42.47059000",
+      "longitude": "-76.54145000"
+    },
+    {
+      "id": 123196,
+      "name": "Norwich",
+      "latitude": "42.53118000",
+      "longitude": "-75.52351000"
+    },
+    {
+      "id": 123201,
+      "name": "Norwood",
+      "latitude": "44.75145000",
+      "longitude": "-74.99436000"
+    },
+    {
+      "id": 123213,
+      "name": "Noyack",
+      "latitude": "40.99566000",
+      "longitude": "-72.34119000"
+    },
+    {
+      "id": 123217,
+      "name": "Nunda",
+      "latitude": "42.57951000",
+      "longitude": "-77.94250000"
+    },
+    {
+      "id": 123221,
+      "name": "Nyack",
+      "latitude": "41.09065000",
+      "longitude": "-73.91791000"
+    },
+    {
+      "id": 123272,
+      "name": "Oakdale",
+      "latitude": "40.74399000",
+      "longitude": "-73.13872000"
+    },
+    {
+      "id": 123276,
+      "name": "Oakfield",
+      "latitude": "43.06589000",
+      "longitude": "-78.26974000"
+    },
+    {
+      "id": 123310,
+      "name": "Oakwood",
+      "latitude": "40.56399000",
+      "longitude": "-74.11598000"
+    },
+    {
+      "id": 123343,
+      "name": "Oceanside",
+      "latitude": "40.63871000",
+      "longitude": "-73.64013000"
+    },
+    {
+      "id": 123372,
+      "name": "Ogdensburg",
+      "latitude": "44.69423000",
+      "longitude": "-75.48634000"
+    },
+    {
+      "id": 123414,
+      "name": "Olcott",
+      "latitude": "43.33783000",
+      "longitude": "-78.71476000"
+    },
+    {
+      "id": 123415,
+      "name": "Old Bethpage",
+      "latitude": "40.76260000",
+      "longitude": "-73.45318000"
+    },
+    {
+      "id": 123417,
+      "name": "Old Brookville",
+      "latitude": "40.83204000",
+      "longitude": "-73.60485000"
+    },
+    {
+      "id": 123431,
+      "name": "Old Westbury",
+      "latitude": "40.78871000",
+      "longitude": "-73.59957000"
+    },
+    {
+      "id": 123435,
+      "name": "Olean",
+      "latitude": "42.07756000",
+      "longitude": "-78.42974000"
+    },
+    {
+      "id": 123473,
+      "name": "Oneida",
+      "latitude": "43.09257000",
+      "longitude": "-75.65129000"
+    },
+    {
+      "id": 123475,
+      "name": "Oneida County",
+      "latitude": "43.24175000",
+      "longitude": "-75.43584000"
+    },
+    {
+      "id": 123479,
+      "name": "Oneonta",
+      "latitude": "42.45286000",
+      "longitude": "-75.06377000"
+    },
+    {
+      "id": 123482,
+      "name": "Onondaga County",
+      "latitude": "43.00580000",
+      "longitude": "-76.19464000"
+    },
+    {
+      "id": 123485,
+      "name": "Ontario",
+      "latitude": "43.22090000",
+      "longitude": "-77.28304000"
+    },
+    {
+      "id": 123488,
+      "name": "Ontario County",
+      "latitude": "42.85285000",
+      "longitude": "-77.29982000"
+    },
+    {
+      "id": 123519,
+      "name": "Orange County",
+      "latitude": "41.40214000",
+      "longitude": "-74.30557000"
+    },
+    {
+      "id": 123524,
+      "name": "Orange Lake",
+      "latitude": "41.53982000",
+      "longitude": "-74.09820000"
+    },
+    {
+      "id": 123527,
+      "name": "Orangeburg",
+      "latitude": "41.04649000",
+      "longitude": "-73.94958000"
+    },
+    {
+      "id": 123538,
+      "name": "Orchard Park",
+      "latitude": "42.76756000",
+      "longitude": "-78.74392000"
+    },
+    {
+      "id": 123557,
+      "name": "Oriskany",
+      "latitude": "43.15729000",
+      "longitude": "-75.33267000"
+    },
+    {
+      "id": 123565,
+      "name": "Orleans County",
+      "latitude": "43.25070000",
+      "longitude": "-78.18901000"
+    },
+    {
+      "id": 123617,
+      "name": "Ossining",
+      "latitude": "41.16287000",
+      "longitude": "-73.86152000"
+    },
+    {
+      "id": 123623,
+      "name": "Oswego",
+      "latitude": "43.45535000",
+      "longitude": "-76.51050000"
+    },
+    {
+      "id": 123624,
+      "name": "Oswego County",
+      "latitude": "43.46389000",
+      "longitude": "-76.20868000"
+    },
+    {
+      "id": 123630,
+      "name": "Otisville",
+      "latitude": "41.47343000",
+      "longitude": "-74.53849000"
+    },
+    {
+      "id": 123635,
+      "name": "Otsego County",
+      "latitude": "42.63376000",
+      "longitude": "-75.03261000"
+    },
+    {
+      "id": 123660,
+      "name": "Owego",
+      "latitude": "42.10341000",
+      "longitude": "-76.26215000"
+    },
+    {
+      "id": 123687,
+      "name": "Oxford",
+      "latitude": "42.44202000",
+      "longitude": "-75.59769000"
+    },
+    {
+      "id": 123693,
+      "name": "Oyster Bay",
+      "latitude": "40.86565000",
+      "longitude": "-73.53207000"
+    },
+    {
+      "id": 123694,
+      "name": "Oyster Bay Cove",
+      "latitude": "40.87093000",
+      "longitude": "-73.51096000"
+    },
+    {
+      "id": 123702,
+      "name": "Ozone Park",
+      "latitude": "40.67677000",
+      "longitude": "-73.84375000"
+    },
+    {
+      "id": 123727,
+      "name": "Painted Post",
+      "latitude": "42.16202000",
+      "longitude": "-77.09414000"
+    },
+    {
+      "id": 123733,
+      "name": "Palenville",
+      "latitude": "42.17453000",
+      "longitude": "-74.02014000"
+    },
+    {
+      "id": 123776,
+      "name": "Palmyra",
+      "latitude": "43.06395000",
+      "longitude": "-77.23332000"
+    },
+    {
+      "id": 123854,
+      "name": "Park Slope",
+      "latitude": "40.67010000",
+      "longitude": "-73.98597000"
+    },
+    {
+      "id": 123856,
+      "name": "Parkchester",
+      "latitude": "40.83899000",
+      "longitude": "-73.86041000"
+    },
+    {
+      "id": 123910,
+      "name": "Patchogue",
+      "latitude": "40.76565000",
+      "longitude": "-73.01511000"
+    },
+    {
+      "id": 123932,
+      "name": "Pawling",
+      "latitude": "41.56204000",
+      "longitude": "-73.60263000"
+    },
+    {
+      "id": 123957,
+      "name": "Peach Lake",
+      "latitude": "41.36759000",
+      "longitude": "-73.57790000"
+    },
+    {
+      "id": 123968,
+      "name": "Pearl River",
+      "latitude": "41.05899000",
+      "longitude": "-74.02181000"
+    },
+    {
+      "id": 123984,
+      "name": "Peekskill",
+      "latitude": "41.29009000",
+      "longitude": "-73.92042000"
+    },
+    {
+      "id": 123992,
+      "name": "Pelham",
+      "latitude": "40.90982000",
+      "longitude": "-73.80791000"
+    },
+    {
+      "id": 123993,
+      "name": "Pelham Manor",
+      "latitude": "40.89538000",
+      "longitude": "-73.80708000"
+    },
+    {
+      "id": 124026,
+      "name": "Penn Yan",
+      "latitude": "42.66090000",
+      "longitude": "-77.05386000"
+    },
+    {
+      "id": 124072,
+      "name": "Perry",
+      "latitude": "42.71562000",
+      "longitude": "-78.00556000"
+    },
+    {
+      "id": 124093,
+      "name": "Perth",
+      "latitude": "43.01757000",
+      "longitude": "-74.19402000"
+    },
+    {
+      "id": 124098,
+      "name": "Peru",
+      "latitude": "44.57838000",
+      "longitude": "-73.52680000"
+    },
+    {
+      "id": 124120,
+      "name": "Phelps",
+      "latitude": "42.95756000",
+      "longitude": "-77.05747000"
+    },
+    {
+      "id": 124127,
+      "name": "Philadelphia",
+      "latitude": "44.15450000",
+      "longitude": "-75.70882000"
+    },
+    {
+      "id": 124142,
+      "name": "Philmont",
+      "latitude": "42.24842000",
+      "longitude": "-73.65318000"
+    },
+    {
+      "id": 124147,
+      "name": "Phoenix",
+      "latitude": "43.23118000",
+      "longitude": "-76.30076000"
+    },
+    {
+      "id": 124177,
+      "name": "Piermont",
+      "latitude": "41.04204000",
+      "longitude": "-73.91819000"
+    },
+    {
+      "id": 124216,
+      "name": "Pine Bush",
+      "latitude": "41.60815000",
+      "longitude": "-74.29904000"
+    },
+    {
+      "id": 124240,
+      "name": "Pine Plains",
+      "latitude": "41.97981000",
+      "longitude": "-73.65596000"
+    },
+    {
+      "id": 124302,
+      "name": "Pittsford",
+      "latitude": "43.09062000",
+      "longitude": "-77.51500000"
+    },
+    {
+      "id": 124317,
+      "name": "Plainedge",
+      "latitude": "40.71732000",
+      "longitude": "-73.48374000"
+    },
+    {
+      "id": 124330,
+      "name": "Plainview",
+      "latitude": "40.77649000",
+      "longitude": "-73.46735000"
+    },
+    {
+      "id": 124339,
+      "name": "Plandome",
+      "latitude": "40.80677000",
+      "longitude": "-73.70346000"
+    },
+    {
+      "id": 124340,
+      "name": "Plandome Heights",
+      "latitude": "40.80260000",
+      "longitude": "-73.70430000"
+    },
+    {
+      "id": 124356,
+      "name": "Plattekill",
+      "latitude": "41.61759000",
+      "longitude": "-74.07598000"
+    },
+    {
+      "id": 124360,
+      "name": "Plattsburgh",
+      "latitude": "44.69949000",
+      "longitude": "-73.45291000"
+    },
+    {
+      "id": 124361,
+      "name": "Plattsburgh West",
+      "latitude": "44.68315000",
+      "longitude": "-73.50295000"
+    },
+    {
+      "id": 124379,
+      "name": "Pleasant Valley",
+      "latitude": "41.74454000",
+      "longitude": "-73.82124000"
+    },
+    {
+      "id": 124388,
+      "name": "Pleasantville",
+      "latitude": "41.13287000",
+      "longitude": "-73.79263000"
+    },
+    {
+      "id": 124423,
+      "name": "Poestenkill",
+      "latitude": "42.69036000",
+      "longitude": "-73.56456000"
+    },
+    {
+      "id": 124428,
+      "name": "Point Lookout",
+      "latitude": "40.59233000",
+      "longitude": "-73.58068000"
+    },
+    {
+      "id": 124458,
+      "name": "Pomona",
+      "latitude": "41.16704000",
+      "longitude": "-74.04320000"
+    },
+    {
+      "id": 124500,
+      "name": "Port Byron",
+      "latitude": "43.03451000",
+      "longitude": "-76.62383000"
+    },
+    {
+      "id": 124503,
+      "name": "Port Chester",
+      "latitude": "41.00176000",
+      "longitude": "-73.66568000"
+    },
+    {
+      "id": 124504,
+      "name": "Port Dickinson",
+      "latitude": "42.13341000",
+      "longitude": "-75.89631000"
+    },
+    {
+      "id": 124506,
+      "name": "Port Ewen",
+      "latitude": "41.90537000",
+      "longitude": "-73.97625000"
+    },
+    {
+      "id": 124509,
+      "name": "Port Henry",
+      "latitude": "44.04839000",
+      "longitude": "-73.45985000"
+    },
+    {
+      "id": 124513,
+      "name": "Port Jefferson",
+      "latitude": "40.94649000",
+      "longitude": "-73.06927000"
+    },
+    {
+      "id": 124514,
+      "name": "Port Jefferson Station",
+      "latitude": "40.92538000",
+      "longitude": "-73.04733000"
+    },
+    {
+      "id": 124515,
+      "name": "Port Jervis",
+      "latitude": "41.37509000",
+      "longitude": "-74.69266000"
+    },
+    {
+      "id": 124520,
+      "name": "Port Morris",
+      "latitude": "40.80149000",
+      "longitude": "-73.90958000"
+    },
+    {
+      "id": 124530,
+      "name": "Port Richmond",
+      "latitude": "40.63316000",
+      "longitude": "-74.13653000"
+    },
+    {
+      "id": 124539,
+      "name": "Port Washington",
+      "latitude": "40.82566000",
+      "longitude": "-73.69819000"
+    },
+    {
+      "id": 124541,
+      "name": "Port Washington North",
+      "latitude": "40.84482000",
+      "longitude": "-73.70180000"
+    },
+    {
+      "id": 124563,
+      "name": "Portland",
+      "latitude": "42.37978000",
+      "longitude": "-79.46755000"
+    },
+    {
+      "id": 124588,
+      "name": "Potsdam",
+      "latitude": "44.66978000",
+      "longitude": "-74.98131000"
+    },
+    {
+      "id": 124602,
+      "name": "Poughkeepsie",
+      "latitude": "41.70037000",
+      "longitude": "-73.92097000"
+    },
+    {
+      "id": 124605,
+      "name": "Pound Ridge",
+      "latitude": "41.20871000",
+      "longitude": "-73.57485000"
+    },
+    {
+      "id": 124735,
+      "name": "Pulaski",
+      "latitude": "43.56701000",
+      "longitude": "-76.12770000"
+    },
+    {
+      "id": 124755,
+      "name": "Purchase",
+      "latitude": "41.04093000",
+      "longitude": "-73.71457000"
+    },
+    {
+      "id": 124768,
+      "name": "Putnam County",
+      "latitude": "41.42666000",
+      "longitude": "-73.74951000"
+    },
+    {
+      "id": 124769,
+      "name": "Putnam Lake",
+      "latitude": "41.46204000",
+      "longitude": "-73.54624000"
+    },
+    {
+      "id": 124790,
+      "name": "Queens",
+      "latitude": "40.68149000",
+      "longitude": "-73.83652000"
+    },
+    {
+      "id": 124791,
+      "name": "Queens County",
+      "latitude": "40.65749000",
+      "longitude": "-73.83875000"
+    },
+    {
+      "id": 124792,
+      "name": "Queens Village",
+      "latitude": "40.72677000",
+      "longitude": "-73.74152000"
+    },
+    {
+      "id": 124793,
+      "name": "Queensbury",
+      "latitude": "43.37729000",
+      "longitude": "-73.61317000"
+    },
+    {
+      "id": 124867,
+      "name": "Randolph",
+      "latitude": "42.16201000",
+      "longitude": "-78.97532000"
+    },
+    {
+      "id": 124889,
+      "name": "Ransomville",
+      "latitude": "43.23867000",
+      "longitude": "-78.90976000"
+    },
+    {
+      "id": 124897,
+      "name": "Rapids",
+      "latitude": "43.09839000",
+      "longitude": "-78.64086000"
+    },
+    {
+      "id": 124905,
+      "name": "Ravena",
+      "latitude": "42.46841000",
+      "longitude": "-73.81624000"
+    },
+    {
+      "id": 124948,
+      "name": "Red Hook",
+      "latitude": "41.99509000",
+      "longitude": "-73.87541000"
+    },
+    {
+      "id": 124958,
+      "name": "Red Oaks Mill",
+      "latitude": "41.65565000",
+      "longitude": "-73.87486000"
+    },
+    {
+      "id": 125002,
+      "name": "Rego Park",
+      "latitude": "40.72649000",
+      "longitude": "-73.85264000"
+    },
+    {
+      "id": 125016,
+      "name": "Remsenburg-Speonk",
+      "latitude": "40.82642000",
+      "longitude": "-72.69673000"
+    },
+    {
+      "id": 125024,
+      "name": "Rensselaer",
+      "latitude": "42.64258000",
+      "longitude": "-73.74290000"
+    },
+    {
+      "id": 125025,
+      "name": "Rensselaer County",
+      "latitude": "42.71105000",
+      "longitude": "-73.50972000"
+    },
+    {
+      "id": 125045,
+      "name": "Rhinebeck",
+      "latitude": "41.92676000",
+      "longitude": "-73.91264000"
+    },
+    {
+      "id": 125064,
+      "name": "Richfield Springs",
+      "latitude": "42.85341000",
+      "longitude": "-74.98543000"
+    },
+    {
+      "id": 125070,
+      "name": "Richland",
+      "latitude": "43.56951000",
+      "longitude": "-76.04770000"
+    },
+    {
+      "id": 125101,
+      "name": "Richmond County",
+      "latitude": "40.58344000",
+      "longitude": "-74.14959000"
+    },
+    {
+      "id": 125105,
+      "name": "Richmond Hill",
+      "latitude": "40.69983000",
+      "longitude": "-73.83125000"
+    },
+    {
+      "id": 125114,
+      "name": "Ridge",
+      "latitude": "40.89399000",
+      "longitude": "-72.89594000"
+    },
+    {
+      "id": 125132,
+      "name": "Ridgewood",
+      "latitude": "40.70010000",
+      "longitude": "-73.90569000"
+    },
+    {
+      "id": 125195,
+      "name": "Riverdale",
+      "latitude": "40.90056000",
+      "longitude": "-73.90639000"
+    },
+    {
+      "id": 125200,
+      "name": "Riverhead",
+      "latitude": "40.91704000",
+      "longitude": "-72.66204000"
+    },
+    {
+      "id": 125207,
+      "name": "Riverside",
+      "latitude": "40.88121000",
+      "longitude": "-72.67787000"
+    },
+    {
+      "id": 125267,
+      "name": "Rochester",
+      "latitude": "43.15478000",
+      "longitude": "-77.61556000"
+    },
+    {
+      "id": 125281,
+      "name": "Rock Hill",
+      "latitude": "41.62593000",
+      "longitude": "-74.59766000"
+    },
+    {
+      "id": 125291,
+      "name": "Rockaway Point",
+      "latitude": "40.56066000",
+      "longitude": "-73.91514000"
+    },
+    {
+      "id": 125310,
+      "name": "Rockland County",
+      "latitude": "41.15243000",
+      "longitude": "-74.02409000"
+    },
+    {
+      "id": 125325,
+      "name": "Rockville Centre",
+      "latitude": "40.65871000",
+      "longitude": "-73.64124000"
+    },
+    {
+      "id": 125338,
+      "name": "Rocky Point",
+      "latitude": "40.95260000",
+      "longitude": "-72.92538000"
+    },
+    {
+      "id": 125346,
+      "name": "Roessleville",
+      "latitude": "42.69508000",
+      "longitude": "-73.80707000"
+    },
+    {
+      "id": 125378,
+      "name": "Rome",
+      "latitude": "43.21285000",
+      "longitude": "-75.45573000"
+    },
+    {
+      "id": 125388,
+      "name": "Ronkonkoma",
+      "latitude": "40.81538000",
+      "longitude": "-73.11233000"
+    },
+    {
+      "id": 125391,
+      "name": "Roosevelt",
+      "latitude": "40.67871000",
+      "longitude": "-73.58902000"
+    },
+    {
+      "id": 125409,
+      "name": "Rosebank",
+      "latitude": "40.61399000",
+      "longitude": "-74.06625000"
+    },
+    {
+      "id": 125418,
+      "name": "Rosedale",
+      "latitude": "40.66205000",
+      "longitude": "-73.73541000"
+    },
+    {
+      "id": 125435,
+      "name": "Rosendale Village",
+      "latitude": "41.85038000",
+      "longitude": "-74.07379000"
+    },
+    {
+      "id": 125447,
+      "name": "Roslyn",
+      "latitude": "40.79982000",
+      "longitude": "-73.65096000"
+    },
+    {
+      "id": 125448,
+      "name": "Roslyn Estates",
+      "latitude": "40.79427000",
+      "longitude": "-73.66041000"
+    },
+    {
+      "id": 125449,
+      "name": "Roslyn Harbor",
+      "latitude": "40.81649000",
+      "longitude": "-73.63707000"
+    },
+    {
+      "id": 125450,
+      "name": "Roslyn Heights",
+      "latitude": "40.78871000",
+      "longitude": "-73.64735000"
+    },
+    {
+      "id": 125461,
+      "name": "Rossville",
+      "latitude": "40.55566000",
+      "longitude": "-74.21348000"
+    },
+    {
+      "id": 125468,
+      "name": "Rotterdam",
+      "latitude": "42.78702000",
+      "longitude": "-73.97096000"
+    },
+    {
+      "id": 125475,
+      "name": "Rouses Point",
+      "latitude": "44.99393000",
+      "longitude": "-73.36486000"
+    },
+    {
+      "id": 125562,
+      "name": "Rye",
+      "latitude": "40.98065000",
+      "longitude": "-73.68374000"
+    },
+    {
+      "id": 125563,
+      "name": "Rye Brook",
+      "latitude": "41.01926000",
+      "longitude": "-73.68346000"
+    },
+    {
+      "id": 125575,
+      "name": "Sackets Harbor",
+      "latitude": "43.94617000",
+      "longitude": "-76.11909000"
+    },
+    {
+      "id": 125584,
+      "name": "Sag Harbor",
+      "latitude": "40.99788000",
+      "longitude": "-72.29258000"
+    },
+    {
+      "id": 125609,
+      "name": "Saint Bonaventure",
+      "latitude": "42.08034000",
+      "longitude": "-78.47502000"
+    },
+    {
+      "id": 125656,
+      "name": "Saint James",
+      "latitude": "40.87899000",
+      "longitude": "-73.15678000"
+    },
+    {
+      "id": 125669,
+      "name": "Saint Johnsville",
+      "latitude": "42.99813000",
+      "longitude": "-74.68292000"
+    },
+    {
+      "id": 125723,
+      "name": "Salamanca",
+      "latitude": "42.15784000",
+      "longitude": "-78.71503000"
+    },
+    {
+      "id": 125759,
+      "name": "Salisbury",
+      "latitude": "40.74566000",
+      "longitude": "-73.56013000"
+    },
+    {
+      "id": 125854,
+      "name": "Sanborn",
+      "latitude": "43.13672000",
+      "longitude": "-78.88476000"
+    },
+    {
+      "id": 125872,
+      "name": "Sands Point",
+      "latitude": "40.85177000",
+      "longitude": "-73.71874000"
+    },
+    {
+      "id": 125936,
+      "name": "Saranac Lake",
+      "latitude": "44.32950000",
+      "longitude": "-74.13127000"
+    },
+    {
+      "id": 125943,
+      "name": "Saratoga County",
+      "latitude": "43.10738000",
+      "longitude": "-73.86390000"
+    },
+    {
+      "id": 125944,
+      "name": "Saratoga Springs",
+      "latitude": "43.08313000",
+      "longitude": "-73.78457000"
+    },
+    {
+      "id": 125959,
+      "name": "Saugerties",
+      "latitude": "42.07759000",
+      "longitude": "-73.95291000"
+    },
+    {
+      "id": 125960,
+      "name": "Saugerties South",
+      "latitude": "42.06139000",
+      "longitude": "-73.95067000"
+    },
+    {
+      "id": 125993,
+      "name": "Sayville",
+      "latitude": "40.73593000",
+      "longitude": "-73.08206000"
+    },
+    {
+      "id": 125998,
+      "name": "Scarsdale",
+      "latitude": "41.00510000",
+      "longitude": "-73.78458000"
+    },
+    {
+      "id": 126003,
+      "name": "Schenectady",
+      "latitude": "42.81424000",
+      "longitude": "-73.93957000"
+    },
+    {
+      "id": 126004,
+      "name": "Schenectady County",
+      "latitude": "42.81812000",
+      "longitude": "-74.05857000"
+    },
+    {
+      "id": 126015,
+      "name": "Schoharie",
+      "latitude": "42.66591000",
+      "longitude": "-74.30958000"
+    },
+    {
+      "id": 126016,
+      "name": "Schoharie County",
+      "latitude": "42.58822000",
+      "longitude": "-74.44212000"
+    },
+    {
+      "id": 126024,
+      "name": "Schuyler County",
+      "latitude": "42.39380000",
+      "longitude": "-76.87518000"
+    },
+    {
+      "id": 126025,
+      "name": "Schuylerville",
+      "latitude": "43.10008000",
+      "longitude": "-73.58178000"
+    },
+    {
+      "id": 126033,
+      "name": "Scotchtown",
+      "latitude": "41.48148000",
+      "longitude": "-74.36015000"
+    },
+    {
+      "id": 126034,
+      "name": "Scotia",
+      "latitude": "42.82647000",
+      "longitude": "-73.96429000"
+    },
+    {
+      "id": 126065,
+      "name": "Scottsville",
+      "latitude": "43.02590000",
+      "longitude": "-77.74528000"
+    },
+    {
+      "id": 126072,
+      "name": "Sea Cliff",
+      "latitude": "40.84899000",
+      "longitude": "-73.64485000"
+    },
+    {
+      "id": 126086,
+      "name": "Seaford",
+      "latitude": "40.66593000",
+      "longitude": "-73.48818000"
+    },
+    {
+      "id": 126094,
+      "name": "Searingtown",
+      "latitude": "40.77482000",
+      "longitude": "-73.65568000"
+    },
+    {
+      "id": 126098,
+      "name": "Seaside",
+      "latitude": "40.58316000",
+      "longitude": "-73.82819000"
+    },
+    {
+      "id": 126133,
+      "name": "Selden",
+      "latitude": "40.86649000",
+      "longitude": "-73.03566000"
+    },
+    {
+      "id": 126159,
+      "name": "Seneca County",
+      "latitude": "42.78108000",
+      "longitude": "-76.82378000"
+    },
+    {
+      "id": 126160,
+      "name": "Seneca Falls",
+      "latitude": "42.91062000",
+      "longitude": "-76.79662000"
+    },
+    {
+      "id": 126161,
+      "name": "Seneca Knolls",
+      "latitude": "43.12007000",
+      "longitude": "-76.28632000"
+    },
+    {
+      "id": 126169,
+      "name": "Setauket-East Setauket",
+      "latitude": "40.93064000",
+      "longitude": "-73.10179000"
+    },
+    {
+      "id": 126258,
+      "name": "Sheepshead Bay",
+      "latitude": "40.59122000",
+      "longitude": "-73.94458000"
+    },
+    {
+      "id": 126295,
+      "name": "Shelter Island",
+      "latitude": "41.06815000",
+      "longitude": "-72.33869000"
+    },
+    {
+      "id": 126296,
+      "name": "Shelter Island Heights",
+      "latitude": "41.08399000",
+      "longitude": "-72.35592000"
+    },
+    {
+      "id": 126308,
+      "name": "Shenorock",
+      "latitude": "41.33176000",
+      "longitude": "-73.73819000"
+    },
+    {
+      "id": 126315,
+      "name": "Sherburne",
+      "latitude": "42.67813000",
+      "longitude": "-75.49851000"
+    },
+    {
+      "id": 126338,
+      "name": "Sherrill",
+      "latitude": "43.07368000",
+      "longitude": "-75.59824000"
+    },
+    {
+      "id": 126354,
+      "name": "Shinnecock Hills",
+      "latitude": "40.89093000",
+      "longitude": "-72.46370000"
+    },
+    {
+      "id": 126361,
+      "name": "Shirley",
+      "latitude": "40.80149000",
+      "longitude": "-72.86760000"
+    },
+    {
+      "id": 126366,
+      "name": "Shokan",
+      "latitude": "41.97343000",
+      "longitude": "-74.21209000"
+    },
+    {
+      "id": 126378,
+      "name": "Shortsville",
+      "latitude": "42.95590000",
+      "longitude": "-77.22081000"
+    },
+    {
+      "id": 126387,
+      "name": "Shrub Oak",
+      "latitude": "41.32759000",
+      "longitude": "-73.81958000"
+    },
+    {
+      "id": 126397,
+      "name": "Sidney",
+      "latitude": "42.31480000",
+      "longitude": "-75.39157000"
+    },
+    {
+      "id": 126423,
+      "name": "Silver Creek",
+      "latitude": "42.54423000",
+      "longitude": "-79.16671000"
+    },
+    {
+      "id": 126477,
+      "name": "Skaneateles",
+      "latitude": "42.94701000",
+      "longitude": "-76.42910000"
+    },
+    {
+      "id": 126498,
+      "name": "Sleepy Hollow",
+      "latitude": "41.08565000",
+      "longitude": "-73.85847000"
+    },
+    {
+      "id": 126504,
+      "name": "Sloan",
+      "latitude": "42.89339000",
+      "longitude": "-78.79392000"
+    },
+    {
+      "id": 126505,
+      "name": "Sloatsburg",
+      "latitude": "41.15454000",
+      "longitude": "-74.19292000"
+    },
+    {
+      "id": 126526,
+      "name": "Smithtown",
+      "latitude": "40.85593000",
+      "longitude": "-73.20067000"
+    },
+    {
+      "id": 126564,
+      "name": "Sodus",
+      "latitude": "43.23784000",
+      "longitude": "-77.06136000"
+    },
+    {
+      "id": 126573,
+      "name": "Solvay",
+      "latitude": "43.05812000",
+      "longitude": "-76.20743000"
+    },
+    {
+      "id": 126609,
+      "name": "Sound Beach",
+      "latitude": "40.95621000",
+      "longitude": "-72.96788000"
+    },
+    {
+      "id": 126620,
+      "name": "South Beach",
+      "latitude": "40.58329000",
+      "longitude": "-74.07609000"
+    },
+    {
+      "id": 126627,
+      "name": "South Blooming Grove",
+      "latitude": "41.37337000",
+      "longitude": "-74.17843000"
+    },
+    {
+      "id": 126643,
+      "name": "South Corning",
+      "latitude": "42.12174000",
+      "longitude": "-77.03719000"
+    },
+    {
+      "id": 126653,
+      "name": "South Fallsburg",
+      "latitude": "41.72065000",
+      "longitude": "-74.63433000"
+    },
+    {
+      "id": 126654,
+      "name": "South Farmingdale",
+      "latitude": "40.72066000",
+      "longitude": "-73.44012000"
+    },
+    {
+      "id": 126655,
+      "name": "South Floral Park",
+      "latitude": "40.71427000",
+      "longitude": "-73.70013000"
+    },
+    {
+      "id": 126661,
+      "name": "South Glens Falls",
+      "latitude": "43.29924000",
+      "longitude": "-73.63512000"
+    },
+    {
+      "id": 126668,
+      "name": "South Hempstead",
+      "latitude": "40.68094000",
+      "longitude": "-73.61541000"
+    },
+    {
+      "id": 126672,
+      "name": "South Hill",
+      "latitude": "42.42924000",
+      "longitude": "-76.49494000"
+    },
+    {
+      "id": 126677,
+      "name": "South Huntington",
+      "latitude": "40.82371000",
+      "longitude": "-73.39873000"
+    },
+    {
+      "id": 126689,
+      "name": "South Lockport",
+      "latitude": "43.15006000",
+      "longitude": "-78.69670000"
+    },
+    {
+      "id": 126695,
+      "name": "South Nyack",
+      "latitude": "41.08315000",
+      "longitude": "-73.92014000"
+    },
+    {
+      "id": 126741,
+      "name": "South Valley Stream",
+      "latitude": "40.65594000",
+      "longitude": "-73.71763000"
+    },
+    {
+      "id": 126758,
+      "name": "Southampton",
+      "latitude": "40.88427000",
+      "longitude": "-72.38953000"
+    },
+    {
+      "id": 126781,
+      "name": "Southold",
+      "latitude": "41.06482000",
+      "longitude": "-72.42620000"
+    },
+    {
+      "id": 126785,
+      "name": "Southport",
+      "latitude": "42.05480000",
+      "longitude": "-76.81912000"
+    },
+    {
+      "id": 126794,
+      "name": "Spackenkill",
+      "latitude": "41.65593000",
+      "longitude": "-73.91347000"
+    },
+    {
+      "id": 126802,
+      "name": "Sparkill",
+      "latitude": "41.03121000",
+      "longitude": "-73.92708000"
+    },
+    {
+      "id": 126830,
+      "name": "Spencerport",
+      "latitude": "43.18645000",
+      "longitude": "-77.80390000"
+    },
+    {
+      "id": 126877,
+      "name": "Spring Valley",
+      "latitude": "41.11315000",
+      "longitude": "-74.04375000"
+    },
+    {
+      "id": 126903,
+      "name": "Springfield",
+      "latitude": "42.83618000",
+      "longitude": "-74.85348000"
+    },
+    {
+      "id": 126908,
+      "name": "Springfield Gardens",
+      "latitude": "40.66312000",
+      "longitude": "-73.76221000"
+    },
+    {
+      "id": 126910,
+      "name": "Springs",
+      "latitude": "41.01621000",
+      "longitude": "-72.15924000"
+    },
+    {
+      "id": 126917,
+      "name": "Springville",
+      "latitude": "42.50840000",
+      "longitude": "-78.66725000"
+    },
+    {
+      "id": 126923,
+      "name": "Spuyten Duyvil",
+      "latitude": "40.88121000",
+      "longitude": "-73.91736000"
+    },
+    {
+      "id": 126927,
+      "name": "St. Lawrence County",
+      "latitude": "44.50062000",
+      "longitude": "-75.11631000"
+    },
+    {
+      "id": 126945,
+      "name": "Stamford",
+      "latitude": "42.40730000",
+      "longitude": "-74.61432000"
+    },
+    {
+      "id": 126976,
+      "name": "Stapleton",
+      "latitude": "40.62649000",
+      "longitude": "-74.07764000"
+    },
+    {
+      "id": 126995,
+      "name": "Staten Island",
+      "latitude": "40.56233000",
+      "longitude": "-74.13986000"
+    },
+    {
+      "id": 127019,
+      "name": "Steinway",
+      "latitude": "40.77455000",
+      "longitude": "-73.90375000"
+    },
+    {
+      "id": 127039,
+      "name": "Steuben County",
+      "latitude": "42.26781000",
+      "longitude": "-77.38380000"
+    },
+    {
+      "id": 127052,
+      "name": "Stewart Manor",
+      "latitude": "40.71927000",
+      "longitude": "-73.68846000"
+    },
+    {
+      "id": 127062,
+      "name": "Stillwater",
+      "latitude": "42.93841000",
+      "longitude": "-73.65317000"
+    },
+    {
+      "id": 127085,
+      "name": "Stone Ridge",
+      "latitude": "41.85315000",
+      "longitude": "-74.13903000"
+    },
+    {
+      "id": 127096,
+      "name": "Stony Brook",
+      "latitude": "40.92565000",
+      "longitude": "-73.14094000"
+    },
+    {
+      "id": 127100,
+      "name": "Stony Point",
+      "latitude": "41.22954000",
+      "longitude": "-73.98708000"
+    },
+    {
+      "id": 127108,
+      "name": "Stottville",
+      "latitude": "42.28620000",
+      "longitude": "-73.73873000"
+    },
+    {
+      "id": 127164,
+      "name": "Suffern",
+      "latitude": "41.11482000",
+      "longitude": "-74.14959000"
+    },
+    {
+      "id": 127168,
+      "name": "Suffolk County",
+      "latitude": "40.94046000",
+      "longitude": "-72.68524000"
+    },
+    {
+      "id": 127190,
+      "name": "Sullivan County",
+      "latitude": "41.71642000",
+      "longitude": "-74.76814000"
+    },
+    {
+      "id": 127258,
+      "name": "Sunnyside",
+      "latitude": "40.73982000",
+      "longitude": "-73.93542000"
+    },
+    {
+      "id": 127276,
+      "name": "Sunset Park",
+      "latitude": "40.64548000",
+      "longitude": "-74.01241000"
+    },
+    {
+      "id": 127356,
+      "name": "Sylvan Beach",
+      "latitude": "42.46479000",
+      "longitude": "-77.10830000"
+    },
+    {
+      "id": 127362,
+      "name": "Syosset",
+      "latitude": "40.82621000",
+      "longitude": "-73.50207000"
+    },
+    {
+      "id": 127365,
+      "name": "Syracuse",
+      "latitude": "43.04812000",
+      "longitude": "-76.14742000"
+    },
+    {
+      "id": 127426,
+      "name": "Tappan",
+      "latitude": "41.02204000",
+      "longitude": "-73.94736000"
+    },
+    {
+      "id": 127436,
+      "name": "Tarrytown",
+      "latitude": "41.07621000",
+      "longitude": "-73.85875000"
+    },
+    {
+      "id": 127517,
+      "name": "Terrace Heights",
+      "latitude": "40.72149000",
+      "longitude": "-73.76930000"
+    },
+    {
+      "id": 127536,
+      "name": "Terryville",
+      "latitude": "40.90899000",
+      "longitude": "-73.06511000"
+    },
+    {
+      "id": 127554,
+      "name": "The Bronx",
+      "latitude": "40.84985000",
+      "longitude": "-73.86641000"
+    },
+    {
+      "id": 127575,
+      "name": "Thiells",
+      "latitude": "41.21065000",
+      "longitude": "-74.01764000"
+    },
+    {
+      "id": 127586,
+      "name": "Thomaston",
+      "latitude": "40.78621000",
+      "longitude": "-73.71374000"
+    },
+    {
+      "id": 127606,
+      "name": "Thornwood",
+      "latitude": "41.12343000",
+      "longitude": "-73.77902000"
+    },
+    {
+      "id": 127625,
+      "name": "Throgs Neck",
+      "latitude": "40.82260000",
+      "longitude": "-73.81958000"
+    },
+    {
+      "id": 127635,
+      "name": "Ticonderoga",
+      "latitude": "43.84867000",
+      "longitude": "-73.42345000"
+    },
+    {
+      "id": 127652,
+      "name": "Tillson",
+      "latitude": "41.82898000",
+      "longitude": "-74.06848000"
+    },
+    {
+      "id": 127669,
+      "name": "Tioga County",
+      "latitude": "42.17030000",
+      "longitude": "-76.30632000"
+    },
+    {
+      "id": 127688,
+      "name": "Tivoli",
+      "latitude": "42.05842000",
+      "longitude": "-73.90930000"
+    },
+    {
+      "id": 127713,
+      "name": "Tompkins County",
+      "latitude": "42.45202000",
+      "longitude": "-76.47366000"
+    },
+    {
+      "id": 127715,
+      "name": "Tompkinsville",
+      "latitude": "40.63812000",
+      "longitude": "-74.07795000"
+    },
+    {
+      "id": 127718,
+      "name": "Tonawanda",
+      "latitude": "43.02033000",
+      "longitude": "-78.88031000"
+    },
+    {
+      "id": 127758,
+      "name": "Town Line",
+      "latitude": "42.89061000",
+      "longitude": "-78.57780000"
+    },
+    {
+      "id": 127795,
+      "name": "Tremont",
+      "latitude": "40.84954000",
+      "longitude": "-73.90569000"
+    },
+    {
+      "id": 127819,
+      "name": "Tribes Hill",
+      "latitude": "42.95535000",
+      "longitude": "-74.28513000"
+    },
+    {
+      "id": 127851,
+      "name": "Troy",
+      "latitude": "42.72841000",
+      "longitude": "-73.69179000"
+    },
+    {
+      "id": 127857,
+      "name": "Trumansburg",
+      "latitude": "42.54229000",
+      "longitude": "-76.66606000"
+    },
+    {
+      "id": 127869,
+      "name": "Tuckahoe",
+      "latitude": "40.95038000",
+      "longitude": "-73.82736000"
+    },
+    {
+      "id": 127898,
+      "name": "Tupper Lake",
+      "latitude": "44.22395000",
+      "longitude": "-74.46406000"
+    },
+    {
+      "id": 127959,
+      "name": "Ulster County",
+      "latitude": "41.88815000",
+      "longitude": "-74.25857000"
+    },
+    {
+      "id": 127965,
+      "name": "Unadilla",
+      "latitude": "42.32536000",
+      "longitude": "-75.31240000"
+    },
+    {
+      "id": 128012,
+      "name": "Union Springs",
+      "latitude": "42.83979000",
+      "longitude": "-76.69328000"
+    },
+    {
+      "id": 128013,
+      "name": "Uniondale",
+      "latitude": "40.70038000",
+      "longitude": "-73.59291000"
+    },
+    {
+      "id": 128014,
+      "name": "Unionport",
+      "latitude": "40.82732000",
+      "longitude": "-73.85013000"
+    },
+    {
+      "id": 128028,
+      "name": "University Gardens",
+      "latitude": "40.77732000",
+      "longitude": "-73.72263000"
+    },
+    {
+      "id": 128030,
+      "name": "University Heights",
+      "latitude": "40.86010000",
+      "longitude": "-73.90930000"
+    },
+    {
+      "id": 128042,
+      "name": "Upper Brookville",
+      "latitude": "40.83871000",
+      "longitude": "-73.56513000"
+    },
+    {
+      "id": 128048,
+      "name": "Upper Nyack",
+      "latitude": "41.10704000",
+      "longitude": "-73.92014000"
+    },
+    {
+      "id": 128067,
+      "name": "Utica",
+      "latitude": "43.10090000",
+      "longitude": "-75.23266000"
+    },
+    {
+      "id": 128077,
+      "name": "Vails Gate",
+      "latitude": "41.45426000",
+      "longitude": "-74.05764000"
+    },
+    {
+      "id": 128081,
+      "name": "Valatie",
+      "latitude": "42.41342000",
+      "longitude": "-73.67317000"
+    },
+    {
+      "id": 128092,
+      "name": "Valhalla",
+      "latitude": "41.07482000",
+      "longitude": "-73.77513000"
+    },
+    {
+      "id": 128102,
+      "name": "Valley Cottage",
+      "latitude": "41.11815000",
+      "longitude": "-73.95542000"
+    },
+    {
+      "id": 128117,
+      "name": "Valley Stream",
+      "latitude": "40.66427000",
+      "longitude": "-73.70846000"
+    },
+    {
+      "id": 128136,
+      "name": "Van Nest",
+      "latitude": "40.84843000",
+      "longitude": "-73.86375000"
+    },
+    {
+      "id": 128190,
+      "name": "Vernon",
+      "latitude": "43.07951000",
+      "longitude": "-75.53934000"
+    },
+    {
+      "id": 128207,
+      "name": "Verplanck",
+      "latitude": "41.25287000",
+      "longitude": "-73.95986000"
+    },
+    {
+      "id": 128217,
+      "name": "Victor",
+      "latitude": "42.98256000",
+      "longitude": "-77.40888000"
+    },
+    {
+      "id": 128247,
+      "name": "Village Green",
+      "latitude": "43.13340000",
+      "longitude": "-76.31299000"
+    },
+    {
+      "id": 128254,
+      "name": "Village of the Branch",
+      "latitude": "40.85621000",
+      "longitude": "-73.18733000"
+    },
+    {
+      "id": 128283,
+      "name": "Viola",
+      "latitude": "41.13648000",
+      "longitude": "-74.08236000"
+    },
+    {
+      "id": 128301,
+      "name": "Volney",
+      "latitude": "43.34285000",
+      "longitude": "-76.35771000"
+    },
+    {
+      "id": 128307,
+      "name": "Voorheesville",
+      "latitude": "42.65397000",
+      "longitude": "-73.92874000"
+    },
+    {
+      "id": 128324,
+      "name": "Wading River",
+      "latitude": "40.95038000",
+      "longitude": "-72.84260000"
+    },
+    {
+      "id": 128363,
+      "name": "Wakefield",
+      "latitude": "40.89788000",
+      "longitude": "-73.85236000"
+    },
+    {
+      "id": 128368,
+      "name": "Walden",
+      "latitude": "41.56120000",
+      "longitude": "-74.18848000"
+    },
+    {
+      "id": 128410,
+      "name": "Wallkill",
+      "latitude": "41.60565000",
+      "longitude": "-74.18404000"
+    },
+    {
+      "id": 128436,
+      "name": "Walton",
+      "latitude": "42.16953000",
+      "longitude": "-75.12934000"
+    },
+    {
+      "id": 128439,
+      "name": "Walton Park",
+      "latitude": "41.30982000",
+      "longitude": "-74.22904000"
+    },
+    {
+      "id": 128445,
+      "name": "Wampsville",
+      "latitude": "43.07535000",
+      "longitude": "-75.70685000"
+    },
+    {
+      "id": 128446,
+      "name": "Wanakah",
+      "latitude": "42.74617000",
+      "longitude": "-78.90309000"
+    },
+    {
+      "id": 128452,
+      "name": "Wantagh",
+      "latitude": "40.68371000",
+      "longitude": "-73.51013000"
+    },
+    {
+      "id": 128456,
+      "name": "Wappingers Falls",
+      "latitude": "41.59648000",
+      "longitude": "-73.91097000"
+    },
+    {
+      "id": 128497,
+      "name": "Warren County",
+      "latitude": "43.56098000",
+      "longitude": "-73.84601000"
+    },
+    {
+      "id": 128503,
+      "name": "Warrensburg",
+      "latitude": "43.49674000",
+      "longitude": "-73.77623000"
+    },
+    {
+      "id": 128521,
+      "name": "Warsaw",
+      "latitude": "42.74006000",
+      "longitude": "-78.13279000"
+    },
+    {
+      "id": 128524,
+      "name": "Warwick",
+      "latitude": "41.25648000",
+      "longitude": "-74.35988000"
+    },
+    {
+      "id": 128572,
+      "name": "Washington County",
+      "latitude": "43.31370000",
+      "longitude": "-73.43076000"
+    },
+    {
+      "id": 128581,
+      "name": "Washington Heights",
+      "latitude": "40.85010000",
+      "longitude": "-73.93541000"
+    },
+    {
+      "id": 128582,
+      "name": "Washington Mills",
+      "latitude": "43.05007000",
+      "longitude": "-75.27294000"
+    },
+    {
+      "id": 128588,
+      "name": "Washingtonville",
+      "latitude": "41.42787000",
+      "longitude": "-74.16598000"
+    },
+    {
+      "id": 128597,
+      "name": "Watchtower",
+      "latitude": "41.63776000",
+      "longitude": "-74.26027000"
+    },
+    {
+      "id": 128599,
+      "name": "Water Mill",
+      "latitude": "40.91959000",
+      "longitude": "-72.34274000"
+    },
+    {
+      "id": 128606,
+      "name": "Waterford",
+      "latitude": "42.79258000",
+      "longitude": "-73.68123000"
+    },
+    {
+      "id": 128615,
+      "name": "Waterloo",
+      "latitude": "42.90479000",
+      "longitude": "-76.86274000"
+    },
+    {
+      "id": 128623,
+      "name": "Watertown",
+      "latitude": "43.97478000",
+      "longitude": "-75.91076000"
+    },
+    {
+      "id": 128628,
+      "name": "Waterville",
+      "latitude": "42.93118000",
+      "longitude": "-75.37989000"
+    },
+    {
+      "id": 128630,
+      "name": "Watervliet",
+      "latitude": "42.73008000",
+      "longitude": "-73.70123000"
+    },
+    {
+      "id": 128634,
+      "name": "Watkins Glen",
+      "latitude": "42.38063000",
+      "longitude": "-76.87329000"
+    },
+    {
+      "id": 128672,
+      "name": "Waverly",
+      "latitude": "42.01035000",
+      "longitude": "-76.52717000"
+    },
+    {
+      "id": 128673,
+      "name": "Wawarsing",
+      "latitude": "41.75898000",
+      "longitude": "-74.35738000"
+    },
+    {
+      "id": 128677,
+      "name": "Wayland",
+      "latitude": "42.56784000",
+      "longitude": "-77.58971000"
+    },
+    {
+      "id": 128701,
+      "name": "Wayne County",
+      "latitude": "43.06588000",
+      "longitude": "-76.97845000"
+    },
+    {
+      "id": 128733,
+      "name": "Webster",
+      "latitude": "43.21229000",
+      "longitude": "-77.42999000"
+    },
+    {
+      "id": 128753,
+      "name": "Weedsport",
+      "latitude": "43.04868000",
+      "longitude": "-76.56272000"
+    },
+    {
+      "id": 128793,
+      "name": "Wellsville",
+      "latitude": "42.12201000",
+      "longitude": "-77.94806000"
+    },
+    {
+      "id": 128811,
+      "name": "Wesley Hills",
+      "latitude": "41.15926000",
+      "longitude": "-74.06986000"
+    },
+    {
+      "id": 128816,
+      "name": "West Albany",
+      "latitude": "42.68313000",
+      "longitude": "-73.77845000"
+    },
+    {
+      "id": 128819,
+      "name": "West Babylon",
+      "latitude": "40.71816000",
+      "longitude": "-73.35429000"
+    },
+    {
+      "id": 128823,
+      "name": "West Bay Shore",
+      "latitude": "40.70871000",
+      "longitude": "-73.28123000"
+    },
+    {
+      "id": 128843,
+      "name": "West Carthage",
+      "latitude": "43.97423000",
+      "longitude": "-75.61519000"
+    },
+    {
+      "id": 128861,
+      "name": "West Elmira",
+      "latitude": "42.07813000",
+      "longitude": "-76.84524000"
+    },
+    {
+      "id": 128863,
+      "name": "West End",
+      "latitude": "42.46869000",
+      "longitude": "-75.09378000"
+    },
+    {
+      "id": 128879,
+      "name": "West Glens Falls",
+      "latitude": "43.30007000",
+      "longitude": "-73.68401000"
+    },
+    {
+      "id": 128891,
+      "name": "West Haverstraw",
+      "latitude": "41.20954000",
+      "longitude": "-73.98542000"
+    },
+    {
+      "id": 128894,
+      "name": "West Hempstead",
+      "latitude": "40.70482000",
+      "longitude": "-73.65013000"
+    },
+    {
+      "id": 128895,
+      "name": "West Hills",
+      "latitude": "40.81621000",
+      "longitude": "-73.43234000"
+    },
+    {
+      "id": 128901,
+      "name": "West Hurley",
+      "latitude": "41.99731000",
+      "longitude": "-74.10486000"
+    },
+    {
+      "id": 128903,
+      "name": "West Islip",
+      "latitude": "40.70621000",
+      "longitude": "-73.30623000"
+    },
+    {
+      "id": 128942,
+      "name": "West Nyack",
+      "latitude": "41.09649000",
+      "longitude": "-73.97292000"
+    },
+    {
+      "id": 128962,
+      "name": "West Point",
+      "latitude": "41.39148000",
+      "longitude": "-73.95597000"
+    },
+    {
+      "id": 128975,
+      "name": "West Sand Lake",
+      "latitude": "42.64341000",
+      "longitude": "-73.60873000"
+    },
+    {
+      "id": 128976,
+      "name": "West Sayville",
+      "latitude": "40.72788000",
+      "longitude": "-73.09761000"
+    },
+    {
+      "id": 128979,
+      "name": "West Seneca",
+      "latitude": "42.85006000",
+      "longitude": "-78.79975000"
+    },
+    {
+      "id": 129015,
+      "name": "Westbury",
+      "latitude": "40.75566000",
+      "longitude": "-73.58763000"
+    },
+    {
+      "id": 129020,
+      "name": "Westchester County",
+      "latitude": "41.15148000",
+      "longitude": "-73.75339000"
+    },
+    {
+      "id": 129022,
+      "name": "Westerleigh",
+      "latitude": "40.62121000",
+      "longitude": "-74.13181000"
+    },
+    {
+      "id": 129030,
+      "name": "Westfield",
+      "latitude": "42.32228000",
+      "longitude": "-79.57810000"
+    },
+    {
+      "id": 129035,
+      "name": "Westhampton",
+      "latitude": "40.82454000",
+      "longitude": "-72.66621000"
+    },
+    {
+      "id": 129036,
+      "name": "Westhampton Beach",
+      "latitude": "40.80316000",
+      "longitude": "-72.61454000"
+    },
+    {
+      "id": 129042,
+      "name": "Westmere",
+      "latitude": "42.69119000",
+      "longitude": "-73.86873000"
+    },
+    {
+      "id": 129066,
+      "name": "Weston Mills",
+      "latitude": "42.07590000",
+      "longitude": "-78.37252000"
+    },
+    {
+      "id": 129074,
+      "name": "Westvale",
+      "latitude": "43.04757000",
+      "longitude": "-76.22048000"
+    },
+    {
+      "id": 129111,
+      "name": "Wheatley Heights",
+      "latitude": "40.76371000",
+      "longitude": "-73.36984000"
+    },
+    {
+      "id": 129155,
+      "name": "White Plains",
+      "latitude": "41.03399000",
+      "longitude": "-73.76291000"
+    },
+    {
+      "id": 129169,
+      "name": "Whitehall",
+      "latitude": "43.55562000",
+      "longitude": "-73.40372000"
+    },
+    {
+      "id": 129183,
+      "name": "Whitesboro",
+      "latitude": "43.12201000",
+      "longitude": "-75.29156000"
+    },
+    {
+      "id": 129187,
+      "name": "Whitestone",
+      "latitude": "40.79455000",
+      "longitude": "-73.81847000"
+    },
+    {
+      "id": 129270,
+      "name": "Williamsburg",
+      "latitude": "40.71427000",
+      "longitude": "-73.95347000"
+    },
+    {
+      "id": 129274,
+      "name": "Williamson",
+      "latitude": "43.22395000",
+      "longitude": "-77.18609000"
+    },
+    {
+      "id": 129292,
+      "name": "Williamsville",
+      "latitude": "42.96395000",
+      "longitude": "-78.73781000"
+    },
+    {
+      "id": 129301,
+      "name": "Williston Park",
+      "latitude": "40.75649000",
+      "longitude": "-73.64485000"
+    },
+    {
+      "id": 129314,
+      "name": "Willowbrook",
+      "latitude": "40.60316000",
+      "longitude": "-74.13848000"
+    },
+    {
+      "id": 129331,
+      "name": "Wilson",
+      "latitude": "43.30978000",
+      "longitude": "-78.82615000"
+    },
+    {
+      "id": 129469,
+      "name": "Wolcott",
+      "latitude": "43.22062000",
+      "longitude": "-76.81496000"
+    },
+    {
+      "id": 129510,
+      "name": "Woodbury",
+      "latitude": "41.36454000",
+      "longitude": "-74.10598000"
+    },
+    {
+      "id": 129522,
+      "name": "Woodhaven",
+      "latitude": "40.68927000",
+      "longitude": "-73.85791000"
+    },
+    {
+      "id": 129537,
+      "name": "Woodlawn",
+      "latitude": "40.89816000",
+      "longitude": "-73.86736000"
+    },
+    {
+      "id": 129541,
+      "name": "Woodmere",
+      "latitude": "40.63205000",
+      "longitude": "-73.71263000"
+    },
+    {
+      "id": 129546,
+      "name": "Woodrow",
+      "latitude": "40.54344000",
+      "longitude": "-74.19764000"
+    },
+    {
+      "id": 129554,
+      "name": "Woodside",
+      "latitude": "40.74538000",
+      "longitude": "-73.90541000"
+    },
+    {
+      "id": 129565,
+      "name": "Woodstock",
+      "latitude": "42.04092000",
+      "longitude": "-74.11820000"
+    },
+    {
+      "id": 129585,
+      "name": "Worcester",
+      "latitude": "42.59146000",
+      "longitude": "-74.75043000"
+    },
+    {
+      "id": 129619,
+      "name": "Wurtsboro",
+      "latitude": "41.57676000",
+      "longitude": "-74.48710000"
+    },
+    {
+      "id": 129620,
+      "name": "Wyandanch",
+      "latitude": "40.75399000",
+      "longitude": "-73.36040000"
+    },
+    {
+      "id": 129624,
+      "name": "Wykagyl",
+      "latitude": "40.94149000",
+      "longitude": "-73.79902000"
+    },
+    {
+      "id": 129628,
+      "name": "Wynantskill",
+      "latitude": "42.69675000",
+      "longitude": "-73.64428000"
+    },
+    {
+      "id": 129640,
+      "name": "Wyoming County",
+      "latitude": "42.70238000",
+      "longitude": "-78.22444000"
+    },
+    {
+      "id": 129663,
+      "name": "Yaphank",
+      "latitude": "40.83677000",
+      "longitude": "-72.91705000"
+    },
+    {
+      "id": 129671,
+      "name": "Yates County",
+      "latitude": "42.63344000",
+      "longitude": "-77.10546000"
+    },
+    {
+      "id": 129688,
+      "name": "Yonkers",
+      "latitude": "40.93121000",
+      "longitude": "-73.89875000"
+    },
+    {
+      "id": 129704,
+      "name": "Yorkshire",
+      "latitude": "42.53006000",
+      "longitude": "-78.47280000"
+    },
+    {
+      "id": 129708,
+      "name": "Yorktown Heights",
+      "latitude": "41.27093000",
+      "longitude": "-73.77763000"
+    },
+    {
+      "id": 129710,
+      "name": "Yorkville",
+      "latitude": "43.11285000",
+      "longitude": "-75.27100000"
+    },
+    {
+      "id": 129717,
+      "name": "Youngstown",
+      "latitude": "43.24728000",
+      "longitude": "-79.05005000"
+    },
+    {
+      "id": 129748,
+      "name": "Zena",
+      "latitude": "42.01676000",
+      "longitude": "-74.07625000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

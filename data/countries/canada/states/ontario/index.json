@@ -1,0 +1,1689 @@
+{
+  "id": 866,
+  "name": "Ontario",
+  "state_code": "ON",
+  "latitude": "51.25377500",
+  "longitude": "-85.32321400",
+  "type": "province",
+  "cities": [
+    {
+      "id": 16152,
+      "name": "Ajax",
+      "latitude": "43.85012000",
+      "longitude": "-79.03288000"
+    },
+    {
+      "id": 16157,
+      "name": "Algoma",
+      "latitude": "47.88364000",
+      "longitude": "-84.42406000"
+    },
+    {
+      "id": 16158,
+      "name": "Alliston",
+      "latitude": "44.15011000",
+      "longitude": "-79.86635000"
+    },
+    {
+      "id": 16162,
+      "name": "Amherstburg",
+      "latitude": "42.10009000",
+      "longitude": "-83.09985000"
+    },
+    {
+      "id": 16163,
+      "name": "Amigo Beach",
+      "latitude": "44.70011000",
+      "longitude": "-79.39963000"
+    },
+    {
+      "id": 16166,
+      "name": "Ancaster",
+      "latitude": "43.21806000",
+      "longitude": "-79.98716000"
+    },
+    {
+      "id": 16168,
+      "name": "Angus",
+      "latitude": "44.31681000",
+      "longitude": "-79.88295000"
+    },
+    {
+      "id": 16174,
+      "name": "Arnprior",
+      "latitude": "45.43341000",
+      "longitude": "-76.34939000"
+    },
+    {
+      "id": 16179,
+      "name": "Atikokan",
+      "latitude": "48.75667000",
+      "longitude": "-91.62409000"
+    },
+    {
+      "id": 16180,
+      "name": "Attawapiskat",
+      "latitude": "52.92774000",
+      "longitude": "-82.41669000"
+    },
+    {
+      "id": 16181,
+      "name": "Aurora",
+      "latitude": "44.00011000",
+      "longitude": "-79.46632000"
+    },
+    {
+      "id": 16182,
+      "name": "Aylmer",
+      "latitude": "42.76679000",
+      "longitude": "-80.98302000"
+    },
+    {
+      "id": 16183,
+      "name": "Azilda",
+      "latitude": "46.55008000",
+      "longitude": "-81.09975000"
+    },
+    {
+      "id": 16188,
+      "name": "Ballantrae",
+      "latitude": "44.03342000",
+      "longitude": "-79.29960000"
+    },
+    {
+      "id": 16189,
+      "name": "Bancroft",
+      "latitude": "45.05752000",
+      "longitude": "-77.85702000"
+    },
+    {
+      "id": 16193,
+      "name": "Barrie",
+      "latitude": "44.40011000",
+      "longitude": "-79.66634000"
+    },
+    {
+      "id": 16197,
+      "name": "Bath",
+      "latitude": "44.18342000",
+      "longitude": "-76.78273000"
+    },
+    {
+      "id": 16211,
+      "name": "Belleville",
+      "latitude": "44.16682000",
+      "longitude": "-77.38277000"
+    },
+    {
+      "id": 16212,
+      "name": "Bells Corners",
+      "latitude": "45.31588000",
+      "longitude": "-75.83012000"
+    },
+    {
+      "id": 16213,
+      "name": "Belmont",
+      "latitude": "42.88339000",
+      "longitude": "-81.08303000"
+    },
+    {
+      "id": 16218,
+      "name": "Binbrook",
+      "latitude": "43.12135000",
+      "longitude": "-79.81104000"
+    },
+    {
+      "id": 16222,
+      "name": "Bluewater",
+      "latitude": "43.46679000",
+      "longitude": "-81.59977000"
+    },
+    {
+      "id": 16233,
+      "name": "Bourget",
+      "latitude": "45.43340000",
+      "longitude": "-75.14930000"
+    },
+    {
+      "id": 16236,
+      "name": "Bracebridge",
+      "latitude": "45.03341000",
+      "longitude": "-79.31633000"
+    },
+    {
+      "id": 16237,
+      "name": "Brampton",
+      "latitude": "43.68341000",
+      "longitude": "-79.76633000"
+    },
+    {
+      "id": 16239,
+      "name": "Brant",
+      "latitude": "43.13340000",
+      "longitude": "-80.34967000"
+    },
+    {
+      "id": 16240,
+      "name": "Brantford",
+      "latitude": "43.13340000",
+      "longitude": "-80.26636000"
+    },
+    {
+      "id": 16243,
+      "name": "Brockville",
+      "latitude": "44.59132000",
+      "longitude": "-75.68705000"
+    },
+    {
+      "id": 16248,
+      "name": "Brussels",
+      "latitude": "43.73339000",
+      "longitude": "-81.24975000"
+    },
+    {
+      "id": 16250,
+      "name": "Burford",
+      "latitude": "43.10292000",
+      "longitude": "-80.42869000"
+    },
+    {
+      "id": 16252,
+      "name": "Burlington",
+      "latitude": "43.38621000",
+      "longitude": "-79.83713000"
+    },
+    {
+      "id": 16261,
+      "name": "Cambridge",
+      "latitude": "43.36010000",
+      "longitude": "-80.31269000"
+    },
+    {
+      "id": 16262,
+      "name": "Camlachie",
+      "latitude": "43.03596000",
+      "longitude": "-82.16160000"
+    },
+    {
+      "id": 16274,
+      "name": "Capreol",
+      "latitude": "46.70626000",
+      "longitude": "-80.92109000"
+    },
+    {
+      "id": 16280,
+      "name": "Carleton Place",
+      "latitude": "45.13341000",
+      "longitude": "-76.14938000"
+    },
+    {
+      "id": 16285,
+      "name": "Casselman",
+      "latitude": "45.31680000",
+      "longitude": "-75.08260000"
+    },
+    {
+      "id": 16299,
+      "name": "Chatham",
+      "latitude": "42.41224000",
+      "longitude": "-82.18494000"
+    },
+    {
+      "id": 16300,
+      "name": "Chatham-Kent",
+      "latitude": "42.40009000",
+      "longitude": "-82.18310000"
+    },
+    {
+      "id": 16312,
+      "name": "Clarence-Rockland",
+      "latitude": "45.55010000",
+      "longitude": "-75.29101000"
+    },
+    {
+      "id": 16319,
+      "name": "Cobourg",
+      "latitude": "43.95977000",
+      "longitude": "-78.16515000"
+    },
+    {
+      "id": 16321,
+      "name": "Cochrane District",
+      "latitude": "50.00022000",
+      "longitude": "-82.99979000"
+    },
+    {
+      "id": 16325,
+      "name": "Collingwood",
+      "latitude": "44.48340000",
+      "longitude": "-80.21638000"
+    },
+    {
+      "id": 16328,
+      "name": "Concord",
+      "latitude": "43.80011000",
+      "longitude": "-79.48291000"
+    },
+    {
+      "id": 16329,
+      "name": "Constance Bay",
+      "latitude": "45.50011000",
+      "longitude": "-76.08267000"
+    },
+    {
+      "id": 16333,
+      "name": "Cookstown",
+      "latitude": "44.18341000",
+      "longitude": "-79.69964000"
+    },
+    {
+      "id": 16337,
+      "name": "Cornwall",
+      "latitude": "45.01809000",
+      "longitude": "-74.72815000"
+    },
+    {
+      "id": 16339,
+      "name": "Corunna",
+      "latitude": "42.88338000",
+      "longitude": "-82.43313000"
+    },
+    {
+      "id": 16361,
+      "name": "Deep River",
+      "latitude": "46.10012000",
+      "longitude": "-77.49949000"
+    },
+    {
+      "id": 16363,
+      "name": "Delaware",
+      "latitude": "42.91679000",
+      "longitude": "-81.41646000"
+    },
+    {
+      "id": 16369,
+      "name": "Deseronto",
+      "latitude": "44.20012000",
+      "longitude": "-77.04944000"
+    },
+    {
+      "id": 16380,
+      "name": "Dorchester",
+      "latitude": "42.98339000",
+      "longitude": "-81.06643000"
+    },
+    {
+      "id": 16382,
+      "name": "Dowling",
+      "latitude": "46.59111000",
+      "longitude": "-81.33917000"
+    },
+    {
+      "id": 16385,
+      "name": "Dryden",
+      "latitude": "49.78334000",
+      "longitude": "-92.75032000"
+    },
+    {
+      "id": 16389,
+      "name": "Durham",
+      "latitude": "44.20012000",
+      "longitude": "-78.99957000"
+    },
+    {
+      "id": 16390,
+      "name": "Ear Falls",
+      "latitude": "50.63955000",
+      "longitude": "-93.23526000"
+    },
+    {
+      "id": 16393,
+      "name": "East Gwillimbury",
+      "latitude": "44.10087000",
+      "longitude": "-79.43785000"
+    },
+    {
+      "id": 16395,
+      "name": "East York",
+      "latitude": "43.69053000",
+      "longitude": "-79.32794000"
+    },
+    {
+      "id": 16401,
+      "name": "Elliot Lake",
+      "latitude": "46.38336000",
+      "longitude": "-82.63315000"
+    },
+    {
+      "id": 16403,
+      "name": "Elmvale",
+      "latitude": "44.58340000",
+      "longitude": "-79.86636000"
+    },
+    {
+      "id": 16405,
+      "name": "Englehart",
+      "latitude": "47.81686000",
+      "longitude": "-79.86640000"
+    },
+    {
+      "id": 16408,
+      "name": "Espanola",
+      "latitude": "46.25837000",
+      "longitude": "-81.76649000"
+    },
+    {
+      "id": 16409,
+      "name": "Essex",
+      "latitude": "42.17509000",
+      "longitude": "-82.82483000"
+    },
+    {
+      "id": 16412,
+      "name": "Etobicoke",
+      "latitude": "43.65421000",
+      "longitude": "-79.56711000"
+    },
+    {
+      "id": 153520,
+      "name": "Exeter",
+      "latitude": "43.34358630",
+      "longitude": "-81.49726020"
+    },
+    {
+      "id": 16427,
+      "name": "Fort Erie",
+      "latitude": "42.90012000",
+      "longitude": "-78.93286000"
+    },
+    {
+      "id": 16428,
+      "name": "Fort Frances",
+      "latitude": "48.61667000",
+      "longitude": "-93.40030000"
+    },
+    {
+      "id": 16446,
+      "name": "Gananoque",
+      "latitude": "44.33342000",
+      "longitude": "-76.16607000"
+    },
+    {
+      "id": 16455,
+      "name": "Glencoe",
+      "latitude": "42.75009000",
+      "longitude": "-81.71648000"
+    },
+    {
+      "id": 16457,
+      "name": "Goderich",
+      "latitude": "43.74171000",
+      "longitude": "-81.71339000"
+    },
+    {
+      "id": 16459,
+      "name": "Golden",
+      "latitude": "51.05917000",
+      "longitude": "-93.73568000"
+    },
+    {
+      "id": 16470,
+      "name": "Gravenhurst",
+      "latitude": "44.91681000",
+      "longitude": "-79.36633000"
+    },
+    {
+      "id": 16472,
+      "name": "Greater Napanee",
+      "latitude": "44.25012000",
+      "longitude": "-76.94944000"
+    },
+    {
+      "id": 16473,
+      "name": "Greater Sudbury",
+      "latitude": "46.49000000",
+      "longitude": "-80.99001000"
+    },
+    {
+      "id": 16474,
+      "name": "Greenstone",
+      "latitude": "49.73343000",
+      "longitude": "-87.16668000"
+    },
+    {
+      "id": 16478,
+      "name": "Guelph",
+      "latitude": "43.54594000",
+      "longitude": "-80.25599000"
+    },
+    {
+      "id": 16480,
+      "name": "Haldimand County",
+      "latitude": "42.98341000",
+      "longitude": "-79.86633000"
+    },
+    {
+      "id": 16481,
+      "name": "Haliburton Village",
+      "latitude": "45.05154000",
+      "longitude": "-78.52245000"
+    },
+    {
+      "id": 16483,
+      "name": "Halton",
+      "latitude": "43.50011000",
+      "longitude": "-79.88294000"
+    },
+    {
+      "id": 16484,
+      "name": "Hamilton",
+      "latitude": "43.25011000",
+      "longitude": "-79.84963000"
+    },
+    {
+      "id": 16489,
+      "name": "Hanover",
+      "latitude": "44.15009000",
+      "longitude": "-81.03303000"
+    },
+    {
+      "id": 16494,
+      "name": "Harriston",
+      "latitude": "43.90009000",
+      "longitude": "-80.88302000"
+    },
+    {
+      "id": 16497,
+      "name": "Hawkesbury",
+      "latitude": "45.60009000",
+      "longitude": "-74.61595000"
+    },
+    {
+      "id": 16501,
+      "name": "Hearst",
+      "latitude": "49.68351000",
+      "longitude": "-83.66654000"
+    },
+    {
+      "id": 16509,
+      "name": "Hornepayne",
+      "latitude": "49.21451000",
+      "longitude": "-84.77617000"
+    },
+    {
+      "id": 16515,
+      "name": "Huntsville",
+      "latitude": "45.33341000",
+      "longitude": "-79.21632000"
+    },
+    {
+      "id": 16516,
+      "name": "Huron East",
+      "latitude": "43.61679000",
+      "longitude": "-81.29975000"
+    },
+    {
+      "id": 16520,
+      "name": "Ingersoll",
+      "latitude": "43.03339000",
+      "longitude": "-80.88302000"
+    },
+    {
+      "id": 16521,
+      "name": "Innisfil",
+      "latitude": "44.30011000",
+      "longitude": "-79.64964000"
+    },
+    {
+      "id": 16525,
+      "name": "Iroquois Falls",
+      "latitude": "48.76688000",
+      "longitude": "-80.68307000"
+    },
+    {
+      "id": 16527,
+      "name": "Jarvis",
+      "latitude": "42.88341000",
+      "longitude": "-80.09965000"
+    },
+    {
+      "id": 16533,
+      "name": "Kanata",
+      "latitude": "45.30010000",
+      "longitude": "-75.91606000"
+    },
+    {
+      "id": 16534,
+      "name": "Kapuskasing",
+      "latitude": "49.41694000",
+      "longitude": "-82.43308000"
+    },
+    {
+      "id": 16535,
+      "name": "Kawartha Lakes",
+      "latitude": "44.58342000",
+      "longitude": "-78.83288000"
+    },
+    {
+      "id": 16537,
+      "name": "Kenora",
+      "latitude": "49.76741000",
+      "longitude": "-94.48985000"
+    },
+    {
+      "id": 16541,
+      "name": "Keswick",
+      "latitude": "44.25011000",
+      "longitude": "-79.46632000"
+    },
+    {
+      "id": 16546,
+      "name": "Kincardine",
+      "latitude": "44.18339000",
+      "longitude": "-81.63307000"
+    },
+    {
+      "id": 16548,
+      "name": "King",
+      "latitude": "43.96514000",
+      "longitude": "-79.59011000"
+    },
+    {
+      "id": 16550,
+      "name": "Kingston",
+      "latitude": "44.22976000",
+      "longitude": "-76.48098000"
+    },
+    {
+      "id": 16552,
+      "name": "Kirkland Lake",
+      "latitude": "48.14461000",
+      "longitude": "-80.03767000"
+    },
+    {
+      "id": 16553,
+      "name": "Kitchener",
+      "latitude": "43.42537000",
+      "longitude": "-80.51120000"
+    },
+    {
+      "id": 16560,
+      "name": "L'Orignal",
+      "latitude": "45.61980000",
+      "longitude": "-74.69150000"
+    },
+    {
+      "id": 16590,
+      "name": "Lakefield",
+      "latitude": "44.43342000",
+      "longitude": "-78.26623000"
+    },
+    {
+      "id": 16591,
+      "name": "Lambton Shores",
+      "latitude": "43.16678000",
+      "longitude": "-81.93309000"
+    },
+    {
+      "id": 16601,
+      "name": "Lappe",
+      "latitude": "48.56680000",
+      "longitude": "-89.35013000"
+    },
+    {
+      "id": 16607,
+      "name": "Leamington",
+      "latitude": "42.05009000",
+      "longitude": "-82.59981000"
+    },
+    {
+      "id": 16617,
+      "name": "Limoges",
+      "latitude": "45.33340000",
+      "longitude": "-75.24931000"
+    },
+    {
+      "id": 16619,
+      "name": "Lindsay",
+      "latitude": "44.35012000",
+      "longitude": "-78.73286000"
+    },
+    {
+      "id": 16622,
+      "name": "Listowel",
+      "latitude": "43.73340000",
+      "longitude": "-80.94973000"
+    },
+    {
+      "id": 16623,
+      "name": "Little Current",
+      "latitude": "45.97927000",
+      "longitude": "-81.92480000"
+    },
+    {
+      "id": 16624,
+      "name": "Lively",
+      "latitude": "46.43338000",
+      "longitude": "-81.14975000"
+    },
+    {
+      "id": 16627,
+      "name": "London",
+      "latitude": "42.98339000",
+      "longitude": "-81.23304000"
+    },
+    {
+      "id": 16633,
+      "name": "Lucan",
+      "latitude": "43.18339000",
+      "longitude": "-81.39976000"
+    },
+    {
+      "id": 16643,
+      "name": "Madoc",
+      "latitude": "44.50842000",
+      "longitude": "-77.47448000"
+    },
+    {
+      "id": 16650,
+      "name": "Manitoulin District",
+      "latitude": "45.75007000",
+      "longitude": "-82.49985000"
+    },
+    {
+      "id": 16651,
+      "name": "Manitouwadge",
+      "latitude": "49.12152000",
+      "longitude": "-85.84030000"
+    },
+    {
+      "id": 16658,
+      "name": "Marathon",
+      "latitude": "48.75010000",
+      "longitude": "-86.43322000"
+    },
+    {
+      "id": 16661,
+      "name": "Markdale",
+      "latitude": "44.31680000",
+      "longitude": "-80.64971000"
+    },
+    {
+      "id": 16662,
+      "name": "Markham",
+      "latitude": "43.86682000",
+      "longitude": "-79.26630000"
+    },
+    {
+      "id": 16669,
+      "name": "Mattawa",
+      "latitude": "46.31681000",
+      "longitude": "-78.69957000"
+    },
+    {
+      "id": 16674,
+      "name": "Meaford",
+      "latitude": "44.60725000",
+      "longitude": "-80.61081000"
+    },
+    {
+      "id": 16683,
+      "name": "Metcalfe",
+      "latitude": "45.23340000",
+      "longitude": "-75.46603000"
+    },
+    {
+      "id": 16687,
+      "name": "Midland",
+      "latitude": "44.75010000",
+      "longitude": "-79.88296000"
+    },
+    {
+      "id": 16688,
+      "name": "Mildmay",
+      "latitude": "44.05009000",
+      "longitude": "-81.11644000"
+    },
+    {
+      "id": 16690,
+      "name": "Millbrook",
+      "latitude": "44.15012000",
+      "longitude": "-78.44954000"
+    },
+    {
+      "id": 16692,
+      "name": "Milton",
+      "latitude": "43.51681000",
+      "longitude": "-79.88294000"
+    },
+    {
+      "id": 16697,
+      "name": "Mississauga",
+      "latitude": "43.57890000",
+      "longitude": "-79.65830000"
+    },
+    {
+      "id": 16698,
+      "name": "Mississauga Beach",
+      "latitude": "43.26682000",
+      "longitude": "-79.08287000"
+    },
+    {
+      "id": 16712,
+      "name": "Moose Factory",
+      "latitude": "51.26689000",
+      "longitude": "-80.61624000"
+    },
+    {
+      "id": 16716,
+      "name": "Moosonee",
+      "latitude": "51.27931000",
+      "longitude": "-80.63450000"
+    },
+    {
+      "id": 16721,
+      "name": "Morrisburg",
+      "latitude": "44.90010000",
+      "longitude": "-75.18261000"
+    },
+    {
+      "id": 16722,
+      "name": "Mount Albert",
+      "latitude": "44.13341000",
+      "longitude": "-79.31630000"
+    },
+    {
+      "id": 16723,
+      "name": "Mount Brydges",
+      "latitude": "42.90009000",
+      "longitude": "-81.48306000"
+    },
+    {
+      "id": 16730,
+      "name": "Napanee",
+      "latitude": "44.25012000",
+      "longitude": "-76.94944000"
+    },
+    {
+      "id": 16731,
+      "name": "Napanee Downtown",
+      "latitude": "44.24832000",
+      "longitude": "-76.95069000"
+    },
+    {
+      "id": 16733,
+      "name": "Neebing",
+      "latitude": "48.16680000",
+      "longitude": "-89.41683000"
+    },
+    {
+      "id": 16736,
+      "name": "Nepean",
+      "latitude": "45.35215000",
+      "longitude": "-75.73975000"
+    },
+    {
+      "id": 16740,
+      "name": "New Hamburg",
+      "latitude": "43.38339000",
+      "longitude": "-80.69970000"
+    },
+    {
+      "id": 16744,
+      "name": "Newmarket",
+      "latitude": "44.05011000",
+      "longitude": "-79.46631000"
+    },
+    {
+      "id": 16745,
+      "name": "Niagara Falls",
+      "latitude": "43.10012000",
+      "longitude": "-79.06627000"
+    },
+    {
+      "id": 16748,
+      "name": "Nipissing District",
+      "latitude": "46.00010000",
+      "longitude": "-78.99959000"
+    },
+    {
+      "id": 16752,
+      "name": "Norfolk County",
+      "latitude": "42.83340000",
+      "longitude": "-80.38297000"
+    },
+    {
+      "id": 16756,
+      "name": "North Bay",
+      "latitude": "46.31680000",
+      "longitude": "-79.46633000"
+    },
+    {
+      "id": 16759,
+      "name": "North Perth",
+      "latitude": "43.72510000",
+      "longitude": "-80.96723000"
+    },
+    {
+      "id": 16762,
+      "name": "North York",
+      "latitude": "43.76681000",
+      "longitude": "-79.41630000"
+    },
+    {
+      "id": 16763,
+      "name": "Norwood",
+      "latitude": "44.38342000",
+      "longitude": "-77.98281000"
+    },
+    {
+      "id": 16770,
+      "name": "Oakville",
+      "latitude": "43.45011000",
+      "longitude": "-79.68292000"
+    },
+    {
+      "id": 16777,
+      "name": "Omemee",
+      "latitude": "44.29897000",
+      "longitude": "-78.55989000"
+    },
+    {
+      "id": 16778,
+      "name": "Orangeville",
+      "latitude": "43.91680000",
+      "longitude": "-80.09967000"
+    },
+    {
+      "id": 16779,
+      "name": "Orillia",
+      "latitude": "44.60868000",
+      "longitude": "-79.42068000"
+    },
+    {
+      "id": 16782,
+      "name": "Osgoode",
+      "latitude": "45.14887000",
+      "longitude": "-75.59778000"
+    },
+    {
+      "id": 16783,
+      "name": "Oshawa",
+      "latitude": "43.90012000",
+      "longitude": "-78.84957000"
+    },
+    {
+      "id": 16785,
+      "name": "Ottawa",
+      "latitude": "45.41117000",
+      "longitude": "-75.69812000"
+    },
+    {
+      "id": 16789,
+      "name": "Owen Sound",
+      "latitude": "44.56717000",
+      "longitude": "-80.94349000"
+    },
+    {
+      "id": 16792,
+      "name": "Paisley",
+      "latitude": "44.30641000",
+      "longitude": "-81.27265000"
+    },
+    {
+      "id": 16796,
+      "name": "Paris",
+      "latitude": "43.20000000",
+      "longitude": "-80.38333000"
+    },
+    {
+      "id": 16797,
+      "name": "Parkhill",
+      "latitude": "43.15993000",
+      "longitude": "-81.68464000"
+    },
+    {
+      "id": 16800,
+      "name": "Parry Sound",
+      "latitude": "45.34732000",
+      "longitude": "-80.03527000"
+    },
+    {
+      "id": 16801,
+      "name": "Parry Sound District",
+      "latitude": "45.75011000",
+      "longitude": "-79.83297000"
+    },
+    {
+      "id": 16806,
+      "name": "Peel",
+      "latitude": "43.75011000",
+      "longitude": "-79.78293000"
+    },
+    {
+      "id": 16809,
+      "name": "Pembroke",
+      "latitude": "45.81681000",
+      "longitude": "-77.11616000"
+    },
+    {
+      "id": 16812,
+      "name": "Perth",
+      "latitude": "44.90011000",
+      "longitude": "-76.24939000"
+    },
+    {
+      "id": 16813,
+      "name": "Petawawa",
+      "latitude": "45.89452000",
+      "longitude": "-77.28007000"
+    },
+    {
+      "id": 16814,
+      "name": "Peterborough",
+      "latitude": "44.30012000",
+      "longitude": "-78.31623000"
+    },
+    {
+      "id": 16815,
+      "name": "Petrolia",
+      "latitude": "42.86678000",
+      "longitude": "-82.14981000"
+    },
+    {
+      "id": 16816,
+      "name": "Pickering",
+      "latitude": "43.90012000",
+      "longitude": "-79.13289000"
+    },
+    {
+      "id": 16817,
+      "name": "Picton",
+      "latitude": "44.00012000",
+      "longitude": "-77.13275000"
+    },
+    {
+      "id": 16827,
+      "name": "Plantagenet",
+      "latitude": "45.53260000",
+      "longitude": "-74.99369000"
+    },
+    {
+      "id": 16828,
+      "name": "Plattsville",
+      "latitude": "43.30010000",
+      "longitude": "-80.61639000"
+    },
+    {
+      "id": 16838,
+      "name": "Port Colborne",
+      "latitude": "42.90012000",
+      "longitude": "-79.23288000"
+    },
+    {
+      "id": 16841,
+      "name": "Port Hope",
+      "latitude": "44.01682000",
+      "longitude": "-78.39953000"
+    },
+    {
+      "id": 16844,
+      "name": "Port Rowan",
+      "latitude": "42.61680000",
+      "longitude": "-80.46638000"
+    },
+    {
+      "id": 16845,
+      "name": "Port Stanley",
+      "latitude": "42.66679000",
+      "longitude": "-81.21644000"
+    },
+    {
+      "id": 16850,
+      "name": "Powassan",
+      "latitude": "46.03340000",
+      "longitude": "-79.34961000"
+    },
+    {
+      "id": 16853,
+      "name": "Prescott",
+      "latitude": "44.71681000",
+      "longitude": "-75.51604000"
+    },
+    {
+      "id": 16855,
+      "name": "Prince Edward",
+      "latitude": "44.00012000",
+      "longitude": "-77.24946000"
+    },
+    {
+      "id": 16864,
+      "name": "Queenswood Heights",
+      "latitude": "45.47083000",
+      "longitude": "-75.50556000"
+    },
+    {
+      "id": 16866,
+      "name": "Quinte West",
+      "latitude": "44.18342000",
+      "longitude": "-77.56618000"
+    },
+    {
+      "id": 16868,
+      "name": "Rainy River District",
+      "latitude": "48.49981000",
+      "longitude": "-92.50031000"
+    },
+    {
+      "id": 16872,
+      "name": "Rayside-Balfour",
+      "latitude": "46.60873000",
+      "longitude": "-81.20763000"
+    },
+    {
+      "id": 16874,
+      "name": "Red Lake",
+      "latitude": "51.01678000",
+      "longitude": "-93.82736000"
+    },
+    {
+      "id": 16879,
+      "name": "Regional Municipality of Waterloo",
+      "latitude": "43.50010000",
+      "longitude": "-80.49969000"
+    },
+    {
+      "id": 16880,
+      "name": "Renfrew",
+      "latitude": "45.46681000",
+      "longitude": "-76.68272000"
+    },
+    {
+      "id": 16887,
+      "name": "Richmond",
+      "latitude": "45.18340000",
+      "longitude": "-75.83266000"
+    },
+    {
+      "id": 16888,
+      "name": "Richmond Hill",
+      "latitude": "43.87111000",
+      "longitude": "-79.43725000"
+    },
+    {
+      "id": 16890,
+      "name": "Ridgetown",
+      "latitude": "42.43339000",
+      "longitude": "-81.89978000"
+    },
+    {
+      "id": 16900,
+      "name": "Rockwood",
+      "latitude": "43.61899000",
+      "longitude": "-80.14441000"
+    },
+    {
+      "id": 16909,
+      "name": "Russell",
+      "latitude": "45.25010000",
+      "longitude": "-75.36602000"
+    },
+    {
+      "id": 17020,
+      "name": "Sarnia",
+      "latitude": "42.97866000",
+      "longitude": "-82.40407000"
+    },
+    {
+      "id": 17022,
+      "name": "Sault Ste. Marie",
+      "latitude": "46.51677000",
+      "longitude": "-84.33325000"
+    },
+    {
+      "id": 17023,
+      "name": "Scarborough",
+      "latitude": "43.77223000",
+      "longitude": "-79.25666000"
+    },
+    {
+      "id": 17024,
+      "name": "Seaforth",
+      "latitude": "43.55009000",
+      "longitude": "-81.39976000"
+    },
+    {
+      "id": 17036,
+      "name": "Shelburne",
+      "latitude": "44.07870000",
+      "longitude": "-80.20408000"
+    },
+    {
+      "id": 17045,
+      "name": "Simcoe",
+      "latitude": "42.83340000",
+      "longitude": "-80.29967000"
+    },
+    {
+      "id": 17046,
+      "name": "Sioux Lookout",
+      "latitude": "50.06676000",
+      "longitude": "-91.98358000"
+    },
+    {
+      "id": 17048,
+      "name": "Skatepark",
+      "latitude": "44.25122000",
+      "longitude": "-76.94424000"
+    },
+    {
+      "id": 17051,
+      "name": "Smiths Falls",
+      "latitude": "44.90452000",
+      "longitude": "-76.02333000"
+    },
+    {
+      "id": 17057,
+      "name": "South Huron",
+      "latitude": "43.31679000",
+      "longitude": "-81.51647000"
+    },
+    {
+      "id": 17059,
+      "name": "South River",
+      "latitude": "45.83340000",
+      "longitude": "-79.38293000"
+    },
+    {
+      "id": 17070,
+      "name": "St. Catharines",
+      "latitude": "43.17126000",
+      "longitude": "-79.24267000"
+    },
+    {
+      "id": 17071,
+      "name": "St. George",
+      "latitude": "43.24495000",
+      "longitude": "-80.25144000"
+    },
+    {
+      "id": 17073,
+      "name": "St. Thomas",
+      "latitude": "42.77361000",
+      "longitude": "-81.18038000"
+    },
+    {
+      "id": 17079,
+      "name": "Stirling",
+      "latitude": "44.30012000",
+      "longitude": "-77.54948000"
+    },
+    {
+      "id": 17081,
+      "name": "Stoney Point",
+      "latitude": "44.26681000",
+      "longitude": "-79.53292000"
+    },
+    {
+      "id": 17083,
+      "name": "Stratford",
+      "latitude": "43.36679000",
+      "longitude": "-80.94972000"
+    },
+    {
+      "id": 17085,
+      "name": "Sudbury",
+      "latitude": "47.16679000",
+      "longitude": "-81.99980000"
+    },
+    {
+      "id": 17100,
+      "name": "Tavistock",
+      "latitude": "43.31679000",
+      "longitude": "-80.83302000"
+    },
+    {
+      "id": 17101,
+      "name": "Temiskaming Shores",
+      "latitude": "47.49376000",
+      "longitude": "-79.71529000"
+    },
+    {
+      "id": 17106,
+      "name": "Thessalon",
+      "latitude": "46.25006000",
+      "longitude": "-83.56660000"
+    },
+    {
+      "id": 149581,
+      "name": "Thornhill",
+      "latitude": "43.81708480",
+      "longitude": "-79.45011940"
+    },
+    {
+      "id": 17109,
+      "name": "Thorold",
+      "latitude": "43.11682000",
+      "longitude": "-79.19958000"
+    },
+    {
+      "id": 17111,
+      "name": "Thunder Bay",
+      "latitude": "48.38202000",
+      "longitude": "-89.25018000"
+    },
+    {
+      "id": 17112,
+      "name": "Thunder Bay District",
+      "latitude": "49.50011000",
+      "longitude": "-88.50004000"
+    },
+    {
+      "id": 17114,
+      "name": "Timiskaming District",
+      "latitude": "47.75016000",
+      "longitude": "-80.33303000"
+    },
+    {
+      "id": 17115,
+      "name": "Timmins",
+      "latitude": "48.46686000",
+      "longitude": "-81.33312000"
+    },
+    {
+      "id": 17117,
+      "name": "Tobermory",
+      "latitude": "45.25007000",
+      "longitude": "-81.66647000"
+    },
+    {
+      "id": 17121,
+      "name": "Toronto",
+      "latitude": "43.70011000",
+      "longitude": "-79.41630000"
+    },
+    {
+      "id": 17122,
+      "name": "Toronto county",
+      "latitude": "43.69655000",
+      "longitude": "-79.42909000"
+    },
+    {
+      "id": 17123,
+      "name": "Tottenham",
+      "latitude": "44.02437000",
+      "longitude": "-79.80553000"
+    },
+    {
+      "id": 17130,
+      "name": "Tweed",
+      "latitude": "44.47512000",
+      "longitude": "-77.31616000"
+    },
+    {
+      "id": 17136,
+      "name": "Uxbridge",
+      "latitude": "44.10012000",
+      "longitude": "-79.11628000"
+    },
+    {
+      "id": 17142,
+      "name": "Valley East",
+      "latitude": "46.66773000",
+      "longitude": "-81.00028000"
+    },
+    {
+      "id": 17147,
+      "name": "Vanier",
+      "latitude": "45.43990000",
+      "longitude": "-75.66498000"
+    },
+    {
+      "id": 17150,
+      "name": "Vaughan",
+      "latitude": "43.83610000",
+      "longitude": "-79.49827000"
+    },
+    {
+      "id": 17160,
+      "name": "Vineland",
+      "latitude": "43.15012000",
+      "longitude": "-79.39960000"
+    },
+    {
+      "id": 17162,
+      "name": "Virgil",
+      "latitude": "43.21682000",
+      "longitude": "-79.13288000"
+    },
+    {
+      "id": 17169,
+      "name": "Walpole Island",
+      "latitude": "42.61520000",
+      "longitude": "-82.51398000"
+    },
+    {
+      "id": 17172,
+      "name": "Wasaga Beach",
+      "latitude": "44.51680000",
+      "longitude": "-80.01637000"
+    },
+    {
+      "id": 17175,
+      "name": "Waterford",
+      "latitude": "42.93340000",
+      "longitude": "-80.28296000"
+    },
+    {
+      "id": 17176,
+      "name": "Waterloo",
+      "latitude": "43.46680000",
+      "longitude": "-80.51639000"
+    },
+    {
+      "id": 17178,
+      "name": "Watford",
+      "latitude": "42.95008000",
+      "longitude": "-81.88309000"
+    },
+    {
+      "id": 17181,
+      "name": "Wawa",
+      "latitude": "47.98877000",
+      "longitude": "-84.77411000"
+    },
+    {
+      "id": 17184,
+      "name": "Welland",
+      "latitude": "42.98342000",
+      "longitude": "-79.24958000"
+    },
+    {
+      "id": 17185,
+      "name": "Wellesley",
+      "latitude": "43.47691000",
+      "longitude": "-80.76209000"
+    },
+    {
+      "id": 17188,
+      "name": "Wendover",
+      "latitude": "45.57275000",
+      "longitude": "-75.12757000"
+    },
+    {
+      "id": 17191,
+      "name": "West Lorne",
+      "latitude": "42.60009000",
+      "longitude": "-81.59976000"
+    },
+    {
+      "id": 17208,
+      "name": "Willowdale",
+      "latitude": "43.76672000",
+      "longitude": "-79.39909000"
+    },
+    {
+      "id": 17209,
+      "name": "Winchester",
+      "latitude": "45.08340000",
+      "longitude": "-75.34933000"
+    },
+    {
+      "id": 17212,
+      "name": "Windsor",
+      "latitude": "42.30008000",
+      "longitude": "-83.01654000"
+    },
+    {
+      "id": 17213,
+      "name": "Wingham",
+      "latitude": "43.88793000",
+      "longitude": "-81.31145000"
+    },
+    {
+      "id": 17217,
+      "name": "Woodstock",
+      "latitude": "43.13339000",
+      "longitude": "-80.74970000"
+    },
+    {
+      "id": 17222,
+      "name": "York",
+      "latitude": "44.00011000",
+      "longitude": "-79.46632000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

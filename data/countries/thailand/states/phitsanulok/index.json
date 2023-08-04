@@ -1,0 +1,138 @@
+{
+  "id": 3506,
+  "name": "Phitsanulok",
+  "state_code": "65",
+  "latitude": "16.82112380",
+  "longitude": "100.26585160",
+  "type": null,
+  "cities": [
+    {
+      "id": 105229,
+      "name": "Amphoe Bang Krathum",
+      "latitude": "16.59323000",
+      "longitude": "100.35042000"
+    },
+    {
+      "id": 105241,
+      "name": "Amphoe Bang Rakam",
+      "latitude": "16.71844000",
+      "longitude": "100.04217000"
+    },
+    {
+      "id": 105288,
+      "name": "Amphoe Chat Trakan",
+      "latitude": "17.39357000",
+      "longitude": "100.68460000"
+    },
+    {
+      "id": 105573,
+      "name": "Amphoe Mueang Phitsanulok",
+      "latitude": "16.84040000",
+      "longitude": "100.27298000"
+    },
+    {
+      "id": 105633,
+      "name": "Amphoe Nakhon Thai",
+      "latitude": "17.09426000",
+      "longitude": "100.86437000"
+    },
+    {
+      "id": 105647,
+      "name": "Amphoe Noen Maprang",
+      "latitude": "16.56400000",
+      "longitude": "100.70995000"
+    },
+    {
+      "id": 105773,
+      "name": "Amphoe Phrom Phiram",
+      "latitude": "17.06894000",
+      "longitude": "100.15350000"
+    },
+    {
+      "id": 106348,
+      "name": "Amphoe Wang Thong",
+      "latitude": "16.85000000",
+      "longitude": "100.58333000"
+    },
+    {
+      "id": 106355,
+      "name": "Amphoe Wat Bot",
+      "latitude": "17.16384000",
+      "longitude": "100.36298000"
+    },
+    {
+      "id": 106430,
+      "name": "Bang Krathum",
+      "latitude": "16.57831000",
+      "longitude": "100.30034000"
+    },
+    {
+      "id": 106444,
+      "name": "Bang Rakam",
+      "latitude": "16.75847000",
+      "longitude": "100.11742000"
+    },
+    {
+      "id": 106468,
+      "name": "Chat Trakan",
+      "latitude": "17.27606000",
+      "longitude": "100.60022000"
+    },
+    {
+      "id": 106586,
+      "name": "Nakhon Thai",
+      "latitude": "17.10056000",
+      "longitude": "100.83739000"
+    },
+    {
+      "id": 106636,
+      "name": "Phitsanulok",
+      "latitude": "16.82481000",
+      "longitude": "100.25858000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 3799,
+  "name": "Hòa Bình",
+  "state_code": "14",
+  "latitude": "20.68612650",
+  "longitude": "105.31311850",
+  "type": null,
+  "cities": [
+    {
+      "id": 130559,
+      "name": "Hòa Bình",
+      "latitude": "20.81717000",
+      "longitude": "105.33759000"
+    },
+    {
+      "id": 130245,
+      "name": "Huyện Cao Phong",
+      "latitude": "20.69532000",
+      "longitude": "105.33559000"
+    },
+    {
+      "id": 130338,
+      "name": "Huyện Kỳ Sơn",
+      "latitude": "20.89631000",
+      "longitude": "105.39659000"
+    },
+    {
+      "id": 130350,
+      "name": "Huyện Lạc Thủy",
+      "latitude": "20.49794000",
+      "longitude": "105.74092000"
+    },
+    {
+      "id": 130349,
+      "name": "Huyện Lương Sơn",
+      "latitude": "20.87650000",
+      "longitude": "105.51219000"
+    },
+    {
+      "id": 130484,
+      "name": "Huyện Tân Lạc",
+      "latitude": "20.60557000",
+      "longitude": "105.23399000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

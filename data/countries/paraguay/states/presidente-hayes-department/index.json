@@ -1,0 +1,72 @@
+{
+  "id": 2770,
+  "name": "Presidente Hayes Department",
+  "state_code": "15",
+  "latitude": "-23.35126050",
+  "longitude": "-58.73736340",
+  "type": null,
+  "cities": [
+    {
+      "id": 89727,
+      "name": "Benjamín Aceval",
+      "latitude": "-24.96667000",
+      "longitude": "-57.56667000"
+    },
+    {
+      "id": 89798,
+      "name": "Nanawua",
+      "latitude": "-25.27930000",
+      "longitude": "-57.70307000"
+    },
+    {
+      "id": 89845,
+      "name": "Villa Hayes",
+      "latitude": "-25.09306000",
+      "longitude": "-57.52361000"
+    }
+  ],
+  "country": {
+    "id": 172,
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "iso2": "PY",
+    "numeric_code": "600",
+    "phone_code": "595",
+    "capital": "Asuncion",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "tld": ".py",
+    "native": "Paraguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Asuncion",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PYST",
+        "tzName": "Paraguay Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "파라과이",
+      "pt-BR": "Paraguai",
+      "pt": "Paraguai",
+      "nl": "Paraguay",
+      "hr": "Paragvaj",
+      "fa": "پاراگوئه",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "fr": "Paraguay",
+      "ja": "パラグアイ",
+      "it": "Paraguay",
+      "cn": "巴拉圭",
+      "tr": "Paraguay"
+    },
+    "latitude": "-23.00000000",
+    "longitude": "-58.00000000",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE"
+  }
+}

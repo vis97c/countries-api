@@ -1,0 +1,60 @@
+{
+  "id": 4452,
+  "name": "Koknese Municipality",
+  "state_code": "046",
+  "latitude": "56.72055600",
+  "longitude": "25.48939090",
+  "type": null,
+  "cities": [
+    {
+      "id": 66913,
+      "name": "Koknese",
+      "latitude": "56.65163000",
+      "longitude": "25.43637000"
+    }
+  ],
+  "country": {
+    "id": 120,
+    "name": "Latvia",
+    "iso3": "LVA",
+    "iso2": "LV",
+    "numeric_code": "428",
+    "phone_code": "371",
+    "capital": "Riga",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "native": "Latvija",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "라트비아",
+      "pt-BR": "Letônia",
+      "pt": "Letónia",
+      "nl": "Letland",
+      "hr": "Latvija",
+      "fa": "لتونی",
+      "de": "Lettland",
+      "es": "Letonia",
+      "fr": "Lettonie",
+      "ja": "ラトビア",
+      "it": "Lettonia",
+      "cn": "拉脱维亚",
+      "tr": "Letonya"
+    },
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1987,
+  "name": "Luapula Province",
+  "state_code": "04",
+  "latitude": "-11.56483100",
+  "longitude": "29.04599270",
+  "type": null,
+  "cities": [
+    {
+      "id": 131357,
+      "name": "Kawambwa",
+      "latitude": "-9.79150000",
+      "longitude": "29.07913000"
+    },
+    {
+      "id": 131368,
+      "name": "Mansa",
+      "latitude": "-11.19976000",
+      "longitude": "28.89431000"
+    },
+    {
+      "id": 131382,
+      "name": "Mwense",
+      "latitude": "-10.38447000",
+      "longitude": "28.69800000"
+    },
+    {
+      "id": 131387,
+      "name": "Nchelenge",
+      "latitude": "-9.34506000",
+      "longitude": "28.73396000"
+    },
+    {
+      "id": 131391,
+      "name": "Samfya",
+      "latitude": "-11.36491000",
+      "longitude": "29.55652000"
+    }
+  ],
+  "country": {
+    "id": 246,
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "numeric_code": "894",
+    "phone_code": "260",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "native": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "잠비아",
+      "pt-BR": "Zâmbia",
+      "pt": "Zâmbia",
+      "nl": "Zambia",
+      "hr": "Zambija",
+      "fa": "زامبیا",
+      "de": "Sambia",
+      "es": "Zambia",
+      "fr": "Zambie",
+      "ja": "ザンビア",
+      "it": "Zambia",
+      "cn": "赞比亚",
+      "tr": "Zambiya"
+    },
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  }
+}

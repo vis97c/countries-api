@@ -1,0 +1,132 @@
+{
+  "id": 1609,
+  "name": "Šiauliai City Municipality",
+  "state_code": "43",
+  "latitude": "55.93490850",
+  "longitude": "23.31368230",
+  "type": null,
+  "cities": [
+    {
+      "id": 66577,
+      "name": "Akmenė",
+      "latitude": "56.25000000",
+      "longitude": "22.75000000"
+    },
+    {
+      "id": 66607,
+      "name": "Joniškis",
+      "latitude": "56.23333000",
+      "longitude": "23.61667000"
+    },
+    {
+      "id": 66619,
+      "name": "Kelmė",
+      "latitude": "55.63333000",
+      "longitude": "22.93333000"
+    },
+    {
+      "id": 66627,
+      "name": "Kuršėnai",
+      "latitude": "56.00318000",
+      "longitude": "22.93662000"
+    },
+    {
+      "id": 66633,
+      "name": "Linkuva",
+      "latitude": "56.08596000",
+      "longitude": "23.97061000"
+    },
+    {
+      "id": 66642,
+      "name": "Naujoji Akmene",
+      "latitude": "56.31667000",
+      "longitude": "22.90000000"
+    },
+    {
+      "id": 66649,
+      "name": "Pakruojis",
+      "latitude": "55.96667000",
+      "longitude": "23.86667000"
+    },
+    {
+      "id": 66662,
+      "name": "Radviliskis",
+      "latitude": "55.81667000",
+      "longitude": "23.53333000"
+    },
+    {
+      "id": 66710,
+      "name": "Šeduva",
+      "latitude": "55.74930000",
+      "longitude": "23.75610000"
+    },
+    {
+      "id": 66712,
+      "name": "Šiauliai",
+      "latitude": "55.93333000",
+      "longitude": "23.31667000"
+    },
+    {
+      "id": 66688,
+      "name": "Tytuvėnėliai",
+      "latitude": "55.62345000",
+      "longitude": "23.17162000"
+    },
+    {
+      "id": 66696,
+      "name": "Venta",
+      "latitude": "56.19162000",
+      "longitude": "22.69528000"
+    },
+    {
+      "id": 66721,
+      "name": "Žagarė",
+      "latitude": "56.36149000",
+      "longitude": "23.25094000"
+    }
+  ],
+  "country": {
+    "id": 126,
+    "name": "Lithuania",
+    "iso3": "LTU",
+    "iso2": "LT",
+    "numeric_code": "440",
+    "phone_code": "370",
+    "capital": "Vilnius",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "native": "Lietuva",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "리투아니아",
+      "pt-BR": "Lituânia",
+      "pt": "Lituânia",
+      "nl": "Litouwen",
+      "hr": "Litva",
+      "fa": "لیتوانی",
+      "de": "Litauen",
+      "es": "Lituania",
+      "fr": "Lituanie",
+      "ja": "リトアニア",
+      "it": "Lituania",
+      "cn": "立陶宛",
+      "tr": "Litvanya"
+    },
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  }
+}

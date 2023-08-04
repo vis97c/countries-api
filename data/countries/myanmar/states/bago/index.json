@@ -1,0 +1,108 @@
+{
+  "id": 2141,
+  "name": "Bago",
+  "state_code": "02",
+  "latitude": "17.32207110",
+  "longitude": "96.46632860",
+  "type": null,
+  "cities": [
+    {
+      "id": 67631,
+      "name": "Bago",
+      "latitude": "17.33521000",
+      "longitude": "96.48135000"
+    },
+    {
+      "id": 67651,
+      "name": "Letpandan",
+      "latitude": "17.78664000",
+      "longitude": "95.75076000"
+    },
+    {
+      "id": 67674,
+      "name": "Nyaunglebin",
+      "latitude": "17.95363000",
+      "longitude": "96.72247000"
+    },
+    {
+      "id": 67678,
+      "name": "Paungde",
+      "latitude": "18.49167000",
+      "longitude": "95.50591000"
+    },
+    {
+      "id": 67681,
+      "name": "Pyay",
+      "latitude": "18.82464000",
+      "longitude": "95.22216000"
+    },
+    {
+      "id": 67684,
+      "name": "Pyu",
+      "latitude": "18.48130000",
+      "longitude": "96.43742000"
+    },
+    {
+      "id": 67694,
+      "name": "Taungoo",
+      "latitude": "18.94291000",
+      "longitude": "96.43408000"
+    },
+    {
+      "id": 67695,
+      "name": "Thanatpin",
+      "latitude": "17.29136000",
+      "longitude": "96.57523000"
+    },
+    {
+      "id": 67696,
+      "name": "Tharyarwady",
+      "latitude": "17.65399000",
+      "longitude": "95.78813000"
+    }
+  ],
+  "country": {
+    "id": 151,
+    "name": "Myanmar",
+    "iso3": "MMR",
+    "iso2": "MM",
+    "numeric_code": "104",
+    "phone_code": "95",
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK",
+    "currency_name": "Burmese kyat",
+    "currency_symbol": "K",
+    "tld": ".mm",
+    "native": "မြန်မာ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yangon",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "MMT",
+        "tzName": "Myanmar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미얀마",
+      "pt-BR": "Myanmar",
+      "pt": "Myanmar",
+      "nl": "Myanmar",
+      "hr": "Mijanmar",
+      "fa": "میانمار",
+      "de": "Myanmar",
+      "es": "Myanmar",
+      "fr": "Myanmar",
+      "ja": "ミャンマー",
+      "it": "Birmania",
+      "cn": "缅甸",
+      "tr": "Myanmar"
+    },
+    "latitude": "22.00000000",
+    "longitude": "98.00000000",
+    "emoji": "🇲🇲",
+    "emojiU": "U+1F1F2 U+1F1F2"
+  }
+}

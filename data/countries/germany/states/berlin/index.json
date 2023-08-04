@@ -1,0 +1,643 @@
+{
+  "id": 3010,
+  "name": "Berlin",
+  "state_code": "BE",
+  "latitude": "52.52000660",
+  "longitude": "13.40495400",
+  "type": null,
+  "cities": [
+    {
+      "id": 23490,
+      "name": "Adlershof",
+      "latitude": "52.43548000",
+      "longitude": "13.54825000"
+    },
+    {
+      "id": 23579,
+      "name": "Alt-Hohenschönhausen",
+      "latitude": "52.54608000",
+      "longitude": "13.50130000"
+    },
+    {
+      "id": 23581,
+      "name": "Alt-Treptow",
+      "latitude": "52.48863000",
+      "longitude": "13.45860000"
+    },
+    {
+      "id": 23621,
+      "name": "Altglienicke",
+      "latitude": "52.41116000",
+      "longitude": "13.53550000"
+    },
+    {
+      "id": 23959,
+      "name": "Baumschulenweg",
+      "latitude": "52.46583000",
+      "longitude": "13.48523000"
+    },
+    {
+      "id": 24053,
+      "name": "Berlin",
+      "latitude": "52.52437000",
+      "longitude": "13.41053000"
+    },
+    {
+      "id": 24054,
+      "name": "Berlin Köpenick",
+      "latitude": "52.44254000",
+      "longitude": "13.58228000"
+    },
+    {
+      "id": 24055,
+      "name": "Berlin Treptow",
+      "latitude": "52.49376000",
+      "longitude": "13.44469000"
+    },
+    {
+      "id": 24111,
+      "name": "Biesdorf",
+      "latitude": "52.50906000",
+      "longitude": "13.55340000"
+    },
+    {
+      "id": 24165,
+      "name": "Blankenburg",
+      "latitude": "52.59293000",
+      "longitude": "13.45516000"
+    },
+    {
+      "id": 24167,
+      "name": "Blankenfelde",
+      "latitude": "52.61863000",
+      "longitude": "13.39057000"
+    },
+    {
+      "id": 24217,
+      "name": "Bohnsdorf",
+      "latitude": "52.39434000",
+      "longitude": "13.57339000"
+    },
+    {
+      "id": 24338,
+      "name": "Britz",
+      "latitude": "52.44293000",
+      "longitude": "13.43388000"
+    },
+    {
+      "id": 24379,
+      "name": "Buch",
+      "latitude": "52.63470000",
+      "longitude": "13.49679000"
+    },
+    {
+      "id": 24397,
+      "name": "Buckow",
+      "latitude": "52.43200000",
+      "longitude": "13.46018000"
+    },
+    {
+      "id": 24531,
+      "name": "Charlottenburg",
+      "latitude": "52.51667000",
+      "longitude": "13.28333000"
+    },
+    {
+      "id": 24532,
+      "name": "Charlottenburg-Nord",
+      "latitude": "52.53048000",
+      "longitude": "13.29371000"
+    },
+    {
+      "id": 24578,
+      "name": "Dahlem",
+      "latitude": "52.45810000",
+      "longitude": "13.28702000"
+    },
+    {
+      "id": 25134,
+      "name": "Falkenberg",
+      "latitude": "52.56800000",
+      "longitude": "13.54597000"
+    },
+    {
+      "id": 25136,
+      "name": "Falkenhagener Feld",
+      "latitude": "52.55191000",
+      "longitude": "13.16802000"
+    },
+    {
+      "id": 25163,
+      "name": "Fennpfuhl",
+      "latitude": "52.52921000",
+      "longitude": "13.47267000"
+    },
+    {
+      "id": 25225,
+      "name": "Französisch Buchholz",
+      "latitude": "52.60242000",
+      "longitude": "13.43019000"
+    },
+    {
+      "id": 25274,
+      "name": "Friedenau",
+      "latitude": "52.47133000",
+      "longitude": "13.32813000"
+    },
+    {
+      "id": 25287,
+      "name": "Friedrichsfelde",
+      "latitude": "52.50575000",
+      "longitude": "13.50812000"
+    },
+    {
+      "id": 25289,
+      "name": "Friedrichshagen",
+      "latitude": "52.45052000",
+      "longitude": "13.62463000"
+    },
+    {
+      "id": 25290,
+      "name": "Friedrichshain",
+      "latitude": "52.51559000",
+      "longitude": "13.45482000"
+    },
+    {
+      "id": 25305,
+      "name": "Frohnau",
+      "latitude": "52.63336000",
+      "longitude": "13.29024000"
+    },
+    {
+      "id": 25376,
+      "name": "Gatow",
+      "latitude": "52.48324000",
+      "longitude": "13.18285000"
+    },
+    {
+      "id": 25475,
+      "name": "Gesundbrunnen",
+      "latitude": "52.55035000",
+      "longitude": "13.39139000"
+    },
+    {
+      "id": 25616,
+      "name": "Gropiusstadt",
+      "latitude": "52.42500000",
+      "longitude": "13.46667000"
+    },
+    {
+      "id": 25734,
+      "name": "Grünau",
+      "latitude": "52.41642000",
+      "longitude": "13.58039000"
+    },
+    {
+      "id": 25719,
+      "name": "Grunewald",
+      "latitude": "52.48338000",
+      "longitude": "13.26586000"
+    },
+    {
+      "id": 25841,
+      "name": "Hakenfelde",
+      "latitude": "52.55877000",
+      "longitude": "13.20831000"
+    },
+    {
+      "id": 25848,
+      "name": "Halensee",
+      "latitude": "52.49005000",
+      "longitude": "13.29602000"
+    },
+    {
+      "id": 25892,
+      "name": "Hansaviertel",
+      "latitude": "52.51853000",
+      "longitude": "13.34178000"
+    },
+    {
+      "id": 25926,
+      "name": "Haselhorst",
+      "latitude": "52.54409000",
+      "longitude": "13.23743000"
+    },
+    {
+      "id": 26000,
+      "name": "Heiligensee",
+      "latitude": "52.61449000",
+      "longitude": "13.24501000"
+    },
+    {
+      "id": 26013,
+      "name": "Heinersdorf",
+      "latitude": "52.57173000",
+      "longitude": "13.43757000"
+    },
+    {
+      "id": 26026,
+      "name": "Hellersdorf",
+      "latitude": "52.53319000",
+      "longitude": "13.60880000"
+    },
+    {
+      "id": 26082,
+      "name": "Hermsdorf",
+      "latitude": "52.61421000",
+      "longitude": "13.30587000"
+    },
+    {
+      "id": 26457,
+      "name": "Johannisthal",
+      "latitude": "52.44653000",
+      "longitude": "13.50660000"
+    },
+    {
+      "id": 26517,
+      "name": "Karlshorst",
+      "latitude": "52.48419000",
+      "longitude": "13.53185000"
+    },
+    {
+      "id": 26523,
+      "name": "Karow",
+      "latitude": "52.60904000",
+      "longitude": "13.48117000"
+    },
+    {
+      "id": 26545,
+      "name": "Kaulsdorf",
+      "latitude": "52.51732000",
+      "longitude": "13.58871000"
+    },
+    {
+      "id": 26655,
+      "name": "Kladow",
+      "latitude": "52.45423000",
+      "longitude": "13.14445000"
+    },
+    {
+      "id": 26716,
+      "name": "Konradshöhe",
+      "latitude": "52.58535000",
+      "longitude": "13.22758000"
+    },
+    {
+      "id": 26842,
+      "name": "Köpenick",
+      "latitude": "52.44550000",
+      "longitude": "13.57455000"
+    },
+    {
+      "id": 26756,
+      "name": "Kreuzberg",
+      "latitude": "52.49973000",
+      "longitude": "13.40338000"
+    },
+    {
+      "id": 26948,
+      "name": "Lankwitz",
+      "latitude": "52.43623000",
+      "longitude": "13.34590000"
+    },
+    {
+      "id": 27078,
+      "name": "Lichtenberg",
+      "latitude": "52.51395000",
+      "longitude": "13.49975000"
+    },
+    {
+      "id": 27082,
+      "name": "Lichtenrade",
+      "latitude": "52.39844000",
+      "longitude": "13.40637000"
+    },
+    {
+      "id": 27085,
+      "name": "Lichterfelde",
+      "latitude": "52.43330000",
+      "longitude": "13.30762000"
+    },
+    {
+      "id": 27201,
+      "name": "Lübars",
+      "latitude": "52.61591000",
+      "longitude": "13.35350000"
+    },
+    {
+      "id": 27233,
+      "name": "Mahlsdorf",
+      "latitude": "52.50935000",
+      "longitude": "13.61373000"
+    },
+    {
+      "id": 27274,
+      "name": "Mariendorf",
+      "latitude": "52.43780000",
+      "longitude": "13.38109000"
+    },
+    {
+      "id": 27275,
+      "name": "Marienfelde",
+      "latitude": "52.41868000",
+      "longitude": "13.36723000"
+    },
+    {
+      "id": 27554,
+      "name": "Märkisches Viertel",
+      "latitude": "52.59841000",
+      "longitude": "13.35766000"
+    },
+    {
+      "id": 27334,
+      "name": "Marzahn",
+      "latitude": "52.54525000",
+      "longitude": "13.56983000"
+    },
+    {
+      "id": 27478,
+      "name": "Mitte",
+      "latitude": "52.52003000",
+      "longitude": "13.40489000"
+    },
+    {
+      "id": 27496,
+      "name": "Moabit",
+      "latitude": "52.52635000",
+      "longitude": "13.33903000"
+    },
+    {
+      "id": 27587,
+      "name": "Müggelheim",
+      "latitude": "52.41137000",
+      "longitude": "13.66403000"
+    },
+    {
+      "id": 27693,
+      "name": "Neu-Hohenschönhausen",
+      "latitude": "52.56681000",
+      "longitude": "13.51255000"
+    },
+    {
+      "id": 27765,
+      "name": "Neukölln",
+      "latitude": "52.47719000",
+      "longitude": "13.43126000"
+    },
+    {
+      "id": 27873,
+      "name": "Niederschöneweide",
+      "latitude": "52.45564000",
+      "longitude": "13.51554000"
+    },
+    {
+      "id": 27874,
+      "name": "Niederschönhausen",
+      "latitude": "52.58483000",
+      "longitude": "13.40272000"
+    },
+    {
+      "id": 27899,
+      "name": "Nikolassee",
+      "latitude": "52.43440000",
+      "longitude": "13.20095000"
+    },
+    {
+      "id": 28034,
+      "name": "Oberschöneweide",
+      "latitude": "52.46106000",
+      "longitude": "13.52108000"
+    },
+    {
+      "id": 28216,
+      "name": "Pankow",
+      "latitude": "52.56926000",
+      "longitude": "13.40186000"
+    },
+    {
+      "id": 28330,
+      "name": "Plänterwald",
+      "latitude": "52.48106000",
+      "longitude": "13.47276000"
+    },
+    {
+      "id": 28375,
+      "name": "Prenzlauer Berg",
+      "latitude": "52.53878000",
+      "longitude": "13.42443000"
+    },
+    {
+      "id": 28452,
+      "name": "Rahnsdorf",
+      "latitude": "52.44115000",
+      "longitude": "13.68708000"
+    },
+    {
+      "id": 28562,
+      "name": "Reinickendorf",
+      "latitude": "52.56667000",
+      "longitude": "13.33333000"
+    },
+    {
+      "id": 28710,
+      "name": "Rosenthal",
+      "latitude": "52.59976000",
+      "longitude": "13.37774000"
+    },
+    {
+      "id": 28753,
+      "name": "Rudow",
+      "latitude": "52.42407000",
+      "longitude": "13.48529000"
+    },
+    {
+      "id": 28762,
+      "name": "Rummelsburg",
+      "latitude": "52.50146000",
+      "longitude": "13.49340000"
+    },
+    {
+      "id": 28989,
+      "name": "Schmargendorf",
+      "latitude": "52.47517000",
+      "longitude": "13.29071000"
+    },
+    {
+      "id": 28998,
+      "name": "Schmöckwitz",
+      "latitude": "52.37513000",
+      "longitude": "13.64948000"
+    },
+    {
+      "id": 29116,
+      "name": "Schöneberg",
+      "latitude": "52.46667000",
+      "longitude": "13.35000000"
+    },
+    {
+      "id": 29218,
+      "name": "Siemensstadt",
+      "latitude": "52.54053000",
+      "longitude": "13.26294000"
+    },
+    {
+      "id": 29286,
+      "name": "Spandau",
+      "latitude": "52.55110000",
+      "longitude": "13.19921000"
+    },
+    {
+      "id": 29313,
+      "name": "Staaken",
+      "latitude": "52.53661000",
+      "longitude": "13.15057000"
+    },
+    {
+      "id": 29329,
+      "name": "Stadtrandsiedlung Malchow",
+      "latitude": "52.58295000",
+      "longitude": "13.47811000"
+    },
+    {
+      "id": 29353,
+      "name": "Steglitz",
+      "latitude": "52.45606000",
+      "longitude": "13.33200000"
+    },
+    {
+      "id": 29543,
+      "name": "Tegel",
+      "latitude": "52.57601000",
+      "longitude": "13.29389000"
+    },
+    {
+      "id": 29555,
+      "name": "Tempelhof",
+      "latitude": "52.46667000",
+      "longitude": "13.40000000"
+    },
+    {
+      "id": 29612,
+      "name": "Tiergarten",
+      "latitude": "52.51667000",
+      "longitude": "13.36667000"
+    },
+    {
+      "id": 29926,
+      "name": "Waidmannslust",
+      "latitude": "52.60691000",
+      "longitude": "13.31968000"
+    },
+    {
+      "id": 30008,
+      "name": "Wannsee",
+      "latitude": "52.41915000",
+      "longitude": "13.15531000"
+    },
+    {
+      "id": 30025,
+      "name": "Wartenberg",
+      "latitude": "52.57520000",
+      "longitude": "13.51559000"
+    },
+    {
+      "id": 30048,
+      "name": "Wedding",
+      "latitude": "52.54734000",
+      "longitude": "13.35594000"
+    },
+    {
+      "id": 30134,
+      "name": "Weißensee",
+      "latitude": "52.55632000",
+      "longitude": "13.46649000"
+    },
+    {
+      "id": 30200,
+      "name": "Westend",
+      "latitude": "52.51708000",
+      "longitude": "13.27636000"
+    },
+    {
+      "id": 30287,
+      "name": "Wilhelmsruh",
+      "latitude": "52.58710000",
+      "longitude": "13.36855000"
+    },
+    {
+      "id": 30288,
+      "name": "Wilhelmstadt",
+      "latitude": "52.52462000",
+      "longitude": "13.17707000"
+    },
+    {
+      "id": 30299,
+      "name": "Wilmersdorf",
+      "latitude": "52.48333000",
+      "longitude": "13.31667000"
+    },
+    {
+      "id": 30350,
+      "name": "Wittenau",
+      "latitude": "52.59319000",
+      "longitude": "13.32127000"
+    },
+    {
+      "id": 30475,
+      "name": "Zehlendorf",
+      "latitude": "52.43333000",
+      "longitude": "13.25000000"
+    }
+  ],
+  "country": {
+    "id": 82,
+    "name": "Germany",
+    "iso3": "DEU",
+    "iso2": "DE",
+    "numeric_code": "276",
+    "phone_code": "49",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".de",
+    "native": "Deutschland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Berlin",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Europe/Busingen",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "독일",
+      "pt-BR": "Alemanha",
+      "pt": "Alemanha",
+      "nl": "Duitsland",
+      "hr": "Njemačka",
+      "fa": "آلمان",
+      "de": "Deutschland",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ",
+      "it": "Germania",
+      "cn": "德国",
+      "tr": "Almanya"
+    },
+    "latitude": "51.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇩🇪",
+    "emojiU": "U+1F1E9 U+1F1EA"
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": 134,
+  "name": "Mali",
+  "iso3": "MLI",
+  "iso2": "ML",
+  "numeric_code": "466",
+  "phone_code": "223",
+  "capital": "Bamako",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".ml",
+  "native": "Mali",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Bamako",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "kr": "말리",
+    "pt-BR": "Mali",
+    "pt": "Mali",
+    "nl": "Mali",
+    "hr": "Mali",
+    "fa": "مالی",
+    "de": "Mali",
+    "es": "Mali",
+    "fr": "Mali",
+    "ja": "マリ",
+    "it": "Mali",
+    "cn": "马里",
+    "tr": "Mali"
+  },
+  "latitude": "17.00000000",
+  "longitude": "-4.00000000",
+  "emoji": "🇲🇱",
+  "emojiU": "U+1F1F2 U+1F1F1",
+  "states": [
+    {
+      "id": 253,
+      "name": "Bamako",
+      "state_code": "BKO",
+      "latitude": "12.63923160",
+      "longitude": "-8.00288920",
+      "type": null,
+      "cities": [
+        {
+          "id": 67587,
+          "name": "Bamako",
+          "latitude": "12.65000000",
+          "longitude": "-8.00000000"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Gao Region",
+      "state_code": "7",
+      "latitude": "16.90663320",
+      "longitude": "1.52086240",
+      "type": null,
+      "cities": [
+        {
+          "id": 67584,
+          "name": "Ansongo",
+          "latitude": "15.65970000",
+          "longitude": "0.50220000"
+        },
+        {
+          "id": 67592,
+          "name": "Cercle de Bourem",
+          "latitude": "17.71192000",
+          "longitude": "-0.34284000"
+        },
+        {
+          "id": 67601,
+          "name": "Gao",
+          "latitude": "16.27167000",
+          "longitude": "-0.04472000"
+        },
+        {
+          "id": 67602,
+          "name": "Gao Cercle",
+          "latitude": "16.72237000",
+          "longitude": "0.43984000"
+        },
+        {
+          "id": 67605,
+          "name": "Inékar",
+          "latitude": "15.95944000",
+          "longitude": "3.14111000"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Kayes Region",
+      "state_code": "1",
+      "latitude": "14.08183080",
+      "longitude": "-9.90181310",
+      "type": null,
+      "cities": [
+        {
+          "id": 67586,
+          "name": "Bafoulabé",
+          "latitude": "13.80650000",
+          "longitude": "-10.83210000"
+        },
+        {
+          "id": 67608,
+          "name": "Kayes",
+          "latitude": "14.44693000",
+          "longitude": "-11.44448000"
+        },
+        {
+          "id": 67611,
+          "name": "Kita",
+          "latitude": "13.03490000",
+          "longitude": "-9.48950000"
+        },
+        {
+          "id": 67612,
+          "name": "Kokofata",
+          "latitude": "12.88333000",
+          "longitude": "-9.95000000"
+        },
+        {
+          "id": 67623,
+          "name": "Sagalo",
+          "latitude": "12.20000000",
+          "longitude": "-10.70000000"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Kidal Region",
+      "state_code": "8",
+      "latitude": "18.79868320",
+      "longitude": "1.83183340",
+      "type": null,
+      "cities": [
+        {
+          "id": 67583,
+          "name": "Abeïbara",
+          "latitude": "19.11667000",
+          "longitude": "1.75000000"
+        },
+        {
+          "id": 67595,
+          "name": "Cercle d’Abeïbara",
+          "latitude": "19.48878000",
+          "longitude": "2.20025000"
+        },
+        {
+          "id": 67609,
+          "name": "Kidal",
+          "latitude": "18.44111000",
+          "longitude": "1.40778000"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Koulikoro Region",
+      "state_code": "2",
+      "latitude": "13.80180740",
+      "longitude": "-7.43813550",
+      "type": null,
+      "cities": [
+        {
+          "id": 67588,
+          "name": "Banamba",
+          "latitude": "13.54773000",
+          "longitude": "-7.44808000"
+        },
+        {
+          "id": 67606,
+          "name": "Kangaba",
+          "latitude": "11.93333000",
+          "longitude": "-8.41667000"
+        },
+        {
+          "id": 67607,
+          "name": "Kati",
+          "latitude": "12.74409000",
+          "longitude": "-8.07257000"
+        },
+        {
+          "id": 67613,
+          "name": "Kolokani",
+          "latitude": "13.57280000",
+          "longitude": "-8.03390000"
+        },
+        {
+          "id": 67615,
+          "name": "Koulikoro",
+          "latitude": "12.86273000",
+          "longitude": "-7.55985000"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Ménaka Region",
+      "state_code": "9",
+      "latitude": "15.91564210",
+      "longitude": "2.39617400",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 255,
+      "name": "Mopti Region",
+      "state_code": "5",
+      "latitude": "14.63380390",
+      "longitude": "-3.41955270",
+      "type": null,
+      "cities": [
+        {
+          "id": 67589,
+          "name": "Bandiagara",
+          "latitude": "14.35005000",
+          "longitude": "-3.61038000"
+        },
+        {
+          "id": 67598,
+          "name": "Djénné",
+          "latitude": "13.90608000",
+          "longitude": "-4.55332000"
+        },
+        {
+          "id": 67599,
+          "name": "Douentza",
+          "latitude": "15.00155000",
+          "longitude": "-2.94978000"
+        },
+        {
+          "id": 67600,
+          "name": "Douentza Cercle",
+          "latitude": "15.06947000",
+          "longitude": "-2.40875000"
+        },
+        {
+          "id": 67620,
+          "name": "Mopti",
+          "latitude": "14.48430000",
+          "longitude": "-4.18296000"
+        },
+        {
+          "id": 67629,
+          "name": "Ténenkou",
+          "latitude": "14.45722000",
+          "longitude": "-4.91690000"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Ségou Region",
+      "state_code": "4",
+      "latitude": "13.83944560",
+      "longitude": "-6.06791940",
+      "type": null,
+      "cities": [
+        {
+          "id": 67590,
+          "name": "Baroueli",
+          "latitude": "13.07489000",
+          "longitude": "-6.57171000"
+        },
+        {
+          "id": 67594,
+          "name": "Cercle de San",
+          "latitude": "13.17895000",
+          "longitude": "-5.01617000"
+        },
+        {
+          "id": 67618,
+          "name": "Ké-Macina",
+          "latitude": "13.96410000",
+          "longitude": "-5.35791000"
+        },
+        {
+          "id": 67610,
+          "name": "Kinmparana",
+          "latitude": "12.84217000",
+          "longitude": "-4.92450000"
+        },
+        {
+          "id": 67619,
+          "name": "Markala",
+          "latitude": "13.70210000",
+          "longitude": "-6.06590000"
+        },
+        {
+          "id": 67624,
+          "name": "San",
+          "latitude": "13.30335000",
+          "longitude": "-4.89562000"
+        },
+        {
+          "id": 67627,
+          "name": "Ségou",
+          "latitude": "13.43170000",
+          "longitude": "-6.21570000"
+        },
+        {
+          "id": 67626,
+          "name": "Sokolo",
+          "latitude": "14.73280000",
+          "longitude": "-6.12190000"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Sikasso Region",
+      "state_code": "3",
+      "latitude": "10.89051860",
+      "longitude": "-7.43813550",
+      "type": null,
+      "cities": [
+        {
+          "id": 67591,
+          "name": "Bougouni",
+          "latitude": "11.41769000",
+          "longitude": "-7.48323000"
+        },
+        {
+          "id": 67614,
+          "name": "Kolondiéba",
+          "latitude": "11.08943000",
+          "longitude": "-6.89290000"
+        },
+        {
+          "id": 67616,
+          "name": "Koutiala",
+          "latitude": "12.39173000",
+          "longitude": "-5.46421000"
+        },
+        {
+          "id": 67617,
+          "name": "Koutiala Cercle",
+          "latitude": "12.35311000",
+          "longitude": "-5.58390000"
+        },
+        {
+          "id": 67622,
+          "name": "Ntossoni",
+          "latitude": "12.53040000",
+          "longitude": "-5.77003000"
+        },
+        {
+          "id": 67625,
+          "name": "Sikasso",
+          "latitude": "11.31755000",
+          "longitude": "-5.66654000"
+        },
+        {
+          "id": 67630,
+          "name": "Yorosso",
+          "latitude": "12.35811000",
+          "longitude": "-4.77688000"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Taoudénit Region",
+      "state_code": "10",
+      "latitude": "22.67641320",
+      "longitude": "-3.97891430",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 248,
+      "name": "Tombouctou Region",
+      "state_code": "6",
+      "latitude": "21.05267060",
+      "longitude": "-3.74350900",
+      "type": null,
+      "cities": [
+        {
+          "id": 67585,
+          "name": "Araouane",
+          "latitude": "18.90476000",
+          "longitude": "-3.52649000"
+        },
+        {
+          "id": 67593,
+          "name": "Cercle de Goundam",
+          "latitude": "18.60035000",
+          "longitude": "-4.99306000"
+        },
+        {
+          "id": 67596,
+          "name": "Dire",
+          "latitude": "16.28017000",
+          "longitude": "-3.31302000"
+        },
+        {
+          "id": 67603,
+          "name": "Goundam",
+          "latitude": "16.41453000",
+          "longitude": "-3.67075000"
+        },
+        {
+          "id": 67604,
+          "name": "Gourma-Rharous Cercle",
+          "latitude": "16.07979000",
+          "longitude": "-1.76981000"
+        },
+        {
+          "id": 67621,
+          "name": "Niafunké",
+          "latitude": "15.93220000",
+          "longitude": "-3.99060000"
+        },
+        {
+          "id": 67628,
+          "name": "Timbuktu",
+          "latitude": "16.77348000",
+          "longitude": "-3.00742000"
+        }
+      ]
+    }
+  ]
+}

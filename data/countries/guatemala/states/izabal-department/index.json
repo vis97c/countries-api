@@ -1,0 +1,96 @@
+{
+  "id": 3659,
+  "name": "Izabal Department",
+  "state_code": "IZ",
+  "latitude": "15.49765170",
+  "longitude": "-88.86469800",
+  "type": null,
+  "cities": [
+    {
+      "id": 53483,
+      "name": "El Estor",
+      "latitude": "15.53333000",
+      "longitude": "-89.35000000"
+    },
+    {
+      "id": 53526,
+      "name": "Lívingston",
+      "latitude": "15.82826000",
+      "longitude": "-88.75039000"
+    },
+    {
+      "id": 53525,
+      "name": "Los Amates",
+      "latitude": "15.25645000",
+      "longitude": "-89.09723000"
+    },
+    {
+      "id": 53537,
+      "name": "Morales",
+      "latitude": "15.48333000",
+      "longitude": "-88.81667000"
+    },
+    {
+      "id": 53571,
+      "name": "Municipio de Morales",
+      "latitude": "15.44494000",
+      "longitude": "-88.76646000"
+    },
+    {
+      "id": 53577,
+      "name": "Municipio de Puerto Barrios",
+      "latitude": "15.71754000",
+      "longitude": "-88.58517000"
+    },
+    {
+      "id": 53634,
+      "name": "Puerto Barrios",
+      "latitude": "15.72778000",
+      "longitude": "-88.59444000"
+    }
+  ],
+  "country": {
+    "id": 90,
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "iso2": "GT",
+    "numeric_code": "320",
+    "phone_code": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "currency_name": "Guatemalan quetzal",
+    "currency_symbol": "Q",
+    "tld": ".gt",
+    "native": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Guatemala",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "과테말라",
+      "pt-BR": "Guatemala",
+      "pt": "Guatemala",
+      "nl": "Guatemala",
+      "hr": "Gvatemala",
+      "fa": "گواتمالا",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fr": "Guatemala",
+      "ja": "グアテマラ",
+      "it": "Guatemala",
+      "cn": "危地马拉",
+      "tr": "Guatemala"
+    },
+    "latitude": "15.50000000",
+    "longitude": "-90.25000000",
+    "emoji": "🇬🇹",
+    "emojiU": "U+1F1EC U+1F1F9"
+  }
+}

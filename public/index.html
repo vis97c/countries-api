@@ -1,11 +1,48 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Country REST API</title>
-</head>
-<body>
-   <h1>Country REST API</h1>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Country REST API</title>
+	</head>
+	<body>
+		<h1>Country REST API</h1>
+
+		<p>
+			<b>Get all <a href="/api/v1">countries</a></b>
+		</p>
+		<br />
+
+		<p>
+			<b>Get especific country here: <a href="/api/v1/spain">Spain</a></b>
+		</p>
+		<p>
+			Match could be made using the country iso2 code or any of the supported name
+			translations (kr, pt, nl, hr, fa, de, es, fr, ja, it, cn, tr).
+		</p>
+		<br />
+
+		<p>
+			<b>
+				To get translations use the "lang" query:
+				<a href="/api/v1/spain?lang=es">Spain</a>
+			</b>
+		</p>
+		<p>
+			<b>
+				Include the states with the "states" query:
+				<a href="/api/v1/spain?lang=es&states">Spain</a>
+			</b>
+		</p>
+		<p>
+			<span>
+				<b>
+					And the cities as well with the "cities" query:
+					<a href="/api/v1/spain?lang=es&states&cities">Spain</a>
+				</b>
+			</span>
+			<br />
+			<span>The "states" query is required</span>
+		</p>
+	</body>
 </html>

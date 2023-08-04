@@ -1,0 +1,149 @@
+{
+  "id": 18,
+  "name": "Bahrain",
+  "iso3": "BHR",
+  "iso2": "BH",
+  "numeric_code": "048",
+  "phone_code": "973",
+  "capital": "Manama",
+  "currency": "BHD",
+  "currency_name": "Bahraini dinar",
+  "currency_symbol": ".د.ب",
+  "tld": ".bh",
+  "native": "‏البحرين",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Bahrain",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "바레인",
+    "pt-BR": "Bahrein",
+    "pt": "Barém",
+    "nl": "Bahrein",
+    "hr": "Bahrein",
+    "fa": "بحرین",
+    "de": "Bahrain",
+    "es": "Bahrein",
+    "fr": "Bahreïn",
+    "ja": "バーレーン",
+    "it": "Bahrein",
+    "cn": "巴林",
+    "tr": "Bahreyn"
+  },
+  "latitude": "26.00000000",
+  "longitude": "50.55000000",
+  "emoji": "🇧🇭",
+  "emojiU": "U+1F1E7 U+1F1ED",
+  "states": [
+    {
+      "id": 1992,
+      "name": "Capital",
+      "state_code": "13",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 9757,
+          "name": "Jidd Ḩafş",
+          "latitude": "26.21861000",
+          "longitude": "50.54778000"
+        },
+        {
+          "id": 9760,
+          "name": "Manama",
+          "latitude": "26.22787000",
+          "longitude": "50.58565000"
+        },
+        {
+          "id": 9761,
+          "name": "Sitrah",
+          "latitude": "26.15472000",
+          "longitude": "50.62056000"
+        }
+      ]
+    },
+    {
+      "id": 1996,
+      "name": "Central",
+      "state_code": "16",
+      "latitude": "26.14260930",
+      "longitude": "50.56532940",
+      "type": null,
+      "cities": [
+        {
+          "id": 9758,
+          "name": "Madīnat Ḩamad",
+          "latitude": "26.11528000",
+          "longitude": "50.50694000"
+        }
+      ]
+    },
+    {
+      "id": 1995,
+      "name": "Muharraq",
+      "state_code": "15",
+      "latitude": "26.26856530",
+      "longitude": "50.64825170",
+      "type": null,
+      "cities": [
+        {
+          "id": 9754,
+          "name": "Al Ḩadd",
+          "latitude": "26.24556000",
+          "longitude": "50.65417000"
+        },
+        {
+          "id": 9753,
+          "name": "Al Muharraq",
+          "latitude": "26.25722000",
+          "longitude": "50.61194000"
+        }
+      ]
+    },
+    {
+      "id": 1994,
+      "name": "Northern",
+      "state_code": "17",
+      "latitude": "26.15519140",
+      "longitude": "50.48251730",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 1993,
+      "name": "Southern",
+      "state_code": "14",
+      "latitude": "25.93810180",
+      "longitude": "50.57568870",
+      "type": null,
+      "cities": [
+        {
+          "id": 9755,
+          "name": "Ar Rifā‘",
+          "latitude": "26.13000000",
+          "longitude": "50.55500000"
+        },
+        {
+          "id": 9756,
+          "name": "Dār Kulayb",
+          "latitude": "26.06861000",
+          "longitude": "50.50389000"
+        },
+        {
+          "id": 9759,
+          "name": "Madīnat ‘Īsá",
+          "latitude": "26.17361000",
+          "longitude": "50.54778000"
+        }
+      ]
+    }
+  ]
+}

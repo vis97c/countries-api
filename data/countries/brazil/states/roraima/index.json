@@ -1,0 +1,243 @@
+{
+  "id": 4858,
+  "name": "Roraima",
+  "state_code": "RR",
+  "latitude": "2.73759710",
+  "longitude": "-62.07509980",
+  "type": null,
+  "cities": [
+    {
+      "id": 142968,
+      "name": "Amajari",
+      "latitude": "3.65416667",
+      "longitude": "-61.41694444"
+    },
+    {
+      "id": 142969,
+      "name": "Boa Vista",
+      "latitude": "2.82000000",
+      "longitude": "-60.67194444"
+    },
+    {
+      "id": 142970,
+      "name": "Bonfim",
+      "latitude": "3.36000000",
+      "longitude": "-59.83277778"
+    },
+    {
+      "id": 142971,
+      "name": "Cantá",
+      "latitude": "2.61000000",
+      "longitude": "-60.59694444"
+    },
+    {
+      "id": 142972,
+      "name": "Caracaraí",
+      "latitude": "1.81583333",
+      "longitude": "-61.12777778"
+    },
+    {
+      "id": 142973,
+      "name": "Caroebe",
+      "latitude": "0.88388889",
+      "longitude": "-59.69583333"
+    },
+    {
+      "id": 142974,
+      "name": "Iracema",
+      "latitude": "2.18194444",
+      "longitude": "-61.04083333"
+    },
+    {
+      "id": 142975,
+      "name": "Mucajaí",
+      "latitude": "2.43000000",
+      "longitude": "-60.90000000"
+    },
+    {
+      "id": 142976,
+      "name": "Normandia",
+      "latitude": "3.88083333",
+      "longitude": "-59.62277778"
+    },
+    {
+      "id": 142977,
+      "name": "Pacaraima",
+      "latitude": "4.43083333",
+      "longitude": "-61.14583333"
+    },
+    {
+      "id": 142978,
+      "name": "Rorainópolis",
+      "latitude": "0.94583333",
+      "longitude": "-60.41777778"
+    },
+    {
+      "id": 142979,
+      "name": "São João da Baliza",
+      "latitude": "0.95083333",
+      "longitude": "-59.91083333"
+    },
+    {
+      "id": 142980,
+      "name": "São Luís",
+      "latitude": "1.00500000",
+      "longitude": "-60.15888889"
+    },
+    {
+      "id": 142981,
+      "name": "Uiramutã",
+      "latitude": "4.59583333",
+      "longitude": "-60.16777778"
+    }
+  ],
+  "country": {
+    "id": 31,
+    "name": "Brazil",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "numeric_code": "076",
+    "phone_code": "55",
+    "capital": "Brasilia",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "native": "Brasil",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "translations": {
+      "kr": "브라질",
+      "pt-BR": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "cn": "巴西",
+      "tr": "Brezilya"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 3559,
+  "name": "Rapla County",
+  "state_code": "70",
+  "latitude": "58.84926250",
+  "longitude": "24.73465690",
+  "type": null,
+  "cities": [
+    {
+      "id": 31612,
+      "name": "Järvakandi",
+      "latitude": "58.77889000",
+      "longitude": "24.82583000"
+    },
+    {
+      "id": 31627,
+      "name": "Kehtna",
+      "latitude": "58.93028000",
+      "longitude": "24.87806000"
+    },
+    {
+      "id": 31628,
+      "name": "Kehtna vald",
+      "latitude": "58.84274000",
+      "longitude": "24.89002000"
+    },
+    {
+      "id": 31636,
+      "name": "Kohila",
+      "latitude": "59.16806000",
+      "longitude": "24.75750000"
+    },
+    {
+      "id": 31637,
+      "name": "Kohila vald",
+      "latitude": "59.15283000",
+      "longitude": "24.73337000"
+    },
+    {
+      "id": 31662,
+      "name": "Märjamaa",
+      "latitude": "58.90389000",
+      "longitude": "24.43056000"
+    },
+    {
+      "id": 31663,
+      "name": "Märjamaa vald",
+      "latitude": "58.90262000",
+      "longitude": "24.39423000"
+    },
+    {
+      "id": 31693,
+      "name": "Rapla",
+      "latitude": "59.00722000",
+      "longitude": "24.79278000"
+    },
+    {
+      "id": 31694,
+      "name": "Rapla vald",
+      "latitude": "59.03309000",
+      "longitude": "24.71793000"
+    }
+  ],
+  "country": {
+    "id": 69,
+    "name": "Estonia",
+    "iso3": "EST",
+    "iso2": "EE",
+    "numeric_code": "233",
+    "phone_code": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "native": "Eesti",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스토니아",
+      "pt-BR": "Estônia",
+      "pt": "Estónia",
+      "nl": "Estland",
+      "hr": "Estonija",
+      "fa": "استونی",
+      "de": "Estland",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア",
+      "it": "Estonia",
+      "cn": "爱沙尼亚",
+      "tr": "Estonya"
+    },
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  }
+}

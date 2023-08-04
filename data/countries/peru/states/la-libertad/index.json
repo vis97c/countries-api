@@ -1,0 +1,234 @@
+{
+  "id": 3683,
+  "name": "La Libertad",
+  "state_code": "LAL",
+  "latitude": "13.49069700",
+  "longitude": "-89.30846070",
+  "type": null,
+  "cities": [
+    {
+      "id": 80562,
+      "name": "Ascope",
+      "latitude": "-7.71444000",
+      "longitude": "-79.10778000"
+    },
+    {
+      "id": 80595,
+      "name": "Cascas",
+      "latitude": "-7.48333000",
+      "longitude": "-78.81667000"
+    },
+    {
+      "id": 80609,
+      "name": "Chepen",
+      "latitude": "-7.14367000",
+      "longitude": "-79.45674000"
+    },
+    {
+      "id": 80611,
+      "name": "Chicama",
+      "latitude": "-7.84472000",
+      "longitude": "-79.14694000"
+    },
+    {
+      "id": 80620,
+      "name": "Chocope",
+      "latitude": "-7.79139000",
+      "longitude": "-79.22167000"
+    },
+    {
+      "id": 80643,
+      "name": "Gran Chimu",
+      "latitude": "-7.57976000",
+      "longitude": "-78.64718000"
+    },
+    {
+      "id": 80644,
+      "name": "Guadalupe",
+      "latitude": "-7.25000000",
+      "longitude": "-79.48333000"
+    },
+    {
+      "id": 80649,
+      "name": "Huamachuco",
+      "latitude": "-7.80000000",
+      "longitude": "-78.06667000"
+    },
+    {
+      "id": 80682,
+      "name": "Julcan",
+      "latitude": "-8.17238000",
+      "longitude": "-78.46356000"
+    },
+    {
+      "id": 80697,
+      "name": "Laredo",
+      "latitude": "-8.08965000",
+      "longitude": "-78.96020000"
+    },
+    {
+      "id": 80715,
+      "name": "Moche",
+      "latitude": "-8.17111000",
+      "longitude": "-79.00917000"
+    },
+    {
+      "id": 80736,
+      "name": "Otuzco",
+      "latitude": "-7.90000000",
+      "longitude": "-78.58333000"
+    },
+    {
+      "id": 80741,
+      "name": "Pacanga",
+      "latitude": "-7.16667000",
+      "longitude": "-79.50000000"
+    },
+    {
+      "id": 80742,
+      "name": "Pacasmayo",
+      "latitude": "-7.40056000",
+      "longitude": "-79.57139000"
+    },
+    {
+      "id": 80745,
+      "name": "Paiján",
+      "latitude": "-7.73291000",
+      "longitude": "-79.30150000"
+    },
+    {
+      "id": 80783,
+      "name": "Provincia de Bolívar",
+      "latitude": "-7.33333000",
+      "longitude": "-77.75000000"
+    },
+    {
+      "id": 80866,
+      "name": "Provincia de Otuzco",
+      "latitude": "-7.90457000",
+      "longitude": "-78.56362000"
+    },
+    {
+      "id": 80868,
+      "name": "Provincia de Pacasmayo",
+      "latitude": "-7.25000000",
+      "longitude": "-79.50000000"
+    },
+    {
+      "id": 80876,
+      "name": "Provincia de Pataz",
+      "latitude": "-8.25000000",
+      "longitude": "-77.33333000"
+    },
+    {
+      "id": 80892,
+      "name": "Provincia de Santiago de Chuco",
+      "latitude": "-8.33333000",
+      "longitude": "-78.25000000"
+    },
+    {
+      "id": 80904,
+      "name": "Provincia de Trujillo",
+      "latitude": "-8.08333000",
+      "longitude": "-78.91667000"
+    },
+    {
+      "id": 80915,
+      "name": "Pueblo Nuevo",
+      "latitude": "-7.18806000",
+      "longitude": "-79.51528000"
+    },
+    {
+      "id": 80931,
+      "name": "Quiruvilca",
+      "latitude": "-7.96667000",
+      "longitude": "-78.20000000"
+    },
+    {
+      "id": 80936,
+      "name": "Salaverry",
+      "latitude": "-8.22100000",
+      "longitude": "-78.97698000"
+    },
+    {
+      "id": 80955,
+      "name": "San Pedro de Lloc",
+      "latitude": "-7.42890000",
+      "longitude": "-79.50416000"
+    },
+    {
+      "id": 80959,
+      "name": "Sanchez Carrion",
+      "latitude": "-7.78538000",
+      "longitude": "-77.92586000"
+    },
+    {
+      "id": 80965,
+      "name": "Santiago de Cao",
+      "latitude": "-7.95889000",
+      "longitude": "-79.23917000"
+    },
+    {
+      "id": 80966,
+      "name": "Santiago de Chuco",
+      "latitude": "-8.14099000",
+      "longitude": "-78.17329000"
+    },
+    {
+      "id": 80998,
+      "name": "Trujillo",
+      "latitude": "-8.11599000",
+      "longitude": "-79.02998000"
+    },
+    {
+      "id": 81010,
+      "name": "Viru",
+      "latitude": "-8.52199000",
+      "longitude": "-78.60355000"
+    }
+  ],
+  "country": {
+    "id": 173,
+    "name": "Peru",
+    "iso3": "PER",
+    "iso2": "PE",
+    "numeric_code": "604",
+    "phone_code": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "native": "Perú",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "translations": {
+      "kr": "페루",
+      "pt-BR": "Peru",
+      "pt": "Peru",
+      "nl": "Peru",
+      "hr": "Peru",
+      "fa": "پرو",
+      "de": "Peru",
+      "es": "Perú",
+      "fr": "Pérou",
+      "ja": "ペルー",
+      "it": "Perù",
+      "cn": "秘鲁",
+      "tr": "Peru"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
+  }
+}

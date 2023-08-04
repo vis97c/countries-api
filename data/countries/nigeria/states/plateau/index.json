@@ -1,0 +1,114 @@
+{
+  "id": 302,
+  "name": "Plateau",
+  "state_code": "PL",
+  "latitude": "9.21820930",
+  "longitude": "9.51794880",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76771,
+      "name": "Amper",
+      "latitude": "9.35509000",
+      "longitude": "9.70121000"
+    },
+    {
+      "id": 76817,
+      "name": "Bukuru",
+      "latitude": "9.79399000",
+      "longitude": "8.86397000"
+    },
+    {
+      "id": 76841,
+      "name": "Dengi",
+      "latitude": "9.36872000",
+      "longitude": "9.96223000"
+    },
+    {
+      "id": 76963,
+      "name": "Jos",
+      "latitude": "9.92849000",
+      "longitude": "8.89212000"
+    },
+    {
+      "id": 76999,
+      "name": "Kwolla",
+      "latitude": "8.90361000",
+      "longitude": "9.29086000"
+    },
+    {
+      "id": 77006,
+      "name": "Langtang",
+      "latitude": "9.14164000",
+      "longitude": "9.79101000"
+    },
+    {
+      "id": 77084,
+      "name": "Pankshin",
+      "latitude": "9.32541000",
+      "longitude": "9.43520000"
+    },
+    {
+      "id": 77085,
+      "name": "Panyam",
+      "latitude": "9.40756000",
+      "longitude": "9.21481000"
+    },
+    {
+      "id": 77130,
+      "name": "Vom",
+      "latitude": "9.72910000",
+      "longitude": "8.79138000"
+    },
+    {
+      "id": 77144,
+      "name": "Yelwa",
+      "latitude": "8.83333000",
+      "longitude": "9.63333000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

@@ -1,0 +1,838 @@
+{
+  "id": 144,
+  "name": "Moldova",
+  "iso3": "MDA",
+  "iso2": "MD",
+  "numeric_code": "498",
+  "phone_code": "373",
+  "capital": "Chisinau",
+  "currency": "MDL",
+  "currency_name": "Moldovan leu",
+  "currency_symbol": "L",
+  "tld": ".md",
+  "native": "Moldova",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "timezones": [
+    {
+      "zoneName": "Europe/Chisinau",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "kr": "몰도바",
+    "pt-BR": "Moldávia",
+    "pt": "Moldávia",
+    "nl": "Moldavië",
+    "hr": "Moldova",
+    "fa": "مولداوی",
+    "de": "Moldawie",
+    "es": "Moldavia",
+    "fr": "Moldavie",
+    "ja": "モルドバ共和国",
+    "it": "Moldavia",
+    "cn": "摩尔多瓦",
+    "tr": "Moldova"
+  },
+  "latitude": "47.00000000",
+  "longitude": "29.00000000",
+  "emoji": "🇲🇩",
+  "emojiU": "U+1F1F2 U+1F1E9",
+  "states": [
+    {
+      "id": 4368,
+      "name": "Anenii Noi District",
+      "state_code": "AN",
+      "latitude": "46.87956630",
+      "longitude": "29.23121750",
+      "type": null,
+      "cities": [
+        {
+          "id": 67271,
+          "name": "Anenii Noi",
+          "latitude": "46.87839000",
+          "longitude": "29.23483000"
+        },
+        {
+          "id": 67337,
+          "name": "Varniţa",
+          "latitude": "46.86606000",
+          "longitude": "29.46636000"
+        }
+      ]
+    },
+    {
+      "id": 4393,
+      "name": "Bălți Municipality",
+      "state_code": "BA",
+      "latitude": "47.75399470",
+      "longitude": "27.91841480",
+      "type": null,
+      "cities": [
+        {
+          "id": 67280,
+          "name": "Bălţi",
+          "latitude": "47.76314000",
+          "longitude": "27.92932000"
+        }
+      ]
+    },
+    {
+      "id": 4379,
+      "name": "Basarabeasca District",
+      "state_code": "BS",
+      "latitude": "46.42370600",
+      "longitude": "28.89354920",
+      "type": null,
+      "cities": [
+        {
+          "id": 67272,
+          "name": "Basarabeasca",
+          "latitude": "46.33170000",
+          "longitude": "28.96365000"
+        }
+      ]
+    },
+    {
+      "id": 4362,
+      "name": "Bender Municipality",
+      "state_code": "BD",
+      "latitude": "46.82275510",
+      "longitude": "29.46201010",
+      "type": null,
+      "cities": [
+        {
+          "id": 67273,
+          "name": "Bender",
+          "latitude": "46.83156000",
+          "longitude": "29.47769000"
+        }
+      ]
+    },
+    {
+      "id": 4375,
+      "name": "Briceni District",
+      "state_code": "BR",
+      "latitude": "48.36320220",
+      "longitude": "27.07503980",
+      "type": null,
+      "cities": [
+        {
+          "id": 67276,
+          "name": "Briceni",
+          "latitude": "48.36289000",
+          "longitude": "27.07787000"
+        }
+      ]
+    },
+    {
+      "id": 4391,
+      "name": "Cahul District",
+      "state_code": "CA",
+      "latitude": "45.89394040",
+      "longitude": "28.18902750",
+      "type": null,
+      "cities": [
+        {
+          "id": 67281,
+          "name": "Cahul",
+          "latitude": "45.90425000",
+          "longitude": "28.19929000"
+        },
+        {
+          "id": 67305,
+          "name": "Giurgiuleşti",
+          "latitude": "45.48167000",
+          "longitude": "28.19722000"
+        }
+      ]
+    },
+    {
+      "id": 4366,
+      "name": "Călărași District",
+      "state_code": "CL",
+      "latitude": "47.28694600",
+      "longitude": "28.27453100",
+      "type": null,
+      "cities": [
+        {
+          "id": 67294,
+          "name": "Călăraşi",
+          "latitude": "47.25560000",
+          "longitude": "28.30987000"
+        }
+      ]
+    },
+    {
+      "id": 4380,
+      "name": "Cantemir District",
+      "state_code": "CT",
+      "latitude": "46.27717420",
+      "longitude": "28.20096530",
+      "type": null,
+      "cities": [
+        {
+          "id": 67283,
+          "name": "Cantemir",
+          "latitude": "46.27743000",
+          "longitude": "28.20270000"
+        },
+        {
+          "id": 67310,
+          "name": "Iargara",
+          "latitude": "46.42520000",
+          "longitude": "28.42676000"
+        },
+        {
+          "id": 67339,
+          "name": "Vişniovca",
+          "latitude": "46.33260000",
+          "longitude": "28.44797000"
+        }
+      ]
+    },
+    {
+      "id": 4365,
+      "name": "Căușeni District",
+      "state_code": "CS",
+      "latitude": "46.65547150",
+      "longitude": "29.40912220",
+      "type": null,
+      "cities": [
+        {
+          "id": 67295,
+          "name": "Căuşeni",
+          "latitude": "46.63674000",
+          "longitude": "29.41114000"
+        },
+        {
+          "id": 67286,
+          "name": "Chiţcani",
+          "latitude": "46.78296000",
+          "longitude": "29.61682000"
+        }
+      ]
+    },
+    {
+      "id": 4373,
+      "name": "Chișinău Municipality",
+      "state_code": "CU",
+      "latitude": "47.01045290",
+      "longitude": "28.86381020",
+      "type": null,
+      "cities": [
+        {
+          "id": 67285,
+          "name": "Chisinau",
+          "latitude": "47.00556000",
+          "longitude": "28.85750000"
+        },
+        {
+          "id": 67288,
+          "name": "Ciorescu",
+          "latitude": "47.13000000",
+          "longitude": "28.88937000"
+        },
+        {
+          "id": 67292,
+          "name": "Cricova",
+          "latitude": "47.13835000",
+          "longitude": "28.86156000"
+        },
+        {
+          "id": 67327,
+          "name": "Sîngera",
+          "latitude": "46.91557000",
+          "longitude": "28.96673000"
+        },
+        {
+          "id": 67326,
+          "name": "Stăuceni",
+          "latitude": "47.09643000",
+          "longitude": "28.86791000"
+        },
+        {
+          "id": 67336,
+          "name": "Vadul lui Vodă",
+          "latitude": "47.09009000",
+          "longitude": "29.07570000"
+        },
+        {
+          "id": 67338,
+          "name": "Vatra",
+          "latitude": "47.07460000",
+          "longitude": "28.73685000"
+        }
+      ]
+    },
+    {
+      "id": 4360,
+      "name": "Cimișlia District",
+      "state_code": "CM",
+      "latitude": "46.52508510",
+      "longitude": "28.77218350",
+      "type": null,
+      "cities": [
+        {
+          "id": 67287,
+          "name": "Cimişlia",
+          "latitude": "46.52685000",
+          "longitude": "28.76441000"
+        }
+      ]
+    },
+    {
+      "id": 4390,
+      "name": "Criuleni District",
+      "state_code": "CR",
+      "latitude": "47.21361140",
+      "longitude": "29.15575190",
+      "type": null,
+      "cities": [
+        {
+          "id": 67293,
+          "name": "Criuleni",
+          "latitude": "47.21307000",
+          "longitude": "29.15926000"
+        }
+      ]
+    },
+    {
+      "id": 4384,
+      "name": "Dondușeni District",
+      "state_code": "DO",
+      "latitude": "48.23383050",
+      "longitude": "27.59980870",
+      "type": null,
+      "cities": [
+        {
+          "id": 67277,
+          "name": "Briceni",
+          "latitude": "48.35628000",
+          "longitude": "27.70293000"
+        },
+        {
+          "id": 67298,
+          "name": "Donduşeni",
+          "latitude": "48.24268000",
+          "longitude": "27.61010000"
+        }
+      ]
+    },
+    {
+      "id": 4392,
+      "name": "Drochia District",
+      "state_code": "DR",
+      "latitude": "48.07977880",
+      "longitude": "27.86041140",
+      "type": null,
+      "cities": [
+        {
+          "id": 67299,
+          "name": "Drochia",
+          "latitude": "48.03555000",
+          "longitude": "27.81293000"
+        }
+      ]
+    },
+    {
+      "id": 4383,
+      "name": "Dubăsari District",
+      "state_code": "DU",
+      "latitude": "47.26439420",
+      "longitude": "29.15503480",
+      "type": null,
+      "cities": [
+        {
+          "id": 67289,
+          "name": "Cocieri",
+          "latitude": "47.30170000",
+          "longitude": "29.11755000"
+        },
+        {
+          "id": 67335,
+          "name": "Ustia",
+          "latitude": "47.25524000",
+          "longitude": "29.12406000"
+        }
+      ]
+    },
+    {
+      "id": 4387,
+      "name": "Edineț District",
+      "state_code": "ED",
+      "latitude": "48.16789910",
+      "longitude": "27.29361430",
+      "type": null,
+      "cities": [
+        {
+          "id": 67301,
+          "name": "Edineţ",
+          "latitude": "48.17215000",
+          "longitude": "27.30337000"
+        }
+      ]
+    },
+    {
+      "id": 4381,
+      "name": "Fălești District",
+      "state_code": "FA",
+      "latitude": "47.56477250",
+      "longitude": "27.72655930",
+      "type": null,
+      "cities": [
+        {
+          "id": 67303,
+          "name": "Fălești",
+          "latitude": "47.57667000",
+          "longitude": "27.71264000"
+        }
+      ]
+    },
+    {
+      "id": 4370,
+      "name": "Florești District",
+      "state_code": "FL",
+      "latitude": "47.86678490",
+      "longitude": "28.33918640",
+      "type": null,
+      "cities": [
+        {
+          "id": 67302,
+          "name": "Floreşti",
+          "latitude": "47.89137000",
+          "longitude": "28.29312000"
+        },
+        {
+          "id": 67304,
+          "name": "Ghindești",
+          "latitude": "47.85482000",
+          "longitude": "28.37679000"
+        },
+        {
+          "id": 67313,
+          "name": "Mărculeşti",
+          "latitude": "47.86897000",
+          "longitude": "28.24109000"
+        }
+      ]
+    },
+    {
+      "id": 4385,
+      "name": "Gagauzia",
+      "state_code": "GA",
+      "latitude": "46.09794350",
+      "longitude": "28.63846450",
+      "type": null,
+      "cities": [
+        {
+          "id": 67279,
+          "name": "Bugeac",
+          "latitude": "46.36554000",
+          "longitude": "28.66250000"
+        },
+        {
+          "id": 67284,
+          "name": "Ceadîr-Lunga",
+          "latitude": "46.06169000",
+          "longitude": "28.83078000"
+        },
+        {
+          "id": 67290,
+          "name": "Comrat",
+          "latitude": "46.29456000",
+          "longitude": "28.65650000"
+        },
+        {
+          "id": 67340,
+          "name": "Vulcăneşti",
+          "latitude": "45.68492000",
+          "longitude": "28.40613000"
+        }
+      ]
+    },
+    {
+      "id": 4367,
+      "name": "Glodeni District",
+      "state_code": "GL",
+      "latitude": "47.77901560",
+      "longitude": "27.51680100",
+      "type": null,
+      "cities": [
+        {
+          "id": 67306,
+          "name": "Glodeni",
+          "latitude": "47.77513000",
+          "longitude": "27.51891000"
+        }
+      ]
+    },
+    {
+      "id": 4382,
+      "name": "Hîncești District",
+      "state_code": "HI",
+      "latitude": "46.82811470",
+      "longitude": "28.58508890",
+      "type": null,
+      "cities": [
+        {
+          "id": 67296,
+          "name": "Dancu",
+          "latitude": "46.75818000",
+          "longitude": "28.20716000"
+        },
+        {
+          "id": 67308,
+          "name": "Hînceşti",
+          "latitude": "46.83047000",
+          "longitude": "28.59064000"
+        }
+      ]
+    },
+    {
+      "id": 4369,
+      "name": "Ialoveni District",
+      "state_code": "IA",
+      "latitude": "46.86308600",
+      "longitude": "28.82342180",
+      "type": null,
+      "cities": [
+        {
+          "id": 67309,
+          "name": "Ialoveni",
+          "latitude": "46.94346000",
+          "longitude": "28.78233000"
+        }
+      ]
+    },
+    {
+      "id": 4363,
+      "name": "Nisporeni District",
+      "state_code": "NI",
+      "latitude": "47.07513490",
+      "longitude": "28.17681550",
+      "type": null,
+      "cities": [
+        {
+          "id": 67314,
+          "name": "Nisporeni",
+          "latitude": "47.08159000",
+          "longitude": "28.17138000"
+        }
+      ]
+    },
+    {
+      "id": 4389,
+      "name": "Ocnița District",
+      "state_code": "OC",
+      "latitude": "48.41104350",
+      "longitude": "27.47680920",
+      "type": null,
+      "cities": [
+        {
+          "id": 67315,
+          "name": "Ocniţa",
+          "latitude": "48.38274000",
+          "longitude": "27.43805000"
+        },
+        {
+          "id": 67317,
+          "name": "Otaci",
+          "latitude": "48.43285000",
+          "longitude": "27.79912000"
+        }
+      ]
+    },
+    {
+      "id": 4361,
+      "name": "Orhei District",
+      "state_code": "OR",
+      "latitude": "47.38604000",
+      "longitude": "28.83030820",
+      "type": null,
+      "cities": [
+        {
+          "id": 67316,
+          "name": "Orhei",
+          "latitude": "47.38494000",
+          "longitude": "28.82446000"
+        }
+      ]
+    },
+    {
+      "id": 4394,
+      "name": "Rezina District",
+      "state_code": "RE",
+      "latitude": "47.71804470",
+      "longitude": "28.88710240",
+      "type": null,
+      "cities": [
+        {
+          "id": 67319,
+          "name": "Rezina",
+          "latitude": "47.74928000",
+          "longitude": "28.96583000"
+        },
+        {
+          "id": 67322,
+          "name": "Saharna",
+          "latitude": "47.69107000",
+          "longitude": "28.97458000"
+        }
+      ]
+    },
+    {
+      "id": 4376,
+      "name": "Rîșcani District",
+      "state_code": "RI",
+      "latitude": "47.90701530",
+      "longitude": "27.53749960",
+      "type": null,
+      "cities": [
+        {
+          "id": 67321,
+          "name": "Rîşcani",
+          "latitude": "47.94792000",
+          "longitude": "27.56376000"
+        }
+      ]
+    },
+    {
+      "id": 4364,
+      "name": "Sîngerei District",
+      "state_code": "SI",
+      "latitude": "47.63891340",
+      "longitude": "28.13718160",
+      "type": null,
+      "cities": [
+        {
+          "id": 67274,
+          "name": "Bilicenii Vechi",
+          "latitude": "47.65580000",
+          "longitude": "28.04734000"
+        },
+        {
+          "id": 67275,
+          "name": "Biruinţa",
+          "latitude": "47.81353000",
+          "longitude": "28.07004000"
+        },
+        {
+          "id": 67328,
+          "name": "Sîngerei",
+          "latitude": "47.63632000",
+          "longitude": "28.14296000"
+        }
+      ]
+    },
+    {
+      "id": 4388,
+      "name": "Șoldănești District",
+      "state_code": "SD",
+      "latitude": "47.81473890",
+      "longitude": "28.78895860",
+      "type": null,
+      "cities": [
+        {
+          "id": 67341,
+          "name": "Şoldăneşti",
+          "latitude": "47.81608000",
+          "longitude": "28.79718000"
+        }
+      ]
+    },
+    {
+      "id": 4374,
+      "name": "Soroca District",
+      "state_code": "SO",
+      "latitude": "48.15497430",
+      "longitude": "28.28707830",
+      "type": null,
+      "cities": [
+        {
+          "id": 67324,
+          "name": "Soroca",
+          "latitude": "48.15659000",
+          "longitude": "28.28489000"
+        }
+      ]
+    },
+    {
+      "id": 4378,
+      "name": "Ștefan Vodă District",
+      "state_code": "SV",
+      "latitude": "46.55404880",
+      "longitude": "29.70224200",
+      "type": null,
+      "cities": [
+        {
+          "id": 67342,
+          "name": "Ştefan Vodă",
+          "latitude": "46.51287000",
+          "longitude": "29.66193000"
+        }
+      ]
+    },
+    {
+      "id": 4377,
+      "name": "Strășeni District",
+      "state_code": "ST",
+      "latitude": "47.14502670",
+      "longitude": "28.61367360",
+      "type": null,
+      "cities": [
+        {
+          "id": 67278,
+          "name": "Bucovăţ",
+          "latitude": "47.19064000",
+          "longitude": "28.45802000"
+        },
+        {
+          "id": 67325,
+          "name": "Strășeni",
+          "latitude": "47.14216000",
+          "longitude": "28.60774000"
+        }
+      ]
+    },
+    {
+      "id": 4372,
+      "name": "Taraclia District",
+      "state_code": "TA",
+      "latitude": "45.89865100",
+      "longitude": "28.66716440",
+      "type": null,
+      "cities": [
+        {
+          "id": 67329,
+          "name": "Taraclia",
+          "latitude": "45.90273000",
+          "longitude": "28.66816000"
+        },
+        {
+          "id": 67333,
+          "name": "Tvardița",
+          "latitude": "46.14826000",
+          "longitude": "28.96491000"
+        }
+      ]
+    },
+    {
+      "id": 4371,
+      "name": "Telenești District",
+      "state_code": "TE",
+      "latitude": "47.49839620",
+      "longitude": "28.36760190",
+      "type": null,
+      "cities": [
+        {
+          "id": 67312,
+          "name": "Mîndreşti",
+          "latitude": "47.50525000",
+          "longitude": "28.27687000"
+        },
+        {
+          "id": 67330,
+          "name": "Teleneşti",
+          "latitude": "47.50110000",
+          "longitude": "28.36536000"
+        }
+      ]
+    },
+    {
+      "id": 4395,
+      "name": "Transnistria autonomous territorial unit",
+      "state_code": "SN",
+      "latitude": "47.21529720",
+      "longitude": "29.46380540",
+      "type": null,
+      "cities": [
+        {
+          "id": 67282,
+          "name": "Camenca",
+          "latitude": "48.03233000",
+          "longitude": "28.69899000"
+        },
+        {
+          "id": 67291,
+          "name": "Crasnoe",
+          "latitude": "46.64844000",
+          "longitude": "29.80403000"
+        },
+        {
+          "id": 67297,
+          "name": "Dnestrovsc",
+          "latitude": "46.61640000",
+          "longitude": "29.91926000"
+        },
+        {
+          "id": 67300,
+          "name": "Dubăsari",
+          "latitude": "47.26562000",
+          "longitude": "29.16667000"
+        },
+        {
+          "id": 67307,
+          "name": "Hryhoriopol",
+          "latitude": "47.15413000",
+          "longitude": "29.30008000"
+        },
+        {
+          "id": 67311,
+          "name": "Maiac",
+          "latitude": "47.23727000",
+          "longitude": "29.38498000"
+        },
+        {
+          "id": 67318,
+          "name": "Pervomaisc",
+          "latitude": "46.73253000",
+          "longitude": "29.96170000"
+        },
+        {
+          "id": 67320,
+          "name": "Rîbniţa",
+          "latitude": "47.76817000",
+          "longitude": "29.01000000"
+        },
+        {
+          "id": 67323,
+          "name": "Slobozia",
+          "latitude": "46.72927000",
+          "longitude": "29.70446000"
+        },
+        {
+          "id": 67331,
+          "name": "Tiraspol",
+          "latitude": "46.84274000",
+          "longitude": "29.62909000"
+        },
+        {
+          "id": 67332,
+          "name": "Tiraspolul Nou",
+          "latitude": "46.82874000",
+          "longitude": "29.52174000"
+        }
+      ]
+    },
+    {
+      "id": 4386,
+      "name": "Ungheni District",
+      "state_code": "UN",
+      "latitude": "47.23057670",
+      "longitude": "27.78926610",
+      "type": null,
+      "cities": [
+        {
+          "id": 67334,
+          "name": "Ungheni",
+          "latitude": "47.21079000",
+          "longitude": "27.80047000"
+        }
+      ]
+    }
+  ]
+}

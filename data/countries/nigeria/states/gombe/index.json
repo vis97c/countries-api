@@ -1,0 +1,138 @@
+{
+  "id": 310,
+  "name": "Gombe",
+  "state_code": "GO",
+  "latitude": "10.36377950",
+  "longitude": "11.19275870",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76763,
+      "name": "Akko",
+      "latitude": "10.28899000",
+      "longitude": "10.97320000"
+    },
+    {
+      "id": 76794,
+      "name": "Bara",
+      "latitude": "10.37444000",
+      "longitude": "10.72884000"
+    },
+    {
+      "id": 76802,
+      "name": "Billiri",
+      "latitude": "9.86545000",
+      "longitude": "11.22624000"
+    },
+    {
+      "id": 76823,
+      "name": "Dadiya",
+      "latitude": "9.61667000",
+      "longitude": "11.43333000"
+    },
+    {
+      "id": 76839,
+      "name": "Deba",
+      "latitude": "10.21187000",
+      "longitude": "11.38710000"
+    },
+    {
+      "id": 76846,
+      "name": "Dukku",
+      "latitude": "10.82379000",
+      "longitude": "10.77221000"
+    },
+    {
+      "id": 76877,
+      "name": "Garko",
+      "latitude": "10.17506000",
+      "longitude": "11.16458000"
+    },
+    {
+      "id": 76884,
+      "name": "Gombe",
+      "latitude": "10.28969000",
+      "longitude": "11.16729000"
+    },
+    {
+      "id": 76903,
+      "name": "Hinna",
+      "latitude": "10.30426000",
+      "longitude": "11.49905000"
+    },
+    {
+      "id": 76968,
+      "name": "Kafarati",
+      "latitude": "10.38304000",
+      "longitude": "11.09567000"
+    },
+    {
+      "id": 76973,
+      "name": "Kaltungo",
+      "latitude": "9.81998000",
+      "longitude": "11.30871000"
+    },
+    {
+      "id": 76993,
+      "name": "Kumo",
+      "latitude": "10.04807000",
+      "longitude": "11.21055000"
+    },
+    {
+      "id": 77037,
+      "name": "Nafada",
+      "latitude": "11.09596000",
+      "longitude": "11.33261000"
+    },
+    {
+      "id": 77088,
+      "name": "Pindiga",
+      "latitude": "9.98433000",
+      "longitude": "10.95229000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

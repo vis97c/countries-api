@@ -1,0 +1,96 @@
+{
+  "id": 1605,
+  "name": "Alytus City Municipality",
+  "state_code": "02",
+  "latitude": "54.39629380",
+  "longitude": "24.04587610",
+  "type": null,
+  "cities": [
+    {
+      "id": 66581,
+      "name": "Alytus",
+      "latitude": "54.39635000",
+      "longitude": "24.04142000"
+    },
+    {
+      "id": 66592,
+      "name": "Daugai",
+      "latitude": "54.36667000",
+      "longitude": "24.33333000"
+    },
+    {
+      "id": 66593,
+      "name": "Druskininkai",
+      "latitude": "54.01573000",
+      "longitude": "23.98703000"
+    },
+    {
+      "id": 66630,
+      "name": "Lazdijai",
+      "latitude": "54.23333000",
+      "longitude": "23.51667000"
+    },
+    {
+      "id": 66678,
+      "name": "Simnas",
+      "latitude": "54.38200000",
+      "longitude": "23.64600000"
+    },
+    {
+      "id": 66694,
+      "name": "Varėna",
+      "latitude": "54.21667000",
+      "longitude": "24.56667000"
+    },
+    {
+      "id": 66695,
+      "name": "Veisiejai",
+      "latitude": "54.10110000",
+      "longitude": "23.69614000"
+    }
+  ],
+  "country": {
+    "id": 126,
+    "name": "Lithuania",
+    "iso3": "LTU",
+    "iso2": "LT",
+    "numeric_code": "440",
+    "phone_code": "370",
+    "capital": "Vilnius",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "native": "Lietuva",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "리투아니아",
+      "pt-BR": "Lituânia",
+      "pt": "Lituânia",
+      "nl": "Litouwen",
+      "hr": "Litva",
+      "fa": "لیتوانی",
+      "de": "Litauen",
+      "es": "Lituania",
+      "fr": "Lituanie",
+      "ja": "リトアニア",
+      "it": "Lituania",
+      "cn": "立陶宛",
+      "tr": "Litvanya"
+    },
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  }
+}

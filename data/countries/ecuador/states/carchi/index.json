@@ -1,0 +1,79 @@
+{
+  "id": 2915,
+  "name": "Carchi",
+  "state_code": "C",
+  "latitude": "0.50269120",
+  "longitude": "-77.90425210",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31503,
+      "name": "El Ángel",
+      "latitude": "0.62279000",
+      "longitude": "-77.94003000"
+    },
+    {
+      "id": 31567,
+      "name": "San Gabriel",
+      "latitude": "0.59318000",
+      "longitude": "-77.83078000"
+    },
+    {
+      "id": 31583,
+      "name": "Tulcán",
+      "latitude": "0.81187000",
+      "longitude": "-77.71727000"
+    }
+  ],
+  "country": {
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phone_code": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "translations": {
+      "kr": "에콰도르",
+      "pt-BR": "Equador",
+      "pt": "Equador",
+      "nl": "Ecuador",
+      "hr": "Ekvador",
+      "fa": "اکوادور",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fr": "Équateur",
+      "ja": "エクアドル",
+      "it": "Ecuador",
+      "cn": "厄瓜多尔",
+      "tr": "Ekvator"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  }
+}

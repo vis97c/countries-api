@@ -1,0 +1,192 @@
+{
+  "id": 4355,
+  "name": "Trnava Region",
+  "state_code": "TA",
+  "latitude": "48.39438980",
+  "longitude": "17.72162050",
+  "type": null,
+  "cities": [
+    {
+      "id": 104387,
+      "name": "Dunajská Streda",
+      "latitude": "47.99268000",
+      "longitude": "17.61211000"
+    },
+    {
+      "id": 104389,
+      "name": "Gabčíkovo",
+      "latitude": "47.89211000",
+      "longitude": "17.57884000"
+    },
+    {
+      "id": 104390,
+      "name": "Galanta",
+      "latitude": "48.19001000",
+      "longitude": "17.72747000"
+    },
+    {
+      "id": 104391,
+      "name": "Gbely",
+      "latitude": "48.71800000",
+      "longitude": "17.11628000"
+    },
+    {
+      "id": 104395,
+      "name": "Hlohovec",
+      "latitude": "48.43174000",
+      "longitude": "17.80310000"
+    },
+    {
+      "id": 104396,
+      "name": "Holíč",
+      "latitude": "48.81105000",
+      "longitude": "17.16238000"
+    },
+    {
+      "id": 104420,
+      "name": "Leopoldov",
+      "latitude": "48.44575000",
+      "longitude": "17.76458000"
+    },
+    {
+      "id": 104460,
+      "name": "Okres Dunajská Streda",
+      "latitude": "47.99635000",
+      "longitude": "17.60937000"
+    },
+    {
+      "id": 104461,
+      "name": "Okres Galanta",
+      "latitude": "48.20000000",
+      "longitude": "17.71667000"
+    },
+    {
+      "id": 104463,
+      "name": "Okres Hlohovec",
+      "latitude": "48.41667000",
+      "longitude": "17.75000000"
+    },
+    {
+      "id": 104486,
+      "name": "Okres Piešťany",
+      "latitude": "48.59064000",
+      "longitude": "17.82679000"
+    },
+    {
+      "id": 104498,
+      "name": "Okres Senica",
+      "latitude": "48.68333000",
+      "longitude": "17.36667000"
+    },
+    {
+      "id": 104499,
+      "name": "Okres Skalica",
+      "latitude": "48.75000000",
+      "longitude": "17.16667000"
+    },
+    {
+      "id": 104509,
+      "name": "Okres Trnava",
+      "latitude": "48.36667000",
+      "longitude": "17.60000000"
+    },
+    {
+      "id": 104525,
+      "name": "Piešťany",
+      "latitude": "48.59479000",
+      "longitude": "17.82591000"
+    },
+    {
+      "id": 104592,
+      "name": "Šamorín",
+      "latitude": "48.03015000",
+      "longitude": "17.30972000"
+    },
+    {
+      "id": 104541,
+      "name": "Senica",
+      "latitude": "48.67922000",
+      "longitude": "17.36697000"
+    },
+    {
+      "id": 104543,
+      "name": "Skalica",
+      "latitude": "48.84490000",
+      "longitude": "17.22635000"
+    },
+    {
+      "id": 104544,
+      "name": "Sládkovičovo",
+      "latitude": "48.20137000",
+      "longitude": "17.63852000"
+    },
+    {
+      "id": 104545,
+      "name": "Smolenice",
+      "latitude": "48.50478000",
+      "longitude": "17.43067000"
+    },
+    {
+      "id": 104568,
+      "name": "Trnava",
+      "latitude": "48.37741000",
+      "longitude": "17.58723000"
+    },
+    {
+      "id": 104574,
+      "name": "Veľký Meder",
+      "latitude": "47.85798000",
+      "longitude": "17.76884000"
+    },
+    {
+      "id": 104579,
+      "name": "Vrbové",
+      "latitude": "48.61973000",
+      "longitude": "17.72260000"
+    }
+  ],
+  "country": {
+    "id": 200,
+    "name": "Slovakia",
+    "iso3": "SVK",
+    "iso2": "SK",
+    "numeric_code": "703",
+    "phone_code": "421",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sk",
+    "native": "Slovensko",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bratislava",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로바키아",
+      "pt-BR": "Eslováquia",
+      "pt": "Eslováquia",
+      "nl": "Slowakije",
+      "hr": "Slovačka",
+      "fa": "اسلواکی",
+      "de": "Slowakei",
+      "es": "República Eslovaca",
+      "fr": "Slovaquie",
+      "ja": "スロバキア",
+      "it": "Slovacchia",
+      "cn": "斯洛伐克",
+      "tr": "Slovakya"
+    },
+    "latitude": "48.66666666",
+    "longitude": "19.50000000",
+    "emoji": "🇸🇰",
+    "emojiU": "U+1F1F8 U+1F1F0"
+  }
+}

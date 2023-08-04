@@ -1,0 +1,114 @@
+{
+  "id": 2665,
+  "name": "North",
+  "state_code": "NO",
+  "latitude": "37.09024000",
+  "longitude": "-95.71289100",
+  "type": null,
+  "cities": [
+    {
+      "id": 19176,
+      "name": "Faro Department",
+      "latitude": "8.25014000",
+      "longitude": "12.87829000"
+    },
+    {
+      "id": 19181,
+      "name": "Garoua",
+      "latitude": "9.30143000",
+      "longitude": "13.39771000"
+    },
+    {
+      "id": 19183,
+      "name": "Guider",
+      "latitude": "9.93330000",
+      "longitude": "13.94671000"
+    },
+    {
+      "id": 19194,
+      "name": "Lagdo",
+      "latitude": "9.05828000",
+      "longitude": "13.66605000"
+    },
+    {
+      "id": 19204,
+      "name": "Mayo-Louti",
+      "latitude": "9.96577000",
+      "longitude": "13.72738000"
+    },
+    {
+      "id": 19205,
+      "name": "Mayo-Rey",
+      "latitude": "8.12630000",
+      "longitude": "14.61456000"
+    },
+    {
+      "id": 19251,
+      "name": "Pitoa",
+      "latitude": "9.38390000",
+      "longitude": "13.50231000"
+    },
+    {
+      "id": 19252,
+      "name": "Poli",
+      "latitude": "8.47560000",
+      "longitude": "13.24097000"
+    },
+    {
+      "id": 19253,
+      "name": "Rey Bouba",
+      "latitude": "8.67240000",
+      "longitude": "14.17860000"
+    },
+    {
+      "id": 19257,
+      "name": "Tcholliré",
+      "latitude": "8.40220000",
+      "longitude": "14.16980000"
+    }
+  ],
+  "country": {
+    "id": 38,
+    "name": "Cameroon",
+    "iso3": "CMR",
+    "iso2": "CM",
+    "numeric_code": "120",
+    "phone_code": "237",
+    "capital": "Yaounde",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".cm",
+    "native": "Cameroon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Douala",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "카메룬",
+      "pt-BR": "Camarões",
+      "pt": "Camarões",
+      "nl": "Kameroen",
+      "hr": "Kamerun",
+      "fa": "کامرون",
+      "de": "Kamerun",
+      "es": "Camerún",
+      "fr": "Cameroun",
+      "ja": "カメルーン",
+      "it": "Camerun",
+      "cn": "喀麦隆",
+      "tr": "Kamerun"
+    },
+    "latitude": "6.00000000",
+    "longitude": "12.00000000",
+    "emoji": "🇨🇲",
+    "emojiU": "U+1F1E8 U+1F1F2"
+  }
+}

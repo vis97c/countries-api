@@ -1,0 +1,126 @@
+{
+  "id": 4114,
+  "name": "Azua Province",
+  "state_code": "02",
+  "latitude": "18.45527090",
+  "longitude": "-70.73809280",
+  "type": null,
+  "cities": [
+    {
+      "id": 31024,
+      "name": "Azua",
+      "latitude": "18.45319000",
+      "longitude": "-70.73490000"
+    },
+    {
+      "id": 31060,
+      "name": "El Guayabal",
+      "latitude": "18.74960000",
+      "longitude": "-70.83690000"
+    },
+    {
+      "id": 31070,
+      "name": "Estebanía",
+      "latitude": "18.45770000",
+      "longitude": "-70.64350000"
+    },
+    {
+      "id": 31111,
+      "name": "Las Charcas",
+      "latitude": "18.45026000",
+      "longitude": "-70.61724000"
+    },
+    {
+      "id": 31142,
+      "name": "Padre Las Casas",
+      "latitude": "18.75000000",
+      "longitude": "-70.88333000"
+    },
+    {
+      "id": 31144,
+      "name": "Palmar de Ocoa",
+      "latitude": "18.29656000",
+      "longitude": "-70.58635000"
+    },
+    {
+      "id": 31153,
+      "name": "Peralta",
+      "latitude": "18.58164000",
+      "longitude": "-70.77029000"
+    },
+    {
+      "id": 31160,
+      "name": "Pueblo Viejo",
+      "latitude": "18.40000000",
+      "longitude": "-70.76765000"
+    },
+    {
+      "id": 31174,
+      "name": "Sabana Yegua",
+      "latitude": "18.71667000",
+      "longitude": "-71.01667000"
+    },
+    {
+      "id": 31207,
+      "name": "Tábara Arriba",
+      "latitude": "18.56999000",
+      "longitude": "-70.87978000"
+    },
+    {
+      "id": 31222,
+      "name": "Villarpando",
+      "latitude": "18.65860000",
+      "longitude": "-71.03916000"
+    },
+    {
+      "id": 31225,
+      "name": "Yayas de Viajama",
+      "latitude": "18.60710000",
+      "longitude": "-70.92753000"
+    }
+  ],
+  "country": {
+    "id": 62,
+    "name": "Dominican Republic",
+    "iso3": "DOM",
+    "iso2": "DO",
+    "numeric_code": "214",
+    "phone_code": "+1-809 and 1-829",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "currency_name": "Dominican peso",
+    "currency_symbol": "$",
+    "tld": ".do",
+    "native": "República Dominicana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Santo_Domingo",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "도미니카 공화국",
+      "pt-BR": "República Dominicana",
+      "pt": "República Dominicana",
+      "nl": "Dominicaanse Republiek",
+      "hr": "Dominikanska Republika",
+      "fa": "جمهوری دومینیکن",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "fr": "République dominicaine",
+      "ja": "ドミニカ共和国",
+      "it": "Repubblica Dominicana",
+      "cn": "多明尼加共和国",
+      "tr": "Dominik Cumhuriyeti"
+    },
+    "latitude": "19.00000000",
+    "longitude": "-70.66666666",
+    "emoji": "🇩🇴",
+    "emojiU": "U+1F1E9 U+1F1F4"
+  }
+}

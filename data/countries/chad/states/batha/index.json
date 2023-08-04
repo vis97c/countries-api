@@ -1,0 +1,66 @@
+{
+  "id": 3590,
+  "name": "Batha",
+  "state_code": "BA",
+  "latitude": "13.93717750",
+  "longitude": "18.42760470",
+  "type": "province",
+  "cities": [
+    {
+      "id": 105120,
+      "name": "Ati",
+      "latitude": "13.21540000",
+      "longitude": "18.33530000"
+    },
+    {
+      "id": 105154,
+      "name": "Oum Hadjer",
+      "latitude": "13.29540000",
+      "longitude": "19.69660000"
+    }
+  ],
+  "country": {
+    "id": 43,
+    "name": "Chad",
+    "iso3": "TCD",
+    "iso2": "TD",
+    "numeric_code": "148",
+    "phone_code": "235",
+    "capital": "N'Djamena",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "native": "Tchad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "차드",
+      "pt-BR": "Chade",
+      "pt": "Chade",
+      "nl": "Tsjaad",
+      "hr": "Čad",
+      "fa": "چاد",
+      "de": "Tschad",
+      "es": "Chad",
+      "fr": "Tchad",
+      "ja": "チャド",
+      "it": "Ciad",
+      "cn": "乍得",
+      "tr": "Çad"
+    },
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  }
+}

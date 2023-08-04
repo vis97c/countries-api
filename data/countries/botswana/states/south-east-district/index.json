@@ -1,0 +1,84 @@
+{
+  "id": 3064,
+  "name": "South-East District",
+  "state_code": "SE",
+  "latitude": "31.21637980",
+  "longitude": "-82.35270440",
+  "type": null,
+  "cities": [
+    {
+      "id": 15735,
+      "name": "Gaborone",
+      "latitude": "-24.76234000",
+      "longitude": "25.79950000"
+    },
+    {
+      "id": 15741,
+      "name": "Janeng",
+      "latitude": "-25.41667000",
+      "longitude": "25.55000000"
+    },
+    {
+      "id": 15747,
+      "name": "Kopong",
+      "latitude": "-24.48333000",
+      "longitude": "25.88333000"
+    },
+    {
+      "id": 15782,
+      "name": "Otse",
+      "latitude": "-25.01667000",
+      "longitude": "25.73333000"
+    },
+    {
+      "id": 15789,
+      "name": "Ramotswa",
+      "latitude": "-24.87158000",
+      "longitude": "25.86989000"
+    }
+  ],
+  "country": {
+    "id": 29,
+    "name": "Botswana",
+    "iso3": "BWA",
+    "iso2": "BW",
+    "numeric_code": "072",
+    "phone_code": "267",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "native": "Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "보츠와나",
+      "pt-BR": "Botsuana",
+      "pt": "Botsuana",
+      "nl": "Botswana",
+      "hr": "Bocvana",
+      "fa": "بوتسوانا",
+      "de": "Botswana",
+      "es": "Botswana",
+      "fr": "Botswana",
+      "ja": "ボツワナ",
+      "it": "Botswana",
+      "cn": "博茨瓦纳",
+      "tr": "Botsvana"
+    },
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
+  }
+}

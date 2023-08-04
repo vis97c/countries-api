@@ -1,0 +1,102 @@
+{
+  "id": 4003,
+  "name": "South Hwanghae Province",
+  "state_code": "05",
+  "latitude": "38.20072150",
+  "longitude": "125.47819260",
+  "type": null,
+  "cities": [
+    {
+      "id": 65184,
+      "name": "Ayang-ni",
+      "latitude": "38.24306000",
+      "longitude": "125.78000000"
+    },
+    {
+      "id": 65185,
+      "name": "Chaeryŏng-ŭp",
+      "latitude": "38.39917000",
+      "longitude": "125.61556000"
+    },
+    {
+      "id": 65187,
+      "name": "Changyŏn",
+      "latitude": "38.25083000",
+      "longitude": "125.09611000"
+    },
+    {
+      "id": 65193,
+      "name": "Haeju",
+      "latitude": "38.04056000",
+      "longitude": "125.71472000"
+    },
+    {
+      "id": 65206,
+      "name": "Kaesŏng",
+      "latitude": "37.97083000",
+      "longitude": "126.55444000"
+    },
+    {
+      "id": 65226,
+      "name": "Ongjin",
+      "latitude": "37.93472000",
+      "longitude": "125.36194000"
+    },
+    {
+      "id": 65232,
+      "name": "Pyŏksŏng-ŭp",
+      "latitude": "38.04750000",
+      "longitude": "125.55667000"
+    },
+    {
+      "id": 65256,
+      "name": "Yŏnan-ŭp",
+      "latitude": "37.90889000",
+      "longitude": "126.16111000"
+    }
+  ],
+  "country": {
+    "id": 115,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phone_code": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Pyongyang",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조선민주주의인민공화국",
+      "pt-BR": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی",
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "cn": "朝鲜",
+      "tr": "Kuzey Kore"
+    },
+    "latitude": "40.00000000",
+    "longitude": "127.00000000",
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5"
+  }
+}

@@ -1,0 +1,2296 @@
+{
+  "id": 44,
+  "name": "Chile",
+  "iso3": "CHL",
+  "iso2": "CL",
+  "numeric_code": "152",
+  "phone_code": "56",
+  "capital": "Santiago",
+  "currency": "CLP",
+  "currency_name": "Chilean peso",
+  "currency_symbol": "$",
+  "tld": ".cl",
+  "native": "Chile",
+  "region": "Americas",
+  "subregion": "South America",
+  "timezones": [
+    {
+      "zoneName": "America/Punta_Arenas",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "CLST",
+      "tzName": "Chile Summer Time"
+    },
+    {
+      "zoneName": "America/Santiago",
+      "gmtOffset": -10800,
+      "gmtOffsetName": "UTC-03:00",
+      "abbreviation": "CLST",
+      "tzName": "Chile Summer Time"
+    },
+    {
+      "zoneName": "Pacific/Easter",
+      "gmtOffset": -18000,
+      "gmtOffsetName": "UTC-05:00",
+      "abbreviation": "EASST",
+      "tzName": "Easter Island Summer Time"
+    }
+  ],
+  "translations": {
+    "kr": "칠리",
+    "pt-BR": "Chile",
+    "pt": "Chile",
+    "nl": "Chili",
+    "hr": "Čile",
+    "fa": "شیلی",
+    "de": "Chile",
+    "es": "Chile",
+    "fr": "Chili",
+    "ja": "チリ",
+    "it": "Cile",
+    "cn": "智利",
+    "tr": "Şili"
+  },
+  "latitude": "-30.00000000",
+  "longitude": "-71.00000000",
+  "emoji": "🇨🇱",
+  "emojiU": "U+1F1E8 U+1F1F1",
+  "states": [
+    {
+      "id": 2828,
+      "name": "Aisén del General Carlos Ibañez del Campo",
+      "state_code": "AI",
+      "latitude": "-46.37834500",
+      "longitude": "-72.30076230",
+      "type": null,
+      "cities": [
+        {
+          "id": 19082,
+          "name": "Aysén",
+          "latitude": "-45.40303000",
+          "longitude": "-72.69184000"
+        },
+        {
+          "id": 18962,
+          "name": "Chile Chico",
+          "latitude": "-46.53760000",
+          "longitude": "-71.72930000"
+        },
+        {
+          "id": 19084,
+          "name": "Cisnes",
+          "latitude": "-44.72750000",
+          "longitude": "-72.68050000"
+        },
+        {
+          "id": 18966,
+          "name": "Cochrane",
+          "latitude": "-47.25390000",
+          "longitude": "-72.57320000"
+        },
+        {
+          "id": 18976,
+          "name": "Coyhaique",
+          "latitude": "-45.57524000",
+          "longitude": "-72.06619000"
+        },
+        {
+          "id": 148332,
+          "name": "Guaitecas",
+          "latitude": "-43.88333333",
+          "longitude": "-73.73333333"
+        },
+        {
+          "id": 148333,
+          "name": "Lago Verde",
+          "latitude": "-44.24031000",
+          "longitude": "-71.84950000"
+        },
+        {
+          "id": 148334,
+          "name": "O'Higgins",
+          "latitude": "-48.46666667",
+          "longitude": "-72.56666667"
+        },
+        {
+          "id": 148335,
+          "name": "Río Ibáñez",
+          "latitude": "-46.30000000",
+          "longitude": "-71.93333333"
+        },
+        {
+          "id": 148336,
+          "name": "Tortel",
+          "latitude": "-47.83333333",
+          "longitude": "-73.56666667"
+        }
+      ]
+    },
+    {
+      "id": 2832,
+      "name": "Antofagasta",
+      "state_code": "AN",
+      "latitude": "-23.83691040",
+      "longitude": "-69.28775350",
+      "type": null,
+      "cities": [
+        {
+          "id": 18946,
+          "name": "Antofagasta",
+          "latitude": "-23.65236000",
+          "longitude": "-70.39540000"
+        },
+        {
+          "id": 18952,
+          "name": "Calama",
+          "latitude": "-22.45667000",
+          "longitude": "-68.92371000"
+        },
+        {
+          "id": 148326,
+          "name": "María Elena",
+          "latitude": "-22.35000000",
+          "longitude": "-69.66666667"
+        },
+        {
+          "id": 19033,
+          "name": "Mejillones",
+          "latitude": "-23.10000000",
+          "longitude": "-70.45000000"
+        },
+        {
+          "id": 19074,
+          "name": "Ollagüe",
+          "latitude": "-21.22496000",
+          "longitude": "-68.25352000"
+        },
+        {
+          "id": 19107,
+          "name": "San Pedro de Atacama",
+          "latitude": "-22.91110000",
+          "longitude": "-68.20113000"
+        },
+        {
+          "id": 19051,
+          "name": "Sierra Gorda",
+          "latitude": "-22.88333333",
+          "longitude": "-69.31666667"
+        },
+        {
+          "id": 19115,
+          "name": "Taltal",
+          "latitude": "-25.40713000",
+          "longitude": "-70.48554000"
+        },
+        {
+          "id": 19118,
+          "name": "Tocopilla",
+          "latitude": "-22.09198000",
+          "longitude": "-70.19792000"
+        }
+      ]
+    },
+    {
+      "id": 2829,
+      "name": "Arica y Parinacota",
+      "state_code": "AP",
+      "latitude": "-18.59404850",
+      "longitude": "-69.47845410",
+      "type": null,
+      "cities": [
+        {
+          "id": 18948,
+          "name": "Arica",
+          "latitude": "-18.47460000",
+          "longitude": "-70.29792000"
+        },
+        {
+          "id": 19035,
+          "name": "Camarones",
+          "latitude": "-19.01666667",
+          "longitude": "-69.86666667"
+        },
+        {
+          "id": 148327,
+          "name": "General Lagos",
+          "latitude": "-17.56666667",
+          "longitude": "-69.50000000"
+        },
+        {
+          "id": 19067,
+          "name": "Putre",
+          "latitude": "-18.19640000",
+          "longitude": "-69.55920000"
+        }
+      ]
+    },
+    {
+      "id": 2823,
+      "name": "Atacama",
+      "state_code": "AT",
+      "latitude": "-27.56605580",
+      "longitude": "-70.05031400",
+      "type": null,
+      "cities": [
+        {
+          "id": 148330,
+          "name": "Alto del Carmen",
+          "latitude": "-28.93355556",
+          "longitude": "-70.46227778"
+        },
+        {
+          "id": 148328,
+          "name": "Caldera",
+          "latitude": "-27.06666667",
+          "longitude": "-70.81666667"
+        },
+        {
+          "id": 19042,
+          "name": "Chañaral",
+          "latitude": "-26.34790000",
+          "longitude": "-70.62240000"
+        },
+        {
+          "id": 18972,
+          "name": "Copiapó",
+          "latitude": "-27.36650000",
+          "longitude": "-70.33230000"
+        },
+        {
+          "id": 18981,
+          "name": "Diego de Almagro",
+          "latitude": "-26.36667000",
+          "longitude": "-70.05000000"
+        },
+        {
+          "id": 148331,
+          "name": "Freirina",
+          "latitude": "-28.50000000",
+          "longitude": "-71.06666667"
+        },
+        {
+          "id": 19053,
+          "name": "Huasco",
+          "latitude": "-28.45000000",
+          "longitude": "-71.21666667"
+        },
+        {
+          "id": 148329,
+          "name": "Tierra Amarilla",
+          "latitude": "-27.46666667",
+          "longitude": "-70.26666667"
+        },
+        {
+          "id": 19122,
+          "name": "Vallenar",
+          "latitude": "-28.57617000",
+          "longitude": "-70.75938000"
+        }
+      ]
+    },
+    {
+      "id": 2827,
+      "name": "Biobío",
+      "state_code": "BI",
+      "latitude": "-37.44644280",
+      "longitude": "-72.14161320",
+      "type": null,
+      "cities": [
+        {
+          "id": 19036,
+          "name": "Alto Biobío",
+          "latitude": "-38.05000000",
+          "longitude": "-71.31666667"
+        },
+        {
+          "id": 148337,
+          "name": "Antuco",
+          "latitude": "-37.33333333",
+          "longitude": "-71.68333333"
+        },
+        {
+          "id": 18947,
+          "name": "Arauco",
+          "latitude": "-37.24630000",
+          "longitude": "-73.31752000"
+        },
+        {
+          "id": 18951,
+          "name": "Cabrero",
+          "latitude": "-37.03394000",
+          "longitude": "-72.40468000"
+        },
+        {
+          "id": 18958,
+          "name": "Cañete",
+          "latitude": "-37.80128000",
+          "longitude": "-73.39616000"
+        },
+        {
+          "id": 18961,
+          "name": "Chiguayante",
+          "latitude": "-36.92560000",
+          "longitude": "-73.02841000"
+        },
+        {
+          "id": 18970,
+          "name": "Concepción",
+          "latitude": "-36.82699000",
+          "longitude": "-73.04977000"
+        },
+        {
+          "id": 148338,
+          "name": "Contulmo",
+          "latitude": "-38.00000000",
+          "longitude": "-73.23333333"
+        },
+        {
+          "id": 18974,
+          "name": "Coronel",
+          "latitude": "-37.03386000",
+          "longitude": "-73.14019000"
+        },
+        {
+          "id": 18977,
+          "name": "Curanilahue",
+          "latitude": "-37.47793000",
+          "longitude": "-73.34495000"
+        },
+        {
+          "id": 148339,
+          "name": "Florida",
+          "latitude": "-36.81666667",
+          "longitude": "-72.66666667"
+        },
+        {
+          "id": 148340,
+          "name": "Hualpén",
+          "latitude": "-36.78333333",
+          "longitude": "-73.08333333"
+        },
+        {
+          "id": 148341,
+          "name": "Hualqui",
+          "latitude": "-36.97266000",
+          "longitude": "-72.93559000"
+        },
+        {
+          "id": 18996,
+          "name": "Laja",
+          "latitude": "-37.28415000",
+          "longitude": "-72.71105000"
+        },
+        {
+          "id": 19001,
+          "name": "Lebu",
+          "latitude": "-37.60825000",
+          "longitude": "-73.65356000"
+        },
+        {
+          "id": 148342,
+          "name": "Los Álamos",
+          "latitude": "-37.61666667",
+          "longitude": "-73.46666667"
+        },
+        {
+          "id": 19009,
+          "name": "Los Ángeles",
+          "latitude": "-37.46973000",
+          "longitude": "-72.35366000"
+        },
+        {
+          "id": 19010,
+          "name": "Lota",
+          "latitude": "-37.08994000",
+          "longitude": "-73.15770000"
+        },
+        {
+          "id": 19015,
+          "name": "Mulchén",
+          "latitude": "-37.71893000",
+          "longitude": "-72.24099000"
+        },
+        {
+          "id": 19016,
+          "name": "Nacimiento",
+          "latitude": "-37.50253000",
+          "longitude": "-72.67307000"
+        },
+        {
+          "id": 148343,
+          "name": "Negrete",
+          "latitude": "-37.58333333",
+          "longitude": "-72.51666667"
+        },
+        {
+          "id": 19024,
+          "name": "Penco",
+          "latitude": "-36.74075000",
+          "longitude": "-72.99528000"
+        },
+        {
+          "id": 148344,
+          "name": "Quilaco",
+          "latitude": "-37.68436111",
+          "longitude": "-72.00636111"
+        },
+        {
+          "id": 148345,
+          "name": "Quilleco",
+          "latitude": "-37.46666667",
+          "longitude": "-71.96666667"
+        },
+        {
+          "id": 148346,
+          "name": "San Pedro de la Paz",
+          "latitude": "-36.84082000",
+          "longitude": "-73.10311000"
+        },
+        {
+          "id": 148347,
+          "name": "San Rosendo",
+          "latitude": "-37.26666667",
+          "longitude": "-72.71666667"
+        },
+        {
+          "id": 148348,
+          "name": "Santa Bárbara",
+          "latitude": "-37.66666667",
+          "longitude": "-72.01666667"
+        },
+        {
+          "id": 148349,
+          "name": "Santa Juana",
+          "latitude": "-37.16666667",
+          "longitude": "-72.93333333"
+        },
+        {
+          "id": 19114,
+          "name": "Talcahuano",
+          "latitude": "-36.72494000",
+          "longitude": "-73.11684000"
+        },
+        {
+          "id": 148350,
+          "name": "Tirúa",
+          "latitude": "-38.33333333",
+          "longitude": "-73.50000000"
+        },
+        {
+          "id": 19119,
+          "name": "Tomé",
+          "latitude": "-36.61756000",
+          "longitude": "-72.95593000"
+        },
+        {
+          "id": 148351,
+          "name": "Tucapel",
+          "latitude": "-37.28333333",
+          "longitude": "-71.95000000"
+        },
+        {
+          "id": 19131,
+          "name": "Yumbel",
+          "latitude": "-37.09820000",
+          "longitude": "-72.56084000"
+        }
+      ]
+    },
+    {
+      "id": 2825,
+      "name": "Coquimbo",
+      "state_code": "CO",
+      "latitude": "-30.54018100",
+      "longitude": "-70.81199530",
+      "type": null,
+      "cities": [
+        {
+          "id": 148352,
+          "name": "Andacollo",
+          "latitude": "-30.21666667",
+          "longitude": "-71.08333333"
+        },
+        {
+          "id": 148353,
+          "name": "Canela",
+          "latitude": "-31.40000000",
+          "longitude": "-71.45000000"
+        },
+        {
+          "id": 148354,
+          "name": "Combarbalá",
+          "latitude": "-31.16666667",
+          "longitude": "-71.05000000"
+        },
+        {
+          "id": 18973,
+          "name": "Coquimbo",
+          "latitude": "-29.95332000",
+          "longitude": "-71.33947000"
+        },
+        {
+          "id": 18988,
+          "name": "Illapel",
+          "latitude": "-31.63349000",
+          "longitude": "-71.16967000"
+        },
+        {
+          "id": 148355,
+          "name": "La Higuera",
+          "latitude": "-29.50000000",
+          "longitude": "-71.26666667"
+        },
+        {
+          "id": 18994,
+          "name": "La Serena",
+          "latitude": "-29.90453000",
+          "longitude": "-71.24894000"
+        },
+        {
+          "id": 148356,
+          "name": "Los Vilos",
+          "latitude": "-31.90000000",
+          "longitude": "-71.51666667"
+        },
+        {
+          "id": 19014,
+          "name": "Monte Patria",
+          "latitude": "-30.69496000",
+          "longitude": "-70.95770000"
+        },
+        {
+          "id": 19019,
+          "name": "Ovalle",
+          "latitude": "-30.60106000",
+          "longitude": "-71.19901000"
+        },
+        {
+          "id": 148357,
+          "name": "Paihuano",
+          "latitude": "-30.02884000",
+          "longitude": "-70.51708000"
+        },
+        {
+          "id": 148358,
+          "name": "Punitaqui",
+          "latitude": "-30.90000000",
+          "longitude": "-71.26666667"
+        },
+        {
+          "id": 148359,
+          "name": "Río Hurtado",
+          "latitude": "-30.26666667",
+          "longitude": "-70.70000000"
+        },
+        {
+          "id": 19099,
+          "name": "Salamanca",
+          "latitude": "-31.77922000",
+          "longitude": "-70.96389000"
+        },
+        {
+          "id": 19125,
+          "name": "Vicuña",
+          "latitude": "-30.03541000",
+          "longitude": "-70.71274000"
+        }
+      ]
+    },
+    {
+      "id": 2826,
+      "name": "La Araucanía",
+      "state_code": "AR",
+      "latitude": "-38.94892100",
+      "longitude": "-72.33111300",
+      "type": null,
+      "cities": [
+        {
+          "id": 18945,
+          "name": "Angol",
+          "latitude": "-37.79519000",
+          "longitude": "-72.71636000"
+        },
+        {
+          "id": 18954,
+          "name": "Carahue",
+          "latitude": "-38.71122000",
+          "longitude": "-73.16101000"
+        },
+        {
+          "id": 148360,
+          "name": "Cholchol",
+          "latitude": "-38.60000000",
+          "longitude": "-72.85000000"
+        },
+        {
+          "id": 18969,
+          "name": "Collipulli",
+          "latitude": "-37.95453000",
+          "longitude": "-72.43438000"
+        },
+        {
+          "id": 148361,
+          "name": "Cunco",
+          "latitude": "-38.91666667",
+          "longitude": "-72.03333333"
+        },
+        {
+          "id": 148362,
+          "name": "Curacautín",
+          "latitude": "-38.44049210",
+          "longitude": "-71.90539600"
+        },
+        {
+          "id": 148363,
+          "name": "Curarrehue",
+          "latitude": "-39.35000000",
+          "longitude": "-71.58333333"
+        },
+        {
+          "id": 148364,
+          "name": "Ercilla",
+          "latitude": "-38.05000000",
+          "longitude": "-72.38333333"
+        },
+        {
+          "id": 18983,
+          "name": "Freire",
+          "latitude": "-38.95252000",
+          "longitude": "-72.62653000"
+        },
+        {
+          "id": 148365,
+          "name": "Galvarino",
+          "latitude": "-38.40000000",
+          "longitude": "-72.78333333"
+        },
+        {
+          "id": 148366,
+          "name": "Gorbea",
+          "latitude": "-39.10000000",
+          "longitude": "-72.68333333"
+        },
+        {
+          "id": 19000,
+          "name": "Lautaro",
+          "latitude": "-38.53066000",
+          "longitude": "-72.43652000"
+        },
+        {
+          "id": 19006,
+          "name": "Loncoche",
+          "latitude": "-39.36708000",
+          "longitude": "-72.63087000"
+        },
+        {
+          "id": 148367,
+          "name": "Lonquimay",
+          "latitude": "-38.43333333",
+          "longitude": "-71.23333333"
+        },
+        {
+          "id": 148368,
+          "name": "Los Sauces",
+          "latitude": "-37.96666667",
+          "longitude": "-72.83333333"
+        },
+        {
+          "id": 148369,
+          "name": "Lumaco",
+          "latitude": "-38.15000000",
+          "longitude": "-72.91666667"
+        },
+        {
+          "id": 148370,
+          "name": "Melipeuco",
+          "latitude": "-38.85000000",
+          "longitude": "-71.70000000"
+        },
+        {
+          "id": 19017,
+          "name": "Nueva Imperial",
+          "latitude": "-38.74451000",
+          "longitude": "-72.95025000"
+        },
+        {
+          "id": 148371,
+          "name": "Padre Las Casas",
+          "latitude": "-38.76666667",
+          "longitude": "-72.60000000"
+        },
+        {
+          "id": 148372,
+          "name": "Perquenco",
+          "latitude": "-38.41666667",
+          "longitude": "-72.38333333"
+        },
+        {
+          "id": 19027,
+          "name": "Pitrufquén",
+          "latitude": "-38.98635000",
+          "longitude": "-72.63721000"
+        },
+        {
+          "id": 19080,
+          "name": "Pucón",
+          "latitude": "-39.28223000",
+          "longitude": "-71.95427000"
+        },
+        {
+          "id": 148373,
+          "name": "Purén",
+          "latitude": "-38.01666667",
+          "longitude": "-73.08333333"
+        },
+        {
+          "id": 148374,
+          "name": "Renaico",
+          "latitude": "-37.71779000",
+          "longitude": "-72.57570000"
+        },
+        {
+          "id": 148375,
+          "name": "Saavedra",
+          "latitude": "-38.78333333",
+          "longitude": "-73.40000000"
+        },
+        {
+          "id": 19116,
+          "name": "Temuco",
+          "latitude": "-38.73965000",
+          "longitude": "-72.59842000"
+        },
+        {
+          "id": 148376,
+          "name": "Teodoro Schmidt",
+          "latitude": "-38.96666667",
+          "longitude": "-73.05000000"
+        },
+        {
+          "id": 148377,
+          "name": "Toltén",
+          "latitude": "-39.17852000",
+          "longitude": "-73.16448000"
+        },
+        {
+          "id": 19120,
+          "name": "Traiguén",
+          "latitude": "-38.24960000",
+          "longitude": "-72.67027000"
+        },
+        {
+          "id": 19124,
+          "name": "Victoria",
+          "latitude": "-38.23291000",
+          "longitude": "-72.33292000"
+        },
+        {
+          "id": 19126,
+          "name": "Vilcún",
+          "latitude": "-38.66875000",
+          "longitude": "-72.22565000"
+        },
+        {
+          "id": 19129,
+          "name": "Villarrica",
+          "latitude": "-39.28569000",
+          "longitude": "-72.22790000"
+        }
+      ]
+    },
+    {
+      "id": 2838,
+      "name": "Libertador General Bernardo O'Higgins",
+      "state_code": "LI",
+      "latitude": "-34.57553740",
+      "longitude": "-71.00223110",
+      "type": null,
+      "cities": [
+        {
+          "id": 148378,
+          "name": "Chépica",
+          "latitude": "-34.73333333",
+          "longitude": "-71.28333333"
+        },
+        {
+          "id": 18964,
+          "name": "Chimbarongo",
+          "latitude": "-34.71247000",
+          "longitude": "-71.04340000"
+        },
+        {
+          "id": 148379,
+          "name": "Codegua",
+          "latitude": "-34.03333333",
+          "longitude": "-70.66666667"
+        },
+        {
+          "id": 148381,
+          "name": "Coínco",
+          "latitude": "-34.26666667",
+          "longitude": "-70.96666667"
+        },
+        {
+          "id": 148380,
+          "name": "Coltauco",
+          "latitude": "-34.30000000",
+          "longitude": "-71.10000000"
+        },
+        {
+          "id": 148382,
+          "name": "Doñihue",
+          "latitude": "-34.23333333",
+          "longitude": "-70.96666667"
+        },
+        {
+          "id": 18985,
+          "name": "Graneros",
+          "latitude": "-34.06863000",
+          "longitude": "-70.72747000"
+        },
+        {
+          "id": 148383,
+          "name": "La Estrella",
+          "latitude": "-34.20000000",
+          "longitude": "-71.66666667"
+        },
+        {
+          "id": 148384,
+          "name": "Las Cabras",
+          "latitude": "-34.30000000",
+          "longitude": "-71.31666667"
+        },
+        {
+          "id": 148385,
+          "name": "Litueche",
+          "latitude": "-34.11666667",
+          "longitude": "-71.73333333"
+        },
+        {
+          "id": 148386,
+          "name": "Lolol",
+          "latitude": "-34.72861111",
+          "longitude": "-71.64472222"
+        },
+        {
+          "id": 19011,
+          "name": "Machalí",
+          "latitude": "-34.18082000",
+          "longitude": "-70.64933000"
+        },
+        {
+          "id": 148387,
+          "name": "Malloa",
+          "latitude": "-34.45000000",
+          "longitude": "-70.95000000"
+        },
+        {
+          "id": 148388,
+          "name": "Marchigüe",
+          "latitude": "-34.40000000",
+          "longitude": "-71.63333333"
+        },
+        {
+          "id": 148389,
+          "name": "Mostazal",
+          "latitude": "-33.98333333",
+          "longitude": "-70.70000000"
+        },
+        {
+          "id": 148390,
+          "name": "Nancagua",
+          "latitude": "-34.66666667",
+          "longitude": "-71.21666667"
+        },
+        {
+          "id": 148391,
+          "name": "Navidad",
+          "latitude": "-33.93333333",
+          "longitude": "-71.83333333"
+        },
+        {
+          "id": 148392,
+          "name": "Olivar",
+          "latitude": "-34.21164000",
+          "longitude": "-70.82012000"
+        },
+        {
+          "id": 148393,
+          "name": "Palmilla",
+          "latitude": "-34.60000000",
+          "longitude": "-71.36666667"
+        },
+        {
+          "id": 148394,
+          "name": "Paredones",
+          "latitude": "-34.78333333",
+          "longitude": "-71.16666667"
+        },
+        {
+          "id": 148395,
+          "name": "Peralillo",
+          "latitude": "-34.48333333",
+          "longitude": "-71.48333333"
+        },
+        {
+          "id": 148396,
+          "name": "Peumo",
+          "latitude": "-34.40000000",
+          "longitude": "-71.16666667"
+        },
+        {
+          "id": 148397,
+          "name": "Pichidegua",
+          "latitude": "-34.35000000",
+          "longitude": "-71.30000000"
+        },
+        {
+          "id": 148398,
+          "name": "Pichilemu",
+          "latitude": "-34.38333000",
+          "longitude": "-72.00000000"
+        },
+        {
+          "id": 148399,
+          "name": "Placilla",
+          "latitude": "-34.63333333",
+          "longitude": "-71.11666667"
+        },
+        {
+          "id": 148400,
+          "name": "Pumanque",
+          "latitude": "-34.60000000",
+          "longitude": "-71.66666667"
+        },
+        {
+          "id": 148401,
+          "name": "Quinta de Tilcoco",
+          "latitude": "-34.35550000",
+          "longitude": "-70.96527000"
+        },
+        {
+          "id": 19095,
+          "name": "Rancagua",
+          "latitude": "-34.17083000",
+          "longitude": "-70.74444000"
+        },
+        {
+          "id": 19097,
+          "name": "Rengo",
+          "latitude": "-34.40639000",
+          "longitude": "-70.85834000"
+        },
+        {
+          "id": 148402,
+          "name": "Requínoa",
+          "latitude": "-34.28333333",
+          "longitude": "-70.83333333"
+        },
+        {
+          "id": 148403,
+          "name": "San Fernando",
+          "latitude": "-34.74330000",
+          "longitude": "-70.60328000"
+        },
+        {
+          "id": 19109,
+          "name": "San Vicente",
+          "latitude": "-34.43859000",
+          "longitude": "-71.07751000"
+        },
+        {
+          "id": 19110,
+          "name": "Santa Cruz",
+          "latitude": "-34.63881000",
+          "longitude": "-71.36576000"
+        }
+      ]
+    },
+    {
+      "id": 2835,
+      "name": "Los Lagos",
+      "state_code": "LL",
+      "latitude": "-41.91977790",
+      "longitude": "-72.14161320",
+      "type": null,
+      "cities": [
+        {
+          "id": 18944,
+          "name": "Ancud",
+          "latitude": "-41.87070000",
+          "longitude": "-73.81622000"
+        },
+        {
+          "id": 18953,
+          "name": "Calbuco",
+          "latitude": "-41.77338000",
+          "longitude": "-73.13049000"
+        },
+        {
+          "id": 18956,
+          "name": "Castro",
+          "latitude": "-42.47210000",
+          "longitude": "-73.77319000"
+        },
+        {
+          "id": 18959,
+          "name": "Chaitén",
+          "latitude": "-42.91596000",
+          "longitude": "-72.70632000"
+        },
+        {
+          "id": 18965,
+          "name": "Chonchi",
+          "latitude": "-42.62387000",
+          "longitude": "-73.77500000"
+        },
+        {
+          "id": 148477,
+          "name": "Cochamó",
+          "latitude": "-41.50000000",
+          "longitude": "-72.31666667"
+        },
+        {
+          "id": 148478,
+          "name": "Curaco de Vélez",
+          "latitude": "-42.43970000",
+          "longitude": "-73.60290000"
+        },
+        {
+          "id": 18980,
+          "name": "Dalcahue",
+          "latitude": "-42.37845000",
+          "longitude": "-73.65011000"
+        },
+        {
+          "id": 148480,
+          "name": "Fresia",
+          "latitude": "-41.15364000",
+          "longitude": "-73.42102000"
+        },
+        {
+          "id": 148481,
+          "name": "Frutillar",
+          "latitude": "-41.08716000",
+          "longitude": "-73.09563000"
+        },
+        {
+          "id": 18984,
+          "name": "Futaleufú",
+          "latitude": "-43.18492000",
+          "longitude": "-71.86722000"
+        },
+        {
+          "id": 148482,
+          "name": "Hualaihué",
+          "latitude": "-42.01666667",
+          "longitude": "-72.68333333"
+        },
+        {
+          "id": 19058,
+          "name": "Llanquihue",
+          "latitude": "-41.34285000",
+          "longitude": "-72.65800000"
+        },
+        {
+          "id": 148483,
+          "name": "Los Muermos",
+          "latitude": "-41.40000000",
+          "longitude": "-73.48333333"
+        },
+        {
+          "id": 148484,
+          "name": "Maullín",
+          "latitude": "-41.61666667",
+          "longitude": "-73.60000000"
+        },
+        {
+          "id": 19018,
+          "name": "Osorno",
+          "latitude": "-40.57395000",
+          "longitude": "-73.13348000"
+        },
+        {
+          "id": 19021,
+          "name": "Palena",
+          "latitude": "-43.61876000",
+          "longitude": "-71.80434000"
+        },
+        {
+          "id": 19085,
+          "name": "Puerto Montt",
+          "latitude": "-41.46930000",
+          "longitude": "-72.94237000"
+        },
+        {
+          "id": 148485,
+          "name": "Puerto Octay",
+          "latitude": "-40.96666667",
+          "longitude": "-72.90000000"
+        },
+        {
+          "id": 19087,
+          "name": "Puerto Varas",
+          "latitude": "-41.31946000",
+          "longitude": "-72.98538000"
+        },
+        {
+          "id": 148486,
+          "name": "Puqueldón",
+          "latitude": "-42.60001000",
+          "longitude": "-73.67458000"
+        },
+        {
+          "id": 19089,
+          "name": "Purranque",
+          "latitude": "-40.91305000",
+          "longitude": "-73.15913000"
+        },
+        {
+          "id": 148479,
+          "name": "Puyehue",
+          "latitude": "-40.70968010",
+          "longitude": "-72.64190560"
+        },
+        {
+          "id": 148487,
+          "name": "Queilén",
+          "latitude": "-42.85572000",
+          "longitude": "-73.56436000"
+        },
+        {
+          "id": 19091,
+          "name": "Quellón",
+          "latitude": "-43.11819000",
+          "longitude": "-73.61661000"
+        },
+        {
+          "id": 148488,
+          "name": "Quemchi",
+          "latitude": "-42.13333333",
+          "longitude": "-73.51666667"
+        },
+        {
+          "id": 148489,
+          "name": "Quinchao",
+          "latitude": "-42.53333333",
+          "longitude": "-73.41666667"
+        },
+        {
+          "id": 148490,
+          "name": "Río Negro",
+          "latitude": "-40.79615000",
+          "longitude": "-73.21614000"
+        },
+        {
+          "id": 148491,
+          "name": "San Juan de la Costa",
+          "latitude": "-40.51666667",
+          "longitude": "-73.40000000"
+        },
+        {
+          "id": 148492,
+          "name": "San Pablo",
+          "latitude": "-40.40000000",
+          "longitude": "-73.01666667"
+        }
+      ]
+    },
+    {
+      "id": 2834,
+      "name": "Los Ríos",
+      "state_code": "LR",
+      "latitude": "-40.23102170",
+      "longitude": "-72.33111300",
+      "type": null,
+      "cities": [
+        {
+          "id": 18975,
+          "name": "Corral",
+          "latitude": "-39.88730000",
+          "longitude": "-73.43101000"
+        },
+        {
+          "id": 148493,
+          "name": "Futrono",
+          "latitude": "-40.13333333",
+          "longitude": "-72.40000000"
+        },
+        {
+          "id": 18995,
+          "name": "La Unión",
+          "latitude": "-40.29313000",
+          "longitude": "-73.08167000"
+        },
+        {
+          "id": 148494,
+          "name": "Lago Ranco",
+          "latitude": "-40.31666667",
+          "longitude": "-72.50000000"
+        },
+        {
+          "id": 148495,
+          "name": "Lanco",
+          "latitude": "-39.45246000",
+          "longitude": "-72.77117000"
+        },
+        {
+          "id": 148496,
+          "name": "Los Lagos",
+          "latitude": "-39.85000000",
+          "longitude": "-72.83333333"
+        },
+        {
+          "id": 148498,
+          "name": "Máfil",
+          "latitude": "-39.65000000",
+          "longitude": "-72.95000000"
+        },
+        {
+          "id": 148497,
+          "name": "Mariquina",
+          "latitude": "-39.51666667",
+          "longitude": "-72.96666667"
+        },
+        {
+          "id": 148499,
+          "name": "Paillaco",
+          "latitude": "-40.07060000",
+          "longitude": "-72.87270000"
+        },
+        {
+          "id": 19022,
+          "name": "Panguipulli",
+          "latitude": "-39.64355000",
+          "longitude": "-72.33269000"
+        },
+        {
+          "id": 19098,
+          "name": "Río Bueno",
+          "latitude": "-40.33494000",
+          "longitude": "-72.95564000"
+        },
+        {
+          "id": 19121,
+          "name": "Valdivia",
+          "latitude": "-39.81422000",
+          "longitude": "-73.24589000"
+        }
+      ]
+    },
+    {
+      "id": 2836,
+      "name": "Magallanes y de la Antártica Chilena",
+      "state_code": "MA",
+      "latitude": "-52.20643160",
+      "longitude": "-72.16850010",
+      "type": null,
+      "cities": [
+        {
+          "id": 19029,
+          "name": "Antártica",
+          "latitude": "-75.00000000",
+          "longitude": "-71.50000000"
+        },
+        {
+          "id": 148404,
+          "name": "Cabo de Hornos",
+          "latitude": "-54.93333333",
+          "longitude": "-67.61666667"
+        },
+        {
+          "id": 148405,
+          "name": "Laguna Blanca",
+          "latitude": "-52.25000000",
+          "longitude": "-71.91666667"
+        },
+        {
+          "id": 148406,
+          "name": "Natales",
+          "latitude": "-51.73333333",
+          "longitude": "-72.51666667"
+        },
+        {
+          "id": 19028,
+          "name": "Porvenir",
+          "latitude": "-53.30000000",
+          "longitude": "-70.36666667"
+        },
+        {
+          "id": 148407,
+          "name": "Primavera",
+          "latitude": "-52.71666667",
+          "longitude": "-69.25000000"
+        },
+        {
+          "id": 19088,
+          "name": "Punta Arenas",
+          "latitude": "-53.16270000",
+          "longitude": "-70.90810000"
+        },
+        {
+          "id": 148408,
+          "name": "Río Verde",
+          "latitude": "-52.65000000",
+          "longitude": "-71.48333333"
+        },
+        {
+          "id": 148409,
+          "name": "San Gregorio",
+          "latitude": "-52.31666667",
+          "longitude": "-69.68333333"
+        },
+        {
+          "id": 148410,
+          "name": "Timaukel",
+          "latitude": "-53.66666667",
+          "longitude": "-69.90000000"
+        },
+        {
+          "id": 148411,
+          "name": "Torres del Paine",
+          "latitude": "-51.26666667",
+          "longitude": "-72.35000000"
+        }
+      ]
+    },
+    {
+      "id": 2833,
+      "name": "Maule",
+      "state_code": "ML",
+      "latitude": "-35.51636030",
+      "longitude": "-71.57239530",
+      "type": null,
+      "cities": [
+        {
+          "id": 18957,
+          "name": "Cauquenes",
+          "latitude": "-35.96710000",
+          "longitude": "-72.32248000"
+        },
+        {
+          "id": 148435,
+          "name": "Chanco",
+          "latitude": "-35.73333333",
+          "longitude": "-72.53333333"
+        },
+        {
+          "id": 18968,
+          "name": "Colbún",
+          "latitude": "-35.69494000",
+          "longitude": "-71.40568000"
+        },
+        {
+          "id": 18971,
+          "name": "Constitución",
+          "latitude": "-35.33321000",
+          "longitude": "-72.41156000"
+        },
+        {
+          "id": 148436,
+          "name": "Curepto",
+          "latitude": "-35.08333333",
+          "longitude": "-72.01666667"
+        },
+        {
+          "id": 18978,
+          "name": "Curicó",
+          "latitude": "-34.98279000",
+          "longitude": "-71.23943000"
+        },
+        {
+          "id": 148437,
+          "name": "Empedrado",
+          "latitude": "-35.60000000",
+          "longitude": "-72.28333333"
+        },
+        {
+          "id": 148438,
+          "name": "Hualañé",
+          "latitude": "-34.97653333",
+          "longitude": "-71.80478611"
+        },
+        {
+          "id": 148439,
+          "name": "Licantén",
+          "latitude": "-34.98333333",
+          "longitude": "-72.00000000"
+        },
+        {
+          "id": 19003,
+          "name": "Linares",
+          "latitude": "-35.84667000",
+          "longitude": "-71.59308000"
+        },
+        {
+          "id": 19007,
+          "name": "Longaví",
+          "latitude": "-35.96496000",
+          "longitude": "-71.68360000"
+        },
+        {
+          "id": 148440,
+          "name": "Maule",
+          "latitude": "-35.53333333",
+          "longitude": "-71.70000000"
+        },
+        {
+          "id": 19013,
+          "name": "Molina",
+          "latitude": "-35.11428000",
+          "longitude": "-71.28232000"
+        },
+        {
+          "id": 19023,
+          "name": "Parral",
+          "latitude": "-36.14311000",
+          "longitude": "-71.82605000"
+        },
+        {
+          "id": 148441,
+          "name": "Pelarco",
+          "latitude": "-35.38333333",
+          "longitude": "-71.45000000"
+        },
+        {
+          "id": 148442,
+          "name": "Pelluhue",
+          "latitude": "-35.83333333",
+          "longitude": "-72.63333333"
+        },
+        {
+          "id": 148443,
+          "name": "Pencahue",
+          "latitude": "-35.40000000",
+          "longitude": "-71.81666667"
+        },
+        {
+          "id": 19096,
+          "name": "Rauco",
+          "latitude": "-34.92546000",
+          "longitude": "-71.31722000"
+        },
+        {
+          "id": 148444,
+          "name": "Retiro",
+          "latitude": "-36.05000000",
+          "longitude": "-71.76666667"
+        },
+        {
+          "id": 148446,
+          "name": "Río Claro",
+          "latitude": "-35.28333333",
+          "longitude": "-71.26666667"
+        },
+        {
+          "id": 148445,
+          "name": "Romeral",
+          "latitude": "-34.96666667",
+          "longitude": "-71.13333333"
+        },
+        {
+          "id": 148447,
+          "name": "Sagrada Familia",
+          "latitude": "-35.00000000",
+          "longitude": "-71.38333333"
+        },
+        {
+          "id": 19104,
+          "name": "San Clemente",
+          "latitude": "-35.53777000",
+          "longitude": "-71.48700000"
+        },
+        {
+          "id": 19106,
+          "name": "San Javier",
+          "latitude": "-35.59520000",
+          "longitude": "-71.72924000"
+        },
+        {
+          "id": 148448,
+          "name": "San Rafael",
+          "latitude": "-35.31666667",
+          "longitude": "-71.53333333"
+        },
+        {
+          "id": 19113,
+          "name": "Talca",
+          "latitude": "-35.42640000",
+          "longitude": "-71.65542000"
+        },
+        {
+          "id": 19117,
+          "name": "Teno",
+          "latitude": "-34.87055000",
+          "longitude": "-71.16219000"
+        },
+        {
+          "id": 148449,
+          "name": "Vichuquén",
+          "latitude": "-34.88333333",
+          "longitude": "-72.00000000"
+        },
+        {
+          "id": 148450,
+          "name": "Villa Alegre",
+          "latitude": "-35.66666667",
+          "longitude": "-71.75000000"
+        },
+        {
+          "id": 148451,
+          "name": "Yerbas Buenas",
+          "latitude": "-35.75000000",
+          "longitude": "-71.58333333"
+        }
+      ]
+    },
+    {
+      "id": 2831,
+      "name": "Ñuble",
+      "state_code": "NB",
+      "latitude": "-36.72257430",
+      "longitude": "-71.76224810",
+      "type": null,
+      "cities": [
+        {
+          "id": 18950,
+          "name": "Bulnes",
+          "latitude": "-36.74232000",
+          "longitude": "-72.29854000"
+        },
+        {
+          "id": 18963,
+          "name": "Chillán",
+          "latitude": "-36.60664000",
+          "longitude": "-72.10344000"
+        },
+        {
+          "id": 148419,
+          "name": "Chillán Viejo",
+          "latitude": "-36.62290000",
+          "longitude": "-72.13170000"
+        },
+        {
+          "id": 148420,
+          "name": "Cobquecura",
+          "latitude": "-36.13333333",
+          "longitude": "-72.78333333"
+        },
+        {
+          "id": 148421,
+          "name": "Coelemu",
+          "latitude": "-36.48333333",
+          "longitude": "-72.70000000"
+        },
+        {
+          "id": 18967,
+          "name": "Coihueco",
+          "latitude": "-36.62785000",
+          "longitude": "-71.83068000"
+        },
+        {
+          "id": 148422,
+          "name": "El Carmen",
+          "latitude": "-36.90000000",
+          "longitude": "-72.03333333"
+        },
+        {
+          "id": 148423,
+          "name": "Ninhue",
+          "latitude": "-36.40000000",
+          "longitude": "-72.40000000"
+        },
+        {
+          "id": 148424,
+          "name": "Ñiquén",
+          "latitude": "-36.30000000",
+          "longitude": "-71.90000000"
+        },
+        {
+          "id": 148425,
+          "name": "Pemuco",
+          "latitude": "-36.96666667",
+          "longitude": "-72.10000000"
+        },
+        {
+          "id": 148426,
+          "name": "Pinto",
+          "latitude": "-36.70000000",
+          "longitude": "-71.90000000"
+        },
+        {
+          "id": 148427,
+          "name": "Portezuelo",
+          "latitude": "-36.53333333",
+          "longitude": "-72.43333333"
+        },
+        {
+          "id": 148428,
+          "name": "Quillón",
+          "latitude": "-36.73333333",
+          "longitude": "-72.46666667"
+        },
+        {
+          "id": 19094,
+          "name": "Quirihue",
+          "latitude": "-36.27998000",
+          "longitude": "-72.54118000"
+        },
+        {
+          "id": 148429,
+          "name": "Ránquil",
+          "latitude": "-36.65000000",
+          "longitude": "-72.55000000"
+        },
+        {
+          "id": 19103,
+          "name": "San Carlos",
+          "latitude": "-36.42477000",
+          "longitude": "-71.95800000"
+        },
+        {
+          "id": 148430,
+          "name": "San Fabián",
+          "latitude": "-36.55000000",
+          "longitude": "-71.55000000"
+        },
+        {
+          "id": 148431,
+          "name": "San Ignacio",
+          "latitude": "-36.79999910",
+          "longitude": "-72.04207620"
+        },
+        {
+          "id": 148432,
+          "name": "San Nicolás",
+          "latitude": "-36.50000000",
+          "longitude": "-72.21666667"
+        },
+        {
+          "id": 148433,
+          "name": "Treguaco",
+          "latitude": "-36.43333333",
+          "longitude": "-72.66666667"
+        },
+        {
+          "id": 148434,
+          "name": "Yungay",
+          "latitude": "-37.11666667",
+          "longitude": "-72.01666667"
+        }
+      ]
+    },
+    {
+      "id": 2824,
+      "name": "Región Metropolitana de Santiago",
+      "state_code": "RM",
+      "latitude": "-33.43755450",
+      "longitude": "-70.65048960",
+      "type": null,
+      "cities": [
+        {
+          "id": 148500,
+          "name": "Alhué",
+          "latitude": "-34.03333333",
+          "longitude": "-71.10000000"
+        },
+        {
+          "id": 18949,
+          "name": "Buin",
+          "latitude": "-33.73257000",
+          "longitude": "-70.74281000"
+        },
+        {
+          "id": 148501,
+          "name": "Calera de Tango",
+          "latitude": "-33.65000000",
+          "longitude": "-70.81666667"
+        },
+        {
+          "id": 148535,
+          "name": "Cerrillos",
+          "latitude": "-33.50229190",
+          "longitude": "-70.73009420"
+        },
+        {
+          "id": 148540,
+          "name": "Cerro Navia",
+          "latitude": "-33.42516430",
+          "longitude": "-70.78407540"
+        },
+        {
+          "id": 148502,
+          "name": "Colina",
+          "latitude": "-33.20000000",
+          "longitude": "-70.68333333"
+        },
+        {
+          "id": 148503,
+          "name": "Conchalí",
+          "latitude": "-33.35000000",
+          "longitude": "-70.61666667"
+        },
+        {
+          "id": 148536,
+          "name": "Curacaví",
+          "latitude": "-33.46937830",
+          "longitude": "-70.72612030"
+        },
+        {
+          "id": 148504,
+          "name": "El Bosque",
+          "latitude": "-33.56666667",
+          "longitude": "-70.70000000"
+        },
+        {
+          "id": 18982,
+          "name": "El Monte",
+          "latitude": "-33.67969000",
+          "longitude": "-70.98482000"
+        },
+        {
+          "id": 148505,
+          "name": "Estación Central",
+          "latitude": "-33.45194400",
+          "longitude": "-70.67888900"
+        },
+        {
+          "id": 148537,
+          "name": "Huechuraba",
+          "latitude": "-33.36928270",
+          "longitude": "-70.66482650"
+        },
+        {
+          "id": 148506,
+          "name": "Independencia",
+          "latitude": "-33.41666667",
+          "longitude": "-70.63333333"
+        },
+        {
+          "id": 148507,
+          "name": "Isla de Maipo",
+          "latitude": "-33.75000000",
+          "longitude": "-70.90000000"
+        },
+        {
+          "id": 148508,
+          "name": "La Cisterna",
+          "latitude": "-33.55000000",
+          "longitude": "-70.68333000"
+        },
+        {
+          "id": 148510,
+          "name": "La Florida",
+          "latitude": "-33.55000000",
+          "longitude": "-70.56666667"
+        },
+        {
+          "id": 148511,
+          "name": "La Granja",
+          "latitude": "-33.54305556",
+          "longitude": "-70.63194444"
+        },
+        {
+          "id": 18993,
+          "name": "La Pintana",
+          "latitude": "-33.58331000",
+          "longitude": "-70.63419000"
+        },
+        {
+          "id": 148512,
+          "name": "La Reina",
+          "latitude": "-33.45000000",
+          "longitude": "-70.55000000"
+        },
+        {
+          "id": 18997,
+          "name": "Lampa",
+          "latitude": "-33.28630000",
+          "longitude": "-70.87561000"
+        },
+        {
+          "id": 148513,
+          "name": "Las Condes",
+          "latitude": "-33.41666667",
+          "longitude": "-70.58333333"
+        },
+        {
+          "id": 148514,
+          "name": "Lo Barnechea",
+          "latitude": "-33.35000000",
+          "longitude": "-70.51666667"
+        },
+        {
+          "id": 148515,
+          "name": "Lo Espejo",
+          "latitude": "-33.53333333",
+          "longitude": "-70.71666667"
+        },
+        {
+          "id": 19005,
+          "name": "Lo Prado",
+          "latitude": "-33.44430000",
+          "longitude": "-70.72552000"
+        },
+        {
+          "id": 148516,
+          "name": "Macul",
+          "latitude": "-33.50000000",
+          "longitude": "-70.56666667"
+        },
+        {
+          "id": 148517,
+          "name": "Maipú",
+          "latitude": "-33.51666667",
+          "longitude": "-70.76666667"
+        },
+        {
+          "id": 148518,
+          "name": "María Pinto",
+          "latitude": "-33.53333333",
+          "longitude": "-71.13333333"
+        },
+        {
+          "id": 19012,
+          "name": "Melipilla",
+          "latitude": "-33.68909000",
+          "longitude": "-71.21528000"
+        },
+        {
+          "id": 148534,
+          "name": "Ñuñoa",
+          "latitude": "-33.46666667",
+          "longitude": "-70.60000000"
+        },
+        {
+          "id": 148519,
+          "name": "Padre Hurtado",
+          "latitude": "-33.56666667",
+          "longitude": "-70.83333333"
+        },
+        {
+          "id": 19020,
+          "name": "Paine",
+          "latitude": "-33.80796000",
+          "longitude": "-70.74109000"
+        },
+        {
+          "id": 148520,
+          "name": "Pedro Aguirre Cerda",
+          "latitude": "-33.46666667",
+          "longitude": "-70.63333333"
+        },
+        {
+          "id": 19026,
+          "name": "Peñaflor",
+          "latitude": "-33.60627000",
+          "longitude": "-70.87649000"
+        },
+        {
+          "id": 148521,
+          "name": "Peñalolén",
+          "latitude": "-33.48333333",
+          "longitude": "-70.53333333"
+        },
+        {
+          "id": 148522,
+          "name": "Pirque",
+          "latitude": "-33.71865000",
+          "longitude": "-70.50658000"
+        },
+        {
+          "id": 148523,
+          "name": "Providencia",
+          "latitude": "-33.43333333",
+          "longitude": "-70.61666667"
+        },
+        {
+          "id": 148538,
+          "name": "Pudahuel",
+          "latitude": "-33.41883590",
+          "longitude": "-70.91463070"
+        },
+        {
+          "id": 19081,
+          "name": "Puente Alto",
+          "latitude": "-33.61169000",
+          "longitude": "-70.57577000"
+        },
+        {
+          "id": 148524,
+          "name": "Quilicura",
+          "latitude": "-33.36666667",
+          "longitude": "-70.75000000"
+        },
+        {
+          "id": 148525,
+          "name": "Quinta Normal",
+          "latitude": "-33.45000000",
+          "longitude": "-70.70000000"
+        },
+        {
+          "id": 148526,
+          "name": "Recoleta",
+          "latitude": "-33.41666667",
+          "longitude": "-70.65000000"
+        },
+        {
+          "id": 148527,
+          "name": "Renca",
+          "latitude": "-33.40000000",
+          "longitude": "-70.73333333"
+        },
+        {
+          "id": 19102,
+          "name": "San Bernardo",
+          "latitude": "-33.59217000",
+          "longitude": "-70.69960000"
+        },
+        {
+          "id": 148528,
+          "name": "San Joaquín",
+          "latitude": "-33.50000000",
+          "longitude": "-70.61666667"
+        },
+        {
+          "id": 148529,
+          "name": "San José de Maipo",
+          "latitude": "-33.63333333",
+          "longitude": "-70.36666667"
+        },
+        {
+          "id": 148530,
+          "name": "San Miguel",
+          "latitude": "-33.50000000",
+          "longitude": "-70.66666667"
+        },
+        {
+          "id": 148531,
+          "name": "San Pedro",
+          "latitude": "-33.90000000",
+          "longitude": "-71.46666667"
+        },
+        {
+          "id": 148539,
+          "name": "San Ramón",
+          "latitude": "-33.53775950",
+          "longitude": "-70.65176730"
+        },
+        {
+          "id": 19111,
+          "name": "Santiago",
+          "latitude": "-33.45694000",
+          "longitude": "-70.64827000"
+        },
+        {
+          "id": 19112,
+          "name": "Talagante",
+          "latitude": "-33.66386000",
+          "longitude": "-70.92734000"
+        },
+        {
+          "id": 148532,
+          "name": "Tiltil",
+          "latitude": "-33.08333333",
+          "longitude": "-70.93333333"
+        },
+        {
+          "id": 148533,
+          "name": "Vitacura",
+          "latitude": "-33.40000000",
+          "longitude": "-70.60000000"
+        }
+      ]
+    },
+    {
+      "id": 2837,
+      "name": "Tarapacá",
+      "state_code": "TA",
+      "latitude": "-20.20287990",
+      "longitude": "-69.28775350",
+      "type": null,
+      "cities": [
+        {
+          "id": 148412,
+          "name": "Alto Hospicio",
+          "latitude": "-20.25000000",
+          "longitude": "-70.11666667"
+        },
+        {
+          "id": 148413,
+          "name": "Camiña",
+          "latitude": "-19.30000000",
+          "longitude": "-69.41666667"
+        },
+        {
+          "id": 148414,
+          "name": "Colchane",
+          "latitude": "-19.27541100",
+          "longitude": "-68.63964600"
+        },
+        {
+          "id": 148415,
+          "name": "Huara",
+          "latitude": "-19.96666667",
+          "longitude": "-69.76666667"
+        },
+        {
+          "id": 18989,
+          "name": "Iquique",
+          "latitude": "-20.21326000",
+          "longitude": "-70.15027000"
+        },
+        {
+          "id": 148416,
+          "name": "Pica",
+          "latitude": "-20.50000000",
+          "longitude": "-69.33333333"
+        },
+        {
+          "id": 148417,
+          "name": "Pozo Almonte",
+          "latitude": "-20.25970000",
+          "longitude": "-69.78620000"
+        }
+      ]
+    },
+    {
+      "id": 2830,
+      "name": "Valparaíso",
+      "state_code": "VS",
+      "latitude": "-33.04723800",
+      "longitude": "-71.61268850",
+      "type": null,
+      "cities": [
+        {
+          "id": 148452,
+          "name": "Algarrobo",
+          "latitude": "-33.36925600",
+          "longitude": "-71.66813900"
+        },
+        {
+          "id": 148453,
+          "name": "Cabildo",
+          "latitude": "-32.41737000",
+          "longitude": "-70.82435000"
+        },
+        {
+          "id": 148454,
+          "name": "Calle Larga",
+          "latitude": "-32.85000000",
+          "longitude": "-70.63333333"
+        },
+        {
+          "id": 18955,
+          "name": "Cartagena",
+          "latitude": "-33.55384000",
+          "longitude": "-71.60761000"
+        },
+        {
+          "id": 148455,
+          "name": "Casablanca",
+          "latitude": "-33.31666667",
+          "longitude": "-71.41666667"
+        },
+        {
+          "id": 148456,
+          "name": "Catemu",
+          "latitude": "-32.63333333",
+          "longitude": "-71.03333333"
+        },
+        {
+          "id": 148457,
+          "name": "Concón",
+          "latitude": "-32.91666667",
+          "longitude": "-71.51666667"
+        },
+        {
+          "id": 148458,
+          "name": "El Quisco",
+          "latitude": "-33.40000000",
+          "longitude": "-71.70000000"
+        },
+        {
+          "id": 148459,
+          "name": "El Tabo",
+          "latitude": "-33.45000000",
+          "longitude": "-71.66666667"
+        },
+        {
+          "id": 148460,
+          "name": "Hijuelas",
+          "latitude": "-32.80000000",
+          "longitude": "-71.16666667"
+        },
+        {
+          "id": 19055,
+          "name": "Isla de Pascua",
+          "latitude": "-27.11048000",
+          "longitude": "-109.29749000"
+        },
+        {
+          "id": 148461,
+          "name": "Juan Fernández",
+          "latitude": "-30.02564270",
+          "longitude": "-82.05192080"
+        },
+        {
+          "id": 148463,
+          "name": "La Calera",
+          "latitude": "-32.78333333",
+          "longitude": "-71.21666667"
+        },
+        {
+          "id": 148464,
+          "name": "La Cruz",
+          "latitude": "-32.81666667",
+          "longitude": "-71.23333333"
+        },
+        {
+          "id": 18992,
+          "name": "La Ligua",
+          "latitude": "-32.45242000",
+          "longitude": "-71.23106000"
+        },
+        {
+          "id": 19002,
+          "name": "Limache",
+          "latitude": "-33.01667000",
+          "longitude": "-71.26667000"
+        },
+        {
+          "id": 19004,
+          "name": "Llaillay",
+          "latitude": "-32.84043000",
+          "longitude": "-70.95623000"
+        },
+        {
+          "id": 19008,
+          "name": "Los Andes",
+          "latitude": "-32.83369000",
+          "longitude": "-70.59827000"
+        },
+        {
+          "id": 148465,
+          "name": "Nogales",
+          "latitude": "-32.71666667",
+          "longitude": "-71.23333333"
+        },
+        {
+          "id": 148466,
+          "name": "Olmué",
+          "latitude": "-33.00000000",
+          "longitude": "-71.20000000"
+        },
+        {
+          "id": 148467,
+          "name": "Panquehue",
+          "latitude": "-32.80000000",
+          "longitude": "-70.83333333"
+        },
+        {
+          "id": 148468,
+          "name": "Papudo",
+          "latitude": "-32.51666667",
+          "longitude": "-71.45000000"
+        },
+        {
+          "id": 148469,
+          "name": "Petorca",
+          "latitude": "-32.25000000",
+          "longitude": "-70.93333333"
+        },
+        {
+          "id": 148470,
+          "name": "Puchuncaví",
+          "latitude": "-32.72575000",
+          "longitude": "-71.41514000"
+        },
+        {
+          "id": 148471,
+          "name": "Putaendo",
+          "latitude": "-32.63333333",
+          "longitude": "-70.73333333"
+        },
+        {
+          "id": 19092,
+          "name": "Quillota",
+          "latitude": "-32.88341000",
+          "longitude": "-71.24882000"
+        },
+        {
+          "id": 19093,
+          "name": "Quilpué",
+          "latitude": "-33.04752000",
+          "longitude": "-71.44249000"
+        },
+        {
+          "id": 148472,
+          "name": "Quintero",
+          "latitude": "-32.78333333",
+          "longitude": "-71.53333333"
+        },
+        {
+          "id": 148473,
+          "name": "Rinconada",
+          "latitude": "-32.83333333",
+          "longitude": "-70.70000000"
+        },
+        {
+          "id": 19100,
+          "name": "San Antonio",
+          "latitude": "-33.59473000",
+          "longitude": "-71.60746000"
+        },
+        {
+          "id": 148474,
+          "name": "San Esteban",
+          "latitude": "-32.80000000",
+          "longitude": "-70.58333333"
+        },
+        {
+          "id": 19105,
+          "name": "San Felipe",
+          "latitude": "-32.74976000",
+          "longitude": "-70.72584000"
+        },
+        {
+          "id": 148475,
+          "name": "Santa María",
+          "latitude": "-32.75000000",
+          "longitude": "-70.66666667"
+        },
+        {
+          "id": 148462,
+          "name": "Santo Domingo",
+          "latitude": "-33.64719330",
+          "longitude": "-71.63527900"
+        },
+        {
+          "id": 19123,
+          "name": "Valparaíso",
+          "latitude": "-33.03600000",
+          "longitude": "-71.62963000"
+        },
+        {
+          "id": 19127,
+          "name": "Villa Alemana",
+          "latitude": "-33.04222000",
+          "longitude": "-71.37333000"
+        },
+        {
+          "id": 19130,
+          "name": "Viña del Mar",
+          "latitude": "-33.02457000",
+          "longitude": "-71.55183000"
+        },
+        {
+          "id": 148476,
+          "name": "Zapallar",
+          "latitude": "-32.55390000",
+          "longitude": "-71.45770000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": 2808,
+  "name": "Eastern Province",
+  "state_code": "5",
+  "latitude": null,
+  "longitude": null,
+  "type": null,
+  "cities": [
+    {
+      "id": 66449,
+      "name": "Ampara",
+      "latitude": "7.29754000",
+      "longitude": "81.68202000"
+    },
+    {
+      "id": 66450,
+      "name": "Ampara District",
+      "latitude": "7.08330000",
+      "longitude": "81.75000000"
+    },
+    {
+      "id": 66456,
+      "name": "Batticaloa",
+      "latitude": "7.71020000",
+      "longitude": "81.69240000"
+    },
+    {
+      "id": 66457,
+      "name": "Batticaloa District",
+      "latitude": "7.75000000",
+      "longitude": "81.49970000"
+    },
+    {
+      "id": 66467,
+      "name": "Eravur Town",
+      "latitude": "7.77820000",
+      "longitude": "81.60380000"
+    },
+    {
+      "id": 66486,
+      "name": "Kalmunai",
+      "latitude": "7.40902000",
+      "longitude": "81.83472000"
+    },
+    {
+      "id": 66534,
+      "name": "Trincomalee",
+      "latitude": "8.57780000",
+      "longitude": "81.22890000"
+    },
+    {
+      "id": 66535,
+      "name": "Trincomalee District",
+      "latitude": "8.58333000",
+      "longitude": "81.08333000"
+    },
+    {
+      "id": 66537,
+      "name": "Vakarai",
+      "latitude": "8.13333000",
+      "longitude": "81.43333000"
+    }
+  ],
+  "country": {
+    "id": 208,
+    "name": "Sri Lanka",
+    "iso3": "LKA",
+    "iso2": "LK",
+    "numeric_code": "144",
+    "phone_code": "94",
+    "capital": "Colombo",
+    "currency": "LKR",
+    "currency_name": "Sri Lankan rupee",
+    "currency_symbol": "Rs",
+    "tld": ".lk",
+    "native": "śrī laṃkāva",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Colombo",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "스리랑카",
+      "pt-BR": "Sri Lanka",
+      "pt": "Sri Lanka",
+      "nl": "Sri Lanka",
+      "hr": "Šri Lanka",
+      "fa": "سری‌لانکا",
+      "de": "Sri Lanka",
+      "es": "Sri Lanka",
+      "fr": "Sri Lanka",
+      "ja": "スリランカ",
+      "it": "Sri Lanka",
+      "cn": "斯里兰卡",
+      "tr": "Sri Lanka"
+    },
+    "latitude": "7.00000000",
+    "longitude": "81.00000000",
+    "emoji": "🇱🇰",
+    "emojiU": "U+1F1F1 U+1F1F0"
+  }
+}

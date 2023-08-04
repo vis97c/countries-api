@@ -1,0 +1,126 @@
+{
+  "id": 4048,
+  "name": "Gracias a Dios Department",
+  "state_code": "GD",
+  "latitude": "15.34180600",
+  "longitude": "-84.60604490",
+  "type": null,
+  "cities": [
+    {
+      "id": 53844,
+      "name": "Ahuas",
+      "latitude": "15.46923000",
+      "longitude": "-84.34479000"
+    },
+    {
+      "id": 53862,
+      "name": "Auas",
+      "latitude": "15.48333000",
+      "longitude": "-84.33333000"
+    },
+    {
+      "id": 53863,
+      "name": "Auka",
+      "latitude": "14.94087000",
+      "longitude": "-83.83229000"
+    },
+    {
+      "id": 53869,
+      "name": "Barra Patuca",
+      "latitude": "15.80000000",
+      "longitude": "-84.28333000"
+    },
+    {
+      "id": 53875,
+      "name": "Brus Laguna",
+      "latitude": "15.75000000",
+      "longitude": "-84.48333000"
+    },
+    {
+      "id": 54028,
+      "name": "Iralaya",
+      "latitude": "15.00000000",
+      "longitude": "-83.23333000"
+    },
+    {
+      "id": 54039,
+      "name": "Juan Francisco Bulnes",
+      "latitude": "15.91676000",
+      "longitude": "-84.90990000"
+    },
+    {
+      "id": 54165,
+      "name": "Paptalaya",
+      "latitude": "15.50000000",
+      "longitude": "-84.31667000"
+    },
+    {
+      "id": 54186,
+      "name": "Puerto Lempira",
+      "latitude": "15.26667000",
+      "longitude": "-83.77222000"
+    },
+    {
+      "id": 54363,
+      "name": "Villeda Morales",
+      "latitude": "15.08472000",
+      "longitude": "-83.35361000"
+    },
+    {
+      "id": 54365,
+      "name": "Wampusirpi",
+      "latitude": "15.18333000",
+      "longitude": "-84.61667000"
+    },
+    {
+      "id": 54366,
+      "name": "Wawina",
+      "latitude": "15.41667000",
+      "longitude": "-84.43333000"
+    }
+  ],
+  "country": {
+    "id": 97,
+    "name": "Honduras",
+    "iso3": "HND",
+    "iso2": "HN",
+    "numeric_code": "340",
+    "phone_code": "504",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "currency_name": "Honduran lempira",
+    "currency_symbol": "L",
+    "tld": ".hn",
+    "native": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Tegucigalpa",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "온두라스",
+      "pt-BR": "Honduras",
+      "pt": "Honduras",
+      "nl": "Honduras",
+      "hr": "Honduras",
+      "fa": "هندوراس",
+      "de": "Honduras",
+      "es": "Honduras",
+      "fr": "Honduras",
+      "ja": "ホンジュラス",
+      "it": "Honduras",
+      "cn": "洪都拉斯",
+      "tr": "Honduras"
+    },
+    "latitude": "15.00000000",
+    "longitude": "-86.50000000",
+    "emoji": "🇭🇳",
+    "emojiU": "U+1F1ED U+1F1F3"
+  }
+}

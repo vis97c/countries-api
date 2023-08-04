@@ -1,0 +1,90 @@
+{
+  "id": 969,
+  "name": "Hhohho District",
+  "state_code": "HH",
+  "latitude": "-26.13656620",
+  "longitude": "31.35416310",
+  "type": null,
+  "cities": [
+    {
+      "id": 105084,
+      "name": "Bulembu",
+      "latitude": "-25.96667000",
+      "longitude": "31.13333000"
+    },
+    {
+      "id": 105087,
+      "name": "Hhukwini",
+      "latitude": "-26.31972000",
+      "longitude": "31.22222000"
+    },
+    {
+      "id": 105093,
+      "name": "Lobamba",
+      "latitude": "-26.46667000",
+      "longitude": "31.20000000"
+    },
+    {
+      "id": 105099,
+      "name": "Mbabane",
+      "latitude": "-26.31667000",
+      "longitude": "31.13333000"
+    },
+    {
+      "id": 105105,
+      "name": "Nkhaba",
+      "latitude": "-26.15728000",
+      "longitude": "31.16391000"
+    },
+    {
+      "id": 105109,
+      "name": "Piggs Peak",
+      "latitude": "-25.96082000",
+      "longitude": "31.24666000"
+    }
+  ],
+  "country": {
+    "id": 212,
+    "name": "Swaziland",
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "numeric_code": "748",
+    "phone_code": "268",
+    "capital": "Mbabane",
+    "currency": "SZL",
+    "currency_name": "Lilangeni",
+    "currency_symbol": "E",
+    "tld": ".sz",
+    "native": "Swaziland",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mbabane",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스와티니",
+      "pt-BR": "Suazilândia",
+      "pt": "Suazilândia",
+      "nl": "Swaziland",
+      "hr": "Svazi",
+      "fa": "سوازیلند",
+      "de": "Swasiland",
+      "es": "Suazilandia",
+      "fr": "Swaziland",
+      "ja": "スワジランド",
+      "it": "Swaziland",
+      "cn": "斯威士兰",
+      "tr": "Esvatini"
+    },
+    "latitude": "-26.50000000",
+    "longitude": "31.50000000",
+    "emoji": "🇸🇿",
+    "emojiU": "U+1F1F8 U+1F1FF"
+  }
+}

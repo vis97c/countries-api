@@ -1,0 +1,666 @@
+{
+  "id": 4639,
+  "name": "Jihočeský kraj",
+  "state_code": "31",
+  "latitude": "48.94577890",
+  "longitude": "14.44160550",
+  "type": null,
+  "cities": [
+    {
+      "id": 22115,
+      "name": "Bavorov",
+      "latitude": "49.12184000",
+      "longitude": "14.07893000"
+    },
+    {
+      "id": 22118,
+      "name": "Bechyně",
+      "latitude": "49.29523000",
+      "longitude": "14.46810000"
+    },
+    {
+      "id": 22123,
+      "name": "Benešov nad Černou",
+      "latitude": "48.72940000",
+      "longitude": "14.62737000"
+    },
+    {
+      "id": 22125,
+      "name": "Bernartice",
+      "latitude": "49.36889000",
+      "longitude": "14.38101000"
+    },
+    {
+      "id": 22130,
+      "name": "Blatná",
+      "latitude": "49.42489000",
+      "longitude": "13.88176000"
+    },
+    {
+      "id": 22147,
+      "name": "Borek",
+      "latitude": "49.02339000",
+      "longitude": "14.50088000"
+    },
+    {
+      "id": 22150,
+      "name": "Borová Lada",
+      "latitude": "48.98983000",
+      "longitude": "13.65986000"
+    },
+    {
+      "id": 22149,
+      "name": "Borovany",
+      "latitude": "48.89860000",
+      "longitude": "14.64227000"
+    },
+    {
+      "id": 22164,
+      "name": "Brloh",
+      "latitude": "48.92987000",
+      "longitude": "14.21857000"
+    },
+    {
+      "id": 23388,
+      "name": "České Budějovice",
+      "latitude": "48.97447000",
+      "longitude": "14.47434000"
+    },
+    {
+      "id": 23390,
+      "name": "České Velenice",
+      "latitude": "48.76851000",
+      "longitude": "14.96368000"
+    },
+    {
+      "id": 23393,
+      "name": "Český Krumlov",
+      "latitude": "48.81091000",
+      "longitude": "14.31521000"
+    },
+    {
+      "id": 23394,
+      "name": "Český Rudolec",
+      "latitude": "49.06835000",
+      "longitude": "15.32437000"
+    },
+    {
+      "id": 22219,
+      "name": "Chlum u Třeboně",
+      "latitude": "48.96235000",
+      "longitude": "14.92799000"
+    },
+    {
+      "id": 22227,
+      "name": "Chotoviny",
+      "latitude": "49.47803000",
+      "longitude": "14.67695000"
+    },
+    {
+      "id": 22240,
+      "name": "Chvalšiny",
+      "latitude": "48.85401000",
+      "longitude": "14.21114000"
+    },
+    {
+      "id": 22243,
+      "name": "Chýnov",
+      "latitude": "49.40677000",
+      "longitude": "14.81122000"
+    },
+    {
+      "id": 22242,
+      "name": "Chyšky",
+      "latitude": "49.52346000",
+      "longitude": "14.42757000"
+    },
+    {
+      "id": 23396,
+      "name": "Čimelice",
+      "latitude": "49.46557000",
+      "longitude": "14.06922000"
+    },
+    {
+      "id": 23397,
+      "name": "Čkyně",
+      "latitude": "49.11503000",
+      "longitude": "13.82906000"
+    },
+    {
+      "id": 22252,
+      "name": "Dačice",
+      "latitude": "49.08154000",
+      "longitude": "15.43727000"
+    },
+    {
+      "id": 22277,
+      "name": "Dolní Bukovsko",
+      "latitude": "49.17086000",
+      "longitude": "14.58127000"
+    },
+    {
+      "id": 22282,
+      "name": "Dolní Dvořiště",
+      "latitude": "48.65642000",
+      "longitude": "14.45221000"
+    },
+    {
+      "id": 22324,
+      "name": "Dřiteň",
+      "latitude": "49.14280000",
+      "longitude": "14.34596000"
+    },
+    {
+      "id": 22313,
+      "name": "Dubné",
+      "latitude": "48.97619000",
+      "longitude": "14.36038000"
+    },
+    {
+      "id": 22328,
+      "name": "Frymburk",
+      "latitude": "48.66094000",
+      "longitude": "14.16564000"
+    },
+    {
+      "id": 22355,
+      "name": "Hluboká nad Vltavou",
+      "latitude": "49.05225000",
+      "longitude": "14.43427000"
+    },
+    {
+      "id": 22385,
+      "name": "Horní Planá",
+      "latitude": "48.76736000",
+      "longitude": "14.03257000"
+    },
+    {
+      "id": 22390,
+      "name": "Horní Stropnice",
+      "latitude": "48.76124000",
+      "longitude": "14.73502000"
+    },
+    {
+      "id": 22418,
+      "name": "Hrdějovice",
+      "latitude": "49.01893000",
+      "longitude": "14.47857000"
+    },
+    {
+      "id": 22436,
+      "name": "Husinec",
+      "latitude": "49.05496000",
+      "longitude": "13.98697000"
+    },
+    {
+      "id": 22460,
+      "name": "Jarošov nad Nežárkou",
+      "latitude": "49.18989000",
+      "longitude": "15.06734000"
+    },
+    {
+      "id": 22476,
+      "name": "Jindřichův Hradec",
+      "latitude": "49.14404000",
+      "longitude": "15.00301000"
+    },
+    {
+      "id": 22479,
+      "name": "Jistebnice",
+      "latitude": "49.48553000",
+      "longitude": "14.52760000"
+    },
+    {
+      "id": 22582,
+      "name": "Kájov",
+      "latitude": "48.81082000",
+      "longitude": "14.25859000"
+    },
+    {
+      "id": 22494,
+      "name": "Kamenný Újezd",
+      "latitude": "48.89753000",
+      "longitude": "14.44638000"
+    },
+    {
+      "id": 22495,
+      "name": "Kaplice",
+      "latitude": "48.73881000",
+      "longitude": "14.49449000"
+    },
+    {
+      "id": 22496,
+      "name": "Kardašova Řečice",
+      "latitude": "49.18478000",
+      "longitude": "14.85315000"
+    },
+    {
+      "id": 22503,
+      "name": "Katovice",
+      "latitude": "49.27348000",
+      "longitude": "13.83035000"
+    },
+    {
+      "id": 22545,
+      "name": "Kovářov",
+      "latitude": "49.51760000",
+      "longitude": "14.27809000"
+    },
+    {
+      "id": 22583,
+      "name": "Křemže",
+      "latitude": "48.90497000",
+      "longitude": "14.30568000"
+    },
+    {
+      "id": 22575,
+      "name": "Kunžak",
+      "latitude": "49.12119000",
+      "longitude": "15.19028000"
+    },
+    {
+      "id": 22592,
+      "name": "Ledenice",
+      "latitude": "48.93329000",
+      "longitude": "14.61886000"
+    },
+    {
+      "id": 22603,
+      "name": "Lhenice",
+      "latitude": "48.99479000",
+      "longitude": "14.14980000"
+    },
+    {
+      "id": 22627,
+      "name": "Lišov",
+      "latitude": "49.01597000",
+      "longitude": "14.60838000"
+    },
+    {
+      "id": 22626,
+      "name": "Litvínovice",
+      "latitude": "48.96207000",
+      "longitude": "14.45146000"
+    },
+    {
+      "id": 22634,
+      "name": "Lomnice nad Lužnicí",
+      "latitude": "49.08468000",
+      "longitude": "14.71727000"
+    },
+    {
+      "id": 22640,
+      "name": "Loučovice",
+      "latitude": "48.62019000",
+      "longitude": "14.25747000"
+    },
+    {
+      "id": 22670,
+      "name": "Malonty",
+      "latitude": "48.68611000",
+      "longitude": "14.57678000"
+    },
+    {
+      "id": 22674,
+      "name": "Malšice",
+      "latitude": "49.36391000",
+      "longitude": "14.57868000"
+    },
+    {
+      "id": 22689,
+      "name": "Milevsko",
+      "latitude": "49.45089000",
+      "longitude": "14.36000000"
+    },
+    {
+      "id": 22696,
+      "name": "Mirotice",
+      "latitude": "49.42908000",
+      "longitude": "14.03697000"
+    },
+    {
+      "id": 22697,
+      "name": "Mirovice",
+      "latitude": "49.51555000",
+      "longitude": "14.03582000"
+    },
+    {
+      "id": 22702,
+      "name": "Mladá Vožice",
+      "latitude": "49.53313000",
+      "longitude": "14.80857000"
+    },
+    {
+      "id": 22762,
+      "name": "Netolice",
+      "latitude": "49.04930000",
+      "longitude": "14.19700000"
+    },
+    {
+      "id": 22772,
+      "name": "Nová Bystřice",
+      "latitude": "49.01926000",
+      "longitude": "15.10316000"
+    },
+    {
+      "id": 22776,
+      "name": "Nová Včelnice",
+      "latitude": "49.23935000",
+      "longitude": "15.07260000"
+    },
+    {
+      "id": 22777,
+      "name": "Nové Hrady",
+      "latitude": "48.78963000",
+      "longitude": "14.77839000"
+    },
+    {
+      "id": 22877,
+      "name": "Okres České Budějovice",
+      "latitude": "49.00000000",
+      "longitude": "14.50000000"
+    },
+    {
+      "id": 22878,
+      "name": "Okres Český Krumlov",
+      "latitude": "48.75000000",
+      "longitude": "14.33333000"
+    },
+    {
+      "id": 22824,
+      "name": "Okres Jindřichův Hradec",
+      "latitude": "49.08333000",
+      "longitude": "15.16667000"
+    },
+    {
+      "id": 22854,
+      "name": "Okres Písek",
+      "latitude": "49.40000000",
+      "longitude": "14.20000000"
+    },
+    {
+      "id": 22850,
+      "name": "Okres Prachatice",
+      "latitude": "49.00000000",
+      "longitude": "13.86667000"
+    },
+    {
+      "id": 22862,
+      "name": "Okres Strakonice",
+      "latitude": "49.26667000",
+      "longitude": "13.90000000"
+    },
+    {
+      "id": 22867,
+      "name": "Okres Tábor",
+      "latitude": "49.41667000",
+      "longitude": "14.66667000"
+    },
+    {
+      "id": 22893,
+      "name": "Opařany",
+      "latitude": "49.39678000",
+      "longitude": "14.48137000"
+    },
+    {
+      "id": 22993,
+      "name": "Písek",
+      "latitude": "49.30880000",
+      "longitude": "14.14750000"
+    },
+    {
+      "id": 22936,
+      "name": "Planá nad Lužnicí",
+      "latitude": "49.35444000",
+      "longitude": "14.70147000"
+    },
+    {
+      "id": 22968,
+      "name": "Prachatice",
+      "latitude": "49.01292000",
+      "longitude": "13.99752000"
+    },
+    {
+      "id": 22982,
+      "name": "Protivín",
+      "latitude": "49.19949000",
+      "longitude": "14.21717000"
+    },
+    {
+      "id": 23013,
+      "name": "Radomyšl",
+      "latitude": "49.31634000",
+      "longitude": "13.93024000"
+    },
+    {
+      "id": 23049,
+      "name": "Rudolfov",
+      "latitude": "48.99339000",
+      "longitude": "14.54179000"
+    },
+    {
+      "id": 23063,
+      "name": "Sedlice",
+      "latitude": "48.77401000",
+      "longitude": "14.39115000"
+    },
+    {
+      "id": 23069,
+      "name": "Sepekov",
+      "latitude": "49.42865000",
+      "longitude": "14.41815000"
+    },
+    {
+      "id": 23414,
+      "name": "Ševětín",
+      "latitude": "49.10005000",
+      "longitude": "14.57220000"
+    },
+    {
+      "id": 23071,
+      "name": "Sezimovo Ústí",
+      "latitude": "49.38519000",
+      "longitude": "14.68480000"
+    },
+    {
+      "id": 23083,
+      "name": "Slavonice",
+      "latitude": "48.99753000",
+      "longitude": "15.35154000"
+    },
+    {
+      "id": 23092,
+      "name": "Soběslav",
+      "latitude": "49.25993000",
+      "longitude": "14.71861000"
+    },
+    {
+      "id": 23098,
+      "name": "Srubec",
+      "latitude": "48.94806000",
+      "longitude": "14.54131000"
+    },
+    {
+      "id": 23099,
+      "name": "Stachy",
+      "latitude": "49.10179000",
+      "longitude": "13.66659000"
+    },
+    {
+      "id": 23120,
+      "name": "Strakonice",
+      "latitude": "49.26141000",
+      "longitude": "13.90237000"
+    },
+    {
+      "id": 23123,
+      "name": "Strmilov",
+      "latitude": "49.15846000",
+      "longitude": "15.19934000"
+    },
+    {
+      "id": 23124,
+      "name": "Strunkovice nad Blanicí",
+      "latitude": "49.08402000",
+      "longitude": "14.05522000"
+    },
+    {
+      "id": 23133,
+      "name": "Studená",
+      "latitude": "49.18516000",
+      "longitude": "15.28688000"
+    },
+    {
+      "id": 23141,
+      "name": "Suchdol nad Lužnicí",
+      "latitude": "48.89000000",
+      "longitude": "14.87720000"
+    },
+    {
+      "id": 23189,
+      "name": "Tábor",
+      "latitude": "49.41441000",
+      "longitude": "14.65780000"
+    },
+    {
+      "id": 23200,
+      "name": "Třeboň",
+      "latitude": "49.00364000",
+      "longitude": "14.77065000"
+    },
+    {
+      "id": 23173,
+      "name": "Trhové Sviny",
+      "latitude": "48.84231000",
+      "longitude": "14.63924000"
+    },
+    {
+      "id": 23190,
+      "name": "Týn nad Vltavou",
+      "latitude": "49.22340000",
+      "longitude": "14.42057000"
+    },
+    {
+      "id": 23214,
+      "name": "Vacov",
+      "latitude": "49.13686000",
+      "longitude": "13.72911000"
+    },
+    {
+      "id": 23313,
+      "name": "Včelná",
+      "latitude": "48.92373000",
+      "longitude": "14.45383000"
+    },
+    {
+      "id": 23228,
+      "name": "Velešín",
+      "latitude": "48.82949000",
+      "longitude": "14.46252000"
+    },
+    {
+      "id": 23261,
+      "name": "Veselí nad Lužnicí",
+      "latitude": "49.18430000",
+      "longitude": "14.69734000"
+    },
+    {
+      "id": 23315,
+      "name": "Větřní",
+      "latitude": "48.77425000",
+      "longitude": "14.28616000"
+    },
+    {
+      "id": 23271,
+      "name": "Vimperk",
+      "latitude": "49.05857000",
+      "longitude": "13.78286000"
+    },
+    {
+      "id": 23279,
+      "name": "Vlachovo Březí",
+      "latitude": "49.08135000",
+      "longitude": "13.95842000"
+    },
+    {
+      "id": 23286,
+      "name": "Vodňany",
+      "latitude": "49.14789000",
+      "longitude": "14.17513000"
+    },
+    {
+      "id": 23288,
+      "name": "Volary",
+      "latitude": "48.90881000",
+      "longitude": "13.88657000"
+    },
+    {
+      "id": 23289,
+      "name": "Volyně",
+      "latitude": "49.16578000",
+      "longitude": "13.88624000"
+    },
+    {
+      "id": 23309,
+      "name": "Vyšší Brod",
+      "latitude": "48.61598000",
+      "longitude": "14.31183000"
+    },
+    {
+      "id": 23337,
+      "name": "Zdíkov",
+      "latitude": "49.08456000",
+      "longitude": "13.69738000"
+    },
+    {
+      "id": 23341,
+      "name": "Zliv",
+      "latitude": "49.06608000",
+      "longitude": "14.36613000"
+    }
+  ],
+  "country": {
+    "id": 58,
+    "name": "Czech Republic",
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "numeric_code": "203",
+    "phone_code": "420",
+    "capital": "Prague",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "native": "Česká republika",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "체코",
+      "pt-BR": "República Tcheca",
+      "pt": "República Checa",
+      "nl": "Tsjechië",
+      "hr": "Češka",
+      "fa": "جمهوری چک",
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "fr": "République tchèque",
+      "ja": "チェコ",
+      "it": "Repubblica Ceca",
+      "cn": "捷克",
+      "tr": "Çekya"
+    },
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  }
+}

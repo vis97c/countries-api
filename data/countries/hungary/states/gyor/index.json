@@ -1,0 +1,53 @@
+{
+  "id": 1041,
+  "name": "Győr",
+  "state_code": "GY",
+  "latitude": "47.68745690",
+  "longitude": "17.65039740",
+  "type": "city with county rights",
+  "cities": [],
+  "country": {
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phone_code": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "헝가리",
+      "pt-BR": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "cn": "匈牙利",
+      "tr": "Macaristan"
+    },
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  }
+}

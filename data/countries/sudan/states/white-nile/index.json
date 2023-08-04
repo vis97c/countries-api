@@ -1,0 +1,108 @@
+{
+  "id": 879,
+  "name": "White Nile",
+  "state_code": "NW",
+  "latitude": "9.33215160",
+  "longitude": "31.46153000",
+  "type": null,
+  "cities": [
+    {
+      "id": 102918,
+      "name": "Ad Douiem",
+      "latitude": "14.00120000",
+      "longitude": "32.31160000"
+    },
+    {
+      "id": 102923,
+      "name": "Al Kawa",
+      "latitude": "13.74630000",
+      "longitude": "32.49960000"
+    },
+    {
+      "id": 102930,
+      "name": "Al Qiţena",
+      "latitude": "14.86480000",
+      "longitude": "32.36680000"
+    },
+    {
+      "id": 102959,
+      "name": "Kosti",
+      "latitude": "13.16290000",
+      "longitude": "32.66347000"
+    },
+    {
+      "id": 102964,
+      "name": "Marabba",
+      "latitude": "12.35000000",
+      "longitude": "32.18333000"
+    },
+    {
+      "id": 102969,
+      "name": "Rabak",
+      "latitude": "13.18087000",
+      "longitude": "32.73999000"
+    },
+    {
+      "id": 102975,
+      "name": "Tandaltī",
+      "latitude": "13.01667000",
+      "longitude": "31.86667000"
+    },
+    {
+      "id": 102977,
+      "name": "Um Jar Al Gharbiyya",
+      "latitude": "13.80130000",
+      "longitude": "32.40780000"
+    },
+    {
+      "id": 102982,
+      "name": "Wad az Zāki",
+      "latitude": "14.46190000",
+      "longitude": "32.20650000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

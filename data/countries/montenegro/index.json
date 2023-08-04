@@ -1,0 +1,469 @@
+{
+  "id": 147,
+  "name": "Montenegro",
+  "iso3": "MNE",
+  "iso2": "ME",
+  "numeric_code": "499",
+  "phone_code": "382",
+  "capital": "Podgorica",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".me",
+  "native": "Црна Гора",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "timezones": [
+    {
+      "zoneName": "Europe/Podgorica",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "kr": "몬테네그로",
+    "pt-BR": "Montenegro",
+    "pt": "Montenegro",
+    "nl": "Montenegro",
+    "hr": "Crna Gora",
+    "fa": "مونته‌نگرو",
+    "de": "Montenegro",
+    "es": "Montenegro",
+    "fr": "Monténégro",
+    "ja": "モンテネグロ",
+    "it": "Montenegro",
+    "cn": "黑山",
+    "tr": "Karadağ"
+  },
+  "latitude": "42.50000000",
+  "longitude": "19.30000000",
+  "emoji": "🇲🇪",
+  "emojiU": "U+1F1F2 U+1F1EA",
+  "states": [
+    {
+      "id": 23,
+      "name": "Andrijevica Municipality",
+      "state_code": "01",
+      "latitude": "42.73624770",
+      "longitude": "19.78595560",
+      "type": null,
+      "cities": [
+        {
+          "id": 67343,
+          "name": "Andrijevica",
+          "latitude": "42.73389000",
+          "longitude": "19.79194000"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bar Municipality",
+      "state_code": "02",
+      "latitude": "42.12781190",
+      "longitude": "19.14043800",
+      "type": null,
+      "cities": [
+        {
+          "id": 67344,
+          "name": "Bar",
+          "latitude": "42.09306000",
+          "longitude": "19.10028000"
+        },
+        {
+          "id": 67369,
+          "name": "Stari Bar",
+          "latitude": "42.09700000",
+          "longitude": "19.13600000"
+        },
+        {
+          "id": 67375,
+          "name": "Šušanj",
+          "latitude": "42.11556000",
+          "longitude": "19.08833000"
+        },
+        {
+          "id": 67370,
+          "name": "Sutomore",
+          "latitude": "42.14278000",
+          "longitude": "19.04667000"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Berane Municipality",
+      "state_code": "03",
+      "latitude": "42.82572890",
+      "longitude": "19.90205090",
+      "type": null,
+      "cities": [
+        {
+          "id": 67345,
+          "name": "Berane",
+          "latitude": "42.84250000",
+          "longitude": "19.87333000"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bijelo Polje Municipality",
+      "state_code": "04",
+      "latitude": "43.08465260",
+      "longitude": "19.71154720",
+      "type": null,
+      "cities": [
+        {
+          "id": 67346,
+          "name": "Bijelo Polje",
+          "latitude": "43.03834000",
+          "longitude": "19.74758000"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Budva Municipality",
+      "state_code": "05",
+      "latitude": "42.31407200",
+      "longitude": "18.83138320",
+      "type": null,
+      "cities": [
+        {
+          "id": 67347,
+          "name": "Budva",
+          "latitude": "42.28639000",
+          "longitude": "18.84000000"
+        },
+        {
+          "id": 67360,
+          "name": "Petrovac na Moru",
+          "latitude": "42.20556000",
+          "longitude": "18.94250000"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Danilovgrad Municipality",
+      "state_code": "07",
+      "latitude": "42.58357000",
+      "longitude": "19.14043800",
+      "type": null,
+      "cities": [
+        {
+          "id": 67349,
+          "name": "Danilovgrad",
+          "latitude": "42.55384000",
+          "longitude": "19.14608000"
+        },
+        {
+          "id": 67368,
+          "name": "Spuž",
+          "latitude": "42.51500000",
+          "longitude": "19.19500000"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Gusinje Municipality",
+      "state_code": "22",
+      "latitude": "42.55634550",
+      "longitude": "19.83060510",
+      "type": null,
+      "cities": [
+        {
+          "id": 67353,
+          "name": "Gusinje",
+          "latitude": "42.56194000",
+          "longitude": "19.83389000"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Kolašin Municipality",
+      "state_code": "09",
+      "latitude": "42.76019160",
+      "longitude": "19.42591140",
+      "type": null,
+      "cities": [
+        {
+          "id": 67354,
+          "name": "Kolašin",
+          "latitude": "42.82229000",
+          "longitude": "19.51653000"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Kotor Municipality",
+      "state_code": "10",
+      "latitude": "42.57402610",
+      "longitude": "18.64131450",
+      "type": null,
+      "cities": [
+        {
+          "id": 67350,
+          "name": "Dobrota",
+          "latitude": "42.45417000",
+          "longitude": "18.76833000"
+        },
+        {
+          "id": 67355,
+          "name": "Kotor",
+          "latitude": "42.42067000",
+          "longitude": "18.76825000"
+        },
+        {
+          "id": 67365,
+          "name": "Prčanj",
+          "latitude": "42.45750000",
+          "longitude": "18.74222000"
+        },
+        {
+          "id": 67366,
+          "name": "Risan",
+          "latitude": "42.51500000",
+          "longitude": "18.69556000"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mojkovac Municipality",
+      "state_code": "11",
+      "latitude": "42.96880180",
+      "longitude": "19.52110630",
+      "type": null,
+      "cities": [
+        {
+          "id": 67358,
+          "name": "Mojkovac",
+          "latitude": "42.96044000",
+          "longitude": "19.58330000"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nikšić Municipality",
+      "state_code": "12",
+      "latitude": "42.79971840",
+      "longitude": "18.76009630",
+      "type": null,
+      "cities": [
+        {
+          "id": 67359,
+          "name": "Nikšić",
+          "latitude": "42.77310000",
+          "longitude": "18.94446000"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Old Royal Capital Cetinje",
+      "state_code": "06",
+      "latitude": "42.39309590",
+      "longitude": "18.91159640",
+      "type": null,
+      "cities": [
+        {
+          "id": 67348,
+          "name": "Cetinje",
+          "latitude": "42.39063000",
+          "longitude": "18.91417000"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Petnjica Municipality",
+      "state_code": "23",
+      "latitude": "42.93534800",
+      "longitude": "20.02114490",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 19,
+      "name": "Plav Municipality",
+      "state_code": "13",
+      "latitude": "42.60013370",
+      "longitude": "19.94075410",
+      "type": null,
+      "cities": [
+        {
+          "id": 67361,
+          "name": "Plav",
+          "latitude": "42.59694000",
+          "longitude": "19.94556000"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pljevlja Municipality",
+      "state_code": "14",
+      "latitude": "43.27233830",
+      "longitude": "19.28315310",
+      "type": null,
+      "cities": [
+        {
+          "id": 67362,
+          "name": "Pljevlja",
+          "latitude": "43.35670000",
+          "longitude": "19.35843000"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Plužine Municipality",
+      "state_code": "15",
+      "latitude": "43.15933840",
+      "longitude": "18.85514840",
+      "type": null,
+      "cities": [
+        {
+          "id": 67363,
+          "name": "Plužine",
+          "latitude": "43.15278000",
+          "longitude": "18.83944000"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Podgorica Municipality",
+      "state_code": "16",
+      "latitude": "42.36938340",
+      "longitude": "19.28315310",
+      "type": null,
+      "cities": [
+        {
+          "id": 67351,
+          "name": "Golubovci",
+          "latitude": "42.33500000",
+          "longitude": "19.23111000"
+        },
+        {
+          "id": 67352,
+          "name": "Goričani",
+          "latitude": "42.33222000",
+          "longitude": "19.21194000"
+        },
+        {
+          "id": 67356,
+          "name": "Mataguži",
+          "latitude": "42.32361000",
+          "longitude": "19.27278000"
+        },
+        {
+          "id": 67357,
+          "name": "Mojanovići",
+          "latitude": "42.34167000",
+          "longitude": "19.22139000"
+        },
+        {
+          "id": 67364,
+          "name": "Podgorica",
+          "latitude": "42.44111000",
+          "longitude": "19.26361000"
+        },
+        {
+          "id": 67372,
+          "name": "Tuzi",
+          "latitude": "42.36556000",
+          "longitude": "19.33139000"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Rožaje Municipality",
+      "state_code": "17",
+      "latitude": "42.84083890",
+      "longitude": "20.16706280",
+      "type": null,
+      "cities": [
+        {
+          "id": 67367,
+          "name": "Rožaje",
+          "latitude": "42.83299000",
+          "longitude": "20.16652000"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Šavnik Municipality",
+      "state_code": "18",
+      "latitude": "42.96037560",
+      "longitude": "19.14043800",
+      "type": null,
+      "cities": [
+        {
+          "id": 67374,
+          "name": "Šavnik",
+          "latitude": "42.95639000",
+          "longitude": "19.09667000"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Tivat Municipality",
+      "state_code": "19",
+      "latitude": "42.42348000",
+      "longitude": "18.71851840",
+      "type": null,
+      "cities": [
+        {
+          "id": 67371,
+          "name": "Tivat",
+          "latitude": "42.43639000",
+          "longitude": "18.69611000"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Ulcinj Municipality",
+      "state_code": "20",
+      "latitude": "41.96527950",
+      "longitude": "19.30694320",
+      "type": null,
+      "cities": [
+        {
+          "id": 67373,
+          "name": "Ulcinj",
+          "latitude": "41.92936000",
+          "longitude": "19.22436000"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Žabljak Municipality",
+      "state_code": "21",
+      "latitude": "43.15551520",
+      "longitude": "19.12260180",
+      "type": null,
+      "cities": [
+        {
+          "id": 67376,
+          "name": "Žabljak",
+          "latitude": "43.15423000",
+          "longitude": "19.12325000"
+        }
+      ]
+    }
+  ]
+}

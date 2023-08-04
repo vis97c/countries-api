@@ -1,0 +1,84 @@
+{
+  "id": 1467,
+  "name": "Kilimanjaro",
+  "state_code": "09",
+  "latitude": "-4.13369270",
+  "longitude": "37.80876930",
+  "type": "Region",
+  "cities": [
+    {
+      "id": 109072,
+      "name": "Hedaru",
+      "latitude": "-4.50000000",
+      "longitude": "37.90000000"
+    },
+    {
+      "id": 109164,
+      "name": "Machame",
+      "latitude": "-3.20611000",
+      "longitude": "37.22638890"
+    },
+    {
+      "id": 109233,
+      "name": "Marangu",
+      "latitude": "-3.28333000",
+      "longitude": "37.51667000"
+    },
+    {
+      "id": 109209,
+      "name": "Moshi",
+      "latitude": "-3.35000000",
+      "longitude": "37.33333000"
+    },
+    {
+      "id": 109274,
+      "name": "Same",
+      "latitude": "-4.22199000",
+      "longitude": "37.88278000"
+    }
+  ],
+  "country": {
+    "id": 218,
+    "name": "Tanzania",
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "numeric_code": "834",
+    "phone_code": "255",
+    "capital": "Dodoma",
+    "currency": "TZS",
+    "currency_name": "Tanzanian shilling",
+    "currency_symbol": "TSh",
+    "tld": ".tz",
+    "native": "Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dar_es_Salaam",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "탄자니아",
+      "pt-BR": "Tanzânia",
+      "pt": "Tanzânia",
+      "nl": "Tanzania",
+      "hr": "Tanzanija",
+      "fa": "تانزانیا",
+      "de": "Tansania",
+      "es": "Tanzania",
+      "fr": "Tanzanie",
+      "ja": "タンザニア",
+      "it": "Tanzania",
+      "cn": "坦桑尼亚",
+      "tr": "Tanzanya"
+    },
+    "latitude": "-6.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇿",
+    "emojiU": "U+1F1F9 U+1F1FF"
+  }
+}

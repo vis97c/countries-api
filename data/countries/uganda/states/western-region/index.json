@@ -1,0 +1,204 @@
+{
+  "id": 370,
+  "name": "Western Region",
+  "state_code": "W",
+  "latitude": "40.76672150",
+  "longitude": "-111.88772030",
+  "type": null,
+  "cities": [
+    {
+      "id": 110883,
+      "name": "Bundibugyo",
+      "latitude": "0.71117000",
+      "longitude": "30.06469000"
+    },
+    {
+      "id": 110889,
+      "name": "Bwizibwera",
+      "latitude": "-0.59167000",
+      "longitude": "30.62861000"
+    },
+    {
+      "id": 110892,
+      "name": "Fort Portal",
+      "latitude": "0.66174000",
+      "longitude": "30.27480000"
+    },
+    {
+      "id": 110895,
+      "name": "Hoima",
+      "latitude": "1.43314000",
+      "longitude": "31.35241000"
+    },
+    {
+      "id": 110896,
+      "name": "Ibanda",
+      "latitude": "-0.13398000",
+      "longitude": "30.49616000"
+    },
+    {
+      "id": 110897,
+      "name": "Ibanda District",
+      "latitude": "-0.08100000",
+      "longitude": "30.55600000"
+    },
+    {
+      "id": 110900,
+      "name": "Kabale",
+      "latitude": "-1.24857000",
+      "longitude": "29.98993000"
+    },
+    {
+      "id": 110901,
+      "name": "Kagadi",
+      "latitude": "0.93778000",
+      "longitude": "30.80889000"
+    },
+    {
+      "id": 110906,
+      "name": "Kamwenge",
+      "latitude": "0.18660000",
+      "longitude": "30.45393000"
+    },
+    {
+      "id": 110908,
+      "name": "Kanungu",
+      "latitude": "-0.95750000",
+      "longitude": "29.78972000"
+    },
+    {
+      "id": 110910,
+      "name": "Kasese",
+      "latitude": "0.18333000",
+      "longitude": "30.08333000"
+    },
+    {
+      "id": 110912,
+      "name": "Kibale",
+      "latitude": "0.80000000",
+      "longitude": "31.06667000"
+    },
+    {
+      "id": 110915,
+      "name": "Kigorobya",
+      "latitude": "1.61620000",
+      "longitude": "31.30890000"
+    },
+    {
+      "id": 110916,
+      "name": "Kilembe",
+      "latitude": "0.19835000",
+      "longitude": "30.01302000"
+    },
+    {
+      "id": 110918,
+      "name": "Kiruhura",
+      "latitude": "-0.19664000",
+      "longitude": "30.84446000"
+    },
+    {
+      "id": 110919,
+      "name": "Kisoro",
+      "latitude": "-1.28538000",
+      "longitude": "29.68497000"
+    },
+    {
+      "id": 110923,
+      "name": "Kyenjojo",
+      "latitude": "0.63278000",
+      "longitude": "30.62139000"
+    },
+    {
+      "id": 110929,
+      "name": "Margherita",
+      "latitude": "0.41861000",
+      "longitude": "29.89111000"
+    },
+    {
+      "id": 110931,
+      "name": "Masindi",
+      "latitude": "1.67444000",
+      "longitude": "31.71500000"
+    },
+    {
+      "id": 110932,
+      "name": "Masindi Port",
+      "latitude": "1.69606000",
+      "longitude": "32.08608000"
+    },
+    {
+      "id": 110935,
+      "name": "Mbarara",
+      "latitude": "-0.60467000",
+      "longitude": "30.64851000"
+    },
+    {
+      "id": 110942,
+      "name": "Muhororo",
+      "latitude": "0.93806000",
+      "longitude": "30.75944000"
+    },
+    {
+      "id": 110948,
+      "name": "Ntungamo",
+      "latitude": "-0.87944000",
+      "longitude": "30.26417000"
+    },
+    {
+      "id": 110949,
+      "name": "Nyachera",
+      "latitude": "-0.90000000",
+      "longitude": "30.41667000"
+    },
+    {
+      "id": 110956,
+      "name": "Rukungiri",
+      "latitude": "-0.84111000",
+      "longitude": "29.94194000"
+    }
+  ],
+  "country": {
+    "id": 229,
+    "name": "Uganda",
+    "iso3": "UGA",
+    "iso2": "UG",
+    "numeric_code": "800",
+    "phone_code": "256",
+    "capital": "Kampala",
+    "currency": "UGX",
+    "currency_name": "Ugandan shilling",
+    "currency_symbol": "USh",
+    "tld": ".ug",
+    "native": "Uganda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "우간다",
+      "pt-BR": "Uganda",
+      "pt": "Uganda",
+      "nl": "Oeganda",
+      "hr": "Uganda",
+      "fa": "اوگاندا",
+      "de": "Uganda",
+      "es": "Uganda",
+      "fr": "Uganda",
+      "ja": "ウガンダ",
+      "it": "Uganda",
+      "cn": "乌干达",
+      "tr": "Uganda"
+    },
+    "latitude": "1.00000000",
+    "longitude": "32.00000000",
+    "emoji": "🇺🇬",
+    "emojiU": "U+1F1FA U+1F1EC"
+  }
+}

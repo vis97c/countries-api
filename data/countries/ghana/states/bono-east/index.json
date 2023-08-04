@@ -1,0 +1,120 @@
+{
+  "id": 4958,
+  "name": "Bono East",
+  "state_code": "BE",
+  "latitude": "7.75000000",
+  "longitude": "-1.05000000",
+  "type": "region",
+  "cities": [
+    {
+      "id": 149076,
+      "name": "Atebubu-Amantin",
+      "latitude": "7.70237000",
+      "longitude": "-1.21979430"
+    },
+    {
+      "id": 149077,
+      "name": "Kintampo North",
+      "latitude": "8.39635790",
+      "longitude": "-1.82000070"
+    },
+    {
+      "id": 149078,
+      "name": "Kintampo South",
+      "latitude": "7.98971320",
+      "longitude": "-2.00711150"
+    },
+    {
+      "id": 149079,
+      "name": "Nkoranza North",
+      "latitude": "7.56603310",
+      "longitude": "-1.72365200"
+    },
+    {
+      "id": 149080,
+      "name": "Nkoranza South",
+      "latitude": "7.62405120",
+      "longitude": "-1.79974460"
+    },
+    {
+      "id": 149082,
+      "name": "Pru East",
+      "latitude": "8.22620000",
+      "longitude": "-0.65360000"
+    },
+    {
+      "id": 149081,
+      "name": "Pru West",
+      "latitude": "8.07359930",
+      "longitude": "-1.29055410"
+    },
+    {
+      "id": 149083,
+      "name": "Sene East",
+      "latitude": "7.78300000",
+      "longitude": "-0.21700000"
+    },
+    {
+      "id": 149084,
+      "name": "Sene West",
+      "latitude": "7.73420000",
+      "longitude": "-0.68180000"
+    },
+    {
+      "id": 149074,
+      "name": "Techiman",
+      "latitude": "7.58968560",
+      "longitude": "-1.95122140"
+    },
+    {
+      "id": 149075,
+      "name": "Techiman North",
+      "latitude": "7.70428020",
+      "longitude": "-2.08140570"
+    }
+  ],
+  "country": {
+    "id": 83,
+    "name": "Ghana",
+    "iso3": "GHA",
+    "iso2": "GH",
+    "numeric_code": "288",
+    "phone_code": "233",
+    "capital": "Accra",
+    "currency": "GHS",
+    "currency_name": "Ghanaian cedi",
+    "currency_symbol": "GH₵",
+    "tld": ".gh",
+    "native": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "가나",
+      "pt-BR": "Gana",
+      "pt": "Gana",
+      "nl": "Ghana",
+      "hr": "Gana",
+      "fa": "غنا",
+      "de": "Ghana",
+      "es": "Ghana",
+      "fr": "Ghana",
+      "ja": "ガーナ",
+      "it": "Ghana",
+      "cn": "加纳",
+      "tr": "Gana"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-2.00000000",
+    "emoji": "🇬🇭",
+    "emojiU": "U+1F1EC U+1F1ED"
+  }
+}

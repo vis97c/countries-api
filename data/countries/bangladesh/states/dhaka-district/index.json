@@ -1,0 +1,258 @@
+{
+  "id": 771,
+  "name": "Dhaka District",
+  "state_code": "13",
+  "latitude": "23.81051400",
+  "longitude": "90.33718890",
+  "type": "district",
+  "cities": [
+    {
+      "id": 8454,
+      "name": "Azimpur",
+      "latitude": "23.72980000",
+      "longitude": "90.38540000"
+    },
+    {
+      "id": 8472,
+      "name": "Bājitpur",
+      "latitude": "24.21623000",
+      "longitude": "90.95002000"
+    },
+    {
+      "id": 8463,
+      "name": "Bhairab Bāzār",
+      "latitude": "24.05240000",
+      "longitude": "90.97640000"
+    },
+    {
+      "id": 8476,
+      "name": "Char Bhadrāsan",
+      "latitude": "23.30916000",
+      "longitude": "90.22698000"
+    },
+    {
+      "id": 8477,
+      "name": "Char Golora",
+      "latitude": "23.82037000",
+      "longitude": "90.12175000"
+    },
+    {
+      "id": 8486,
+      "name": "Dhaka",
+      "latitude": "23.81093000",
+      "longitude": "90.36542000"
+    },
+    {
+      "id": 8489,
+      "name": "Dohār",
+      "latitude": "23.59311000",
+      "longitude": "90.14251000"
+    },
+    {
+      "id": 8490,
+      "name": "Faridpur",
+      "latitude": "23.59419000",
+      "longitude": "89.82147000"
+    },
+    {
+      "id": 8496,
+      "name": "Gazipur",
+      "latitude": "24.20689000",
+      "longitude": "90.47241000"
+    },
+    {
+      "id": 8497,
+      "name": "Gopalganj",
+      "latitude": "23.16667000",
+      "longitude": "89.91667000"
+    },
+    {
+      "id": 8508,
+      "name": "Joymontop",
+      "latitude": "23.78789000",
+      "longitude": "90.16472000"
+    },
+    {
+      "id": 8513,
+      "name": "Khanbaniara",
+      "latitude": "23.78225000",
+      "longitude": "90.18382000"
+    },
+    {
+      "id": 8515,
+      "name": "Kishoregonj",
+      "latitude": "24.41667000",
+      "longitude": "90.95000000"
+    },
+    {
+      "id": 8516,
+      "name": "Kishorganj",
+      "latitude": "24.43944000",
+      "longitude": "90.78291000"
+    },
+    {
+      "id": 8527,
+      "name": "Madaripur",
+      "latitude": "23.25000000",
+      "longitude": "90.20000000"
+    },
+    {
+      "id": 8531,
+      "name": "Manikganj",
+      "latitude": "23.86667000",
+      "longitude": "89.95000000"
+    },
+    {
+      "id": 8537,
+      "name": "Mirzāpur",
+      "latitude": "24.10287000",
+      "longitude": "90.09841000"
+    },
+    {
+      "id": 8540,
+      "name": "Munshiganj",
+      "latitude": "23.55000000",
+      "longitude": "90.36667000"
+    },
+    {
+      "id": 8555,
+      "name": "Nāgarpur",
+      "latitude": "24.05783000",
+      "longitude": "89.87696000"
+    },
+    {
+      "id": 8547,
+      "name": "Narayanganj",
+      "latitude": "23.75000000",
+      "longitude": "90.58333000"
+    },
+    {
+      "id": 8548,
+      "name": "Narsingdi",
+      "latitude": "23.92298000",
+      "longitude": "90.71768000"
+    },
+    {
+      "id": 8570,
+      "name": "Pālang",
+      "latitude": "23.21824000",
+      "longitude": "90.35076000"
+    },
+    {
+      "id": 8559,
+      "name": "Paltan",
+      "latitude": "23.73625000",
+      "longitude": "90.41426000"
+    },
+    {
+      "id": 8562,
+      "name": "Parvez Ali",
+      "latitude": "23.81741000",
+      "longitude": "90.11921000"
+    },
+    {
+      "id": 8563,
+      "name": "Parvez Ali Hossain",
+      "latitude": "23.78758000",
+      "longitude": "90.16487000"
+    },
+    {
+      "id": 8573,
+      "name": "Rajbari",
+      "latitude": "23.66667000",
+      "longitude": "89.55000000"
+    },
+    {
+      "id": 8575,
+      "name": "Ramnagar",
+      "latitude": "23.77720000",
+      "longitude": "90.17604000"
+    },
+    {
+      "id": 8583,
+      "name": "Sakhipur",
+      "latitude": "24.31988000",
+      "longitude": "90.16943000"
+    },
+    {
+      "id": 8588,
+      "name": "Sayani",
+      "latitude": "23.79119000",
+      "longitude": "90.16972000"
+    },
+    {
+      "id": 8589,
+      "name": "Shariatpur",
+      "latitude": "23.25000000",
+      "longitude": "90.36667000"
+    },
+    {
+      "id": 8594,
+      "name": "Sonārgaon",
+      "latitude": "23.65000000",
+      "longitude": "90.61667000"
+    },
+    {
+      "id": 8599,
+      "name": "Tangail",
+      "latitude": "24.33853000",
+      "longitude": "89.98667000"
+    },
+    {
+      "id": 8603,
+      "name": "Tungi",
+      "latitude": "23.89154000",
+      "longitude": "90.40232000"
+    },
+    {
+      "id": 8604,
+      "name": "Tungipāra",
+      "latitude": "22.89983000",
+      "longitude": "89.90326000"
+    }
+  ],
+  "country": {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "numeric_code": "050",
+    "phone_code": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "native": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+    },
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  }
+}

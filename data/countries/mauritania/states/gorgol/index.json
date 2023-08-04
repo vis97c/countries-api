@@ -1,0 +1,60 @@
+{
+  "id": 3341,
+  "name": "Gorgol",
+  "state_code": "04",
+  "latitude": "15.97173570",
+  "longitude": "-12.62162110",
+  "type": "region",
+  "cities": [
+    {
+      "id": 67749,
+      "name": "Kaédi",
+      "latitude": "16.15027000",
+      "longitude": "-13.50370000"
+    }
+  ],
+  "country": {
+    "id": 139,
+    "name": "Mauritania",
+    "iso3": "MRT",
+    "iso2": "MR",
+    "numeric_code": "478",
+    "phone_code": "222",
+    "capital": "Nouakchott",
+    "currency": "MRO",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "MRU",
+    "tld": ".mr",
+    "native": "موريتانيا",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "모리타니",
+      "pt-BR": "Mauritânia",
+      "pt": "Mauritânia",
+      "nl": "Mauritanië",
+      "hr": "Mauritanija",
+      "fa": "موریتانی",
+      "de": "Mauretanien",
+      "es": "Mauritania",
+      "fr": "Mauritanie",
+      "ja": "モーリタニア",
+      "it": "Mauritania",
+      "cn": "毛里塔尼亚",
+      "tr": "Moritanya"
+    },
+    "latitude": "20.00000000",
+    "longitude": "-12.00000000",
+    "emoji": "🇲🇷",
+    "emojiU": "U+1F1F2 U+1F1F7"
+  }
+}

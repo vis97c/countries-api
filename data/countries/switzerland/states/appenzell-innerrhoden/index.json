@@ -1,0 +1,78 @@
+{
+  "id": 1649,
+  "name": "Appenzell Innerrhoden",
+  "state_code": "AI",
+  "latitude": "47.31619250",
+  "longitude": "9.43165730",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17400,
+      "name": "Appenzell",
+      "latitude": "47.33103000",
+      "longitude": "9.40996000"
+    },
+    {
+      "id": 17852,
+      "name": "Gonten",
+      "latitude": "47.32725000",
+      "longitude": "9.34705000"
+    },
+    {
+      "id": 17894,
+      "name": "Haslen",
+      "latitude": "47.36931000",
+      "longitude": "9.36752000"
+    },
+    {
+      "id": 18245,
+      "name": "Oberegg",
+      "latitude": "47.42531000",
+      "longitude": "9.55134000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 3241,
+  "name": "Beheira",
+  "state_code": "BH",
+  "latitude": "30.84809860",
+  "longitude": "30.34355060",
+  "type": null,
+  "cities": [
+    {
+      "id": 31759,
+      "name": "Abū al Maţāmīr",
+      "latitude": "30.91018000",
+      "longitude": "30.17438000"
+    },
+    {
+      "id": 31760,
+      "name": "Ad Dilinjāt",
+      "latitude": "30.82796000",
+      "longitude": "30.53552000"
+    },
+    {
+      "id": 31804,
+      "name": "Damanhūr",
+      "latitude": "31.03408000",
+      "longitude": "30.46823000"
+    },
+    {
+      "id": 31879,
+      "name": "Ḩawsh ‘Īsá",
+      "latitude": "30.91280000",
+      "longitude": "30.29019000"
+    },
+    {
+      "id": 31820,
+      "name": "Idkū",
+      "latitude": "31.30730000",
+      "longitude": "30.29810000"
+    },
+    {
+      "id": 31826,
+      "name": "Kafr ad Dawwār",
+      "latitude": "31.13379000",
+      "longitude": "30.12969000"
+    },
+    {
+      "id": 31830,
+      "name": "Kawm Ḩamādah",
+      "latitude": "30.76128000",
+      "longitude": "30.69972000"
+    },
+    {
+      "id": 31857,
+      "name": "Rosetta",
+      "latitude": "31.39951000",
+      "longitude": "30.41718000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

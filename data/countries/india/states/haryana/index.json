@@ -1,0 +1,534 @@
+{
+  "id": 4007,
+  "name": "Haryana",
+  "state_code": "HR",
+  "latitude": "29.05877570",
+  "longitude": "76.08560100",
+  "type": "state",
+  "cities": [
+    {
+      "id": 57675,
+      "name": "Ambala",
+      "latitude": "30.32854000",
+      "longitude": "76.94220000"
+    },
+    {
+      "id": 134464,
+      "name": "Asandh",
+      "latitude": "29.52119000",
+      "longitude": "76.60552000"
+    },
+    {
+      "id": 57756,
+      "name": "Ateli Mandi",
+      "latitude": "28.10080000",
+      "longitude": "76.25980000"
+    },
+    {
+      "id": 57810,
+      "name": "Bahadurgarh",
+      "latitude": "28.69287000",
+      "longitude": "76.93555000"
+    },
+    {
+      "id": 57861,
+      "name": "Bara Uchana",
+      "latitude": "29.46747000",
+      "longitude": "76.17798000"
+    },
+    {
+      "id": 57890,
+      "name": "Barwala",
+      "latitude": "29.36747000",
+      "longitude": "75.90809000"
+    },
+    {
+      "id": 58152,
+      "name": "Bawal",
+      "latitude": "28.07184000",
+      "longitude": "76.58312000"
+    },
+    {
+      "id": 57937,
+      "name": "Beri Khas",
+      "latitude": "28.70146000",
+      "longitude": "76.57708000"
+    },
+    {
+      "id": 57988,
+      "name": "Bhiwani",
+      "latitude": "28.75000000",
+      "longitude": "76.16667000"
+    },
+    {
+      "id": 58054,
+      "name": "Bilaspur",
+      "latitude": "30.30450000",
+      "longitude": "77.30424000"
+    },
+    {
+      "id": 58164,
+      "name": "Buriya",
+      "latitude": "30.15911000",
+      "longitude": "77.35814000"
+    },
+    {
+      "id": 58200,
+      "name": "Charkhi Dadri",
+      "latitude": "28.59166000",
+      "longitude": "76.27161000"
+    },
+    {
+      "id": 131528,
+      "name": "Chhachhrauli",
+      "latitude": "30.24492000",
+      "longitude": "77.36027000"
+    },
+    {
+      "id": 131638,
+      "name": "Dabwali",
+      "latitude": "29.94906000",
+      "longitude": "74.73832000"
+    },
+    {
+      "id": 131757,
+      "name": "Dharuhera",
+      "latitude": "28.20553000",
+      "longitude": "76.79691000"
+    },
+    {
+      "id": 131831,
+      "name": "Ellenabad",
+      "latitude": "29.45282000",
+      "longitude": "74.66122000"
+    },
+    {
+      "id": 131853,
+      "name": "Faridabad",
+      "latitude": "28.41124000",
+      "longitude": "77.31316000"
+    },
+    {
+      "id": 131856,
+      "name": "Farrukhnagar",
+      "latitude": "28.44745000",
+      "longitude": "76.82391000"
+    },
+    {
+      "id": 131872,
+      "name": "Fatehabad",
+      "latitude": "29.51525000",
+      "longitude": "75.45554000"
+    },
+    {
+      "id": 131882,
+      "name": "Firozpur Jhirka",
+      "latitude": "27.78853000",
+      "longitude": "76.94496000"
+    },
+    {
+      "id": 131937,
+      "name": "Gharaunda",
+      "latitude": "29.53692000",
+      "longitude": "76.97142000"
+    },
+    {
+      "id": 131968,
+      "name": "Gohana",
+      "latitude": "29.13777000",
+      "longitude": "76.70247000"
+    },
+    {
+      "id": 131991,
+      "name": "Gorakhpur",
+      "latitude": "29.44768000",
+      "longitude": "75.67206000"
+    },
+    {
+      "id": 132032,
+      "name": "Gurgaon",
+      "latitude": "28.43891000",
+      "longitude": "77.00592000"
+    },
+    {
+      "id": 132141,
+      "name": "Hansi",
+      "latitude": "29.10239000",
+      "longitude": "75.96253000"
+    },
+    {
+      "id": 132084,
+      "name": "Hasanpur",
+      "latitude": "27.96944000",
+      "longitude": "77.49544000"
+    },
+    {
+      "id": 132106,
+      "name": "Hisar",
+      "latitude": "29.15394000",
+      "longitude": "75.72294000"
+    },
+    {
+      "id": 132109,
+      "name": "Hodal",
+      "latitude": "27.89196000",
+      "longitude": "77.36744000"
+    },
+    {
+      "id": 132163,
+      "name": "Inda Chhoi",
+      "latitude": "29.64042000",
+      "longitude": "75.79041000"
+    },
+    {
+      "id": 132167,
+      "name": "Indri",
+      "latitude": "29.87999000",
+      "longitude": "77.05972000"
+    },
+    {
+      "id": 132194,
+      "name": "Jagadhri",
+      "latitude": "30.16719000",
+      "longitude": "77.30367000"
+    },
+    {
+      "id": 132305,
+      "name": "Jakhal",
+      "latitude": "29.79627000",
+      "longitude": "75.82392000"
+    },
+    {
+      "id": 132266,
+      "name": "Jhajjar",
+      "latitude": "28.60630000",
+      "longitude": "76.65650000"
+    },
+    {
+      "id": 132315,
+      "name": "Jind",
+      "latitude": "29.31577000",
+      "longitude": "76.31502000"
+    },
+    {
+      "id": 132340,
+      "name": "Kaithal",
+      "latitude": "29.80153000",
+      "longitude": "76.39959000"
+    },
+    {
+      "id": 132360,
+      "name": "Kalanaur",
+      "latitude": "28.82823000",
+      "longitude": "76.39550000"
+    },
+    {
+      "id": 132688,
+      "name": "Kalanwali",
+      "latitude": "29.83573000",
+      "longitude": "74.97170000"
+    },
+    {
+      "id": 132389,
+      "name": "Kanina Khas",
+      "latitude": "28.33093000",
+      "longitude": "76.31099000"
+    },
+    {
+      "id": 132405,
+      "name": "Karnal",
+      "latitude": "29.66667000",
+      "longitude": "76.83333000"
+    },
+    {
+      "id": 132478,
+      "name": "Kharkhauda",
+      "latitude": "28.87870000",
+      "longitude": "76.91069000"
+    },
+    {
+      "id": 132493,
+      "name": "Kheri Sampla",
+      "latitude": "28.77810000",
+      "longitude": "76.77560000"
+    },
+    {
+      "id": 132662,
+      "name": "Kurukshetra",
+      "latitude": "30.00000000",
+      "longitude": "76.75000000"
+    },
+    {
+      "id": 132789,
+      "name": "Ladwa",
+      "latitude": "29.99350000",
+      "longitude": "77.04563000"
+    },
+    {
+      "id": 132772,
+      "name": "Loharu",
+      "latitude": "28.42993000",
+      "longitude": "75.80779000"
+    },
+    {
+      "id": 132825,
+      "name": "Maham",
+      "latitude": "28.96912000",
+      "longitude": "76.29495000"
+    },
+    {
+      "id": 132832,
+      "name": "Mahendragarh",
+      "latitude": "28.25000000",
+      "longitude": "76.16667000"
+    },
+    {
+      "id": 132892,
+      "name": "Mandholi Kalan",
+      "latitude": "28.70850000",
+      "longitude": "75.68296000"
+    },
+    {
+      "id": 133047,
+      "name": "Mustafabad",
+      "latitude": "30.20220000",
+      "longitude": "77.14873000"
+    },
+    {
+      "id": 133176,
+      "name": "Narayangarh",
+      "latitude": "30.47798000",
+      "longitude": "77.12804000"
+    },
+    {
+      "id": 133272,
+      "name": "Narnaul",
+      "latitude": "28.04444000",
+      "longitude": "76.10833000"
+    },
+    {
+      "id": 133273,
+      "name": "Narnaund",
+      "latitude": "29.22047000",
+      "longitude": "76.14278000"
+    },
+    {
+      "id": 133175,
+      "name": "Narwana",
+      "latitude": "29.59903000",
+      "longitude": "76.11927000"
+    },
+    {
+      "id": 133286,
+      "name": "Nilokheri",
+      "latitude": "29.83671000",
+      "longitude": "76.93191000"
+    },
+    {
+      "id": 133290,
+      "name": "Nuh",
+      "latitude": "28.10296000",
+      "longitude": "77.00144000"
+    },
+    {
+      "id": 133337,
+      "name": "Palwal",
+      "latitude": "28.14469000",
+      "longitude": "77.32546000"
+    },
+    {
+      "id": 133345,
+      "name": "Panchkula",
+      "latitude": "30.72883000",
+      "longitude": "76.94716000"
+    },
+    {
+      "id": 133350,
+      "name": "Panipat",
+      "latitude": "29.33259000",
+      "longitude": "76.92634000"
+    },
+    {
+      "id": 133378,
+      "name": "Pataudi",
+      "latitude": "28.32547000",
+      "longitude": "76.77858000"
+    },
+    {
+      "id": 133403,
+      "name": "Pehowa",
+      "latitude": "29.97897000",
+      "longitude": "76.58249000"
+    },
+    {
+      "id": 133451,
+      "name": "Pinjaur",
+      "latitude": "30.79873000",
+      "longitude": "76.91822000"
+    },
+    {
+      "id": 133568,
+      "name": "Punahana",
+      "latitude": "27.86371000",
+      "longitude": "77.20432000"
+    },
+    {
+      "id": 133567,
+      "name": "Pundri",
+      "latitude": "29.76096000",
+      "longitude": "76.56034000"
+    },
+    {
+      "id": 133579,
+      "name": "Radaur",
+      "latitude": "30.02706000",
+      "longitude": "77.15177000"
+    },
+    {
+      "id": 133715,
+      "name": "Rania",
+      "latitude": "29.52454000",
+      "longitude": "74.83689000"
+    },
+    {
+      "id": 133617,
+      "name": "Ratia",
+      "latitude": "29.69029000",
+      "longitude": "75.57688000"
+    },
+    {
+      "id": 133635,
+      "name": "Rewari",
+      "latitude": "28.19900000",
+      "longitude": "76.61830000"
+    },
+    {
+      "id": 133647,
+      "name": "Rohtak",
+      "latitude": "28.83333000",
+      "longitude": "76.66667000"
+    },
+    {
+      "id": 133746,
+      "name": "Safidon",
+      "latitude": "29.40596000",
+      "longitude": "76.67042000"
+    },
+    {
+      "id": 133774,
+      "name": "Samalkha",
+      "latitude": "29.23552000",
+      "longitude": "77.01273000"
+    },
+    {
+      "id": 133891,
+      "name": "Shadipur Julana",
+      "latitude": "29.12368000",
+      "longitude": "76.40516000"
+    },
+    {
+      "id": 133906,
+      "name": "Shahabad",
+      "latitude": "30.16776000",
+      "longitude": "76.87046000"
+    },
+    {
+      "id": 133961,
+      "name": "Sirsa",
+      "latitude": "29.53489000",
+      "longitude": "75.02898000"
+    },
+    {
+      "id": 133980,
+      "name": "Sohna",
+      "latitude": "28.24737000",
+      "longitude": "77.06544000"
+    },
+    {
+      "id": 133999,
+      "name": "Sonipat",
+      "latitude": "29.00000000",
+      "longitude": "76.91667000"
+    },
+    {
+      "id": 134238,
+      "name": "Taoru",
+      "latitude": "28.21173000",
+      "longitude": "76.94984000"
+    },
+    {
+      "id": 134167,
+      "name": "Thanesar",
+      "latitude": "29.97323000",
+      "longitude": "76.83214000"
+    },
+    {
+      "id": 134206,
+      "name": "Tohana",
+      "latitude": "29.71332000",
+      "longitude": "75.90441000"
+    },
+    {
+      "id": 134211,
+      "name": "Tosham",
+      "latitude": "28.86993000",
+      "longitude": "75.91650000"
+    },
+    {
+      "id": 134265,
+      "name": "Uklana",
+      "latitude": "29.51124000",
+      "longitude": "75.87823000"
+    },
+    {
+      "id": 134422,
+      "name": "Yamunanagar",
+      "latitude": "30.23644000",
+      "longitude": "77.30498000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

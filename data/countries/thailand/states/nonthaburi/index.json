@@ -1,0 +1,120 @@
+{
+  "id": 3495,
+  "name": "Nonthaburi",
+  "state_code": "12",
+  "latitude": "13.85910840",
+  "longitude": "100.52165080",
+  "type": null,
+  "cities": [
+    {
+      "id": 105223,
+      "name": "Amphoe Bang Bua Thong",
+      "latitude": "13.92641000",
+      "longitude": "100.39360000"
+    },
+    {
+      "id": 105230,
+      "name": "Amphoe Bang Kruai",
+      "latitude": "13.80249000",
+      "longitude": "100.41525000"
+    },
+    {
+      "id": 105246,
+      "name": "Amphoe Bang Yai",
+      "latitude": "13.85385000",
+      "longitude": "100.37318000"
+    },
+    {
+      "id": 105563,
+      "name": "Amphoe Mueang Nonthaburi",
+      "latitude": "13.85581000",
+      "longitude": "100.49264000"
+    },
+    {
+      "id": 105703,
+      "name": "Amphoe Pak Kret",
+      "latitude": "13.91626000",
+      "longitude": "100.50397000"
+    },
+    {
+      "id": 105824,
+      "name": "Amphoe Sai Noi",
+      "latitude": "14.00627000",
+      "longitude": "100.31072000"
+    },
+    {
+      "id": 106423,
+      "name": "Bang Bua Thong",
+      "latitude": "13.91783000",
+      "longitude": "100.42403000"
+    },
+    {
+      "id": 106431,
+      "name": "Bang Kruai",
+      "latitude": "13.80500000",
+      "longitude": "100.47283000"
+    },
+    {
+      "id": 106447,
+      "name": "Bang Yai",
+      "latitude": "13.84341000",
+      "longitude": "100.36251000"
+    },
+    {
+      "id": 106573,
+      "name": "Mueang Nonthaburi",
+      "latitude": "13.86075000",
+      "longitude": "100.51477000"
+    },
+    {
+      "id": 106610,
+      "name": "Pak Kret",
+      "latitude": "13.91301000",
+      "longitude": "100.49883000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

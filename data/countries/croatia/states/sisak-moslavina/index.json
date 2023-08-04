@@ -1,0 +1,198 @@
+{
+  "id": 733,
+  "name": "Sisak-Moslavina",
+  "state_code": "03",
+  "latitude": "45.38379260",
+  "longitude": "16.53809940",
+  "type": "county",
+  "cities": [
+    {
+      "id": 54429,
+      "name": "Budaševo",
+      "latitude": "45.47472000",
+      "longitude": "16.43667000"
+    },
+    {
+      "id": 54475,
+      "name": "Dvor",
+      "latitude": "45.07306000",
+      "longitude": "16.37083000"
+    },
+    {
+      "id": 54491,
+      "name": "Glina",
+      "latitude": "45.33806000",
+      "longitude": "16.08806000"
+    },
+    {
+      "id": 54516,
+      "name": "Grad Glina",
+      "latitude": "45.33333000",
+      "longitude": "16.10000000"
+    },
+    {
+      "id": 54518,
+      "name": "Grad Hrvatska Kostajnica",
+      "latitude": "45.25000000",
+      "longitude": "16.56667000"
+    },
+    {
+      "id": 54529,
+      "name": "Grad Kutina",
+      "latitude": "45.50000000",
+      "longitude": "16.75000000"
+    },
+    {
+      "id": 54536,
+      "name": "Grad Novska",
+      "latitude": "45.33333000",
+      "longitude": "17.00000000"
+    },
+    {
+      "id": 54543,
+      "name": "Grad Petrinja",
+      "latitude": "45.43333000",
+      "longitude": "16.26667000"
+    },
+    {
+      "id": 54549,
+      "name": "Grad Sisak",
+      "latitude": "45.50000000",
+      "longitude": "16.36667000"
+    },
+    {
+      "id": 54592,
+      "name": "Gvozd",
+      "latitude": "45.35305000",
+      "longitude": "15.86563000"
+    },
+    {
+      "id": 54600,
+      "name": "Hrvatska Kostajnica",
+      "latitude": "45.23167000",
+      "longitude": "16.53917000"
+    },
+    {
+      "id": 54676,
+      "name": "Kutina",
+      "latitude": "45.47500000",
+      "longitude": "16.78194000"
+    },
+    {
+      "id": 54686,
+      "name": "Lekenik",
+      "latitude": "45.58556000",
+      "longitude": "16.21139000"
+    },
+    {
+      "id": 54689,
+      "name": "Lipovljani",
+      "latitude": "45.39667000",
+      "longitude": "16.88972000"
+    },
+    {
+      "id": 54721,
+      "name": "Martinska Ves",
+      "latitude": "45.58670000",
+      "longitude": "16.37465000"
+    },
+    {
+      "id": 54768,
+      "name": "Novska",
+      "latitude": "45.34056000",
+      "longitude": "16.97694000"
+    },
+    {
+      "id": 54782,
+      "name": "Općina Dvor",
+      "latitude": "45.10000000",
+      "longitude": "16.30000000"
+    },
+    {
+      "id": 54783,
+      "name": "Općina Gvozd",
+      "latitude": "45.33333000",
+      "longitude": "15.90000000"
+    },
+    {
+      "id": 54807,
+      "name": "Petrinja",
+      "latitude": "45.43750000",
+      "longitude": "16.29000000"
+    },
+    {
+      "id": 54825,
+      "name": "Popovača",
+      "latitude": "45.56972000",
+      "longitude": "16.62500000"
+    },
+    {
+      "id": 54859,
+      "name": "Repušnica",
+      "latitude": "45.49278000",
+      "longitude": "16.73083000"
+    },
+    {
+      "id": 54892,
+      "name": "Sisak",
+      "latitude": "45.46611000",
+      "longitude": "16.37833000"
+    },
+    {
+      "id": 54922,
+      "name": "Sunja",
+      "latitude": "45.36850000",
+      "longitude": "16.56702000"
+    },
+    {
+      "id": 54984,
+      "name": "Voloder",
+      "latitude": "45.54806000",
+      "longitude": "16.67889000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

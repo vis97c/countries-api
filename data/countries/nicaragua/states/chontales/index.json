@@ -1,0 +1,108 @@
+{
+  "id": 940,
+  "name": "Chontales",
+  "state_code": "CO",
+  "latitude": "11.93947170",
+  "longitude": "-85.18940450",
+  "type": "department",
+  "cities": [
+    {
+      "id": 77155,
+      "name": "Acoyapa",
+      "latitude": "11.97028000",
+      "longitude": "-85.17113000"
+    },
+    {
+      "id": 77170,
+      "name": "Comalapa",
+      "latitude": "12.28345000",
+      "longitude": "-85.51081000"
+    },
+    {
+      "id": 77174,
+      "name": "Cuapa",
+      "latitude": "12.26875000",
+      "longitude": "-85.38205000"
+    },
+    {
+      "id": 77181,
+      "name": "El Ayote",
+      "latitude": "12.19046000",
+      "longitude": "-85.28737000"
+    },
+    {
+      "id": 77197,
+      "name": "Juigalpa",
+      "latitude": "12.10629000",
+      "longitude": "-85.36452000"
+    },
+    {
+      "id": 77204,
+      "name": "La Libertad",
+      "latitude": "12.21635000",
+      "longitude": "-85.16595000"
+    },
+    {
+      "id": 77276,
+      "name": "Santo Domingo",
+      "latitude": "12.26438000",
+      "longitude": "-85.08235000"
+    },
+    {
+      "id": 77277,
+      "name": "Santo Tomás",
+      "latitude": "12.06938000",
+      "longitude": "-85.09059000"
+    },
+    {
+      "id": 77293,
+      "name": "Villa Sandino",
+      "latitude": "12.04830000",
+      "longitude": "-84.99362000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": 1801,
+  "name": "Maluku Utara",
+  "state_code": "MU",
+  "latitude": "1.57099930",
+  "longitude": "127.80876930",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56271,
+      "name": "East Halmahera Regency",
+      "latitude": "1.33517000",
+      "longitude": "128.48627000"
+    },
+    {
+      "id": 56416,
+      "name": "Kabupaten Halmahera Barat",
+      "latitude": "1.41709000",
+      "longitude": "127.55264000"
+    },
+    {
+      "id": 56417,
+      "name": "Kabupaten Halmahera Selatan",
+      "latitude": "-0.39550000",
+      "longitude": "127.90833000"
+    },
+    {
+      "id": 56418,
+      "name": "Kabupaten Halmahera Tengah",
+      "latitude": "0.48056000",
+      "longitude": "128.25000000"
+    },
+    {
+      "id": 56419,
+      "name": "Kabupaten Halmahera Utara",
+      "latitude": "1.73194000",
+      "longitude": "128.00778000"
+    },
+    {
+      "id": 56455,
+      "name": "Kabupaten Kepulauan Sula",
+      "latitude": "-1.86460000",
+      "longitude": "125.69046000"
+    },
+    {
+      "id": 56602,
+      "name": "Kabupaten Pulau Morotai",
+      "latitude": "2.19924000",
+      "longitude": "128.40546000"
+    },
+    {
+      "id": 56603,
+      "name": "Kabupaten Pulau Taliabu",
+      "latitude": "-1.84578000",
+      "longitude": "124.78992000"
+    },
+    {
+      "id": 56812,
+      "name": "Kota Ternate",
+      "latitude": "0.89618000",
+      "longitude": "127.31016000"
+    },
+    {
+      "id": 56813,
+      "name": "Kota Tidore Kepulauan",
+      "latitude": "0.60962000",
+      "longitude": "127.56981000"
+    },
+    {
+      "id": 56990,
+      "name": "Sofifi",
+      "latitude": "0.73729000",
+      "longitude": "127.55880000"
+    },
+    {
+      "id": 57032,
+      "name": "Ternate",
+      "latitude": "0.79065000",
+      "longitude": "127.38424000"
+    },
+    {
+      "id": 57033,
+      "name": "Tobelo",
+      "latitude": "1.72837000",
+      "longitude": "128.00948000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

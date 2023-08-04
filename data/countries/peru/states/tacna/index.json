@@ -1,0 +1,132 @@
+{
+  "id": 3696,
+  "name": "Tacna",
+  "state_code": "TAC",
+  "latitude": "-18.00656790",
+  "longitude": "-70.24627410",
+  "type": null,
+  "cities": [
+    {
+      "id": 80583,
+      "name": "Calana",
+      "latitude": "-17.94167000",
+      "longitude": "-70.18694000"
+    },
+    {
+      "id": 80590,
+      "name": "Candarave",
+      "latitude": "-17.26778000",
+      "longitude": "-70.24944000"
+    },
+    {
+      "id": 80618,
+      "name": "Chipispaya",
+      "latitude": "-17.49790000",
+      "longitude": "-70.21714000"
+    },
+    {
+      "id": 80626,
+      "name": "Chuquitira",
+      "latitude": "-17.28891000",
+      "longitude": "-70.04363000"
+    },
+    {
+      "id": 80668,
+      "name": "Ilabaya",
+      "latitude": "-17.42083000",
+      "longitude": "-70.51333000"
+    },
+    {
+      "id": 80680,
+      "name": "Jorge Basadre",
+      "latitude": "-17.57919000",
+      "longitude": "-70.73083000"
+    },
+    {
+      "id": 80897,
+      "name": "Provincia de Tacna",
+      "latitude": "-17.83333000",
+      "longitude": "-70.50000000"
+    },
+    {
+      "id": 80901,
+      "name": "Provincia de Tarata",
+      "latitude": "-17.41667000",
+      "longitude": "-70.08333000"
+    },
+    {
+      "id": 80921,
+      "name": "Pujocucho",
+      "latitude": "-17.15778000",
+      "longitude": "-70.35222000"
+    },
+    {
+      "id": 80929,
+      "name": "Quilahuani",
+      "latitude": "-17.31778000",
+      "longitude": "-70.25806000"
+    },
+    {
+      "id": 80982,
+      "name": "Tacna",
+      "latitude": "-18.01465000",
+      "longitude": "-70.25362000"
+    },
+    {
+      "id": 80990,
+      "name": "Tarata",
+      "latitude": "-17.47444000",
+      "longitude": "-70.03278000"
+    },
+    {
+      "id": 80997,
+      "name": "Totoral",
+      "latitude": "-17.40620000",
+      "longitude": "-70.36464000"
+    }
+  ],
+  "country": {
+    "id": 173,
+    "name": "Peru",
+    "iso3": "PER",
+    "iso2": "PE",
+    "numeric_code": "604",
+    "phone_code": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "native": "Perú",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "translations": {
+      "kr": "페루",
+      "pt-BR": "Peru",
+      "pt": "Peru",
+      "nl": "Peru",
+      "hr": "Peru",
+      "fa": "پرو",
+      "de": "Peru",
+      "es": "Perú",
+      "fr": "Pérou",
+      "ja": "ペルー",
+      "it": "Perù",
+      "cn": "秘鲁",
+      "tr": "Peru"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
+  }
+}

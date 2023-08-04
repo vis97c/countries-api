@@ -1,0 +1,90 @@
+{
+  "id": 895,
+  "name": "Northern",
+  "state_code": "NO",
+  "latitude": "38.06381700",
+  "longitude": "-84.46286480",
+  "type": null,
+  "cities": [
+    {
+      "id": 102916,
+      "name": "Ad Dabbah",
+      "latitude": "18.05000000",
+      "longitude": "30.95000000"
+    },
+    {
+      "id": 102935,
+      "name": "Argo",
+      "latitude": "19.51667000",
+      "longitude": "30.41667000"
+    },
+    {
+      "id": 102943,
+      "name": "Dongola",
+      "latitude": "19.18163000",
+      "longitude": "30.47689000"
+    },
+    {
+      "id": 102955,
+      "name": "Karmah an Nuzul",
+      "latitude": "19.63333000",
+      "longitude": "30.41667000"
+    },
+    {
+      "id": 102960,
+      "name": "Kuraymah",
+      "latitude": "18.55000000",
+      "longitude": "31.85000000"
+    },
+    {
+      "id": 102965,
+      "name": "Merowe",
+      "latitude": "18.47036000",
+      "longitude": "31.81126000"
+    }
+  ],
+  "country": {
+    "id": 209,
+    "name": "Sudan",
+    "iso3": "SDN",
+    "iso2": "SD",
+    "numeric_code": "729",
+    "phone_code": "249",
+    "capital": "Khartoum",
+    "currency": "SDG",
+    "currency_name": "Sudanese pound",
+    "currency_symbol": ".س.ج",
+    "tld": ".sd",
+    "native": "السودان",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ],
+    "translations": {
+      "kr": "수단",
+      "pt-BR": "Sudão",
+      "pt": "Sudão",
+      "nl": "Soedan",
+      "hr": "Sudan",
+      "fa": "سودان",
+      "de": "Sudan",
+      "es": "Sudán",
+      "fr": "Soudan",
+      "ja": "スーダン",
+      "it": "Sudan",
+      "cn": "苏丹",
+      "tr": "Sudan"
+    },
+    "latitude": "15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇩",
+    "emojiU": "U+1F1F8 U+1F1E9"
+  }
+}

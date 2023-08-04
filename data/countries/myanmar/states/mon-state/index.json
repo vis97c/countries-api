@@ -1,0 +1,90 @@
+{
+  "id": 2147,
+  "name": "Mon State",
+  "state_code": "15",
+  "latitude": "16.30031330",
+  "longitude": "97.69822720",
+  "type": null,
+  "cities": [
+    {
+      "id": 67645,
+      "name": "Kyaikkami",
+      "latitude": "16.07686000",
+      "longitude": "97.56388000"
+    },
+    {
+      "id": 67647,
+      "name": "Kyaikto",
+      "latitude": "17.30858000",
+      "longitude": "97.01124000"
+    },
+    {
+      "id": 67655,
+      "name": "Martaban",
+      "latitude": "16.52834000",
+      "longitude": "97.61570000"
+    },
+    {
+      "id": 67658,
+      "name": "Mawlamyine",
+      "latitude": "16.49051000",
+      "longitude": "97.62825000"
+    },
+    {
+      "id": 67665,
+      "name": "Mudon",
+      "latitude": "16.25624000",
+      "longitude": "97.72460000"
+    },
+    {
+      "id": 67697,
+      "name": "Thaton",
+      "latitude": "16.91867000",
+      "longitude": "97.37001000"
+    }
+  ],
+  "country": {
+    "id": 151,
+    "name": "Myanmar",
+    "iso3": "MMR",
+    "iso2": "MM",
+    "numeric_code": "104",
+    "phone_code": "95",
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK",
+    "currency_name": "Burmese kyat",
+    "currency_symbol": "K",
+    "tld": ".mm",
+    "native": "မြန်မာ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yangon",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "MMT",
+        "tzName": "Myanmar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미얀마",
+      "pt-BR": "Myanmar",
+      "pt": "Myanmar",
+      "nl": "Myanmar",
+      "hr": "Mijanmar",
+      "fa": "میانمار",
+      "de": "Myanmar",
+      "es": "Myanmar",
+      "fr": "Myanmar",
+      "ja": "ミャンマー",
+      "it": "Birmania",
+      "cn": "缅甸",
+      "tr": "Myanmar"
+    },
+    "latitude": "22.00000000",
+    "longitude": "98.00000000",
+    "emoji": "🇲🇲",
+    "emojiU": "U+1F1F2 U+1F1F2"
+  }
+}

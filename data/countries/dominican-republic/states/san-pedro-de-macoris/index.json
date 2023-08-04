@@ -1,0 +1,84 @@
+{
+  "id": 4110,
+  "name": "San Pedro de Macorís",
+  "state_code": "23",
+  "latitude": "18.46266000",
+  "longitude": "-69.30512340",
+  "type": null,
+  "cities": [
+    {
+      "id": 31064,
+      "name": "El Puerto",
+      "latitude": "18.78333000",
+      "longitude": "-69.46667000"
+    },
+    {
+      "id": 31121,
+      "name": "Los Llanos",
+      "latitude": "18.62035000",
+      "longitude": "-69.49581000"
+    },
+    {
+      "id": 31163,
+      "name": "Quisqueya",
+      "latitude": "18.55542000",
+      "longitude": "-69.40814000"
+    },
+    {
+      "id": 31164,
+      "name": "Ramón Santana",
+      "latitude": "18.54224000",
+      "longitude": "-69.17979000"
+    },
+    {
+      "id": 31191,
+      "name": "San Pedro de Macorís",
+      "latitude": "18.45390000",
+      "longitude": "-69.30864000"
+    }
+  ],
+  "country": {
+    "id": 62,
+    "name": "Dominican Republic",
+    "iso3": "DOM",
+    "iso2": "DO",
+    "numeric_code": "214",
+    "phone_code": "+1-809 and 1-829",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "currency_name": "Dominican peso",
+    "currency_symbol": "$",
+    "tld": ".do",
+    "native": "República Dominicana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Santo_Domingo",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "도미니카 공화국",
+      "pt-BR": "República Dominicana",
+      "pt": "República Dominicana",
+      "nl": "Dominicaanse Republiek",
+      "hr": "Dominikanska Republika",
+      "fa": "جمهوری دومینیکن",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "fr": "République dominicaine",
+      "ja": "ドミニカ共和国",
+      "it": "Repubblica Dominicana",
+      "cn": "多明尼加共和国",
+      "tr": "Dominik Cumhuriyeti"
+    },
+    "latitude": "19.00000000",
+    "longitude": "-70.66666666",
+    "emoji": "🇩🇴",
+    "emojiU": "U+1F1E9 U+1F1F4"
+  }
+}

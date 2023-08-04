@@ -1,0 +1,120 @@
+{
+  "id": 633,
+  "name": "Tirana District",
+  "state_code": "TR",
+  "latitude": "41.32754590",
+  "longitude": "19.81869820",
+  "type": null,
+  "cities": [
+    {
+      "id": 163,
+      "name": "Bashkia Kavajë",
+      "latitude": "41.18127000",
+      "longitude": "19.55579000"
+    },
+    {
+      "id": 190,
+      "name": "Bashkia Vorë",
+      "latitude": "41.39804000",
+      "longitude": "19.67703000"
+    },
+    {
+      "id": 207,
+      "name": "Kamëz",
+      "latitude": "41.38167000",
+      "longitude": "19.76028000"
+    },
+    {
+      "id": 208,
+      "name": "Kavajë",
+      "latitude": "41.18556000",
+      "longitude": "19.55694000"
+    },
+    {
+      "id": 213,
+      "name": "Krrabë",
+      "latitude": "41.21556000",
+      "longitude": "19.97139000"
+    },
+    {
+      "id": 248,
+      "name": "Rrethi i Kavajës",
+      "latitude": "41.16667000",
+      "longitude": "19.58333000"
+    },
+    {
+      "id": 259,
+      "name": "Rrethi i Tiranës",
+      "latitude": "41.33333000",
+      "longitude": "19.91667000"
+    },
+    {
+      "id": 260,
+      "name": "Rrogozhinë",
+      "latitude": "41.07639000",
+      "longitude": "19.66528000"
+    },
+    {
+      "id": 268,
+      "name": "Sinaballaj",
+      "latitude": "41.06889000",
+      "longitude": "19.69944000"
+    },
+    {
+      "id": 271,
+      "name": "Tirana",
+      "latitude": "41.32750000",
+      "longitude": "19.81889000"
+    },
+    {
+      "id": 277,
+      "name": "Vorë",
+      "latitude": "41.39083000",
+      "longitude": "19.65500000"
+    }
+  ],
+  "country": {
+    "id": 3,
+    "name": "Albania",
+    "iso3": "ALB",
+    "iso2": "AL",
+    "numeric_code": "008",
+    "phone_code": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "native": "Shqipëria",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알바니아",
+      "pt-BR": "Albânia",
+      "pt": "Albânia",
+      "nl": "Albanië",
+      "hr": "Albanija",
+      "fa": "آلبانی",
+      "de": "Albanien",
+      "es": "Albania",
+      "fr": "Albanie",
+      "ja": "アルバニア",
+      "it": "Albania",
+      "cn": "阿尔巴尼亚",
+      "tr": "Arnavutluk"
+    },
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  }
+}

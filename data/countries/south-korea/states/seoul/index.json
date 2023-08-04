@@ -1,0 +1,216 @@
+{
+  "id": 3849,
+  "name": "Seoul",
+  "state_code": "11",
+  "latitude": "37.56653500",
+  "longitude": "126.97796920",
+  "type": null,
+  "cities": [
+    {
+      "id": 65306,
+      "name": "Dobong-gu",
+      "latitude": "37.65066000",
+      "longitude": "127.03011000"
+    },
+    {
+      "id": 65309,
+      "name": "Dongdaemun-gu",
+      "latitude": "37.58189000",
+      "longitude": "127.05408000"
+    },
+    {
+      "id": 65312,
+      "name": "Dongjak-gu",
+      "latitude": "37.50056000",
+      "longitude": "126.95149000"
+    },
+    {
+      "id": 65316,
+      "name": "Eunpyeong-gu",
+      "latitude": "37.61846000",
+      "longitude": "126.92780000"
+    },
+    {
+      "id": 65318,
+      "name": "Gangbuk-gu",
+      "latitude": "37.63490000",
+      "longitude": "127.02015000"
+    },
+    {
+      "id": 65319,
+      "name": "Gangdong-gu",
+      "latitude": "37.55274000",
+      "longitude": "127.14546000"
+    },
+    {
+      "id": 65321,
+      "name": "Gangnam-gu",
+      "latitude": "37.49510000",
+      "longitude": "127.06278000"
+    },
+    {
+      "id": 65324,
+      "name": "Gangseo-gu",
+      "latitude": "37.56227000",
+      "longitude": "126.81622000"
+    },
+    {
+      "id": 65330,
+      "name": "Geumcheon-gu",
+      "latitude": "37.47486000",
+      "longitude": "126.89106000"
+    },
+    {
+      "id": 65357,
+      "name": "Guro-gu",
+      "latitude": "37.49447000",
+      "longitude": "126.85020000"
+    },
+    {
+      "id": 65360,
+      "name": "Gwanak-gu",
+      "latitude": "37.47876000",
+      "longitude": "126.95235000"
+    },
+    {
+      "id": 65361,
+      "name": "Gwangjin-gu",
+      "latitude": "37.53913000",
+      "longitude": "127.08366000"
+    },
+    {
+      "id": 65419,
+      "name": "Jongno-gu",
+      "latitude": "37.57290000",
+      "longitude": "126.97928000"
+    },
+    {
+      "id": 65420,
+      "name": "Jung-gu",
+      "latitude": "37.55986000",
+      "longitude": "126.99398000"
+    },
+    {
+      "id": 65424,
+      "name": "Jungnang-gu",
+      "latitude": "37.60199000",
+      "longitude": "127.10461000"
+    },
+    {
+      "id": 65436,
+      "name": "Mapo-gu",
+      "latitude": "37.55438000",
+      "longitude": "126.90926000"
+    },
+    {
+      "id": 65462,
+      "name": "Nowon-gu",
+      "latitude": "37.66045000",
+      "longitude": "127.06718000"
+    },
+    {
+      "id": 65488,
+      "name": "Seocho-gu",
+      "latitude": "37.49447000",
+      "longitude": "127.01088000"
+    },
+    {
+      "id": 65489,
+      "name": "Seodaemun-gu",
+      "latitude": "37.57809000",
+      "longitude": "126.93506000"
+    },
+    {
+      "id": 65491,
+      "name": "Seongbuk-gu",
+      "latitude": "37.60267000",
+      "longitude": "127.01448000"
+    },
+    {
+      "id": 65492,
+      "name": "Seongdong-gu",
+      "latitude": "37.54784000",
+      "longitude": "127.02461000"
+    },
+    {
+      "id": 65498,
+      "name": "Seoul",
+      "latitude": "37.56600000",
+      "longitude": "126.97840000"
+    },
+    {
+      "id": 65507,
+      "name": "Songpa-gu",
+      "latitude": "37.50210000",
+      "longitude": "127.11113000"
+    },
+    {
+      "id": 65535,
+      "name": "Yangcheon-gu",
+      "latitude": "37.52157000",
+      "longitude": "126.85827000"
+    },
+    {
+      "id": 65551,
+      "name": "Yeongdeungpo-gu",
+      "latitude": "37.52606000",
+      "longitude": "126.90308000"
+    },
+    {
+      "id": 65565,
+      "name": "Yongsan-dong",
+      "latitude": "37.54450000",
+      "longitude": "126.98370000"
+    },
+    {
+      "id": 65566,
+      "name": "Yongsan-gu",
+      "latitude": "37.53391000",
+      "longitude": "126.97750000"
+    }
+  ],
+  "country": {
+    "id": 116,
+    "name": "South Korea",
+    "iso3": "KOR",
+    "iso2": "KR",
+    "numeric_code": "410",
+    "phone_code": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currency_name": "Won",
+    "currency_symbol": "₩",
+    "tld": ".kr",
+    "native": "대한민국",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Seoul",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "대한민국",
+      "pt-BR": "Coreia do Sul",
+      "pt": "Coreia do Sul",
+      "nl": "Zuid-Korea",
+      "hr": "Južna Koreja",
+      "fa": "کره شمالی",
+      "de": "Südkorea",
+      "es": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "ja": "大韓民国",
+      "it": "Corea del Sud",
+      "cn": "韩国",
+      "tr": "Güney Kore"
+    },
+    "latitude": "37.00000000",
+    "longitude": "127.50000000",
+    "emoji": "🇰🇷",
+    "emojiU": "U+1F1F0 U+1F1F7"
+  }
+}

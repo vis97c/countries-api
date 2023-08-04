@@ -1,0 +1,60 @@
+{
+  "id": 2573,
+  "name": "Ratak Chain",
+  "state_code": "T",
+  "latitude": "10.27632760",
+  "longitude": "170.55009370",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 137,
+    "name": "Marshall Islands",
+    "iso3": "MHL",
+    "iso2": "MH",
+    "numeric_code": "584",
+    "phone_code": "692",
+    "capital": "Majuro",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".mh",
+    "native": "M̧ajeļ",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Kwajalein",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      },
+      {
+        "zoneName": "Pacific/Majuro",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "MHT",
+        "tzName": "Marshall Islands Time"
+      }
+    ],
+    "translations": {
+      "kr": "마셜 제도",
+      "pt-BR": "Ilhas Marshall",
+      "pt": "Ilhas Marshall",
+      "nl": "Marshalleilanden",
+      "hr": "Maršalovi Otoci",
+      "fa": "جزایر مارشال",
+      "de": "Marshallinseln",
+      "es": "Islas Marshall",
+      "fr": "Îles Marshall",
+      "ja": "マーシャル諸島",
+      "it": "Isole Marshall",
+      "cn": "马绍尔群岛",
+      "tr": "Marşal Adalari"
+    },
+    "latitude": "9.00000000",
+    "longitude": "168.00000000",
+    "emoji": "🇲🇭",
+    "emojiU": "U+1F1F2 U+1F1ED"
+  }
+}

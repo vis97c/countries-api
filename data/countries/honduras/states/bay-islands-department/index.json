@@ -1,0 +1,102 @@
+{
+  "id": 4045,
+  "name": "Bay Islands Department",
+  "state_code": "IB",
+  "latitude": "16.48266140",
+  "longitude": "-85.87932520",
+  "type": null,
+  "cities": [
+    {
+      "id": 53925,
+      "name": "Coxen Hole",
+      "latitude": "16.31759000",
+      "longitude": "-86.53793000"
+    },
+    {
+      "id": 54008,
+      "name": "French Harbor",
+      "latitude": "16.35000000",
+      "longitude": "-86.43333000"
+    },
+    {
+      "id": 54019,
+      "name": "Guanaja",
+      "latitude": "16.44795000",
+      "longitude": "-85.89431000"
+    },
+    {
+      "id": 54038,
+      "name": "José Santos Guardiola",
+      "latitude": "16.41765000",
+      "longitude": "-86.30631000"
+    },
+    {
+      "id": 54197,
+      "name": "Roatán",
+      "latitude": "16.34098000",
+      "longitude": "-86.53763000"
+    },
+    {
+      "id": 54289,
+      "name": "Sandy Bay",
+      "latitude": "16.32923000",
+      "longitude": "-86.56446000"
+    },
+    {
+      "id": 54315,
+      "name": "Savannah Bight",
+      "latitude": "16.45000000",
+      "longitude": "-85.85000000"
+    },
+    {
+      "id": 54351,
+      "name": "Utila",
+      "latitude": "16.10026000",
+      "longitude": "-86.93070000"
+    }
+  ],
+  "country": {
+    "id": 97,
+    "name": "Honduras",
+    "iso3": "HND",
+    "iso2": "HN",
+    "numeric_code": "340",
+    "phone_code": "504",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "currency_name": "Honduran lempira",
+    "currency_symbol": "L",
+    "tld": ".hn",
+    "native": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Tegucigalpa",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "온두라스",
+      "pt-BR": "Honduras",
+      "pt": "Honduras",
+      "nl": "Honduras",
+      "hr": "Honduras",
+      "fa": "هندوراس",
+      "de": "Honduras",
+      "es": "Honduras",
+      "fr": "Honduras",
+      "ja": "ホンジュラス",
+      "it": "Honduras",
+      "cn": "洪都拉斯",
+      "tr": "Honduras"
+    },
+    "latitude": "15.00000000",
+    "longitude": "-86.50000000",
+    "emoji": "🇭🇳",
+    "emojiU": "U+1F1ED U+1F1F3"
+  }
+}

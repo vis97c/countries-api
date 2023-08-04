@@ -1,0 +1,78 @@
+{
+  "id": 213,
+  "name": "Huambo Province",
+  "state_code": "HUA",
+  "latitude": "-12.52682210",
+  "longitude": "15.59433880",
+  "type": null,
+  "cities": [
+    {
+      "id": 600,
+      "name": "Caála",
+      "latitude": "-12.85250000",
+      "longitude": "15.56056000"
+    },
+    {
+      "id": 601,
+      "name": "Chela",
+      "latitude": "-12.30261000",
+      "longitude": "15.43358000"
+    },
+    {
+      "id": 609,
+      "name": "Huambo",
+      "latitude": "-12.77611000",
+      "longitude": "15.73917000"
+    },
+    {
+      "id": 614,
+      "name": "Longonjo",
+      "latitude": "-12.90667000",
+      "longitude": "15.25333000"
+    }
+  ],
+  "country": {
+    "id": 7,
+    "name": "Angola",
+    "iso3": "AGO",
+    "iso2": "AO",
+    "numeric_code": "024",
+    "phone_code": "244",
+    "capital": "Luanda",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "native": "Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "앙골라",
+      "pt-BR": "Angola",
+      "pt": "Angola",
+      "nl": "Angola",
+      "hr": "Angola",
+      "fa": "آنگولا",
+      "de": "Angola",
+      "es": "Angola",
+      "fr": "Angola",
+      "ja": "アンゴラ",
+      "it": "Angola",
+      "cn": "安哥拉",
+      "tr": "Angola"
+    },
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
+  }
+}

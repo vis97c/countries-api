@@ -1,0 +1,72 @@
+{
+  "id": 2564,
+  "name": "Kairouan",
+  "state_code": "41",
+  "latitude": "35.67116630",
+  "longitude": "10.10054690",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106958,
+      "name": "Haffouz",
+      "latitude": "35.63235000",
+      "longitude": "9.67624000"
+    },
+    {
+      "id": 106968,
+      "name": "Kairouan",
+      "latitude": "35.67810000",
+      "longitude": "10.09633000"
+    },
+    {
+      "id": 107016,
+      "name": "Sbikha",
+      "latitude": "35.93325000",
+      "longitude": "10.02081000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

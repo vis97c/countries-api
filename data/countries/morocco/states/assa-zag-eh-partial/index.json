@@ -1,0 +1,210 @@
+{
+  "id": 3297,
+  "name": "Assa-Zag (EH-partial)",
+  "state_code": "ASZ",
+  "latitude": "28.14023950",
+  "longitude": "-9.72326730",
+  "type": "province",
+  "cities": [
+    {
+      "id": 67046,
+      "name": "Agadir",
+      "latitude": "30.42018000",
+      "longitude": "-9.59815000"
+    },
+    {
+      "id": 67047,
+      "name": "Agadir Melloul",
+      "latitude": "30.22492000",
+      "longitude": "-7.79601000"
+    },
+    {
+      "id": 67048,
+      "name": "Agadir-Ida-ou-Tnan",
+      "latitude": "30.58333000",
+      "longitude": "-9.50000000"
+    },
+    {
+      "id": 67062,
+      "name": "Aoulouz",
+      "latitude": "30.67307000",
+      "longitude": "-8.18087000"
+    },
+    {
+      "id": 67063,
+      "name": "Aourir",
+      "latitude": "30.49238000",
+      "longitude": "-9.63550000"
+    },
+    {
+      "id": 67065,
+      "name": "Arazane",
+      "latitude": "30.50346000",
+      "longitude": "-8.60637000"
+    },
+    {
+      "id": 67068,
+      "name": "Argana",
+      "latitude": "30.78250000",
+      "longitude": "-9.11968000"
+    },
+    {
+      "id": 67084,
+      "name": "Bigoudine",
+      "latitude": "30.72376000",
+      "longitude": "-9.21097000"
+    },
+    {
+      "id": 67102,
+      "name": "Chtouka-Ait-Baha",
+      "latitude": "30.02948000",
+      "longitude": "-9.30909000"
+    },
+    {
+      "id": 67136,
+      "name": "Inezgane",
+      "latitude": "30.35535000",
+      "longitude": "-9.53639000"
+    },
+    {
+      "id": 67137,
+      "name": "Inezgane-Ait Melloul",
+      "latitude": "30.10000000",
+      "longitude": "-9.03333000"
+    },
+    {
+      "id": 67185,
+      "name": "Ouijjane",
+      "latitude": "29.62777000",
+      "longitude": "-9.53959000"
+    },
+    {
+      "id": 67190,
+      "name": "Oulad Teïma",
+      "latitude": "30.39467000",
+      "longitude": "-9.20897000"
+    },
+    {
+      "id": 67194,
+      "name": "Reggada",
+      "latitude": "29.58016000",
+      "longitude": "-9.70086000"
+    },
+    {
+      "id": 67208,
+      "name": "Sidi Ifni",
+      "latitude": "29.37975000",
+      "longitude": "-10.17299000"
+    },
+    {
+      "id": 67223,
+      "name": "Tadrart",
+      "latitude": "30.77477000",
+      "longitude": "-9.45951000"
+    },
+    {
+      "id": 67224,
+      "name": "Tafraout",
+      "latitude": "29.72449000",
+      "longitude": "-8.97470000"
+    },
+    {
+      "id": 67225,
+      "name": "Taghazout",
+      "latitude": "30.54259000",
+      "longitude": "-9.71115000"
+    },
+    {
+      "id": 67227,
+      "name": "Taliouine",
+      "latitude": "30.52917000",
+      "longitude": "-7.91262000"
+    },
+    {
+      "id": 67231,
+      "name": "Tamri",
+      "latitude": "30.69602000",
+      "longitude": "-9.82972000"
+    },
+    {
+      "id": 67233,
+      "name": "Tanalt",
+      "latitude": "29.77548000",
+      "longitude": "-9.16796000"
+    },
+    {
+      "id": 67241,
+      "name": "Taroudannt",
+      "latitude": "30.50000000",
+      "longitude": "-8.41667000"
+    },
+    {
+      "id": 67242,
+      "name": "Taroudant",
+      "latitude": "30.47028000",
+      "longitude": "-8.87695000"
+    },
+    {
+      "id": 67243,
+      "name": "Tarsouat",
+      "latitude": "29.58153000",
+      "longitude": "-9.02664000"
+    },
+    {
+      "id": 67244,
+      "name": "Tata",
+      "latitude": "29.66667000",
+      "longitude": "-7.83333000"
+    },
+    {
+      "id": 67259,
+      "name": "Tiznit",
+      "latitude": "29.58333000",
+      "longitude": "-9.50000000"
+    }
+  ],
+  "country": {
+    "id": 149,
+    "name": "Morocco",
+    "iso3": "MAR",
+    "iso2": "MA",
+    "numeric_code": "504",
+    "phone_code": "212",
+    "capital": "Rabat",
+    "currency": "MAD",
+    "currency_name": "Moroccan dirham",
+    "currency_symbol": "DH",
+    "tld": ".ma",
+    "native": "المغرب",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "모로코",
+      "pt-BR": "Marrocos",
+      "pt": "Marrocos",
+      "nl": "Marokko",
+      "hr": "Maroko",
+      "fa": "مراکش",
+      "de": "Marokko",
+      "es": "Marruecos",
+      "fr": "Maroc",
+      "ja": "モロッコ",
+      "it": "Marocco",
+      "cn": "摩洛哥",
+      "tr": "Fas"
+    },
+    "latitude": "32.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇲🇦",
+    "emojiU": "U+1F1F2 U+1F1E6"
+  }
+}

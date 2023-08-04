@@ -1,0 +1,72 @@
+{
+  "id": 4317,
+  "name": "Šempeter–Vrtojba Municipality",
+  "state_code": "183",
+  "latitude": "45.92900950",
+  "longitude": "13.64155940",
+  "type": null,
+  "cities": [
+    {
+      "id": 104261,
+      "name": "Rožna Dolina",
+      "latitude": "45.94194000",
+      "longitude": "13.66779000"
+    },
+    {
+      "id": 104343,
+      "name": "Šempeter pri Gorici",
+      "latitude": "45.92750000",
+      "longitude": "13.64111000"
+    },
+    {
+      "id": 104322,
+      "name": "Vrtojba",
+      "latitude": "45.91250000",
+      "longitude": "13.63417000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

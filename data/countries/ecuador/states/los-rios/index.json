@@ -1,0 +1,103 @@
+{
+  "id": 2910,
+  "name": "Los Ríos",
+  "state_code": "R",
+  "latitude": "-1.02306070",
+  "longitude": "-79.46088970",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31485,
+      "name": "Babahoyo",
+      "latitude": "-1.80217000",
+      "longitude": "-79.53443000"
+    },
+    {
+      "id": 31494,
+      "name": "Catarama",
+      "latitude": "-1.57504000",
+      "longitude": "-79.45998000"
+    },
+    {
+      "id": 31529,
+      "name": "Montalvo",
+      "latitude": "-1.79008000",
+      "longitude": "-79.28759000"
+    },
+    {
+      "id": 31538,
+      "name": "Palenque",
+      "latitude": "-1.43795000",
+      "longitude": "-79.75647000"
+    },
+    {
+      "id": 31559,
+      "name": "Quevedo",
+      "latitude": "-1.02863000",
+      "longitude": "-79.46352000"
+    },
+    {
+      "id": 31587,
+      "name": "Ventanas",
+      "latitude": "-1.44158000",
+      "longitude": "-79.45943000"
+    },
+    {
+      "id": 31588,
+      "name": "Vinces",
+      "latitude": "-1.55611000",
+      "longitude": "-79.75191000"
+    }
+  ],
+  "country": {
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phone_code": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "translations": {
+      "kr": "에콰도르",
+      "pt-BR": "Equador",
+      "pt": "Equador",
+      "nl": "Ecuador",
+      "hr": "Ekvador",
+      "fa": "اکوادور",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fr": "Équateur",
+      "ja": "エクアドル",
+      "it": "Ecuador",
+      "cn": "厄瓜多尔",
+      "tr": "Ekvator"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  }
+}

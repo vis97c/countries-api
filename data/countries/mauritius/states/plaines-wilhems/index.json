@@ -1,0 +1,120 @@
+{
+  "id": 3263,
+  "name": "Plaines Wilhems",
+  "state_code": "PW",
+  "latitude": "-20.30548720",
+  "longitude": "57.48535610",
+  "type": "district",
+  "cities": [
+    {
+      "id": 153454,
+      "name": "Beau Bassin",
+      "latitude": "-20.22538700",
+      "longitude": "57.47145500"
+    },
+    {
+      "id": 67832,
+      "name": "Beau Bassin-Rose Hill",
+      "latitude": "-20.23325000",
+      "longitude": "57.46609000"
+    },
+    {
+      "id": 67854,
+      "name": "Curepipe",
+      "latitude": "-20.31628000",
+      "longitude": "57.52594000"
+    },
+    {
+      "id": 153456,
+      "name": "Eau Coulee",
+      "latitude": "-20.30336600",
+      "longitude": "57.52778800"
+    },
+    {
+      "id": 67857,
+      "name": "Ebene",
+      "latitude": "-20.24494000",
+      "longitude": "57.49163000"
+    },
+    {
+      "id": 153455,
+      "name": "Floreal",
+      "latitude": "-20.31121400",
+      "longitude": "57.50726300"
+    },
+    {
+      "id": 153457,
+      "name": "Forest Side",
+      "latitude": "-20.32952100",
+      "longitude": "57.53898100"
+    },
+    {
+      "id": 67878,
+      "name": "Midlands",
+      "latitude": "-20.31907000",
+      "longitude": "57.57016000"
+    },
+    {
+      "id": 67900,
+      "name": "Quatre Bornes",
+      "latitude": "-20.26381000",
+      "longitude": "57.47910000"
+    },
+    {
+      "id": 153453,
+      "name": "Rose Hill",
+      "latitude": "-20.24347800",
+      "longitude": "57.46985500"
+    },
+    {
+      "id": 67920,
+      "name": "Vacoas",
+      "latitude": "-20.29806000",
+      "longitude": "57.47833000"
+    }
+  ],
+  "country": {
+    "id": 140,
+    "name": "Mauritius",
+    "iso3": "MUS",
+    "iso2": "MU",
+    "numeric_code": "480",
+    "phone_code": "230",
+    "capital": "Port Louis",
+    "currency": "MUR",
+    "currency_name": "Mauritian rupee",
+    "currency_symbol": "₨",
+    "tld": ".mu",
+    "native": "Maurice",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mauritius",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MUT",
+        "tzName": "Mauritius Time"
+      }
+    ],
+    "translations": {
+      "kr": "모리셔스",
+      "pt-BR": "Maurício",
+      "pt": "Maurícia",
+      "nl": "Mauritius",
+      "hr": "Mauricijus",
+      "fa": "موریس",
+      "de": "Mauritius",
+      "es": "Mauricio",
+      "fr": "Île Maurice",
+      "ja": "モーリシャス",
+      "it": "Mauritius",
+      "cn": "毛里求斯",
+      "tr": "Morityus"
+    },
+    "latitude": "-20.28333333",
+    "longitude": "57.55000000",
+    "emoji": "🇲🇺",
+    "emojiU": "U+1F1F2 U+1F1FA"
+  }
+}

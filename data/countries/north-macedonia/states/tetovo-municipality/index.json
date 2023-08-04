@@ -1,0 +1,102 @@
+{
+  "id": 663,
+  "name": "Tetovo Municipality",
+  "state_code": "76",
+  "latitude": "42.02748600",
+  "longitude": "20.95066360",
+  "type": null,
+  "cities": [
+    {
+      "id": 67415,
+      "name": "Dobrošte",
+      "latitude": "42.10333000",
+      "longitude": "21.07778000"
+    },
+    {
+      "id": 67425,
+      "name": "Džepčište",
+      "latitude": "42.03287000",
+      "longitude": "20.99817000"
+    },
+    {
+      "id": 67429,
+      "name": "Golema Rečica",
+      "latitude": "41.98803000",
+      "longitude": "20.94517000"
+    },
+    {
+      "id": 67505,
+      "name": "Pirok",
+      "latitude": "41.91083000",
+      "longitude": "20.91056000"
+    },
+    {
+      "id": 67508,
+      "name": "Poroj",
+      "latitude": "42.02913000",
+      "longitude": "20.99266000"
+    },
+    {
+      "id": 67524,
+      "name": "Selce",
+      "latitude": "42.03482000",
+      "longitude": "20.94035000"
+    },
+    {
+      "id": 67570,
+      "name": "Šipkovica",
+      "latitude": "42.03500000",
+      "longitude": "20.91556000"
+    },
+    {
+      "id": 67543,
+      "name": "Tetovo",
+      "latitude": "42.00973000",
+      "longitude": "20.97155000"
+    }
+  ],
+  "country": {
+    "id": 129,
+    "name": "North Macedonia",
+    "iso3": "MKD",
+    "iso2": "MK",
+    "numeric_code": "807",
+    "phone_code": "389",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "native": "Северна Македонија",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "북마케도니아",
+      "pt-BR": "Macedônia do Norte",
+      "pt": "Macedónia do Norte",
+      "nl": "Noord-Macedonië",
+      "hr": "Sjeverna Makedonija",
+      "fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+      "de": "Nordmazedonien",
+      "es": "Macedonia del Norte",
+      "fr": "Macédoine du Nord",
+      "ja": "北マケドニア",
+      "it": "Macedonia del Nord",
+      "cn": "北馬其頓",
+      "tr": "Kuzey Makedonya"
+    },
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  }
+}

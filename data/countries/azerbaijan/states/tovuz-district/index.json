@@ -1,0 +1,90 @@
+{
+  "id": 533,
+  "name": "Tovuz District",
+  "state_code": "TOV",
+  "latitude": "40.99545230",
+  "longitude": "45.61659070",
+  "type": null,
+  "cities": [
+    {
+      "id": 8207,
+      "name": "Çatax",
+      "latitude": "40.72622000",
+      "longitude": "45.55919000"
+    },
+    {
+      "id": 8209,
+      "name": "Çobansığnaq",
+      "latitude": "40.75244000",
+      "longitude": "45.70645000"
+    },
+    {
+      "id": 8076,
+      "name": "Dondar Quşçu",
+      "latitude": "40.95390000",
+      "longitude": "45.61942000"
+    },
+    {
+      "id": 8139,
+      "name": "Qaraxanlı",
+      "latitude": "41.04358000",
+      "longitude": "45.65527000"
+    },
+    {
+      "id": 8183,
+      "name": "Tovuz",
+      "latitude": "40.99249000",
+      "longitude": "45.62838000"
+    },
+    {
+      "id": 8193,
+      "name": "Yanıqlı",
+      "latitude": "40.84320000",
+      "longitude": "45.68030000"
+    }
+  ],
+  "country": {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "numeric_code": "031",
+    "phone_code": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "currency_name": "Azerbaijani manat",
+    "currency_symbol": "m",
+    "tld": ".az",
+    "native": "Azərbaycan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baku",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AZT",
+        "tzName": "Azerbaijan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아제르바이잔",
+      "pt-BR": "Azerbaijão",
+      "pt": "Azerbaijão",
+      "nl": "Azerbeidzjan",
+      "hr": "Azerbajdžan",
+      "fa": "آذربایجان",
+      "de": "Aserbaidschan",
+      "es": "Azerbaiyán",
+      "fr": "Azerbaïdjan",
+      "ja": "アゼルバイジャン",
+      "it": "Azerbaijan",
+      "cn": "阿塞拜疆",
+      "tr": "Azerbaycan"
+    },
+    "latitude": "40.50000000",
+    "longitude": "47.50000000",
+    "emoji": "🇦🇿",
+    "emojiU": "U+1F1E6 U+1F1FF"
+  }
+}

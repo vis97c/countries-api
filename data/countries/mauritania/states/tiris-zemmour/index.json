@@ -1,0 +1,84 @@
+{
+  "id": 3340,
+  "name": "Tiris Zemmour",
+  "state_code": "11",
+  "latitude": "24.57737640",
+  "longitude": "-9.90181310",
+  "type": "region",
+  "cities": [
+    {
+      "id": 150078,
+      "name": "Ain Ben Tili",
+      "latitude": "25.99444444",
+      "longitude": "-9.55333333"
+    },
+    {
+      "id": 150079,
+      "name": "Chegga",
+      "latitude": "25.37194444",
+      "longitude": "-5.78666667"
+    },
+    {
+      "id": 150080,
+      "name": "Fderîck",
+      "latitude": "22.67777778",
+      "longitude": "-12.70750000"
+    },
+    {
+      "id": 150081,
+      "name": "Zouérat",
+      "latitude": "22.73444444",
+      "longitude": "-12.47250000"
+    },
+    {
+      "id": 67756,
+      "name": "Zouerate",
+      "latitude": "22.73542000",
+      "longitude": "-12.47134000"
+    }
+  ],
+  "country": {
+    "id": 139,
+    "name": "Mauritania",
+    "iso3": "MRT",
+    "iso2": "MR",
+    "numeric_code": "478",
+    "phone_code": "222",
+    "capital": "Nouakchott",
+    "currency": "MRO",
+    "currency_name": "Mauritanian ouguiya",
+    "currency_symbol": "MRU",
+    "tld": ".mr",
+    "native": "موريتانيا",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "모리타니",
+      "pt-BR": "Mauritânia",
+      "pt": "Mauritânia",
+      "nl": "Mauritanië",
+      "hr": "Mauritanija",
+      "fa": "موریتانی",
+      "de": "Mauretanien",
+      "es": "Mauritania",
+      "fr": "Mauritanie",
+      "ja": "モーリタニア",
+      "it": "Mauritania",
+      "cn": "毛里塔尼亚",
+      "tr": "Moritanya"
+    },
+    "latitude": "20.00000000",
+    "longitude": "-12.00000000",
+    "emoji": "🇲🇷",
+    "emojiU": "U+1F1F2 U+1F1F7"
+  }
+}

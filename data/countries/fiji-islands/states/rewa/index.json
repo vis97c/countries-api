@@ -1,0 +1,53 @@
+{
+  "id": 1920,
+  "name": "Rewa",
+  "state_code": "12",
+  "latitude": "34.79235170",
+  "longitude": "-82.36092640",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 73,
+    "name": "Fiji Islands",
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "numeric_code": "242",
+    "phone_code": "679",
+    "capital": "Suva",
+    "currency": "FJD",
+    "currency_name": "Fijian dollar",
+    "currency_symbol": "FJ$",
+    "tld": ".fj",
+    "native": "Fiji",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Fiji",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "FJT",
+        "tzName": "Fiji Time"
+      }
+    ],
+    "translations": {
+      "kr": "피지",
+      "pt-BR": "Fiji",
+      "pt": "Fiji",
+      "nl": "Fiji",
+      "hr": "Fiđi",
+      "fa": "فیجی",
+      "de": "Fidschi",
+      "es": "Fiyi",
+      "fr": "Fidji",
+      "ja": "フィジー",
+      "it": "Figi",
+      "cn": "斐济",
+      "tr": "Fiji"
+    },
+    "latitude": "-18.00000000",
+    "longitude": "175.00000000",
+    "emoji": "🇫🇯",
+    "emojiU": "U+1F1EB U+1F1EF"
+  }
+}

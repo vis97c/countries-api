@@ -1,0 +1,78 @@
+{
+  "id": 3974,
+  "name": "Prey Veng",
+  "state_code": "14",
+  "latitude": "11.38024420",
+  "longitude": "105.50054830",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64972,
+      "name": "Prey Veng",
+      "latitude": "11.48682000",
+      "longitude": "105.32533000"
+    },
+    {
+      "id": 65006,
+      "name": "Srŏk Kâmpóng Léav",
+      "latitude": "11.50970000",
+      "longitude": "105.30110000"
+    },
+    {
+      "id": 65010,
+      "name": "Srŏk Mésang",
+      "latitude": "11.35528000",
+      "longitude": "105.57235000"
+    },
+    {
+      "id": 65016,
+      "name": "Srŏk Preăh Sdéch",
+      "latitude": "11.08690000",
+      "longitude": "105.37497000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

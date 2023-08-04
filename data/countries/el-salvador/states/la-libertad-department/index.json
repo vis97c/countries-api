@@ -1,0 +1,108 @@
+{
+  "id": 4134,
+  "name": "La Libertad Department",
+  "state_code": "LI",
+  "latitude": "13.68176610",
+  "longitude": "-89.36062980",
+  "type": null,
+  "cities": [
+    {
+      "id": 104844,
+      "name": "Antiguo Cuscatlán",
+      "latitude": "13.66492000",
+      "longitude": "-89.25319000"
+    },
+    {
+      "id": 104858,
+      "name": "Ciudad Arce",
+      "latitude": "13.84028000",
+      "longitude": "-89.44722000"
+    },
+    {
+      "id": 104884,
+      "name": "La Libertad",
+      "latitude": "13.48833000",
+      "longitude": "-89.32222000"
+    },
+    {
+      "id": 104894,
+      "name": "Nuevo Cuscatlán",
+      "latitude": "13.64861000",
+      "longitude": "-89.26528000"
+    },
+    {
+      "id": 104900,
+      "name": "Quezaltepeque",
+      "latitude": "13.83124000",
+      "longitude": "-89.27221000"
+    },
+    {
+      "id": 104907,
+      "name": "San Juan Opico",
+      "latitude": "13.87611000",
+      "longitude": "-89.35972000"
+    },
+    {
+      "id": 104911,
+      "name": "San Pablo Tacachico",
+      "latitude": "13.97556000",
+      "longitude": "-89.34000000"
+    },
+    {
+      "id": 104920,
+      "name": "Santa Tecla",
+      "latitude": "13.67694000",
+      "longitude": "-89.27972000"
+    },
+    {
+      "id": 104939,
+      "name": "Zaragoza",
+      "latitude": "13.58944000",
+      "longitude": "-89.28889000"
+    }
+  ],
+  "country": {
+    "id": 66,
+    "name": "El Salvador",
+    "iso3": "SLV",
+    "iso2": "SV",
+    "numeric_code": "222",
+    "phone_code": "503",
+    "capital": "San Salvador",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".sv",
+    "native": "El Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/El_Salvador",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "엘살바도르",
+      "pt-BR": "El Salvador",
+      "pt": "El Salvador",
+      "nl": "El Salvador",
+      "hr": "Salvador",
+      "fa": "السالوادور",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "fr": "Salvador",
+      "ja": "エルサルバドル",
+      "it": "El Salvador",
+      "cn": "萨尔瓦多",
+      "tr": "El Salvador"
+    },
+    "latitude": "13.83333333",
+    "longitude": "-88.91666666",
+    "emoji": "🇸🇻",
+    "emojiU": "U+1F1F8 U+1F1FB"
+  }
+}

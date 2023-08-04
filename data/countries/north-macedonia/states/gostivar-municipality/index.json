@@ -1,0 +1,90 @@
+{
+  "id": 693,
+  "name": "Gostivar Municipality",
+  "state_code": "19",
+  "latitude": "41.80255410",
+  "longitude": "20.90893780",
+  "type": null,
+  "cities": [
+    {
+      "id": 67404,
+      "name": "Cegrane",
+      "latitude": "41.83889000",
+      "longitude": "20.97583000"
+    },
+    {
+      "id": 67417,
+      "name": "Dolna Banjica",
+      "latitude": "41.78611000",
+      "longitude": "20.90611000"
+    },
+    {
+      "id": 67426,
+      "name": "Forino",
+      "latitude": "41.82334000",
+      "longitude": "20.96174000"
+    },
+    {
+      "id": 67433,
+      "name": "Gostivar",
+      "latitude": "41.79601000",
+      "longitude": "20.90819000"
+    },
+    {
+      "id": 67531,
+      "name": "Srbinovo",
+      "latitude": "41.70586000",
+      "longitude": "20.95859000"
+    },
+    {
+      "id": 67560,
+      "name": "Vrutok",
+      "latitude": "41.76861000",
+      "longitude": "20.83917000"
+    }
+  ],
+  "country": {
+    "id": 129,
+    "name": "North Macedonia",
+    "iso3": "MKD",
+    "iso2": "MK",
+    "numeric_code": "807",
+    "phone_code": "389",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "currency_name": "Denar",
+    "currency_symbol": "ден",
+    "tld": ".mk",
+    "native": "Северна Македонија",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Skopje",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "북마케도니아",
+      "pt-BR": "Macedônia do Norte",
+      "pt": "Macedónia do Norte",
+      "nl": "Noord-Macedonië",
+      "hr": "Sjeverna Makedonija",
+      "fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+      "de": "Nordmazedonien",
+      "es": "Macedonia del Norte",
+      "fr": "Macédoine du Nord",
+      "ja": "北マケドニア",
+      "it": "Macedonia del Nord",
+      "cn": "北馬其頓",
+      "tr": "Kuzey Makedonya"
+    },
+    "latitude": "41.83333333",
+    "longitude": "22.00000000",
+    "emoji": "🇲🇰",
+    "emojiU": "U+1F1F2 U+1F1F0"
+  }
+}

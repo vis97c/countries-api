@@ -1,0 +1,102 @@
+{
+  "id": 2659,
+  "name": "South",
+  "state_code": "SU",
+  "latitude": "37.63159500",
+  "longitude": "-97.34584090",
+  "type": null,
+  "cities": [
+    {
+      "id": 19133,
+      "name": "Akom II",
+      "latitude": "2.78333000",
+      "longitude": "10.56667000"
+    },
+    {
+      "id": 19136,
+      "name": "Ambam",
+      "latitude": "2.38333000",
+      "longitude": "11.28333000"
+    },
+    {
+      "id": 19269,
+      "name": "Ébolowa",
+      "latitude": "2.90000000",
+      "longitude": "11.15000000"
+    },
+    {
+      "id": 19191,
+      "name": "Kribi",
+      "latitude": "2.93725000",
+      "longitude": "9.90765000"
+    },
+    {
+      "id": 19197,
+      "name": "Lolodorf",
+      "latitude": "3.23333000",
+      "longitude": "10.73333000"
+    },
+    {
+      "id": 19229,
+      "name": "Mvangué",
+      "latitude": "2.96667000",
+      "longitude": "11.51667000"
+    },
+    {
+      "id": 19230,
+      "name": "Mvila",
+      "latitude": "2.79796000",
+      "longitude": "11.39434000"
+    },
+    {
+      "id": 19255,
+      "name": "Sangmélima",
+      "latitude": "2.93333000",
+      "longitude": "11.98333000"
+    }
+  ],
+  "country": {
+    "id": 38,
+    "name": "Cameroon",
+    "iso3": "CMR",
+    "iso2": "CM",
+    "numeric_code": "120",
+    "phone_code": "237",
+    "capital": "Yaounde",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".cm",
+    "native": "Cameroon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Douala",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "카메룬",
+      "pt-BR": "Camarões",
+      "pt": "Camarões",
+      "nl": "Kameroen",
+      "hr": "Kamerun",
+      "fa": "کامرون",
+      "de": "Kamerun",
+      "es": "Camerún",
+      "fr": "Cameroun",
+      "ja": "カメルーン",
+      "it": "Camerun",
+      "cn": "喀麦隆",
+      "tr": "Kamerun"
+    },
+    "latitude": "6.00000000",
+    "longitude": "12.00000000",
+    "emoji": "🇨🇲",
+    "emojiU": "U+1F1E8 U+1F1F2"
+  }
+}

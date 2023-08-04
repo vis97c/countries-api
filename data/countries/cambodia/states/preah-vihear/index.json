@@ -1,0 +1,96 @@
+{
+  "id": 3973,
+  "name": "Preah Vihear",
+  "state_code": "13",
+  "latitude": "14.00857970",
+  "longitude": "104.84546190",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64977,
+      "name": "Sangkom Thmei",
+      "latitude": "13.47395000",
+      "longitude": "104.77051000"
+    },
+    {
+      "id": 64999,
+      "name": "Srŏk Ch’êh Sên",
+      "latitude": "13.58215000",
+      "longitude": "105.34533000"
+    },
+    {
+      "id": 64996,
+      "name": "Srŏk Chhêb",
+      "latitude": "13.91077000",
+      "longitude": "105.46180000"
+    },
+    {
+      "id": 65005,
+      "name": "Srŏk Kulén",
+      "latitude": "13.78597000",
+      "longitude": "104.61052000"
+    },
+    {
+      "id": 65018,
+      "name": "Srŏk Rôviĕng",
+      "latitude": "13.35105000",
+      "longitude": "105.09956000"
+    },
+    {
+      "id": 65025,
+      "name": "Srŏk Tbêng Méanchey",
+      "latitude": "13.78622000",
+      "longitude": "105.01586000"
+    },
+    {
+      "id": 65039,
+      "name": "Tbeng Meanchey",
+      "latitude": "13.80731000",
+      "longitude": "104.98046000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

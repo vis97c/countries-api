@@ -1,0 +1,240 @@
+{
+  "id": 3482,
+  "name": "Surat Thani",
+  "state_code": "84",
+  "latitude": "9.13419490",
+  "longitude": "99.33341980",
+  "type": null,
+  "cities": [
+    {
+      "id": 105207,
+      "name": "Amphoe Ban Na Doem",
+      "latitude": "8.90610000",
+      "longitude": "99.28136000"
+    },
+    {
+      "id": 105208,
+      "name": "Amphoe Ban Na San",
+      "latitude": "8.80063000",
+      "longitude": "99.40201000"
+    },
+    {
+      "id": 105219,
+      "name": "Amphoe Ban Takhun",
+      "latitude": "9.10423000",
+      "longitude": "98.67222000"
+    },
+    {
+      "id": 105270,
+      "name": "Amphoe Chai Buri",
+      "latitude": "8.43883000",
+      "longitude": "99.07721000"
+    },
+    {
+      "id": 105273,
+      "name": "Amphoe Chaiya",
+      "latitude": "9.49141000",
+      "longitude": "98.99568000"
+    },
+    {
+      "id": 105333,
+      "name": "Amphoe Don Sak",
+      "latitude": "9.21063000",
+      "longitude": "99.68887000"
+    },
+    {
+      "id": 105369,
+      "name": "Amphoe Kanchanadit",
+      "latitude": "9.07256000",
+      "longitude": "99.54390000"
+    },
+    {
+      "id": 105402,
+      "name": "Amphoe Khian Sa",
+      "latitude": "8.72766000",
+      "longitude": "99.13240000"
+    },
+    {
+      "id": 105404,
+      "name": "Amphoe Khiri Rat Nikhom",
+      "latitude": "9.00590000",
+      "longitude": "98.94404000"
+    },
+    {
+      "id": 105443,
+      "name": "Amphoe Ko Pha-ngan",
+      "latitude": "9.74939000",
+      "longitude": "100.02649000"
+    },
+    {
+      "id": 105444,
+      "name": "Amphoe Ko Samui",
+      "latitude": "9.50841000",
+      "longitude": "99.99644000"
+    },
+    {
+      "id": 105595,
+      "name": "Amphoe Mueang Surat Thani",
+      "latitude": "9.10132000",
+      "longitude": "99.32614000"
+    },
+    {
+      "id": 105726,
+      "name": "Amphoe Phanom",
+      "latitude": "8.82254000",
+      "longitude": "98.71709000"
+    },
+    {
+      "id": 105770,
+      "name": "Amphoe Phrasaeng",
+      "latitude": "8.55124000",
+      "longitude": "99.10520000"
+    },
+    {
+      "id": 105784,
+      "name": "Amphoe Phunphin",
+      "latitude": "9.02472000",
+      "longitude": "99.14304000"
+    },
+    {
+      "id": 106271,
+      "name": "Amphoe Tha Chana",
+      "latitude": "9.61142000",
+      "longitude": "99.03611000"
+    },
+    {
+      "id": 106272,
+      "name": "Amphoe Tha Chang",
+      "latitude": "9.33475000",
+      "longitude": "98.95619000"
+    },
+    {
+      "id": 106367,
+      "name": "Amphoe Wiang Sa",
+      "latitude": "8.59813000",
+      "longitude": "99.35277000"
+    },
+    {
+      "id": 106370,
+      "name": "Amphoe Wiphawadi",
+      "latitude": "9.21972000",
+      "longitude": "98.87028000"
+    },
+    {
+      "id": 106402,
+      "name": "Ban Na San",
+      "latitude": "8.80036000",
+      "longitude": "99.36372000"
+    },
+    {
+      "id": 106462,
+      "name": "Chai Buri",
+      "latitude": "8.46222000",
+      "longitude": "99.07631000"
+    },
+    {
+      "id": 106465,
+      "name": "Chaiya",
+      "latitude": "9.38625000",
+      "longitude": "99.19861000"
+    },
+    {
+      "id": 106493,
+      "name": "Don Sak",
+      "latitude": "9.31676000",
+      "longitude": "99.69184000"
+    },
+    {
+      "id": 106511,
+      "name": "Kanchanadit",
+      "latitude": "9.16611000",
+      "longitude": "99.47014000"
+    },
+    {
+      "id": 106535,
+      "name": "Ko Pha Ngan",
+      "latitude": "9.75778000",
+      "longitude": "100.02914000"
+    },
+    {
+      "id": 106536,
+      "name": "Ko Samui",
+      "latitude": "9.53567000",
+      "longitude": "99.93567000"
+    },
+    {
+      "id": 106538,
+      "name": "Koh Tao",
+      "latitude": "10.09808000",
+      "longitude": "99.83809000"
+    },
+    {
+      "id": 106710,
+      "name": "Surat Thani",
+      "latitude": "9.14011000",
+      "longitude": "99.33311000"
+    },
+    {
+      "id": 106719,
+      "name": "Tha Kham",
+      "latitude": "9.11072000",
+      "longitude": "99.23208000"
+    },
+    {
+      "id": 106720,
+      "name": "Tha Khanon",
+      "latitude": "9.03020000",
+      "longitude": "98.95286000"
+    },
+    {
+      "id": 106751,
+      "name": "Wiang Sa",
+      "latitude": "8.63585000",
+      "longitude": "99.36660000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

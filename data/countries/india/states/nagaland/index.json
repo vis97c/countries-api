@@ -1,0 +1,114 @@
+{
+  "id": 4018,
+  "name": "Nagaland",
+  "state_code": "NL",
+  "latitude": "26.15843540",
+  "longitude": "94.56244260",
+  "type": "state",
+  "cities": [
+    {
+      "id": 131771,
+      "name": "Dimapur",
+      "latitude": "25.77852000",
+      "longitude": "93.78508000"
+    },
+    {
+      "id": 132549,
+      "name": "Kohima",
+      "latitude": "25.67467000",
+      "longitude": "94.11099000"
+    },
+    {
+      "id": 132989,
+      "name": "Mokokchung",
+      "latitude": "26.31393000",
+      "longitude": "94.51675000"
+    },
+    {
+      "id": 132990,
+      "name": "Mon",
+      "latitude": "26.75000000",
+      "longitude": "94.83333000"
+    },
+    {
+      "id": 133416,
+      "name": "Peren",
+      "latitude": "25.51276000",
+      "longitude": "93.73716000"
+    },
+    {
+      "id": 133438,
+      "name": "Phek",
+      "latitude": "25.75000000",
+      "longitude": "94.50000000"
+    },
+    {
+      "id": 134215,
+      "name": "Tuensang",
+      "latitude": "26.26704000",
+      "longitude": "94.82415000"
+    },
+    {
+      "id": 134216,
+      "name": "Tuensang District",
+      "latitude": "26.25000000",
+      "longitude": "94.75000000"
+    },
+    {
+      "id": 134413,
+      "name": "Wokha",
+      "latitude": "26.16667000",
+      "longitude": "94.25000000"
+    },
+    {
+      "id": 134445,
+      "name": "Zunheboto",
+      "latitude": "26.00000000",
+      "longitude": "94.50000000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

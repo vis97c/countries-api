@@ -1,0 +1,78 @@
+{
+  "id": 271,
+  "name": "São Tomé Province",
+  "state_code": "S",
+  "latitude": "0.33019240",
+  "longitude": "6.73334300",
+  "type": null,
+  "cities": [
+    {
+      "id": 104835,
+      "name": "Cantagalo District",
+      "latitude": "0.21667000",
+      "longitude": "6.70000000"
+    },
+    {
+      "id": 104836,
+      "name": "Caué District",
+      "latitude": "0.13415000",
+      "longitude": "6.63825000"
+    },
+    {
+      "id": 104838,
+      "name": "São Tomé",
+      "latitude": "0.33654000",
+      "longitude": "6.72732000"
+    },
+    {
+      "id": 104839,
+      "name": "Trindade",
+      "latitude": "0.29667000",
+      "longitude": "6.68139000"
+    }
+  ],
+  "country": {
+    "id": 193,
+    "name": "Sao Tome and Principe",
+    "iso3": "STP",
+    "iso2": "ST",
+    "numeric_code": "678",
+    "phone_code": "239",
+    "capital": "Sao Tome",
+    "currency": "STD",
+    "currency_name": "Dobra",
+    "currency_symbol": "Db",
+    "tld": ".st",
+    "native": "São Tomé e Príncipe",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Sao_Tome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "상투메 프린시페",
+      "pt-BR": "São Tomé e Príncipe",
+      "pt": "São Tomé e Príncipe",
+      "nl": "Sao Tomé en Principe",
+      "hr": "Sveti Toma i Princip",
+      "fa": "کواترو دو فرویرو",
+      "de": "São Tomé und Príncipe",
+      "es": "Santo Tomé y Príncipe",
+      "fr": "Sao Tomé-et-Principe",
+      "ja": "サントメ・プリンシペ",
+      "it": "São Tomé e Príncipe",
+      "cn": "圣多美和普林西比",
+      "tr": "Sao Tome Ve Prinsipe"
+    },
+    "latitude": "1.00000000",
+    "longitude": "7.00000000",
+    "emoji": "🇸🇹",
+    "emojiU": "U+1F1F8 U+1F1F9"
+  }
+}

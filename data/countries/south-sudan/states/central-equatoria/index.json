@@ -1,0 +1,53 @@
+{
+  "id": 2092,
+  "name": "Central Equatoria",
+  "state_code": "EC",
+  "latitude": "4.61440630",
+  "longitude": "31.26263660",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 206,
+    "name": "South Sudan",
+    "iso3": "SSD",
+    "iso2": "SS",
+    "numeric_code": "728",
+    "phone_code": "211",
+    "capital": "Juba",
+    "currency": "SSP",
+    "currency_name": "South Sudanese pound",
+    "currency_symbol": "£",
+    "tld": ".ss",
+    "native": "South Sudan",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Juba",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "남수단",
+      "pt-BR": "Sudão do Sul",
+      "pt": "Sudão do Sul",
+      "nl": "Zuid-Soedan",
+      "hr": "Južni Sudan",
+      "fa": "سودان جنوبی",
+      "de": "Südsudan",
+      "es": "Sudán del Sur",
+      "fr": "Soudan du Sud",
+      "ja": "南スーダン",
+      "it": "Sudan del sud",
+      "cn": "南苏丹",
+      "tr": "Güney Sudan"
+    },
+    "latitude": "7.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇸🇸",
+    "emojiU": "U+1F1F8 U+1F1F8"
+  }
+}

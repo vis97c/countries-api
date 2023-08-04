@@ -1,0 +1,111 @@
+{
+  "id": 1824,
+  "name": "Kalimantan Utara",
+  "state_code": "KU",
+  "latitude": "3.07309290",
+  "longitude": "116.04138890",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56381,
+      "name": "Kabupaten Bulungan",
+      "latitude": "3.00000000",
+      "longitude": "117.16667000"
+    },
+    {
+      "id": 56512,
+      "name": "Kabupaten Malinau",
+      "latitude": "2.45000000",
+      "longitude": "115.68333000"
+    },
+    {
+      "id": 56562,
+      "name": "Kabupaten Nunukan",
+      "latitude": "4.13333000",
+      "longitude": "116.70000000"
+    },
+    {
+      "id": 56661,
+      "name": "Kabupaten Tana Tidung",
+      "latitude": "3.55000000",
+      "longitude": "117.25000000"
+    },
+    {
+      "id": 57019,
+      "name": "Tanjung Selor",
+      "latitude": "2.83750000",
+      "longitude": "117.36528000"
+    },
+    {
+      "id": 57023,
+      "name": "Tarakan",
+      "latitude": "3.31332000",
+      "longitude": "117.59152000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1129,
+  "name": "El Bayadh",
+  "state_code": "32",
+  "latitude": "32.71488240",
+  "longitude": "0.90566230",
+  "type": null,
+  "cities": [
+    {
+      "id": 31297,
+      "name": "Brezina",
+      "latitude": "33.09892000",
+      "longitude": "1.26082000"
+    },
+    {
+      "id": 31326,
+      "name": "El Abiodh Sidi Cheikh",
+      "latitude": "32.89300000",
+      "longitude": "0.54839000"
+    },
+    {
+      "id": 31332,
+      "name": "El Bayadh",
+      "latitude": "33.68318000",
+      "longitude": "1.01927000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

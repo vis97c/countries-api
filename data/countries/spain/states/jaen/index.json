@@ -1,0 +1,650 @@
+{
+  "id": 5100,
+  "name": "Jaén",
+  "state_code": "J",
+  "latitude": "37.78009310",
+  "longitude": "-3.81437450",
+  "type": "province",
+  "cities": [
+    {
+      "id": 151430,
+      "name": "Albanchez de Mágina",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32081,
+      "name": "Alcalá la Real",
+      "latitude": "37.46140000",
+      "longitude": "-3.92301000"
+    },
+    {
+      "id": 32091,
+      "name": "Alcaudete",
+      "latitude": "37.59091000",
+      "longitude": "-4.08237000"
+    },
+    {
+      "id": 32167,
+      "name": "Aldeaquemada",
+      "latitude": "38.41215000",
+      "longitude": "-3.37137000"
+    },
+    {
+      "id": 32376,
+      "name": "Andújar",
+      "latitude": "38.03922000",
+      "longitude": "-4.05077000"
+    },
+    {
+      "id": 32482,
+      "name": "Arjona",
+      "latitude": "37.93493000",
+      "longitude": "-4.05478000"
+    },
+    {
+      "id": 32483,
+      "name": "Arjonilla",
+      "latitude": "37.97422000",
+      "longitude": "-4.10677000"
+    },
+    {
+      "id": 32499,
+      "name": "Arquillos",
+      "latitude": "38.18148000",
+      "longitude": "-3.42827000"
+    },
+    {
+      "id": 32512,
+      "name": "Arroyo del Ojanco",
+      "latitude": "38.32065000",
+      "longitude": "-2.89486000"
+    },
+    {
+      "id": 32608,
+      "name": "Baeza",
+      "latitude": "37.99384000",
+      "longitude": "-3.47103000"
+    },
+    {
+      "id": 32615,
+      "name": "Bailén",
+      "latitude": "38.09639000",
+      "longitude": "-3.77786000"
+    },
+    {
+      "id": 32709,
+      "name": "Baños de la Encina",
+      "latitude": "38.17379000",
+      "longitude": "-3.77477000"
+    },
+    {
+      "id": 32719,
+      "name": "Beas de Segura",
+      "latitude": "38.25240000",
+      "longitude": "-2.88875000"
+    },
+    {
+      "id": 151442,
+      "name": "Bedmar y Garcíez",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32730,
+      "name": "Begíjar",
+      "latitude": "37.98492000",
+      "longitude": "-3.53094000"
+    },
+    {
+      "id": 33060,
+      "name": "Bélmez de la Moraleda",
+      "latitude": "37.72382000",
+      "longitude": "-3.38207000"
+    },
+    {
+      "id": 32779,
+      "name": "Benatae",
+      "latitude": "38.35323000",
+      "longitude": "-2.65121000"
+    },
+    {
+      "id": 33100,
+      "name": "Cabra del Santo Cristo",
+      "latitude": "37.70379000",
+      "longitude": "-3.28765000"
+    },
+    {
+      "id": 33175,
+      "name": "Cambil",
+      "latitude": "37.67934000",
+      "longitude": "-3.56537000"
+    },
+    {
+      "id": 33189,
+      "name": "Campillo de Arenas",
+      "latitude": "37.55535000",
+      "longitude": "-3.63552000"
+    },
+    {
+      "id": 33231,
+      "name": "Canena",
+      "latitude": "38.04930000",
+      "longitude": "-3.48310000"
+    },
+    {
+      "id": 33288,
+      "name": "Carboneros",
+      "latitude": "38.22958000",
+      "longitude": "-3.63139000"
+    },
+    {
+      "id": 151441,
+      "name": "Cárcheles",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151431,
+      "name": "Carolina La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151432,
+      "name": "Castellar",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33464,
+      "name": "Castillo de Locubín",
+      "latitude": "37.52858000",
+      "longitude": "-3.94220000"
+    },
+    {
+      "id": 33522,
+      "name": "Cazalilla",
+      "latitude": "37.98389000",
+      "longitude": "-3.88295000"
+    },
+    {
+      "id": 33524,
+      "name": "Cazorla",
+      "latitude": "37.91495000",
+      "longitude": "-3.00342000"
+    },
+    {
+      "id": 33630,
+      "name": "Chiclana de Segura",
+      "latitude": "38.31187000",
+      "longitude": "-3.04219000"
+    },
+    {
+      "id": 33635,
+      "name": "Chilluévar",
+      "latitude": "38.00088000",
+      "longitude": "-3.03240000"
+    },
+    {
+      "id": 34084,
+      "name": "Escañuela",
+      "latitude": "37.87885000",
+      "longitude": "-4.03376000"
+    },
+    {
+      "id": 34114,
+      "name": "Espelúy",
+      "latitude": "38.03180000",
+      "longitude": "-3.86309000"
+    },
+    {
+      "id": 34238,
+      "name": "Frailes",
+      "latitude": "37.48617000",
+      "longitude": "-3.83743000"
+    },
+    {
+      "id": 34290,
+      "name": "Fuensanta de Martos",
+      "latitude": "37.64756000",
+      "longitude": "-3.90846000"
+    },
+    {
+      "id": 34362,
+      "name": "Fuerte del Rey",
+      "latitude": "37.87492000",
+      "longitude": "-3.88389000"
+    },
+    {
+      "id": 34561,
+      "name": "Génave",
+      "latitude": "38.43062000",
+      "longitude": "-2.73310000"
+    },
+    {
+      "id": 151433,
+      "name": "Guardia de Jaén La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34539,
+      "name": "Guarromán",
+      "latitude": "38.18282000",
+      "longitude": "-3.68697000"
+    },
+    {
+      "id": 34609,
+      "name": "Higuera de Calatrava",
+      "latitude": "37.79848000",
+      "longitude": "-4.15737000"
+    },
+    {
+      "id": 34621,
+      "name": "Hinojares",
+      "latitude": "37.71586000",
+      "longitude": "-2.99769000"
+    },
+    {
+      "id": 151435,
+      "name": "Hornos",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34684,
+      "name": "Huelma",
+      "latitude": "37.64784000",
+      "longitude": "-3.45985000"
+    },
+    {
+      "id": 34694,
+      "name": "Huesa",
+      "latitude": "37.76434000",
+      "longitude": "-3.07639000"
+    },
+    {
+      "id": 34731,
+      "name": "Ibros",
+      "latitude": "38.02106000",
+      "longitude": "-3.50313000"
+    },
+    {
+      "id": 151436,
+      "name": "Iruela La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34781,
+      "name": "Iznatoraf",
+      "latitude": "38.15706000",
+      "longitude": "-3.03242000"
+    },
+    {
+      "id": 34785,
+      "name": "Jabalquinto",
+      "latitude": "38.01935000",
+      "longitude": "-3.72512000"
+    },
+    {
+      "id": 34811,
+      "name": "Jaén",
+      "latitude": "37.76922000",
+      "longitude": "-3.79028000"
+    },
+    {
+      "id": 34795,
+      "name": "Jamilena",
+      "latitude": "37.74717000",
+      "longitude": "-3.91433000"
+    },
+    {
+      "id": 34816,
+      "name": "Jimena",
+      "latitude": "37.84157000",
+      "longitude": "-3.47710000"
+    },
+    {
+      "id": 34838,
+      "name": "Jódar",
+      "latitude": "37.84064000",
+      "longitude": "-3.35262000"
+    },
+    {
+      "id": 151434,
+      "name": "Lahiguera",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34982,
+      "name": "Larva",
+      "latitude": "37.76069000",
+      "longitude": "-3.20269000"
+    },
+    {
+      "id": 35052,
+      "name": "Linares",
+      "latitude": "38.09519000",
+      "longitude": "-3.63602000"
+    },
+    {
+      "id": 35108,
+      "name": "Lopera",
+      "latitude": "37.94542000",
+      "longitude": "-4.21463000"
+    },
+    {
+      "id": 35168,
+      "name": "Lupión",
+      "latitude": "37.99653000",
+      "longitude": "-3.54699000"
+    },
+    {
+      "id": 35242,
+      "name": "Mancha Real",
+      "latitude": "37.78627000",
+      "longitude": "-3.61226000"
+    },
+    {
+      "id": 35295,
+      "name": "Marmolejo",
+      "latitude": "38.04549000",
+      "longitude": "-4.17029000"
+    },
+    {
+      "id": 35302,
+      "name": "Martos",
+      "latitude": "37.72107000",
+      "longitude": "-3.97264000"
+    },
+    {
+      "id": 35405,
+      "name": "Mengibar",
+      "latitude": "37.96978000",
+      "longitude": "-3.80884000"
+    },
+    {
+      "id": 35579,
+      "name": "Montizón",
+      "latitude": "38.34249000",
+      "longitude": "-3.10404000"
+    },
+    {
+      "id": 35781,
+      "name": "Navas de San Juan",
+      "latitude": "38.18382000",
+      "longitude": "-3.31598000"
+    },
+    {
+      "id": 35812,
+      "name": "Noalejo",
+      "latitude": "37.53017000",
+      "longitude": "-3.65615000"
+    },
+    {
+      "id": 35937,
+      "name": "Orcera",
+      "latitude": "38.31742000",
+      "longitude": "-2.66487000"
+    },
+    {
+      "id": 36088,
+      "name": "Peal de Becerro",
+      "latitude": "37.91338000",
+      "longitude": "-3.12148000"
+    },
+    {
+      "id": 36114,
+      "name": "Pegalajar",
+      "latitude": "37.74008000",
+      "longitude": "-3.64946000"
+    },
+    {
+      "id": 36277,
+      "name": "Porcuna",
+      "latitude": "37.87102000",
+      "longitude": "-4.18501000"
+    },
+    {
+      "id": 36316,
+      "name": "Pozo Alcón",
+      "latitude": "37.70256000",
+      "longitude": "-2.93367000"
+    },
+    {
+      "id": 36436,
+      "name": "Puente de Génave",
+      "latitude": "38.35544000",
+      "longitude": "-2.80320000"
+    },
+    {
+      "id": 151437,
+      "name": "Puerta de Segura La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36498,
+      "name": "Quesada",
+      "latitude": "37.84338000",
+      "longitude": "-3.06561000"
+    },
+    {
+      "id": 36705,
+      "name": "Rus",
+      "latitude": "38.04759000",
+      "longitude": "-3.46254000"
+    },
+    {
+      "id": 36724,
+      "name": "Sabiote",
+      "latitude": "38.06916000",
+      "longitude": "-3.31448000"
+    },
+    {
+      "id": 37047,
+      "name": "Santa Elena",
+      "latitude": "38.34162000",
+      "longitude": "-3.53953000"
+    },
+    {
+      "id": 37113,
+      "name": "Santiago de Calatrava",
+      "latitude": "37.75382000",
+      "longitude": "-4.17093000"
+    },
+    {
+      "id": 151444,
+      "name": "Santiago-Pontones",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37133,
+      "name": "Santisteban del Puerto",
+      "latitude": "38.24829000",
+      "longitude": "-3.20762000"
+    },
+    {
+      "id": 37143,
+      "name": "Santo Tomé",
+      "latitude": "38.02861000",
+      "longitude": "-3.10092000"
+    },
+    {
+      "id": 37197,
+      "name": "Segura de la Sierra",
+      "latitude": "38.29777000",
+      "longitude": "-2.65229000"
+    },
+    {
+      "id": 37254,
+      "name": "Siles",
+      "latitude": "38.38983000",
+      "longitude": "-2.58190000"
+    },
+    {
+      "id": 37302,
+      "name": "Sorihuela del Guadalimar",
+      "latitude": "38.24062000",
+      "longitude": "-3.05360000"
+    },
+    {
+      "id": 37501,
+      "name": "Torre del Campo",
+      "latitude": "37.77051000",
+      "longitude": "-3.89731000"
+    },
+    {
+      "id": 37511,
+      "name": "Torreblascopedro",
+      "latitude": "37.99750000",
+      "longitude": "-3.63780000"
+    },
+    {
+      "id": 37530,
+      "name": "Torredonjimeno",
+      "latitude": "37.76748000",
+      "longitude": "-3.95776000"
+    },
+    {
+      "id": 37569,
+      "name": "Torreperogil",
+      "latitude": "38.03540000",
+      "longitude": "-3.28998000"
+    },
+    {
+      "id": 37571,
+      "name": "Torres",
+      "latitude": "37.78537000",
+      "longitude": "-3.50902000"
+    },
+    {
+      "id": 151438,
+      "name": "Torres de Albánchez",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 38584,
+      "name": "Úbeda",
+      "latitude": "38.01328000",
+      "longitude": "-3.37050000"
+    },
+    {
+      "id": 37783,
+      "name": "Valdepeñas de Jaén",
+      "latitude": "37.58903000",
+      "longitude": "-3.81450000"
+    },
+    {
+      "id": 38006,
+      "name": "Vilches",
+      "latitude": "38.20695000",
+      "longitude": "-3.51025000"
+    },
+    {
+      "id": 38026,
+      "name": "Villacarrillo",
+      "latitude": "38.11560000",
+      "longitude": "-3.08480000"
+    },
+    {
+      "id": 38200,
+      "name": "Villanueva de la Reina",
+      "latitude": "38.00432000",
+      "longitude": "-3.91603000"
+    },
+    {
+      "id": 38213,
+      "name": "Villanueva del Arzobispo",
+      "latitude": "38.16842000",
+      "longitude": "-3.00742000"
+    },
+    {
+      "id": 38268,
+      "name": "Villardompardo",
+      "latitude": "37.83735000",
+      "longitude": "-4.00051000"
+    },
+    {
+      "id": 151439,
+      "name": "Villares Los",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151440,
+      "name": "Villarrodrigo",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 151443,
+      "name": "Villatorres",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

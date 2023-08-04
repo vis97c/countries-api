@@ -1,0 +1,2349 @@
+{
+  "id": 873,
+  "name": "Quebec",
+  "state_code": "QC",
+  "latitude": "52.93991590",
+  "longitude": "-73.54913610",
+  "type": "province",
+  "cities": [
+    {
+      "id": 16147,
+      "name": "Abitibi-Témiscamingue",
+      "latitude": "48.10018000",
+      "longitude": "-77.78280000"
+    },
+    {
+      "id": 16148,
+      "name": "Acton Vale",
+      "latitude": "45.65007000",
+      "longitude": "-72.56582000"
+    },
+    {
+      "id": 16149,
+      "name": "Adstock",
+      "latitude": "46.05007000",
+      "longitude": "-71.08235000"
+    },
+    {
+      "id": 16153,
+      "name": "Albanel",
+      "latitude": "48.88324000",
+      "longitude": "-72.44867000"
+    },
+    {
+      "id": 16159,
+      "name": "Alma",
+      "latitude": "48.55009000",
+      "longitude": "-71.64910000"
+    },
+    {
+      "id": 16164,
+      "name": "Amos",
+      "latitude": "48.56688000",
+      "longitude": "-78.11624000"
+    },
+    {
+      "id": 16165,
+      "name": "Amqui",
+      "latitude": "48.46382000",
+      "longitude": "-67.43134000"
+    },
+    {
+      "id": 16167,
+      "name": "Ange-Gardien",
+      "latitude": "45.35008000",
+      "longitude": "-72.93244000"
+    },
+    {
+      "id": 16175,
+      "name": "Asbestos",
+      "latitude": "45.76678000",
+      "longitude": "-71.93240000"
+    },
+    {
+      "id": 16185,
+      "name": "Baie-Comeau",
+      "latitude": "49.21679000",
+      "longitude": "-68.14894000"
+    },
+    {
+      "id": 16186,
+      "name": "Baie-D'Urfé",
+      "latitude": "45.41397000",
+      "longitude": "-73.91586000"
+    },
+    {
+      "id": 16187,
+      "name": "Baie-Saint-Paul",
+      "latitude": "47.44109000",
+      "longitude": "-70.49858000"
+    },
+    {
+      "id": 16191,
+      "name": "Barraute",
+      "latitude": "48.43349000",
+      "longitude": "-77.63279000"
+    },
+    {
+      "id": 16195,
+      "name": "Bas-Saint-Laurent",
+      "latitude": "48.05030000",
+      "longitude": "-68.02266000"
+    },
+    {
+      "id": 16201,
+      "name": "Beaconsfield",
+      "latitude": "45.43341000",
+      "longitude": "-73.86586000"
+    },
+    {
+      "id": 16202,
+      "name": "Beauceville",
+      "latitude": "46.21785000",
+      "longitude": "-70.77873000"
+    },
+    {
+      "id": 16203,
+      "name": "Beauharnois",
+      "latitude": "45.31341000",
+      "longitude": "-73.87250000"
+    },
+    {
+      "id": 16205,
+      "name": "Beaupré",
+      "latitude": "47.04428000",
+      "longitude": "-70.89529000"
+    },
+    {
+      "id": 16255,
+      "name": "Bécancour",
+      "latitude": "46.34106000",
+      "longitude": "-72.43224000"
+    },
+    {
+      "id": 16208,
+      "name": "Bedford",
+      "latitude": "45.11678000",
+      "longitude": "-72.98244000"
+    },
+    {
+      "id": 16214,
+      "name": "Beloeil",
+      "latitude": "45.56839000",
+      "longitude": "-73.20568000"
+    },
+    {
+      "id": 16215,
+      "name": "Berthierville",
+      "latitude": "46.08336000",
+      "longitude": "-73.18245000"
+    },
+    {
+      "id": 16221,
+      "name": "Blainville",
+      "latitude": "45.66678000",
+      "longitude": "-73.88249000"
+    },
+    {
+      "id": 16223,
+      "name": "Bois-des-Filion",
+      "latitude": "45.66678000",
+      "longitude": "-73.74918000"
+    },
+    {
+      "id": 16224,
+      "name": "Boisbriand",
+      "latitude": "45.61678000",
+      "longitude": "-73.83249000"
+    },
+    {
+      "id": 16227,
+      "name": "Bonaventure",
+      "latitude": "48.04573000",
+      "longitude": "-65.49259000"
+    },
+    {
+      "id": 16231,
+      "name": "Boucherville",
+      "latitude": "45.59104000",
+      "longitude": "-73.43605000"
+    },
+    {
+      "id": 16241,
+      "name": "Breakeyville",
+      "latitude": "46.68037000",
+      "longitude": "-71.22327000"
+    },
+    {
+      "id": 16244,
+      "name": "Bromont",
+      "latitude": "45.31678000",
+      "longitude": "-72.64912000"
+    },
+    {
+      "id": 16246,
+      "name": "Brossard",
+      "latitude": "45.45008000",
+      "longitude": "-73.46583000"
+    },
+    {
+      "id": 16247,
+      "name": "Brownsburg-Chatham",
+      "latitude": "45.68342000",
+      "longitude": "-74.41590000"
+    },
+    {
+      "id": 16249,
+      "name": "Buckingham",
+      "latitude": "45.58563000",
+      "longitude": "-75.42080000"
+    },
+    {
+      "id": 16256,
+      "name": "Cabano",
+      "latitude": "47.68065000",
+      "longitude": "-68.87810000"
+    },
+    {
+      "id": 16258,
+      "name": "Cacouna",
+      "latitude": "47.91657000",
+      "longitude": "-69.50054000"
+    },
+    {
+      "id": 16266,
+      "name": "Candiac",
+      "latitude": "45.38338000",
+      "longitude": "-73.51587000"
+    },
+    {
+      "id": 16269,
+      "name": "Cantley",
+      "latitude": "45.56680000",
+      "longitude": "-75.78265000"
+    },
+    {
+      "id": 16270,
+      "name": "Cap-Chat",
+      "latitude": "49.10009000",
+      "longitude": "-66.68212000"
+    },
+    {
+      "id": 16271,
+      "name": "Cap-Santé",
+      "latitude": "46.67159000",
+      "longitude": "-71.78812000"
+    },
+    {
+      "id": 16273,
+      "name": "Capitale-Nationale",
+      "latitude": "47.37600000",
+      "longitude": "-71.12337000"
+    },
+    {
+      "id": 16278,
+      "name": "Carignan",
+      "latitude": "45.45008000",
+      "longitude": "-73.29916000"
+    },
+    {
+      "id": 16279,
+      "name": "Carleton",
+      "latitude": "48.09838000",
+      "longitude": "-66.10036000"
+    },
+    {
+      "id": 16281,
+      "name": "Carleton-sur-Mer",
+      "latitude": "48.10749000",
+      "longitude": "-66.12800000"
+    },
+    {
+      "id": 16290,
+      "name": "Centre-du-Québec",
+      "latitude": "46.01985000",
+      "longitude": "-71.98242000"
+    },
+    {
+      "id": 16291,
+      "name": "Chambly",
+      "latitude": "45.45008000",
+      "longitude": "-73.28246000"
+    },
+    {
+      "id": 16292,
+      "name": "Chambord",
+      "latitude": "48.43339000",
+      "longitude": "-72.06583000"
+    },
+    {
+      "id": 16293,
+      "name": "Chandler",
+      "latitude": "48.34935000",
+      "longitude": "-64.67926000"
+    },
+    {
+      "id": 16295,
+      "name": "Chapais",
+      "latitude": "49.78344000",
+      "longitude": "-74.84919000"
+    },
+    {
+      "id": 16296,
+      "name": "Charlemagne",
+      "latitude": "45.71678000",
+      "longitude": "-73.48247000"
+    },
+    {
+      "id": 16310,
+      "name": "Château-Richer",
+      "latitude": "46.96031000",
+      "longitude": "-71.03219000"
+    },
+    {
+      "id": 16311,
+      "name": "Châteauguay",
+      "latitude": "45.38338000",
+      "longitude": "-73.74919000"
+    },
+    {
+      "id": 16301,
+      "name": "Chaudière-Appalaches",
+      "latitude": "46.55500000",
+      "longitude": "-70.83080000"
+    },
+    {
+      "id": 16303,
+      "name": "Chertsey",
+      "latitude": "46.07109000",
+      "longitude": "-73.89095000"
+    },
+    {
+      "id": 16307,
+      "name": "Chibougamau",
+      "latitude": "49.91684000",
+      "longitude": "-74.36586000"
+    },
+    {
+      "id": 16309,
+      "name": "Chute-aux-Outardes",
+      "latitude": "49.11679000",
+      "longitude": "-68.39896000"
+    },
+    {
+      "id": 16318,
+      "name": "Coaticook",
+      "latitude": "45.13339000",
+      "longitude": "-71.79907000"
+    },
+    {
+      "id": 16330,
+      "name": "Contrecoeur",
+      "latitude": "45.85008000",
+      "longitude": "-73.23245000"
+    },
+    {
+      "id": 16331,
+      "name": "Cookshire",
+      "latitude": "45.41536000",
+      "longitude": "-71.62962000"
+    },
+    {
+      "id": 16332,
+      "name": "Cookshire-Eaton",
+      "latitude": "45.41675000",
+      "longitude": "-71.63240000"
+    },
+    {
+      "id": 16351,
+      "name": "Côte-Nord",
+      "latitude": "50.86683000",
+      "longitude": "-65.81541000"
+    },
+    {
+      "id": 16352,
+      "name": "Côte-Saint-Luc",
+      "latitude": "45.46536000",
+      "longitude": "-73.66585000"
+    },
+    {
+      "id": 16340,
+      "name": "Coteau-du-Lac",
+      "latitude": "45.30008000",
+      "longitude": "-74.18253000"
+    },
+    {
+      "id": 16343,
+      "name": "Cowansville",
+      "latitude": "45.20008000",
+      "longitude": "-72.74913000"
+    },
+    {
+      "id": 16345,
+      "name": "Crabtree",
+      "latitude": "45.96677000",
+      "longitude": "-73.46586000"
+    },
+    {
+      "id": 16354,
+      "name": "Danville",
+      "latitude": "45.78337000",
+      "longitude": "-72.01580000"
+    },
+    {
+      "id": 16357,
+      "name": "Daveluyville",
+      "latitude": "46.20006000",
+      "longitude": "-72.13239000"
+    },
+    {
+      "id": 16365,
+      "name": "Delson",
+      "latitude": "45.36678000",
+      "longitude": "-73.54917000"
+    },
+    {
+      "id": 16370,
+      "name": "Deux-Montagnes",
+      "latitude": "45.53455000",
+      "longitude": "-73.90168000"
+    },
+    {
+      "id": 16376,
+      "name": "Disraeli",
+      "latitude": "45.90007000",
+      "longitude": "-71.34907000"
+    },
+    {
+      "id": 16377,
+      "name": "Dolbeau-Mistassini",
+      "latitude": "48.87860000",
+      "longitude": "-72.23142000"
+    },
+    {
+      "id": 16378,
+      "name": "Dollard-Des Ormeaux",
+      "latitude": "45.49452000",
+      "longitude": "-73.82419000"
+    },
+    {
+      "id": 16379,
+      "name": "Donnacona",
+      "latitude": "46.68042000",
+      "longitude": "-71.72390000"
+    },
+    {
+      "id": 16381,
+      "name": "Dorval",
+      "latitude": "45.44730000",
+      "longitude": "-73.75335000"
+    },
+    {
+      "id": 16384,
+      "name": "Drummondville",
+      "latitude": "45.88336000",
+      "longitude": "-72.48241000"
+    },
+    {
+      "id": 16388,
+      "name": "Dunham",
+      "latitude": "45.13338000",
+      "longitude": "-72.79913000"
+    },
+    {
+      "id": 16391,
+      "name": "East Angus",
+      "latitude": "45.48338000",
+      "longitude": "-71.66577000"
+    },
+    {
+      "id": 16392,
+      "name": "East Broughton",
+      "latitude": "46.21358000",
+      "longitude": "-71.07674000"
+    },
+    {
+      "id": 16418,
+      "name": "Farnham",
+      "latitude": "45.28338000",
+      "longitude": "-72.98244000"
+    },
+    {
+      "id": 16419,
+      "name": "Ferme-Neuve",
+      "latitude": "46.70011000",
+      "longitude": "-75.44929000"
+    },
+    {
+      "id": 16420,
+      "name": "Fermont",
+      "latitude": "52.78345000",
+      "longitude": "-67.08204000"
+    },
+    {
+      "id": 16426,
+      "name": "Forestville",
+      "latitude": "48.73808000",
+      "longitude": "-69.08478000"
+    },
+    {
+      "id": 16436,
+      "name": "Fort-Coulonge",
+      "latitude": "45.85011000",
+      "longitude": "-76.73272000"
+    },
+    {
+      "id": 16437,
+      "name": "Fossambault-sur-le-Lac",
+      "latitude": "46.87662000",
+      "longitude": "-71.61541000"
+    },
+    {
+      "id": 16439,
+      "name": "Franklin",
+      "latitude": "45.03338000",
+      "longitude": "-73.91591000"
+    },
+    {
+      "id": 16447,
+      "name": "Gaspé",
+      "latitude": "48.83341000",
+      "longitude": "-64.48194000"
+    },
+    {
+      "id": 16448,
+      "name": "Gaspésie-Îles-de-la-Madeleine",
+      "latitude": "48.87555000",
+      "longitude": "-65.40710000"
+    },
+    {
+      "id": 16449,
+      "name": "Gatineau",
+      "latitude": "45.47723000",
+      "longitude": "-75.70164000"
+    },
+    {
+      "id": 16456,
+      "name": "Godefroy",
+      "latitude": "51.75012000",
+      "longitude": "-68.08213000"
+    },
+    {
+      "id": 16461,
+      "name": "Granby",
+      "latitude": "45.40008000",
+      "longitude": "-72.73243000"
+    },
+    {
+      "id": 16485,
+      "name": "Hampstead",
+      "latitude": "45.48064000",
+      "longitude": "-73.66307000"
+    },
+    {
+      "id": 16495,
+      "name": "Hauterive",
+      "latitude": "49.19572000",
+      "longitude": "-68.25813000"
+    },
+    {
+      "id": 16496,
+      "name": "Havre-Saint-Pierre",
+      "latitude": "50.24342000",
+      "longitude": "-63.60264000"
+    },
+    {
+      "id": 16517,
+      "name": "Hérouxville",
+      "latitude": "46.66617000",
+      "longitude": "-72.62512000"
+    },
+    {
+      "id": 16511,
+      "name": "Hudson",
+      "latitude": "45.45008000",
+      "longitude": "-74.14922000"
+    },
+    {
+      "id": 16514,
+      "name": "Huntingdon",
+      "latitude": "45.08339000",
+      "longitude": "-74.16593000"
+    },
+    {
+      "id": 16529,
+      "name": "Joliette",
+      "latitude": "46.01640000",
+      "longitude": "-73.42360000"
+    },
+    {
+      "id": 16530,
+      "name": "Jonquière",
+      "latitude": "48.41648000",
+      "longitude": "-71.24884000"
+    },
+    {
+      "id": 16549,
+      "name": "Kingsey Falls",
+      "latitude": "45.85007000",
+      "longitude": "-72.06580000"
+    },
+    {
+      "id": 16551,
+      "name": "Kirkland",
+      "latitude": "45.45008000",
+      "longitude": "-73.86586000"
+    },
+    {
+      "id": 16556,
+      "name": "L'Ancienne-Lorette",
+      "latitude": "46.79392000",
+      "longitude": "-71.35191000"
+    },
+    {
+      "id": 16557,
+      "name": "L'Ange-Gardien",
+      "latitude": "46.91976000",
+      "longitude": "-71.08253000"
+    },
+    {
+      "id": 16558,
+      "name": "L'Ascension-de-Notre-Seigneur",
+      "latitude": "48.68339000",
+      "longitude": "-71.66580000"
+    },
+    {
+      "id": 16559,
+      "name": "L'Assomption",
+      "latitude": "45.82318000",
+      "longitude": "-73.42940000"
+    },
+    {
+      "id": 16561,
+      "name": "L'Épiphanie",
+      "latitude": "45.85008000",
+      "longitude": "-73.48246000"
+    },
+    {
+      "id": 16562,
+      "name": "L'Île-Perrot",
+      "latitude": "45.38338000",
+      "longitude": "-73.94920000"
+    },
+    {
+      "id": 16564,
+      "name": "La Conception",
+      "latitude": "46.15009000",
+      "longitude": "-74.69925000"
+    },
+    {
+      "id": 16565,
+      "name": "La Haute-Saint-Charles",
+      "latitude": "46.89028000",
+      "longitude": "-71.37222000"
+    },
+    {
+      "id": 16566,
+      "name": "La Malbaie",
+      "latitude": "47.65400000",
+      "longitude": "-70.15268000"
+    },
+    {
+      "id": 16567,
+      "name": "La Minerve",
+      "latitude": "46.25009000",
+      "longitude": "-74.93257000"
+    },
+    {
+      "id": 16568,
+      "name": "La Pocatière",
+      "latitude": "47.36733000",
+      "longitude": "-70.03484000"
+    },
+    {
+      "id": 16569,
+      "name": "La Prairie",
+      "latitude": "45.41678000",
+      "longitude": "-73.49917000"
+    },
+    {
+      "id": 16571,
+      "name": "La Sarre",
+      "latitude": "48.80019000",
+      "longitude": "-79.19964000"
+    },
+    {
+      "id": 16572,
+      "name": "La Tuque",
+      "latitude": "47.43337000",
+      "longitude": "-72.78240000"
+    },
+    {
+      "id": 16573,
+      "name": "Labelle",
+      "latitude": "46.28339000",
+      "longitude": "-74.73255000"
+    },
+    {
+      "id": 16577,
+      "name": "Lac-Alouette",
+      "latitude": "45.81698000",
+      "longitude": "-73.95920000"
+    },
+    {
+      "id": 16578,
+      "name": "Lac-Brome",
+      "latitude": "45.21678000",
+      "longitude": "-72.51581000"
+    },
+    {
+      "id": 16579,
+      "name": "Lac-Connelly",
+      "latitude": "45.89788000",
+      "longitude": "-73.97230000"
+    },
+    {
+      "id": 16580,
+      "name": "Lac-Lapierre",
+      "latitude": "45.89837000",
+      "longitude": "-73.77308000"
+    },
+    {
+      "id": 16581,
+      "name": "Lac-Mégantic",
+      "latitude": "45.58338000",
+      "longitude": "-70.88234000"
+    },
+    {
+      "id": 16582,
+      "name": "Lac-Simon",
+      "latitude": "46.15699000",
+      "longitude": "-74.74129000"
+    },
+    {
+      "id": 16583,
+      "name": "Lachute",
+      "latitude": "45.65008000",
+      "longitude": "-74.33253000"
+    },
+    {
+      "id": 16584,
+      "name": "Lacolle",
+      "latitude": "45.08338000",
+      "longitude": "-73.36585000"
+    },
+    {
+      "id": 16599,
+      "name": "Lanoraie",
+      "latitude": "45.96677000",
+      "longitude": "-73.21585000"
+    },
+    {
+      "id": 16604,
+      "name": "Laval",
+      "latitude": "45.56995000",
+      "longitude": "-73.69200000"
+    },
+    {
+      "id": 16605,
+      "name": "Lavaltrie",
+      "latitude": "45.88338000",
+      "longitude": "-73.28245000"
+    },
+    {
+      "id": 16606,
+      "name": "Le Bic",
+      "latitude": "48.37549000",
+      "longitude": "-68.69415000"
+    },
+    {
+      "id": 17224,
+      "name": "le Plateau",
+      "latitude": "45.43514000",
+      "longitude": "-75.78030000"
+    },
+    {
+      "id": 16608,
+      "name": "Lebel-sur-Quévillon",
+      "latitude": "49.05018000",
+      "longitude": "-76.98273000"
+    },
+    {
+      "id": 16609,
+      "name": "Leblanc",
+      "latitude": "48.26683000",
+      "longitude": "-74.34914000"
+    },
+    {
+      "id": 16612,
+      "name": "Les Cèdres",
+      "latitude": "45.30008000",
+      "longitude": "-74.04922000"
+    },
+    {
+      "id": 16611,
+      "name": "Les Coteaux",
+      "latitude": "45.28338000",
+      "longitude": "-74.23254000"
+    },
+    {
+      "id": 16613,
+      "name": "Les Escoumins",
+      "latitude": "48.35191000",
+      "longitude": "-69.40724000"
+    },
+    {
+      "id": 16639,
+      "name": "Lévis",
+      "latitude": "46.80326000",
+      "longitude": "-71.17793000"
+    },
+    {
+      "id": 16620,
+      "name": "Linière",
+      "latitude": "46.00007000",
+      "longitude": "-70.41572000"
+    },
+    {
+      "id": 16628,
+      "name": "Longueuil",
+      "latitude": "45.53121000",
+      "longitude": "-73.51806000"
+    },
+    {
+      "id": 16630,
+      "name": "Lorraine",
+      "latitude": "45.68338000",
+      "longitude": "-73.78249000"
+    },
+    {
+      "id": 16631,
+      "name": "Louiseville",
+      "latitude": "46.25594000",
+      "longitude": "-72.94145000"
+    },
+    {
+      "id": 16634,
+      "name": "Luceville",
+      "latitude": "48.54498000",
+      "longitude": "-68.39658000"
+    },
+    {
+      "id": 16640,
+      "name": "Macamic",
+      "latitude": "48.75018000",
+      "longitude": "-78.99962000"
+    },
+    {
+      "id": 16644,
+      "name": "Magog",
+      "latitude": "45.26678000",
+      "longitude": "-72.14909000"
+    },
+    {
+      "id": 16646,
+      "name": "Malartic",
+      "latitude": "48.13348000",
+      "longitude": "-78.13283000"
+    },
+    {
+      "id": 16647,
+      "name": "Maliotenam",
+      "latitude": "50.21119000",
+      "longitude": "-66.18164000"
+    },
+    {
+      "id": 16648,
+      "name": "Manawan",
+      "latitude": "47.22029000",
+      "longitude": "-74.38606000"
+    },
+    {
+      "id": 16649,
+      "name": "Mandeville",
+      "latitude": "46.36677000",
+      "longitude": "-73.34915000"
+    },
+    {
+      "id": 16652,
+      "name": "Maniwaki",
+      "latitude": "46.38341000",
+      "longitude": "-75.96605000"
+    },
+    {
+      "id": 16659,
+      "name": "Maria",
+      "latitude": "48.17490000",
+      "longitude": "-65.98595000"
+    },
+    {
+      "id": 16660,
+      "name": "Marieville",
+      "latitude": "45.43338000",
+      "longitude": "-73.16585000"
+    },
+    {
+      "id": 16665,
+      "name": "Mascouche",
+      "latitude": "45.74965000",
+      "longitude": "-73.59956000"
+    },
+    {
+      "id": 16666,
+      "name": "Maskinongé",
+      "latitude": "46.22860000",
+      "longitude": "-73.01917000"
+    },
+    {
+      "id": 16667,
+      "name": "Matagami",
+      "latitude": "49.75018000",
+      "longitude": "-77.63277000"
+    },
+    {
+      "id": 16668,
+      "name": "Matane",
+      "latitude": "48.82857000",
+      "longitude": "-67.52197000"
+    },
+    {
+      "id": 16670,
+      "name": "Mauricie",
+      "latitude": "47.55009000",
+      "longitude": "-73.41583000"
+    },
+    {
+      "id": 16678,
+      "name": "Melocheville",
+      "latitude": "45.31726000",
+      "longitude": "-73.93710000"
+    },
+    {
+      "id": 16680,
+      "name": "Mercier",
+      "latitude": "45.31678000",
+      "longitude": "-73.74919000"
+    },
+    {
+      "id": 16725,
+      "name": "Métabetchouan",
+      "latitude": "48.36679000",
+      "longitude": "-72.01583000"
+    },
+    {
+      "id": 16682,
+      "name": "Metabetchouan-Lac-a-la-Croix",
+      "latitude": "48.41000000",
+      "longitude": "-71.78000000"
+    },
+    {
+      "id": 16694,
+      "name": "Mirabel",
+      "latitude": "45.65008000",
+      "longitude": "-74.08251000"
+    },
+    {
+      "id": 16699,
+      "name": "Mistissini",
+      "latitude": "50.41667000",
+      "longitude": "-73.88333000"
+    },
+    {
+      "id": 16701,
+      "name": "Mont-Joli",
+      "latitude": "48.58388000",
+      "longitude": "-68.19214000"
+    },
+    {
+      "id": 16702,
+      "name": "Mont-Laurier",
+      "latitude": "46.55011000",
+      "longitude": "-75.49930000"
+    },
+    {
+      "id": 16703,
+      "name": "Mont-Royal",
+      "latitude": "45.51675000",
+      "longitude": "-73.64918000"
+    },
+    {
+      "id": 16704,
+      "name": "Mont-Saint-Grégoire",
+      "latitude": "45.33338000",
+      "longitude": "-73.16585000"
+    },
+    {
+      "id": 16705,
+      "name": "Mont-Saint-Hilaire",
+      "latitude": "45.56515000",
+      "longitude": "-73.18680000"
+    },
+    {
+      "id": 16706,
+      "name": "Mont-Tremblant",
+      "latitude": "46.21274000",
+      "longitude": "-74.58438000"
+    },
+    {
+      "id": 16708,
+      "name": "Montmagny",
+      "latitude": "46.98043000",
+      "longitude": "-70.55493000"
+    },
+    {
+      "id": 16709,
+      "name": "Montréal",
+      "latitude": "45.50008000",
+      "longitude": "-73.68248000"
+    },
+    {
+      "id": 16710,
+      "name": "Montréal-Est",
+      "latitude": "45.63202000",
+      "longitude": "-73.50750000"
+    },
+    {
+      "id": 16711,
+      "name": "Montréal-Ouest",
+      "latitude": "45.45286000",
+      "longitude": "-73.64918000"
+    },
+    {
+      "id": 16718,
+      "name": "Morin-Heights",
+      "latitude": "45.90009000",
+      "longitude": "-74.24922000"
+    },
+    {
+      "id": 16732,
+      "name": "Napierville",
+      "latitude": "45.18648000",
+      "longitude": "-73.40468000"
+    },
+    {
+      "id": 16737,
+      "name": "Neuville",
+      "latitude": "46.69823000",
+      "longitude": "-71.58275000"
+    },
+    {
+      "id": 16738,
+      "name": "New Carlisle",
+      "latitude": "48.00956000",
+      "longitude": "-65.33621000"
+    },
+    {
+      "id": 16743,
+      "name": "New-Richmond",
+      "latitude": "48.16059000",
+      "longitude": "-65.85823000"
+    },
+    {
+      "id": 16746,
+      "name": "Nicolet",
+      "latitude": "46.21676000",
+      "longitude": "-72.61582000"
+    },
+    {
+      "id": 16751,
+      "name": "Nord-du-Québec",
+      "latitude": "51.96200000",
+      "longitude": "-74.89610000"
+    },
+    {
+      "id": 16754,
+      "name": "Normandin",
+      "latitude": "48.83328000",
+      "longitude": "-72.53209000"
+    },
+    {
+      "id": 16764,
+      "name": "Notre-Dame-de-Grâce",
+      "latitude": "45.47675000",
+      "longitude": "-73.61432000"
+    },
+    {
+      "id": 16765,
+      "name": "Notre-Dame-de-l'Île-Perrot",
+      "latitude": "45.36678000",
+      "longitude": "-73.93250000"
+    },
+    {
+      "id": 16766,
+      "name": "Notre-Dame-des-Prairies",
+      "latitude": "46.05007000",
+      "longitude": "-73.43245000"
+    },
+    {
+      "id": 16767,
+      "name": "Notre-Dame-du-Lac",
+      "latitude": "46.75012000",
+      "longitude": "-79.04961000"
+    },
+    {
+      "id": 16768,
+      "name": "Notre-Dame-du-Mont-Carmel",
+      "latitude": "46.01680000",
+      "longitude": "-75.08259000"
+    },
+    {
+      "id": 16771,
+      "name": "Oka",
+      "latitude": "45.46489000",
+      "longitude": "-74.08892000"
+    },
+    {
+      "id": 16780,
+      "name": "Ormstown",
+      "latitude": "45.13338000",
+      "longitude": "-73.99922000"
+    },
+    {
+      "id": 16786,
+      "name": "Otterburn Park",
+      "latitude": "45.53338000",
+      "longitude": "-73.21585000"
+    },
+    {
+      "id": 16787,
+      "name": "Outaouais",
+      "latitude": "46.26681000",
+      "longitude": "-76.31606000"
+    },
+    {
+      "id": 16794,
+      "name": "Papineauville",
+      "latitude": "45.61680000",
+      "longitude": "-75.01599000"
+    },
+    {
+      "id": 16795,
+      "name": "Parc-Boutin",
+      "latitude": "45.29209000",
+      "longitude": "-73.26154000"
+    },
+    {
+      "id": 16821,
+      "name": "Piedmont",
+      "latitude": "45.90008000",
+      "longitude": "-74.13251000"
+    },
+    {
+      "id": 16822,
+      "name": "Pierreville",
+      "latitude": "46.07034000",
+      "longitude": "-72.81125000"
+    },
+    {
+      "id": 16825,
+      "name": "Pincourt",
+      "latitude": "45.38338000",
+      "longitude": "-73.98250000"
+    },
+    {
+      "id": 16829,
+      "name": "Plessisville",
+      "latitude": "46.21856000",
+      "longitude": "-71.76201000"
+    },
+    {
+      "id": 16830,
+      "name": "Pohénégamook",
+      "latitude": "47.46315000",
+      "longitude": "-69.22666000"
+    },
+    {
+      "id": 16831,
+      "name": "Pointe-Calumet",
+      "latitude": "45.50008000",
+      "longitude": "-73.96590000"
+    },
+    {
+      "id": 16832,
+      "name": "Pointe-Claire",
+      "latitude": "45.44868000",
+      "longitude": "-73.81669000"
+    },
+    {
+      "id": 16833,
+      "name": "Pointe-du-Lac",
+      "latitude": "48.50009000",
+      "longitude": "-71.78241000"
+    },
+    {
+      "id": 16835,
+      "name": "Pont Rouge",
+      "latitude": "48.88332000",
+      "longitude": "-72.08247000"
+    },
+    {
+      "id": 16836,
+      "name": "Pont-Rouge",
+      "latitude": "46.75468000",
+      "longitude": "-71.69566000"
+    },
+    {
+      "id": 16847,
+      "name": "Port-Cartier",
+      "latitude": "50.03339000",
+      "longitude": "-66.86545000"
+    },
+    {
+      "id": 16849,
+      "name": "Portneuf",
+      "latitude": "46.69058000",
+      "longitude": "-71.89011000"
+    },
+    {
+      "id": 16862,
+      "name": "Prévost",
+      "latitude": "45.86678000",
+      "longitude": "-74.08251000"
+    },
+    {
+      "id": 16860,
+      "name": "Princeville",
+      "latitude": "46.17163000",
+      "longitude": "-71.87462000"
+    },
+    {
+      "id": 16867,
+      "name": "Québec",
+      "latitude": "46.81228000",
+      "longitude": "-71.21454000"
+    },
+    {
+      "id": 16870,
+      "name": "Rawdon",
+      "latitude": "46.05007000",
+      "longitude": "-73.71587000"
+    },
+    {
+      "id": 16881,
+      "name": "Repentigny",
+      "latitude": "45.74222000",
+      "longitude": "-73.45008000"
+    },
+    {
+      "id": 16883,
+      "name": "Richelieu",
+      "latitude": "45.44336000",
+      "longitude": "-73.24602000"
+    },
+    {
+      "id": 16886,
+      "name": "Richmond",
+      "latitude": "45.66677000",
+      "longitude": "-72.14910000"
+    },
+    {
+      "id": 16891,
+      "name": "Rigaud",
+      "latitude": "45.47927000",
+      "longitude": "-74.30238000"
+    },
+    {
+      "id": 16893,
+      "name": "Rimouski",
+      "latitude": "48.44879000",
+      "longitude": "-68.52396000"
+    },
+    {
+      "id": 16896,
+      "name": "Rivière-du-Loup",
+      "latitude": "47.82699000",
+      "longitude": "-69.54243000"
+    },
+    {
+      "id": 16895,
+      "name": "Rivière-Rouge",
+      "latitude": "46.41679000",
+      "longitude": "-74.86596000"
+    },
+    {
+      "id": 16897,
+      "name": "Roberval",
+      "latitude": "48.51680000",
+      "longitude": "-72.23244000"
+    },
+    {
+      "id": 16899,
+      "name": "Rock Forest",
+      "latitude": "45.35699000",
+      "longitude": "-71.99676000"
+    },
+    {
+      "id": 16902,
+      "name": "Rosemère",
+      "latitude": "45.63338000",
+      "longitude": "-73.79919000"
+    },
+    {
+      "id": 16906,
+      "name": "Rougemont",
+      "latitude": "45.43338000",
+      "longitude": "-73.04914000"
+    },
+    {
+      "id": 16907,
+      "name": "Rouyn-Noranda",
+      "latitude": "48.23656000",
+      "longitude": "-79.02311000"
+    },
+    {
+      "id": 16911,
+      "name": "Sacré-Coeur",
+      "latitude": "48.22970000",
+      "longitude": "-69.80061000"
+    },
+    {
+      "id": 16912,
+      "name": "Saguenay",
+      "latitude": "48.41675000",
+      "longitude": "-71.06573000"
+    },
+    {
+      "id": 16915,
+      "name": "Saint-Adolphe-d'Howard",
+      "latitude": "45.96679000",
+      "longitude": "-74.33253000"
+    },
+    {
+      "id": 16916,
+      "name": "Saint-Alexandre",
+      "latitude": "45.50010000",
+      "longitude": "-75.74935000"
+    },
+    {
+      "id": 16917,
+      "name": "Saint-Amable",
+      "latitude": "45.65008000",
+      "longitude": "-73.29916000"
+    },
+    {
+      "id": 16918,
+      "name": "Saint-Ambroise",
+      "latitude": "48.55009000",
+      "longitude": "-71.33238000"
+    },
+    {
+      "id": 16919,
+      "name": "Saint-André-Avellin",
+      "latitude": "45.71680000",
+      "longitude": "-75.06599000"
+    },
+    {
+      "id": 16920,
+      "name": "Saint-Anselme",
+      "latitude": "46.62922000",
+      "longitude": "-70.97340000"
+    },
+    {
+      "id": 16922,
+      "name": "Saint-Antoine-de-Tilly",
+      "latitude": "46.66346000",
+      "longitude": "-71.57335000"
+    },
+    {
+      "id": 16923,
+      "name": "Saint-Augustin",
+      "latitude": "51.22602000",
+      "longitude": "-58.65017000"
+    },
+    {
+      "id": 16924,
+      "name": "Saint-Augustin-de-Desmaures",
+      "latitude": "46.74064000",
+      "longitude": "-71.45131000"
+    },
+    {
+      "id": 16925,
+      "name": "Saint-Barnabé-Sud",
+      "latitude": "45.72977000",
+      "longitude": "-72.92244000"
+    },
+    {
+      "id": 16926,
+      "name": "Saint-Basile-le-Grand",
+      "latitude": "45.53338000",
+      "longitude": "-73.28246000"
+    },
+    {
+      "id": 16927,
+      "name": "Saint-Boniface",
+      "latitude": "46.50011000",
+      "longitude": "-75.98264000"
+    },
+    {
+      "id": 16928,
+      "name": "Saint-Bruno",
+      "latitude": "48.46679000",
+      "longitude": "-71.64910000"
+    },
+    {
+      "id": 16929,
+      "name": "Saint-Bruno-de-Guigues",
+      "latitude": "47.46685000",
+      "longitude": "-79.43296000"
+    },
+    {
+      "id": 16930,
+      "name": "Saint-Bruno-de-Montarville",
+      "latitude": "45.53341000",
+      "longitude": "-73.34916000"
+    },
+    {
+      "id": 16931,
+      "name": "Saint-Canut",
+      "latitude": "45.71502000",
+      "longitude": "-74.08376000"
+    },
+    {
+      "id": 16935,
+      "name": "Saint-Césaire",
+      "latitude": "45.41678000",
+      "longitude": "-72.99914000"
+    },
+    {
+      "id": 16932,
+      "name": "Saint-Charles",
+      "latitude": "45.70288000",
+      "longitude": "-73.55417000"
+    },
+    {
+      "id": 16936,
+      "name": "Saint-Côme-Linière",
+      "latitude": "46.06677000",
+      "longitude": "-70.51573000"
+    },
+    {
+      "id": 16933,
+      "name": "Saint-Constant",
+      "latitude": "45.36678000",
+      "longitude": "-73.56588000"
+    },
+    {
+      "id": 16934,
+      "name": "Saint-Cyrille-de-Wendover",
+      "latitude": "45.93336000",
+      "longitude": "-72.43241000"
+    },
+    {
+      "id": 16937,
+      "name": "Saint-Damase",
+      "latitude": "45.53341000",
+      "longitude": "-72.99914000"
+    },
+    {
+      "id": 16938,
+      "name": "Saint-Denis-sur-Richelieu",
+      "latitude": "45.78338000",
+      "longitude": "-73.14915000"
+    },
+    {
+      "id": 16939,
+      "name": "Saint-Donat-de-Montcalm",
+      "latitude": "46.31868000",
+      "longitude": "-74.22171000"
+    },
+    {
+      "id": 16992,
+      "name": "Saint-Édouard",
+      "latitude": "45.23338000",
+      "longitude": "-73.51588000"
+    },
+    {
+      "id": 16940,
+      "name": "Saint-Elzéar",
+      "latitude": "45.60338000",
+      "longitude": "-73.72698000"
+    },
+    {
+      "id": 16993,
+      "name": "Saint-Éphrem-de-Beauce",
+      "latitude": "46.06677000",
+      "longitude": "-70.94905000"
+    },
+    {
+      "id": 16941,
+      "name": "Saint-Eustache",
+      "latitude": "45.56500000",
+      "longitude": "-73.90554000"
+    },
+    {
+      "id": 16942,
+      "name": "Saint-Félicien",
+      "latitude": "48.65007000",
+      "longitude": "-72.44906000"
+    },
+    {
+      "id": 16943,
+      "name": "Saint-Félix-de-Valois",
+      "latitude": "46.16977000",
+      "longitude": "-73.42525000"
+    },
+    {
+      "id": 16944,
+      "name": "Saint-Gabriel",
+      "latitude": "46.30007000",
+      "longitude": "-73.38245000"
+    },
+    {
+      "id": 16947,
+      "name": "Saint-Gédéon",
+      "latitude": "48.50009000",
+      "longitude": "-71.76581000"
+    },
+    {
+      "id": 16945,
+      "name": "Saint-Georges",
+      "latitude": "46.11353000",
+      "longitude": "-70.66526000"
+    },
+    {
+      "id": 16946,
+      "name": "Saint-Germain-de-Grantham",
+      "latitude": "45.83337000",
+      "longitude": "-72.56582000"
+    },
+    {
+      "id": 16948,
+      "name": "Saint-Henri",
+      "latitude": "46.69314000",
+      "longitude": "-71.06927000"
+    },
+    {
+      "id": 16949,
+      "name": "Saint-Hippolyte",
+      "latitude": "45.93338000",
+      "longitude": "-74.01590000"
+    },
+    {
+      "id": 16950,
+      "name": "Saint-Honoré",
+      "latitude": "48.53338000",
+      "longitude": "-71.08236000"
+    },
+    {
+      "id": 16951,
+      "name": "Saint-Hyacinthe",
+      "latitude": "45.63076000",
+      "longitude": "-72.95699000"
+    },
+    {
+      "id": 16952,
+      "name": "Saint-Isidore",
+      "latitude": "47.43345000",
+      "longitude": "-79.29965000"
+    },
+    {
+      "id": 16953,
+      "name": "Saint-Jacques-le-Mineur",
+      "latitude": "45.28338000",
+      "longitude": "-73.41587000"
+    },
+    {
+      "id": 16954,
+      "name": "Saint-Jean-Baptiste",
+      "latitude": "45.38060000",
+      "longitude": "-74.01210000"
+    },
+    {
+      "id": 16955,
+      "name": "Saint-Jean-sur-Richelieu",
+      "latitude": "45.30713000",
+      "longitude": "-73.26259000"
+    },
+    {
+      "id": 16960,
+      "name": "Saint-Jérôme",
+      "latitude": "45.78036000",
+      "longitude": "-74.00365000"
+    },
+    {
+      "id": 16956,
+      "name": "Saint-Joseph",
+      "latitude": "45.95817000",
+      "longitude": "-73.22025000"
+    },
+    {
+      "id": 16957,
+      "name": "Saint-Joseph-de-Beauce",
+      "latitude": "46.30000000",
+      "longitude": "-70.86667000"
+    },
+    {
+      "id": 16958,
+      "name": "Saint-Joseph-de-Coleraine",
+      "latitude": "45.96677000",
+      "longitude": "-71.36577000"
+    },
+    {
+      "id": 16959,
+      "name": "Saint-Joseph-du-Lac",
+      "latitude": "45.53338000",
+      "longitude": "-73.99920000"
+    },
+    {
+      "id": 16961,
+      "name": "Saint-Lambert-de-Lauzon",
+      "latitude": "46.58624000",
+      "longitude": "-71.20892000"
+    },
+    {
+      "id": 16962,
+      "name": "Saint-Laurent",
+      "latitude": "45.50008000",
+      "longitude": "-73.66585000"
+    },
+    {
+      "id": 16963,
+      "name": "Saint-Lazare",
+      "latitude": "45.40008000",
+      "longitude": "-74.13256000"
+    },
+    {
+      "id": 16966,
+      "name": "Saint-Léonard",
+      "latitude": "45.58773000",
+      "longitude": "-73.59501000"
+    },
+    {
+      "id": 16968,
+      "name": "Saint-Léonard-d'Aston",
+      "latitude": "46.10006000",
+      "longitude": "-72.36580000"
+    },
+    {
+      "id": 16964,
+      "name": "Saint-Liboire",
+      "latitude": "45.65068000",
+      "longitude": "-72.76348000"
+    },
+    {
+      "id": 16965,
+      "name": "Saint-Lin-Laurentides",
+      "latitude": "45.85008000",
+      "longitude": "-73.76588000"
+    },
+    {
+      "id": 16969,
+      "name": "Saint-Marc-des-Carrières",
+      "latitude": "46.68335000",
+      "longitude": "-72.04910000"
+    },
+    {
+      "id": 16970,
+      "name": "Saint-Mathieu",
+      "latitude": "45.31678000",
+      "longitude": "-73.51587000"
+    },
+    {
+      "id": 16971,
+      "name": "Saint-Michel",
+      "latitude": "45.56758000",
+      "longitude": "-73.62168000"
+    },
+    {
+      "id": 16972,
+      "name": "Saint-Michel-des-Saints",
+      "latitude": "46.67702000",
+      "longitude": "-73.91881000"
+    },
+    {
+      "id": 16973,
+      "name": "Saint-Nazaire",
+      "latitude": "48.58944000",
+      "longitude": "-71.55247000"
+    },
+    {
+      "id": 16974,
+      "name": "Saint-Norbert",
+      "latitude": "46.16949000",
+      "longitude": "-73.31494000"
+    },
+    {
+      "id": 16975,
+      "name": "Saint-Pacôme",
+      "latitude": "47.40457000",
+      "longitude": "-69.95025000"
+    },
+    {
+      "id": 16976,
+      "name": "Saint-Pascal",
+      "latitude": "47.51813000",
+      "longitude": "-69.80301000"
+    },
+    {
+      "id": 16977,
+      "name": "Saint-Philippe-de-La Prairie",
+      "latitude": "45.35723000",
+      "longitude": "-73.47706000"
+    },
+    {
+      "id": 16978,
+      "name": "Saint-Pie",
+      "latitude": "45.50277000",
+      "longitude": "-72.90890000"
+    },
+    {
+      "id": 16979,
+      "name": "Saint-Pierre-les-Becquets",
+      "latitude": "46.50005000",
+      "longitude": "-72.19910000"
+    },
+    {
+      "id": 16980,
+      "name": "Saint-Prime",
+      "latitude": "48.58339000",
+      "longitude": "-72.33244000"
+    },
+    {
+      "id": 16981,
+      "name": "Saint-Raphaël",
+      "latitude": "46.25011000",
+      "longitude": "-76.01605000"
+    },
+    {
+      "id": 16982,
+      "name": "Saint-Raymond",
+      "latitude": "45.46698000",
+      "longitude": "-73.60948000"
+    },
+    {
+      "id": 16983,
+      "name": "Saint-Rémi",
+      "latitude": "45.26678000",
+      "longitude": "-73.61588000"
+    },
+    {
+      "id": 16984,
+      "name": "Saint-Rémi-de-Tingwick",
+      "latitude": "45.86677000",
+      "longitude": "-71.81581000"
+    },
+    {
+      "id": 16985,
+      "name": "Saint-Sauveur",
+      "latitude": "45.88686000",
+      "longitude": "-74.17943000"
+    },
+    {
+      "id": 16986,
+      "name": "Saint-Sauveur-des-Monts",
+      "latitude": "45.90008000",
+      "longitude": "-74.16591000"
+    },
+    {
+      "id": 16987,
+      "name": "Saint-Siméon",
+      "latitude": "47.84431000",
+      "longitude": "-69.87837000"
+    },
+    {
+      "id": 16988,
+      "name": "Saint-Thomas",
+      "latitude": "46.01677000",
+      "longitude": "-73.34915000"
+    },
+    {
+      "id": 16989,
+      "name": "Saint-Tite",
+      "latitude": "46.73336000",
+      "longitude": "-72.56581000"
+    },
+    {
+      "id": 16990,
+      "name": "Saint-Victor",
+      "latitude": "45.61118000",
+      "longitude": "-73.51527000"
+    },
+    {
+      "id": 16991,
+      "name": "Saint-Zotique",
+      "latitude": "45.25009000",
+      "longitude": "-74.24924000"
+    },
+    {
+      "id": 16994,
+      "name": "Sainte Catherine de la Jacques Cartier",
+      "latitude": "46.85244000",
+      "longitude": "-71.62056000"
+    },
+    {
+      "id": 16995,
+      "name": "Sainte-Adèle",
+      "latitude": "45.95008000",
+      "longitude": "-74.13251000"
+    },
+    {
+      "id": 16996,
+      "name": "Sainte-Agathe-des-Monts",
+      "latitude": "46.05009000",
+      "longitude": "-74.28252000"
+    },
+    {
+      "id": 16997,
+      "name": "Sainte-Anne-de-Bellevue",
+      "latitude": "45.40618000",
+      "longitude": "-73.94560000"
+    },
+    {
+      "id": 16998,
+      "name": "Sainte-Anne-des-Monts",
+      "latitude": "49.12402000",
+      "longitude": "-66.49243000"
+    },
+    {
+      "id": 16999,
+      "name": "Sainte-Anne-des-Plaines",
+      "latitude": "45.76468000",
+      "longitude": "-73.81156000"
+    },
+    {
+      "id": 17000,
+      "name": "Sainte-Béatrix",
+      "latitude": "46.20007000",
+      "longitude": "-73.61587000"
+    },
+    {
+      "id": 17001,
+      "name": "Sainte-Catherine",
+      "latitude": "45.40008000",
+      "longitude": "-73.58248000"
+    },
+    {
+      "id": 17002,
+      "name": "Sainte-Croix",
+      "latitude": "45.13368000",
+      "longitude": "-72.80083000"
+    },
+    {
+      "id": 17012,
+      "name": "Sainte-Élisabeth",
+      "latitude": "46.09502000",
+      "longitude": "-73.35176000"
+    },
+    {
+      "id": 17003,
+      "name": "Sainte-Julie",
+      "latitude": "45.58338000",
+      "longitude": "-73.33246000"
+    },
+    {
+      "id": 17004,
+      "name": "Sainte-Julienne",
+      "latitude": "45.96677000",
+      "longitude": "-73.71587000"
+    },
+    {
+      "id": 17005,
+      "name": "Sainte-Madeleine",
+      "latitude": "45.60008000",
+      "longitude": "-73.09914000"
+    },
+    {
+      "id": 17006,
+      "name": "Sainte-Marie",
+      "latitude": "46.43401000",
+      "longitude": "-71.01168000"
+    },
+    {
+      "id": 17007,
+      "name": "Sainte-Marthe-sur-le-Lac",
+      "latitude": "45.53338000",
+      "longitude": "-73.93250000"
+    },
+    {
+      "id": 17008,
+      "name": "Sainte-Martine",
+      "latitude": "45.25008000",
+      "longitude": "-73.79919000"
+    },
+    {
+      "id": 17009,
+      "name": "Sainte-Sophie",
+      "latitude": "45.81678000",
+      "longitude": "-73.89919000"
+    },
+    {
+      "id": 17010,
+      "name": "Sainte-Thècle",
+      "latitude": "46.81676000",
+      "longitude": "-72.49911000"
+    },
+    {
+      "id": 17011,
+      "name": "Sainte-Thérèse",
+      "latitude": "45.63922000",
+      "longitude": "-73.82757000"
+    },
+    {
+      "id": 17013,
+      "name": "Salaberry-de-Valleyfield",
+      "latitude": "45.25008000",
+      "longitude": "-74.13253000"
+    },
+    {
+      "id": 17015,
+      "name": "Salluit",
+      "latitude": "62.20411000",
+      "longitude": "-75.64344000"
+    },
+    {
+      "id": 17027,
+      "name": "Senneterre",
+      "latitude": "48.39302000",
+      "longitude": "-77.23951000"
+    },
+    {
+      "id": 17028,
+      "name": "Sept-Îles",
+      "latitude": "50.20011000",
+      "longitude": "-66.38208000"
+    },
+    {
+      "id": 17030,
+      "name": "Shannon",
+      "latitude": "46.88026000",
+      "longitude": "-71.51464000"
+    },
+    {
+      "id": 17032,
+      "name": "Shawinigan",
+      "latitude": "46.56675000",
+      "longitude": "-72.74913000"
+    },
+    {
+      "id": 17033,
+      "name": "Shawville",
+      "latitude": "45.60011000",
+      "longitude": "-76.48270000"
+    },
+    {
+      "id": 17039,
+      "name": "Sherbrooke",
+      "latitude": "45.40008000",
+      "longitude": "-71.89908000"
+    },
+    {
+      "id": 17054,
+      "name": "Sorel-Tracy",
+      "latitude": "46.04178000",
+      "longitude": "-73.11358000"
+    },
+    {
+      "id": 17066,
+      "name": "St-Jean-Port-Joli",
+      "latitude": "47.21418000",
+      "longitude": "-70.26969000"
+    },
+    {
+      "id": 17091,
+      "name": "Sutton",
+      "latitude": "45.10008000",
+      "longitude": "-72.61582000"
+    },
+    {
+      "id": 17132,
+      "name": "Témiscaming",
+      "latitude": "46.72122000",
+      "longitude": "-79.09712000"
+    },
+    {
+      "id": 17103,
+      "name": "Terrasse-des-Pins",
+      "latitude": "45.86449000",
+      "longitude": "-74.06627000"
+    },
+    {
+      "id": 17104,
+      "name": "Terrebonne",
+      "latitude": "45.70004000",
+      "longitude": "-73.64732000"
+    },
+    {
+      "id": 17107,
+      "name": "Thetford-Mines",
+      "latitude": "46.09371000",
+      "longitude": "-71.30539000"
+    },
+    {
+      "id": 17113,
+      "name": "Thurso",
+      "latitude": "45.60010000",
+      "longitude": "-75.24931000"
+    },
+    {
+      "id": 17126,
+      "name": "Trois-Rivières",
+      "latitude": "46.34515000",
+      "longitude": "-72.54770000"
+    },
+    {
+      "id": 17139,
+      "name": "Val-d'Or",
+      "latitude": "48.09740000",
+      "longitude": "-77.79737000"
+    },
+    {
+      "id": 17137,
+      "name": "Val-David",
+      "latitude": "46.03338000",
+      "longitude": "-74.21592000"
+    },
+    {
+      "id": 17140,
+      "name": "Val-des-Monts",
+      "latitude": "45.65010000",
+      "longitude": "-75.66604000"
+    },
+    {
+      "id": 17138,
+      "name": "Val-Morin",
+      "latitude": "46.00008000",
+      "longitude": "-74.18251000"
+    },
+    {
+      "id": 17141,
+      "name": "Valcourt",
+      "latitude": "45.50008000",
+      "longitude": "-72.31581000"
+    },
+    {
+      "id": 17144,
+      "name": "Vallée-Jonction",
+      "latitude": "46.37441000",
+      "longitude": "-70.91881000"
+    },
+    {
+      "id": 17148,
+      "name": "Varennes",
+      "latitude": "45.68338000",
+      "longitude": "-73.43246000"
+    },
+    {
+      "id": 17149,
+      "name": "Vaudreuil-Dorion",
+      "latitude": "45.40008000",
+      "longitude": "-74.03251000"
+    },
+    {
+      "id": 17152,
+      "name": "Venise-en-Québec",
+      "latitude": "45.08338000",
+      "longitude": "-73.13245000"
+    },
+    {
+      "id": 17153,
+      "name": "Verchères",
+      "latitude": "45.78338000",
+      "longitude": "-73.34916000"
+    },
+    {
+      "id": 17157,
+      "name": "Victoriaville",
+      "latitude": "46.05007000",
+      "longitude": "-71.96579000"
+    },
+    {
+      "id": 17159,
+      "name": "Ville-Marie",
+      "latitude": "47.33345000",
+      "longitude": "-79.43297000"
+    },
+    {
+      "id": 17167,
+      "name": "Wakefield",
+      "latitude": "45.66680000",
+      "longitude": "-75.83265000"
+    },
+    {
+      "id": 17171,
+      "name": "Warwick",
+      "latitude": "45.95007000",
+      "longitude": "-71.98240000"
+    },
+    {
+      "id": 17173,
+      "name": "Waskaganish",
+      "latitude": "51.48333000",
+      "longitude": "-78.75000000"
+    },
+    {
+      "id": 17174,
+      "name": "Waswanipi",
+      "latitude": "49.73346000",
+      "longitude": "-76.16604000"
+    },
+    {
+      "id": 17177,
+      "name": "Waterloo",
+      "latitude": "45.35008000",
+      "longitude": "-72.51582000"
+    },
+    {
+      "id": 17182,
+      "name": "Weedon Centre",
+      "latitude": "45.70802000",
+      "longitude": "-71.45986000"
+    },
+    {
+      "id": 17196,
+      "name": "Westmount",
+      "latitude": "45.48341000",
+      "longitude": "-73.59918000"
+    },
+    {
+      "id": 17199,
+      "name": "Weymontachie",
+      "latitude": "47.89940000",
+      "longitude": "-73.77720000"
+    },
+    {
+      "id": 17210,
+      "name": "Windsor",
+      "latitude": "45.56678000",
+      "longitude": "-71.99909000"
+    },
+    {
+      "id": 17219,
+      "name": "Yamachiche",
+      "latitude": "46.26676000",
+      "longitude": "-72.83243000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

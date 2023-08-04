@@ -1,0 +1,175 @@
+{
+  "id": 4061,
+  "name": "Waikato Region",
+  "state_code": "WKO",
+  "latitude": "-37.61908620",
+  "longitude": "175.02334600",
+  "type": null,
+  "cities": [
+    {
+      "id": 79781,
+      "name": "Cambridge",
+      "latitude": "-37.87822000",
+      "longitude": "175.44020000"
+    },
+    {
+      "id": 79786,
+      "name": "Coromandel",
+      "latitude": "-36.76110000",
+      "longitude": "175.49634000"
+    },
+    {
+      "id": 79799,
+      "name": "Hamilton",
+      "latitude": "-37.78333000",
+      "longitude": "175.28333000"
+    },
+    {
+      "id": 79827,
+      "name": "Matamata",
+      "latitude": "-37.81060000",
+      "longitude": "175.76237000"
+    },
+    {
+      "id": 79840,
+      "name": "Ngaruawahia",
+      "latitude": "-37.66738000",
+      "longitude": "175.15554000"
+    },
+    {
+      "id": 79841,
+      "name": "Ngatea",
+      "latitude": "-37.28333000",
+      "longitude": "175.50000000"
+    },
+    {
+      "id": 79848,
+      "name": "Otorohanga",
+      "latitude": "-38.18333000",
+      "longitude": "175.20000000"
+    },
+    {
+      "id": 79850,
+      "name": "Paeroa",
+      "latitude": "-37.36667000",
+      "longitude": "175.66667000"
+    },
+    {
+      "id": 79867,
+      "name": "Raglan",
+      "latitude": "-37.80000000",
+      "longitude": "174.88333000"
+    },
+    {
+      "id": 79879,
+      "name": "South Waikato District",
+      "latitude": "-38.16797000",
+      "longitude": "175.88624000"
+    },
+    {
+      "id": 79883,
+      "name": "Tairua",
+      "latitude": "-37.01667000",
+      "longitude": "175.85000000"
+    },
+    {
+      "id": 79888,
+      "name": "Taupo",
+      "latitude": "-38.68333000",
+      "longitude": "176.08333000"
+    },
+    {
+      "id": 79891,
+      "name": "Te Kauwhata",
+      "latitude": "-37.40000000",
+      "longitude": "175.15000000"
+    },
+    {
+      "id": 79892,
+      "name": "Thames",
+      "latitude": "-37.13832000",
+      "longitude": "175.54011000"
+    },
+    {
+      "id": 79897,
+      "name": "Tokoroa",
+      "latitude": "-38.23333000",
+      "longitude": "175.86667000"
+    },
+    {
+      "id": 79898,
+      "name": "Turangi",
+      "latitude": "-38.99037000",
+      "longitude": "175.80837000"
+    },
+    {
+      "id": 79900,
+      "name": "Waihi",
+      "latitude": "-37.38333000",
+      "longitude": "175.83333000"
+    },
+    {
+      "id": 79920,
+      "name": "Whangamata",
+      "latitude": "-37.20000000",
+      "longitude": "175.86667000"
+    },
+    {
+      "id": 79922,
+      "name": "Whitianga",
+      "latitude": "-36.83333000",
+      "longitude": "175.70000000"
+    }
+  ],
+  "country": {
+    "id": 158,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phone_code": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "뉴질랜드",
+      "pt-BR": "Nova Zelândia",
+      "pt": "Nova Zelândia",
+      "nl": "Nieuw-Zeeland",
+      "hr": "Novi Zeland",
+      "fa": "نیوزیلند",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "ja": "ニュージーランド",
+      "it": "Nuova Zelanda",
+      "cn": "新西兰",
+      "tr": "Yeni Zelanda"
+    },
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  }
+}

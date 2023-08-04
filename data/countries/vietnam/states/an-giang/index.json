@@ -1,0 +1,102 @@
+{
+  "id": 3794,
+  "name": "An Giang",
+  "state_code": "44",
+  "latitude": "10.52158360",
+  "longitude": "105.12589550",
+  "type": null,
+  "cities": [
+    {
+      "id": 130185,
+      "name": "Cho Dok",
+      "latitude": "10.70000000",
+      "longitude": "105.11667000"
+    },
+    {
+      "id": 130211,
+      "name": "Huyện An Phú",
+      "latitude": "10.84274000",
+      "longitude": "105.08990000"
+    },
+    {
+      "id": 130248,
+      "name": "Huyện Châu Phú",
+      "latitude": "10.57166000",
+      "longitude": "105.16991000"
+    },
+    {
+      "id": 130262,
+      "name": "Huyện Chợ Mới",
+      "latitude": "10.47730000",
+      "longitude": "105.49092000"
+    },
+    {
+      "id": 130401,
+      "name": "Huyện Phú Tân",
+      "latitude": "10.65716000",
+      "longitude": "105.28459000"
+    },
+    {
+      "id": 130461,
+      "name": "Huyện Tri Tôn",
+      "latitude": "10.41416000",
+      "longitude": "104.96136000"
+    },
+    {
+      "id": 130569,
+      "name": "Long Xuyên",
+      "latitude": "10.38639000",
+      "longitude": "105.43518000"
+    },
+    {
+      "id": 130570,
+      "name": "Long Xuyên City",
+      "latitude": "10.36857000",
+      "longitude": "105.42340000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

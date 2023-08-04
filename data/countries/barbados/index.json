@@ -1,0 +1,194 @@
+{
+  "id": 20,
+  "name": "Barbados",
+  "iso3": "BRB",
+  "iso2": "BB",
+  "numeric_code": "052",
+  "phone_code": "+1-246",
+  "capital": "Bridgetown",
+  "currency": "BBD",
+  "currency_name": "Barbadian dollar",
+  "currency_symbol": "Bds$",
+  "tld": ".bb",
+  "native": "Barbados",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": [
+    {
+      "zoneName": "America/Barbados",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "바베이도스",
+    "pt-BR": "Barbados",
+    "pt": "Barbados",
+    "nl": "Barbados",
+    "hr": "Barbados",
+    "fa": "باربادوس",
+    "de": "Barbados",
+    "es": "Barbados",
+    "fr": "Barbade",
+    "ja": "バルバドス",
+    "it": "Barbados",
+    "cn": "巴巴多斯",
+    "tr": "Barbados"
+  },
+  "latitude": "13.16666666",
+  "longitude": "-59.53333333",
+  "emoji": "🇧🇧",
+  "emojiU": "U+1F1E7 U+1F1E7",
+  "states": [
+    {
+      "id": 1228,
+      "name": "Christ Church",
+      "state_code": "01",
+      "latitude": "36.00604070",
+      "longitude": "-95.92112100",
+      "type": null,
+      "cities": [
+        {
+          "id": 8452,
+          "name": "Oistins",
+          "latitude": "13.07067000",
+          "longitude": "-59.54637000"
+        }
+      ]
+    },
+    {
+      "id": 1229,
+      "name": "Saint Andrew",
+      "state_code": "02",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 8450,
+          "name": "Greenland",
+          "latitude": "13.25808000",
+          "longitude": "-59.57763000"
+        }
+      ]
+    },
+    {
+      "id": 1226,
+      "name": "Saint George",
+      "state_code": "03",
+      "latitude": "37.09652780",
+      "longitude": "-113.56841640",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 1224,
+      "name": "Saint James",
+      "state_code": "04",
+      "latitude": "48.52356600",
+      "longitude": "-1.32378850",
+      "type": null,
+      "cities": [
+        {
+          "id": 8451,
+          "name": "Holetown",
+          "latitude": "13.18672000",
+          "longitude": "-59.63808000"
+        }
+      ]
+    },
+    {
+      "id": 1227,
+      "name": "Saint John",
+      "state_code": "05",
+      "latitude": "45.27331530",
+      "longitude": "-66.06330800",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 1223,
+      "name": "Saint Joseph",
+      "state_code": "06",
+      "latitude": "39.76745780",
+      "longitude": "-94.84668100",
+      "type": null,
+      "cities": [
+        {
+          "id": 8447,
+          "name": "Bathsheba",
+          "latitude": "13.21133000",
+          "longitude": "-59.52596000"
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "name": "Saint Lucy",
+      "state_code": "07",
+      "latitude": "38.76146250",
+      "longitude": "-77.44914390",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 1230,
+      "name": "Saint Michael",
+      "state_code": "08",
+      "latitude": "36.03597700",
+      "longitude": "-95.84905200",
+      "type": null,
+      "cities": [
+        {
+          "id": 8448,
+          "name": "Bridgetown",
+          "latitude": "13.10732000",
+          "longitude": "-59.62021000"
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "name": "Saint Peter",
+      "state_code": "09",
+      "latitude": "37.08271190",
+      "longitude": "-94.51712500",
+      "type": null,
+      "cities": [
+        {
+          "id": 8453,
+          "name": "Speightstown",
+          "latitude": "13.25072000",
+          "longitude": "-59.64396000"
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "name": "Saint Philip",
+      "state_code": "10",
+      "latitude": "35.23311400",
+      "longitude": "-89.43640420",
+      "type": null,
+      "cities": [
+        {
+          "id": 8449,
+          "name": "Crane",
+          "latitude": "13.10487000",
+          "longitude": "-59.44861000"
+        }
+      ]
+    },
+    {
+      "id": 1225,
+      "name": "Saint Thomas",
+      "state_code": "11",
+      "latitude": "18.33809650",
+      "longitude": "-64.89409460",
+      "type": null,
+      "cities": []
+    }
+  ]
+}

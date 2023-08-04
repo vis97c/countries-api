@@ -1,0 +1,204 @@
+{
+  "id": 1501,
+  "name": "Satakunta",
+  "state_code": "17",
+  "latitude": "61.59327580",
+  "longitude": "22.14830810",
+  "type": "region",
+  "cities": [
+    {
+      "id": 38749,
+      "name": "Eura",
+      "latitude": "61.13333000",
+      "longitude": "22.13333000"
+    },
+    {
+      "id": 38750,
+      "name": "Eurajoki",
+      "latitude": "61.20000000",
+      "longitude": "21.73333000"
+    },
+    {
+      "id": 38762,
+      "name": "Harjavalta",
+      "latitude": "61.31667000",
+      "longitude": "22.13333000"
+    },
+    {
+      "id": 38776,
+      "name": "Huittinen",
+      "latitude": "61.18333000",
+      "longitude": "22.70000000"
+    },
+    {
+      "id": 38808,
+      "name": "Jämijärvi",
+      "latitude": "61.81667000",
+      "longitude": "22.70000000"
+    },
+    {
+      "id": 38822,
+      "name": "Kankaanpää",
+      "latitude": "61.80000000",
+      "longitude": "22.41667000"
+    },
+    {
+      "id": 38833,
+      "name": "Karvia",
+      "latitude": "62.13333000",
+      "longitude": "22.56667000"
+    },
+    {
+      "id": 38860,
+      "name": "Kiukainen",
+      "latitude": "61.21667000",
+      "longitude": "22.08333000"
+    },
+    {
+      "id": 38863,
+      "name": "Kokemäki",
+      "latitude": "61.25647000",
+      "longitude": "22.35643000"
+    },
+    {
+      "id": 38891,
+      "name": "Köyliö",
+      "latitude": "61.11910000",
+      "longitude": "22.30976000"
+    },
+    {
+      "id": 38880,
+      "name": "Kullaa",
+      "latitude": "61.46998000",
+      "longitude": "22.16145000"
+    },
+    {
+      "id": 38925,
+      "name": "Längelmäki",
+      "latitude": "61.65000000",
+      "longitude": "22.10000000"
+    },
+    {
+      "id": 38900,
+      "name": "Lappi",
+      "latitude": "61.10000000",
+      "longitude": "21.83333000"
+    },
+    {
+      "id": 38905,
+      "name": "Lavia",
+      "latitude": "61.60000000",
+      "longitude": "22.60000000"
+    },
+    {
+      "id": 38924,
+      "name": "Luvia",
+      "latitude": "61.36375000",
+      "longitude": "21.62556000"
+    },
+    {
+      "id": 38933,
+      "name": "Merikarvia",
+      "latitude": "61.85839000",
+      "longitude": "21.50035000"
+    },
+    {
+      "id": 38950,
+      "name": "Nakkila",
+      "latitude": "61.36667000",
+      "longitude": "22.00000000"
+    },
+    {
+      "id": 38954,
+      "name": "Noormarkku",
+      "latitude": "61.59274000",
+      "longitude": "21.86846000"
+    },
+    {
+      "id": 38990,
+      "name": "Pomarkku",
+      "latitude": "61.69348000",
+      "longitude": "22.00862000"
+    },
+    {
+      "id": 38991,
+      "name": "Pori",
+      "latitude": "61.48333000",
+      "longitude": "21.78333000"
+    },
+    {
+      "id": 39016,
+      "name": "Rauma",
+      "latitude": "61.12724000",
+      "longitude": "21.51127000"
+    },
+    {
+      "id": 39064,
+      "name": "Säkylä",
+      "latitude": "61.03333000",
+      "longitude": "22.33333000"
+    },
+    {
+      "id": 39047,
+      "name": "Siikainen",
+      "latitude": "61.87703000",
+      "longitude": "21.81945000"
+    },
+    {
+      "id": 39089,
+      "name": "Ulvila",
+      "latitude": "61.42844000",
+      "longitude": "21.87103000"
+    },
+    {
+      "id": 39098,
+      "name": "Vampula",
+      "latitude": "61.01667000",
+      "longitude": "22.70000000"
+    }
+  ],
+  "country": {
+    "id": 74,
+    "name": "Finland",
+    "iso3": "FIN",
+    "iso2": "FI",
+    "numeric_code": "246",
+    "phone_code": "358",
+    "capital": "Helsinki",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fi",
+    "native": "Suomi",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Helsinki",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "핀란드",
+      "pt-BR": "Finlândia",
+      "pt": "Finlândia",
+      "nl": "Finland",
+      "hr": "Finska",
+      "fa": "فنلاند",
+      "de": "Finnland",
+      "es": "Finlandia",
+      "fr": "Finlande",
+      "ja": "フィンランド",
+      "it": "Finlandia",
+      "cn": "芬兰",
+      "tr": "Finlandiya"
+    },
+    "latitude": "64.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇫🇮",
+    "emojiU": "U+1F1EB U+1F1EE"
+  }
+}

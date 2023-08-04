@@ -1,0 +1,78 @@
+{
+  "id": 3329,
+  "name": "Gaza Province",
+  "state_code": "G",
+  "latitude": "-23.02219280",
+  "longitude": "32.71813750",
+  "type": null,
+  "cities": [
+    {
+      "id": 76592,
+      "name": "Chibuto",
+      "latitude": "-24.68667000",
+      "longitude": "33.53056000"
+    },
+    {
+      "id": 76596,
+      "name": "Chokwé",
+      "latitude": "-24.53333000",
+      "longitude": "32.98333000"
+    },
+    {
+      "id": 76604,
+      "name": "Macia",
+      "latitude": "-25.02694000",
+      "longitude": "33.09889000"
+    },
+    {
+      "id": 76625,
+      "name": "Xai-Xai",
+      "latitude": "-25.05194000",
+      "longitude": "33.64417000"
+    }
+  ],
+  "country": {
+    "id": 150,
+    "name": "Mozambique",
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "numeric_code": "508",
+    "phone_code": "258",
+    "capital": "Maputo",
+    "currency": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "tld": ".mz",
+    "native": "Moçambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "모잠비크",
+      "pt-BR": "Moçambique",
+      "pt": "Moçambique",
+      "nl": "Mozambique",
+      "hr": "Mozambik",
+      "fa": "موزامبیک",
+      "de": "Mosambik",
+      "es": "Mozambique",
+      "fr": "Mozambique",
+      "ja": "モザンビーク",
+      "it": "Mozambico",
+      "cn": "莫桑比克",
+      "tr": "Mozambik"
+    },
+    "latitude": "-18.25000000",
+    "longitude": "35.00000000",
+    "emoji": "🇲🇿",
+    "emojiU": "U+1F1F2 U+1F1FF"
+  }
+}

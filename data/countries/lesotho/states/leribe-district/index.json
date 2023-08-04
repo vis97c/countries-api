@@ -1,0 +1,66 @@
+{
+  "id": 3026,
+  "name": "Leribe District",
+  "state_code": "C",
+  "latitude": "-28.86380650",
+  "longitude": "28.04788260",
+  "type": null,
+  "cities": [
+    {
+      "id": 66565,
+      "name": "Leribe",
+      "latitude": "-28.87185000",
+      "longitude": "28.04501000"
+    },
+    {
+      "id": 66567,
+      "name": "Maputsoe",
+      "latitude": "-28.88660000",
+      "longitude": "27.89915000"
+    }
+  ],
+  "country": {
+    "id": 122,
+    "name": "Lesotho",
+    "iso3": "LSO",
+    "iso2": "LS",
+    "numeric_code": "426",
+    "phone_code": "266",
+    "capital": "Maseru",
+    "currency": "LSL",
+    "currency_name": "Lesotho loti",
+    "currency_symbol": "L",
+    "tld": ".ls",
+    "native": "Lesotho",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maseru",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "레소토",
+      "pt-BR": "Lesoto",
+      "pt": "Lesoto",
+      "nl": "Lesotho",
+      "hr": "Lesoto",
+      "fa": "لسوتو",
+      "de": "Lesotho",
+      "es": "Lesotho",
+      "fr": "Lesotho",
+      "ja": "レソト",
+      "it": "Lesotho",
+      "cn": "莱索托",
+      "tr": "Lesotho"
+    },
+    "latitude": "-29.50000000",
+    "longitude": "28.50000000",
+    "emoji": "🇱🇸",
+    "emojiU": "U+1F1F1 U+1F1F8"
+  }
+}

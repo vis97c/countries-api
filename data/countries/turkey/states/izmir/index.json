@@ -1,0 +1,234 @@
+{
+  "id": 2205,
+  "name": "İzmir",
+  "state_code": "35",
+  "latitude": "38.35916930",
+  "longitude": "27.26761160",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107130,
+      "name": "Aliağa",
+      "latitude": "38.80078000",
+      "longitude": "27.04375000"
+    },
+    {
+      "id": 107275,
+      "name": "Balçova",
+      "latitude": "38.37302000",
+      "longitude": "27.08714000"
+    },
+    {
+      "id": 107305,
+      "name": "Bayındır",
+      "latitude": "38.21741000",
+      "longitude": "27.64744000"
+    },
+    {
+      "id": 107300,
+      "name": "Bayraklı",
+      "latitude": "38.46222000",
+      "longitude": "27.16667000"
+    },
+    {
+      "id": 107331,
+      "name": "Bergama",
+      "latitude": "39.17088000",
+      "longitude": "27.18918000"
+    },
+    {
+      "id": 107335,
+      "name": "Beydağ",
+      "latitude": "38.08241000",
+      "longitude": "28.21609000"
+    },
+    {
+      "id": 107370,
+      "name": "Bornova",
+      "latitude": "38.48492000",
+      "longitude": "27.25235000"
+    },
+    {
+      "id": 107399,
+      "name": "Buca",
+      "latitude": "38.34813000",
+      "longitude": "27.25053000"
+    },
+    {
+      "id": 108825,
+      "name": "Çeşme",
+      "latitude": "38.32614000",
+      "longitude": "26.30574000"
+    },
+    {
+      "id": 108840,
+      "name": "Çiğli",
+      "latitude": "38.48802000",
+      "longitude": "26.96596000"
+    },
+    {
+      "id": 107495,
+      "name": "Dikili",
+      "latitude": "39.07100000",
+      "longitude": "26.89017000"
+    },
+    {
+      "id": 107642,
+      "name": "Foça",
+      "latitude": "38.67030000",
+      "longitude": "26.75656000"
+    },
+    {
+      "id": 107646,
+      "name": "Gaziemir",
+      "latitude": "38.31098000",
+      "longitude": "27.15178000"
+    },
+    {
+      "id": 107760,
+      "name": "Güzelbahçe",
+      "latitude": "38.37046000",
+      "longitude": "26.86930000"
+    },
+    {
+      "id": 107886,
+      "name": "Karabağlar",
+      "latitude": "38.36912000",
+      "longitude": "27.12696000"
+    },
+    {
+      "id": 107887,
+      "name": "Karaburun",
+      "latitude": "38.63640000",
+      "longitude": "26.51094000"
+    },
+    {
+      "id": 107937,
+      "name": "Karşıyaka",
+      "latitude": "38.46775000",
+      "longitude": "27.11502000"
+    },
+    {
+      "id": 107976,
+      "name": "Kemalpaşa",
+      "latitude": "38.40883000",
+      "longitude": "27.49100000"
+    },
+    {
+      "id": 107999,
+      "name": "Kiraz",
+      "latitude": "38.23056000",
+      "longitude": "28.20444000"
+    },
+    {
+      "id": 108101,
+      "name": "Kınık",
+      "latitude": "39.08722000",
+      "longitude": "27.38333000"
+    },
+    {
+      "id": 108013,
+      "name": "Konak",
+      "latitude": "38.41448000",
+      "longitude": "27.14412000"
+    },
+    {
+      "id": 108170,
+      "name": "Menderes",
+      "latitude": "38.24963000",
+      "longitude": "27.13429000"
+    },
+    {
+      "id": 108171,
+      "name": "Menemen",
+      "latitude": "38.61608000",
+      "longitude": "27.06315000"
+    },
+    {
+      "id": 108240,
+      "name": "Narlıdere",
+      "latitude": "38.38957000",
+      "longitude": "27.02431000"
+    },
+    {
+      "id": 108860,
+      "name": "Ödemiş",
+      "latitude": "38.22780000",
+      "longitude": "27.96955000"
+    },
+    {
+      "id": 108423,
+      "name": "Seferihisar",
+      "latitude": "38.18144000",
+      "longitude": "26.88877000"
+    },
+    {
+      "id": 108434,
+      "name": "Selçuk",
+      "latitude": "37.95137000",
+      "longitude": "27.36849000"
+    },
+    {
+      "id": 108578,
+      "name": "Tire",
+      "latitude": "38.06582000",
+      "longitude": "27.72730000"
+    },
+    {
+      "id": 108587,
+      "name": "Torbalı",
+      "latitude": "38.17603000",
+      "longitude": "27.37182000"
+    },
+    {
+      "id": 108633,
+      "name": "Urla",
+      "latitude": "38.32292000",
+      "longitude": "26.76403000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2288,
+  "name": "Nabatieh",
+  "state_code": "NA",
+  "latitude": "33.37716930",
+  "longitude": "35.48382930",
+  "type": null,
+  "cities": [
+    {
+      "id": 65931,
+      "name": "Ain Ebel",
+      "latitude": "33.11023000",
+      "longitude": "35.40251000"
+    },
+    {
+      "id": 65942,
+      "name": "Caza de Bent Jbaïl",
+      "latitude": "33.15964000",
+      "longitude": "35.41137000"
+    },
+    {
+      "id": 65943,
+      "name": "Caza de Nabatîyé",
+      "latitude": "33.39435000",
+      "longitude": "35.44483000"
+    },
+    {
+      "id": 65946,
+      "name": "Habboûch",
+      "latitude": "33.40729000",
+      "longitude": "35.48169000"
+    },
+    {
+      "id": 65949,
+      "name": "Marjayoûn",
+      "latitude": "33.36028000",
+      "longitude": "35.59111000"
+    },
+    {
+      "id": 65950,
+      "name": "Nabatîyé et Tahta",
+      "latitude": "33.37889000",
+      "longitude": "35.48389000"
+    }
+  ],
+  "country": {
+    "id": 121,
+    "name": "Lebanon",
+    "iso3": "LBN",
+    "iso2": "LB",
+    "numeric_code": "422",
+    "phone_code": "961",
+    "capital": "Beirut",
+    "currency": "LBP",
+    "currency_name": "Lebanese pound",
+    "currency_symbol": "£",
+    "tld": ".lb",
+    "native": "لبنان",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Beirut",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "레바논",
+      "pt-BR": "Líbano",
+      "pt": "Líbano",
+      "nl": "Libanon",
+      "hr": "Libanon",
+      "fa": "لبنان",
+      "de": "Libanon",
+      "es": "Líbano",
+      "fr": "Liban",
+      "ja": "レバノン",
+      "it": "Libano",
+      "cn": "黎巴嫩",
+      "tr": "Lübnan"
+    },
+    "latitude": "33.83333333",
+    "longitude": "35.83333333",
+    "emoji": "🇱🇧",
+    "emojiU": "U+1F1F1 U+1F1E7"
+  }
+}

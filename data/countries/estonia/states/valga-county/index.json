@@ -1,0 +1,72 @@
+{
+  "id": 3558,
+  "name": "Valga County",
+  "state_code": "82",
+  "latitude": "57.91034410",
+  "longitude": "26.16018190",
+  "type": null,
+  "cities": [
+    {
+      "id": 31671,
+      "name": "Otepää vald",
+      "latitude": "58.02177000",
+      "longitude": "26.45306000"
+    },
+    {
+      "id": 31728,
+      "name": "Tõrva",
+      "latitude": "58.00278000",
+      "longitude": "25.93500000"
+    },
+    {
+      "id": 31735,
+      "name": "Valga",
+      "latitude": "57.77781000",
+      "longitude": "26.04730000"
+    }
+  ],
+  "country": {
+    "id": 69,
+    "name": "Estonia",
+    "iso3": "EST",
+    "iso2": "EE",
+    "numeric_code": "233",
+    "phone_code": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "native": "Eesti",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스토니아",
+      "pt-BR": "Estônia",
+      "pt": "Estónia",
+      "nl": "Estland",
+      "hr": "Estonija",
+      "fa": "استونی",
+      "de": "Estland",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア",
+      "it": "Estonia",
+      "cn": "爱沙尼亚",
+      "tr": "Estonya"
+    },
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  }
+}

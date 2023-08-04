@@ -1,0 +1,102 @@
+{
+  "id": 3235,
+  "name": "Alexandria",
+  "state_code": "ALX",
+  "latitude": "30.87605680",
+  "longitude": "29.74260400",
+  "type": null,
+  "cities": [
+    {
+      "id": 149594,
+      "name": "Abu Qir",
+      "latitude": "31.31666667",
+      "longitude": "30.06666667"
+    },
+    {
+      "id": 149595,
+      "name": "Agami",
+      "latitude": "31.09590000",
+      "longitude": "29.76040000"
+    },
+    {
+      "id": 31787,
+      "name": "Alexandria",
+      "latitude": "31.20176000",
+      "longitude": "29.91582000"
+    },
+    {
+      "id": 149596,
+      "name": "Ar-Raml",
+      "latitude": "31.24821000",
+      "longitude": "29.97368000"
+    },
+    {
+      "id": 149597,
+      "name": "Borg El Arab",
+      "latitude": "30.91666667",
+      "longitude": "29.53333333"
+    },
+    {
+      "id": 149598,
+      "name": "Montaza",
+      "latitude": "31.28270000",
+      "longitude": "30.02190000"
+    },
+    {
+      "id": 149599,
+      "name": "New Borg El Arab",
+      "latitude": "30.88525000",
+      "longitude": "29.57721000"
+    },
+    {
+      "id": 149600,
+      "name": "Sidi Bishr",
+      "latitude": "31.25210000",
+      "longitude": "29.99450000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 4175,
+  "name": "Hoče–Slivnica Municipality",
+  "state_code": "160",
+  "latitude": "46.47785800",
+  "longitude": "15.64760050",
+  "type": null,
+  "cities": [
+    {
+      "id": 104116,
+      "name": "Hotinja Vas",
+      "latitude": "46.46667000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 104242,
+      "name": "Radizel",
+      "latitude": "46.47444000",
+      "longitude": "15.65583000"
+    },
+    {
+      "id": 104260,
+      "name": "Rogoza",
+      "latitude": "46.50000000",
+      "longitude": "15.68333000"
+    },
+    {
+      "id": 104281,
+      "name": "Spodnje Hoče",
+      "latitude": "46.50000000",
+      "longitude": "15.65000000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

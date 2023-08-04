@@ -1,0 +1,66 @@
+{
+  "id": 2931,
+  "name": "Tadjourah Region",
+  "state_code": "TA",
+  "latitude": "11.93388850",
+  "longitude": "42.39383750",
+  "type": null,
+  "cities": [
+    {
+      "id": 30566,
+      "name": "Dorra",
+      "latitude": "12.15028000",
+      "longitude": "42.47624000"
+    },
+    {
+      "id": 30572,
+      "name": "Tadjourah",
+      "latitude": "11.78778000",
+      "longitude": "42.88222000"
+    }
+  ],
+  "country": {
+    "id": 60,
+    "name": "Djibouti",
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "numeric_code": "262",
+    "phone_code": "253",
+    "capital": "Djibouti",
+    "currency": "DJF",
+    "currency_name": "Djiboutian franc",
+    "currency_symbol": "Fdj",
+    "tld": ".dj",
+    "native": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Djibouti",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "지부티",
+      "pt-BR": "Djibuti",
+      "pt": "Djibuti",
+      "nl": "Djibouti",
+      "hr": "Džibuti",
+      "fa": "جیبوتی",
+      "de": "Dschibuti",
+      "es": "Yibuti",
+      "fr": "Djibouti",
+      "ja": "ジブチ",
+      "it": "Gibuti",
+      "cn": "吉布提",
+      "tr": "Cibuti"
+    },
+    "latitude": "11.50000000",
+    "longitude": "43.00000000",
+    "emoji": "🇩🇯",
+    "emojiU": "U+1F1E9 U+1F1EF"
+  }
+}

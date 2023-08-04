@@ -1,0 +1,96 @@
+{
+  "id": 2035,
+  "name": "Falcón",
+  "state_code": "I",
+  "latitude": "11.18106740",
+  "longitude": "-69.85974060",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130065,
+      "name": "Chichiriviche",
+      "latitude": "10.92872000",
+      "longitude": "-68.27283000"
+    },
+    {
+      "id": 130071,
+      "name": "Coro",
+      "latitude": "11.40450000",
+      "longitude": "-69.67344000"
+    },
+    {
+      "id": 130116,
+      "name": "Municipio Los Taques",
+      "latitude": "11.82308000",
+      "longitude": "-70.25353000"
+    },
+    {
+      "id": 130118,
+      "name": "Municipio Miranda",
+      "latitude": "11.31667000",
+      "longitude": "-69.86667000"
+    },
+    {
+      "id": 130135,
+      "name": "Punta Cardón",
+      "latitude": "11.65806000",
+      "longitude": "-70.21500000"
+    },
+    {
+      "id": 130136,
+      "name": "Punto Fijo",
+      "latitude": "11.69152000",
+      "longitude": "-70.19918000"
+    },
+    {
+      "id": 130160,
+      "name": "Tucacas",
+      "latitude": "10.79006000",
+      "longitude": "-68.32564000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": 3769,
+  "name": "Đồng Tháp",
+  "state_code": "45",
+  "latitude": "10.49379890",
+  "longitude": "105.68817880",
+  "type": null,
+  "cities": [
+    {
+      "id": 130184,
+      "name": "Cao Lãnh",
+      "latitude": "10.46017000",
+      "longitude": "105.63294000"
+    },
+    {
+      "id": 130253,
+      "name": "Huyện Châu Thành",
+      "latitude": "10.22543000",
+      "longitude": "105.82380000"
+    },
+    {
+      "id": 130340,
+      "name": "Huyện Lai Vung",
+      "latitude": "10.24051000",
+      "longitude": "105.66327000"
+    },
+    {
+      "id": 130351,
+      "name": "Huyện Lấp Vò",
+      "latitude": "10.35918000",
+      "longitude": "105.60611000"
+    },
+    {
+      "id": 130430,
+      "name": "Huyện Tam Nông",
+      "latitude": "10.72761000",
+      "longitude": "105.52522000"
+    },
+    {
+      "id": 130483,
+      "name": "Huyện Tân Hồng",
+      "latitude": "10.87089000",
+      "longitude": "105.49104000"
+    },
+    {
+      "id": 130435,
+      "name": "Huyện Thanh Bình",
+      "latitude": "10.60137000",
+      "longitude": "105.47811000"
+    },
+    {
+      "id": 130443,
+      "name": "Huyện Tháp Mười",
+      "latitude": "10.54398000",
+      "longitude": "105.81875000"
+    },
+    {
+      "id": 130589,
+      "name": "Sa Dec",
+      "latitude": "10.29085000",
+      "longitude": "105.75635000"
+    },
+    {
+      "id": 130590,
+      "name": "Sa Dec city",
+      "latitude": "10.30550000",
+      "longitude": "105.74757000"
+    },
+    {
+      "id": 130607,
+      "name": "Thị Trấn Tân Thành",
+      "latitude": "10.25616000",
+      "longitude": "105.59280000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

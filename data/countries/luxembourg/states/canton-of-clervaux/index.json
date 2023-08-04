@@ -1,0 +1,90 @@
+{
+  "id": 1521,
+  "name": "Canton of Clervaux",
+  "state_code": "CL",
+  "latitude": "50.05463130",
+  "longitude": "6.02858750",
+  "type": null,
+  "cities": [
+    {
+      "id": 66749,
+      "name": "Clervaux",
+      "latitude": "50.05472000",
+      "longitude": "6.03139000"
+    },
+    {
+      "id": 66784,
+      "name": "Hosingen",
+      "latitude": "50.01218000",
+      "longitude": "6.09089000"
+    },
+    {
+      "id": 66819,
+      "name": "Parc Hosingen",
+      "latitude": "49.99744000",
+      "longitude": "6.09067000"
+    },
+    {
+      "id": 66849,
+      "name": "Troisvierges",
+      "latitude": "50.12111000",
+      "longitude": "6.00028000"
+    },
+    {
+      "id": 66862,
+      "name": "Weiswampach",
+      "latitude": "50.13722000",
+      "longitude": "6.07500000"
+    },
+    {
+      "id": 66865,
+      "name": "Wincrange",
+      "latitude": "50.05333000",
+      "longitude": "5.91917000"
+    }
+  ],
+  "country": {
+    "id": 127,
+    "name": "Luxembourg",
+    "iso3": "LUX",
+    "iso2": "LU",
+    "numeric_code": "442",
+    "phone_code": "352",
+    "capital": "Luxembourg",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lu",
+    "native": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Luxembourg",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "룩셈부르크",
+      "pt-BR": "Luxemburgo",
+      "pt": "Luxemburgo",
+      "nl": "Luxemburg",
+      "hr": "Luksemburg",
+      "fa": "لوکزامبورگ",
+      "de": "Luxemburg",
+      "es": "Luxemburgo",
+      "fr": "Luxembourg",
+      "ja": "ルクセンブルク",
+      "it": "Lussemburgo",
+      "cn": "卢森堡",
+      "tr": "Lüksemburg"
+    },
+    "latitude": "49.75000000",
+    "longitude": "6.16666666",
+    "emoji": "🇱🇺",
+    "emojiU": "U+1F1F1 U+1F1FA"
+  }
+}

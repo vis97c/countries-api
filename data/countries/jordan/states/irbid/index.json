@@ -1,0 +1,216 @@
+{
+  "id": 960,
+  "name": "Irbid",
+  "state_code": "IR",
+  "latitude": "32.55696360",
+  "longitude": "35.84789650",
+  "type": null,
+  "cities": [
+    {
+      "id": 63144,
+      "name": "Ar Ramthā",
+      "latitude": "32.55873000",
+      "longitude": "36.00816000"
+    },
+    {
+      "id": 63146,
+      "name": "Ash Shajarah",
+      "latitude": "32.64391000",
+      "longitude": "35.94175000"
+    },
+    {
+      "id": 63151,
+      "name": "Aţ Ţayyibah",
+      "latitude": "32.54304000",
+      "longitude": "35.71756000"
+    },
+    {
+      "id": 63152,
+      "name": "Aţ Ţurrah",
+      "latitude": "32.63979000",
+      "longitude": "35.98943000"
+    },
+    {
+      "id": 63148,
+      "name": "Aydūn",
+      "latitude": "32.50528000",
+      "longitude": "35.85809000"
+    },
+    {
+      "id": 63155,
+      "name": "Bayt Īdis",
+      "latitude": "32.43775000",
+      "longitude": "35.69765000"
+    },
+    {
+      "id": 63154,
+      "name": "Bayt Yāfā",
+      "latitude": "32.52253000",
+      "longitude": "35.78618000"
+    },
+    {
+      "id": 63158,
+      "name": "Dayr Yūsuf",
+      "latitude": "32.48701000",
+      "longitude": "35.79635000"
+    },
+    {
+      "id": 63201,
+      "name": "Ḩakamā",
+      "latitude": "32.59354000",
+      "longitude": "35.88320000"
+    },
+    {
+      "id": 63205,
+      "name": "Ḩātim",
+      "latitude": "32.64492000",
+      "longitude": "35.77771000"
+    },
+    {
+      "id": 63159,
+      "name": "Irbid",
+      "latitude": "32.55556000",
+      "longitude": "35.85000000"
+    },
+    {
+      "id": 63161,
+      "name": "Judita",
+      "latitude": "32.40792000",
+      "longitude": "35.70802000"
+    },
+    {
+      "id": 63163,
+      "name": "Kafr Abīl",
+      "latitude": "32.41752000",
+      "longitude": "35.66305000"
+    },
+    {
+      "id": 63164,
+      "name": "Kafr Asad",
+      "latitude": "32.59800000",
+      "longitude": "35.71266000"
+    },
+    {
+      "id": 63165,
+      "name": "Kafr Sawm",
+      "latitude": "32.68527000",
+      "longitude": "35.80102000"
+    },
+    {
+      "id": 63167,
+      "name": "Kharjā",
+      "latitude": "32.65988000",
+      "longitude": "35.88782000"
+    },
+    {
+      "id": 63168,
+      "name": "Kitim",
+      "latitude": "32.43834000",
+      "longitude": "35.89677000"
+    },
+    {
+      "id": 63169,
+      "name": "Kurayyimah",
+      "latitude": "32.27639000",
+      "longitude": "35.59938000"
+    },
+    {
+      "id": 63172,
+      "name": "Malkā",
+      "latitude": "32.67645000",
+      "longitude": "35.74851000"
+    },
+    {
+      "id": 63176,
+      "name": "Qumaym",
+      "latitude": "32.57174000",
+      "longitude": "35.73452000"
+    },
+    {
+      "id": 63184,
+      "name": "Saḩam al Kaffārāt",
+      "latitude": "32.69848000",
+      "longitude": "35.77438000"
+    },
+    {
+      "id": 63186,
+      "name": "Sāl",
+      "latitude": "32.56897000",
+      "longitude": "35.91185000"
+    },
+    {
+      "id": 63200,
+      "name": "Şammā",
+      "latitude": "32.57102000",
+      "longitude": "35.68984000"
+    },
+    {
+      "id": 63189,
+      "name": "Tibnah",
+      "latitude": "32.47521000",
+      "longitude": "35.73056000"
+    },
+    {
+      "id": 63190,
+      "name": "Umm Qays",
+      "latitude": "32.65348000",
+      "longitude": "35.68457000"
+    },
+    {
+      "id": 63193,
+      "name": "Waqqāş",
+      "latitude": "32.54214000",
+      "longitude": "35.60508000"
+    },
+    {
+      "id": 63197,
+      "name": "Zaḩar",
+      "latitude": "32.56670000",
+      "longitude": "35.77811000"
+    }
+  ],
+  "country": {
+    "id": 111,
+    "name": "Jordan",
+    "iso3": "JOR",
+    "iso2": "JO",
+    "numeric_code": "400",
+    "phone_code": "962",
+    "capital": "Amman",
+    "currency": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "ا.د",
+    "tld": ".jo",
+    "native": "الأردن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Amman",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "요르단",
+      "pt-BR": "Jordânia",
+      "pt": "Jordânia",
+      "nl": "Jordanië",
+      "hr": "Jordan",
+      "fa": "اردن",
+      "de": "Jordanien",
+      "es": "Jordania",
+      "fr": "Jordanie",
+      "ja": "ヨルダン",
+      "it": "Giordania",
+      "cn": "约旦",
+      "tr": "Ürdün"
+    },
+    "latitude": "31.00000000",
+    "longitude": "36.00000000",
+    "emoji": "🇯🇴",
+    "emojiU": "U+1F1EF U+1F1F4"
+  }
+}

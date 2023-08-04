@@ -1,0 +1,522 @@
+{
+  "id": 1644,
+  "name": "St. Gallen",
+  "state_code": "SG",
+  "latitude": "47.14562540",
+  "longitude": "9.35043320",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17393,
+      "name": "Altstätten",
+      "latitude": "47.37766000",
+      "longitude": "9.54746000"
+    },
+    {
+      "id": 17394,
+      "name": "Amden",
+      "latitude": "47.14888000",
+      "longitude": "9.14233000"
+    },
+    {
+      "id": 17398,
+      "name": "Andwil",
+      "latitude": "47.43855000",
+      "longitude": "9.27436000"
+    },
+    {
+      "id": 17419,
+      "name": "Au",
+      "latitude": "47.43093000",
+      "longitude": "9.63448000"
+    },
+    {
+      "id": 17430,
+      "name": "Bad Ragaz",
+      "latitude": "47.00601000",
+      "longitude": "9.50266000"
+    },
+    {
+      "id": 17435,
+      "name": "Balgach",
+      "latitude": "47.40556000",
+      "longitude": "9.60702000"
+    },
+    {
+      "id": 17458,
+      "name": "Benken",
+      "latitude": "47.19942000",
+      "longitude": "9.00735000"
+    },
+    {
+      "id": 17567,
+      "name": "Bronschhofen",
+      "latitude": "47.47835000",
+      "longitude": "9.03454000"
+    },
+    {
+      "id": 17580,
+      "name": "Buchs",
+      "latitude": "47.16743000",
+      "longitude": "9.47794000"
+    },
+    {
+      "id": 17606,
+      "name": "Bütschwil",
+      "latitude": "47.36022000",
+      "longitude": "9.07213000"
+    },
+    {
+      "id": 17678,
+      "name": "Degersheim",
+      "latitude": "47.37429000",
+      "longitude": "9.20019000"
+    },
+    {
+      "id": 17687,
+      "name": "Diepoldsau",
+      "latitude": "47.38600000",
+      "longitude": "9.65558000"
+    },
+    {
+      "id": 17720,
+      "name": "Ebnat-Kappel",
+      "latitude": "47.26195000",
+      "longitude": "9.12473000"
+    },
+    {
+      "id": 17730,
+      "name": "Eggersriet",
+      "latitude": "47.44202000",
+      "longitude": "9.46901000"
+    },
+    {
+      "id": 17736,
+      "name": "Eichberg",
+      "latitude": "47.34374000",
+      "longitude": "9.53140000"
+    },
+    {
+      "id": 17769,
+      "name": "Eschenbach",
+      "latitude": "47.23981000",
+      "longitude": "8.92156000"
+    },
+    {
+      "id": 17791,
+      "name": "Flawil",
+      "latitude": "47.41301000",
+      "longitude": "9.18324000"
+    },
+    {
+      "id": 17794,
+      "name": "Flums",
+      "latitude": "47.09058000",
+      "longitude": "9.34301000"
+    },
+    {
+      "id": 17821,
+      "name": "Gams",
+      "latitude": "47.20429000",
+      "longitude": "9.44172000"
+    },
+    {
+      "id": 17822,
+      "name": "Ganterschwil",
+      "latitude": "47.38103000",
+      "longitude": "9.09239000"
+    },
+    {
+      "id": 17847,
+      "name": "Goldach",
+      "latitude": "47.47401000",
+      "longitude": "9.46711000"
+    },
+    {
+      "id": 17849,
+      "name": "Goldingen",
+      "latitude": "47.26477000",
+      "longitude": "8.96167000"
+    },
+    {
+      "id": 17850,
+      "name": "Gommiswald",
+      "latitude": "47.23128000",
+      "longitude": "9.02355000"
+    },
+    {
+      "id": 17856,
+      "name": "Gossau",
+      "latitude": "47.41551000",
+      "longitude": "9.25482000"
+    },
+    {
+      "id": 17859,
+      "name": "Grabs",
+      "latitude": "47.18248000",
+      "longitude": "9.44395000"
+    },
+    {
+      "id": 17890,
+      "name": "Haag (Rheintal)",
+      "latitude": "47.20989000",
+      "longitude": "9.48931000"
+    },
+    {
+      "id": 17938,
+      "name": "Häggenschwil",
+      "latitude": "47.49462000",
+      "longitude": "9.34487000"
+    },
+    {
+      "id": 17934,
+      "name": "Horn",
+      "latitude": "47.49425000",
+      "longitude": "9.46246000"
+    },
+    {
+      "id": 17959,
+      "name": "Jona",
+      "latitude": "47.22983000",
+      "longitude": "8.83884000"
+    },
+    {
+      "id": 17962,
+      "name": "Jonschwil",
+      "latitude": "47.42402000",
+      "longitude": "9.08689000"
+    },
+    {
+      "id": 17969,
+      "name": "Kaltbrunn",
+      "latitude": "47.21367000",
+      "longitude": "9.02590000"
+    },
+    {
+      "id": 17980,
+      "name": "Kirchberg",
+      "latitude": "47.41159000",
+      "longitude": "9.04020000"
+    },
+    {
+      "id": 18009,
+      "name": "Krummenau",
+      "latitude": "47.24755000",
+      "longitude": "9.17064000"
+    },
+    {
+      "id": 18081,
+      "name": "Lichtensteig",
+      "latitude": "47.32381000",
+      "longitude": "9.08758000"
+    },
+    {
+      "id": 18111,
+      "name": "Lütisburg",
+      "latitude": "47.39451000",
+      "longitude": "9.08312000"
+    },
+    {
+      "id": 18160,
+      "name": "Mogelsberg",
+      "latitude": "47.36222000",
+      "longitude": "9.13541000"
+    },
+    {
+      "id": 18194,
+      "name": "Mörschwil",
+      "latitude": "47.47097000",
+      "longitude": "9.42278000"
+    },
+    {
+      "id": 18173,
+      "name": "Mosnang",
+      "latitude": "47.36252000",
+      "longitude": "9.04296000"
+    },
+    {
+      "id": 18178,
+      "name": "Muolen",
+      "latitude": "47.52102000",
+      "longitude": "9.32484000"
+    },
+    {
+      "id": 18221,
+      "name": "Niederbüren",
+      "latitude": "47.46547000",
+      "longitude": "9.20568000"
+    },
+    {
+      "id": 18226,
+      "name": "Niederhelfenschwil",
+      "latitude": "47.47487000",
+      "longitude": "9.18543000"
+    },
+    {
+      "id": 18255,
+      "name": "Oberhelfenschwil",
+      "latitude": "47.35673000",
+      "longitude": "9.11076000"
+    },
+    {
+      "id": 18262,
+      "name": "Oberriet",
+      "latitude": "47.32088000",
+      "longitude": "9.56808000"
+    },
+    {
+      "id": 18269,
+      "name": "Oberuzwil",
+      "latitude": "47.43076000",
+      "longitude": "9.12724000"
+    },
+    {
+      "id": 18333,
+      "name": "Quarten",
+      "latitude": "47.10700000",
+      "longitude": "9.24199000"
+    },
+    {
+      "id": 18338,
+      "name": "Rapperswil",
+      "latitude": "47.22557000",
+      "longitude": "8.82228000"
+    },
+    {
+      "id": 18341,
+      "name": "Rebstein",
+      "latitude": "47.39812000",
+      "longitude": "9.58503000"
+    },
+    {
+      "id": 18365,
+      "name": "Rheineck",
+      "latitude": "47.46630000",
+      "longitude": "9.59028000"
+    },
+    {
+      "id": 18392,
+      "name": "Rorschach",
+      "latitude": "47.47800000",
+      "longitude": "9.49030000"
+    },
+    {
+      "id": 18410,
+      "name": "Rüthi",
+      "latitude": "47.29480000",
+      "longitude": "9.53857000"
+    },
+    {
+      "id": 18438,
+      "name": "Sankt Gallen",
+      "latitude": "47.42391000",
+      "longitude": "9.37477000"
+    },
+    {
+      "id": 18439,
+      "name": "Sankt Gallenkappel",
+      "latitude": "47.24368000",
+      "longitude": "8.96438000"
+    },
+    {
+      "id": 18440,
+      "name": "Sankt Margrethen",
+      "latitude": "47.45253000",
+      "longitude": "9.63741000"
+    },
+    {
+      "id": 18442,
+      "name": "Sankt Peterzell",
+      "latitude": "47.31782000",
+      "longitude": "9.17599000"
+    },
+    {
+      "id": 18444,
+      "name": "Sargans",
+      "latitude": "47.04896000",
+      "longitude": "9.44103000"
+    },
+    {
+      "id": 18482,
+      "name": "Schänis",
+      "latitude": "47.15995000",
+      "longitude": "9.04549000"
+    },
+    {
+      "id": 18472,
+      "name": "Schmerikon",
+      "latitude": "47.22538000",
+      "longitude": "8.94836000"
+    },
+    {
+      "id": 18509,
+      "name": "Sennwald",
+      "latitude": "47.26063000",
+      "longitude": "9.50268000"
+    },
+    {
+      "id": 18515,
+      "name": "Sevelen",
+      "latitude": "47.12213000",
+      "longitude": "9.48601000"
+    },
+    {
+      "id": 18581,
+      "name": "Thal",
+      "latitude": "47.46677000",
+      "longitude": "9.56643000"
+    },
+    {
+      "id": 18654,
+      "name": "Uznach",
+      "latitude": "47.22421000",
+      "longitude": "8.98263000"
+    },
+    {
+      "id": 18655,
+      "name": "Uzwil",
+      "latitude": "47.43653000",
+      "longitude": "9.13422000"
+    },
+    {
+      "id": 18700,
+      "name": "Wahlkreis Rheintal",
+      "latitude": "47.37769000",
+      "longitude": "9.57903000"
+    },
+    {
+      "id": 18701,
+      "name": "Wahlkreis Rorschach",
+      "latitude": "47.46647000",
+      "longitude": "9.44246000"
+    },
+    {
+      "id": 18702,
+      "name": "Wahlkreis Sarganserland",
+      "latitude": "47.05000000",
+      "longitude": "9.43333000"
+    },
+    {
+      "id": 18703,
+      "name": "Wahlkreis See-Gaster",
+      "latitude": "47.22459000",
+      "longitude": "9.01680000"
+    },
+    {
+      "id": 18704,
+      "name": "Wahlkreis St. Gallen",
+      "latitude": "47.46342000",
+      "longitude": "9.39052000"
+    },
+    {
+      "id": 18705,
+      "name": "Wahlkreis Toggenburg",
+      "latitude": "47.29453000",
+      "longitude": "9.17283000"
+    },
+    {
+      "id": 18706,
+      "name": "Wahlkreis Werdenberg",
+      "latitude": "47.17743000",
+      "longitude": "9.46299000"
+    },
+    {
+      "id": 18707,
+      "name": "Wahlkreis Wil",
+      "latitude": "47.42591000",
+      "longitude": "9.12451000"
+    },
+    {
+      "id": 18711,
+      "name": "Waldkirch",
+      "latitude": "47.46859000",
+      "longitude": "9.28665000"
+    },
+    {
+      "id": 18713,
+      "name": "Walenstadt",
+      "latitude": "47.12411000",
+      "longitude": "9.31194000"
+    },
+    {
+      "id": 18725,
+      "name": "Wattwil",
+      "latitude": "47.29955000",
+      "longitude": "9.08657000"
+    },
+    {
+      "id": 18727,
+      "name": "Weesen",
+      "latitude": "47.13447000",
+      "longitude": "9.09644000"
+    },
+    {
+      "id": 18749,
+      "name": "Wil",
+      "latitude": "47.46152000",
+      "longitude": "9.04552000"
+    },
+    {
+      "id": 18753,
+      "name": "Wildhaus",
+      "latitude": "47.20583000",
+      "longitude": "9.35402000"
+    },
+    {
+      "id": 18759,
+      "name": "Wittenbach",
+      "latitude": "47.46108000",
+      "longitude": "9.38601000"
+    },
+    {
+      "id": 18805,
+      "name": "Zuzwil",
+      "latitude": "47.47452000",
+      "longitude": "9.11196000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

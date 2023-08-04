@@ -1,0 +1,97 @@
+{
+  "id": 1948,
+  "name": "Negeri Sembilan",
+  "state_code": "05",
+  "latitude": "2.72580580",
+  "longitude": "101.94237820",
+  "type": null,
+  "cities": [
+    {
+      "id": 76415,
+      "name": "Bahau",
+      "latitude": "2.80790000",
+      "longitude": "102.40490000"
+    },
+    {
+      "id": 76465,
+      "name": "Kampung Baharu Nilai",
+      "latitude": "2.80330000",
+      "longitude": "101.79720000"
+    },
+    {
+      "id": 76499,
+      "name": "Kuala Pilah",
+      "latitude": "2.73890000",
+      "longitude": "102.24870000"
+    },
+    {
+      "id": 76545,
+      "name": "Port Dickson",
+      "latitude": "2.53718000",
+      "longitude": "101.80571000"
+    },
+    {
+      "id": 76559,
+      "name": "Seremban",
+      "latitude": "2.72970000",
+      "longitude": "101.93810000"
+    },
+    {
+      "id": 76574,
+      "name": "Tampin",
+      "latitude": "2.47010000",
+      "longitude": "102.23020000"
+    }
+  ],
+  "country": {
+    "id": 132,
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "iso2": "MY",
+    "numeric_code": "458",
+    "phone_code": "60",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "native": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "translations": {
+      "kr": "말레이시아",
+      "pt-BR": "Malásia",
+      "pt": "Malásia",
+      "nl": "Maleisië",
+      "hr": "Malezija",
+      "fa": "مالزی",
+      "de": "Malaysia",
+      "es": "Malasia",
+      "fr": "Malaisie",
+      "ja": "マレーシア",
+      "it": "Malesia",
+      "cn": "马来西亚",
+      "tr": "Malezya"
+    },
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
+  }
+}

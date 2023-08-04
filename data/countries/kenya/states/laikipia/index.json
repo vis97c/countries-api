@@ -1,0 +1,72 @@
+{
+  "id": 164,
+  "name": "Laikipia",
+  "state_code": "20",
+  "latitude": "0.36060630",
+  "longitude": "36.78195050",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64850,
+      "name": "Nanyuki",
+      "latitude": "0.00624000",
+      "longitude": "37.07398000"
+    },
+    {
+      "id": 64854,
+      "name": "Nyahururu",
+      "latitude": "0.03813000",
+      "longitude": "36.36339000"
+    },
+    {
+      "id": 64865,
+      "name": "Rumuruti",
+      "latitude": "0.27250000",
+      "longitude": "36.53806000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

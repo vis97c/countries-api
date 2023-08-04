@@ -1,0 +1,84 @@
+{
+  "id": 1989,
+  "name": "Muchinga Province",
+  "state_code": "10",
+  "latitude": "-15.38219300",
+  "longitude": "28.26158000",
+  "type": null,
+  "cities": [
+    {
+      "id": 131330,
+      "name": "Chama",
+      "latitude": "-11.21303000",
+      "longitude": "33.15210000"
+    },
+    {
+      "id": 131337,
+      "name": "Chinsali",
+      "latitude": "-10.54142000",
+      "longitude": "32.08162000"
+    },
+    {
+      "id": 131342,
+      "name": "Isoka",
+      "latitude": "-10.16062000",
+      "longitude": "32.63353000"
+    },
+    {
+      "id": 131374,
+      "name": "Mpika",
+      "latitude": "-11.83431000",
+      "longitude": "31.45287000"
+    },
+    {
+      "id": 131385,
+      "name": "Nakonde",
+      "latitude": "-9.34213000",
+      "longitude": "32.74500000"
+    }
+  ],
+  "country": {
+    "id": 246,
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "numeric_code": "894",
+    "phone_code": "260",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "native": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "잠비아",
+      "pt-BR": "Zâmbia",
+      "pt": "Zâmbia",
+      "nl": "Zambia",
+      "hr": "Zambija",
+      "fa": "زامبیا",
+      "de": "Sambia",
+      "es": "Zambia",
+      "fr": "Zambie",
+      "ja": "ザンビア",
+      "it": "Zambia",
+      "cn": "赞比亚",
+      "tr": "Zambiya"
+    },
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  }
+}

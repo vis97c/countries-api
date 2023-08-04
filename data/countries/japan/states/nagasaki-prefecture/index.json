@@ -1,0 +1,186 @@
+{
+  "id": 849,
+  "name": "Nagasaki Prefecture",
+  "state_code": "42",
+  "latitude": "33.24885250",
+  "longitude": "129.69309120",
+  "type": null,
+  "cities": [
+    {
+      "id": 63362,
+      "name": "Fukuechō",
+      "latitude": "32.69732000",
+      "longitude": "128.84561000"
+    },
+    {
+      "id": 63397,
+      "name": "Gotō Shi",
+      "latitude": "32.69892000",
+      "longitude": "128.76871000"
+    },
+    {
+      "id": 63487,
+      "name": "Hirado",
+      "latitude": "33.36853000",
+      "longitude": "129.55247000"
+    },
+    {
+      "id": 63488,
+      "name": "Hirado Shi",
+      "latitude": "33.31596000",
+      "longitude": "129.48688000"
+    },
+    {
+      "id": 63557,
+      "name": "Iki Shi",
+      "latitude": "33.78554000",
+      "longitude": "129.71670000"
+    },
+    {
+      "id": 63581,
+      "name": "Isahaya",
+      "latitude": "32.84111000",
+      "longitude": "130.04306000"
+    },
+    {
+      "id": 63582,
+      "name": "Isahaya-shi",
+      "latitude": "32.86912000",
+      "longitude": "130.06369000"
+    },
+    {
+      "id": 63939,
+      "name": "Matsuura",
+      "latitude": "33.34058000",
+      "longitude": "129.69504000"
+    },
+    {
+      "id": 63940,
+      "name": "Matsuura Shi",
+      "latitude": "33.35334000",
+      "longitude": "129.73504000"
+    },
+    {
+      "id": 63970,
+      "name": "Minamishimabara-shi",
+      "latitude": "32.67565000",
+      "longitude": "130.25695000"
+    },
+    {
+      "id": 64071,
+      "name": "Nagasaki",
+      "latitude": "32.75000000",
+      "longitude": "129.88333000"
+    },
+    {
+      "id": 64072,
+      "name": "Nagasaki-shi",
+      "latitude": "32.78206000",
+      "longitude": "129.82715000"
+    },
+    {
+      "id": 64182,
+      "name": "Obita",
+      "latitude": "32.81667000",
+      "longitude": "129.88333000"
+    },
+    {
+      "id": 64743,
+      "name": "Ōmura",
+      "latitude": "32.92139000",
+      "longitude": "129.95389000"
+    },
+    {
+      "id": 64744,
+      "name": "Ōmura-shi",
+      "latitude": "32.93978000",
+      "longitude": "129.99297000"
+    },
+    {
+      "id": 64247,
+      "name": "Saikai-shi",
+      "latitude": "32.99259000",
+      "longitude": "129.68200000"
+    },
+    {
+      "id": 64290,
+      "name": "Sasebo Shi",
+      "latitude": "33.18992000",
+      "longitude": "129.68960000"
+    },
+    {
+      "id": 64325,
+      "name": "Shimabara",
+      "latitude": "32.78333000",
+      "longitude": "130.36667000"
+    },
+    {
+      "id": 64326,
+      "name": "Shimabara-shi",
+      "latitude": "32.79429000",
+      "longitude": "130.32925000"
+    },
+    {
+      "id": 64490,
+      "name": "Togitsu",
+      "latitude": "32.83333000",
+      "longitude": "129.85000000"
+    },
+    {
+      "id": 64561,
+      "name": "Tsushima Shi",
+      "latitude": "34.40845000",
+      "longitude": "129.32599000"
+    },
+    {
+      "id": 64591,
+      "name": "Unzen-shi",
+      "latitude": "32.78390000",
+      "longitude": "130.22828000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

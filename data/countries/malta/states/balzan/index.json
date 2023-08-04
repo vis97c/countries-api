@@ -1,0 +1,60 @@
+{
+  "id": 108,
+  "name": "Balzan",
+  "state_code": "02",
+  "latitude": "35.89574140",
+  "longitude": "14.45340650",
+  "type": null,
+  "cities": [
+    {
+      "id": 67759,
+      "name": "Balzan",
+      "latitude": "35.90028000",
+      "longitude": "14.45500000"
+    }
+  ],
+  "country": {
+    "id": 135,
+    "name": "Malta",
+    "iso3": "MLT",
+    "iso2": "MT",
+    "numeric_code": "470",
+    "phone_code": "356",
+    "capital": "Valletta",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "native": "Malta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몰타",
+      "pt-BR": "Malta",
+      "pt": "Malta",
+      "nl": "Malta",
+      "hr": "Malta",
+      "fa": "مالت",
+      "de": "Malta",
+      "es": "Malta",
+      "fr": "Malte",
+      "ja": "マルタ",
+      "it": "Malta",
+      "cn": "马耳他",
+      "tr": "Malta"
+    },
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  }
+}

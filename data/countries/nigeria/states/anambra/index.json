@@ -1,0 +1,126 @@
+{
+  "id": 315,
+  "name": "Anambra",
+  "state_code": "AN",
+  "latitude": "6.22089970",
+  "longitude": "6.93695590",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76759,
+      "name": "Agulu",
+      "latitude": "6.10045000",
+      "longitude": "7.06100000"
+    },
+    {
+      "id": 76781,
+      "name": "Atani",
+      "latitude": "6.01277000",
+      "longitude": "6.74768000"
+    },
+    {
+      "id": 76785,
+      "name": "Awka",
+      "latitude": "6.21269000",
+      "longitude": "7.07199000"
+    },
+    {
+      "id": 76863,
+      "name": "Enugu-Ukwu",
+      "latitude": "6.17146000",
+      "longitude": "7.00525000"
+    },
+    {
+      "id": 76920,
+      "name": "Igbo-Ukwu",
+      "latitude": "6.01798000",
+      "longitude": "7.02027000"
+    },
+    {
+      "id": 76924,
+      "name": "Ihiala",
+      "latitude": "5.85475000",
+      "longitude": "6.85944000"
+    },
+    {
+      "id": 77043,
+      "name": "Nkpor",
+      "latitude": "6.15038000",
+      "longitude": "6.83042000"
+    },
+    {
+      "id": 77044,
+      "name": "Nnewi",
+      "latitude": "6.01962000",
+      "longitude": "6.91729000"
+    },
+    {
+      "id": 77068,
+      "name": "Onitsha",
+      "latitude": "6.14978000",
+      "longitude": "6.78569000"
+    },
+    {
+      "id": 77083,
+      "name": "Ozubulu",
+      "latitude": "5.95753000",
+      "longitude": "6.85305000"
+    },
+    {
+      "id": 77120,
+      "name": "Uga",
+      "latitude": "5.93576000",
+      "longitude": "7.07930000"
+    },
+    {
+      "id": 77128,
+      "name": "Uruobo-Okija",
+      "latitude": "5.90016000",
+      "longitude": "6.84312000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

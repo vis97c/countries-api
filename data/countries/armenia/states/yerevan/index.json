@@ -1,0 +1,90 @@
+{
+  "id": 2030,
+  "name": "Yerevan",
+  "state_code": "ER",
+  "latitude": "40.18720230",
+  "longitude": "44.51520900",
+  "type": null,
+  "cities": [
+    {
+      "id": 304,
+      "name": "Arabkir",
+      "latitude": "40.20549000",
+      "longitude": "44.50699000"
+    },
+    {
+      "id": 321,
+      "name": "Argavand",
+      "latitude": "40.15289000",
+      "longitude": "44.43890000"
+    },
+    {
+      "id": 422,
+      "name": "Jrashen",
+      "latitude": "40.05275000",
+      "longitude": "44.51259000"
+    },
+    {
+      "id": 436,
+      "name": "K’anak’erravan",
+      "latitude": "40.24739000",
+      "longitude": "44.53511000"
+    },
+    {
+      "id": 555,
+      "name": "Vardadzor",
+      "latitude": "40.18701000",
+      "longitude": "45.19212000"
+    },
+    {
+      "id": 581,
+      "name": "Yerevan",
+      "latitude": "40.18111000",
+      "longitude": "44.51361000"
+    }
+  ],
+  "country": {
+    "id": 12,
+    "name": "Armenia",
+    "iso3": "ARM",
+    "iso2": "AM",
+    "numeric_code": "051",
+    "phone_code": "374",
+    "capital": "Yerevan",
+    "currency": "AMD",
+    "currency_name": "Armenian dram",
+    "currency_symbol": "֏",
+    "tld": ".am",
+    "native": "Հայաստան",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yerevan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AMT",
+        "tzName": "Armenia Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르메니아",
+      "pt-BR": "Armênia",
+      "pt": "Arménia",
+      "nl": "Armenië",
+      "hr": "Armenija",
+      "fa": "ارمنستان",
+      "de": "Armenien",
+      "es": "Armenia",
+      "fr": "Arménie",
+      "ja": "アルメニア",
+      "it": "Armenia",
+      "cn": "亚美尼亚",
+      "tr": "Ermenistan"
+    },
+    "latitude": "40.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇦🇲",
+    "emojiU": "U+1F1E6 U+1F1F2"
+  }
+}

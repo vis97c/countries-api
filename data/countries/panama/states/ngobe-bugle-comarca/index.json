@@ -1,0 +1,234 @@
+{
+  "id": 1391,
+  "name": "Ngöbe-Buglé Comarca",
+  "state_code": "NB",
+  "latitude": "8.65958330",
+  "longitude": "-81.77870210",
+  "type": null,
+  "cities": [
+    {
+      "id": 79977,
+      "name": "Bahía Azul",
+      "latitude": "9.14176000",
+      "longitude": "-81.89425000"
+    },
+    {
+      "id": 79991,
+      "name": "Besiko",
+      "latitude": "8.54863000",
+      "longitude": "-82.08980000"
+    },
+    {
+      "id": 79993,
+      "name": "Bisira",
+      "latitude": "8.89553000",
+      "longitude": "-81.85352000"
+    },
+    {
+      "id": 79996,
+      "name": "Boca de Balsa",
+      "latitude": "8.52995000",
+      "longitude": "-82.03132000"
+    },
+    {
+      "id": 80009,
+      "name": "Buenos Aires",
+      "latitude": "8.41384000",
+      "longitude": "-81.48440000"
+    },
+    {
+      "id": 80028,
+      "name": "Camarón Arriba",
+      "latitude": "8.38324000",
+      "longitude": "-81.99345000"
+    },
+    {
+      "id": 80046,
+      "name": "Cerro Banco",
+      "latitude": "8.45797000",
+      "longitude": "-82.03081000"
+    },
+    {
+      "id": 80048,
+      "name": "Cerro Caña",
+      "latitude": "8.35174000",
+      "longitude": "-81.61050000"
+    },
+    {
+      "id": 80050,
+      "name": "Cerro Plata",
+      "latitude": "8.47733000",
+      "longitude": "-81.54585000"
+    },
+    {
+      "id": 80057,
+      "name": "Chichica",
+      "latitude": "8.35885000",
+      "longitude": "-81.66582000"
+    },
+    {
+      "id": 80226,
+      "name": "Guayabito",
+      "latitude": "8.53949000",
+      "longitude": "-81.48225000"
+    },
+    {
+      "id": 80230,
+      "name": "Hato Chami",
+      "latitude": "8.44281000",
+      "longitude": "-81.77196000"
+    },
+    {
+      "id": 80231,
+      "name": "Hato Corotú",
+      "latitude": "8.33516000",
+      "longitude": "-81.97030000"
+    },
+    {
+      "id": 80239,
+      "name": "Kankintú",
+      "latitude": "8.89503000",
+      "longitude": "-81.85750000"
+    },
+    {
+      "id": 80240,
+      "name": "Kusapín",
+      "latitude": "9.17119000",
+      "longitude": "-81.89621000"
+    },
+    {
+      "id": 80285,
+      "name": "Lajero Arriba",
+      "latitude": "8.29060000",
+      "longitude": "-81.77047000"
+    },
+    {
+      "id": 80323,
+      "name": "Llano Ñopo",
+      "latitude": "8.41996000",
+      "longitude": "-81.61865000"
+    },
+    {
+      "id": 80325,
+      "name": "Loma Yuca",
+      "latitude": "8.71817000",
+      "longitude": "-81.40492000"
+    },
+    {
+      "id": 80356,
+      "name": "Mirono",
+      "latitude": "8.40469000",
+      "longitude": "-81.83064000"
+    },
+    {
+      "id": 80364,
+      "name": "Müna",
+      "latitude": "8.35035000",
+      "longitude": "-81.67219000"
+    },
+    {
+      "id": 80367,
+      "name": "Nole Düima",
+      "latitude": "8.32682000",
+      "longitude": "-81.81531000"
+    },
+    {
+      "id": 80381,
+      "name": "Nurun",
+      "latitude": "8.47815000",
+      "longitude": "-81.47015000"
+    },
+    {
+      "id": 80384,
+      "name": "Oma",
+      "latitude": "8.35019000",
+      "longitude": "-81.80177000"
+    },
+    {
+      "id": 80397,
+      "name": "Paredón Arriba",
+      "latitude": "8.45977000",
+      "longitude": "-81.19592000"
+    },
+    {
+      "id": 80414,
+      "name": "Plan de Chorcha",
+      "latitude": "8.46168000",
+      "longitude": "-82.15924000"
+    },
+    {
+      "id": 80429,
+      "name": "Pueblo Nuevo",
+      "latitude": "8.88070000",
+      "longitude": "-82.22411000"
+    },
+    {
+      "id": 80444,
+      "name": "Quebrada Canoa",
+      "latitude": "8.43333000",
+      "longitude": "-81.78333000"
+    },
+    {
+      "id": 80445,
+      "name": "Quebrada Tula",
+      "latitude": "8.84037000",
+      "longitude": "-81.99645000"
+    },
+    {
+      "id": 80515,
+      "name": "Sitio Prado",
+      "latitude": "8.37233000",
+      "longitude": "-81.58141000"
+    },
+    {
+      "id": 80523,
+      "name": "Tobobe",
+      "latitude": "9.12111000",
+      "longitude": "-81.82471000"
+    }
+  ],
+  "country": {
+    "id": 170,
+    "name": "Panama",
+    "iso3": "PAN",
+    "iso2": "PA",
+    "numeric_code": "591",
+    "phone_code": "507",
+    "capital": "Panama City",
+    "currency": "PAB",
+    "currency_name": "Panamanian balboa",
+    "currency_symbol": "B/.",
+    "tld": ".pa",
+    "native": "Panamá",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Panama",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "파나마",
+      "pt-BR": "Panamá",
+      "pt": "Panamá",
+      "nl": "Panama",
+      "hr": "Panama",
+      "fa": "پاناما",
+      "de": "Panama",
+      "es": "Panamá",
+      "fr": "Panama",
+      "ja": "パナマ",
+      "it": "Panama",
+      "cn": "巴拿马",
+      "tr": "Panama"
+    },
+    "latitude": "9.00000000",
+    "longitude": "-80.00000000",
+    "emoji": "🇵🇦",
+    "emojiU": "U+1F1F5 U+1F1E6"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": 202,
+  "name": "Solomon Islands",
+  "iso3": "SLB",
+  "iso2": "SB",
+  "numeric_code": "090",
+  "phone_code": "677",
+  "capital": "Honiara",
+  "currency": "SBD",
+  "currency_name": "Solomon Islands dollar",
+  "currency_symbol": "Si$",
+  "tld": ".sb",
+  "native": "Solomon Islands",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Guadalcanal",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "SBT",
+      "tzName": "Solomon Islands Time"
+    }
+  ],
+  "translations": {
+    "kr": "솔로몬 제도",
+    "pt-BR": "Ilhas Salomão",
+    "pt": "Ilhas Salomão",
+    "nl": "Salomonseilanden",
+    "hr": "Solomonski Otoci",
+    "fa": "جزایر سلیمان",
+    "de": "Salomonen",
+    "es": "Islas Salomón",
+    "fr": "Îles Salomon",
+    "ja": "ソロモン諸島",
+    "it": "Isole Salomone",
+    "cn": "所罗门群岛",
+    "tr": "Solomon Adalari"
+  },
+  "latitude": "-8.00000000",
+  "longitude": "159.00000000",
+  "emoji": "🇸🇧",
+  "emojiU": "U+1F1F8 U+1F1E7",
+  "states": [
+    {
+      "id": 4784,
+      "name": "Central Province",
+      "state_code": "CE",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102905,
+          "name": "Tulagi",
+          "latitude": "-9.10306000",
+          "longitude": "160.15056000"
+        }
+      ]
+    },
+    {
+      "id": 4781,
+      "name": "Choiseul Province",
+      "state_code": "CH",
+      "latitude": "-7.05014940",
+      "longitude": "156.95114590",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4785,
+      "name": "Guadalcanal Province",
+      "state_code": "GU",
+      "latitude": "-9.57732840",
+      "longitude": "160.14558050",
+      "type": null,
+      "cities": [
+        {
+          "id": 102902,
+          "name": "Honiara",
+          "latitude": "-9.43333000",
+          "longitude": "159.95000000"
+        }
+      ]
+    },
+    {
+      "id": 4778,
+      "name": "Honiara",
+      "state_code": "CT",
+      "latitude": "-9.44563810",
+      "longitude": "159.97289990",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4780,
+      "name": "Isabel Province",
+      "state_code": "IS",
+      "latitude": "-8.05923530",
+      "longitude": "159.14470810",
+      "type": null,
+      "cities": [
+        {
+          "id": 102900,
+          "name": "Buala",
+          "latitude": "-8.14497000",
+          "longitude": "159.59212000"
+        }
+      ]
+    },
+    {
+      "id": 4782,
+      "name": "Makira-Ulawa Province",
+      "state_code": "MK",
+      "latitude": "-10.57374470",
+      "longitude": "161.80969410",
+      "type": null,
+      "cities": [
+        {
+          "id": 102903,
+          "name": "Kirakira",
+          "latitude": "-10.45442000",
+          "longitude": "161.92045000"
+        }
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Malaita Province",
+      "state_code": "ML",
+      "latitude": "-8.94461680",
+      "longitude": "160.90712360",
+      "type": null,
+      "cities": [
+        {
+          "id": 102899,
+          "name": "Auki",
+          "latitude": "-8.76778000",
+          "longitude": "160.69778000"
+        }
+      ]
+    },
+    {
+      "id": 4787,
+      "name": "Rennell and Bellona Province",
+      "state_code": "RB",
+      "latitude": "-11.61314350",
+      "longitude": "160.16939490",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4779,
+      "name": "Temotu Province",
+      "state_code": "TE",
+      "latitude": "-10.68692900",
+      "longitude": "166.06239790",
+      "type": null,
+      "cities": [
+        {
+          "id": 102904,
+          "name": "Lata",
+          "latitude": "-10.72500000",
+          "longitude": "165.79722000"
+        }
+      ]
+    },
+    {
+      "id": 4786,
+      "name": "Western Province",
+      "state_code": "WE",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 102901,
+          "name": "Gizo",
+          "latitude": "-8.10303000",
+          "longitude": "156.84186000"
+        }
+      ]
+    }
+  ]
+}

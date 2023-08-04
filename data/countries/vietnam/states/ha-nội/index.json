@@ -1,0 +1,90 @@
+{
+  "id": 3810,
+  "name": "Hà Nội",
+  "state_code": "HN",
+  "latitude": "21.02776440",
+  "longitude": "105.83415980",
+  "type": null,
+  "cities": [
+    {
+      "id": 130558,
+      "name": "Hà Đông",
+      "latitude": "20.97136000",
+      "longitude": "105.77876000"
+    },
+    {
+      "id": 130201,
+      "name": "Hanoi",
+      "latitude": "21.02450000",
+      "longitude": "105.84117000"
+    },
+    {
+      "id": 130412,
+      "name": "Huyện Quốc Oai",
+      "latitude": "20.97060000",
+      "longitude": "105.61127000"
+    },
+    {
+      "id": 130586,
+      "name": "Quận Ba Đình",
+      "latitude": "21.03587000",
+      "longitude": "105.82163000"
+    },
+    {
+      "id": 130587,
+      "name": "Quận Hà Đông",
+      "latitude": "20.95482000",
+      "longitude": "105.76851000"
+    },
+    {
+      "id": 130595,
+      "name": "Sơn Tây",
+      "latitude": "21.14053000",
+      "longitude": "105.50686000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

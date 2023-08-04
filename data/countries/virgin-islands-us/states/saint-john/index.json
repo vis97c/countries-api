@@ -1,0 +1,77 @@
+{
+  "id": 5073,
+  "name": "Saint John",
+  "state_code": "SJ",
+  "latitude": "18.33561690",
+  "longitude": "-64.80028000",
+  "type": "district",
+  "cities": [
+    {
+      "id": 149568,
+      "name": "Central",
+      "latitude": "18.33568380",
+      "longitude": "-64.79470780"
+    },
+    {
+      "id": 149569,
+      "name": "Coral Bay",
+      "latitude": "18.34800890",
+      "longitude": "-64.72196820"
+    },
+    {
+      "id": 149570,
+      "name": "Cruz Bay",
+      "latitude": "18.31820370",
+      "longitude": "-64.80242110"
+    },
+    {
+      "id": 149571,
+      "name": "East End",
+      "latitude": "18.34036470",
+      "longitude": "-64.68062660"
+    }
+  ],
+  "country": {
+    "id": 242,
+    "name": "Virgin Islands (US)",
+    "iso3": "VIR",
+    "iso2": "VI",
+    "numeric_code": "850",
+    "phone_code": "+1-340",
+    "capital": "Charlotte Amalie",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".vi",
+    "native": "United States Virgin Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/St_Thomas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국령 버진아일랜드",
+      "pt-BR": "Ilhas Virgens Americanas",
+      "pt": "Ilhas Virgens Americanas",
+      "nl": "Verenigde Staten Maagdeneilanden",
+      "fa": "جزایر ویرجین آمریکا",
+      "de": "Amerikanische Jungferninseln",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "fr": "Îles Vierges des États-Unis",
+      "ja": "アメリカ領ヴァージン諸島",
+      "it": "Isole Vergini americane",
+      "cn": "维尔京群岛（美国）",
+      "tr": "Abd Virjin Adalari"
+    },
+    "latitude": "18.34000000",
+    "longitude": "-64.93000000",
+    "emoji": "🇻🇮",
+    "emojiU": "U+1F1FB U+1F1EE"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": 2069,
+  "name": "Eastern Development Region",
+  "state_code": "4",
+  "latitude": "27.33090720",
+  "longitude": "87.06242610",
+  "type": null,
+  "cities": [
+    {
+      "id": 79706,
+      "name": "Bhadrapur",
+      "latitude": "26.54404000",
+      "longitude": "88.09436000"
+    },
+    {
+      "id": 79709,
+      "name": "Bhojpur",
+      "latitude": "27.17150000",
+      "longitude": "87.04607000"
+    },
+    {
+      "id": 79711,
+      "name": "Biratnagar",
+      "latitude": "26.45505000",
+      "longitude": "87.27007000"
+    },
+    {
+      "id": 79720,
+      "name": "Dhankutā",
+      "latitude": "26.98333000",
+      "longitude": "87.33333000"
+    },
+    {
+      "id": 79721,
+      "name": "Dharān",
+      "latitude": "26.81436000",
+      "longitude": "87.27972000"
+    },
+    {
+      "id": 79730,
+      "name": "Ilām",
+      "latitude": "26.90943000",
+      "longitude": "87.92824000"
+    },
+    {
+      "id": 79731,
+      "name": "Inaruwa",
+      "latitude": "26.60675000",
+      "longitude": "87.14780000"
+    },
+    {
+      "id": 79736,
+      "name": "Khanbari",
+      "latitude": "27.37604000",
+      "longitude": "87.20767000"
+    },
+    {
+      "id": 79738,
+      "name": "Lahān",
+      "latitude": "26.72022000",
+      "longitude": "86.48258000"
+    },
+    {
+      "id": 79739,
+      "name": "Lobujya",
+      "latitude": "27.95000000",
+      "longitude": "86.81667000"
+    },
+    {
+      "id": 79744,
+      "name": "Namche Bazar",
+      "latitude": "27.80528000",
+      "longitude": "86.71058000"
+    },
+    {
+      "id": 79750,
+      "name": "Rājbirāj",
+      "latitude": "26.53968000",
+      "longitude": "86.74796000"
+    },
+    {
+      "id": 79753,
+      "name": "Siraha",
+      "latitude": "26.65422000",
+      "longitude": "86.20795000"
+    },
+    {
+      "id": 79754,
+      "name": "Titahari",
+      "latitude": "26.66371000",
+      "longitude": "87.27403000"
+    },
+    {
+      "id": 79755,
+      "name": "Triyuga",
+      "latitude": "26.79190000",
+      "longitude": "86.69900000"
+    }
+  ],
+  "country": {
+    "id": 154,
+    "name": "Nepal",
+    "iso3": "NPL",
+    "iso2": "NP",
+    "numeric_code": "524",
+    "phone_code": "977",
+    "capital": "Kathmandu",
+    "currency": "NPR",
+    "currency_name": "Nepalese rupee",
+    "currency_symbol": "₨",
+    "tld": ".np",
+    "native": "नपल",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kathmandu",
+        "gmtOffset": 20700,
+        "gmtOffsetName": "UTC+05:45",
+        "abbreviation": "NPT",
+        "tzName": "Nepal Time"
+      }
+    ],
+    "translations": {
+      "kr": "네팔",
+      "pt-BR": "Nepal",
+      "pt": "Nepal",
+      "nl": "Nepal",
+      "hr": "Nepal",
+      "fa": "نپال",
+      "de": "Népal",
+      "es": "Nepal",
+      "fr": "Népal",
+      "ja": "ネパール",
+      "it": "Nepal",
+      "cn": "尼泊尔",
+      "tr": "Nepal"
+    },
+    "latitude": "28.00000000",
+    "longitude": "84.00000000",
+    "emoji": "🇳🇵",
+    "emojiU": "U+1F1F3 U+1F1F5"
+  }
+}

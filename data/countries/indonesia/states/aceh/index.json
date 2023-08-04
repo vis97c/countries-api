@@ -1,0 +1,267 @@
+{
+  "id": 1822,
+  "name": "Aceh",
+  "state_code": "AC",
+  "latitude": "4.69513500",
+  "longitude": "96.74939930",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56193,
+      "name": "Banda Aceh",
+      "latitude": "5.54167000",
+      "longitude": "95.33333000"
+    },
+    {
+      "id": 56223,
+      "name": "Bireun",
+      "latitude": "5.20300000",
+      "longitude": "96.70090000"
+    },
+    {
+      "id": 56307,
+      "name": "Kabupaten Aceh Barat",
+      "latitude": "4.45000000",
+      "longitude": "96.16667000"
+    },
+    {
+      "id": 56308,
+      "name": "Kabupaten Aceh Barat Daya",
+      "latitude": "3.83333000",
+      "longitude": "96.88333000"
+    },
+    {
+      "id": 56309,
+      "name": "Kabupaten Aceh Besar",
+      "latitude": "5.38333000",
+      "longitude": "95.51667000"
+    },
+    {
+      "id": 56310,
+      "name": "Kabupaten Aceh Jaya",
+      "latitude": "4.86000000",
+      "longitude": "95.64000000"
+    },
+    {
+      "id": 56311,
+      "name": "Kabupaten Aceh Selatan",
+      "latitude": "3.16667000",
+      "longitude": "97.41667000"
+    },
+    {
+      "id": 56312,
+      "name": "Kabupaten Aceh Singkil",
+      "latitude": "2.41667000",
+      "longitude": "97.91667000"
+    },
+    {
+      "id": 56313,
+      "name": "Kabupaten Aceh Tamiang",
+      "latitude": "4.25000000",
+      "longitude": "97.96667000"
+    },
+    {
+      "id": 56314,
+      "name": "Kabupaten Aceh Tengah",
+      "latitude": "4.51000000",
+      "longitude": "96.85500000"
+    },
+    {
+      "id": 56315,
+      "name": "Kabupaten Aceh Tenggara",
+      "latitude": "3.36667000",
+      "longitude": "97.70000000"
+    },
+    {
+      "id": 56316,
+      "name": "Kabupaten Aceh Timur",
+      "latitude": "4.63333000",
+      "longitude": "97.63333000"
+    },
+    {
+      "id": 56317,
+      "name": "Kabupaten Aceh Utara",
+      "latitude": "4.97000000",
+      "longitude": "97.14000000"
+    },
+    {
+      "id": 56353,
+      "name": "Kabupaten Bener Meriah",
+      "latitude": "4.73015000",
+      "longitude": "96.86156000"
+    },
+    {
+      "id": 56362,
+      "name": "Kabupaten Bireuen",
+      "latitude": "5.08333000",
+      "longitude": "96.58333000"
+    },
+    {
+      "id": 56408,
+      "name": "Kabupaten Gayo Lues",
+      "latitude": "3.95000000",
+      "longitude": "97.39000000"
+    },
+    {
+      "id": 56552,
+      "name": "Kabupaten Nagan Raya",
+      "latitude": "4.16667000",
+      "longitude": "96.51667000"
+    },
+    {
+      "id": 56593,
+      "name": "Kabupaten Pidie",
+      "latitude": "5.08000000",
+      "longitude": "96.11000000"
+    },
+    {
+      "id": 56634,
+      "name": "Kabupaten Simeulue",
+      "latitude": "2.61667000",
+      "longitude": "96.08333000"
+    },
+    {
+      "id": 56729,
+      "name": "Kota Banda Aceh",
+      "latitude": "5.54167000",
+      "longitude": "95.33333000"
+    },
+    {
+      "id": 56761,
+      "name": "Kota Langsa",
+      "latitude": "4.47000000",
+      "longitude": "97.93000000"
+    },
+    {
+      "id": 56762,
+      "name": "Kota Lhokseumawe",
+      "latitude": "5.13333000",
+      "longitude": "97.06667000"
+    },
+    {
+      "id": 56791,
+      "name": "Kota Sabang",
+      "latitude": "5.87944000",
+      "longitude": "95.33223000"
+    },
+    {
+      "id": 56800,
+      "name": "Kota Subulussalam",
+      "latitude": "2.75000000",
+      "longitude": "97.93333000"
+    },
+    {
+      "id": 56837,
+      "name": "Langsa",
+      "latitude": "4.46830000",
+      "longitude": "97.96830000"
+    },
+    {
+      "id": 56844,
+      "name": "Lhokseumawe",
+      "latitude": "5.18010000",
+      "longitude": "97.15070000"
+    },
+    {
+      "id": 56872,
+      "name": "Meulaboh",
+      "latitude": "4.14402000",
+      "longitude": "96.12664000"
+    },
+    {
+      "id": 56955,
+      "name": "Reuleuet",
+      "latitude": "5.21667000",
+      "longitude": "96.28333000"
+    },
+    {
+      "id": 56957,
+      "name": "Sabang",
+      "latitude": "5.88969000",
+      "longitude": "95.31644000"
+    },
+    {
+      "id": 56976,
+      "name": "Sigli",
+      "latitude": "5.38480000",
+      "longitude": "95.96090000"
+    },
+    {
+      "id": 56979,
+      "name": "Sinabang",
+      "latitude": "2.48030000",
+      "longitude": "96.38010000"
+    },
+    {
+      "id": 56982,
+      "name": "Singkil",
+      "latitude": "2.28740000",
+      "longitude": "97.78840000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

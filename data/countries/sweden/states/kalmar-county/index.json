@@ -1,0 +1,246 @@
+{
+  "id": 1544,
+  "name": "Kalmar County",
+  "state_code": "H",
+  "latitude": "57.23501560",
+  "longitude": "16.18493490",
+  "type": null,
+  "cities": [
+    {
+      "id": 103004,
+      "name": "Ankarsrum",
+      "latitude": "57.69896000",
+      "longitude": "16.33407000"
+    },
+    {
+      "id": 103035,
+      "name": "Bergkvara",
+      "latitude": "56.39063000",
+      "longitude": "16.07274000"
+    },
+    {
+      "id": 103059,
+      "name": "Blomstermåla",
+      "latitude": "56.98333000",
+      "longitude": "16.33333000"
+    },
+    {
+      "id": 103073,
+      "name": "Borgholm",
+      "latitude": "56.87930000",
+      "longitude": "16.65634000"
+    },
+    {
+      "id": 103140,
+      "name": "Emmaboda",
+      "latitude": "56.63268000",
+      "longitude": "15.53648000"
+    },
+    {
+      "id": 103194,
+      "name": "Färjestaden",
+      "latitude": "56.64990000",
+      "longitude": "16.46859000"
+    },
+    {
+      "id": 103201,
+      "name": "Gamleby",
+      "latitude": "57.89485000",
+      "longitude": "16.40508000"
+    },
+    {
+      "id": 103234,
+      "name": "Gunnebo",
+      "latitude": "57.71667000",
+      "longitude": "16.53333000"
+    },
+    {
+      "id": 103331,
+      "name": "Högsby",
+      "latitude": "57.16597000",
+      "longitude": "16.02562000"
+    },
+    {
+      "id": 103307,
+      "name": "Hultsfred",
+      "latitude": "57.48815000",
+      "longitude": "15.84357000"
+    },
+    {
+      "id": 103372,
+      "name": "Kalmar",
+      "latitude": "56.66157000",
+      "longitude": "16.36163000"
+    },
+    {
+      "id": 103413,
+      "name": "Kristdala",
+      "latitude": "57.40070000",
+      "longitude": "16.20496000"
+    },
+    {
+      "id": 103473,
+      "name": "Lindsdal",
+      "latitude": "56.73333000",
+      "longitude": "16.30000000"
+    },
+    {
+      "id": 103481,
+      "name": "Ljungbyholm",
+      "latitude": "56.63333000",
+      "longitude": "16.16667000"
+    },
+    {
+      "id": 103559,
+      "name": "Målilla",
+      "latitude": "57.38773000",
+      "longitude": "15.80675000"
+    },
+    {
+      "id": 103565,
+      "name": "Mönsterås",
+      "latitude": "57.04134000",
+      "longitude": "16.44463000"
+    },
+    {
+      "id": 103568,
+      "name": "Mörbylånga",
+      "latitude": "56.52480000",
+      "longitude": "16.37877000"
+    },
+    {
+      "id": 103593,
+      "name": "Nybro",
+      "latitude": "56.74461000",
+      "longitude": "15.90714000"
+    },
+    {
+      "id": 103623,
+      "name": "Oskarshamn",
+      "latitude": "57.26455000",
+      "longitude": "16.44837000"
+    },
+    {
+      "id": 104056,
+      "name": "Överum",
+      "latitude": "57.98856000",
+      "longitude": "16.31390000"
+    },
+    {
+      "id": 103641,
+      "name": "Påskallavik",
+      "latitude": "57.16667000",
+      "longitude": "16.45000000"
+    },
+    {
+      "id": 103649,
+      "name": "Rinkabyholm",
+      "latitude": "56.64972000",
+      "longitude": "16.26667000"
+    },
+    {
+      "id": 103727,
+      "name": "Smedby",
+      "latitude": "56.67413000",
+      "longitude": "16.24320000"
+    },
+    {
+      "id": 103827,
+      "name": "Södra Sandby",
+      "latitude": "56.56667000",
+      "longitude": "16.61667000"
+    },
+    {
+      "id": 103829,
+      "name": "Södra Vi",
+      "latitude": "57.73993000",
+      "longitude": "15.79391000"
+    },
+    {
+      "id": 103762,
+      "name": "Storebro",
+      "latitude": "57.58333000",
+      "longitude": "15.85000000"
+    },
+    {
+      "id": 103849,
+      "name": "Timmernabben",
+      "latitude": "56.96667000",
+      "longitude": "16.43333000"
+    },
+    {
+      "id": 103866,
+      "name": "Torsås",
+      "latitude": "56.41251000",
+      "longitude": "15.99844000"
+    },
+    {
+      "id": 103873,
+      "name": "Trekanten",
+      "latitude": "56.70000000",
+      "longitude": "16.11667000"
+    },
+    {
+      "id": 103970,
+      "name": "Västervik",
+      "latitude": "57.75840000",
+      "longitude": "16.63733000"
+    },
+    {
+      "id": 103947,
+      "name": "Vimmerby",
+      "latitude": "57.66588000",
+      "longitude": "15.85515000"
+    },
+    {
+      "id": 103956,
+      "name": "Virserum",
+      "latitude": "57.31667000",
+      "longitude": "15.58333000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

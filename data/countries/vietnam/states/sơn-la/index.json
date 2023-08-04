@@ -1,0 +1,114 @@
+{
+  "id": 3812,
+  "name": "Sơn La",
+  "state_code": "05",
+  "latitude": "21.10222840",
+  "longitude": "103.72891670",
+  "type": null,
+  "cities": [
+    {
+      "id": 130238,
+      "name": "Huyện Bắc Yên",
+      "latitude": "21.25042000",
+      "longitude": "104.38501000"
+    },
+    {
+      "id": 130356,
+      "name": "Huyện Mai Sơn",
+      "latitude": "21.15884000",
+      "longitude": "104.04821000"
+    },
+    {
+      "id": 130367,
+      "name": "Huyện Mộc Châu",
+      "latitude": "21.83333000",
+      "longitude": "104.75000000"
+    },
+    {
+      "id": 130363,
+      "name": "Huyện Mường La",
+      "latitude": "21.52960000",
+      "longitude": "104.11113000"
+    },
+    {
+      "id": 130398,
+      "name": "Huyện Phù Yên",
+      "latitude": "21.21412000",
+      "longitude": "104.68993000"
+    },
+    {
+      "id": 130416,
+      "name": "Huyện Quỳnh Nhai",
+      "latitude": "21.77224000",
+      "longitude": "103.64920000"
+    },
+    {
+      "id": 130422,
+      "name": "Huyện Sông Mã",
+      "latitude": "21.06971000",
+      "longitude": "103.68727000"
+    },
+    {
+      "id": 130440,
+      "name": "Huyện Thuận Châu",
+      "latitude": "21.42319000",
+      "longitude": "103.64408000"
+    },
+    {
+      "id": 130512,
+      "name": "Huyện Yên Châu",
+      "latitude": "21.00500000",
+      "longitude": "104.33264000"
+    },
+    {
+      "id": 130594,
+      "name": "Sơn La",
+      "latitude": "21.32560000",
+      "longitude": "103.91882000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

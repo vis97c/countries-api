@@ -1,0 +1,128 @@
+{
+  "id": 2828,
+  "name": "Aisén del General Carlos Ibañez del Campo",
+  "state_code": "AI",
+  "latitude": "-46.37834500",
+  "longitude": "-72.30076230",
+  "type": null,
+  "cities": [
+    {
+      "id": 19082,
+      "name": "Aysén",
+      "latitude": "-45.40303000",
+      "longitude": "-72.69184000"
+    },
+    {
+      "id": 18962,
+      "name": "Chile Chico",
+      "latitude": "-46.53760000",
+      "longitude": "-71.72930000"
+    },
+    {
+      "id": 19084,
+      "name": "Cisnes",
+      "latitude": "-44.72750000",
+      "longitude": "-72.68050000"
+    },
+    {
+      "id": 18966,
+      "name": "Cochrane",
+      "latitude": "-47.25390000",
+      "longitude": "-72.57320000"
+    },
+    {
+      "id": 18976,
+      "name": "Coyhaique",
+      "latitude": "-45.57524000",
+      "longitude": "-72.06619000"
+    },
+    {
+      "id": 148332,
+      "name": "Guaitecas",
+      "latitude": "-43.88333333",
+      "longitude": "-73.73333333"
+    },
+    {
+      "id": 148333,
+      "name": "Lago Verde",
+      "latitude": "-44.24031000",
+      "longitude": "-71.84950000"
+    },
+    {
+      "id": 148334,
+      "name": "O'Higgins",
+      "latitude": "-48.46666667",
+      "longitude": "-72.56666667"
+    },
+    {
+      "id": 148335,
+      "name": "Río Ibáñez",
+      "latitude": "-46.30000000",
+      "longitude": "-71.93333333"
+    },
+    {
+      "id": 148336,
+      "name": "Tortel",
+      "latitude": "-47.83333333",
+      "longitude": "-73.56666667"
+    }
+  ],
+  "country": {
+    "id": 44,
+    "name": "Chile",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "numeric_code": "152",
+    "phone_code": "56",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "native": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "칠리",
+      "pt-BR": "Chile",
+      "pt": "Chile",
+      "nl": "Chili",
+      "hr": "Čile",
+      "fa": "شیلی",
+      "de": "Chile",
+      "es": "Chile",
+      "fr": "Chili",
+      "ja": "チリ",
+      "it": "Cile",
+      "cn": "智利",
+      "tr": "Şili"
+    },
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
+  }
+}

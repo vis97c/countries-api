@@ -1,0 +1,516 @@
+{
+  "id": 4614,
+  "name": "Královéhradecký kraj",
+  "state_code": "52",
+  "latitude": "50.35124840",
+  "longitude": "15.79764590",
+  "type": null,
+  "cities": [
+    {
+      "id": 22109,
+      "name": "Albrechtice nad Orlicí",
+      "latitude": "50.13979000",
+      "longitude": "16.06437000"
+    },
+    {
+      "id": 22198,
+      "name": "Bílá Třemešná",
+      "latitude": "50.44465000",
+      "longitude": "15.74101000"
+    },
+    {
+      "id": 22148,
+      "name": "Borohrádek",
+      "latitude": "50.09777000",
+      "longitude": "16.09326000"
+    },
+    {
+      "id": 22169,
+      "name": "Broumov",
+      "latitude": "50.58566000",
+      "longitude": "16.33181000"
+    },
+    {
+      "id": 23362,
+      "name": "Častolovice",
+      "latitude": "50.12910000",
+      "longitude": "16.18128000"
+    },
+    {
+      "id": 23370,
+      "name": "Černilov",
+      "latitude": "50.26265000",
+      "longitude": "15.92254000"
+    },
+    {
+      "id": 23374,
+      "name": "Černožice",
+      "latitude": "50.31863000",
+      "longitude": "15.87403000"
+    },
+    {
+      "id": 23381,
+      "name": "Červený Kostelec",
+      "latitude": "50.47626000",
+      "longitude": "16.09289000"
+    },
+    {
+      "id": 23385,
+      "name": "Česká Skalice",
+      "latitude": "50.39467000",
+      "longitude": "16.04276000"
+    },
+    {
+      "id": 23389,
+      "name": "České Meziříčí",
+      "latitude": "50.28680000",
+      "longitude": "16.04428000"
+    },
+    {
+      "id": 22221,
+      "name": "Chlumec nad Cidlinou",
+      "latitude": "50.15440000",
+      "longitude": "15.46026000"
+    },
+    {
+      "id": 22261,
+      "name": "Dobruška",
+      "latitude": "50.29201000",
+      "longitude": "16.16001000"
+    },
+    {
+      "id": 22298,
+      "name": "Dolní Černilov",
+      "latitude": "50.26110000",
+      "longitude": "15.96107000"
+    },
+    {
+      "id": 22306,
+      "name": "Doudleby nad Orlicí",
+      "latitude": "50.10742000",
+      "longitude": "16.26131000"
+    },
+    {
+      "id": 22319,
+      "name": "Dvůr Králové nad Labem",
+      "latitude": "50.43172000",
+      "longitude": "15.81402000"
+    },
+    {
+      "id": 22407,
+      "name": "Hořice",
+      "latitude": "50.36609000",
+      "longitude": "15.63183000"
+    },
+    {
+      "id": 22398,
+      "name": "Hostinné",
+      "latitude": "50.54066000",
+      "longitude": "15.72334000"
+    },
+    {
+      "id": 22412,
+      "name": "Hradec Králové",
+      "latitude": "50.20923000",
+      "longitude": "15.83277000"
+    },
+    {
+      "id": 22422,
+      "name": "Hronov",
+      "latitude": "50.47968000",
+      "longitude": "16.18230000"
+    },
+    {
+      "id": 22456,
+      "name": "Jaroměř",
+      "latitude": "50.35620000",
+      "longitude": "15.92136000"
+    },
+    {
+      "id": 22481,
+      "name": "Jičín",
+      "latitude": "50.43723000",
+      "longitude": "15.35162000"
+    },
+    {
+      "id": 22533,
+      "name": "Kopidlno",
+      "latitude": "50.33085000",
+      "longitude": "15.27029000"
+    },
+    {
+      "id": 22540,
+      "name": "Kostelec nad Orlicí",
+      "latitude": "50.12267000",
+      "longitude": "16.21319000"
+    },
+    {
+      "id": 22579,
+      "name": "Kvasiny",
+      "latitude": "50.21250000",
+      "longitude": "16.26323000"
+    },
+    {
+      "id": 22663,
+      "name": "Lázně Bělohrad",
+      "latitude": "50.42874000",
+      "longitude": "15.58269000"
+    },
+    {
+      "id": 22611,
+      "name": "Libáň",
+      "latitude": "50.37542000",
+      "longitude": "15.21684000"
+    },
+    {
+      "id": 22668,
+      "name": "Machov",
+      "latitude": "50.49927000",
+      "longitude": "16.27690000"
+    },
+    {
+      "id": 22673,
+      "name": "Malé Svatoňovice",
+      "latitude": "50.53395000",
+      "longitude": "16.04978000"
+    },
+    {
+      "id": 22684,
+      "name": "Meziměstí",
+      "latitude": "50.62461000",
+      "longitude": "16.24207000"
+    },
+    {
+      "id": 22703,
+      "name": "Mladé Buky",
+      "latitude": "50.60643000",
+      "longitude": "15.83348000"
+    },
+    {
+      "id": 22726,
+      "name": "Mostek",
+      "latitude": "50.48623000",
+      "longitude": "15.69622000"
+    },
+    {
+      "id": 22792,
+      "name": "Náchod",
+      "latitude": "50.41670000",
+      "longitude": "16.16289000"
+    },
+    {
+      "id": 22752,
+      "name": "Nechanice",
+      "latitude": "50.23737000",
+      "longitude": "15.63276000"
+    },
+    {
+      "id": 22774,
+      "name": "Nová Paka",
+      "latitude": "50.49449000",
+      "longitude": "15.51503000"
+    },
+    {
+      "id": 22779,
+      "name": "Nové Město nad Metují",
+      "latitude": "50.34456000",
+      "longitude": "16.15147000"
+    },
+    {
+      "id": 22786,
+      "name": "Nový Bydžov",
+      "latitude": "50.24150000",
+      "longitude": "15.49082000"
+    },
+    {
+      "id": 22820,
+      "name": "Okres Hradec Králové",
+      "latitude": "50.25000000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 22825,
+      "name": "Okres Jičín",
+      "latitude": "50.41667000",
+      "longitude": "15.41667000"
+    },
+    {
+      "id": 22841,
+      "name": "Okres Náchod",
+      "latitude": "50.41667000",
+      "longitude": "16.16667000"
+    },
+    {
+      "id": 22859,
+      "name": "Okres Rychnov nad Kněžnou",
+      "latitude": "50.23333000",
+      "longitude": "16.28333000"
+    },
+    {
+      "id": 22866,
+      "name": "Okres Trutnov",
+      "latitude": "50.58333000",
+      "longitude": "15.83333000"
+    },
+    {
+      "id": 22894,
+      "name": "Opočno",
+      "latitude": "50.26742000",
+      "longitude": "16.11480000"
+    },
+    {
+      "id": 22906,
+      "name": "Ostroměř",
+      "latitude": "50.37246000",
+      "longitude": "15.54949000"
+    },
+    {
+      "id": 22924,
+      "name": "Pecka",
+      "latitude": "50.48034000",
+      "longitude": "15.60822000"
+    },
+    {
+      "id": 22933,
+      "name": "Pilníkov",
+      "latitude": "50.53247000",
+      "longitude": "15.82020000"
+    },
+    {
+      "id": 22951,
+      "name": "Police nad Metují",
+      "latitude": "50.53687000",
+      "longitude": "16.23350000"
+    },
+    {
+      "id": 22998,
+      "name": "Předměřice nad Labem",
+      "latitude": "50.25633000",
+      "longitude": "15.81556000"
+    },
+    {
+      "id": 22983,
+      "name": "Provodov-Šonov",
+      "latitude": "50.38711000",
+      "longitude": "16.10797000"
+    },
+    {
+      "id": 23016,
+      "name": "Radvanice",
+      "latitude": "50.56745000",
+      "longitude": "16.06172000"
+    },
+    {
+      "id": 23031,
+      "name": "Rokytnice v Orlických Horách",
+      "latitude": "50.16473000",
+      "longitude": "16.46567000"
+    },
+    {
+      "id": 23045,
+      "name": "Rtyně v Podkrkonoší",
+      "latitude": "50.50523000",
+      "longitude": "16.07187000"
+    },
+    {
+      "id": 23048,
+      "name": "Rudník",
+      "latitude": "50.59517000",
+      "longitude": "15.73362000"
+    },
+    {
+      "id": 23053,
+      "name": "Rychnov nad Kněžnou",
+      "latitude": "50.16284000",
+      "longitude": "16.27488000"
+    },
+    {
+      "id": 23075,
+      "name": "Skuhrov nad Bělou",
+      "latitude": "50.22946000",
+      "longitude": "16.29230000"
+    },
+    {
+      "id": 23086,
+      "name": "Smidary",
+      "latitude": "50.29146000",
+      "longitude": "15.47725000"
+    },
+    {
+      "id": 23087,
+      "name": "Smiřice",
+      "latitude": "50.29978000",
+      "longitude": "15.86508000"
+    },
+    {
+      "id": 23090,
+      "name": "Sobotka",
+      "latitude": "50.46741000",
+      "longitude": "15.17619000"
+    },
+    {
+      "id": 23095,
+      "name": "Solnice",
+      "latitude": "50.20366000",
+      "longitude": "16.23762000"
+    },
+    {
+      "id": 23419,
+      "name": "Špindlerův Mlýn",
+      "latitude": "50.72615000",
+      "longitude": "15.60944000"
+    },
+    {
+      "id": 23101,
+      "name": "Stará Paka",
+      "latitude": "50.51032000",
+      "longitude": "15.49444000"
+    },
+    {
+      "id": 23109,
+      "name": "Staré Nechanice",
+      "latitude": "50.24298000",
+      "longitude": "15.61787000"
+    },
+    {
+      "id": 23136,
+      "name": "Stěžery",
+      "latitude": "50.21572000",
+      "longitude": "15.74831000"
+    },
+    {
+      "id": 23151,
+      "name": "Svoboda nad Úpou",
+      "latitude": "50.62596000",
+      "longitude": "15.81648000"
+    },
+    {
+      "id": 23161,
+      "name": "Teplice nad Metují",
+      "latitude": "50.59332000",
+      "longitude": "16.17026000"
+    },
+    {
+      "id": 23197,
+      "name": "Třebechovice pod Orebem",
+      "latitude": "50.20097000",
+      "longitude": "15.99223000"
+    },
+    {
+      "id": 23181,
+      "name": "Trutnov",
+      "latitude": "50.56101000",
+      "longitude": "15.91270000"
+    },
+    {
+      "id": 23194,
+      "name": "Týniště nad Orlicí",
+      "latitude": "50.15136000",
+      "longitude": "16.07770000"
+    },
+    {
+      "id": 23357,
+      "name": "Úpice",
+      "latitude": "50.51237000",
+      "longitude": "16.01607000"
+    },
+    {
+      "id": 23219,
+      "name": "Valdice",
+      "latitude": "50.45501000",
+      "longitude": "15.38488000"
+    },
+    {
+      "id": 23222,
+      "name": "Vamberk",
+      "latitude": "50.11756000",
+      "longitude": "16.29067000"
+    },
+    {
+      "id": 23248,
+      "name": "Velké Poříčí",
+      "latitude": "50.46177000",
+      "longitude": "16.18931000"
+    },
+    {
+      "id": 23250,
+      "name": "Velké Svatoňovice",
+      "latitude": "50.53164000",
+      "longitude": "16.02853000"
+    },
+    {
+      "id": 23300,
+      "name": "Vrchlabí",
+      "latitude": "50.62697000",
+      "longitude": "15.60937000"
+    },
+    {
+      "id": 23320,
+      "name": "Všestary",
+      "latitude": "50.25660000",
+      "longitude": "15.75983000"
+    },
+    {
+      "id": 23436,
+      "name": "Žacléř",
+      "latitude": "50.66329000",
+      "longitude": "15.91063000"
+    },
+    {
+      "id": 23323,
+      "name": "Zadní Mostek",
+      "latitude": "50.49670000",
+      "longitude": "15.69804000"
+    },
+    {
+      "id": 23443,
+      "name": "Železnice",
+      "latitude": "50.47274000",
+      "longitude": "15.38459000"
+    }
+  ],
+  "country": {
+    "id": 58,
+    "name": "Czech Republic",
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "numeric_code": "203",
+    "phone_code": "420",
+    "capital": "Prague",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "native": "Česká republika",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "체코",
+      "pt-BR": "República Tcheca",
+      "pt": "República Checa",
+      "nl": "Tsjechië",
+      "hr": "Češka",
+      "fa": "جمهوری چک",
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "fr": "République tchèque",
+      "ja": "チェコ",
+      "it": "Repubblica Ceca",
+      "cn": "捷克",
+      "tr": "Çekya"
+    },
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  }
+}

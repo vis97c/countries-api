@@ -1,0 +1,90 @@
+{
+  "id": 2135,
+  "name": "Yangon Region",
+  "state_code": "06",
+  "latitude": "16.91434880",
+  "longitude": "96.15269850",
+  "type": null,
+  "cities": [
+    {
+      "id": 67641,
+      "name": "Kanbe",
+      "latitude": "16.70728000",
+      "longitude": "96.00168000"
+    },
+    {
+      "id": 67643,
+      "name": "Kayan",
+      "latitude": "16.90802000",
+      "longitude": "96.56037000"
+    },
+    {
+      "id": 67688,
+      "name": "Syriam",
+      "latitude": "16.76887000",
+      "longitude": "96.24503000"
+    },
+    {
+      "id": 67699,
+      "name": "Thongwa",
+      "latitude": "16.75998000",
+      "longitude": "96.52498000"
+    },
+    {
+      "id": 67700,
+      "name": "Twante",
+      "latitude": "16.71047000",
+      "longitude": "95.92866000"
+    },
+    {
+      "id": 67703,
+      "name": "Yangon",
+      "latitude": "16.80528000",
+      "longitude": "96.15611000"
+    }
+  ],
+  "country": {
+    "id": 151,
+    "name": "Myanmar",
+    "iso3": "MMR",
+    "iso2": "MM",
+    "numeric_code": "104",
+    "phone_code": "95",
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK",
+    "currency_name": "Burmese kyat",
+    "currency_symbol": "K",
+    "tld": ".mm",
+    "native": "မြန်မာ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yangon",
+        "gmtOffset": 23400,
+        "gmtOffsetName": "UTC+06:30",
+        "abbreviation": "MMT",
+        "tzName": "Myanmar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미얀마",
+      "pt-BR": "Myanmar",
+      "pt": "Myanmar",
+      "nl": "Myanmar",
+      "hr": "Mijanmar",
+      "fa": "میانمار",
+      "de": "Myanmar",
+      "es": "Myanmar",
+      "fr": "Myanmar",
+      "ja": "ミャンマー",
+      "it": "Birmania",
+      "cn": "缅甸",
+      "tr": "Myanmar"
+    },
+    "latitude": "22.00000000",
+    "longitude": "98.00000000",
+    "emoji": "🇲🇲",
+    "emojiU": "U+1F1F2 U+1F1F2"
+  }
+}

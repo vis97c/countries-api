@@ -1,0 +1,186 @@
+{
+  "id": 4058,
+  "name": "La Paz Department",
+  "state_code": "LP",
+  "latitude": "-15.08924160",
+  "longitude": "-68.52471490",
+  "type": null,
+  "cities": [
+    {
+      "id": 53842,
+      "name": "Aguanqueterique",
+      "latitude": "13.98606000",
+      "longitude": "-87.64622000"
+    },
+    {
+      "id": 53879,
+      "name": "Cabañas",
+      "latitude": "13.99419000",
+      "longitude": "-88.02864000"
+    },
+    {
+      "id": 53885,
+      "name": "Cane",
+      "latitude": "14.28333000",
+      "longitude": "-87.66667000"
+    },
+    {
+      "id": 53897,
+      "name": "Chinacla",
+      "latitude": "14.18289000",
+      "longitude": "-87.95395000"
+    },
+    {
+      "id": 54014,
+      "name": "Guajiquiro",
+      "latitude": "14.06982000",
+      "longitude": "-87.77451000"
+    },
+    {
+      "id": 54073,
+      "name": "La Paz",
+      "latitude": "14.31944000",
+      "longitude": "-87.67917000"
+    },
+    {
+      "id": 54099,
+      "name": "Lauterique",
+      "latitude": "13.86425000",
+      "longitude": "-87.65792000"
+    },
+    {
+      "id": 54110,
+      "name": "Los Planes",
+      "latitude": "14.05000000",
+      "longitude": "-88.01667000"
+    },
+    {
+      "id": 54120,
+      "name": "Marcala",
+      "latitude": "14.14845000",
+      "longitude": "-88.02405000"
+    },
+    {
+      "id": 54126,
+      "name": "Mercedes de Oriente",
+      "latitude": "13.90937000",
+      "longitude": "-87.77795000"
+    },
+    {
+      "id": 54160,
+      "name": "Opatoro",
+      "latitude": "14.02451000",
+      "longitude": "-87.87982000"
+    },
+    {
+      "id": 54220,
+      "name": "San Antonio del Norte",
+      "latitude": "13.88000000",
+      "longitude": "-87.72000000"
+    },
+    {
+      "id": 54246,
+      "name": "San José",
+      "latitude": "14.22642000",
+      "longitude": "-87.96238000"
+    },
+    {
+      "id": 54257,
+      "name": "San Juan",
+      "latitude": "13.95428000",
+      "longitude": "-87.72948000"
+    },
+    {
+      "id": 54284,
+      "name": "San Pedro de Tutule",
+      "latitude": "14.25000000",
+      "longitude": "-87.85000000"
+    },
+    {
+      "id": 54292,
+      "name": "Santa Ana",
+      "latitude": "14.00011000",
+      "longitude": "-87.94107000"
+    },
+    {
+      "id": 54300,
+      "name": "Santa Elena",
+      "latitude": "14.07149000",
+      "longitude": "-88.15445000"
+    },
+    {
+      "id": 54306,
+      "name": "Santa María",
+      "latitude": "14.26904000",
+      "longitude": "-87.91164000"
+    },
+    {
+      "id": 54314,
+      "name": "Santiago Puringla",
+      "latitude": "14.35000000",
+      "longitude": "-87.90000000"
+    },
+    {
+      "id": 54335,
+      "name": "Tepanguare",
+      "latitude": "14.33333000",
+      "longitude": "-87.75000000"
+    },
+    {
+      "id": 54370,
+      "name": "Yarula",
+      "latitude": "14.10000000",
+      "longitude": "-88.08000000"
+    },
+    {
+      "id": 54371,
+      "name": "Yarumela",
+      "latitude": "14.33333000",
+      "longitude": "-87.63333000"
+    }
+  ],
+  "country": {
+    "id": 97,
+    "name": "Honduras",
+    "iso3": "HND",
+    "iso2": "HN",
+    "numeric_code": "340",
+    "phone_code": "504",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "currency_name": "Honduran lempira",
+    "currency_symbol": "L",
+    "tld": ".hn",
+    "native": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Tegucigalpa",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "온두라스",
+      "pt-BR": "Honduras",
+      "pt": "Honduras",
+      "nl": "Honduras",
+      "hr": "Honduras",
+      "fa": "هندوراس",
+      "de": "Honduras",
+      "es": "Honduras",
+      "fr": "Honduras",
+      "ja": "ホンジュラス",
+      "it": "Honduras",
+      "cn": "洪都拉斯",
+      "tr": "Honduras"
+    },
+    "latitude": "15.00000000",
+    "longitude": "-86.50000000",
+    "emoji": "🇭🇳",
+    "emojiU": "U+1F1ED U+1F1F3"
+  }
+}

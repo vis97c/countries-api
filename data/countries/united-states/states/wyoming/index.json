@@ -1,0 +1,730 @@
+{
+  "id": 1442,
+  "name": "Wyoming",
+  "state_code": "WY",
+  "latitude": "43.07596780",
+  "longitude": "-107.29028390",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111054,
+      "name": "Afton",
+      "latitude": "42.72493000",
+      "longitude": "-110.93187000"
+    },
+    {
+      "id": 111113,
+      "name": "Albany County",
+      "latitude": "41.65447000",
+      "longitude": "-105.72391000"
+    },
+    {
+      "id": 111366,
+      "name": "Antelope Valley-Crestview",
+      "latitude": "44.22488000",
+      "longitude": "-105.47409000"
+    },
+    {
+      "id": 111414,
+      "name": "Arapahoe",
+      "latitude": "42.96218000",
+      "longitude": "-108.48983000"
+    },
+    {
+      "id": 111807,
+      "name": "Bar Nunn",
+      "latitude": "42.91358000",
+      "longitude": "-106.34336000"
+    },
+    {
+      "id": 111878,
+      "name": "Basin",
+      "latitude": "44.37996000",
+      "longitude": "-108.03899000"
+    },
+    {
+      "id": 112322,
+      "name": "Big Horn County",
+      "latitude": "44.52682000",
+      "longitude": "-107.99521000"
+    },
+    {
+      "id": 113016,
+      "name": "Buffalo",
+      "latitude": "44.34831000",
+      "longitude": "-106.69894000"
+    },
+    {
+      "id": 113303,
+      "name": "Campbell County",
+      "latitude": "44.24839000",
+      "longitude": "-105.54831000"
+    },
+    {
+      "id": 113385,
+      "name": "Carbon County",
+      "latitude": "41.69459000",
+      "longitude": "-106.93061000"
+    },
+    {
+      "id": 113524,
+      "name": "Casper",
+      "latitude": "42.86663000",
+      "longitude": "-106.31308000"
+    },
+    {
+      "id": 113926,
+      "name": "Cheyenne",
+      "latitude": "41.13998000",
+      "longitude": "-104.82025000"
+    },
+    {
+      "id": 114364,
+      "name": "Cody",
+      "latitude": "44.52634000",
+      "longitude": "-109.05653000"
+    },
+    {
+      "id": 114580,
+      "name": "Converse County",
+      "latitude": "42.97233000",
+      "longitude": "-105.50706000"
+    },
+    {
+      "id": 114837,
+      "name": "Crook County",
+      "latitude": "44.58860000",
+      "longitude": "-104.56994000"
+    },
+    {
+      "id": 115424,
+      "name": "Douglas",
+      "latitude": "42.75969000",
+      "longitude": "-105.38221000"
+    },
+    {
+      "id": 116214,
+      "name": "Ethete",
+      "latitude": "43.02496000",
+      "longitude": "-108.77262000"
+    },
+    {
+      "id": 116252,
+      "name": "Evanston",
+      "latitude": "41.26828000",
+      "longitude": "-110.96324000"
+    },
+    {
+      "id": 116255,
+      "name": "Evansville",
+      "latitude": "42.85997000",
+      "longitude": "-106.26836000"
+    },
+    {
+      "id": 116760,
+      "name": "Fort Washakie",
+      "latitude": "43.00635000",
+      "longitude": "-108.88235000"
+    },
+    {
+      "id": 116801,
+      "name": "Fox Farm-College",
+      "latitude": "41.11203000",
+      "longitude": "-104.78546000"
+    },
+    {
+      "id": 116928,
+      "name": "Fremont County",
+      "latitude": "43.04053000",
+      "longitude": "-108.63042000"
+    },
+    {
+      "id": 117217,
+      "name": "Gillette",
+      "latitude": "44.29109000",
+      "longitude": "-105.50222000"
+    },
+    {
+      "id": 117303,
+      "name": "Glenrock",
+      "latitude": "42.86136000",
+      "longitude": "-105.87223000"
+    },
+    {
+      "id": 117411,
+      "name": "Goshen County",
+      "latitude": "42.08794000",
+      "longitude": "-104.35326000"
+    },
+    {
+      "id": 117606,
+      "name": "Green River",
+      "latitude": "41.52858000",
+      "longitude": "-109.46625000"
+    },
+    {
+      "id": 117728,
+      "name": "Greybull",
+      "latitude": "44.48912000",
+      "longitude": "-108.05621000"
+    },
+    {
+      "id": 117781,
+      "name": "Guernsey",
+      "latitude": "42.26969000",
+      "longitude": "-104.74163000"
+    },
+    {
+      "id": 118495,
+      "name": "Hoback",
+      "latitude": "43.28187000",
+      "longitude": "-110.78381000"
+    },
+    {
+      "id": 118684,
+      "name": "Hot Springs County",
+      "latitude": "43.71893000",
+      "longitude": "-108.44210000"
+    },
+    {
+      "id": 119074,
+      "name": "Jackson",
+      "latitude": "43.47993000",
+      "longitude": "-110.76243000"
+    },
+    {
+      "id": 119271,
+      "name": "Johnson County",
+      "latitude": "44.03877000",
+      "longitude": "-106.58463000"
+    },
+    {
+      "id": 119434,
+      "name": "Kemmerer",
+      "latitude": "41.79245000",
+      "longitude": "-110.53767000"
+    },
+    {
+      "id": 120096,
+      "name": "Lander",
+      "latitude": "42.83301000",
+      "longitude": "-108.73067000"
+    },
+    {
+      "id": 120138,
+      "name": "Laramie",
+      "latitude": "41.31137000",
+      "longitude": "-105.59110000"
+    },
+    {
+      "id": 120139,
+      "name": "Laramie County",
+      "latitude": "41.30707000",
+      "longitude": "-104.68962000"
+    },
+    {
+      "id": 120538,
+      "name": "Lincoln County",
+      "latitude": "42.26404000",
+      "longitude": "-110.65597000"
+    },
+    {
+      "id": 120824,
+      "name": "Lovell",
+      "latitude": "44.83745000",
+      "longitude": "-108.38956000"
+    },
+    {
+      "id": 120892,
+      "name": "Lusk",
+      "latitude": "42.76247000",
+      "longitude": "-104.45217000"
+    },
+    {
+      "id": 120910,
+      "name": "Lyman",
+      "latitude": "41.32745000",
+      "longitude": "-110.29293000"
+    },
+    {
+      "id": 121190,
+      "name": "Marbleton",
+      "latitude": "42.55355000",
+      "longitude": "-110.10932000"
+    },
+    {
+      "id": 121896,
+      "name": "Mills",
+      "latitude": "42.84052000",
+      "longitude": "-106.36586000"
+    },
+    {
+      "id": 122199,
+      "name": "Moorcroft",
+      "latitude": "44.26331000",
+      "longitude": "-104.95025000"
+    },
+    {
+      "id": 122215,
+      "name": "Moose Wilson Road",
+      "latitude": "43.52521000",
+      "longitude": "-110.84466000"
+    },
+    {
+      "id": 122433,
+      "name": "Mountain View",
+      "latitude": "41.26884000",
+      "longitude": "-110.33988000"
+    },
+    {
+      "id": 122594,
+      "name": "Natrona County",
+      "latitude": "42.96224000",
+      "longitude": "-106.79849000"
+    },
+    {
+      "id": 122822,
+      "name": "Newcastle",
+      "latitude": "43.85470000",
+      "longitude": "-104.20494000"
+    },
+    {
+      "id": 122904,
+      "name": "Niobrara County",
+      "latitude": "43.05650000",
+      "longitude": "-104.47538000"
+    },
+    {
+      "id": 123097,
+      "name": "North Rock Springs",
+      "latitude": "41.64358000",
+      "longitude": "-109.26568000"
+    },
+    {
+      "id": 123843,
+      "name": "Park County",
+      "latitude": "44.52057000",
+      "longitude": "-109.58853000"
+    },
+    {
+      "id": 124215,
+      "name": "Pine Bluffs",
+      "latitude": "41.18193000",
+      "longitude": "-104.06912000"
+    },
+    {
+      "id": 124249,
+      "name": "Pinedale",
+      "latitude": "42.86661000",
+      "longitude": "-109.86099000"
+    },
+    {
+      "id": 124355,
+      "name": "Platte County",
+      "latitude": "42.13305000",
+      "longitude": "-104.96582000"
+    },
+    {
+      "id": 124611,
+      "name": "Powell",
+      "latitude": "44.75384000",
+      "longitude": "-108.75735000"
+    },
+    {
+      "id": 124820,
+      "name": "Rafter J Ranch",
+      "latitude": "43.42604000",
+      "longitude": "-110.79909000"
+    },
+    {
+      "id": 124846,
+      "name": "Ranchettes",
+      "latitude": "41.21859000",
+      "longitude": "-104.79025000"
+    },
+    {
+      "id": 124912,
+      "name": "Rawlins",
+      "latitude": "41.79107000",
+      "longitude": "-107.23866000"
+    },
+    {
+      "id": 125214,
+      "name": "Riverton",
+      "latitude": "43.02496000",
+      "longitude": "-108.38010000"
+    },
+    {
+      "id": 125287,
+      "name": "Rock Springs",
+      "latitude": "41.58746000",
+      "longitude": "-109.20290000"
+    },
+    {
+      "id": 125942,
+      "name": "Saratoga",
+      "latitude": "41.45496000",
+      "longitude": "-106.80643000"
+    },
+    {
+      "id": 126323,
+      "name": "Sheridan",
+      "latitude": "44.79719000",
+      "longitude": "-106.95618000"
+    },
+    {
+      "id": 126328,
+      "name": "Sheridan County",
+      "latitude": "44.79004000",
+      "longitude": "-106.87948000"
+    },
+    {
+      "id": 126500,
+      "name": "Sleepy Hollow",
+      "latitude": "44.24109000",
+      "longitude": "-105.42222000"
+    },
+    {
+      "id": 126662,
+      "name": "South Greeley",
+      "latitude": "41.09693000",
+      "longitude": "-104.80636000"
+    },
+    {
+      "id": 126703,
+      "name": "South Park",
+      "latitude": "43.42215000",
+      "longitude": "-110.79326000"
+    },
+    {
+      "id": 126982,
+      "name": "Star Valley Ranch",
+      "latitude": "42.97139000",
+      "longitude": "-110.95556000"
+    },
+    {
+      "id": 127158,
+      "name": "Sublette County",
+      "latitude": "42.76691000",
+      "longitude": "-109.91471000"
+    },
+    {
+      "id": 127248,
+      "name": "Sundance",
+      "latitude": "44.40637000",
+      "longitude": "-104.37578000"
+    },
+    {
+      "id": 127343,
+      "name": "Sweetwater County",
+      "latitude": "41.65950000",
+      "longitude": "-108.87942000"
+    },
+    {
+      "id": 127539,
+      "name": "Teton County",
+      "latitude": "43.93476000",
+      "longitude": "-110.58974000"
+    },
+    {
+      "id": 127572,
+      "name": "Thermopolis",
+      "latitude": "43.64607000",
+      "longitude": "-108.21204000"
+    },
+    {
+      "id": 127745,
+      "name": "Torrington",
+      "latitude": "42.06246000",
+      "longitude": "-104.18439000"
+    },
+    {
+      "id": 127955,
+      "name": "Uinta County",
+      "latitude": "41.28756000",
+      "longitude": "-110.54759000"
+    },
+    {
+      "id": 128056,
+      "name": "Upton",
+      "latitude": "44.09970000",
+      "longitude": "-104.62802000"
+    },
+    {
+      "id": 128532,
+      "name": "Washakie County",
+      "latitude": "43.90500000",
+      "longitude": "-107.68286000"
+    },
+    {
+      "id": 129064,
+      "name": "Weston County",
+      "latitude": "43.84049000",
+      "longitude": "-104.56783000"
+    },
+    {
+      "id": 129109,
+      "name": "Wheatland",
+      "latitude": "42.05407000",
+      "longitude": "-104.95295000"
+    },
+    {
+      "id": 129333,
+      "name": "Wilson",
+      "latitude": "43.50076000",
+      "longitude": "-110.87521000"
+    },
+    {
+      "id": 129589,
+      "name": "Worland",
+      "latitude": "44.01690000",
+      "longitude": "-107.95537000"
+    },
+    {
+      "id": 129606,
+      "name": "Wright",
+      "latitude": "43.75124000",
+      "longitude": "-105.49201000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

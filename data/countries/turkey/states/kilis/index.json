@@ -1,0 +1,78 @@
+{
+  "id": 2154,
+  "name": "Kilis",
+  "state_code": "79",
+  "latitude": "36.82047750",
+  "longitude": "37.16873390",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107559,
+      "name": "Elbeyli",
+      "latitude": "36.67417000",
+      "longitude": "37.46667000"
+    },
+    {
+      "id": 107997,
+      "name": "Merkez",
+      "latitude": "36.71611000",
+      "longitude": "37.11500000"
+    },
+    {
+      "id": 108228,
+      "name": "Musabeyli",
+      "latitude": "36.88639000",
+      "longitude": "36.91861000"
+    },
+    {
+      "id": 108345,
+      "name": "Polateli",
+      "latitude": "36.83694000",
+      "longitude": "37.15083000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

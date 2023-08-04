@@ -1,0 +1,90 @@
+{
+  "id": 3379,
+  "name": "Pando Department",
+  "state_code": "N",
+  "latitude": "-10.79889010",
+  "longitude": "-66.99880110",
+  "type": null,
+  "cities": [
+    {
+      "id": 9848,
+      "name": "Cobija",
+      "latitude": "-11.02671000",
+      "longitude": "-68.76918000"
+    },
+    {
+      "id": 9899,
+      "name": "Provincia Abuná",
+      "latitude": "-10.50000000",
+      "longitude": "-66.50000000"
+    },
+    {
+      "id": 9931,
+      "name": "Provincia General Federico Román",
+      "latitude": "-10.33333000",
+      "longitude": "-65.88333000"
+    },
+    {
+      "id": 9948,
+      "name": "Provincia Madre de Dios",
+      "latitude": "-11.58333000",
+      "longitude": "-67.00000000"
+    },
+    {
+      "id": 9952,
+      "name": "Provincia Manuripi",
+      "latitude": "-11.33333000",
+      "longitude": "-67.50000000"
+    },
+    {
+      "id": 9960,
+      "name": "Provincia Nicolás Suárez",
+      "latitude": "-11.33333000",
+      "longitude": "-68.50000000"
+    }
+  ],
+  "country": {
+    "id": 27,
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "numeric_code": "068",
+    "phone_code": "591",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "currency_symbol": "Bs.",
+    "tld": ".bo",
+    "native": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/La_Paz",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BOT",
+        "tzName": "Bolivia Time"
+      }
+    ],
+    "translations": {
+      "kr": "볼리비아",
+      "pt-BR": "Bolívia",
+      "pt": "Bolívia",
+      "nl": "Bolivia",
+      "hr": "Bolivija",
+      "fa": "بولیوی",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fr": "Bolivie",
+      "ja": "ボリビア多民族国",
+      "it": "Bolivia",
+      "cn": "玻利维亚",
+      "tr": "Bolivya"
+    },
+    "latitude": "-17.00000000",
+    "longitude": "-65.00000000",
+    "emoji": "🇧🇴",
+    "emojiU": "U+1F1E7 U+1F1F4"
+  }
+}

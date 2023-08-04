@@ -1,0 +1,168 @@
+{
+  "id": 2124,
+  "name": "Corfu Prefecture",
+  "state_code": "22",
+  "latitude": "39.62498380",
+  "longitude": "19.92234610",
+  "type": null,
+  "cities": [
+    {
+      "id": 52599,
+      "name": "Farkadóna",
+      "latitude": "39.60000000",
+      "longitude": "22.06667000"
+    },
+    {
+      "id": 52617,
+      "name": "Fíki",
+      "latitude": "39.51602000",
+      "longitude": "21.65556000"
+    },
+    {
+      "id": 52655,
+      "name": "Gómfoi",
+      "latitude": "39.46413000",
+      "longitude": "21.69342000"
+    },
+    {
+      "id": 52647,
+      "name": "Grizáno",
+      "latitude": "39.63192000",
+      "longitude": "22.05258000"
+    },
+    {
+      "id": 52678,
+      "name": "Kalampáka",
+      "latitude": "39.70444000",
+      "longitude": "21.62694000"
+    },
+    {
+      "id": 52725,
+      "name": "Kastráki",
+      "latitude": "39.71692000",
+      "longitude": "21.61865000"
+    },
+    {
+      "id": 52913,
+      "name": "Megála Kalývia",
+      "latitude": "39.49693000",
+      "longitude": "21.78802000"
+    },
+    {
+      "id": 52910,
+      "name": "Megalochóri",
+      "latitude": "39.55982000",
+      "longitude": "21.84195000"
+    },
+    {
+      "id": 53056,
+      "name": "Oichalía",
+      "latitude": "39.60827000",
+      "longitude": "21.97996000"
+    },
+    {
+      "id": 53074,
+      "name": "Palaiomonástiro",
+      "latitude": "39.46269000",
+      "longitude": "21.65793000"
+    },
+    {
+      "id": 53080,
+      "name": "Palaiópyrgos",
+      "latitude": "39.60845000",
+      "longitude": "21.81720000"
+    },
+    {
+      "id": 53121,
+      "name": "Pigí",
+      "latitude": "39.51061000",
+      "longitude": "21.70103000"
+    },
+    {
+      "id": 53182,
+      "name": "Pýli",
+      "latitude": "39.45806000",
+      "longitude": "21.61889000"
+    },
+    {
+      "id": 53160,
+      "name": "Pyrgetós",
+      "latitude": "39.55276000",
+      "longitude": "21.74846000"
+    },
+    {
+      "id": 53202,
+      "name": "Rízoma",
+      "latitude": "39.66432000",
+      "longitude": "21.73541000"
+    },
+    {
+      "id": 53274,
+      "name": "Taxiárches",
+      "latitude": "39.57565000",
+      "longitude": "21.89245000"
+    },
+    {
+      "id": 53291,
+      "name": "Tríkala",
+      "latitude": "39.55493000",
+      "longitude": "21.76837000"
+    },
+    {
+      "id": 53313,
+      "name": "Vasilikí",
+      "latitude": "39.63984000",
+      "longitude": "21.70448000"
+    },
+    {
+      "id": 53366,
+      "name": "Zárkos",
+      "latitude": "39.60860000",
+      "longitude": "22.12336000"
+    }
+  ],
+  "country": {
+    "id": 85,
+    "name": "Greece",
+    "iso3": "GRC",
+    "iso2": "GR",
+    "numeric_code": "300",
+    "phone_code": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "native": "Ελλάδα",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "그리스",
+      "pt-BR": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "cn": "希腊",
+      "tr": "Yunanistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  }
+}

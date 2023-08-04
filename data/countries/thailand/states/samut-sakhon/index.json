@@ -1,0 +1,90 @@
+{
+  "id": 3504,
+  "name": "Samut Sakhon",
+  "state_code": "74",
+  "latitude": "13.54752160",
+  "longitude": "100.27439560",
+  "type": null,
+  "cities": [
+    {
+      "id": 105210,
+      "name": "Amphoe Ban Phaeo",
+      "latitude": "13.58747000",
+      "longitude": "100.11789000"
+    },
+    {
+      "id": 105455,
+      "name": "Amphoe Krathum Baen",
+      "latitude": "13.65570000",
+      "longitude": "100.27282000"
+    },
+    {
+      "id": 105585,
+      "name": "Amphoe Mueang Samut Sakhon",
+      "latitude": "13.53163000",
+      "longitude": "100.25326000"
+    },
+    {
+      "id": 106405,
+      "name": "Ban Phaeo",
+      "latitude": "13.59072000",
+      "longitude": "100.10748000"
+    },
+    {
+      "id": 106542,
+      "name": "Krathum Baen",
+      "latitude": "13.65330000",
+      "longitude": "100.25972000"
+    },
+    {
+      "id": 106681,
+      "name": "Samut Sakhon",
+      "latitude": "13.54753000",
+      "longitude": "100.27362000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

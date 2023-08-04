@@ -1,0 +1,198 @@
+{
+  "id": 834,
+  "name": "Kyōto Prefecture",
+  "state_code": "26",
+  "latitude": "35.15666090",
+  "longitude": "135.52519820",
+  "type": null,
+  "cities": [
+    {
+      "id": 63254,
+      "name": "Arashiyama",
+      "latitude": "35.01481000",
+      "longitude": "135.67755000"
+    },
+    {
+      "id": 63277,
+      "name": "Ayabe",
+      "latitude": "35.30000000",
+      "longitude": "135.25000000"
+    },
+    {
+      "id": 63278,
+      "name": "Ayabe-shi",
+      "latitude": "35.35263000",
+      "longitude": "135.34465000"
+    },
+    {
+      "id": 63361,
+      "name": "Fukuchiyama-shi",
+      "latitude": "35.32404000",
+      "longitude": "135.11332000"
+    },
+    {
+      "id": 63654,
+      "name": "Jōyō Shi",
+      "latitude": "34.84566000",
+      "longitude": "135.79760000"
+    },
+    {
+      "id": 63683,
+      "name": "Kameoka",
+      "latitude": "35.00000000",
+      "longitude": "135.58333000"
+    },
+    {
+      "id": 63684,
+      "name": "Kameoka-shi",
+      "latitude": "35.01021000",
+      "longitude": "135.53900000"
+    },
+    {
+      "id": 63689,
+      "name": "Kamigyō-ku",
+      "latitude": "35.02954000",
+      "longitude": "135.75666000"
+    },
+    {
+      "id": 63817,
+      "name": "Kizugawa-shi",
+      "latitude": "34.73781000",
+      "longitude": "135.82128000"
+    },
+    {
+      "id": 63891,
+      "name": "Kyōtanabe Shi",
+      "latitude": "34.80779000",
+      "longitude": "135.76300000"
+    },
+    {
+      "id": 63892,
+      "name": "Kyōtango-shi",
+      "latitude": "35.63089000",
+      "longitude": "135.04785000"
+    },
+    {
+      "id": 63890,
+      "name": "Kyoto",
+      "latitude": "35.02107000",
+      "longitude": "135.75385000"
+    },
+    {
+      "id": 63912,
+      "name": "Maizuru",
+      "latitude": "35.45000000",
+      "longitude": "135.33333000"
+    },
+    {
+      "id": 63913,
+      "name": "Maizuru-shi",
+      "latitude": "35.47009000",
+      "longitude": "135.34003000"
+    },
+    {
+      "id": 64011,
+      "name": "Miyazu",
+      "latitude": "35.53333000",
+      "longitude": "135.18333000"
+    },
+    {
+      "id": 64012,
+      "name": "Miyazu-shi",
+      "latitude": "35.55596000",
+      "longitude": "135.17662000"
+    },
+    {
+      "id": 64043,
+      "name": "Mukō Shi",
+      "latitude": "34.94975000",
+      "longitude": "135.70269000"
+    },
+    {
+      "id": 64068,
+      "name": "Nagaokakyō Shi",
+      "latitude": "34.92840000",
+      "longitude": "135.67881000"
+    },
+    {
+      "id": 64102,
+      "name": "Nantan-shi",
+      "latitude": "35.22740000",
+      "longitude": "135.55939000"
+    },
+    {
+      "id": 64463,
+      "name": "Tanabe",
+      "latitude": "34.82242000",
+      "longitude": "135.76604000"
+    },
+    {
+      "id": 64584,
+      "name": "Uji",
+      "latitude": "34.89044000",
+      "longitude": "135.80325000"
+    },
+    {
+      "id": 64585,
+      "name": "Uji Shi",
+      "latitude": "34.90296000",
+      "longitude": "135.82039000"
+    },
+    {
+      "id": 64665,
+      "name": "Yawata",
+      "latitude": "34.87009000",
+      "longitude": "135.70270000"
+    },
+    {
+      "id": 64666,
+      "name": "Yawata Shi",
+      "latitude": "34.86662000",
+      "longitude": "135.71470000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

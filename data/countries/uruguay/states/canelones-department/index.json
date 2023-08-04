@@ -1,0 +1,228 @@
+{
+  "id": 3213,
+  "name": "Canelones Department",
+  "state_code": "CA",
+  "latitude": "-34.54087170",
+  "longitude": "-55.93076000",
+  "type": null,
+  "cities": [
+    {
+      "id": 129774,
+      "name": "Aguas Corrientes",
+      "latitude": "-34.52194000",
+      "longitude": "-56.39361000"
+    },
+    {
+      "id": 129778,
+      "name": "Atlántida",
+      "latitude": "-34.77190000",
+      "longitude": "-55.75840000"
+    },
+    {
+      "id": 129780,
+      "name": "Barra de Carrasco",
+      "latitude": "-34.87722000",
+      "longitude": "-56.02972000"
+    },
+    {
+      "id": 129781,
+      "name": "Barros Blancos",
+      "latitude": "-34.75240000",
+      "longitude": "-56.00259000"
+    },
+    {
+      "id": 129785,
+      "name": "Canelones",
+      "latitude": "-34.52278000",
+      "longitude": "-56.27778000"
+    },
+    {
+      "id": 129794,
+      "name": "Colonia Nicolich",
+      "latitude": "-34.81516000",
+      "longitude": "-56.02435000"
+    },
+    {
+      "id": 129802,
+      "name": "Empalme Olmos",
+      "latitude": "-34.69753000",
+      "longitude": "-55.89268000"
+    },
+    {
+      "id": 129809,
+      "name": "Joaquín Suárez",
+      "latitude": "-34.73501000",
+      "longitude": "-56.03470000"
+    },
+    {
+      "id": 129814,
+      "name": "Juanicó",
+      "latitude": "-34.59454000",
+      "longitude": "-56.25334000"
+    },
+    {
+      "id": 129815,
+      "name": "La Floresta",
+      "latitude": "-34.75572000",
+      "longitude": "-55.68141000"
+    },
+    {
+      "id": 129818,
+      "name": "La Paz",
+      "latitude": "-34.76031000",
+      "longitude": "-56.22590000"
+    },
+    {
+      "id": 129819,
+      "name": "Las Piedras",
+      "latitude": "-34.73020000",
+      "longitude": "-56.21915000"
+    },
+    {
+      "id": 129821,
+      "name": "Las Toscas",
+      "latitude": "-34.73333000",
+      "longitude": "-55.71667000"
+    },
+    {
+      "id": 129824,
+      "name": "Los Cerrillos",
+      "latitude": "-34.60500000",
+      "longitude": "-56.35639000"
+    },
+    {
+      "id": 129829,
+      "name": "Migues",
+      "latitude": "-34.48759000",
+      "longitude": "-55.62793000"
+    },
+    {
+      "id": 129832,
+      "name": "Montes",
+      "latitude": "-34.49339000",
+      "longitude": "-55.56219000"
+    },
+    {
+      "id": 129841,
+      "name": "Pando",
+      "latitude": "-34.71716000",
+      "longitude": "-55.95840000"
+    },
+    {
+      "id": 129842,
+      "name": "Paso de Carrasco",
+      "latitude": "-34.86028000",
+      "longitude": "-56.05222000"
+    },
+    {
+      "id": 129847,
+      "name": "Progreso",
+      "latitude": "-34.66737000",
+      "longitude": "-56.21758000"
+    },
+    {
+      "id": 129858,
+      "name": "San Antonio",
+      "latitude": "-34.45130000",
+      "longitude": "-56.08036000"
+    },
+    {
+      "id": 129859,
+      "name": "San Bautista",
+      "latitude": "-34.44016000",
+      "longitude": "-55.95861000"
+    },
+    {
+      "id": 129862,
+      "name": "San Jacinto",
+      "latitude": "-34.54465000",
+      "longitude": "-55.87151000"
+    },
+    {
+      "id": 129865,
+      "name": "San Ramón",
+      "latitude": "-34.29155000",
+      "longitude": "-55.95571000"
+    },
+    {
+      "id": 129869,
+      "name": "Santa Lucía",
+      "latitude": "-34.45333000",
+      "longitude": "-56.39056000"
+    },
+    {
+      "id": 129870,
+      "name": "Santa Rosa",
+      "latitude": "-34.49819000",
+      "longitude": "-56.03795000"
+    },
+    {
+      "id": 129874,
+      "name": "Sauce",
+      "latitude": "-34.65191000",
+      "longitude": "-56.06431000"
+    },
+    {
+      "id": 129875,
+      "name": "Soca",
+      "latitude": "-34.68432000",
+      "longitude": "-55.70200000"
+    },
+    {
+      "id": 129878,
+      "name": "Tala",
+      "latitude": "-34.34349000",
+      "longitude": "-55.76375000"
+    },
+    {
+      "id": 129880,
+      "name": "Toledo",
+      "latitude": "-34.73807000",
+      "longitude": "-56.09469000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

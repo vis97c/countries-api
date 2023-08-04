@@ -1,0 +1,90 @@
+{
+  "id": 3968,
+  "name": "Erbil",
+  "state_code": "AR",
+  "latitude": "36.55706280",
+  "longitude": "44.38512630",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 134496,
+      "name": "Arbil",
+      "latitude": "36.19070000",
+      "longitude": "44.00947000"
+    },
+    {
+      "id": 134513,
+      "name": "Erbil",
+      "latitude": "36.18333000",
+      "longitude": "44.01193000"
+    },
+    {
+      "id": 134522,
+      "name": "Koysinceq",
+      "latitude": "36.08289000",
+      "longitude": "44.62873000"
+    },
+    {
+      "id": 134534,
+      "name": "Ruwāndiz",
+      "latitude": "36.61207000",
+      "longitude": "44.52372000"
+    },
+    {
+      "id": 134536,
+      "name": "Shaqlāwah",
+      "latitude": "36.40422000",
+      "longitude": "44.32563000"
+    },
+    {
+      "id": 134539,
+      "name": "Soran",
+      "latitude": "36.65320000",
+      "longitude": "44.54407000"
+    }
+  ],
+  "country": {
+    "id": 104,
+    "name": "Iraq",
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "numeric_code": "368",
+    "phone_code": "964",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "currency_name": "Iraqi dinar",
+    "currency_symbol": "د.ع",
+    "tld": ".iq",
+    "native": "العراق",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Baghdad",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "이라크",
+      "pt-BR": "Iraque",
+      "pt": "Iraque",
+      "nl": "Irak",
+      "hr": "Irak",
+      "fa": "عراق",
+      "de": "Irak",
+      "es": "Irak",
+      "fr": "Irak",
+      "ja": "イラク",
+      "it": "Iraq",
+      "cn": "伊拉克",
+      "tr": "Irak"
+    },
+    "latitude": "33.00000000",
+    "longitude": "44.00000000",
+    "emoji": "🇮🇶",
+    "emojiU": "U+1F1EE U+1F1F6"
+  }
+}

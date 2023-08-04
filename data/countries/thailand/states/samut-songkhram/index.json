@@ -1,0 +1,78 @@
+{
+  "id": 3502,
+  "name": "Samut Songkhram",
+  "state_code": "75",
+  "latitude": "13.40982170",
+  "longitude": "100.00226450",
+  "type": null,
+  "cities": [
+    {
+      "id": 105181,
+      "name": "Amphoe Amphawa",
+      "latitude": "13.36721000",
+      "longitude": "99.91232000"
+    },
+    {
+      "id": 105227,
+      "name": "Amphoe Bang Khonthi",
+      "latitude": "13.47448000",
+      "longitude": "99.94838000"
+    },
+    {
+      "id": 105586,
+      "name": "Amphoe Mueang Samut Songkhram",
+      "latitude": "13.39587000",
+      "longitude": "99.99929000"
+    },
+    {
+      "id": 106682,
+      "name": "Samut Songkhram",
+      "latitude": "13.41456000",
+      "longitude": "100.00264000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

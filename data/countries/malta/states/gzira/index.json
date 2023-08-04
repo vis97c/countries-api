@@ -1,0 +1,60 @@
+{
+  "id": 113,
+  "name": "Gżira",
+  "state_code": "12",
+  "latitude": "35.90589700",
+  "longitude": "14.49533380",
+  "type": null,
+  "cities": [
+    {
+      "id": 67769,
+      "name": "Għarb",
+      "latitude": "36.06000000",
+      "longitude": "14.20889000"
+    }
+  ],
+  "country": {
+    "id": 135,
+    "name": "Malta",
+    "iso3": "MLT",
+    "iso2": "MT",
+    "numeric_code": "470",
+    "phone_code": "356",
+    "capital": "Valletta",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".mt",
+    "native": "Malta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Malta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몰타",
+      "pt-BR": "Malta",
+      "pt": "Malta",
+      "nl": "Malta",
+      "hr": "Malta",
+      "fa": "مالت",
+      "de": "Malta",
+      "es": "Malta",
+      "fr": "Malte",
+      "ja": "マルタ",
+      "it": "Malta",
+      "cn": "马耳他",
+      "tr": "Malta"
+    },
+    "latitude": "35.83333333",
+    "longitude": "14.58333333",
+    "emoji": "🇲🇹",
+    "emojiU": "U+1F1F2 U+1F1F9"
+  }
+}

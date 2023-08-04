@@ -1,0 +1,159 @@
+{
+  "id": 1800,
+  "name": "Maluku",
+  "state_code": "MA",
+  "latitude": "-3.23846160",
+  "longitude": "130.14527340",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56175,
+      "name": "Amahai",
+      "latitude": "-3.33984000",
+      "longitude": "128.91975000"
+    },
+    {
+      "id": 56178,
+      "name": "Ambon",
+      "latitude": "-3.69583000",
+      "longitude": "128.18333000"
+    },
+    {
+      "id": 56384,
+      "name": "Kabupaten Buru",
+      "latitude": "-3.32767000",
+      "longitude": "126.68413000"
+    },
+    {
+      "id": 56385,
+      "name": "Kabupaten Buru Selatan",
+      "latitude": "-3.52187000",
+      "longitude": "126.59271000"
+    },
+    {
+      "id": 56451,
+      "name": "Kabupaten Kepulauan Aru",
+      "latitude": "-6.17059000",
+      "longitude": "134.46991000"
+    },
+    {
+      "id": 56513,
+      "name": "Kabupaten Maluku Barat Daya",
+      "latitude": "-7.82960000",
+      "longitude": "126.17386000"
+    },
+    {
+      "id": 56514,
+      "name": "Kabupaten Maluku Tengah",
+      "latitude": "-3.29167000",
+      "longitude": "128.96750000"
+    },
+    {
+      "id": 56515,
+      "name": "Kabupaten Maluku Tenggara",
+      "latitude": "-5.75000000",
+      "longitude": "132.73333000"
+    },
+    {
+      "id": 56516,
+      "name": "Kabupaten Maluku Tenggara Barat",
+      "latitude": "-7.61186000",
+      "longitude": "131.38000000"
+    },
+    {
+      "id": 56621,
+      "name": "Kabupaten Seram Bagian Barat",
+      "latitude": "-3.10270000",
+      "longitude": "128.42996000"
+    },
+    {
+      "id": 56622,
+      "name": "Kabupaten Seram Bagian Timur",
+      "latitude": "-3.39851000",
+      "longitude": "130.39167000"
+    },
+    {
+      "id": 56727,
+      "name": "Kota Ambon",
+      "latitude": "-3.70000000",
+      "longitude": "128.18333000"
+    },
+    {
+      "id": 56815,
+      "name": "Kota Tual",
+      "latitude": "-5.64301000",
+      "longitude": "132.74935000"
+    },
+    {
+      "id": 57041,
+      "name": "Tual",
+      "latitude": "-5.62878000",
+      "longitude": "132.75229000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

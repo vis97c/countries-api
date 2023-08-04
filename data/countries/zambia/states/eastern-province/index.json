@@ -1,0 +1,84 @@
+{
+  "id": 1991,
+  "name": "Eastern Province",
+  "state_code": "03",
+  "latitude": "23.16696880",
+  "longitude": "49.36531490",
+  "type": null,
+  "cities": [
+    {
+      "id": 131329,
+      "name": "Chadiza",
+      "latitude": "-14.06779000",
+      "longitude": "32.43917000"
+    },
+    {
+      "id": 131338,
+      "name": "Chipata",
+      "latitude": "-13.63333000",
+      "longitude": "32.65000000"
+    },
+    {
+      "id": 131364,
+      "name": "Lundazi",
+      "latitude": "-12.29292000",
+      "longitude": "33.17820000"
+    },
+    {
+      "id": 131389,
+      "name": "Nyimba",
+      "latitude": "-14.55656000",
+      "longitude": "30.81490000"
+    },
+    {
+      "id": 131390,
+      "name": "Petauke",
+      "latitude": "-14.24117000",
+      "longitude": "31.31975000"
+    }
+  ],
+  "country": {
+    "id": 246,
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "numeric_code": "894",
+    "phone_code": "260",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "native": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "잠비아",
+      "pt-BR": "Zâmbia",
+      "pt": "Zâmbia",
+      "nl": "Zambia",
+      "hr": "Zambija",
+      "fa": "زامبیا",
+      "de": "Sambia",
+      "es": "Zambia",
+      "fr": "Zambie",
+      "ja": "ザンビア",
+      "it": "Zambia",
+      "cn": "赞比亚",
+      "tr": "Zambiya"
+    },
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  }
+}

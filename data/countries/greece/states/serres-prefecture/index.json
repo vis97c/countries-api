@@ -1,0 +1,53 @@
+{
+  "id": 2121,
+  "name": "Serres Prefecture",
+  "state_code": "62",
+  "latitude": "41.08638540",
+  "longitude": "23.54838190",
+  "type": null,
+  "cities": [],
+  "country": {
+    "id": 85,
+    "name": "Greece",
+    "iso3": "GRC",
+    "iso2": "GR",
+    "numeric_code": "300",
+    "phone_code": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "native": "Ελλάδα",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "그리스",
+      "pt-BR": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "cn": "希腊",
+      "tr": "Yunanistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "id": 868,
+  "name": "New Brunswick",
+  "state_code": "NB",
+  "latitude": "46.56531630",
+  "longitude": "-66.46191640",
+  "type": "province",
+  "cities": [
+    {
+      "id": 16184,
+      "name": "Baie Ste. Anne",
+      "latitude": "47.05231000",
+      "longitude": "-64.95355000"
+    },
+    {
+      "id": 16198,
+      "name": "Bathurst",
+      "latitude": "47.61814000",
+      "longitude": "-65.65112000"
+    },
+    {
+      "id": 16232,
+      "name": "Bouctouche",
+      "latitude": "46.46844000",
+      "longitude": "-64.73905000"
+    },
+    {
+      "id": 16264,
+      "name": "Campbellton",
+      "latitude": "48.00751000",
+      "longitude": "-66.67272000"
+    },
+    {
+      "id": 16373,
+      "name": "Dieppe",
+      "latitude": "46.07844000",
+      "longitude": "-64.68735000"
+    },
+    {
+      "id": 16397,
+      "name": "Edmundston",
+      "latitude": "47.37370000",
+      "longitude": "-68.32512000"
+    },
+    {
+      "id": 16423,
+      "name": "Florenceville-Bristol",
+      "latitude": "46.44353000",
+      "longitude": "-67.61536000"
+    },
+    {
+      "id": 16441,
+      "name": "Fredericton",
+      "latitude": "45.94541000",
+      "longitude": "-66.66558000"
+    },
+    {
+      "id": 16444,
+      "name": "Fundy Bay",
+      "latitude": "44.74100000",
+      "longitude": "-66.76041000"
+    },
+    {
+      "id": 16468,
+      "name": "Grande-Digue",
+      "latitude": "46.30014000",
+      "longitude": "-64.56546000"
+    },
+    {
+      "id": 16471,
+      "name": "Greater Lakeburn",
+      "latitude": "46.07651000",
+      "longitude": "-64.66818000"
+    },
+    {
+      "id": 16486,
+      "name": "Hampton",
+      "latitude": "45.52876000",
+      "longitude": "-65.85354000"
+    },
+    {
+      "id": 16493,
+      "name": "Harrison Brook",
+      "latitude": "47.21304000",
+      "longitude": "-67.92847000"
+    },
+    {
+      "id": 16542,
+      "name": "Keswick Ridge",
+      "latitude": "46.00011000",
+      "longitude": "-66.88218000"
+    },
+    {
+      "id": 16618,
+      "name": "Lincoln",
+      "latitude": "45.90012000",
+      "longitude": "-66.58218000"
+    },
+    {
+      "id": 16638,
+      "name": "Lutes Mountain",
+      "latitude": "46.13544000",
+      "longitude": "-64.90504000"
+    },
+    {
+      "id": 16672,
+      "name": "McEwen",
+      "latitude": "46.14520000",
+      "longitude": "-64.78615000"
+    },
+    {
+      "id": 16695,
+      "name": "Miramichi",
+      "latitude": "47.02895000",
+      "longitude": "-65.50186000"
+    },
+    {
+      "id": 16700,
+      "name": "Moncton",
+      "latitude": "46.09454000",
+      "longitude": "-64.79650000"
+    },
+    {
+      "id": 16726,
+      "name": "Nackawic",
+      "latitude": "45.99666000",
+      "longitude": "-67.24028000"
+    },
+    {
+      "id": 16741,
+      "name": "New Maryland",
+      "latitude": "45.87932000",
+      "longitude": "-66.66828000"
+    },
+    {
+      "id": 16750,
+      "name": "Noonan",
+      "latitude": "45.96682000",
+      "longitude": "-66.53218000"
+    },
+    {
+      "id": 16781,
+      "name": "Oromocto",
+      "latitude": "45.83512000",
+      "longitude": "-66.47917000"
+    },
+    {
+      "id": 16884,
+      "name": "Richibucto",
+      "latitude": "46.68073000",
+      "longitude": "-64.88044000"
+    },
+    {
+      "id": 16910,
+      "name": "Sackville",
+      "latitude": "45.91875000",
+      "longitude": "-64.38455000"
+    },
+    {
+      "id": 16913,
+      "name": "Saint Andrews",
+      "latitude": "45.07370000",
+      "longitude": "-67.05312000"
+    },
+    {
+      "id": 16914,
+      "name": "Saint John",
+      "latitude": "45.27271000",
+      "longitude": "-66.06766000"
+    },
+    {
+      "id": 16921,
+      "name": "Saint-Antoine",
+      "latitude": "46.36294000",
+      "longitude": "-64.74985000"
+    },
+    {
+      "id": 16967,
+      "name": "Saint-Léonard",
+      "latitude": "47.16317000",
+      "longitude": "-67.92460000"
+    },
+    {
+      "id": 17014,
+      "name": "Salisbury",
+      "latitude": "46.03905000",
+      "longitude": "-65.04628000"
+    },
+    {
+      "id": 17034,
+      "name": "Shediac",
+      "latitude": "46.21981000",
+      "longitude": "-64.54107000"
+    },
+    {
+      "id": 17035,
+      "name": "Shediac Bridge-Shediac River",
+      "latitude": "46.26886000",
+      "longitude": "-64.60047000"
+    },
+    {
+      "id": 17042,
+      "name": "Shippagan",
+      "latitude": "47.74424000",
+      "longitude": "-64.70804000"
+    },
+    {
+      "id": 17074,
+      "name": "Starlight Village",
+      "latitude": "45.88308000",
+      "longitude": "-66.76905000"
+    },
+    {
+      "id": 17090,
+      "name": "Sussex",
+      "latitude": "45.72266000",
+      "longitude": "-65.50663000"
+    },
+    {
+      "id": 17124,
+      "name": "Tracadie-Sheila",
+      "latitude": "47.51444000",
+      "longitude": "-64.91806000"
+    },
+    {
+      "id": 17186,
+      "name": "Wells",
+      "latitude": "45.39274000",
+      "longitude": "-65.92313000"
+    }
+  ],
+  "country": {
+    "id": 39,
+    "name": "Canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "numeric_code": "124",
+    "phone_code": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currency_name": "Canadian dollar",
+    "currency_symbol": "$",
+    "tld": ".ca",
+    "native": "Canada",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Atikokan",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Blanc-Sablon",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Cambridge_Bay",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Creston",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Dawson_Creek",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Edmonton",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Fort_Nelson",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America)"
+      },
+      {
+        "zoneName": "America/Glace_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Goose_Bay",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Halifax",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Inuvik",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Iqaluit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Moncton",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      },
+      {
+        "zoneName": "America/Nipigon",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Pangnirtung",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rainy_River",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Rankin_Inlet",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Regina",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Resolute",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/St_Johns",
+        "gmtOffset": -12600,
+        "gmtOffsetName": "UTC-03:30",
+        "abbreviation": "NST",
+        "tzName": "Newfoundland Standard Time"
+      },
+      {
+        "zoneName": "America/Swift_Current",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Thunder_Bay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Toronto",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Vancouver",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Whitehorse",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Winnipeg",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Yellowknife",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "캐나다",
+      "pt-BR": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "cn": "加拿大",
+      "tr": "Kanada"
+    },
+    "latitude": "60.00000000",
+    "longitude": "-95.00000000",
+    "emoji": "🇨🇦",
+    "emojiU": "U+1F1E8 U+1F1E6"
+  }
+}

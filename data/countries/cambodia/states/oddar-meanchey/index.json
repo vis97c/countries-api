@@ -1,0 +1,78 @@
+{
+  "id": 3987,
+  "name": "Oddar Meanchey",
+  "state_code": "22",
+  "latitude": "14.16097380",
+  "longitude": "103.82162610",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64976,
+      "name": "Samraong",
+      "latitude": "14.18175000",
+      "longitude": "103.51761000"
+    },
+    {
+      "id": 64994,
+      "name": "Srŏk Bântéay Âmpĭl",
+      "latitude": "14.18590000",
+      "longitude": "103.25925000"
+    },
+    {
+      "id": 65023,
+      "name": "Srŏk Sâmraông",
+      "latitude": "14.25039000",
+      "longitude": "103.62739000"
+    },
+    {
+      "id": 65026,
+      "name": "Srŏk Trâpeăng Prasat",
+      "latitude": "14.25809000",
+      "longitude": "104.30835000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

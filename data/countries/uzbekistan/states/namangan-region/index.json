@@ -1,0 +1,127 @@
+{
+  "id": 2537,
+  "name": "Namangan Region",
+  "state_code": "NG",
+  "latitude": "41.05100370",
+  "longitude": "71.09731700",
+  "type": null,
+  "cities": [
+    {
+      "id": 129917,
+      "name": "Chortoq",
+      "latitude": "41.06924000",
+      "longitude": "71.82372000"
+    },
+    {
+      "id": 129918,
+      "name": "Chust",
+      "latitude": "41.00329000",
+      "longitude": "71.23791000"
+    },
+    {
+      "id": 129933,
+      "name": "Haqqulobod",
+      "latitude": "40.91667000",
+      "longitude": "72.11667000"
+    },
+    {
+      "id": 129952,
+      "name": "Kosonsoy",
+      "latitude": "41.24944000",
+      "longitude": "71.54738000"
+    },
+    {
+      "id": 129960,
+      "name": "Namangan",
+      "latitude": "40.99830000",
+      "longitude": "71.67257000"
+    },
+    {
+      "id": 129980,
+      "name": "Pop",
+      "latitude": "40.87361000",
+      "longitude": "71.10889000"
+    },
+    {
+      "id": 130009,
+      "name": "To‘rqao‘rg‘on",
+      "latitude": "40.99984000",
+      "longitude": "71.51162000"
+    },
+    {
+      "id": 130007,
+      "name": "Toshbuloq",
+      "latitude": "40.91617000",
+      "longitude": "71.57819000"
+    },
+    {
+      "id": 130011,
+      "name": "Uchqŭrghon Shahri",
+      "latitude": "41.11371000",
+      "longitude": "72.07915000"
+    },
+    {
+      "id": 130015,
+      "name": "Uychi",
+      "latitude": "41.08073000",
+      "longitude": "71.92331000"
+    },
+    {
+      "id": 130021,
+      "name": "Yangiqo‘rg‘on",
+      "latitude": "41.19474000",
+      "longitude": "71.72385000"
+    }
+  ],
+  "country": {
+    "id": 236,
+    "name": "Uzbekistan",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "numeric_code": "860",
+    "phone_code": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "native": "O‘zbekiston",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Samarkand",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      },
+      {
+        "zoneName": "Asia/Tashkent",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "UZT",
+        "tzName": "Uzbekistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "우즈베키스탄",
+      "pt-BR": "Uzbequistão",
+      "pt": "Usbequistão",
+      "nl": "Oezbekistan",
+      "hr": "Uzbekistan",
+      "fa": "ازبکستان",
+      "de": "Usbekistan",
+      "es": "Uzbekistán",
+      "fr": "Ouzbékistan",
+      "ja": "ウズベキスタン",
+      "it": "Uzbekistan",
+      "cn": "乌兹别克斯坦",
+      "tr": "Özbekistan"
+    },
+    "latitude": "41.00000000",
+    "longitude": "64.00000000",
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF"
+  }
+}

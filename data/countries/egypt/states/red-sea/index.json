@@ -1,0 +1,96 @@
+{
+  "id": 3240,
+  "name": "Red Sea",
+  "state_code": "BA",
+  "latitude": "24.68263160",
+  "longitude": "34.15319470",
+  "type": null,
+  "cities": [
+    {
+      "id": 31780,
+      "name": "Al Quşayr",
+      "latitude": "26.10426000",
+      "longitude": "34.27793000"
+    },
+    {
+      "id": 31811,
+      "name": "El Gouna",
+      "latitude": "27.39417000",
+      "longitude": "33.67825000"
+    },
+    {
+      "id": 31817,
+      "name": "Hurghada",
+      "latitude": "27.25738000",
+      "longitude": "33.81291000"
+    },
+    {
+      "id": 31834,
+      "name": "Makadi Bay",
+      "latitude": "26.99123000",
+      "longitude": "33.89952000"
+    },
+    {
+      "id": 31841,
+      "name": "Marsa Alam",
+      "latitude": "25.06305000",
+      "longitude": "34.89005000"
+    },
+    {
+      "id": 31856,
+      "name": "Ras Gharib",
+      "latitude": "28.35831000",
+      "longitude": "33.07829000"
+    },
+    {
+      "id": 31858,
+      "name": "Safaga",
+      "latitude": "26.74906000",
+      "longitude": "33.93891000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

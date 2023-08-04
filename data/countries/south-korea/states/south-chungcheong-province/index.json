@@ -1,0 +1,222 @@
+{
+  "id": 3859,
+  "name": "South Chungcheong Province",
+  "state_code": "44",
+  "latitude": "36.51840000",
+  "longitude": "126.80000000",
+  "type": null,
+  "cities": [
+    {
+      "id": 65265,
+      "name": "Asan",
+      "latitude": "36.78361000",
+      "longitude": "127.00417000"
+    },
+    {
+      "id": 65266,
+      "name": "Asan-si",
+      "latitude": "36.80791000",
+      "longitude": "126.97769000"
+    },
+    {
+      "id": 65270,
+      "name": "Boryeong",
+      "latitude": "36.34931000",
+      "longitude": "126.59772000"
+    },
+    {
+      "id": 65271,
+      "name": "Boryeong-si",
+      "latitude": "36.35649000",
+      "longitude": "126.59444000"
+    },
+    {
+      "id": 65279,
+      "name": "Buyeo",
+      "latitude": "36.27472000",
+      "longitude": "126.90906000"
+    },
+    {
+      "id": 65280,
+      "name": "Buyeo-gun",
+      "latitude": "36.26257000",
+      "longitude": "126.85802000"
+    },
+    {
+      "id": 65286,
+      "name": "Cheonan",
+      "latitude": "36.80650000",
+      "longitude": "127.15220000"
+    },
+    {
+      "id": 65287,
+      "name": "Cheonan-si",
+      "latitude": "36.80488000",
+      "longitude": "127.19431000"
+    },
+    {
+      "id": 65292,
+      "name": "Cheongyang-gun",
+      "latitude": "36.41676000",
+      "longitude": "126.79419000"
+    },
+    {
+      "id": 65332,
+      "name": "Geumsan-gun",
+      "latitude": "36.13381000",
+      "longitude": "127.48062000"
+    },
+    {
+      "id": 65344,
+      "name": "Gongju",
+      "latitude": "36.45556000",
+      "longitude": "127.12472000"
+    },
+    {
+      "id": 65345,
+      "name": "Gongju-si",
+      "latitude": "36.50000000",
+      "longitude": "127.08333000"
+    },
+    {
+      "id": 65371,
+      "name": "Gyeryong-si",
+      "latitude": "36.29304000",
+      "longitude": "127.22575000"
+    },
+    {
+      "id": 65386,
+      "name": "Hongseong",
+      "latitude": "36.60090000",
+      "longitude": "126.66500000"
+    },
+    {
+      "id": 65387,
+      "name": "Hongseong-gun",
+      "latitude": "36.56705000",
+      "longitude": "126.62626000"
+    },
+    {
+      "id": 65427,
+      "name": "Kinzan",
+      "latitude": "36.10306000",
+      "longitude": "127.48889000"
+    },
+    {
+      "id": 65460,
+      "name": "Nonsan",
+      "latitude": "36.20389000",
+      "longitude": "127.08472000"
+    },
+    {
+      "id": 65461,
+      "name": "Nonsan-si",
+      "latitude": "36.19774000",
+      "longitude": "127.12143000"
+    },
+    {
+      "id": 65487,
+      "name": "Seocheon-gun",
+      "latitude": "36.10600000",
+      "longitude": "126.69716000"
+    },
+    {
+      "id": 65493,
+      "name": "Seonghwan",
+      "latitude": "36.91556000",
+      "longitude": "127.13139000"
+    },
+    {
+      "id": 65496,
+      "name": "Seosan",
+      "latitude": "36.78167000",
+      "longitude": "126.45222000"
+    },
+    {
+      "id": 65497,
+      "name": "Seosan-si",
+      "latitude": "36.78518000",
+      "longitude": "126.46568000"
+    },
+    {
+      "id": 65514,
+      "name": "Taean-gun",
+      "latitude": "36.70036000",
+      "longitude": "126.28391000"
+    },
+    {
+      "id": 65516,
+      "name": "Taesal-li",
+      "latitude": "36.97140000",
+      "longitude": "126.45420000"
+    },
+    {
+      "id": 65517,
+      "name": "Tangjin",
+      "latitude": "36.89444000",
+      "longitude": "126.62972000"
+    },
+    {
+      "id": 65562,
+      "name": "Yesan",
+      "latitude": "36.67756000",
+      "longitude": "126.84272000"
+    },
+    {
+      "id": 65563,
+      "name": "Yesan-gun",
+      "latitude": "36.68218000",
+      "longitude": "126.79592000"
+    },
+    {
+      "id": 65568,
+      "name": "Yŏnmu",
+      "latitude": "36.12944000",
+      "longitude": "127.10000000"
+    }
+  ],
+  "country": {
+    "id": 116,
+    "name": "South Korea",
+    "iso3": "KOR",
+    "iso2": "KR",
+    "numeric_code": "410",
+    "phone_code": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currency_name": "Won",
+    "currency_symbol": "₩",
+    "tld": ".kr",
+    "native": "대한민국",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Seoul",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "대한민국",
+      "pt-BR": "Coreia do Sul",
+      "pt": "Coreia do Sul",
+      "nl": "Zuid-Korea",
+      "hr": "Južna Koreja",
+      "fa": "کره شمالی",
+      "de": "Südkorea",
+      "es": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "ja": "大韓民国",
+      "it": "Corea del Sud",
+      "cn": "韩国",
+      "tr": "Güney Kore"
+    },
+    "latitude": "37.00000000",
+    "longitude": "127.50000000",
+    "emoji": "🇰🇷",
+    "emojiU": "U+1F1F0 U+1F1F7"
+  }
+}

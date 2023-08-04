@@ -1,0 +1,108 @@
+{
+  "id": 3981,
+  "name": "Kampot",
+  "state_code": "7",
+  "latitude": "10.73253510",
+  "longitude": "104.37919120",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64935,
+      "name": "Angkor Chey",
+      "latitude": "10.76667000",
+      "longitude": "104.65000000"
+    },
+    {
+      "id": 64938,
+      "name": "Banteay Meas",
+      "latitude": "10.61667000",
+      "longitude": "104.53333000"
+    },
+    {
+      "id": 64942,
+      "name": "Chhouk District",
+      "latitude": "10.81667000",
+      "longitude": "104.45000000"
+    },
+    {
+      "id": 64943,
+      "name": "Kampong Bay",
+      "latitude": "10.59554000",
+      "longitude": "104.17136000"
+    },
+    {
+      "id": 64947,
+      "name": "Kampong Tranch",
+      "latitude": "10.55000000",
+      "longitude": "104.46667000"
+    },
+    {
+      "id": 64948,
+      "name": "Kampot",
+      "latitude": "10.61041000",
+      "longitude": "104.18145000"
+    },
+    {
+      "id": 64998,
+      "name": "Srŏk Chŭm Kiri",
+      "latitude": "11.00540000",
+      "longitude": "104.44207000"
+    },
+    {
+      "id": 65001,
+      "name": "Srŏk Dângtóng",
+      "latitude": "10.70733000",
+      "longitude": "104.42229000"
+    },
+    {
+      "id": 64986,
+      "name": "Srok Tuek Chhou",
+      "latitude": "10.74557000",
+      "longitude": "104.11013000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

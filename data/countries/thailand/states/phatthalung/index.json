@@ -1,0 +1,126 @@
+{
+  "id": 3488,
+  "name": "Phatthalung",
+  "state_code": "93",
+  "latitude": "7.61668230",
+  "longitude": "100.07402310",
+  "type": null,
+  "cities": [
+    {
+      "id": 105224,
+      "name": "Amphoe Bang Kaeo",
+      "latitude": "7.41775000",
+      "longitude": "100.17164000"
+    },
+    {
+      "id": 105391,
+      "name": "Amphoe Khao Chaison",
+      "latitude": "7.46305000",
+      "longitude": "100.09055000"
+    },
+    {
+      "id": 105428,
+      "name": "Amphoe Khuan Khanun",
+      "latitude": "7.76438000",
+      "longitude": "100.04349000"
+    },
+    {
+      "id": 105448,
+      "name": "Amphoe Kong Ra",
+      "latitude": "7.41674000",
+      "longitude": "99.95719000"
+    },
+    {
+      "id": 105568,
+      "name": "Amphoe Mueang Phatthalung",
+      "latitude": "7.60250000",
+      "longitude": "100.07425000"
+    },
+    {
+      "id": 105692,
+      "name": "Amphoe Pa Bon",
+      "latitude": "7.21994000",
+      "longitude": "100.13078000"
+    },
+    {
+      "id": 105696,
+      "name": "Amphoe Pa Phayom",
+      "latitude": "7.83154000",
+      "longitude": "99.87448000"
+    },
+    {
+      "id": 105705,
+      "name": "Amphoe Pak Phayun",
+      "latitude": "7.29622000",
+      "longitude": "100.29542000"
+    },
+    {
+      "id": 106209,
+      "name": "Amphoe Si Banphot",
+      "latitude": "7.69259000",
+      "longitude": "99.87322000"
+    },
+    {
+      "id": 106250,
+      "name": "Amphoe Srinagarindra",
+      "latitude": "7.57574000",
+      "longitude": "99.91053000"
+    },
+    {
+      "id": 106266,
+      "name": "Amphoe Tamot",
+      "latitude": "7.28783000",
+      "longitude": "100.04358000"
+    },
+    {
+      "id": 106626,
+      "name": "Phatthalung",
+      "latitude": "7.61786000",
+      "longitude": "100.07792000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

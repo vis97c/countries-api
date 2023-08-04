@@ -1,0 +1,574 @@
+{
+  "id": 1461,
+  "name": "Rhode Island",
+  "state_code": "RI",
+  "latitude": "41.58009450",
+  "longitude": "-71.47742910",
+  "type": "state",
+  "cities": [
+    {
+      "id": 111512,
+      "name": "Ashaway",
+      "latitude": "41.42343000",
+      "longitude": "-71.78562000"
+    },
+    {
+      "id": 111848,
+      "name": "Barrington",
+      "latitude": "41.74066000",
+      "longitude": "-71.30866000"
+    },
+    {
+      "id": 112667,
+      "name": "Bradford",
+      "latitude": "41.39899000",
+      "longitude": "-71.73701000"
+    },
+    {
+      "id": 112812,
+      "name": "Bristol",
+      "latitude": "41.67705000",
+      "longitude": "-71.26616000"
+    },
+    {
+      "id": 112815,
+      "name": "Bristol County",
+      "latitude": "41.70554000",
+      "longitude": "-71.28612000"
+    },
+    {
+      "id": 113673,
+      "name": "Central Falls",
+      "latitude": "41.89066000",
+      "longitude": "-71.39228000"
+    },
+    {
+      "id": 113773,
+      "name": "Charlestown",
+      "latitude": "41.38316000",
+      "longitude": "-71.64173000"
+    },
+    {
+      "id": 113843,
+      "name": "Chepachet",
+      "latitude": "41.91510000",
+      "longitude": "-71.67146000"
+    },
+    {
+      "id": 114732,
+      "name": "Coventry",
+      "latitude": "41.70010000",
+      "longitude": "-71.68284000"
+    },
+    {
+      "id": 114772,
+      "name": "Cranston",
+      "latitude": "41.77982000",
+      "longitude": "-71.43728000"
+    },
+    {
+      "id": 114909,
+      "name": "Cumberland",
+      "latitude": "41.96677000",
+      "longitude": "-71.43284000"
+    },
+    {
+      "id": 114921,
+      "name": "Cumberland Hill",
+      "latitude": "41.97454000",
+      "longitude": "-71.46700000"
+    },
+    {
+      "id": 115674,
+      "name": "East Greenwich",
+      "latitude": "41.66038000",
+      "longitude": "-71.45589000"
+    },
+    {
+      "id": 115741,
+      "name": "East Providence",
+      "latitude": "41.81371000",
+      "longitude": "-71.37005000"
+    },
+    {
+      "id": 116273,
+      "name": "Exeter",
+      "latitude": "41.57760000",
+      "longitude": "-71.53756000"
+    },
+    {
+      "id": 116774,
+      "name": "Foster",
+      "latitude": "41.85371000",
+      "longitude": "-71.75812000"
+    },
+    {
+      "id": 117695,
+      "name": "Greenville",
+      "latitude": "41.87121000",
+      "longitude": "-71.55201000"
+    },
+    {
+      "id": 118076,
+      "name": "Harrisville",
+      "latitude": "41.96565000",
+      "longitude": "-71.67451000"
+    },
+    {
+      "id": 118646,
+      "name": "Hope Valley",
+      "latitude": "41.50760000",
+      "longitude": "-71.71618000"
+    },
+    {
+      "id": 118658,
+      "name": "Hopkinton",
+      "latitude": "41.46121000",
+      "longitude": "-71.77757000"
+    },
+    {
+      "id": 119125,
+      "name": "Jamestown",
+      "latitude": "41.49705000",
+      "longitude": "-71.36728000"
+    },
+    {
+      "id": 119279,
+      "name": "Johnston",
+      "latitude": "41.82186000",
+      "longitude": "-71.50675000"
+    },
+    {
+      "id": 119493,
+      "name": "Kent County",
+      "latitude": "41.67334000",
+      "longitude": "-71.57895000"
+    },
+    {
+      "id": 119629,
+      "name": "Kingston",
+      "latitude": "41.48038000",
+      "longitude": "-71.52256000"
+    },
+    {
+      "id": 120513,
+      "name": "Lincoln",
+      "latitude": "41.92111000",
+      "longitude": "-71.43500000"
+    },
+    {
+      "id": 121636,
+      "name": "Melville",
+      "latitude": "41.58705000",
+      "longitude": "-71.28338000"
+    },
+    {
+      "id": 121793,
+      "name": "Middletown",
+      "latitude": "41.54566000",
+      "longitude": "-71.29144000"
+    },
+    {
+      "id": 122564,
+      "name": "Narragansett",
+      "latitude": "41.45010000",
+      "longitude": "-71.44950000"
+    },
+    {
+      "id": 122565,
+      "name": "Narragansett Pier",
+      "latitude": "41.43232000",
+      "longitude": "-71.45644000"
+    },
+    {
+      "id": 122778,
+      "name": "New Shoreham",
+      "latitude": "41.17233000",
+      "longitude": "-71.55783000"
+    },
+    {
+      "id": 122849,
+      "name": "Newport",
+      "latitude": "41.49010000",
+      "longitude": "-71.31283000"
+    },
+    {
+      "id": 122854,
+      "name": "Newport County",
+      "latitude": "41.49980000",
+      "longitude": "-71.28100000"
+    },
+    {
+      "id": 122855,
+      "name": "Newport East",
+      "latitude": "41.51579000",
+      "longitude": "-71.28752000"
+    },
+    {
+      "id": 123048,
+      "name": "North Kingstown",
+      "latitude": "41.55010000",
+      "longitude": "-71.46617000"
+    },
+    {
+      "id": 123089,
+      "name": "North Providence",
+      "latitude": "41.85010000",
+      "longitude": "-71.46617000"
+    },
+    {
+      "id": 123102,
+      "name": "North Scituate",
+      "latitude": "41.83177000",
+      "longitude": "-71.58729000"
+    },
+    {
+      "id": 123108,
+      "name": "North Smithfield",
+      "latitude": "41.96677000",
+      "longitude": "-71.54951000"
+    },
+    {
+      "id": 123903,
+      "name": "Pascoag",
+      "latitude": "41.95565000",
+      "longitude": "-71.70229000"
+    },
+    {
+      "id": 123939,
+      "name": "Pawtucket",
+      "latitude": "41.87871000",
+      "longitude": "-71.38256000"
+    },
+    {
+      "id": 124571,
+      "name": "Portsmouth",
+      "latitude": "41.60232000",
+      "longitude": "-71.25033000"
+    },
+    {
+      "id": 124716,
+      "name": "Providence",
+      "latitude": "41.82399000",
+      "longitude": "-71.41283000"
+    },
+    {
+      "id": 124719,
+      "name": "Providence County",
+      "latitude": "41.87136000",
+      "longitude": "-71.57860000"
+    },
+    {
+      "id": 126520,
+      "name": "Smithfield",
+      "latitude": "41.92204000",
+      "longitude": "-71.54951000"
+    },
+    {
+      "id": 126683,
+      "name": "South Kingstown",
+      "latitude": "41.44718000",
+      "longitude": "-71.52494000"
+    },
+    {
+      "id": 127687,
+      "name": "Tiverton",
+      "latitude": "41.62594000",
+      "longitude": "-71.21338000"
+    },
+    {
+      "id": 128108,
+      "name": "Valley Falls",
+      "latitude": "41.90677000",
+      "longitude": "-71.39061000"
+    },
+    {
+      "id": 128364,
+      "name": "Wakefield-Peacedale",
+      "latitude": "41.44606000",
+      "longitude": "-71.50040000"
+    },
+    {
+      "id": 128484,
+      "name": "Warren",
+      "latitude": "41.73038000",
+      "longitude": "-71.28255000"
+    },
+    {
+      "id": 128525,
+      "name": "Warwick",
+      "latitude": "41.70010000",
+      "longitude": "-71.41617000"
+    },
+    {
+      "id": 128574,
+      "name": "Washington County",
+      "latitude": "41.39649000",
+      "longitude": "-71.61966000"
+    },
+    {
+      "id": 128880,
+      "name": "West Greenwich",
+      "latitude": "41.63700000",
+      "longitude": "-71.66004000"
+    },
+    {
+      "id": 129002,
+      "name": "West Warwick",
+      "latitude": "41.69689000",
+      "longitude": "-71.52194000"
+    },
+    {
+      "id": 129023,
+      "name": "Westerly",
+      "latitude": "41.37760000",
+      "longitude": "-71.82729000"
+    },
+    {
+      "id": 129582,
+      "name": "Woonsocket",
+      "latitude": "42.00288000",
+      "longitude": "-71.51478000"
+    }
+  ],
+  "country": {
+    "id": 233,
+    "name": "United States",
+    "iso3": "USA",
+    "iso2": "US",
+    "numeric_code": "840",
+    "phone_code": "1",
+    "capital": "Washington",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "America/Adak",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      },
+      {
+        "zoneName": "America/Anchorage",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Boise",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Chicago",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Denver",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Detroit",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Indianapolis",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Knox",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Marengo",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Petersburg",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Tell_City",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vevay",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Vincennes",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Indiana/Winamac",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Juneau",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Kentucky/Louisville",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Kentucky/Monticello",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Los_Angeles",
+        "gmtOffset": -28800,
+        "gmtOffsetName": "UTC-08:00",
+        "abbreviation": "PST",
+        "tzName": "Pacific Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Menominee",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Metlakatla",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/New_York",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Nome",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/North_Dakota/Beulah",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/Center",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/North_Dakota/New_Salem",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Phoenix",
+        "gmtOffset": -25200,
+        "gmtOffsetName": "UTC-07:00",
+        "abbreviation": "MST",
+        "tzName": "Mountain Standard Time (North America"
+      },
+      {
+        "zoneName": "America/Sitka",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "America/Yakutat",
+        "gmtOffset": -32400,
+        "gmtOffsetName": "UTC-09:00",
+        "abbreviation": "AKST",
+        "tzName": "Alaska Standard Time"
+      },
+      {
+        "zoneName": "Pacific/Honolulu",
+        "gmtOffset": -36000,
+        "gmtOffsetName": "UTC-10:00",
+        "abbreviation": "HST",
+        "tzName": "Hawaii–Aleutian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "미국",
+      "pt-BR": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "cn": "美国",
+      "tr": "Amerika"
+    },
+    "latitude": "38.00000000",
+    "longitude": "-97.00000000",
+    "emoji": "🇺🇸",
+    "emojiU": "U+1F1FA U+1F1F8"
+  }
+}

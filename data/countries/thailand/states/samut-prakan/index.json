@@ -1,0 +1,114 @@
+{
+  "id": 3481,
+  "name": "Samut Prakan",
+  "state_code": "11",
+  "latitude": "13.59909610",
+  "longitude": "100.59983190",
+  "type": null,
+  "cities": [
+    {
+      "id": 105222,
+      "name": "Amphoe Bang Bo",
+      "latitude": "13.58960000",
+      "longitude": "100.86711000"
+    },
+    {
+      "id": 105238,
+      "name": "Amphoe Bang Phli",
+      "latitude": "13.61972000",
+      "longitude": "100.72582000"
+    },
+    {
+      "id": 105243,
+      "name": "Amphoe Bang Sao Thong",
+      "latitude": "13.63286000",
+      "longitude": "100.81038000"
+    },
+    {
+      "id": 105584,
+      "name": "Amphoe Mueang Samut Prakan",
+      "latitude": "13.56855000",
+      "longitude": "100.65148000"
+    },
+    {
+      "id": 105763,
+      "name": "Amphoe Phra Pradaeng",
+      "latitude": "13.65246000",
+      "longitude": "100.55271000"
+    },
+    {
+      "id": 105764,
+      "name": "Amphoe Phra Samut Chedi",
+      "latitude": "13.55622000",
+      "longitude": "100.51485000"
+    },
+    {
+      "id": 106394,
+      "name": "Ban Khlong Bang Sao Thong",
+      "latitude": "13.64172000",
+      "longitude": "100.83272000"
+    },
+    {
+      "id": 106421,
+      "name": "Bang Bo District",
+      "latitude": "13.58333000",
+      "longitude": "100.81667000"
+    },
+    {
+      "id": 106646,
+      "name": "Phra Pradaeng",
+      "latitude": "13.65855000",
+      "longitude": "100.53362000"
+    },
+    {
+      "id": 106680,
+      "name": "Samut Prakan",
+      "latitude": "13.59934000",
+      "longitude": "100.59675000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

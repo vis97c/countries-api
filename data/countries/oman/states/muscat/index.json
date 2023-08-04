@@ -1,0 +1,72 @@
+{
+  "id": 3055,
+  "name": "Muscat",
+  "state_code": "MA",
+  "latitude": "23.58803070",
+  "longitude": "58.38287170",
+  "type": null,
+  "cities": [
+    {
+      "id": 79932,
+      "name": "Bawshar",
+      "latitude": "23.57769000",
+      "longitude": "58.39982000"
+    },
+    {
+      "id": 79941,
+      "name": "Muscat",
+      "latitude": "23.58413000",
+      "longitude": "58.40778000"
+    },
+    {
+      "id": 79945,
+      "name": "Seeb",
+      "latitude": "23.67027000",
+      "longitude": "58.18911000"
+    }
+  ],
+  "country": {
+    "id": 166,
+    "name": "Oman",
+    "iso3": "OMN",
+    "iso2": "OM",
+    "numeric_code": "512",
+    "phone_code": "968",
+    "capital": "Muscat",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "native": "عمان",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "오만",
+      "pt-BR": "Omã",
+      "pt": "Omã",
+      "nl": "Oman",
+      "hr": "Oman",
+      "fa": "عمان",
+      "de": "Oman",
+      "es": "Omán",
+      "fr": "Oman",
+      "ja": "オマーン",
+      "it": "oman",
+      "cn": "阿曼",
+      "tr": "Umman"
+    },
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
+  }
+}

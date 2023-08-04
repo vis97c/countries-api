@@ -1,0 +1,221 @@
+{
+  "id": 153,
+  "name": "Nauru",
+  "iso3": "NRU",
+  "iso2": "NR",
+  "numeric_code": "520",
+  "phone_code": "674",
+  "capital": "Yaren",
+  "currency": "AUD",
+  "currency_name": "Australian dollar",
+  "currency_symbol": "$",
+  "tld": ".nr",
+  "native": "Nauru",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Nauru",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "NRT",
+      "tzName": "Nauru Time"
+    }
+  ],
+  "translations": {
+    "kr": "나우루",
+    "pt-BR": "Nauru",
+    "pt": "Nauru",
+    "nl": "Nauru",
+    "hr": "Nauru",
+    "fa": "نائورو",
+    "de": "Nauru",
+    "es": "Nauru",
+    "fr": "Nauru",
+    "ja": "ナウル",
+    "it": "Nauru",
+    "cn": "瑙鲁",
+    "tr": "Nauru"
+  },
+  "latitude": "-0.53333333",
+  "longitude": "166.91666666",
+  "emoji": "🇳🇷",
+  "emojiU": "U+1F1F3 U+1F1F7",
+  "states": [
+    {
+      "id": 4656,
+      "name": "Aiwo District",
+      "state_code": "01",
+      "latitude": "-0.53400120",
+      "longitude": "166.91388730",
+      "type": null,
+      "cities": [
+        {
+          "id": 79762,
+          "name": "Arijejen",
+          "latitude": "-0.52545000",
+          "longitude": "166.91247000"
+        }
+      ]
+    },
+    {
+      "id": 4658,
+      "name": "Anabar District",
+      "state_code": "02",
+      "latitude": "-0.51335170",
+      "longitude": "166.94846240",
+      "type": null,
+      "cities": [
+        {
+          "id": 79761,
+          "name": "Anabar",
+          "latitude": "-0.50845000",
+          "longitude": "166.95326000"
+        }
+      ]
+    },
+    {
+      "id": 4667,
+      "name": "Anetan District",
+      "state_code": "03",
+      "latitude": "-0.50643430",
+      "longitude": "166.94270060",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4663,
+      "name": "Anibare District",
+      "state_code": "04",
+      "latitude": "-0.52947580",
+      "longitude": "166.95134320",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4660,
+      "name": "Baiti District",
+      "state_code": "05",
+      "latitude": "-0.51043100",
+      "longitude": "166.92757440",
+      "type": null,
+      "cities": [
+        {
+          "id": 79763,
+          "name": "Baiti",
+          "latitude": "-0.50803000",
+          "longitude": "166.92945000"
+        }
+      ]
+    },
+    {
+      "id": 4665,
+      "name": "Boe District",
+      "state_code": "06",
+      "latitude": "39.07327760",
+      "longitude": "-94.57104980",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4662,
+      "name": "Buada District",
+      "state_code": "07",
+      "latitude": "-0.53287770",
+      "longitude": "166.92685410",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4666,
+      "name": "Denigomodu District",
+      "state_code": "08",
+      "latitude": "-0.52479640",
+      "longitude": "166.91676890",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4654,
+      "name": "Ewa District",
+      "state_code": "09",
+      "latitude": "-0.50872410",
+      "longitude": "166.93693840",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4661,
+      "name": "Ijuw District",
+      "state_code": "10",
+      "latitude": "-0.52027670",
+      "longitude": "166.95710460",
+      "type": null,
+      "cities": [
+        {
+          "id": 79764,
+          "name": "Ijuw",
+          "latitude": "-0.52100000",
+          "longitude": "166.95813000"
+        }
+      ]
+    },
+    {
+      "id": 4657,
+      "name": "Meneng District",
+      "state_code": "11",
+      "latitude": "-0.54672400",
+      "longitude": "166.93837900",
+      "type": null,
+      "cities": [
+        {
+          "id": 79765,
+          "name": "Menen",
+          "latitude": "-0.54539000",
+          "longitude": "166.94871000"
+        }
+      ]
+    },
+    {
+      "id": 4659,
+      "name": "Nibok District",
+      "state_code": "12",
+      "latitude": "-0.51962080",
+      "longitude": "166.91893010",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 4655,
+      "name": "Uaboe District",
+      "state_code": "13",
+      "latitude": "-0.52022220",
+      "longitude": "166.93117610",
+      "type": null,
+      "cities": [
+        {
+          "id": 79766,
+          "name": "Uaboe",
+          "latitude": "-0.51393000",
+          "longitude": "166.92384000"
+        }
+      ]
+    },
+    {
+      "id": 4664,
+      "name": "Yaren District",
+      "state_code": "14",
+      "latitude": "-0.54668570",
+      "longitude": "166.92109130",
+      "type": null,
+      "cities": [
+        {
+          "id": 79767,
+          "name": "Yaren",
+          "latitude": "-0.55085000",
+          "longitude": "166.92520000"
+        }
+      ]
+    }
+  ]
+}

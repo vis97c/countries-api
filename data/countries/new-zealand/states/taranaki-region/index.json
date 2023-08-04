@@ -1,0 +1,109 @@
+{
+  "id": 4069,
+  "name": "Taranaki Region",
+  "state_code": "TKI",
+  "latitude": "-39.35381490",
+  "longitude": "174.43827210",
+  "type": null,
+  "cities": [
+    {
+      "id": 79792,
+      "name": "Eltham",
+      "latitude": "-39.42917000",
+      "longitude": "174.30000000"
+    },
+    {
+      "id": 79801,
+      "name": "Hawera",
+      "latitude": "-39.59167000",
+      "longitude": "174.28333000"
+    },
+    {
+      "id": 79838,
+      "name": "New Plymouth",
+      "latitude": "-39.06667000",
+      "longitude": "174.08333000"
+    },
+    {
+      "id": 79839,
+      "name": "New Plymouth District",
+      "latitude": "-39.05865000",
+      "longitude": "174.10309000"
+    },
+    {
+      "id": 79846,
+      "name": "Opunake",
+      "latitude": "-39.45556000",
+      "longitude": "173.85833000"
+    },
+    {
+      "id": 79858,
+      "name": "Patea",
+      "latitude": "-39.75833000",
+      "longitude": "174.48333000"
+    },
+    {
+      "id": 79878,
+      "name": "South Taranaki District",
+      "latitude": "-39.52156000",
+      "longitude": "174.37160000"
+    },
+    {
+      "id": 79909,
+      "name": "Waitara",
+      "latitude": "-39.00158000",
+      "longitude": "174.23836000"
+    }
+  ],
+  "country": {
+    "id": 158,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phone_code": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "뉴질랜드",
+      "pt-BR": "Nova Zelândia",
+      "pt": "Nova Zelândia",
+      "nl": "Nieuw-Zeeland",
+      "hr": "Novi Zeland",
+      "fa": "نیوزیلند",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "ja": "ニュージーランド",
+      "it": "Nuova Zelanda",
+      "cn": "新西兰",
+      "tr": "Yeni Zelanda"
+    },
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": 2927,
+  "name": "Pichincha",
+  "state_code": "P",
+  "latitude": "-0.14648470",
+  "longitude": "-78.47519450",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31495,
+      "name": "Cayambe",
+      "latitude": "0.04084000",
+      "longitude": "-78.14524000"
+    },
+    {
+      "id": 31525,
+      "name": "Machachi",
+      "latitude": "-0.51011000",
+      "longitude": "-78.56712000"
+    },
+    {
+      "id": 31560,
+      "name": "Quito",
+      "latitude": "-0.22985000",
+      "longitude": "-78.52495000"
+    },
+    {
+      "id": 31572,
+      "name": "Sangolquí",
+      "latitude": "-0.33405000",
+      "longitude": "-78.45217000"
+    },
+    {
+      "id": 31584,
+      "name": "Tutamandahostel",
+      "latitude": "-0.19727000",
+      "longitude": "-78.49750000"
+    }
+  ],
+  "country": {
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phone_code": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Guayaquil",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ECT",
+        "tzName": "Ecuador Time"
+      },
+      {
+        "zoneName": "Pacific/Galapagos",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "GALT",
+        "tzName": "Galápagos Time"
+      }
+    ],
+    "translations": {
+      "kr": "에콰도르",
+      "pt-BR": "Equador",
+      "pt": "Equador",
+      "nl": "Ecuador",
+      "hr": "Ekvador",
+      "fa": "اکوادور",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fr": "Équateur",
+      "ja": "エクアドル",
+      "it": "Ecuador",
+      "cn": "厄瓜多尔",
+      "tr": "Ekvator"
+    },
+    "latitude": "-2.00000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8"
+  }
+}

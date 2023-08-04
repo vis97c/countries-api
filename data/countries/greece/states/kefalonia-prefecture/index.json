@@ -1,0 +1,174 @@
+{
+  "id": 2127,
+  "name": "Kefalonia Prefecture",
+  "state_code": "23",
+  "latitude": "38.17536750",
+  "longitude": "20.56921790",
+  "type": null,
+  "cities": [
+    {
+      "id": 52424,
+      "name": "Agía Triáda",
+      "latitude": "39.46361000",
+      "longitude": "21.89848000"
+    },
+    {
+      "id": 52412,
+      "name": "Agnanteró",
+      "latitude": "39.48586000",
+      "longitude": "21.84789000"
+    },
+    {
+      "id": 52477,
+      "name": "Anávra",
+      "latitude": "39.18996000",
+      "longitude": "22.09308000"
+    },
+    {
+      "id": 52469,
+      "name": "Anthiró",
+      "latitude": "39.34722000",
+      "longitude": "21.45833000"
+    },
+    {
+      "id": 52499,
+      "name": "Artesianó",
+      "latitude": "39.40194000",
+      "longitude": "21.89649000"
+    },
+    {
+      "id": 52670,
+      "name": "Itéa",
+      "latitude": "39.45669000",
+      "longitude": "22.16577000"
+    },
+    {
+      "id": 52680,
+      "name": "Kallifóni",
+      "latitude": "39.27712000",
+      "longitude": "21.96128000"
+    },
+    {
+      "id": 52684,
+      "name": "Kallíthiro",
+      "latitude": "39.28099000",
+      "longitude": "21.90491000"
+    },
+    {
+      "id": 52713,
+      "name": "Kardítsa",
+      "latitude": "39.36485000",
+      "longitude": "21.92191000"
+    },
+    {
+      "id": 52710,
+      "name": "Karditsomagoúla",
+      "latitude": "39.39061000",
+      "longitude": "21.92330000"
+    },
+    {
+      "id": 52717,
+      "name": "Karpochóri",
+      "latitude": "39.33575000",
+      "longitude": "22.01129000"
+    },
+    {
+      "id": 52884,
+      "name": "Magoúla",
+      "latitude": "39.45395000",
+      "longitude": "21.80351000"
+    },
+    {
+      "id": 52889,
+      "name": "Makrychóri",
+      "latitude": "39.43978000",
+      "longitude": "21.96582000"
+    },
+    {
+      "id": 52907,
+      "name": "Mavrommáti",
+      "latitude": "39.42386000",
+      "longitude": "21.69379000"
+    },
+    {
+      "id": 52938,
+      "name": "Mitrópoli",
+      "latitude": "39.33933000",
+      "longitude": "21.83751000"
+    },
+    {
+      "id": 52942,
+      "name": "Morfovoúni",
+      "latitude": "39.35250000",
+      "longitude": "21.75000000"
+    },
+    {
+      "id": 52947,
+      "name": "Mouzáki",
+      "latitude": "39.42972000",
+      "longitude": "21.66361000"
+    },
+    {
+      "id": 53081,
+      "name": "Palamás",
+      "latitude": "39.46667000",
+      "longitude": "22.08333000"
+    },
+    {
+      "id": 53147,
+      "name": "Proástio",
+      "latitude": "39.48682000",
+      "longitude": "21.90288000"
+    },
+    {
+      "id": 53233,
+      "name": "Sofádes",
+      "latitude": "39.33333000",
+      "longitude": "22.10000000"
+    }
+  ],
+  "country": {
+    "id": 85,
+    "name": "Greece",
+    "iso3": "GRC",
+    "iso2": "GR",
+    "numeric_code": "300",
+    "phone_code": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "native": "Ελλάδα",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "그리스",
+      "pt-BR": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "cn": "希腊",
+      "tr": "Yunanistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  }
+}

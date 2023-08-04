@@ -1,0 +1,78 @@
+{
+  "id": 983,
+  "name": "Xaisomboun Province",
+  "state_code": "XS",
+  "latitude": "18.43629240",
+  "longitude": "104.47233010",
+  "type": null,
+  "cities": [
+    {
+      "id": 65854,
+      "name": "Anouvong district",
+      "latitude": "18.89731000",
+      "longitude": "103.09274000"
+    },
+    {
+      "id": 65863,
+      "name": "Longchaeng",
+      "latitude": "18.89394000",
+      "longitude": "103.14274000"
+    },
+    {
+      "id": 65879,
+      "name": "Muang Longxan",
+      "latitude": "18.61782000",
+      "longitude": "102.88079000"
+    },
+    {
+      "id": 65905,
+      "name": "Muang Thathôm",
+      "latitude": "19.00130000",
+      "longitude": "103.61572000"
+    }
+  ],
+  "country": {
+    "id": 119,
+    "name": "Laos",
+    "iso3": "LAO",
+    "iso2": "LA",
+    "numeric_code": "418",
+    "phone_code": "856",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "native": "ສປປລາວ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "라오스",
+      "pt-BR": "Laos",
+      "pt": "Laos",
+      "nl": "Laos",
+      "hr": "Laos",
+      "fa": "لائوس",
+      "de": "Laos",
+      "es": "Laos",
+      "fr": "Laos",
+      "ja": "ラオス人民民主共和国",
+      "it": "Laos",
+      "cn": "寮人民民主共和国",
+      "tr": "Laos"
+    },
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  }
+}

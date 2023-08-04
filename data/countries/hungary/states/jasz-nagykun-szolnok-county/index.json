@@ -1,0 +1,372 @@
+{
+  "id": 1043,
+  "name": "Jász-Nagykun-Szolnok County",
+  "state_code": "JN",
+  "latitude": "47.25555790",
+  "longitude": "20.52324560",
+  "type": "county",
+  "cities": [
+    {
+      "id": 55173,
+      "name": "Abádszalók",
+      "latitude": "47.46667000",
+      "longitude": "20.60000000"
+    },
+    {
+      "id": 55182,
+      "name": "Alattyán",
+      "latitude": "47.42705000",
+      "longitude": "20.04219000"
+    },
+    {
+      "id": 55243,
+      "name": "Besenyszög",
+      "latitude": "47.30000000",
+      "longitude": "20.26667000"
+    },
+    {
+      "id": 55320,
+      "name": "Cibakháza",
+      "latitude": "46.95976000",
+      "longitude": "20.19753000"
+    },
+    {
+      "id": 55333,
+      "name": "Cserkeszőlő",
+      "latitude": "46.86320000",
+      "longitude": "20.18701000"
+    },
+    {
+      "id": 55419,
+      "name": "Fegyvernek",
+      "latitude": "47.26667000",
+      "longitude": "20.53333000"
+    },
+    {
+      "id": 55537,
+      "name": "Jánoshida",
+      "latitude": "47.38333000",
+      "longitude": "20.06667000"
+    },
+    {
+      "id": 55541,
+      "name": "Jászalsószentgyörgy",
+      "latitude": "47.36667000",
+      "longitude": "20.10000000"
+    },
+    {
+      "id": 55542,
+      "name": "Jászapáti",
+      "latitude": "47.51667000",
+      "longitude": "20.15000000"
+    },
+    {
+      "id": 55543,
+      "name": "Jászapáti Járás",
+      "latitude": "47.46126000",
+      "longitude": "20.06567000"
+    },
+    {
+      "id": 55553,
+      "name": "Jászárokszállás",
+      "latitude": "47.64238000",
+      "longitude": "19.98038000"
+    },
+    {
+      "id": 55544,
+      "name": "Jászberény",
+      "latitude": "47.50000000",
+      "longitude": "19.91667000"
+    },
+    {
+      "id": 55545,
+      "name": "Jászberényi Járás",
+      "latitude": "47.56500000",
+      "longitude": "19.86887000"
+    },
+    {
+      "id": 55546,
+      "name": "Jászdózsa",
+      "latitude": "47.56610000",
+      "longitude": "20.01534000"
+    },
+    {
+      "id": 55547,
+      "name": "Jászjákóhalma",
+      "latitude": "47.52038000",
+      "longitude": "19.99086000"
+    },
+    {
+      "id": 55549,
+      "name": "Jászkisér",
+      "latitude": "47.45000000",
+      "longitude": "20.21667000"
+    },
+    {
+      "id": 55550,
+      "name": "Jászladány",
+      "latitude": "47.36667000",
+      "longitude": "20.16667000"
+    },
+    {
+      "id": 55551,
+      "name": "Jászszentandrás",
+      "latitude": "47.58333000",
+      "longitude": "20.18333000"
+    },
+    {
+      "id": 55567,
+      "name": "Karcag",
+      "latitude": "47.31667000",
+      "longitude": "20.93333000"
+    },
+    {
+      "id": 55568,
+      "name": "Karcagi Járás",
+      "latitude": "47.28583000",
+      "longitude": "20.84218000"
+    },
+    {
+      "id": 55584,
+      "name": "Kenderes",
+      "latitude": "47.25000000",
+      "longitude": "20.68333000"
+    },
+    {
+      "id": 55585,
+      "name": "Kengyel",
+      "latitude": "47.08333000",
+      "longitude": "20.33333000"
+    },
+    {
+      "id": 55615,
+      "name": "Kisújszállás",
+      "latitude": "47.21667000",
+      "longitude": "20.76667000"
+    },
+    {
+      "id": 55627,
+      "name": "Kunhegyes",
+      "latitude": "47.36667000",
+      "longitude": "20.63333000"
+    },
+    {
+      "id": 55628,
+      "name": "Kunhegyesi Járás",
+      "latitude": "47.40329000",
+      "longitude": "20.59199000"
+    },
+    {
+      "id": 55629,
+      "name": "Kunmadaras",
+      "latitude": "47.43333000",
+      "longitude": "20.80000000"
+    },
+    {
+      "id": 55632,
+      "name": "Kunszentmárton",
+      "latitude": "46.83916000",
+      "longitude": "20.28879000"
+    },
+    {
+      "id": 55633,
+      "name": "Kunszentmártoni Járás",
+      "latitude": "46.87698000",
+      "longitude": "20.25179000"
+    },
+    {
+      "id": 55699,
+      "name": "Mezőtúr",
+      "latitude": "47.00000000",
+      "longitude": "20.63333000"
+    },
+    {
+      "id": 55700,
+      "name": "Mezőtúri Járás",
+      "latitude": "47.02495000",
+      "longitude": "20.59046000"
+    },
+    {
+      "id": 56156,
+      "name": "Öcsöd",
+      "latitude": "46.90000000",
+      "longitude": "20.40000000"
+    },
+    {
+      "id": 55874,
+      "name": "Rákóczifalva",
+      "latitude": "47.08333000",
+      "longitude": "20.23333000"
+    },
+    {
+      "id": 55875,
+      "name": "Rákócziújfalu",
+      "latitude": "47.06667000",
+      "longitude": "20.26667000"
+    },
+    {
+      "id": 55915,
+      "name": "Szajol",
+      "latitude": "47.18333000",
+      "longitude": "20.30000000"
+    },
+    {
+      "id": 55932,
+      "name": "Szelevény",
+      "latitude": "46.80259000",
+      "longitude": "20.20283000"
+    },
+    {
+      "id": 55964,
+      "name": "Szolnok",
+      "latitude": "47.18333000",
+      "longitude": "20.20000000"
+    },
+    {
+      "id": 55965,
+      "name": "Szolnoki Járás",
+      "latitude": "47.22480000",
+      "longitude": "20.19839000"
+    },
+    {
+      "id": 56025,
+      "name": "Tiszabő",
+      "latitude": "47.30000000",
+      "longitude": "20.48333000"
+    },
+    {
+      "id": 56024,
+      "name": "Tiszabura",
+      "latitude": "47.45000000",
+      "longitude": "20.46667000"
+    },
+    {
+      "id": 56030,
+      "name": "Tiszaföldvár",
+      "latitude": "46.98333000",
+      "longitude": "20.25000000"
+    },
+    {
+      "id": 56031,
+      "name": "Tiszafüred",
+      "latitude": "47.61667000",
+      "longitude": "20.76667000"
+    },
+    {
+      "id": 56032,
+      "name": "Tiszafüredi Járás",
+      "latitude": "47.53907000",
+      "longitude": "20.78879000"
+    },
+    {
+      "id": 56041,
+      "name": "Tiszapüspöki",
+      "latitude": "47.21667000",
+      "longitude": "20.31667000"
+    },
+    {
+      "id": 56042,
+      "name": "Tiszaroff",
+      "latitude": "47.40000000",
+      "longitude": "20.45000000"
+    },
+    {
+      "id": 56045,
+      "name": "Tiszasüly",
+      "latitude": "47.38333000",
+      "longitude": "20.40000000"
+    },
+    {
+      "id": 56043,
+      "name": "Tiszaszentimre",
+      "latitude": "47.48333000",
+      "longitude": "20.73333000"
+    },
+    {
+      "id": 56044,
+      "name": "Tiszaszőlős",
+      "latitude": "47.55707000",
+      "longitude": "20.71949000"
+    },
+    {
+      "id": 56084,
+      "name": "Törökszentmiklós",
+      "latitude": "47.18333000",
+      "longitude": "20.41667000"
+    },
+    {
+      "id": 56085,
+      "name": "Törökszentmiklósi Járás",
+      "latitude": "47.18209000",
+      "longitude": "20.44859000"
+    },
+    {
+      "id": 56077,
+      "name": "Tószeg",
+      "latitude": "47.10000000",
+      "longitude": "20.15000000"
+    },
+    {
+      "id": 56086,
+      "name": "Túrkeve",
+      "latitude": "47.10000000",
+      "longitude": "20.75000000"
+    },
+    {
+      "id": 56164,
+      "name": "Újszász",
+      "latitude": "47.30000000",
+      "longitude": "20.08333000"
+    },
+    {
+      "id": 56118,
+      "name": "Zagyvarékas",
+      "latitude": "47.26667000",
+      "longitude": "20.13333000"
+    }
+  ],
+  "country": {
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phone_code": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "헝가리",
+      "pt-BR": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "cn": "匈牙利",
+      "tr": "Macaristan"
+    },
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  }
+}

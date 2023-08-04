@@ -1,0 +1,72 @@
+{
+  "id": 2782,
+  "name": "Amambay Department",
+  "state_code": "13",
+  "latitude": "-22.55902720",
+  "longitude": "-56.02499820",
+  "type": null,
+  "cities": [
+    {
+      "id": 89725,
+      "name": "Bella Vista",
+      "latitude": "-22.13333000",
+      "longitude": "-56.51667000"
+    },
+    {
+      "id": 89734,
+      "name": "Capitán Bado",
+      "latitude": "-23.26667000",
+      "longitude": "-55.53333000"
+    },
+    {
+      "id": 89807,
+      "name": "Pedro Juan Caballero",
+      "latitude": "-22.54722000",
+      "longitude": "-55.73333000"
+    }
+  ],
+  "country": {
+    "id": 172,
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "iso2": "PY",
+    "numeric_code": "600",
+    "phone_code": "595",
+    "capital": "Asuncion",
+    "currency": "PYG",
+    "currency_name": "Paraguayan guarani",
+    "currency_symbol": "₲",
+    "tld": ".py",
+    "native": "Paraguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Asuncion",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "PYST",
+        "tzName": "Paraguay Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "파라과이",
+      "pt-BR": "Paraguai",
+      "pt": "Paraguai",
+      "nl": "Paraguay",
+      "hr": "Paragvaj",
+      "fa": "پاراگوئه",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "fr": "Paraguay",
+      "ja": "パラグアイ",
+      "it": "Paraguay",
+      "cn": "巴拉圭",
+      "tr": "Paraguay"
+    },
+    "latitude": "-23.00000000",
+    "longitude": "-58.00000000",
+    "emoji": "🇵🇾",
+    "emojiU": "U+1F1F5 U+1F1FE"
+  }
+}

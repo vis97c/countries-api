@@ -1,0 +1,102 @@
+{
+  "id": 1985,
+  "name": "Northwestern Province",
+  "state_code": "06",
+  "latitude": "-13.00502580",
+  "longitude": "24.90422080",
+  "type": null,
+  "cities": [
+    {
+      "id": 131344,
+      "name": "Kabompo",
+      "latitude": "-13.59268000",
+      "longitude": "24.20081000"
+    },
+    {
+      "id": 131348,
+      "name": "Kalengwa",
+      "latitude": "-13.46586000",
+      "longitude": "25.00271000"
+    },
+    {
+      "id": 131350,
+      "name": "Kansanshi",
+      "latitude": "-12.09514000",
+      "longitude": "26.42727000"
+    },
+    {
+      "id": 131355,
+      "name": "Kasempa",
+      "latitude": "-13.45836000",
+      "longitude": "25.83380000"
+    },
+    {
+      "id": 131379,
+      "name": "Mufumbwe",
+      "latitude": "-13.68333000",
+      "longitude": "24.80000000"
+    },
+    {
+      "id": 131383,
+      "name": "Mwinilunga",
+      "latitude": "-11.73584000",
+      "longitude": "24.42926000"
+    },
+    {
+      "id": 131398,
+      "name": "Solwezi",
+      "latitude": "-12.16880000",
+      "longitude": "26.38938000"
+    },
+    {
+      "id": 131399,
+      "name": "Zambezi",
+      "latitude": "-13.54323000",
+      "longitude": "23.10467000"
+    }
+  ],
+  "country": {
+    "id": 246,
+    "name": "Zambia",
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "numeric_code": "894",
+    "phone_code": "260",
+    "capital": "Lusaka",
+    "currency": "ZMW",
+    "currency_name": "Zambian kwacha",
+    "currency_symbol": "ZK",
+    "tld": ".zm",
+    "native": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "잠비아",
+      "pt-BR": "Zâmbia",
+      "pt": "Zâmbia",
+      "nl": "Zambia",
+      "hr": "Zambija",
+      "fa": "زامبیا",
+      "de": "Sambia",
+      "es": "Zambia",
+      "fr": "Zambie",
+      "ja": "ザンビア",
+      "it": "Zambia",
+      "cn": "赞比亚",
+      "tr": "Zambiya"
+    },
+    "latitude": "-15.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇲",
+    "emojiU": "U+1F1FF U+1F1F2"
+  }
+}

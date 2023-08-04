@@ -1,0 +1,90 @@
+{
+  "id": 4242,
+  "name": "Maribor City Municipality",
+  "state_code": "070",
+  "latitude": "46.55064960",
+  "longitude": "15.62054390",
+  "type": null,
+  "cities": [
+    {
+      "id": 104074,
+      "name": "Bresternica",
+      "latitude": "46.56972000",
+      "longitude": "15.57500000"
+    },
+    {
+      "id": 104132,
+      "name": "Kamnica",
+      "latitude": "46.57444000",
+      "longitude": "15.61417000"
+    },
+    {
+      "id": 104165,
+      "name": "Limbuš",
+      "latitude": "46.55361000",
+      "longitude": "15.58361000"
+    },
+    {
+      "id": 104181,
+      "name": "Maribor",
+      "latitude": "46.55472000",
+      "longitude": "15.64667000"
+    },
+    {
+      "id": 104219,
+      "name": "Pekre",
+      "latitude": "46.54722000",
+      "longitude": "15.59556000"
+    },
+    {
+      "id": 104251,
+      "name": "Razvanje",
+      "latitude": "46.51444000",
+      "longitude": "15.63611000"
+    }
+  ],
+  "country": {
+    "id": 201,
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "iso2": "SI",
+    "numeric_code": "705",
+    "phone_code": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".si",
+    "native": "Slovenija",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Ljubljana",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로베니아",
+      "pt-BR": "Eslovênia",
+      "pt": "Eslovénia",
+      "nl": "Slovenië",
+      "hr": "Slovenija",
+      "fa": "اسلوونی",
+      "de": "Slowenien",
+      "es": "Eslovenia",
+      "fr": "Slovénie",
+      "ja": "スロベニア",
+      "it": "Slovenia",
+      "cn": "斯洛文尼亚",
+      "tr": "Slovenya"
+    },
+    "latitude": "46.11666666",
+    "longitude": "14.81666666",
+    "emoji": "🇸🇮",
+    "emojiU": "U+1F1F8 U+1F1EE"
+  }
+}

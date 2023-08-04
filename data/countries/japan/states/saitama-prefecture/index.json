@@ -1,0 +1,552 @@
+{
+  "id": 860,
+  "name": "Saitama Prefecture",
+  "state_code": "11",
+  "latitude": "35.99625130",
+  "longitude": "139.44660050",
+  "type": null,
+  "cities": [
+    {
+      "id": 63218,
+      "name": "Ageo Shi",
+      "latitude": "35.97043000",
+      "longitude": "139.58159000"
+    },
+    {
+      "id": 63219,
+      "name": "Ageoshimo",
+      "latitude": "35.97145000",
+      "longitude": "139.61382000"
+    },
+    {
+      "id": 63260,
+      "name": "Asaka",
+      "latitude": "35.80472000",
+      "longitude": "139.60194000"
+    },
+    {
+      "id": 63261,
+      "name": "Asaka-shi",
+      "latitude": "35.80000000",
+      "longitude": "139.60000000"
+    },
+    {
+      "id": 63294,
+      "name": "Chichibu",
+      "latitude": "35.99028000",
+      "longitude": "139.07639000"
+    },
+    {
+      "id": 63295,
+      "name": "Chichibu-shi",
+      "latitude": "35.95966000",
+      "longitude": "138.93347000"
+    },
+    {
+      "id": 63345,
+      "name": "Fujimi-shi",
+      "latitude": "35.85393000",
+      "longitude": "139.55478000"
+    },
+    {
+      "id": 63346,
+      "name": "Fujimino Shi",
+      "latitude": "35.86505000",
+      "longitude": "139.51524000"
+    },
+    {
+      "id": 63358,
+      "name": "Fukaya-shi",
+      "latitude": "36.20000000",
+      "longitude": "139.28333000"
+    },
+    {
+      "id": 63359,
+      "name": "Fukayachō",
+      "latitude": "36.20000000",
+      "longitude": "139.28333000"
+    },
+    {
+      "id": 63360,
+      "name": "Fukiage-fujimi",
+      "latitude": "36.10000000",
+      "longitude": "139.45000000"
+    },
+    {
+      "id": 63401,
+      "name": "Gyōda",
+      "latitude": "36.14074000",
+      "longitude": "139.46011000"
+    },
+    {
+      "id": 63437,
+      "name": "Hannō",
+      "latitude": "35.85194000",
+      "longitude": "139.31806000"
+    },
+    {
+      "id": 63438,
+      "name": "Hannō-shi",
+      "latitude": "35.85567000",
+      "longitude": "139.32777000"
+    },
+    {
+      "id": 63439,
+      "name": "Hanyū",
+      "latitude": "36.16667000",
+      "longitude": "139.53333000"
+    },
+    {
+      "id": 63440,
+      "name": "Hanyū-shi",
+      "latitude": "36.17251000",
+      "longitude": "139.55338000"
+    },
+    {
+      "id": 63446,
+      "name": "Hasuda",
+      "latitude": "35.97113000",
+      "longitude": "139.64910000"
+    },
+    {
+      "id": 63447,
+      "name": "Hasuda-shi",
+      "latitude": "36.00147000",
+      "longitude": "139.64981000"
+    },
+    {
+      "id": 63448,
+      "name": "Hatogaya-honchō",
+      "latitude": "35.83314000",
+      "longitude": "139.74250000"
+    },
+    {
+      "id": 63457,
+      "name": "Hidaka-shi",
+      "latitude": "35.90859000",
+      "longitude": "139.34346000"
+    },
+    {
+      "id": 63464,
+      "name": "Higashimatsuyama Shi",
+      "latitude": "36.03183000",
+      "longitude": "139.39138000"
+    },
+    {
+      "id": 63475,
+      "name": "Hiki-gun",
+      "latitude": "36.02757000",
+      "longitude": "139.33415000"
+    },
+    {
+      "id": 63523,
+      "name": "Honjō",
+      "latitude": "36.23780000",
+      "longitude": "139.19023000"
+    },
+    {
+      "id": 63524,
+      "name": "Honjō Shi",
+      "latitude": "36.19925000",
+      "longitude": "139.14627000"
+    },
+    {
+      "id": 63579,
+      "name": "Iruma-shi",
+      "latitude": "35.81802000",
+      "longitude": "139.36754000"
+    },
+    {
+      "id": 63635,
+      "name": "Iwatsuki",
+      "latitude": "35.96474000",
+      "longitude": "139.69644000"
+    },
+    {
+      "id": 63688,
+      "name": "Kamifukuoka",
+      "latitude": "35.87266000",
+      "longitude": "139.51369000"
+    },
+    {
+      "id": 63747,
+      "name": "Kasukabe",
+      "latitude": "35.98308000",
+      "longitude": "139.74966000"
+    },
+    {
+      "id": 63748,
+      "name": "Kasukabe Shi",
+      "latitude": "35.98270000",
+      "longitude": "139.77574000"
+    },
+    {
+      "id": 63768,
+      "name": "Kawagoe",
+      "latitude": "35.90861000",
+      "longitude": "139.48528000"
+    },
+    {
+      "id": 63769,
+      "name": "Kawagoe-shi",
+      "latitude": "35.91149000",
+      "longitude": "139.47924000"
+    },
+    {
+      "id": 63770,
+      "name": "Kawaguchi",
+      "latitude": "35.80521000",
+      "longitude": "139.71072000"
+    },
+    {
+      "id": 63771,
+      "name": "Kawaguchi-shi",
+      "latitude": "35.83389000",
+      "longitude": "139.73252000"
+    },
+    {
+      "id": 63778,
+      "name": "Kazo",
+      "latitude": "36.11667000",
+      "longitude": "139.60000000"
+    },
+    {
+      "id": 63779,
+      "name": "Kazo-shi",
+      "latitude": "36.13670000",
+      "longitude": "139.61992000"
+    },
+    {
+      "id": 63792,
+      "name": "Kisai",
+      "latitude": "36.10000000",
+      "longitude": "139.58333000"
+    },
+    {
+      "id": 63810,
+      "name": "Kitamoto Shi",
+      "latitude": "36.02615000",
+      "longitude": "139.53043000"
+    },
+    {
+      "id": 63822,
+      "name": "Kodamachō-kodamaminami",
+      "latitude": "36.18497000",
+      "longitude": "139.13191000"
+    },
+    {
+      "id": 63898,
+      "name": "Kōnosu",
+      "latitude": "36.06868000",
+      "longitude": "139.51684000"
+    },
+    {
+      "id": 63844,
+      "name": "Konosu-Shi",
+      "latitude": "36.06634000",
+      "longitude": "139.52010000"
+    },
+    {
+      "id": 63848,
+      "name": "Koshigaya Shi",
+      "latitude": "35.90108000",
+      "longitude": "139.79023000"
+    },
+    {
+      "id": 63856,
+      "name": "Kuki-shi",
+      "latitude": "36.07664000",
+      "longitude": "139.64941000"
+    },
+    {
+      "id": 63857,
+      "name": "Kukichūō",
+      "latitude": "36.06739000",
+      "longitude": "139.67498000"
+    },
+    {
+      "id": 63858,
+      "name": "Kumagaya Shi",
+      "latitude": "36.16028000",
+      "longitude": "139.37256000"
+    },
+    {
+      "id": 63872,
+      "name": "Kurihashi",
+      "latitude": "36.13333000",
+      "longitude": "139.70000000"
+    },
+    {
+      "id": 63944,
+      "name": "Menuma",
+      "latitude": "36.22245000",
+      "longitude": "139.38205000"
+    },
+    {
+      "id": 63982,
+      "name": "Misato Shi",
+      "latitude": "35.83221000",
+      "longitude": "139.87185000"
+    },
+    {
+      "id": 64036,
+      "name": "Morohongō",
+      "latitude": "35.93556000",
+      "longitude": "139.30444000"
+    },
+    {
+      "id": 64136,
+      "name": "Niiza-shi",
+      "latitude": "35.79345000",
+      "longitude": "139.56559000"
+    },
+    {
+      "id": 64187,
+      "name": "Ogawa",
+      "latitude": "36.05342000",
+      "longitude": "139.26612000"
+    },
+    {
+      "id": 64725,
+      "name": "Ōi",
+      "latitude": "35.85091000",
+      "longitude": "139.51998000"
+    },
+    {
+      "id": 64198,
+      "name": "Okegawa",
+      "latitude": "36.00000000",
+      "longitude": "139.55722000"
+    },
+    {
+      "id": 64199,
+      "name": "Okegawa-shi",
+      "latitude": "36.00000000",
+      "longitude": "139.55000000"
+    },
+    {
+      "id": 64754,
+      "name": "Ōsato-gun",
+      "latitude": "36.11132000",
+      "longitude": "139.20281000"
+    },
+    {
+      "id": 64250,
+      "name": "Saitama",
+      "latitude": "35.90807000",
+      "longitude": "139.65657000"
+    },
+    {
+      "id": 64251,
+      "name": "Saitama-shi",
+      "latitude": "35.86100000",
+      "longitude": "139.64554000"
+    },
+    {
+      "id": 64253,
+      "name": "Sakado",
+      "latitude": "35.95694000",
+      "longitude": "139.38889000"
+    },
+    {
+      "id": 64254,
+      "name": "Sakado-shi",
+      "latitude": "35.96776000",
+      "longitude": "139.40595000"
+    },
+    {
+      "id": 64293,
+      "name": "Satte",
+      "latitude": "36.07254000",
+      "longitude": "139.72615000"
+    },
+    {
+      "id": 64294,
+      "name": "Satte Shi",
+      "latitude": "36.07081000",
+      "longitude": "139.74022000"
+    },
+    {
+      "id": 64296,
+      "name": "Sayama",
+      "latitude": "35.85295000",
+      "longitude": "139.41212000"
+    },
+    {
+      "id": 64320,
+      "name": "Shiki",
+      "latitude": "35.83333000",
+      "longitude": "139.58333000"
+    },
+    {
+      "id": 64321,
+      "name": "Shiki Shi",
+      "latitude": "35.83698000",
+      "longitude": "139.58347000"
+    },
+    {
+      "id": 64335,
+      "name": "Shimotoda",
+      "latitude": "35.81500000",
+      "longitude": "139.68530000"
+    },
+    {
+      "id": 64355,
+      "name": "Shiraoka",
+      "latitude": "36.01839000",
+      "longitude": "139.66034000"
+    },
+    {
+      "id": 64356,
+      "name": "Shiraoka-shi",
+      "latitude": "36.01667000",
+      "longitude": "139.66667000"
+    },
+    {
+      "id": 64370,
+      "name": "Shōbu",
+      "latitude": "36.06667000",
+      "longitude": "139.60000000"
+    },
+    {
+      "id": 64400,
+      "name": "Sōka",
+      "latitude": "35.83643000",
+      "longitude": "139.79957000"
+    },
+    {
+      "id": 64401,
+      "name": "Sōka Shi",
+      "latitude": "35.83868000",
+      "longitude": "139.80216000"
+    },
+    {
+      "id": 64377,
+      "name": "Sugito",
+      "latitude": "36.03107000",
+      "longitude": "139.72636000"
+    },
+    {
+      "id": 64489,
+      "name": "Toda-shi",
+      "latitude": "35.81477000",
+      "longitude": "139.65699000"
+    },
+    {
+      "id": 64495,
+      "name": "Tokorozawa",
+      "latitude": "35.79916000",
+      "longitude": "139.46903000"
+    },
+    {
+      "id": 64496,
+      "name": "Tokorozawa-shi",
+      "latitude": "35.79968000",
+      "longitude": "139.45817000"
+    },
+    {
+      "id": 64555,
+      "name": "Tsurugashima-shi",
+      "latitude": "35.93571000",
+      "longitude": "139.39456000"
+    },
+    {
+      "id": 64621,
+      "name": "Wako",
+      "latitude": "35.78944000",
+      "longitude": "139.62333000"
+    },
+    {
+      "id": 64623,
+      "name": "Wakō-shi",
+      "latitude": "35.78934000",
+      "longitude": "139.61988000"
+    },
+    {
+      "id": 64624,
+      "name": "Warabi-shi",
+      "latitude": "35.82526000",
+      "longitude": "139.68550000"
+    },
+    {
+      "id": 64656,
+      "name": "Yashio",
+      "latitude": "35.82255000",
+      "longitude": "139.83905000"
+    },
+    {
+      "id": 64657,
+      "name": "Yashio-shi",
+      "latitude": "35.80918000",
+      "longitude": "139.84669000"
+    },
+    {
+      "id": 64681,
+      "name": "Yono",
+      "latitude": "35.88333000",
+      "longitude": "139.63333000"
+    },
+    {
+      "id": 64682,
+      "name": "Yorii",
+      "latitude": "36.11567000",
+      "longitude": "139.19429000"
+    },
+    {
+      "id": 64685,
+      "name": "Yoshikawa",
+      "latitude": "35.89232000",
+      "longitude": "139.84184000"
+    },
+    {
+      "id": 64686,
+      "name": "Yoshikawa Shi",
+      "latitude": "35.89512000",
+      "longitude": "139.86090000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

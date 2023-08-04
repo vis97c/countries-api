@@ -1,0 +1,385 @@
+{
+  "id": 98,
+  "name": "Hong Kong S.A.R.",
+  "iso3": "HKG",
+  "iso2": "HK",
+  "numeric_code": "344",
+  "phone_code": "852",
+  "capital": "Hong Kong",
+  "currency": "HKD",
+  "currency_name": "Hong Kong dollar",
+  "currency_symbol": "$",
+  "tld": ".hk",
+  "native": "香港",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "timezones": [
+    {
+      "zoneName": "Asia/Hong_Kong",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "HKT",
+      "tzName": "Hong Kong Time"
+    }
+  ],
+  "translations": {
+    "kr": "홍콩",
+    "pt-BR": "Hong Kong",
+    "pt": "Hong Kong",
+    "nl": "Hongkong",
+    "hr": "Hong Kong",
+    "fa": "هنگ‌کنگ",
+    "de": "Hong Kong",
+    "es": "Hong Kong",
+    "fr": "Hong Kong",
+    "ja": "香港",
+    "it": "Hong Kong",
+    "cn": "中国香港",
+    "tr": "Hong Kong"
+  },
+  "latitude": "22.25000000",
+  "longitude": "114.16666666",
+  "emoji": "🇭🇰",
+  "emojiU": "U+1F1ED U+1F1F0",
+  "states": [
+    {
+      "id": 4889,
+      "name": "Central and Western",
+      "state_code": "HCW",
+      "latitude": "22.28666000",
+      "longitude": "114.15497000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153484,
+          "name": "Admiralty",
+          "latitude": "22.27800000",
+          "longitude": "114.16400000"
+        },
+        {
+          "id": 153483,
+          "name": "Central",
+          "latitude": "22.28100000",
+          "longitude": "114.15900000"
+        }
+      ]
+    },
+    {
+      "id": 4891,
+      "name": "Eastern",
+      "state_code": "HEA",
+      "latitude": "22.28411000",
+      "longitude": "114.22414000",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 4888,
+      "name": "Islands",
+      "state_code": "NIS",
+      "latitude": "22.26114000",
+      "longitude": "113.94608000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153508,
+          "name": "Tai O",
+          "latitude": "22.24700000",
+          "longitude": "113.86900000"
+        }
+      ]
+    },
+    {
+      "id": 4895,
+      "name": "Kowloon City",
+      "state_code": "KKC",
+      "latitude": "22.32820000",
+      "longitude": "114.19155000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153500,
+          "name": "Kowloon Tong",
+          "latitude": "22.33700000",
+          "longitude": "114.17900000"
+        }
+      ]
+    },
+    {
+      "id": 4898,
+      "name": "Kwai Tsing",
+      "state_code": "NKT",
+      "latitude": "22.35488000",
+      "longitude": "114.08401000",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 4897,
+      "name": "Kwun Tong",
+      "state_code": "KKT",
+      "latitude": "22.31326000",
+      "longitude": "114.22581000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153505,
+          "name": "Kwun Tong",
+          "latitude": "22.31000000",
+          "longitude": "114.22500000"
+        },
+        {
+          "id": 153504,
+          "name": "Lam Tin",
+          "latitude": "22.30700000",
+          "longitude": "114.23500000"
+        }
+      ]
+    },
+    {
+      "id": 4900,
+      "name": "North",
+      "state_code": "NNO",
+      "latitude": "22.49471000",
+      "longitude": "114.13812000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153497,
+          "name": "Sheung Shui",
+          "latitude": "22.50100000",
+          "longitude": "114.12300000"
+        }
+      ]
+    },
+    {
+      "id": 4887,
+      "name": "Sai Kung",
+      "state_code": "NSK",
+      "latitude": "22.38143000",
+      "longitude": "114.27052000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153493,
+          "name": "Sai Kung",
+          "latitude": "22.38400000",
+          "longitude": "114.27300000"
+        },
+        {
+          "id": 153498,
+          "name": "Tseung Kwan O",
+          "latitude": "22.31900000",
+          "longitude": "114.26300000"
+        }
+      ]
+    },
+    {
+      "id": 4901,
+      "name": "Sha Tin",
+      "state_code": "NST",
+      "latitude": "22.38715000",
+      "longitude": "114.19534000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153494,
+          "name": "Ma On Shan",
+          "latitude": "22.42200000",
+          "longitude": "114.23000000"
+        },
+        {
+          "id": 153489,
+          "name": "Sha Tin",
+          "latitude": "22.38300000",
+          "longitude": "114.18800000"
+        },
+        {
+          "id": 153499,
+          "name": "Sha Tin Wai",
+          "latitude": "22.38000000",
+          "longitude": "114.19100000"
+        }
+      ]
+    },
+    {
+      "id": 4894,
+      "name": "Sham Shui Po",
+      "state_code": "KSS",
+      "latitude": "22.33074000",
+      "longitude": "114.16220000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153501,
+          "name": "Cheung Sha Wan",
+          "latitude": "22.33600000",
+          "longitude": "114.15100000"
+        },
+        {
+          "id": 153502,
+          "name": "Lai Chi Kok",
+          "latitude": "22.33700000",
+          "longitude": "114.14600000"
+        }
+      ]
+    },
+    {
+      "id": 4892,
+      "name": "Southern",
+      "state_code": "HSO",
+      "latitude": "22.24725000",
+      "longitude": "114.15884000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153506,
+          "name": "Aberdeen",
+          "latitude": "22.24700000",
+          "longitude": "114.15200000"
+        },
+        {
+          "id": 153496,
+          "name": "Stanley",
+          "latitude": "22.22000000",
+          "longitude": "114.21400000"
+        },
+        {
+          "id": 153507,
+          "name": "Stanley Peninsula",
+          "latitude": "22.21000000",
+          "longitude": "114.21700000"
+        }
+      ]
+    },
+    {
+      "id": 4885,
+      "name": "Tai Po",
+      "state_code": "NTP",
+      "latitude": "22.45085000",
+      "longitude": "114.16422000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153509,
+          "name": "Tai Mei Tuk",
+          "latitude": "22.45700000",
+          "longitude": "114.18400000"
+        },
+        {
+          "id": 153495,
+          "name": "Tai Po",
+          "latitude": "22.44900000",
+          "longitude": "114.16000000"
+        }
+      ]
+    },
+    {
+      "id": 4884,
+      "name": "Tsuen Wan",
+      "state_code": "NTW",
+      "latitude": "22.36281000",
+      "longitude": "114.12907000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153490,
+          "name": "Tsuen Wan",
+          "latitude": "22.37100000",
+          "longitude": "114.11400000"
+        },
+        {
+          "id": 153491,
+          "name": "Tuen Mun\t",
+          "latitude": "22.39500000",
+          "longitude": "113.97300000"
+        }
+      ]
+    },
+    {
+      "id": 4899,
+      "name": "Tuen Mun",
+      "state_code": "NTM",
+      "latitude": "22.39163000",
+      "longitude": "113.97708850",
+      "type": "district",
+      "cities": []
+    },
+    {
+      "id": 4890,
+      "name": "Wan Chai",
+      "state_code": "HWC",
+      "latitude": "22.27968000",
+      "longitude": "114.17168000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153486,
+          "name": "Causeway Bay",
+          "latitude": "22.28000000",
+          "longitude": "114.18500000"
+        },
+        {
+          "id": 153485,
+          "name": "Wan Chai",
+          "latitude": "22.27800000",
+          "longitude": "114.18200000"
+        }
+      ]
+    },
+    {
+      "id": 4896,
+      "name": "Wong Tai Sin",
+      "state_code": "KWT",
+      "latitude": "22.33353000",
+      "longitude": "114.19686000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153503,
+          "name": "Wong Tai Sin",
+          "latitude": "22.34100000",
+          "longitude": "114.19300000"
+        }
+      ]
+    },
+    {
+      "id": 4893,
+      "name": "Yau Tsim Mong",
+      "state_code": "KYT",
+      "latitude": "22.32138000",
+      "longitude": "114.17260000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153488,
+          "name": "Mong Kok",
+          "latitude": "22.31900000",
+          "longitude": "114.16900000"
+        },
+        {
+          "id": 153487,
+          "name": "Tsim Sha Tsui",
+          "latitude": "22.29800000",
+          "longitude": "114.17200000"
+        }
+      ]
+    },
+    {
+      "id": 4883,
+      "name": "Yuen Long",
+      "state_code": "NYL",
+      "latitude": "22.44559000",
+      "longitude": "114.02218000",
+      "type": "district",
+      "cities": [
+        {
+          "id": 153492,
+          "name": "Yuen Long",
+          "latitude": "22.44400000",
+          "longitude": "114.02700000"
+        }
+      ]
+    }
+  ]
+}

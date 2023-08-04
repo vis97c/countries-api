@@ -1,0 +1,108 @@
+{
+  "id": 318,
+  "name": "Edo",
+  "state_code": "ED",
+  "latitude": "6.63418310",
+  "longitude": "5.93040560",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76757,
+      "name": "Agenebode",
+      "latitude": "7.10512000",
+      "longitude": "6.69381000"
+    },
+    {
+      "id": 76782,
+      "name": "Auchi",
+      "latitude": "7.06756000",
+      "longitude": "6.26360000"
+    },
+    {
+      "id": 76800,
+      "name": "Benin City",
+      "latitude": "6.33815000",
+      "longitude": "5.62575000"
+    },
+    {
+      "id": 76859,
+      "name": "Ekpoma",
+      "latitude": "6.74300000",
+      "longitude": "6.14029000"
+    },
+    {
+      "id": 76916,
+      "name": "Igarra",
+      "latitude": "7.29366000",
+      "longitude": "6.10432000"
+    },
+    {
+      "id": 76944,
+      "name": "Illushi",
+      "latitude": "6.67033000",
+      "longitude": "6.62907000"
+    },
+    {
+      "id": 77104,
+      "name": "Siluko",
+      "latitude": "6.53589000",
+      "longitude": "5.16005000"
+    },
+    {
+      "id": 77118,
+      "name": "Ubiaja",
+      "latitude": "6.65581000",
+      "longitude": "6.38494000"
+    },
+    {
+      "id": 77127,
+      "name": "Uromi",
+      "latitude": "6.70000000",
+      "longitude": "6.33333000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

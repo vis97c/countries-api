@@ -1,0 +1,408 @@
+{
+  "id": 1044,
+  "name": "Fejér County",
+  "state_code": "FE",
+  "latitude": "47.12179320",
+  "longitude": "18.52948150",
+  "type": "county",
+  "cities": [
+    {
+      "id": 55168,
+      "name": "Aba",
+      "latitude": "47.02907000",
+      "longitude": "18.52172000"
+    },
+    {
+      "id": 55175,
+      "name": "Adony",
+      "latitude": "47.11940000",
+      "longitude": "18.86493000"
+    },
+    {
+      "id": 55181,
+      "name": "Alap",
+      "latitude": "46.79915000",
+      "longitude": "18.68938000"
+    },
+    {
+      "id": 55205,
+      "name": "Bakonycsernye",
+      "latitude": "47.32395000",
+      "longitude": "18.07509000"
+    },
+    {
+      "id": 55229,
+      "name": "Baracs",
+      "latitude": "46.88202000",
+      "longitude": "18.90658000"
+    },
+    {
+      "id": 55230,
+      "name": "Baracska",
+      "latitude": "47.28225000",
+      "longitude": "18.75853000"
+    },
+    {
+      "id": 55246,
+      "name": "Bicske",
+      "latitude": "47.48419000",
+      "longitude": "18.64404000"
+    },
+    {
+      "id": 55247,
+      "name": "Bicskei Járás",
+      "latitude": "47.43380000",
+      "longitude": "18.56757000"
+    },
+    {
+      "id": 55250,
+      "name": "Bodajk",
+      "latitude": "47.32352000",
+      "longitude": "18.23312000"
+    },
+    {
+      "id": 55314,
+      "name": "Cece",
+      "latitude": "46.77056000",
+      "longitude": "18.62826000"
+    },
+    {
+      "id": 55345,
+      "name": "Csákvár",
+      "latitude": "47.39184000",
+      "longitude": "18.46501000"
+    },
+    {
+      "id": 55387,
+      "name": "Dég",
+      "latitude": "46.86807000",
+      "longitude": "18.45042000"
+    },
+    {
+      "id": 56139,
+      "name": "dunaújváros",
+      "latitude": "46.96737000",
+      "longitude": "18.93288000"
+    },
+    {
+      "id": 55382,
+      "name": "Dunaújvárosi Járás",
+      "latitude": "47.02801000",
+      "longitude": "18.82997000"
+    },
+    {
+      "id": 55403,
+      "name": "Előszállás",
+      "latitude": "46.83094000",
+      "longitude": "18.83481000"
+    },
+    {
+      "id": 55408,
+      "name": "Enying",
+      "latitude": "46.93046000",
+      "longitude": "18.24202000"
+    },
+    {
+      "id": 55409,
+      "name": "Enyingi Járás",
+      "latitude": "46.87240000",
+      "longitude": "18.30975000"
+    },
+    {
+      "id": 55410,
+      "name": "Ercsi",
+      "latitude": "47.25194000",
+      "longitude": "18.89623000"
+    },
+    {
+      "id": 55414,
+      "name": "Etyek",
+      "latitude": "47.44794000",
+      "longitude": "18.75328000"
+    },
+    {
+      "id": 55422,
+      "name": "Fehérvárcsurgó",
+      "latitude": "47.29349000",
+      "longitude": "18.26460000"
+    },
+    {
+      "id": 55471,
+      "name": "Gárdony",
+      "latitude": "47.20942000",
+      "longitude": "18.63607000"
+    },
+    {
+      "id": 55472,
+      "name": "Gárdonyi Járás",
+      "latitude": "47.22785000",
+      "longitude": "18.63622000"
+    },
+    {
+      "id": 55530,
+      "name": "Iváncsa",
+      "latitude": "47.15670000",
+      "longitude": "18.82030000"
+    },
+    {
+      "id": 55638,
+      "name": "Káloz",
+      "latitude": "46.95464000",
+      "longitude": "18.48259000"
+    },
+    {
+      "id": 55640,
+      "name": "Kápolnásnyék",
+      "latitude": "47.24004000",
+      "longitude": "18.67564000"
+    },
+    {
+      "id": 55593,
+      "name": "Kincsesbánya",
+      "latitude": "47.26444000",
+      "longitude": "18.27790000"
+    },
+    {
+      "id": 55604,
+      "name": "Kisláng",
+      "latitude": "46.95744000",
+      "longitude": "18.38813000"
+    },
+    {
+      "id": 55653,
+      "name": "Lajoskomárom",
+      "latitude": "46.84201000",
+      "longitude": "18.33763000"
+    },
+    {
+      "id": 55659,
+      "name": "Lepsény",
+      "latitude": "46.99036000",
+      "longitude": "18.24357000"
+    },
+    {
+      "id": 55665,
+      "name": "Lovasberény",
+      "latitude": "47.30997000",
+      "longitude": "18.55177000"
+    },
+    {
+      "id": 55722,
+      "name": "Mány",
+      "latitude": "47.53352000",
+      "longitude": "18.65627000"
+    },
+    {
+      "id": 55682,
+      "name": "Martonvásár",
+      "latitude": "47.31601000",
+      "longitude": "18.79045000"
+    },
+    {
+      "id": 55683,
+      "name": "Martonvásári Járás",
+      "latitude": "47.29040000",
+      "longitude": "18.79945000"
+    },
+    {
+      "id": 55691,
+      "name": "Mezőfalva",
+      "latitude": "46.93184000",
+      "longitude": "18.77177000"
+    },
+    {
+      "id": 55698,
+      "name": "Mezőszilas",
+      "latitude": "46.81109000",
+      "longitude": "18.47789000"
+    },
+    {
+      "id": 55733,
+      "name": "Mór",
+      "latitude": "47.37787000",
+      "longitude": "18.20353000"
+    },
+    {
+      "id": 55736,
+      "name": "Móri Járás",
+      "latitude": "47.34685000",
+      "longitude": "18.19838000"
+    },
+    {
+      "id": 55839,
+      "name": "Pákozd",
+      "latitude": "47.21369000",
+      "longitude": "18.53306000"
+    },
+    {
+      "id": 55848,
+      "name": "Pázmánd",
+      "latitude": "47.28755000",
+      "longitude": "18.65356000"
+    },
+    {
+      "id": 55814,
+      "name": "Perkáta",
+      "latitude": "47.04701000",
+      "longitude": "18.78734000"
+    },
+    {
+      "id": 55828,
+      "name": "Polgárdi",
+      "latitude": "47.06099000",
+      "longitude": "18.30200000"
+    },
+    {
+      "id": 55834,
+      "name": "Pusztaszabolcs",
+      "latitude": "47.13718000",
+      "longitude": "18.76704000"
+    },
+    {
+      "id": 55836,
+      "name": "Pusztavám",
+      "latitude": "47.42948000",
+      "longitude": "18.22648000"
+    },
+    {
+      "id": 55870,
+      "name": "Rácalmás",
+      "latitude": "47.02263000",
+      "longitude": "18.94056000"
+    },
+    {
+      "id": 55871,
+      "name": "Ráckeresztúr",
+      "latitude": "47.27360000",
+      "longitude": "18.83343000"
+    },
+    {
+      "id": 55981,
+      "name": "Sárbogárd",
+      "latitude": "46.88692000",
+      "longitude": "18.62041000"
+    },
+    {
+      "id": 55982,
+      "name": "Sárbogárdi Járás",
+      "latitude": "46.84036000",
+      "longitude": "18.60723000"
+    },
+    {
+      "id": 55983,
+      "name": "Sárkeresztúr",
+      "latitude": "47.00540000",
+      "longitude": "18.54391000"
+    },
+    {
+      "id": 55985,
+      "name": "Sárosd",
+      "latitude": "47.04273000",
+      "longitude": "18.64357000"
+    },
+    {
+      "id": 55989,
+      "name": "Sárszentmihály",
+      "latitude": "47.15321000",
+      "longitude": "18.33879000"
+    },
+    {
+      "id": 55896,
+      "name": "Seregélyes",
+      "latitude": "47.11050000",
+      "longitude": "18.56500000"
+    },
+    {
+      "id": 55908,
+      "name": "Soponya",
+      "latitude": "47.01485000",
+      "longitude": "18.45343000"
+    },
+    {
+      "id": 55911,
+      "name": "Szabadbattyán",
+      "latitude": "47.11902000",
+      "longitude": "18.36823000"
+    },
+    {
+      "id": 55969,
+      "name": "Szárliget",
+      "latitude": "47.51581000",
+      "longitude": "18.49480000"
+    },
+    {
+      "id": 55974,
+      "name": "Székesfehérvár",
+      "latitude": "47.18995000",
+      "longitude": "18.41034000"
+    },
+    {
+      "id": 55975,
+      "name": "Székesfehérvári Járás",
+      "latitude": "47.16531000",
+      "longitude": "18.41349000"
+    },
+    {
+      "id": 56108,
+      "name": "Vál",
+      "latitude": "47.36264000",
+      "longitude": "18.67931000"
+    },
+    {
+      "id": 56096,
+      "name": "Velence",
+      "latitude": "47.23855000",
+      "longitude": "18.65484000"
+    },
+    {
+      "id": 56137,
+      "name": "Zámoly",
+      "latitude": "47.31667000",
+      "longitude": "18.40810000"
+    }
+  ],
+  "country": {
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phone_code": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "헝가리",
+      "pt-BR": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "cn": "匈牙利",
+      "tr": "Macaristan"
+    },
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  }
+}

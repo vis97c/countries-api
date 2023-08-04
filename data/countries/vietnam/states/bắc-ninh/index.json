@@ -1,0 +1,90 @@
+{
+  "id": 3791,
+  "name": "Bắc Ninh",
+  "state_code": "56",
+  "latitude": "21.12144400",
+  "longitude": "106.11105010",
+  "type": null,
+  "cities": [
+    {
+      "id": 130179,
+      "name": "Bắc Ninh",
+      "latitude": "21.18608000",
+      "longitude": "106.07631000"
+    },
+    {
+      "id": 130186,
+      "name": "Cung Kiệm",
+      "latitude": "21.18697000",
+      "longitude": "106.16076000"
+    },
+    {
+      "id": 130285,
+      "name": "Huyện Gia Bình",
+      "latitude": "21.07795000",
+      "longitude": "106.20903000"
+    },
+    {
+      "id": 130441,
+      "name": "Huyện Thuận Thành",
+      "latitude": "21.04085000",
+      "longitude": "106.07515000"
+    },
+    {
+      "id": 130455,
+      "name": "Huyện Tiên Du",
+      "latitude": "21.12195000",
+      "longitude": "106.03995000"
+    },
+    {
+      "id": 130518,
+      "name": "Huyện Yên Phong",
+      "latitude": "21.20676000",
+      "longitude": "105.99427000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

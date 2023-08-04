@@ -1,0 +1,97 @@
+{
+  "id": 4073,
+  "name": "Tasman District",
+  "state_code": "TAS",
+  "latitude": "-41.45711840",
+  "longitude": "172.82097400",
+  "type": null,
+  "cities": [
+    {
+      "id": 79777,
+      "name": "Brightwater",
+      "latitude": "-41.38333000",
+      "longitude": "173.11667000"
+    },
+    {
+      "id": 79825,
+      "name": "Mapua",
+      "latitude": "-41.25000000",
+      "longitude": "173.10000000"
+    },
+    {
+      "id": 79832,
+      "name": "Motueka",
+      "latitude": "-41.13333000",
+      "longitude": "173.01667000"
+    },
+    {
+      "id": 79870,
+      "name": "Richmond",
+      "latitude": "-41.33333000",
+      "longitude": "173.18333000"
+    },
+    {
+      "id": 79884,
+      "name": "Takaka",
+      "latitude": "-40.85000000",
+      "longitude": "172.80000000"
+    },
+    {
+      "id": 79911,
+      "name": "Wakefield",
+      "latitude": "-41.40000000",
+      "longitude": "173.05000000"
+    }
+  ],
+  "country": {
+    "id": 158,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phone_code": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "뉴질랜드",
+      "pt-BR": "Nova Zelândia",
+      "pt": "Nova Zelândia",
+      "nl": "Nieuw-Zeeland",
+      "hr": "Novi Zeland",
+      "fa": "نیوزیلند",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "ja": "ニュージーランド",
+      "it": "Nuova Zelanda",
+      "cn": "新西兰",
+      "tr": "Yeni Zelanda"
+    },
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  }
+}

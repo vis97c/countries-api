@@ -1,0 +1,120 @@
+{
+  "id": 3378,
+  "name": "Tarija Department",
+  "state_code": "T",
+  "latitude": "-21.58315950",
+  "longitude": "-63.95861110",
+  "type": null,
+  "cities": [
+    {
+      "id": 9834,
+      "name": "Bermejo",
+      "latitude": "-22.73206000",
+      "longitude": "-64.33724000"
+    },
+    {
+      "id": 9862,
+      "name": "Entre Ríos",
+      "latitude": "-21.52661000",
+      "longitude": "-64.17299000"
+    },
+    {
+      "id": 9903,
+      "name": "Provincia Arce",
+      "latitude": "-22.16667000",
+      "longitude": "-64.33333000"
+    },
+    {
+      "id": 9907,
+      "name": "Provincia Avilez",
+      "latitude": "-21.66667000",
+      "longitude": "-65.00000000"
+    },
+    {
+      "id": 9919,
+      "name": "Provincia Cercado",
+      "latitude": "-21.58333000",
+      "longitude": "-64.58333000"
+    },
+    {
+      "id": 9934,
+      "name": "Provincia Gran Chaco",
+      "latitude": "-21.66667000",
+      "longitude": "-63.00000000"
+    },
+    {
+      "id": 9959,
+      "name": "Provincia Méndez",
+      "latitude": "-21.16667000",
+      "longitude": "-64.91667000"
+    },
+    {
+      "id": 9967,
+      "name": "Provincia O’Connor",
+      "latitude": "-21.58333000",
+      "longitude": "-64.16667000"
+    },
+    {
+      "id": 10035,
+      "name": "Tarija",
+      "latitude": "-21.53549000",
+      "longitude": "-64.72956000"
+    },
+    {
+      "id": 10047,
+      "name": "Villamontes",
+      "latitude": "-21.26235000",
+      "longitude": "-63.46903000"
+    },
+    {
+      "id": 10051,
+      "name": "Yacuiba",
+      "latitude": "-22.01643000",
+      "longitude": "-63.67753000"
+    }
+  ],
+  "country": {
+    "id": 27,
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "iso2": "BO",
+    "numeric_code": "068",
+    "phone_code": "591",
+    "capital": "Sucre",
+    "currency": "BOB",
+    "currency_name": "Bolivian boliviano",
+    "currency_symbol": "Bs.",
+    "tld": ".bo",
+    "native": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/La_Paz",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BOT",
+        "tzName": "Bolivia Time"
+      }
+    ],
+    "translations": {
+      "kr": "볼리비아",
+      "pt-BR": "Bolívia",
+      "pt": "Bolívia",
+      "nl": "Bolivia",
+      "hr": "Bolivija",
+      "fa": "بولیوی",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fr": "Bolivie",
+      "ja": "ボリビア多民族国",
+      "it": "Bolivia",
+      "cn": "玻利维亚",
+      "tr": "Bolivya"
+    },
+    "latitude": "-17.00000000",
+    "longitude": "-65.00000000",
+    "emoji": "🇧🇴",
+    "emojiU": "U+1F1E7 U+1F1F4"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": 1039,
+  "name": "Vas County",
+  "state_code": "VA",
+  "latitude": "47.09291110",
+  "longitude": "16.68121830",
+  "type": "county",
+  "cities": [
+    {
+      "id": 55309,
+      "name": "Bük",
+      "latitude": "47.38486000",
+      "longitude": "16.75065000"
+    },
+    {
+      "id": 55318,
+      "name": "Celldömölk",
+      "latitude": "47.25713000",
+      "longitude": "17.15027000"
+    },
+    {
+      "id": 55319,
+      "name": "Celldömölki Járás",
+      "latitude": "47.25001000",
+      "longitude": "17.13209000"
+    },
+    {
+      "id": 55332,
+      "name": "Csepreg",
+      "latitude": "47.40098000",
+      "longitude": "16.70881000"
+    },
+    {
+      "id": 55447,
+      "name": "Gencsapáti",
+      "latitude": "47.28496000",
+      "longitude": "16.59575000"
+    },
+    {
+      "id": 55534,
+      "name": "Ják",
+      "latitude": "47.14249000",
+      "longitude": "16.58148000"
+    },
+    {
+      "id": 55538,
+      "name": "Jánosháza",
+      "latitude": "47.11937000",
+      "longitude": "17.16503000"
+    },
+    {
+      "id": 55647,
+      "name": "Körmend",
+      "latitude": "47.01096000",
+      "longitude": "16.60596000"
+    },
+    {
+      "id": 55648,
+      "name": "Körmendi Járás",
+      "latitude": "46.92164000",
+      "longitude": "16.53291000"
+    },
+    {
+      "id": 55651,
+      "name": "Kőszeg",
+      "latitude": "47.38922000",
+      "longitude": "16.54100000"
+    },
+    {
+      "id": 55652,
+      "name": "Kőszegi Járás",
+      "latitude": "47.37500000",
+      "longitude": "16.65650000"
+    },
+    {
+      "id": 55876,
+      "name": "Répcelak",
+      "latitude": "47.42105000",
+      "longitude": "17.01795000"
+    },
+    {
+      "id": 55990,
+      "name": "Sárvár",
+      "latitude": "47.25395000",
+      "longitude": "16.93525000"
+    },
+    {
+      "id": 55991,
+      "name": "Sárvári Járás",
+      "latitude": "47.23868000",
+      "longitude": "16.93299000"
+    },
+    {
+      "id": 55938,
+      "name": "Szentgotthárd",
+      "latitude": "46.95261000",
+      "longitude": "16.27358000"
+    },
+    {
+      "id": 55939,
+      "name": "Szentgotthárdi Járás",
+      "latitude": "46.93674000",
+      "longitude": "16.30362000"
+    },
+    {
+      "id": 55966,
+      "name": "Szombathely",
+      "latitude": "47.23088000",
+      "longitude": "16.62155000"
+    },
+    {
+      "id": 55967,
+      "name": "Szombathelyi Járás",
+      "latitude": "47.21037000",
+      "longitude": "16.63954000"
+    },
+    {
+      "id": 56070,
+      "name": "Táplánszentkereszt",
+      "latitude": "47.19496000",
+      "longitude": "16.69613000"
+    },
+    {
+      "id": 56092,
+      "name": "Vasvár",
+      "latitude": "47.04928000",
+      "longitude": "16.79954000"
+    },
+    {
+      "id": 56093,
+      "name": "Vasvári Járás",
+      "latitude": "47.03487000",
+      "longitude": "16.85939000"
+    },
+    {
+      "id": 56116,
+      "name": "Vép",
+      "latitude": "47.23041000",
+      "longitude": "16.72248000"
+    }
+  ],
+  "country": {
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phone_code": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Budapest",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "헝가리",
+      "pt-BR": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان",
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "cn": "匈牙利",
+      "tr": "Macaristan"
+    },
+    "latitude": "47.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA"
+  }
+}

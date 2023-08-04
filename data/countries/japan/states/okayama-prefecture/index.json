@@ -1,0 +1,204 @@
+{
+  "id": 820,
+  "name": "Okayama Prefecture",
+  "state_code": "33",
+  "latitude": "34.89634070",
+  "longitude": "133.63753140",
+  "type": null,
+  "cities": [
+    {
+      "id": 63227,
+      "name": "Akaiwa Shi",
+      "latitude": "34.83767000",
+      "longitude": "134.01792000"
+    },
+    {
+      "id": 63262,
+      "name": "Asakuchi Shi",
+      "latitude": "34.53607000",
+      "longitude": "133.59456000"
+    },
+    {
+      "id": 63286,
+      "name": "Bizen Shi",
+      "latitude": "34.79504000",
+      "longitude": "134.23510000"
+    },
+    {
+      "id": 63531,
+      "name": "Ibara",
+      "latitude": "34.60000000",
+      "longitude": "133.46667000"
+    },
+    {
+      "id": 63532,
+      "name": "Ibara Shi",
+      "latitude": "34.65033000",
+      "longitude": "133.47371000"
+    },
+    {
+      "id": 63701,
+      "name": "Kamogatachō-kamogata",
+      "latitude": "34.53745000",
+      "longitude": "133.58967000"
+    },
+    {
+      "id": 63730,
+      "name": "Kasaoka",
+      "latitude": "34.50597000",
+      "longitude": "133.50391000"
+    },
+    {
+      "id": 63731,
+      "name": "Kasaoka Shi",
+      "latitude": "34.51520000",
+      "longitude": "133.50618000"
+    },
+    {
+      "id": 63865,
+      "name": "Kurashiki",
+      "latitude": "34.58333000",
+      "longitude": "133.76667000"
+    },
+    {
+      "id": 63866,
+      "name": "Kurashiki Shi",
+      "latitude": "34.55466000",
+      "longitude": "133.74826000"
+    },
+    {
+      "id": 63920,
+      "name": "Maniwa-shi",
+      "latitude": "35.13549000",
+      "longitude": "133.69358000"
+    },
+    {
+      "id": 63957,
+      "name": "Mimasaka-shi",
+      "latitude": "35.04419000",
+      "longitude": "134.23052000"
+    },
+    {
+      "id": 64133,
+      "name": "Niimi",
+      "latitude": "34.98333000",
+      "longitude": "133.46667000"
+    },
+    {
+      "id": 64134,
+      "name": "Niimi Shi",
+      "latitude": "35.01571000",
+      "longitude": "133.44900000"
+    },
+    {
+      "id": 64195,
+      "name": "Okayama",
+      "latitude": "34.65000000",
+      "longitude": "133.93333000"
+    },
+    {
+      "id": 64196,
+      "name": "Okayama Shi",
+      "latitude": "34.71251000",
+      "longitude": "133.92329000"
+    },
+    {
+      "id": 64306,
+      "name": "Setouchi Shi",
+      "latitude": "34.66539000",
+      "longitude": "134.14161000"
+    },
+    {
+      "id": 64398,
+      "name": "Sōja",
+      "latitude": "34.67534000",
+      "longitude": "133.75091000"
+    },
+    {
+      "id": 64399,
+      "name": "Sōja Shi",
+      "latitude": "34.70269000",
+      "longitude": "133.70218000"
+    },
+    {
+      "id": 64422,
+      "name": "Takahashi",
+      "latitude": "34.78333000",
+      "longitude": "133.61667000"
+    },
+    {
+      "id": 64423,
+      "name": "Takahashi Shi",
+      "latitude": "34.82103000",
+      "longitude": "133.52435000"
+    },
+    {
+      "id": 64459,
+      "name": "Tamano",
+      "latitude": "34.51745000",
+      "longitude": "133.94574000"
+    },
+    {
+      "id": 64460,
+      "name": "Tamano Shi",
+      "latitude": "34.52507000",
+      "longitude": "133.93769000"
+    },
+    {
+      "id": 64563,
+      "name": "Tsuyama",
+      "latitude": "35.05215000",
+      "longitude": "133.99885000"
+    },
+    {
+      "id": 64564,
+      "name": "Tsuyama-shi",
+      "latitude": "35.14048000",
+      "longitude": "134.03181000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

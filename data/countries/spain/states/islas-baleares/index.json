@@ -1,0 +1,656 @@
+{
+  "id": 1174,
+  "name": "Islas Baleares",
+  "state_code": "PM",
+  "latitude": "39.35877590",
+  "longitude": "2.73563280",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31992,
+      "name": "Alaior",
+      "latitude": "39.93034000",
+      "longitude": "4.14039000"
+    },
+    {
+      "id": 32007,
+      "name": "Alaró",
+      "latitude": "39.70441000",
+      "longitude": "2.79181000"
+    },
+    {
+      "id": 32139,
+      "name": "Alcúdia",
+      "latitude": "39.85316000",
+      "longitude": "3.12138000"
+    },
+    {
+      "id": 32209,
+      "name": "Algaida",
+      "latitude": "39.55899000",
+      "longitude": "2.89541000"
+    },
+    {
+      "id": 32375,
+      "name": "Andratx",
+      "latitude": "39.57553000",
+      "longitude": "2.42017000"
+    },
+    {
+      "id": 32478,
+      "name": "Ariany",
+      "latitude": "39.65048000",
+      "longitude": "3.11055000"
+    },
+    {
+      "id": 32526,
+      "name": "Artà",
+      "latitude": "39.69315000",
+      "longitude": "3.34979000"
+    },
+    {
+      "id": 32633,
+      "name": "Banyalbufar",
+      "latitude": "39.68734000",
+      "longitude": "2.51409000"
+    },
+    {
+      "id": 32897,
+      "name": "Binissalem",
+      "latitude": "39.68744000",
+      "longitude": "2.84396000"
+    },
+    {
+      "id": 33064,
+      "name": "Búger",
+      "latitude": "39.75809000",
+      "longitude": "2.98349000"
+    },
+    {
+      "id": 33020,
+      "name": "Bunyola",
+      "latitude": "39.69634000",
+      "longitude": "2.69955000"
+    },
+    {
+      "id": 33122,
+      "name": "Cala d'Or",
+      "latitude": "39.37810000",
+      "longitude": "3.23479000"
+    },
+    {
+      "id": 33121,
+      "name": "Cala Rajada",
+      "latitude": "39.71174000",
+      "longitude": "3.46310000"
+    },
+    {
+      "id": 33149,
+      "name": "Calonge",
+      "latitude": "39.40039000",
+      "longitude": "3.20335000"
+    },
+    {
+      "id": 33155,
+      "name": "Calvià",
+      "latitude": "39.56570000",
+      "longitude": "2.50621000"
+    },
+    {
+      "id": 33180,
+      "name": "Camp de Mar",
+      "latitude": "39.53827000",
+      "longitude": "2.42386000"
+    },
+    {
+      "id": 33182,
+      "name": "Campanet",
+      "latitude": "39.77470000",
+      "longitude": "2.96506000"
+    },
+    {
+      "id": 33210,
+      "name": "Campos",
+      "latitude": "39.43099000",
+      "longitude": "3.01935000"
+    },
+    {
+      "id": 33217,
+      "name": "Can Pastilla",
+      "latitude": "39.53615000",
+      "longitude": "2.71766000"
+    },
+    {
+      "id": 33219,
+      "name": "Can Picafort",
+      "latitude": "39.76567000",
+      "longitude": "3.15488000"
+    },
+    {
+      "id": 33264,
+      "name": "Capdepera",
+      "latitude": "39.70237000",
+      "longitude": "3.43532000"
+    },
+    {
+      "id": 152918,
+      "name": "Castell Es",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33699,
+      "name": "Ciutadella",
+      "latitude": "40.00112000",
+      "longitude": "3.84144000"
+    },
+    {
+      "id": 152909,
+      "name": "Ciutadella de Menorca",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33729,
+      "name": "Coll d'en Rabassa",
+      "latitude": "39.55083000",
+      "longitude": "2.69468000"
+    },
+    {
+      "id": 33749,
+      "name": "Colònia de Sant Jordi",
+      "latitude": "39.31810000",
+      "longitude": "2.99197000"
+    },
+    {
+      "id": 33764,
+      "name": "Consell",
+      "latitude": "39.66861000",
+      "longitude": "2.81267000"
+    },
+    {
+      "id": 33821,
+      "name": "Costitx",
+      "latitude": "39.65675000",
+      "longitude": "2.94953000"
+    },
+    {
+      "id": 33922,
+      "name": "Deià",
+      "latitude": "39.74806000",
+      "longitude": "2.64823000"
+    },
+    {
+      "id": 152910,
+      "name": "Deyá",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152912,
+      "name": "Eivissa",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34022,
+      "name": "El Toro",
+      "latitude": "39.48477000",
+      "longitude": "2.48222000"
+    },
+    {
+      "id": 34073,
+      "name": "Es Castell",
+      "latitude": "39.87760000",
+      "longitude": "4.28990000"
+    },
+    {
+      "id": 34074,
+      "name": "Es Molinar",
+      "latitude": "39.56140000",
+      "longitude": "2.67517000"
+    },
+    {
+      "id": 34089,
+      "name": "Escorca",
+      "latitude": "39.82138000",
+      "longitude": "2.86941000"
+    },
+    {
+      "id": 34131,
+      "name": "Esporles",
+      "latitude": "39.66794000",
+      "longitude": "2.57867000"
+    },
+    {
+      "id": 34140,
+      "name": "Estellencs",
+      "latitude": "39.65338000",
+      "longitude": "2.48130000"
+    },
+    {
+      "id": 34171,
+      "name": "Felanitx",
+      "latitude": "39.46960000",
+      "longitude": "3.14831000"
+    },
+    {
+      "id": 34179,
+      "name": "Ferreries",
+      "latitude": "39.98324000",
+      "longitude": "4.01181000"
+    },
+    {
+      "id": 152911,
+      "name": "Formentera",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 34224,
+      "name": "Fornalutx",
+      "latitude": "39.78232000",
+      "longitude": "2.74107000"
+    },
+    {
+      "id": 34729,
+      "name": "Ibiza",
+      "latitude": "38.90883000",
+      "longitude": "1.43296000"
+    },
+    {
+      "id": 34747,
+      "name": "Illes Balears",
+      "latitude": "39.60992000",
+      "longitude": "3.02948000"
+    },
+    {
+      "id": 34752,
+      "name": "Inca",
+      "latitude": "39.72110000",
+      "longitude": "2.91093000"
+    },
+    {
+      "id": 35085,
+      "name": "Lloret de Vistalegre",
+      "latitude": "39.61835000",
+      "longitude": "2.97493000"
+    },
+    {
+      "id": 35087,
+      "name": "Lloseta",
+      "latitude": "39.71849000",
+      "longitude": "2.86690000"
+    },
+    {
+      "id": 35088,
+      "name": "Llubí",
+      "latitude": "39.69933000",
+      "longitude": "3.00681000"
+    },
+    {
+      "id": 35089,
+      "name": "Llucmajor",
+      "latitude": "39.49093000",
+      "longitude": "2.89108000"
+    },
+    {
+      "id": 35201,
+      "name": "Magaluf",
+      "latitude": "39.51110000",
+      "longitude": "2.53530000"
+    },
+    {
+      "id": 35239,
+      "name": "Manacor",
+      "latitude": "39.56964000",
+      "longitude": "3.20955000"
+    },
+    {
+      "id": 35246,
+      "name": "Mancor de la Vall",
+      "latitude": "39.74966000",
+      "longitude": "2.87284000"
+    },
+    {
+      "id": 35363,
+      "name": "Maó",
+      "latitude": "39.88853000",
+      "longitude": "4.26583000"
+    },
+    {
+      "id": 35289,
+      "name": "Maria de la Salut",
+      "latitude": "39.66306000",
+      "longitude": "3.07300000"
+    },
+    {
+      "id": 35297,
+      "name": "Marratxí",
+      "latitude": "39.62142000",
+      "longitude": "2.72530000"
+    },
+    {
+      "id": 35407,
+      "name": "Mercadal",
+      "latitude": "39.99014000",
+      "longitude": "4.09387000"
+    },
+    {
+      "id": 152913,
+      "name": "Mercadal Es",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 152919,
+      "name": "Migjorn Gran Es",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 35586,
+      "name": "Montuïri",
+      "latitude": "39.56742000",
+      "longitude": "2.98189000"
+    },
+    {
+      "id": 35681,
+      "name": "Muro",
+      "latitude": "39.73661000",
+      "longitude": "3.05559000"
+    },
+    {
+      "id": 36027,
+      "name": "Palma",
+      "latitude": "39.56939000",
+      "longitude": "2.65024000"
+    },
+    {
+      "id": 36030,
+      "name": "Palmanova",
+      "latitude": "39.52470000",
+      "longitude": "2.53922000"
+    },
+    {
+      "id": 36116,
+      "name": "Peguera",
+      "latitude": "39.53751000",
+      "longitude": "2.44806000"
+    },
+    {
+      "id": 36157,
+      "name": "Petra",
+      "latitude": "39.61351000",
+      "longitude": "3.11312000"
+    },
+    {
+      "id": 152914,
+      "name": "Pobla Sa",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36262,
+      "name": "Pollença",
+      "latitude": "39.87678000",
+      "longitude": "3.01626000"
+    },
+    {
+      "id": 36279,
+      "name": "Porreres",
+      "latitude": "39.51434000",
+      "longitude": "3.02197000"
+    },
+    {
+      "id": 36281,
+      "name": "Port d'Alcúdia",
+      "latitude": "39.84182000",
+      "longitude": "3.13291000"
+    },
+    {
+      "id": 36282,
+      "name": "Port de Pollença",
+      "latitude": "39.90750000",
+      "longitude": "3.08140000"
+    },
+    {
+      "id": 36283,
+      "name": "Port de Sóller",
+      "latitude": "39.79759000",
+      "longitude": "2.69637000"
+    },
+    {
+      "id": 36295,
+      "name": "Porto Cristo",
+      "latitude": "39.53953000",
+      "longitude": "3.33302000"
+    },
+    {
+      "id": 36297,
+      "name": "Portocolom",
+      "latitude": "39.41589000",
+      "longitude": "3.25697000"
+    },
+    {
+      "id": 36464,
+      "name": "Puigpunyent",
+      "latitude": "39.62514000",
+      "longitude": "2.52759000"
+    },
+    {
+      "id": 38569,
+      "name": "s'Arenal",
+      "latitude": "39.50000000",
+      "longitude": "2.75000000"
+    },
+    {
+      "id": 38570,
+      "name": "sa Pobla",
+      "latitude": "39.76920000",
+      "longitude": "3.02394000"
+    },
+    {
+      "id": 152917,
+      "name": "Salines Ses",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36957,
+      "name": "Sant Antoni de Portmany",
+      "latitude": "38.98068000",
+      "longitude": "1.30362000"
+    },
+    {
+      "id": 36967,
+      "name": "Sant Francesc de Formentera",
+      "latitude": "38.70566000",
+      "longitude": "1.42893000"
+    },
+    {
+      "id": 36971,
+      "name": "Sant Joan",
+      "latitude": "39.59621000",
+      "longitude": "3.03920000"
+    },
+    {
+      "id": 36973,
+      "name": "Sant Joan de Labritja",
+      "latitude": "39.07891000",
+      "longitude": "1.51397000"
+    },
+    {
+      "id": 36980,
+      "name": "Sant Josep de sa Talaia",
+      "latitude": "38.92239000",
+      "longitude": "1.29437000"
+    },
+    {
+      "id": 36983,
+      "name": "Sant Llorenç des Cardassar",
+      "latitude": "39.61009000",
+      "longitude": "3.28380000"
+    },
+    {
+      "id": 36984,
+      "name": "Sant Lluís",
+      "latitude": "39.84939000",
+      "longitude": "4.25819000"
+    },
+    {
+      "id": 37052,
+      "name": "Santa Eugènia",
+      "latitude": "39.62361000",
+      "longitude": "2.83864000"
+    },
+    {
+      "id": 152915,
+      "name": "Santa Eulalia del Río",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37058,
+      "name": "Santa Eulària des Riu",
+      "latitude": "38.98457000",
+      "longitude": "1.53409000"
+    },
+    {
+      "id": 37064,
+      "name": "Santa Margalida",
+      "latitude": "39.70143000",
+      "longitude": "3.10215000"
+    },
+    {
+      "id": 152916,
+      "name": "Santa María del Camí",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37099,
+      "name": "Santa Ponsa",
+      "latitude": "39.50868000",
+      "longitude": "2.47660000"
+    },
+    {
+      "id": 37107,
+      "name": "Santanyí",
+      "latitude": "39.35461000",
+      "longitude": "3.12907000"
+    },
+    {
+      "id": 37205,
+      "name": "Selva",
+      "latitude": "39.75504000",
+      "longitude": "2.90069000"
+    },
+    {
+      "id": 37209,
+      "name": "Sencelles",
+      "latitude": "39.64598000",
+      "longitude": "2.89769000"
+    },
+    {
+      "id": 37229,
+      "name": "Ses Salines",
+      "latitude": "39.33831000",
+      "longitude": "3.05274000"
+    },
+    {
+      "id": 37261,
+      "name": "Sineu",
+      "latitude": "39.64254000",
+      "longitude": "3.01034000"
+    },
+    {
+      "id": 37337,
+      "name": "Sóller",
+      "latitude": "39.76623000",
+      "longitude": "2.71521000"
+    },
+    {
+      "id": 37290,
+      "name": "Son Ferrer",
+      "latitude": "39.49666000",
+      "longitude": "2.50102000"
+    },
+    {
+      "id": 37291,
+      "name": "Son Servera",
+      "latitude": "39.62073000",
+      "longitude": "3.36008000"
+    },
+    {
+      "id": 37843,
+      "name": "Valldemossa",
+      "latitude": "39.71042000",
+      "longitude": "2.62230000"
+    },
+    {
+      "id": 37983,
+      "name": "Vilafranca de Bonany",
+      "latitude": "39.56894000",
+      "longitude": "3.08815000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

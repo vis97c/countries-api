@@ -1,0 +1,378 @@
+{
+  "id": 736,
+  "name": "Zagreb 00",
+  "state_code": "01",
+  "latitude": "45.87066120",
+  "longitude": "16.39549100",
+  "type": "county",
+  "cities": [
+    {
+      "id": 54396,
+      "name": "Bestovje",
+      "latitude": "45.80833000",
+      "longitude": "15.81667000"
+    },
+    {
+      "id": 54401,
+      "name": "Bistra",
+      "latitude": "45.90657000",
+      "longitude": "15.85087000"
+    },
+    {
+      "id": 54411,
+      "name": "Brckovljani",
+      "latitude": "45.83333000",
+      "longitude": "16.30000000"
+    },
+    {
+      "id": 54412,
+      "name": "Brdovec",
+      "latitude": "45.86666000",
+      "longitude": "15.77102000"
+    },
+    {
+      "id": 54413,
+      "name": "Bregana",
+      "latitude": "45.84013000",
+      "longitude": "15.68792000"
+    },
+    {
+      "id": 54456,
+      "name": "Donja Bistra",
+      "latitude": "45.90778000",
+      "longitude": "15.85444000"
+    },
+    {
+      "id": 54457,
+      "name": "Donja Lomnica",
+      "latitude": "45.71194000",
+      "longitude": "16.02694000"
+    },
+    {
+      "id": 54458,
+      "name": "Donja Zdenčina",
+      "latitude": "45.66667000",
+      "longitude": "15.76667000"
+    },
+    {
+      "id": 54462,
+      "name": "Donji Stupnik",
+      "latitude": "45.73971000",
+      "longitude": "15.85975000"
+    },
+    {
+      "id": 54478,
+      "name": "Farkaševac",
+      "latitude": "45.87899000",
+      "longitude": "16.63467000"
+    },
+    {
+      "id": 54495,
+      "name": "Gornja Bistra",
+      "latitude": "45.91667000",
+      "longitude": "15.90000000"
+    },
+    {
+      "id": 54583,
+      "name": "Gračec",
+      "latitude": "45.83333000",
+      "longitude": "16.31667000"
+    },
+    {
+      "id": 54514,
+      "name": "Grad Dugo Selo",
+      "latitude": "45.80900000",
+      "longitude": "16.24123000"
+    },
+    {
+      "id": 54522,
+      "name": "Grad Jastrebarsko",
+      "latitude": "45.66667000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 54547,
+      "name": "Grad Samobor",
+      "latitude": "45.80000000",
+      "longitude": "15.70000000"
+    },
+    {
+      "id": 54554,
+      "name": "Grad Sveti Ivan Zelina",
+      "latitude": "45.96667000",
+      "longitude": "16.25000000"
+    },
+    {
+      "id": 54558,
+      "name": "Grad Velika Gorica",
+      "latitude": "45.70000000",
+      "longitude": "16.08333000"
+    },
+    {
+      "id": 54562,
+      "name": "Grad Vrbovec",
+      "latitude": "45.86667000",
+      "longitude": "16.43333000"
+    },
+    {
+      "id": 54567,
+      "name": "Grad Zaprešić",
+      "latitude": "45.86667000",
+      "longitude": "15.80000000"
+    },
+    {
+      "id": 54575,
+      "name": "Gradec",
+      "latitude": "45.91111000",
+      "longitude": "16.48278000"
+    },
+    {
+      "id": 54577,
+      "name": "Gradići",
+      "latitude": "45.70000000",
+      "longitude": "16.05000000"
+    },
+    {
+      "id": 54608,
+      "name": "Jablanovec",
+      "latitude": "45.87583000",
+      "longitude": "15.85361000"
+    },
+    {
+      "id": 54611,
+      "name": "Jakovlje",
+      "latitude": "45.93611000",
+      "longitude": "15.85559000"
+    },
+    {
+      "id": 54618,
+      "name": "Jastrebarsko",
+      "latitude": "45.66833000",
+      "longitude": "15.64861000"
+    },
+    {
+      "id": 54645,
+      "name": "Kerestinec",
+      "latitude": "45.77010000",
+      "longitude": "15.80864000"
+    },
+    {
+      "id": 54669,
+      "name": "Križ",
+      "latitude": "45.66500000",
+      "longitude": "16.52333000"
+    },
+    {
+      "id": 54679,
+      "name": "Kuče",
+      "latitude": "45.67694000",
+      "longitude": "16.14500000"
+    },
+    {
+      "id": 54695,
+      "name": "Lonjica",
+      "latitude": "45.85500000",
+      "longitude": "16.33000000"
+    },
+    {
+      "id": 54702,
+      "name": "Luka",
+      "latitude": "45.95795000",
+      "longitude": "15.81954000"
+    },
+    {
+      "id": 54703,
+      "name": "Lukavec",
+      "latitude": "45.70444000",
+      "longitude": "15.99000000"
+    },
+    {
+      "id": 54705,
+      "name": "Lupoglav",
+      "latitude": "45.79639000",
+      "longitude": "16.34639000"
+    },
+    {
+      "id": 54735,
+      "name": "Mičevec",
+      "latitude": "45.75000000",
+      "longitude": "16.06667000"
+    },
+    {
+      "id": 54741,
+      "name": "Mraclin",
+      "latitude": "45.66667000",
+      "longitude": "16.09556000"
+    },
+    {
+      "id": 54766,
+      "name": "Novo Čiče",
+      "latitude": "45.70000000",
+      "longitude": "16.11667000"
+    },
+    {
+      "id": 54767,
+      "name": "Novoselec",
+      "latitude": "45.65250000",
+      "longitude": "16.53639000"
+    },
+    {
+      "id": 54781,
+      "name": "Općina Dubrava",
+      "latitude": "45.83759000",
+      "longitude": "16.53683000"
+    },
+    {
+      "id": 54789,
+      "name": "Orešje",
+      "latitude": "45.81618000",
+      "longitude": "15.80246000"
+    },
+    {
+      "id": 54820,
+      "name": "Pojatno",
+      "latitude": "45.90500000",
+      "longitude": "15.80056000"
+    },
+    {
+      "id": 54835,
+      "name": "Preseka",
+      "latitude": "45.97456000",
+      "longitude": "16.38697000"
+    },
+    {
+      "id": 54838,
+      "name": "Prigorje Brdovečko",
+      "latitude": "45.87944000",
+      "longitude": "15.73806000"
+    },
+    {
+      "id": 54848,
+      "name": "Pušća",
+      "latitude": "45.91567000",
+      "longitude": "15.78049000"
+    },
+    {
+      "id": 54852,
+      "name": "Rakitje",
+      "latitude": "45.79389000",
+      "longitude": "15.82222000"
+    },
+    {
+      "id": 54853,
+      "name": "Rakov Potok",
+      "latitude": "45.73806000",
+      "longitude": "15.79722000"
+    },
+    {
+      "id": 54871,
+      "name": "Rude",
+      "latitude": "45.76667000",
+      "longitude": "15.66667000"
+    },
+    {
+      "id": 54876,
+      "name": "Samobor",
+      "latitude": "45.80306000",
+      "longitude": "15.71806000"
+    },
+    {
+      "id": 54919,
+      "name": "Stupnik",
+      "latitude": "45.75314000",
+      "longitude": "15.84078000"
+    },
+    {
+      "id": 54926,
+      "name": "Sveta Nedelja",
+      "latitude": "45.79617000",
+      "longitude": "15.77971000"
+    },
+    {
+      "id": 54927,
+      "name": "Sveta Nedjelja",
+      "latitude": "45.79833000",
+      "longitude": "15.78056000"
+    },
+    {
+      "id": 54956,
+      "name": "Velika Gorica",
+      "latitude": "45.71250000",
+      "longitude": "16.07556000"
+    },
+    {
+      "id": 54958,
+      "name": "Velika Mlaka",
+      "latitude": "45.73639000",
+      "longitude": "16.03111000"
+    },
+    {
+      "id": 54959,
+      "name": "Velika Ostrna",
+      "latitude": "45.78752000",
+      "longitude": "16.28139000"
+    },
+    {
+      "id": 54991,
+      "name": "Vrbovec",
+      "latitude": "45.88333000",
+      "longitude": "16.42167000"
+    },
+    {
+      "id": 55006,
+      "name": "Zaprešić",
+      "latitude": "45.85639000",
+      "longitude": "15.80778000"
+    },
+    {
+      "id": 55009,
+      "name": "Zdenci Brdovečki",
+      "latitude": "45.86667000",
+      "longitude": "15.75000000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

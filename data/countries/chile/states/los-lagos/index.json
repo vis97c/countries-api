@@ -1,0 +1,248 @@
+{
+  "id": 2835,
+  "name": "Los Lagos",
+  "state_code": "LL",
+  "latitude": "-41.91977790",
+  "longitude": "-72.14161320",
+  "type": null,
+  "cities": [
+    {
+      "id": 18944,
+      "name": "Ancud",
+      "latitude": "-41.87070000",
+      "longitude": "-73.81622000"
+    },
+    {
+      "id": 18953,
+      "name": "Calbuco",
+      "latitude": "-41.77338000",
+      "longitude": "-73.13049000"
+    },
+    {
+      "id": 18956,
+      "name": "Castro",
+      "latitude": "-42.47210000",
+      "longitude": "-73.77319000"
+    },
+    {
+      "id": 18959,
+      "name": "Chaitén",
+      "latitude": "-42.91596000",
+      "longitude": "-72.70632000"
+    },
+    {
+      "id": 18965,
+      "name": "Chonchi",
+      "latitude": "-42.62387000",
+      "longitude": "-73.77500000"
+    },
+    {
+      "id": 148477,
+      "name": "Cochamó",
+      "latitude": "-41.50000000",
+      "longitude": "-72.31666667"
+    },
+    {
+      "id": 148478,
+      "name": "Curaco de Vélez",
+      "latitude": "-42.43970000",
+      "longitude": "-73.60290000"
+    },
+    {
+      "id": 18980,
+      "name": "Dalcahue",
+      "latitude": "-42.37845000",
+      "longitude": "-73.65011000"
+    },
+    {
+      "id": 148480,
+      "name": "Fresia",
+      "latitude": "-41.15364000",
+      "longitude": "-73.42102000"
+    },
+    {
+      "id": 148481,
+      "name": "Frutillar",
+      "latitude": "-41.08716000",
+      "longitude": "-73.09563000"
+    },
+    {
+      "id": 18984,
+      "name": "Futaleufú",
+      "latitude": "-43.18492000",
+      "longitude": "-71.86722000"
+    },
+    {
+      "id": 148482,
+      "name": "Hualaihué",
+      "latitude": "-42.01666667",
+      "longitude": "-72.68333333"
+    },
+    {
+      "id": 19058,
+      "name": "Llanquihue",
+      "latitude": "-41.34285000",
+      "longitude": "-72.65800000"
+    },
+    {
+      "id": 148483,
+      "name": "Los Muermos",
+      "latitude": "-41.40000000",
+      "longitude": "-73.48333333"
+    },
+    {
+      "id": 148484,
+      "name": "Maullín",
+      "latitude": "-41.61666667",
+      "longitude": "-73.60000000"
+    },
+    {
+      "id": 19018,
+      "name": "Osorno",
+      "latitude": "-40.57395000",
+      "longitude": "-73.13348000"
+    },
+    {
+      "id": 19021,
+      "name": "Palena",
+      "latitude": "-43.61876000",
+      "longitude": "-71.80434000"
+    },
+    {
+      "id": 19085,
+      "name": "Puerto Montt",
+      "latitude": "-41.46930000",
+      "longitude": "-72.94237000"
+    },
+    {
+      "id": 148485,
+      "name": "Puerto Octay",
+      "latitude": "-40.96666667",
+      "longitude": "-72.90000000"
+    },
+    {
+      "id": 19087,
+      "name": "Puerto Varas",
+      "latitude": "-41.31946000",
+      "longitude": "-72.98538000"
+    },
+    {
+      "id": 148486,
+      "name": "Puqueldón",
+      "latitude": "-42.60001000",
+      "longitude": "-73.67458000"
+    },
+    {
+      "id": 19089,
+      "name": "Purranque",
+      "latitude": "-40.91305000",
+      "longitude": "-73.15913000"
+    },
+    {
+      "id": 148479,
+      "name": "Puyehue",
+      "latitude": "-40.70968010",
+      "longitude": "-72.64190560"
+    },
+    {
+      "id": 148487,
+      "name": "Queilén",
+      "latitude": "-42.85572000",
+      "longitude": "-73.56436000"
+    },
+    {
+      "id": 19091,
+      "name": "Quellón",
+      "latitude": "-43.11819000",
+      "longitude": "-73.61661000"
+    },
+    {
+      "id": 148488,
+      "name": "Quemchi",
+      "latitude": "-42.13333333",
+      "longitude": "-73.51666667"
+    },
+    {
+      "id": 148489,
+      "name": "Quinchao",
+      "latitude": "-42.53333333",
+      "longitude": "-73.41666667"
+    },
+    {
+      "id": 148490,
+      "name": "Río Negro",
+      "latitude": "-40.79615000",
+      "longitude": "-73.21614000"
+    },
+    {
+      "id": 148491,
+      "name": "San Juan de la Costa",
+      "latitude": "-40.51666667",
+      "longitude": "-73.40000000"
+    },
+    {
+      "id": 148492,
+      "name": "San Pablo",
+      "latitude": "-40.40000000",
+      "longitude": "-73.01666667"
+    }
+  ],
+  "country": {
+    "id": 44,
+    "name": "Chile",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "numeric_code": "152",
+    "phone_code": "56",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "native": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "칠리",
+      "pt-BR": "Chile",
+      "pt": "Chile",
+      "nl": "Chili",
+      "hr": "Čile",
+      "fa": "شیلی",
+      "de": "Chile",
+      "es": "Chile",
+      "fr": "Chili",
+      "ja": "チリ",
+      "it": "Cile",
+      "cn": "智利",
+      "tr": "Şili"
+    },
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 314,
+  "name": "Cross River",
+  "state_code": "CR",
+  "latitude": "5.87017240",
+  "longitude": "8.59880140",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76761,
+      "name": "Akankpa",
+      "latitude": "5.12640000",
+      "longitude": "8.18980000"
+    },
+    {
+      "id": 76821,
+      "name": "Calabar",
+      "latitude": "4.95893000",
+      "longitude": "8.32695000"
+    },
+    {
+      "id": 76873,
+      "name": "Gakem",
+      "latitude": "6.76963000",
+      "longitude": "8.99120000"
+    },
+    {
+      "id": 76931,
+      "name": "Ikang",
+      "latitude": "4.78978000",
+      "longitude": "8.53160000"
+    },
+    {
+      "id": 77122,
+      "name": "Ugep",
+      "latitude": "5.80865000",
+      "longitude": "8.08098000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

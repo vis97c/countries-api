@@ -1,0 +1,90 @@
+{
+  "id": 3884,
+  "name": "Balkh",
+  "state_code": "BAL",
+  "latitude": "36.75506030",
+  "longitude": "66.89753720",
+  "type": null,
+  "cities": [
+    {
+      "id": 55,
+      "name": "Balkh",
+      "latitude": "36.75635000",
+      "longitude": "66.89720000"
+    },
+    {
+      "id": 65,
+      "name": "Dowlatābād",
+      "latitude": "36.98821000",
+      "longitude": "66.82069000"
+    },
+    {
+      "id": 85,
+      "name": "Khulm",
+      "latitude": "36.69736000",
+      "longitude": "67.69826000"
+    },
+    {
+      "id": 91,
+      "name": "Lab-Sar",
+      "latitude": "36.02634000",
+      "longitude": "66.83799000"
+    },
+    {
+      "id": 97,
+      "name": "Mazār-e Sharīf",
+      "latitude": "36.70904000",
+      "longitude": "67.11087000"
+    },
+    {
+      "id": 112,
+      "name": "Qarchī Gak",
+      "latitude": "37.03999000",
+      "longitude": "66.78891000"
+    }
+  ],
+  "country": {
+    "id": 1,
+    "name": "Afghanistan",
+    "iso3": "AFG",
+    "iso2": "AF",
+    "numeric_code": "004",
+    "phone_code": "93",
+    "capital": "Kabul",
+    "currency": "AFN",
+    "currency_name": "Afghan afghani",
+    "currency_symbol": "؋",
+    "tld": ".af",
+    "native": "افغانستان",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kabul",
+        "gmtOffset": 16200,
+        "gmtOffsetName": "UTC+04:30",
+        "abbreviation": "AFT",
+        "tzName": "Afghanistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "아프가니스탄",
+      "pt-BR": "Afeganistão",
+      "pt": "Afeganistão",
+      "nl": "Afghanistan",
+      "hr": "Afganistan",
+      "fa": "افغانستان",
+      "de": "Afghanistan",
+      "es": "Afganistán",
+      "fr": "Afghanistan",
+      "ja": "アフガニスタン",
+      "it": "Afghanistan",
+      "cn": "阿富汗",
+      "tr": "Afganistan"
+    },
+    "latitude": "33.00000000",
+    "longitude": "65.00000000",
+    "emoji": "🇦🇫",
+    "emojiU": "U+1F1E6 U+1F1EB"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 3234,
+  "name": "Gharbia",
+  "state_code": "GH",
+  "latitude": "30.87535560",
+  "longitude": "31.03351000",
+  "type": null,
+  "cities": [
+    {
+      "id": 31777,
+      "name": "Al Maḩallah al Kubrá",
+      "latitude": "30.97063000",
+      "longitude": "31.16690000"
+    },
+    {
+      "id": 31799,
+      "name": "Basyūn",
+      "latitude": "30.93976000",
+      "longitude": "30.81338000"
+    },
+    {
+      "id": 31828,
+      "name": "Kafr az Zayyāt",
+      "latitude": "30.82480000",
+      "longitude": "30.81805000"
+    },
+    {
+      "id": 31855,
+      "name": "Quţūr",
+      "latitude": "30.97225000",
+      "longitude": "30.95614000"
+    },
+    {
+      "id": 31860,
+      "name": "Samannūd",
+      "latitude": "30.96160000",
+      "longitude": "31.24069000"
+    },
+    {
+      "id": 31872,
+      "name": "Tanda",
+      "latitude": "30.78847000",
+      "longitude": "31.00192000"
+    },
+    {
+      "id": 31874,
+      "name": "Zefta",
+      "latitude": "30.71420000",
+      "longitude": "31.24425000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

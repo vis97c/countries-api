@@ -1,0 +1,96 @@
+{
+  "id": 3830,
+  "name": "Bình Định",
+  "state_code": "31",
+  "latitude": "14.16653240",
+  "longitude": "108.90268300",
+  "type": null,
+  "cities": [
+    {
+      "id": 130209,
+      "name": "Huyện An Lão",
+      "latitude": "14.55676000",
+      "longitude": "108.80100000"
+    },
+    {
+      "id": 130298,
+      "name": "Huyện Hoài Nhơn",
+      "latitude": "14.50535000",
+      "longitude": "109.02315000"
+    },
+    {
+      "id": 130397,
+      "name": "Huyện Phù Mỹ",
+      "latitude": "14.22304000",
+      "longitude": "109.08611000"
+    },
+    {
+      "id": 130490,
+      "name": "Huyện Tây Sơn",
+      "latitude": "13.94306000",
+      "longitude": "108.87999000"
+    },
+    {
+      "id": 130476,
+      "name": "Huyện Tuy Phước",
+      "latitude": "13.84564000",
+      "longitude": "109.15275000"
+    },
+    {
+      "id": 130503,
+      "name": "Huyện Vĩnh Thạnh",
+      "latitude": "14.21100000",
+      "longitude": "108.74389000"
+    },
+    {
+      "id": 130584,
+      "name": "Qui Nhon",
+      "latitude": "13.77648000",
+      "longitude": "109.22367000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

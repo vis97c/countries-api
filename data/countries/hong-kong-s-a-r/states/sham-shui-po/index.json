@@ -1,0 +1,66 @@
+{
+  "id": 4894,
+  "name": "Sham Shui Po",
+  "state_code": "KSS",
+  "latitude": "22.33074000",
+  "longitude": "114.16220000",
+  "type": "district",
+  "cities": [
+    {
+      "id": 153501,
+      "name": "Cheung Sha Wan",
+      "latitude": "22.33600000",
+      "longitude": "114.15100000"
+    },
+    {
+      "id": 153502,
+      "name": "Lai Chi Kok",
+      "latitude": "22.33700000",
+      "longitude": "114.14600000"
+    }
+  ],
+  "country": {
+    "id": 98,
+    "name": "Hong Kong S.A.R.",
+    "iso3": "HKG",
+    "iso2": "HK",
+    "numeric_code": "344",
+    "phone_code": "852",
+    "capital": "Hong Kong",
+    "currency": "HKD",
+    "currency_name": "Hong Kong dollar",
+    "currency_symbol": "$",
+    "tld": ".hk",
+    "native": "香港",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Hong_Kong",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "HKT",
+        "tzName": "Hong Kong Time"
+      }
+    ],
+    "translations": {
+      "kr": "홍콩",
+      "pt-BR": "Hong Kong",
+      "pt": "Hong Kong",
+      "nl": "Hongkong",
+      "hr": "Hong Kong",
+      "fa": "هنگ‌کنگ",
+      "de": "Hong Kong",
+      "es": "Hong Kong",
+      "fr": "Hong Kong",
+      "ja": "香港",
+      "it": "Hong Kong",
+      "cn": "中国香港",
+      "tr": "Hong Kong"
+    },
+    "latitude": "22.25000000",
+    "longitude": "114.16666666",
+    "emoji": "🇭🇰",
+    "emojiU": "U+1F1ED U+1F1F0"
+  }
+}

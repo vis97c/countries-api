@@ -1,0 +1,108 @@
+{
+  "id": 69,
+  "name": "Zinder Region",
+  "state_code": "7",
+  "latitude": "15.17188810",
+  "longitude": "10.26001250",
+  "type": null,
+  "cities": [
+    {
+      "id": 76699,
+      "name": "Département de Gouré",
+      "latitude": "14.01618000",
+      "longitude": "10.14722000"
+    },
+    {
+      "id": 76700,
+      "name": "Département de Kantché",
+      "latitude": "13.40000000",
+      "longitude": "8.60000000"
+    },
+    {
+      "id": 76713,
+      "name": "Département de Tânout",
+      "latitude": "14.75000000",
+      "longitude": "8.33333000"
+    },
+    {
+      "id": 76717,
+      "name": "Gouré",
+      "latitude": "13.98350000",
+      "longitude": "10.27035000"
+    },
+    {
+      "id": 76725,
+      "name": "Magaria",
+      "latitude": "12.99826000",
+      "longitude": "8.90991000"
+    },
+    {
+      "id": 76727,
+      "name": "Matamey",
+      "latitude": "13.42309000",
+      "longitude": "8.47485000"
+    },
+    {
+      "id": 76730,
+      "name": "Mirriah",
+      "latitude": "13.70727000",
+      "longitude": "9.15013000"
+    },
+    {
+      "id": 76735,
+      "name": "Tanout",
+      "latitude": "14.97089000",
+      "longitude": "8.88786000"
+    },
+    {
+      "id": 76743,
+      "name": "Zinder",
+      "latitude": "13.80716000",
+      "longitude": "8.98810000"
+    }
+  ],
+  "country": {
+    "id": 160,
+    "name": "Niger",
+    "iso3": "NER",
+    "iso2": "NE",
+    "numeric_code": "562",
+    "phone_code": "227",
+    "capital": "Niamey",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ne",
+    "native": "Niger",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Niamey",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "니제르",
+      "pt-BR": "Níger",
+      "pt": "Níger",
+      "nl": "Niger",
+      "hr": "Niger",
+      "fa": "نیجر",
+      "de": "Niger",
+      "es": "Níger",
+      "fr": "Niger",
+      "ja": "ニジェール",
+      "it": "Niger",
+      "cn": "尼日尔",
+      "tr": "Nijer"
+    },
+    "latitude": "16.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇪",
+    "emojiU": "U+1F1F3 U+1F1EA"
+  }
+}

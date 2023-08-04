@@ -1,0 +1,102 @@
+{
+  "id": 2647,
+  "name": "Vallée du Bandama Region",
+  "state_code": "04",
+  "latitude": "8.27897800",
+  "longitude": "-4.89356270",
+  "type": null,
+  "cities": [
+    {
+      "id": 18887,
+      "name": "Béoumi",
+      "latitude": "7.67395000",
+      "longitude": "-5.58085000"
+    },
+    {
+      "id": 18881,
+      "name": "Botro",
+      "latitude": "7.85249000",
+      "longitude": "-5.31063000"
+    },
+    {
+      "id": 18883,
+      "name": "Bouaké",
+      "latitude": "7.69385000",
+      "longitude": "-5.03031000"
+    },
+    {
+      "id": 18890,
+      "name": "Dabakala",
+      "latitude": "8.36321000",
+      "longitude": "-4.42863000"
+    },
+    {
+      "id": 18900,
+      "name": "Gbêkê",
+      "latitude": "7.70271000",
+      "longitude": "-5.28511000"
+    },
+    {
+      "id": 18910,
+      "name": "Hambol",
+      "latitude": "8.30368000",
+      "longitude": "-5.15396000"
+    },
+    {
+      "id": 18916,
+      "name": "Katiola",
+      "latitude": "8.13728000",
+      "longitude": "-5.10095000"
+    },
+    {
+      "id": 18927,
+      "name": "Sakassou",
+      "latitude": "7.45462000",
+      "longitude": "-5.29263000"
+    }
+  ],
+  "country": {
+    "id": 54,
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "iso3": "CIV",
+    "iso2": "CI",
+    "numeric_code": "384",
+    "phone_code": "225",
+    "capital": "Yamoussoukro",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ci",
+    "native": null,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Abidjan",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "코트디부아르",
+      "pt-BR": "Costa do Marfim",
+      "pt": "Costa do Marfim",
+      "nl": "Ivoorkust",
+      "hr": "Obala Bjelokosti",
+      "fa": "ساحل عاج",
+      "de": "Elfenbeinküste",
+      "es": "Costa de Marfil",
+      "fr": "Côte d'Ivoire",
+      "ja": "コートジボワール",
+      "it": "Costa D'Avorio",
+      "cn": "科特迪瓦",
+      "tr": "Kotdivuar"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-5.00000000",
+    "emoji": "🇨🇮",
+    "emojiU": "U+1F1E8 U+1F1EE"
+  }
+}

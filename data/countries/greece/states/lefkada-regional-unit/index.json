@@ -1,0 +1,192 @@
+{
+  "id": 2104,
+  "name": "Lefkada Regional Unit",
+  "state_code": "24",
+  "latitude": "38.83336630",
+  "longitude": "20.70691080",
+  "type": null,
+  "cities": [
+    {
+      "id": 52413,
+      "name": "Agriá",
+      "latitude": "39.34078000",
+      "longitude": "23.01258000"
+    },
+    {
+      "id": 53388,
+      "name": "Álli Meriá",
+      "latitude": "39.37039000",
+      "longitude": "22.98350000"
+    },
+    {
+      "id": 52445,
+      "name": "Almyrós",
+      "latitude": "39.18222000",
+      "longitude": "22.75944000"
+    },
+    {
+      "id": 52459,
+      "name": "Anakasiá",
+      "latitude": "39.38112000",
+      "longitude": "22.97484000"
+    },
+    {
+      "id": 53393,
+      "name": "Áno Lekhónia",
+      "latitude": "39.32763000",
+      "longitude": "23.05395000"
+    },
+    {
+      "id": 52486,
+      "name": "Argalastí",
+      "latitude": "39.22627000",
+      "longitude": "23.21868000"
+    },
+    {
+      "id": 52595,
+      "name": "Evxinoúpolis",
+      "latitude": "39.18414000",
+      "longitude": "22.73831000"
+    },
+    {
+      "id": 52704,
+      "name": "Kanália",
+      "latitude": "39.49928000",
+      "longitude": "22.88589000"
+    },
+    {
+      "id": 52811,
+      "name": "Káto Lekhónia",
+      "latitude": "39.33091000",
+      "longitude": "23.03957000"
+    },
+    {
+      "id": 53001,
+      "name": "Néa Anchiálos",
+      "latitude": "39.28015000",
+      "longitude": "22.81819000"
+    },
+    {
+      "id": 53010,
+      "name": "Néa Ionía",
+      "latitude": "39.37904000",
+      "longitude": "22.92752000"
+    },
+    {
+      "id": 53099,
+      "name": "Patitírion",
+      "latitude": "39.14657000",
+      "longitude": "23.86494000"
+    },
+    {
+      "id": 53138,
+      "name": "Portariá",
+      "latitude": "39.38950000",
+      "longitude": "22.99948000"
+    },
+    {
+      "id": 53156,
+      "name": "Pteleós",
+      "latitude": "39.05261000",
+      "longitude": "22.95271000"
+    },
+    {
+      "id": 53192,
+      "name": "Rizómylos",
+      "latitude": "39.42763000",
+      "longitude": "22.74717000"
+    },
+    {
+      "id": 53221,
+      "name": "Skiáthos",
+      "latitude": "39.16227000",
+      "longitude": "23.49089000"
+    },
+    {
+      "id": 53227,
+      "name": "Skópelos",
+      "latitude": "39.12144000",
+      "longitude": "23.72686000"
+    },
+    {
+      "id": 53238,
+      "name": "Soúrpi",
+      "latitude": "39.10319000",
+      "longitude": "22.89789000"
+    },
+    {
+      "id": 53251,
+      "name": "Stefanovíkeio",
+      "latitude": "39.46354000",
+      "longitude": "22.74198000"
+    },
+    {
+      "id": 53292,
+      "name": "Tríkeri",
+      "latitude": "39.10114000",
+      "longitude": "23.07669000"
+    },
+    {
+      "id": 53318,
+      "name": "Velestíno",
+      "latitude": "39.38181000",
+      "longitude": "22.74616000"
+    },
+    {
+      "id": 53327,
+      "name": "Volos",
+      "latitude": "39.36103000",
+      "longitude": "22.94248000"
+    },
+    {
+      "id": 53357,
+      "name": "Zagorá",
+      "latitude": "39.45000000",
+      "longitude": "23.10000000"
+    }
+  ],
+  "country": {
+    "id": 85,
+    "name": "Greece",
+    "iso3": "GRC",
+    "iso2": "GR",
+    "numeric_code": "300",
+    "phone_code": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "native": "Ελλάδα",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "그리스",
+      "pt-BR": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "cn": "希腊",
+      "tr": "Yunanistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  }
+}

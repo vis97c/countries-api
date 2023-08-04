@@ -1,0 +1,90 @@
+{
+  "id": 3852,
+  "name": "Ulsan",
+  "state_code": "31",
+  "latitude": "35.53837730",
+  "longitude": "129.31135960",
+  "type": null,
+  "cities": [
+    {
+      "id": 65275,
+      "name": "Buk-gu",
+      "latitude": "35.58243000",
+      "longitude": "129.36049000"
+    },
+    {
+      "id": 65308,
+      "name": "Dong-gu",
+      "latitude": "35.50470000",
+      "longitude": "129.41860000"
+    },
+    {
+      "id": 65423,
+      "name": "Jung-gu",
+      "latitude": "35.56840000",
+      "longitude": "129.33226000"
+    },
+    {
+      "id": 65453,
+      "name": "Nam-gu",
+      "latitude": "35.54382000",
+      "longitude": "129.32917000"
+    },
+    {
+      "id": 65525,
+      "name": "Ulju-gun",
+      "latitude": "35.56233000",
+      "longitude": "129.12690000"
+    },
+    {
+      "id": 65527,
+      "name": "Ulsan",
+      "latitude": "35.53722000",
+      "longitude": "129.31667000"
+    }
+  ],
+  "country": {
+    "id": 116,
+    "name": "South Korea",
+    "iso3": "KOR",
+    "iso2": "KR",
+    "numeric_code": "410",
+    "phone_code": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currency_name": "Won",
+    "currency_symbol": "₩",
+    "tld": ".kr",
+    "native": "대한민국",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Seoul",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "KST",
+        "tzName": "Korea Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "대한민국",
+      "pt-BR": "Coreia do Sul",
+      "pt": "Coreia do Sul",
+      "nl": "Zuid-Korea",
+      "hr": "Južna Koreja",
+      "fa": "کره شمالی",
+      "de": "Südkorea",
+      "es": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "ja": "大韓民国",
+      "it": "Corea del Sud",
+      "cn": "韩国",
+      "tr": "Güney Kore"
+    },
+    "latitude": "37.00000000",
+    "longitude": "127.50000000",
+    "emoji": "🇰🇷",
+    "emojiU": "U+1F1F0 U+1F1F7"
+  }
+}

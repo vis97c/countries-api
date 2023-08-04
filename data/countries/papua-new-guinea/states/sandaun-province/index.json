@@ -1,0 +1,97 @@
+{
+  "id": 4836,
+  "name": "Sandaun Province",
+  "state_code": "SAN",
+  "latitude": "-3.71261790",
+  "longitude": "141.68342750",
+  "type": null,
+  "cities": [
+    {
+      "id": 81025,
+      "name": "Aitape",
+      "latitude": "-3.13697000",
+      "longitude": "142.34913000"
+    },
+    {
+      "id": 81026,
+      "name": "Aitape Lumi",
+      "latitude": "-3.25000000",
+      "longitude": "142.08333000"
+    },
+    {
+      "id": 81094,
+      "name": "Nuku",
+      "latitude": "-3.66667000",
+      "longitude": "142.41667000"
+    },
+    {
+      "id": 81116,
+      "name": "Telefomin",
+      "latitude": "-4.91667000",
+      "longitude": "141.66667000"
+    },
+    {
+      "id": 81120,
+      "name": "Vanimo",
+      "latitude": "-2.68372000",
+      "longitude": "141.30195000"
+    },
+    {
+      "id": 81121,
+      "name": "Vanimo Green",
+      "latitude": "-3.36667000",
+      "longitude": "141.35000000"
+    }
+  ],
+  "country": {
+    "id": 171,
+    "name": "Papua new Guinea",
+    "iso3": "PNG",
+    "iso2": "PG",
+    "numeric_code": "598",
+    "phone_code": "675",
+    "capital": "Port Moresby",
+    "currency": "PGK",
+    "currency_name": "Papua New Guinean kina",
+    "currency_symbol": "K",
+    "tld": ".pg",
+    "native": "Papua Niugini",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Bougainville",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "BST",
+        "tzName": "Bougainville Standard Time[6"
+      },
+      {
+        "zoneName": "Pacific/Port_Moresby",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "PGT",
+        "tzName": "Papua New Guinea Time"
+      }
+    ],
+    "translations": {
+      "kr": "파푸아뉴기니",
+      "pt-BR": "Papua Nova Guiné",
+      "pt": "Papua Nova Guiné",
+      "nl": "Papoea-Nieuw-Guinea",
+      "hr": "Papua Nova Gvineja",
+      "fa": "پاپوآ گینه نو",
+      "de": "Papua-Neuguinea",
+      "es": "Papúa Nueva Guinea",
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "ja": "パプアニューギニア",
+      "it": "Papua Nuova Guinea",
+      "cn": "巴布亚新几内亚",
+      "tr": "Papua Yeni Gine"
+    },
+    "latitude": "-6.00000000",
+    "longitude": "147.00000000",
+    "emoji": "🇵🇬",
+    "emojiU": "U+1F1F5 U+1F1EC"
+  }
+}

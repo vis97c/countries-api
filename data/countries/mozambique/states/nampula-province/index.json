@@ -1,0 +1,84 @@
+{
+  "id": 3336,
+  "name": "Nampula Province",
+  "state_code": "N",
+  "latitude": "-14.76049310",
+  "longitude": "39.32062410",
+  "type": null,
+  "cities": [
+    {
+      "id": 76589,
+      "name": "António Enes",
+      "latitude": "-16.23250000",
+      "longitude": "39.90861000"
+    },
+    {
+      "id": 76600,
+      "name": "Ilha de Moçambique",
+      "latitude": "-15.03417000",
+      "longitude": "40.73583000"
+    },
+    {
+      "id": 76616,
+      "name": "Mutuáli",
+      "latitude": "-14.87056000",
+      "longitude": "37.00444000"
+    },
+    {
+      "id": 76617,
+      "name": "Nacala",
+      "latitude": "-14.56257000",
+      "longitude": "40.68538000"
+    },
+    {
+      "id": 76619,
+      "name": "Nampula",
+      "latitude": "-15.11646000",
+      "longitude": "39.26660000"
+    }
+  ],
+  "country": {
+    "id": 150,
+    "name": "Mozambique",
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "numeric_code": "508",
+    "phone_code": "258",
+    "capital": "Maputo",
+    "currency": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "tld": ".mz",
+    "native": "Moçambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "모잠비크",
+      "pt-BR": "Moçambique",
+      "pt": "Moçambique",
+      "nl": "Mozambique",
+      "hr": "Mozambik",
+      "fa": "موزامبیک",
+      "de": "Mosambik",
+      "es": "Mozambique",
+      "fr": "Mozambique",
+      "ja": "モザンビーク",
+      "it": "Mozambico",
+      "cn": "莫桑比克",
+      "tr": "Mozambik"
+    },
+    "latitude": "-18.25000000",
+    "longitude": "35.00000000",
+    "emoji": "🇲🇿",
+    "emojiU": "U+1F1F2 U+1F1FF"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 250,
+  "name": "Sint Maarten (Dutch part)",
+  "iso3": "SXM",
+  "iso2": "SX",
+  "numeric_code": "534",
+  "phone_code": "1721",
+  "capital": "Philipsburg",
+  "currency": "ANG",
+  "currency_name": "Netherlands Antillean guilder",
+  "currency_symbol": "ƒ",
+  "tld": ".sx",
+  "native": "Sint Maarten",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": [
+    {
+      "zoneName": "America/Anguilla",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "신트마르턴",
+    "pt-BR": "Sint Maarten",
+    "pt": "São Martinho",
+    "nl": "Sint Maarten",
+    "fa": "سینت مارتن",
+    "de": "Sint Maarten (niederl. Teil)",
+    "fr": "Saint Martin (partie néerlandaise)",
+    "it": "Saint Martin (parte olandese)",
+    "cn": "圣马丁岛（荷兰部分）",
+    "tr": "Sint Maarten"
+  },
+  "latitude": "18.03333300",
+  "longitude": "-63.05000000",
+  "emoji": "🇸🇽",
+  "emojiU": "U+1F1F8 U+1F1FD",
+  "states": []
+}

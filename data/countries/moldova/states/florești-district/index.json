@@ -1,0 +1,72 @@
+{
+  "id": 4370,
+  "name": "Florești District",
+  "state_code": "FL",
+  "latitude": "47.86678490",
+  "longitude": "28.33918640",
+  "type": null,
+  "cities": [
+    {
+      "id": 67302,
+      "name": "Floreşti",
+      "latitude": "47.89137000",
+      "longitude": "28.29312000"
+    },
+    {
+      "id": 67304,
+      "name": "Ghindești",
+      "latitude": "47.85482000",
+      "longitude": "28.37679000"
+    },
+    {
+      "id": 67313,
+      "name": "Mărculeşti",
+      "latitude": "47.86897000",
+      "longitude": "28.24109000"
+    }
+  ],
+  "country": {
+    "id": 144,
+    "name": "Moldova",
+    "iso3": "MDA",
+    "iso2": "MD",
+    "numeric_code": "498",
+    "phone_code": "373",
+    "capital": "Chisinau",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "native": "Moldova",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몰도바",
+      "pt-BR": "Moldávia",
+      "pt": "Moldávia",
+      "nl": "Moldavië",
+      "hr": "Moldova",
+      "fa": "مولداوی",
+      "de": "Moldawie",
+      "es": "Moldavia",
+      "fr": "Moldavie",
+      "ja": "モルドバ共和国",
+      "it": "Moldavia",
+      "cn": "摩尔多瓦",
+      "tr": "Moldova"
+    },
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
+  }
+}

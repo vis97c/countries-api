@@ -1,0 +1,380 @@
+{
+  "id": 2824,
+  "name": "Región Metropolitana de Santiago",
+  "state_code": "RM",
+  "latitude": "-33.43755450",
+  "longitude": "-70.65048960",
+  "type": null,
+  "cities": [
+    {
+      "id": 148500,
+      "name": "Alhué",
+      "latitude": "-34.03333333",
+      "longitude": "-71.10000000"
+    },
+    {
+      "id": 18949,
+      "name": "Buin",
+      "latitude": "-33.73257000",
+      "longitude": "-70.74281000"
+    },
+    {
+      "id": 148501,
+      "name": "Calera de Tango",
+      "latitude": "-33.65000000",
+      "longitude": "-70.81666667"
+    },
+    {
+      "id": 148535,
+      "name": "Cerrillos",
+      "latitude": "-33.50229190",
+      "longitude": "-70.73009420"
+    },
+    {
+      "id": 148540,
+      "name": "Cerro Navia",
+      "latitude": "-33.42516430",
+      "longitude": "-70.78407540"
+    },
+    {
+      "id": 148502,
+      "name": "Colina",
+      "latitude": "-33.20000000",
+      "longitude": "-70.68333333"
+    },
+    {
+      "id": 148503,
+      "name": "Conchalí",
+      "latitude": "-33.35000000",
+      "longitude": "-70.61666667"
+    },
+    {
+      "id": 148536,
+      "name": "Curacaví",
+      "latitude": "-33.46937830",
+      "longitude": "-70.72612030"
+    },
+    {
+      "id": 148504,
+      "name": "El Bosque",
+      "latitude": "-33.56666667",
+      "longitude": "-70.70000000"
+    },
+    {
+      "id": 18982,
+      "name": "El Monte",
+      "latitude": "-33.67969000",
+      "longitude": "-70.98482000"
+    },
+    {
+      "id": 148505,
+      "name": "Estación Central",
+      "latitude": "-33.45194400",
+      "longitude": "-70.67888900"
+    },
+    {
+      "id": 148537,
+      "name": "Huechuraba",
+      "latitude": "-33.36928270",
+      "longitude": "-70.66482650"
+    },
+    {
+      "id": 148506,
+      "name": "Independencia",
+      "latitude": "-33.41666667",
+      "longitude": "-70.63333333"
+    },
+    {
+      "id": 148507,
+      "name": "Isla de Maipo",
+      "latitude": "-33.75000000",
+      "longitude": "-70.90000000"
+    },
+    {
+      "id": 148508,
+      "name": "La Cisterna",
+      "latitude": "-33.55000000",
+      "longitude": "-70.68333000"
+    },
+    {
+      "id": 148510,
+      "name": "La Florida",
+      "latitude": "-33.55000000",
+      "longitude": "-70.56666667"
+    },
+    {
+      "id": 148511,
+      "name": "La Granja",
+      "latitude": "-33.54305556",
+      "longitude": "-70.63194444"
+    },
+    {
+      "id": 18993,
+      "name": "La Pintana",
+      "latitude": "-33.58331000",
+      "longitude": "-70.63419000"
+    },
+    {
+      "id": 148512,
+      "name": "La Reina",
+      "latitude": "-33.45000000",
+      "longitude": "-70.55000000"
+    },
+    {
+      "id": 18997,
+      "name": "Lampa",
+      "latitude": "-33.28630000",
+      "longitude": "-70.87561000"
+    },
+    {
+      "id": 148513,
+      "name": "Las Condes",
+      "latitude": "-33.41666667",
+      "longitude": "-70.58333333"
+    },
+    {
+      "id": 148514,
+      "name": "Lo Barnechea",
+      "latitude": "-33.35000000",
+      "longitude": "-70.51666667"
+    },
+    {
+      "id": 148515,
+      "name": "Lo Espejo",
+      "latitude": "-33.53333333",
+      "longitude": "-70.71666667"
+    },
+    {
+      "id": 19005,
+      "name": "Lo Prado",
+      "latitude": "-33.44430000",
+      "longitude": "-70.72552000"
+    },
+    {
+      "id": 148516,
+      "name": "Macul",
+      "latitude": "-33.50000000",
+      "longitude": "-70.56666667"
+    },
+    {
+      "id": 148517,
+      "name": "Maipú",
+      "latitude": "-33.51666667",
+      "longitude": "-70.76666667"
+    },
+    {
+      "id": 148518,
+      "name": "María Pinto",
+      "latitude": "-33.53333333",
+      "longitude": "-71.13333333"
+    },
+    {
+      "id": 19012,
+      "name": "Melipilla",
+      "latitude": "-33.68909000",
+      "longitude": "-71.21528000"
+    },
+    {
+      "id": 148534,
+      "name": "Ñuñoa",
+      "latitude": "-33.46666667",
+      "longitude": "-70.60000000"
+    },
+    {
+      "id": 148519,
+      "name": "Padre Hurtado",
+      "latitude": "-33.56666667",
+      "longitude": "-70.83333333"
+    },
+    {
+      "id": 19020,
+      "name": "Paine",
+      "latitude": "-33.80796000",
+      "longitude": "-70.74109000"
+    },
+    {
+      "id": 148520,
+      "name": "Pedro Aguirre Cerda",
+      "latitude": "-33.46666667",
+      "longitude": "-70.63333333"
+    },
+    {
+      "id": 19026,
+      "name": "Peñaflor",
+      "latitude": "-33.60627000",
+      "longitude": "-70.87649000"
+    },
+    {
+      "id": 148521,
+      "name": "Peñalolén",
+      "latitude": "-33.48333333",
+      "longitude": "-70.53333333"
+    },
+    {
+      "id": 148522,
+      "name": "Pirque",
+      "latitude": "-33.71865000",
+      "longitude": "-70.50658000"
+    },
+    {
+      "id": 148523,
+      "name": "Providencia",
+      "latitude": "-33.43333333",
+      "longitude": "-70.61666667"
+    },
+    {
+      "id": 148538,
+      "name": "Pudahuel",
+      "latitude": "-33.41883590",
+      "longitude": "-70.91463070"
+    },
+    {
+      "id": 19081,
+      "name": "Puente Alto",
+      "latitude": "-33.61169000",
+      "longitude": "-70.57577000"
+    },
+    {
+      "id": 148524,
+      "name": "Quilicura",
+      "latitude": "-33.36666667",
+      "longitude": "-70.75000000"
+    },
+    {
+      "id": 148525,
+      "name": "Quinta Normal",
+      "latitude": "-33.45000000",
+      "longitude": "-70.70000000"
+    },
+    {
+      "id": 148526,
+      "name": "Recoleta",
+      "latitude": "-33.41666667",
+      "longitude": "-70.65000000"
+    },
+    {
+      "id": 148527,
+      "name": "Renca",
+      "latitude": "-33.40000000",
+      "longitude": "-70.73333333"
+    },
+    {
+      "id": 19102,
+      "name": "San Bernardo",
+      "latitude": "-33.59217000",
+      "longitude": "-70.69960000"
+    },
+    {
+      "id": 148528,
+      "name": "San Joaquín",
+      "latitude": "-33.50000000",
+      "longitude": "-70.61666667"
+    },
+    {
+      "id": 148529,
+      "name": "San José de Maipo",
+      "latitude": "-33.63333333",
+      "longitude": "-70.36666667"
+    },
+    {
+      "id": 148530,
+      "name": "San Miguel",
+      "latitude": "-33.50000000",
+      "longitude": "-70.66666667"
+    },
+    {
+      "id": 148531,
+      "name": "San Pedro",
+      "latitude": "-33.90000000",
+      "longitude": "-71.46666667"
+    },
+    {
+      "id": 148539,
+      "name": "San Ramón",
+      "latitude": "-33.53775950",
+      "longitude": "-70.65176730"
+    },
+    {
+      "id": 19111,
+      "name": "Santiago",
+      "latitude": "-33.45694000",
+      "longitude": "-70.64827000"
+    },
+    {
+      "id": 19112,
+      "name": "Talagante",
+      "latitude": "-33.66386000",
+      "longitude": "-70.92734000"
+    },
+    {
+      "id": 148532,
+      "name": "Tiltil",
+      "latitude": "-33.08333333",
+      "longitude": "-70.93333333"
+    },
+    {
+      "id": 148533,
+      "name": "Vitacura",
+      "latitude": "-33.40000000",
+      "longitude": "-70.60000000"
+    }
+  ],
+  "country": {
+    "id": 44,
+    "name": "Chile",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "numeric_code": "152",
+    "phone_code": "56",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "native": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "칠리",
+      "pt-BR": "Chile",
+      "pt": "Chile",
+      "nl": "Chili",
+      "hr": "Čile",
+      "fa": "شیلی",
+      "de": "Chile",
+      "es": "Chile",
+      "fr": "Chili",
+      "ja": "チリ",
+      "it": "Cile",
+      "cn": "智利",
+      "tr": "Şili"
+    },
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 4097,
+  "name": "Independencia",
+  "state_code": "10",
+  "latitude": "32.63357480",
+  "longitude": "-115.42892940",
+  "type": null,
+  "cities": [
+    {
+      "id": 31052,
+      "name": "Cristóbal",
+      "latitude": "18.29405000",
+      "longitude": "-71.29298000"
+    },
+    {
+      "id": 31055,
+      "name": "Duvergé",
+      "latitude": "18.31634000",
+      "longitude": "-71.59451000"
+    },
+    {
+      "id": 31079,
+      "name": "Guayabal",
+      "latitude": "18.59810000",
+      "longitude": "-71.64184000"
+    },
+    {
+      "id": 31094,
+      "name": "Jimaní",
+      "latitude": "18.49169000",
+      "longitude": "-71.85022000"
+    },
+    {
+      "id": 31105,
+      "name": "La Descubierta",
+      "latitude": "18.57053000",
+      "longitude": "-71.72967000"
+    },
+    {
+      "id": 31130,
+      "name": "Mella",
+      "latitude": "18.35871000",
+      "longitude": "-71.41716000"
+    },
+    {
+      "id": 31159,
+      "name": "Postrer Río",
+      "latitude": "18.54374000",
+      "longitude": "-71.63561000"
+    }
+  ],
+  "country": {
+    "id": 62,
+    "name": "Dominican Republic",
+    "iso3": "DOM",
+    "iso2": "DO",
+    "numeric_code": "214",
+    "phone_code": "+1-809 and 1-829",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "currency_name": "Dominican peso",
+    "currency_symbol": "$",
+    "tld": ".do",
+    "native": "República Dominicana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Santo_Domingo",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "도미니카 공화국",
+      "pt-BR": "República Dominicana",
+      "pt": "República Dominicana",
+      "nl": "Dominicaanse Republiek",
+      "hr": "Dominikanska Republika",
+      "fa": "جمهوری دومینیکن",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "fr": "République dominicaine",
+      "ja": "ドミニカ共和国",
+      "it": "Repubblica Dominicana",
+      "cn": "多明尼加共和国",
+      "tr": "Dominik Cumhuriyeti"
+    },
+    "latitude": "19.00000000",
+    "longitude": "-70.66666666",
+    "emoji": "🇩🇴",
+    "emojiU": "U+1F1E9 U+1F1F4"
+  }
+}

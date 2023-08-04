@@ -1,0 +1,918 @@
+{
+  "id": 1625,
+  "name": "Kuyavian-Pomeranian Voivodeship",
+  "state_code": "KP",
+  "latitude": "53.16483630",
+  "longitude": "18.48342240",
+  "type": null,
+  "cities": [
+    {
+      "id": 85781,
+      "name": "Aleksandrów Kujawski",
+      "latitude": "52.87659000",
+      "longitude": "18.69345000"
+    },
+    {
+      "id": 85808,
+      "name": "Barcin",
+      "latitude": "52.86607000",
+      "longitude": "17.94625000"
+    },
+    {
+      "id": 85812,
+      "name": "Bartniczka",
+      "latitude": "53.24776000",
+      "longitude": "19.60433000"
+    },
+    {
+      "id": 85814,
+      "name": "Baruchowo",
+      "latitude": "52.49412000",
+      "longitude": "19.26496000"
+    },
+    {
+      "id": 85839,
+      "name": "Białe Błota",
+      "latitude": "53.09516000",
+      "longitude": "17.91621000"
+    },
+    {
+      "id": 85889,
+      "name": "Bobrowniki",
+      "latitude": "52.78086000",
+      "longitude": "18.96026000"
+    },
+    {
+      "id": 85891,
+      "name": "Bobrowo",
+      "latitude": "53.28549000",
+      "longitude": "19.27053000"
+    },
+    {
+      "id": 85917,
+      "name": "Boniewo",
+      "latitude": "52.46532000",
+      "longitude": "18.89116000"
+    },
+    {
+      "id": 85943,
+      "name": "Brodnica",
+      "latitude": "53.25967000",
+      "longitude": "19.39653000"
+    },
+    {
+      "id": 85966,
+      "name": "Brześć Kujawski",
+      "latitude": "52.60532000",
+      "longitude": "18.90173000"
+    },
+    {
+      "id": 85971,
+      "name": "Brzozie",
+      "latitude": "53.32554000",
+      "longitude": "19.60485000"
+    },
+    {
+      "id": 85973,
+      "name": "Brzuze",
+      "latitude": "53.05458000",
+      "longitude": "19.26195000"
+    },
+    {
+      "id": 85989,
+      "name": "Bukowiec",
+      "latitude": "53.43383000",
+      "longitude": "18.24048000"
+    },
+    {
+      "id": 85999,
+      "name": "Bydgoszcz",
+      "latitude": "53.12350000",
+      "longitude": "18.00762000"
+    },
+    {
+      "id": 86007,
+      "name": "Bytoń",
+      "latitude": "52.55757000",
+      "longitude": "18.59522000"
+    },
+    {
+      "id": 86021,
+      "name": "Cekcyn",
+      "latitude": "53.57294000",
+      "longitude": "18.01123000"
+    },
+    {
+      "id": 86031,
+      "name": "Chełmno",
+      "latitude": "53.34855000",
+      "longitude": "18.42510000"
+    },
+    {
+      "id": 86032,
+      "name": "Chełmża",
+      "latitude": "53.18463000",
+      "longitude": "18.60466000"
+    },
+    {
+      "id": 86038,
+      "name": "Choceń",
+      "latitude": "52.48618000",
+      "longitude": "19.01339000"
+    },
+    {
+      "id": 86044,
+      "name": "Chodecz",
+      "latitude": "52.40513000",
+      "longitude": "19.02759000"
+    },
+    {
+      "id": 86058,
+      "name": "Chrostkowo",
+      "latitude": "52.94378000",
+      "longitude": "19.25328000"
+    },
+    {
+      "id": 86078,
+      "name": "Ciechocin",
+      "latitude": "53.05581000",
+      "longitude": "18.92635000"
+    },
+    {
+      "id": 86079,
+      "name": "Ciechocinek",
+      "latitude": "52.87908000",
+      "longitude": "18.79505000"
+    },
+    {
+      "id": 86136,
+      "name": "Czerniewice",
+      "latitude": "52.51157000",
+      "longitude": "19.08694000"
+    },
+    {
+      "id": 86137,
+      "name": "Czernikowo",
+      "latitude": "52.94688000",
+      "longitude": "18.93803000"
+    },
+    {
+      "id": 86237,
+      "name": "Dąbrowa",
+      "latitude": "52.74668000",
+      "longitude": "17.94342000"
+    },
+    {
+      "id": 86239,
+      "name": "Dąbrowa Chełmińska",
+      "latitude": "53.17518000",
+      "longitude": "18.30537000"
+    },
+    {
+      "id": 86254,
+      "name": "Dębowa Łąka",
+      "latitude": "53.25541000",
+      "longitude": "19.09595000"
+    },
+    {
+      "id": 86171,
+      "name": "Dobre",
+      "latitude": "52.68398000",
+      "longitude": "18.57762000"
+    },
+    {
+      "id": 86180,
+      "name": "Dobrzyń nad Wisłą",
+      "latitude": "52.63814000",
+      "longitude": "19.31875000"
+    },
+    {
+      "id": 86203,
+      "name": "Drzycim",
+      "latitude": "53.50520000",
+      "longitude": "18.30940000"
+    },
+    {
+      "id": 86266,
+      "name": "Fabianki",
+      "latitude": "52.71929000",
+      "longitude": "19.10943000"
+    },
+    {
+      "id": 86272,
+      "name": "Fordon",
+      "latitude": "53.14821000",
+      "longitude": "18.17036000"
+    },
+    {
+      "id": 86424,
+      "name": "Gąsawa",
+      "latitude": "52.76757000",
+      "longitude": "17.75579000"
+    },
+    {
+      "id": 86312,
+      "name": "Gniewkowo",
+      "latitude": "52.89461000",
+      "longitude": "18.40785000"
+    },
+    {
+      "id": 86329,
+      "name": "Golub-Dobrzyń",
+      "latitude": "53.11087000",
+      "longitude": "19.05381000"
+    },
+    {
+      "id": 86419,
+      "name": "Górzno",
+      "latitude": "53.19779000",
+      "longitude": "19.64317000"
+    },
+    {
+      "id": 86344,
+      "name": "Gostycyn",
+      "latitude": "53.49014000",
+      "longitude": "17.80978000"
+    },
+    {
+      "id": 86386,
+      "name": "Grudziądz",
+      "latitude": "53.48411000",
+      "longitude": "18.75366000"
+    },
+    {
+      "id": 86388,
+      "name": "Gruta",
+      "latitude": "53.45315000",
+      "longitude": "18.95700000"
+    },
+    {
+      "id": 86459,
+      "name": "Inowrocław",
+      "latitude": "52.79886000",
+      "longitude": "18.26387000"
+    },
+    {
+      "id": 86469,
+      "name": "Izbica Kujawska",
+      "latitude": "52.42073000",
+      "longitude": "18.76270000"
+    },
+    {
+      "id": 86485,
+      "name": "Jabłonowo Pomorskie",
+      "latitude": "53.39137000",
+      "longitude": "19.15509000"
+    },
+    {
+      "id": 86493,
+      "name": "Janikowo",
+      "latitude": "52.75328000",
+      "longitude": "18.11328000"
+    },
+    {
+      "id": 86501,
+      "name": "Janowiec Wielkopolski",
+      "latitude": "52.75583000",
+      "longitude": "17.48981000"
+    },
+    {
+      "id": 86558,
+      "name": "Jeżewo",
+      "latitude": "53.51061000",
+      "longitude": "18.49437000"
+    },
+    {
+      "id": 86555,
+      "name": "Jeziora Wielkie",
+      "latitude": "52.53043000",
+      "longitude": "18.26803000"
+    },
+    {
+      "id": 86600,
+      "name": "Kamień Krajeński",
+      "latitude": "53.53352000",
+      "longitude": "17.52019000"
+    },
+    {
+      "id": 86631,
+      "name": "Kcynia",
+      "latitude": "52.99192000",
+      "longitude": "17.48830000"
+    },
+    {
+      "id": 86857,
+      "name": "Kęsowo",
+      "latitude": "53.55872000",
+      "longitude": "17.71580000"
+    },
+    {
+      "id": 86639,
+      "name": "Kikół",
+      "latitude": "52.90994000",
+      "longitude": "19.12016000"
+    },
+    {
+      "id": 86705,
+      "name": "Koronowo",
+      "latitude": "53.31370000",
+      "longitude": "17.93698000"
+    },
+    {
+      "id": 86725,
+      "name": "Kowal",
+      "latitude": "52.53019000",
+      "longitude": "19.14767000"
+    },
+    {
+      "id": 86730,
+      "name": "Kowalewo Pomorskie",
+      "latitude": "53.15432000",
+      "longitude": "18.89868000"
+    },
+    {
+      "id": 86793,
+      "name": "Kruszwica",
+      "latitude": "52.67562000",
+      "longitude": "18.33131000"
+    },
+    {
+      "id": 86917,
+      "name": "Lipno",
+      "latitude": "52.84436000",
+      "longitude": "19.17852000"
+    },
+    {
+      "id": 86924,
+      "name": "Lisewo",
+      "latitude": "53.29580000",
+      "longitude": "18.68714000"
+    },
+    {
+      "id": 86929,
+      "name": "Lniano",
+      "latitude": "53.52801000",
+      "longitude": "18.21267000"
+    },
+    {
+      "id": 86931,
+      "name": "Lubanie",
+      "latitude": "52.74689000",
+      "longitude": "18.91940000"
+    },
+    {
+      "id": 86939,
+      "name": "Lubicz Dolny",
+      "latitude": "53.03151000",
+      "longitude": "18.74559000"
+    },
+    {
+      "id": 86940,
+      "name": "Lubicz Górny",
+      "latitude": "53.02686000",
+      "longitude": "18.77100000"
+    },
+    {
+      "id": 86943,
+      "name": "Lubień Kujawski",
+      "latitude": "52.40574000",
+      "longitude": "19.16440000"
+    },
+    {
+      "id": 86941,
+      "name": "Lubiewo",
+      "latitude": "53.46542000",
+      "longitude": "18.02994000"
+    },
+    {
+      "id": 86957,
+      "name": "Lubraniec",
+      "latitude": "52.54178000",
+      "longitude": "18.83254000"
+    },
+    {
+      "id": 88755,
+      "name": "Łabiszyn",
+      "latitude": "52.95210000",
+      "longitude": "17.91971000"
+    },
+    {
+      "id": 88769,
+      "name": "Łasin",
+      "latitude": "53.51794000",
+      "longitude": "19.08832000"
+    },
+    {
+      "id": 88796,
+      "name": "Łubianka",
+      "latitude": "53.13864000",
+      "longitude": "18.48115000"
+    },
+    {
+      "id": 88808,
+      "name": "Łysomice",
+      "latitude": "53.08629000",
+      "longitude": "18.62002000"
+    },
+    {
+      "id": 87086,
+      "name": "Mogilno",
+      "latitude": "52.65806000",
+      "longitude": "17.95578000"
+    },
+    {
+      "id": 87101,
+      "name": "Mrocza",
+      "latitude": "53.24313000",
+      "longitude": "17.60405000"
+    },
+    {
+      "id": 87135,
+      "name": "Nakło nad Notecią",
+      "latitude": "53.14214000",
+      "longitude": "17.60181000"
+    },
+    {
+      "id": 87168,
+      "name": "Nieszawa",
+      "latitude": "52.83452000",
+      "longitude": "18.89921000"
+    },
+    {
+      "id": 87179,
+      "name": "Nowa Wieś Wielka",
+      "latitude": "52.97159000",
+      "longitude": "18.09036000"
+    },
+    {
+      "id": 87180,
+      "name": "Nowe",
+      "latitude": "53.64906000",
+      "longitude": "18.72716000"
+    },
+    {
+      "id": 87219,
+      "name": "Obrowo",
+      "latitude": "52.97149000",
+      "longitude": "18.87863000"
+    },
+    {
+      "id": 87276,
+      "name": "Osie",
+      "latitude": "53.59918000",
+      "longitude": "18.34373000"
+    },
+    {
+      "id": 87294,
+      "name": "Osięciny",
+      "latitude": "52.62926000",
+      "longitude": "18.72208000"
+    },
+    {
+      "id": 87285,
+      "name": "Osiek",
+      "latitude": "52.92629000",
+      "longitude": "18.80765000"
+    },
+    {
+      "id": 87292,
+      "name": "Osielsko",
+      "latitude": "53.18505000",
+      "longitude": "18.08418000"
+    },
+    {
+      "id": 87300,
+      "name": "Ostrowite",
+      "latitude": "53.06917000",
+      "longitude": "19.29337000"
+    },
+    {
+      "id": 87338,
+      "name": "Pakość",
+      "latitude": "52.80178000",
+      "longitude": "18.08530000"
+    },
+    {
+      "id": 87393,
+      "name": "Piotrków Kujawski",
+      "latitude": "52.55111000",
+      "longitude": "18.49905000"
+    },
+    {
+      "id": 87868,
+      "name": "Płużnica",
+      "latitude": "53.29672000",
+      "longitude": "18.77692000"
+    },
+    {
+      "id": 87457,
+      "name": "Powiat aleksandrowski",
+      "latitude": "52.78465000",
+      "longitude": "18.71930000"
+    },
+    {
+      "id": 87473,
+      "name": "Powiat brodnicki",
+      "latitude": "53.26982000",
+      "longitude": "19.42279000"
+    },
+    {
+      "id": 87479,
+      "name": "Powiat bydgoski",
+      "latitude": "53.19029000",
+      "longitude": "18.03808000"
+    },
+    {
+      "id": 87482,
+      "name": "Powiat chełmiński",
+      "latitude": "53.30056000",
+      "longitude": "18.50396000"
+    },
+    {
+      "id": 87506,
+      "name": "Powiat golubsko-dobrzyński",
+      "latitude": "53.09922000",
+      "longitude": "18.99209000"
+    },
+    {
+      "id": 87515,
+      "name": "Powiat grudziądzki",
+      "latitude": "53.47146000",
+      "longitude": "18.91620000"
+    },
+    {
+      "id": 87524,
+      "name": "Powiat inowrocławski",
+      "latitude": "52.76463000",
+      "longitude": "18.29671000"
+    },
+    {
+      "id": 87571,
+      "name": "Powiat lipnowski",
+      "latitude": "52.81573000",
+      "longitude": "19.21704000"
+    },
+    {
+      "id": 87590,
+      "name": "Powiat mogileński",
+      "latitude": "52.66160000",
+      "longitude": "18.07424000"
+    },
+    {
+      "id": 87597,
+      "name": "Powiat nakielski",
+      "latitude": "53.09480000",
+      "longitude": "17.58988000"
+    },
+    {
+      "id": 87658,
+      "name": "Powiat radziejowski",
+      "latitude": "52.62358000",
+      "longitude": "18.52964000"
+    },
+    {
+      "id": 87665,
+      "name": "Powiat rypiński",
+      "latitude": "53.06613000",
+      "longitude": "19.40975000"
+    },
+    {
+      "id": 87696,
+      "name": "Powiat sępoleński",
+      "latitude": "53.44263000",
+      "longitude": "17.50895000"
+    },
+    {
+      "id": 87763,
+      "name": "Powiat świecki",
+      "latitude": "53.48128000",
+      "longitude": "18.41163000"
+    },
+    {
+      "id": 87708,
+      "name": "Powiat toruński",
+      "latitude": "52.98255000",
+      "longitude": "18.83331000"
+    },
+    {
+      "id": 87710,
+      "name": "Powiat tucholski",
+      "latitude": "53.58146000",
+      "longitude": "17.93967000"
+    },
+    {
+      "id": 87729,
+      "name": "Powiat wąbrzeski",
+      "latitude": "53.28267000",
+      "longitude": "18.92649000"
+    },
+    {
+      "id": 87733,
+      "name": "Powiat włocławski",
+      "latitude": "52.55662000",
+      "longitude": "19.05157000"
+    },
+    {
+      "id": 87766,
+      "name": "Powiat żniński",
+      "latitude": "52.82255000",
+      "longitude": "17.73743000"
+    },
+    {
+      "id": 87797,
+      "name": "Pruszcz",
+      "latitude": "53.33021000",
+      "longitude": "18.19894000"
+    },
+    {
+      "id": 87874,
+      "name": "Raciążek",
+      "latitude": "52.85650000",
+      "longitude": "18.81334000"
+    },
+    {
+      "id": 87885,
+      "name": "Radomin",
+      "latitude": "53.08670000",
+      "longitude": "19.19415000"
+    },
+    {
+      "id": 87898,
+      "name": "Radziejów",
+      "latitude": "52.62481000",
+      "longitude": "18.52771000"
+    },
+    {
+      "id": 87903,
+      "name": "Radzyń Chełmiński",
+      "latitude": "53.38509000",
+      "longitude": "18.93725000"
+    },
+    {
+      "id": 87944,
+      "name": "Rogowo",
+      "latitude": "52.72449000",
+      "longitude": "17.65117000"
+    },
+    {
+      "id": 87952,
+      "name": "Rogóźno",
+      "latitude": "53.53587000",
+      "longitude": "18.92859000"
+    },
+    {
+      "id": 88012,
+      "name": "Rypin",
+      "latitude": "53.06603000",
+      "longitude": "19.40941000"
+    },
+    {
+      "id": 88040,
+      "name": "Sadki",
+      "latitude": "53.16036000",
+      "longitude": "17.44912000"
+    },
+    {
+      "id": 88333,
+      "name": "Sępólno Krajeńskie",
+      "latitude": "53.45198000",
+      "longitude": "17.53169000"
+    },
+    {
+      "id": 88060,
+      "name": "Sicienko",
+      "latitude": "53.20387000",
+      "longitude": "17.80051000"
+    },
+    {
+      "id": 88124,
+      "name": "Skępe",
+      "latitude": "52.86798000",
+      "longitude": "19.35604000"
+    },
+    {
+      "id": 88115,
+      "name": "Skrwilno",
+      "latitude": "53.01607000",
+      "longitude": "19.62364000"
+    },
+    {
+      "id": 88831,
+      "name": "Ślesin",
+      "latitude": "53.16514000",
+      "longitude": "17.70258000"
+    },
+    {
+      "id": 88833,
+      "name": "Śliwice",
+      "latitude": "53.70875000",
+      "longitude": "18.17370000"
+    },
+    {
+      "id": 88142,
+      "name": "Solec Kujawski",
+      "latitude": "53.08371000",
+      "longitude": "18.22572000"
+    },
+    {
+      "id": 88160,
+      "name": "Sośno",
+      "latitude": "53.38922000",
+      "longitude": "17.68713000"
+    },
+    {
+      "id": 88232,
+      "name": "Strzelno",
+      "latitude": "52.62789000",
+      "longitude": "18.17246000"
+    },
+    {
+      "id": 88847,
+      "name": "Świecie",
+      "latitude": "53.40953000",
+      "longitude": "18.44742000"
+    },
+    {
+      "id": 88848,
+      "name": "Świecie nad Osą",
+      "latitude": "53.44400000",
+      "longitude": "19.10171000"
+    },
+    {
+      "id": 88849,
+      "name": "Świedziebnia",
+      "latitude": "53.15207000",
+      "longitude": "19.55463000"
+    },
+    {
+      "id": 88850,
+      "name": "Świekatowo",
+      "latitude": "53.41864000",
+      "longitude": "18.09731000"
+    },
+    {
+      "id": 88280,
+      "name": "Sypniewo",
+      "latitude": "53.36981000",
+      "longitude": "17.32690000"
+    },
+    {
+      "id": 88317,
+      "name": "Szubin",
+      "latitude": "53.00967000",
+      "longitude": "17.74000000"
+    },
+    {
+      "id": 88444,
+      "name": "Tłuchowo",
+      "latitude": "52.74715000",
+      "longitude": "19.46563000"
+    },
+    {
+      "id": 88383,
+      "name": "Topólka",
+      "latitude": "52.50327000",
+      "longitude": "18.71246000"
+    },
+    {
+      "id": 88384,
+      "name": "Toruń",
+      "latitude": "53.01375000",
+      "longitude": "18.59814000"
+    },
+    {
+      "id": 88417,
+      "name": "Tuchola",
+      "latitude": "53.58792000",
+      "longitude": "17.85905000"
+    },
+    {
+      "id": 88456,
+      "name": "Unisław",
+      "latitude": "53.21241000",
+      "longitude": "18.38622000"
+    },
+    {
+      "id": 88631,
+      "name": "Wąbrzeźno",
+      "latitude": "53.27989000",
+      "longitude": "18.94773000"
+    },
+    {
+      "id": 88471,
+      "name": "Waganiec",
+      "latitude": "52.80120000",
+      "longitude": "18.87589000"
+    },
+    {
+      "id": 88634,
+      "name": "Wąpielsk",
+      "latitude": "53.13761000",
+      "longitude": "19.27792000"
+    },
+    {
+      "id": 88478,
+      "name": "Warlubie",
+      "latitude": "53.58751000",
+      "longitude": "18.63444000"
+    },
+    {
+      "id": 88557,
+      "name": "Więcbork",
+      "latitude": "53.35384000",
+      "longitude": "17.49064000"
+    },
+    {
+      "id": 88500,
+      "name": "Wielgie",
+      "latitude": "52.74076000",
+      "longitude": "19.26350000"
+    },
+    {
+      "id": 88504,
+      "name": "Wielka Nieszawka",
+      "latitude": "52.99619000",
+      "longitude": "18.50973000"
+    },
+    {
+      "id": 88524,
+      "name": "Wierzchosławice",
+      "latitude": "52.86923000",
+      "longitude": "18.35609000"
+    },
+    {
+      "id": 88649,
+      "name": "Włocławek",
+      "latitude": "52.64817000",
+      "longitude": "19.06780000"
+    },
+    {
+      "id": 88713,
+      "name": "Zbójno",
+      "latitude": "53.00848000",
+      "longitude": "19.15750000"
+    },
+    {
+      "id": 88741,
+      "name": "Zławieś Wielka",
+      "latitude": "53.09562000",
+      "longitude": "18.32897000"
+    },
+    {
+      "id": 88748,
+      "name": "Złotniki Kujawskie",
+      "latitude": "52.89943000",
+      "longitude": "18.14564000"
+    },
+    {
+      "id": 88888,
+      "name": "Żnin",
+      "latitude": "52.84958000",
+      "longitude": "17.71992000"
+    }
+  ],
+  "country": {
+    "id": 176,
+    "name": "Poland",
+    "iso3": "POL",
+    "iso2": "PL",
+    "numeric_code": "616",
+    "phone_code": "48",
+    "capital": "Warsaw",
+    "currency": "PLN",
+    "currency_name": "Polish złoty",
+    "currency_symbol": "zł",
+    "tld": ".pl",
+    "native": "Polska",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Warsaw",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "폴란드",
+      "pt-BR": "Polônia",
+      "pt": "Polónia",
+      "nl": "Polen",
+      "hr": "Poljska",
+      "fa": "لهستان",
+      "de": "Polen",
+      "es": "Polonia",
+      "fr": "Pologne",
+      "ja": "ポーランド",
+      "it": "Polonia",
+      "cn": "波兰",
+      "tr": "Polonya"
+    },
+    "latitude": "52.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇵🇱",
+    "emojiU": "U+1F1F5 U+1F1F1"
+  }
+}

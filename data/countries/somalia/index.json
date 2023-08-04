@@ -1,0 +1,481 @@
+{
+  "id": 203,
+  "name": "Somalia",
+  "iso3": "SOM",
+  "iso2": "SO",
+  "numeric_code": "706",
+  "phone_code": "252",
+  "capital": "Mogadishu",
+  "currency": "SOS",
+  "currency_name": "Somali shilling",
+  "currency_symbol": "Sh.so.",
+  "tld": ".so",
+  "native": "Soomaaliya",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Mogadishu",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "kr": "소말리아",
+    "pt-BR": "Somália",
+    "pt": "Somália",
+    "nl": "Somalië",
+    "hr": "Somalija",
+    "fa": "سومالی",
+    "de": "Somalia",
+    "es": "Somalia",
+    "fr": "Somalie",
+    "ja": "ソマリア",
+    "it": "Somalia",
+    "cn": "索马里",
+    "tr": "Somali"
+  },
+  "latitude": "10.00000000",
+  "longitude": "49.00000000",
+  "emoji": "🇸🇴",
+  "emojiU": "U+1F1F8 U+1F1F4",
+  "states": [
+    {
+      "id": 925,
+      "name": "Awdal Region",
+      "state_code": "AW",
+      "latitude": "10.63342850",
+      "longitude": "43.32946600",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 917,
+      "name": "Bakool",
+      "state_code": "BK",
+      "latitude": "4.36572210",
+      "longitude": "44.09603110",
+      "type": null,
+      "cities": [
+        {
+          "id": 104815,
+          "name": "Tayeeglow",
+          "latitude": "4.01897000",
+          "longitude": "44.51111000"
+        },
+        {
+          "id": 104816,
+          "name": "Waajid",
+          "latitude": "3.80958000",
+          "longitude": "43.24627000"
+        },
+        {
+          "id": 104819,
+          "name": "Xuddur",
+          "latitude": "4.12129000",
+          "longitude": "43.88945000"
+        },
+        {
+          "id": 104820,
+          "name": "Yeed",
+          "latitude": "4.55000000",
+          "longitude": "43.03333000"
+        }
+      ]
+    },
+    {
+      "id": 927,
+      "name": "Banaadir",
+      "state_code": "BN",
+      "latitude": "2.11873750",
+      "longitude": "45.33694590",
+      "type": null,
+      "cities": [
+        {
+          "id": 104810,
+          "name": "Mogadishu",
+          "latitude": "2.03711000",
+          "longitude": "45.34375000"
+        }
+      ]
+    },
+    {
+      "id": 930,
+      "name": "Bari",
+      "state_code": "BR",
+      "latitude": "41.11714320",
+      "longitude": "16.87187150",
+      "type": null,
+      "cities": [
+        {
+          "id": 104778,
+          "name": "Bandarbeyla",
+          "latitude": "9.49420000",
+          "longitude": "50.81220000"
+        },
+        {
+          "id": 104779,
+          "name": "Bargaal",
+          "latitude": "11.28636000",
+          "longitude": "51.07730000"
+        },
+        {
+          "id": 104781,
+          "name": "Bereeda",
+          "latitude": "11.87037000",
+          "longitude": "51.05795000"
+        },
+        {
+          "id": 104782,
+          "name": "Bosaso",
+          "latitude": "11.28421000",
+          "longitude": "49.18158000"
+        },
+        {
+          "id": 104788,
+          "name": "Caluula",
+          "latitude": "11.96611000",
+          "longitude": "50.75694000"
+        },
+        {
+          "id": 104800,
+          "name": "Iskushuban",
+          "latitude": "10.28370000",
+          "longitude": "50.23000000"
+        },
+        {
+          "id": 104812,
+          "name": "Qandala",
+          "latitude": "11.47197000",
+          "longitude": "49.87282000"
+        }
+      ]
+    },
+    {
+      "id": 926,
+      "name": "Bay",
+      "state_code": "BY",
+      "latitude": "37.03655340",
+      "longitude": "-95.61747670",
+      "type": null,
+      "cities": [
+        {
+          "id": 104777,
+          "name": "Baidoa",
+          "latitude": "3.11383000",
+          "longitude": "43.64980000"
+        },
+        {
+          "id": 104786,
+          "name": "Buurhakaba",
+          "latitude": "2.80257000",
+          "longitude": "44.07805000"
+        }
+      ]
+    },
+    {
+      "id": 918,
+      "name": "Galguduud",
+      "state_code": "GA",
+      "latitude": "5.18501280",
+      "longitude": "46.82528380",
+      "type": null,
+      "cities": [
+        {
+          "id": 104790,
+          "name": "Ceelbuur",
+          "latitude": "4.68501000",
+          "longitude": "46.61760000"
+        },
+        {
+          "id": 104791,
+          "name": "Ceeldheer",
+          "latitude": "3.84878000",
+          "longitude": "47.18064000"
+        },
+        {
+          "id": 104793,
+          "name": "Dhuusamarreeb",
+          "latitude": "5.53597000",
+          "longitude": "46.38666000"
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "name": "Gedo",
+      "state_code": "GE",
+      "latitude": "3.50392270",
+      "longitude": "42.23624350",
+      "type": null,
+      "cities": [
+        {
+          "id": 104776,
+          "name": "Baardheere",
+          "latitude": "2.34464000",
+          "longitude": "42.27644000"
+        },
+        {
+          "id": 104797,
+          "name": "Garbahaarrey",
+          "latitude": "3.32892000",
+          "longitude": "42.22091000"
+        },
+        {
+          "id": 104807,
+          "name": "Luuq",
+          "latitude": "3.80315000",
+          "longitude": "42.54417000"
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "name": "Hiran",
+      "state_code": "HI",
+      "latitude": "4.32101500",
+      "longitude": "45.29938620",
+      "type": null,
+      "cities": [
+        {
+          "id": 104780,
+          "name": "Beledweyne",
+          "latitude": "4.73583000",
+          "longitude": "45.20361000"
+        },
+        {
+          "id": 104784,
+          "name": "Buulobarde",
+          "latitude": "3.85375000",
+          "longitude": "45.56744000"
+        },
+        {
+          "id": 104801,
+          "name": "Jalalaqsi",
+          "latitude": "3.37660000",
+          "longitude": "45.59960000"
+        }
+      ]
+    },
+    {
+      "id": 924,
+      "name": "Lower Juba",
+      "state_code": "JH",
+      "latitude": "0.22402100",
+      "longitude": "41.60118140",
+      "type": null,
+      "cities": [
+        {
+          "id": 104785,
+          "name": "Buur Gaabo",
+          "latitude": "-1.21917000",
+          "longitude": "41.83725000"
+        },
+        {
+          "id": 104802,
+          "name": "Jamaame",
+          "latitude": "0.06968000",
+          "longitude": "42.74497000"
+        },
+        {
+          "id": 104805,
+          "name": "Kismayo",
+          "latitude": "-0.35817000",
+          "longitude": "42.54536000"
+        }
+      ]
+    },
+    {
+      "id": 921,
+      "name": "Lower Shebelle",
+      "state_code": "SH",
+      "latitude": "1.87664580",
+      "longitude": "44.24790150",
+      "type": null,
+      "cities": [
+        {
+          "id": 104775,
+          "name": "Afgooye",
+          "latitude": "2.13810000",
+          "longitude": "45.12120000"
+        },
+        {
+          "id": 104809,
+          "name": "Marka",
+          "latitude": "1.71594000",
+          "longitude": "44.77166000"
+        },
+        {
+          "id": 104813,
+          "name": "Qoryooley",
+          "latitude": "1.78784000",
+          "longitude": "44.52999000"
+        },
+        {
+          "id": 104817,
+          "name": "Wanlaweyn",
+          "latitude": "2.61850000",
+          "longitude": "44.89380000"
+        }
+      ]
+    },
+    {
+      "id": 922,
+      "name": "Middle Juba",
+      "state_code": "JD",
+      "latitude": "2.07804880",
+      "longitude": "41.60118140",
+      "type": null,
+      "cities": [
+        {
+          "id": 104794,
+          "name": "Dujuuma",
+          "latitude": "1.25311000",
+          "longitude": "42.57377000"
+        },
+        {
+          "id": 104804,
+          "name": "Jilib",
+          "latitude": "0.48829000",
+          "longitude": "42.78535000"
+        },
+        {
+          "id": 104814,
+          "name": "Saacow",
+          "latitude": "1.62794000",
+          "longitude": "42.44067000"
+        }
+      ]
+    },
+    {
+      "id": 923,
+      "name": "Middle Shebelle",
+      "state_code": "SD",
+      "latitude": "2.92502470",
+      "longitude": "45.90396890",
+      "type": null,
+      "cities": [
+        {
+          "id": 104787,
+          "name": "Cadale",
+          "latitude": "2.76030000",
+          "longitude": "46.32220000"
+        },
+        {
+          "id": 104803,
+          "name": "Jawhar",
+          "latitude": "2.78087000",
+          "longitude": "45.50048000"
+        },
+        {
+          "id": 104808,
+          "name": "Mahaddayweyne",
+          "latitude": "2.97260000",
+          "longitude": "45.53470000"
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "name": "Mudug",
+      "state_code": "MU",
+      "latitude": "6.56567260",
+      "longitude": "47.76375650",
+      "type": null,
+      "cities": [
+        {
+          "id": 104796,
+          "name": "Gaalkacyo",
+          "latitude": "6.76972000",
+          "longitude": "47.43083000"
+        },
+        {
+          "id": 104799,
+          "name": "Hobyo",
+          "latitude": "5.35050000",
+          "longitude": "48.52680000"
+        },
+        {
+          "id": 104818,
+          "name": "Xarardheere",
+          "latitude": "4.65440000",
+          "longitude": "47.85750000"
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "name": "Nugal",
+      "state_code": "NU",
+      "latitude": "43.27938610",
+      "longitude": "17.03392050",
+      "type": null,
+      "cities": [
+        {
+          "id": 104795,
+          "name": "Eyl",
+          "latitude": "7.98030000",
+          "longitude": "49.81640000"
+        },
+        {
+          "id": 104798,
+          "name": "Garoowe",
+          "latitude": "8.40207000",
+          "longitude": "48.48284000"
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "name": "Sanaag Region",
+      "state_code": "SA",
+      "latitude": "10.39382180",
+      "longitude": "47.76375650",
+      "type": null,
+      "cities": [
+        {
+          "id": 104792,
+          "name": "Ceerigaabo",
+          "latitude": "10.61616000",
+          "longitude": "47.36795000"
+        },
+        {
+          "id": 104806,
+          "name": "Las Khorey",
+          "latitude": "11.15950000",
+          "longitude": "48.19670000"
+        }
+      ]
+    },
+    {
+      "id": 929,
+      "name": "Togdheer Region",
+      "state_code": "TO",
+      "latitude": "9.44605870",
+      "longitude": "45.29938620",
+      "type": null,
+      "cities": [
+        {
+          "id": 104783,
+          "name": "Burao",
+          "latitude": "9.52213000",
+          "longitude": "45.53363000"
+        },
+        {
+          "id": 104789,
+          "name": "Ceek",
+          "latitude": "8.99907000",
+          "longitude": "45.35824000"
+        },
+        {
+          "id": 104811,
+          "name": "Oodweyne",
+          "latitude": "9.40920000",
+          "longitude": "45.06397000"
+        }
+      ]
+    }
+  ]
+}

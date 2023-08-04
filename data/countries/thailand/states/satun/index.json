@@ -1,0 +1,102 @@
+{
+  "id": 3537,
+  "name": "Satun",
+  "state_code": "91",
+  "latitude": "6.62381580",
+  "longitude": "100.06737440",
+  "type": null,
+  "cities": [
+    {
+      "id": 105426,
+      "name": "Amphoe Khuan Don",
+      "latitude": "6.76978000",
+      "longitude": "100.12216000"
+    },
+    {
+      "id": 105427,
+      "name": "Amphoe Khuan Kalong",
+      "latitude": "6.90593000",
+      "longitude": "100.04178000"
+    },
+    {
+      "id": 105468,
+      "name": "Amphoe La-Ngu",
+      "latitude": "6.90392000",
+      "longitude": "99.79836000"
+    },
+    {
+      "id": 105524,
+      "name": "Amphoe Manang",
+      "latitude": "7.01822000",
+      "longitude": "99.95399000"
+    },
+    {
+      "id": 105588,
+      "name": "Amphoe Mueang Satun",
+      "latitude": "6.62314000",
+      "longitude": "100.06681000"
+    },
+    {
+      "id": 106280,
+      "name": "Amphoe Tha Phae",
+      "latitude": "6.79542000",
+      "longitude": "99.91985000"
+    },
+    {
+      "id": 106319,
+      "name": "Amphoe Thung Wa",
+      "latitude": "7.04915000",
+      "longitude": "99.76587000"
+    },
+    {
+      "id": 106692,
+      "name": "Satun",
+      "latitude": "6.62314000",
+      "longitude": "100.06676000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

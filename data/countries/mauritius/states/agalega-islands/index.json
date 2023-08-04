@@ -1,0 +1,60 @@
+{
+  "id": 3248,
+  "name": "Agalega Islands",
+  "state_code": "AG",
+  "latitude": "-10.40000000",
+  "longitude": "56.61666670",
+  "type": "dependency",
+  "cities": [
+    {
+      "id": 67922,
+      "name": "Vingt Cinq",
+      "latitude": "-10.38803000",
+      "longitude": "56.61795000"
+    }
+  ],
+  "country": {
+    "id": 140,
+    "name": "Mauritius",
+    "iso3": "MUS",
+    "iso2": "MU",
+    "numeric_code": "480",
+    "phone_code": "230",
+    "capital": "Port Louis",
+    "currency": "MUR",
+    "currency_name": "Mauritian rupee",
+    "currency_symbol": "₨",
+    "tld": ".mu",
+    "native": "Maurice",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mauritius",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MUT",
+        "tzName": "Mauritius Time"
+      }
+    ],
+    "translations": {
+      "kr": "모리셔스",
+      "pt-BR": "Maurício",
+      "pt": "Maurícia",
+      "nl": "Mauritius",
+      "hr": "Mauricijus",
+      "fa": "موریس",
+      "de": "Mauritius",
+      "es": "Mauricio",
+      "fr": "Île Maurice",
+      "ja": "モーリシャス",
+      "it": "Mauritius",
+      "cn": "毛里求斯",
+      "tr": "Morityus"
+    },
+    "latitude": "-20.28333333",
+    "longitude": "57.55000000",
+    "emoji": "🇲🇺",
+    "emojiU": "U+1F1F2 U+1F1FA"
+  }
+}

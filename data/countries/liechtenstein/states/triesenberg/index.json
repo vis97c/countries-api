@@ -1,0 +1,60 @@
+{
+  "id": 456,
+  "name": "Triesenberg",
+  "state_code": "10",
+  "latitude": "47.12245110",
+  "longitude": "9.57019850",
+  "type": null,
+  "cities": [
+    {
+      "id": 66446,
+      "name": "Triesenberg",
+      "latitude": "47.11815000",
+      "longitude": "9.54197000"
+    }
+  ],
+  "country": {
+    "id": 125,
+    "name": "Liechtenstein",
+    "iso3": "LIE",
+    "iso2": "LI",
+    "numeric_code": "438",
+    "phone_code": "423",
+    "capital": "Vaduz",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".li",
+    "native": "Liechtenstein",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vaduz",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "리히텐슈타인",
+      "pt-BR": "Liechtenstein",
+      "pt": "Listenstaine",
+      "nl": "Liechtenstein",
+      "hr": "Lihtenštajn",
+      "fa": "لیختن‌اشتاین",
+      "de": "Liechtenstein",
+      "es": "Liechtenstein",
+      "fr": "Liechtenstein",
+      "ja": "リヒテンシュタイン",
+      "it": "Liechtenstein",
+      "cn": "列支敦士登",
+      "tr": "Lihtenştayn"
+    },
+    "latitude": "47.26666666",
+    "longitude": "9.53333333",
+    "emoji": "🇱🇮",
+    "emojiU": "U+1F1F1 U+1F1EE"
+  }
+}

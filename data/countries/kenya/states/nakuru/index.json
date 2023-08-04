@@ -1,0 +1,84 @@
+{
+  "id": 203,
+  "name": "Nakuru",
+  "state_code": "31",
+  "latitude": "-0.30309880",
+  "longitude": "36.08002600",
+  "type": "county",
+  "cities": [
+    {
+      "id": 64804,
+      "name": "Kijabe",
+      "latitude": "-0.93334000",
+      "longitude": "36.57233000"
+    },
+    {
+      "id": 64837,
+      "name": "Molo",
+      "latitude": "-0.24849000",
+      "longitude": "35.73194000"
+    },
+    {
+      "id": 64846,
+      "name": "Naivasha",
+      "latitude": "-0.71383000",
+      "longitude": "36.43261000"
+    },
+    {
+      "id": 64847,
+      "name": "Nakuru",
+      "latitude": "-0.30719000",
+      "longitude": "36.07225000"
+    },
+    {
+      "id": 64864,
+      "name": "Rongai",
+      "latitude": "-0.17344000",
+      "longitude": "35.86313000"
+    }
+  ],
+  "country": {
+    "id": 113,
+    "name": "Kenya",
+    "iso3": "KEN",
+    "iso2": "KE",
+    "numeric_code": "404",
+    "phone_code": "254",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currency_name": "Kenyan shilling",
+    "currency_symbol": "KSh",
+    "tld": ".ke",
+    "native": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "케냐",
+      "pt-BR": "Quênia",
+      "pt": "Quénia",
+      "nl": "Kenia",
+      "hr": "Kenija",
+      "fa": "کنیا",
+      "de": "Kenia",
+      "es": "Kenia",
+      "fr": "Kenya",
+      "ja": "ケニア",
+      "it": "Kenya",
+      "cn": "肯尼亚",
+      "tr": "Kenya"
+    },
+    "latitude": "1.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇰🇪",
+    "emojiU": "U+1F1F0 U+1F1EA"
+  }
+}

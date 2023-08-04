@@ -1,0 +1,84 @@
+{
+  "id": 4514,
+  "name": "Viqueque Municipality",
+  "state_code": "VI",
+  "latitude": "-8.85979180",
+  "longitude": "126.36335160",
+  "type": null,
+  "cities": [
+    {
+      "id": 106851,
+      "name": "Lacluta",
+      "latitude": "-8.80000000",
+      "longitude": "126.13333000"
+    },
+    {
+      "id": 106865,
+      "name": "Ossu",
+      "latitude": "-8.73477000",
+      "longitude": "126.38324000"
+    },
+    {
+      "id": 106875,
+      "name": "Uatocarabau",
+      "latitude": "-8.75658000",
+      "longitude": "126.68060000"
+    },
+    {
+      "id": 106876,
+      "name": "Uatolari",
+      "latitude": "-8.76277000",
+      "longitude": "126.57353000"
+    },
+    {
+      "id": 106879,
+      "name": "Viqueque",
+      "latitude": "-8.85908000",
+      "longitude": "126.36972000"
+    }
+  ],
+  "country": {
+    "id": 63,
+    "name": "East Timor",
+    "iso3": "TLS",
+    "iso2": "TL",
+    "numeric_code": "626",
+    "phone_code": "670",
+    "capital": "Dili",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tl",
+    "native": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dili",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "TLT",
+        "tzName": "Timor Leste Time"
+      }
+    ],
+    "translations": {
+      "kr": "동티모르",
+      "pt-BR": "Timor Leste",
+      "pt": "Timor Leste",
+      "nl": "Oost-Timor",
+      "hr": "Istočni Timor",
+      "fa": "تیمور شرقی",
+      "de": "Timor-Leste",
+      "es": "Timor Oriental",
+      "fr": "Timor oriental",
+      "ja": "東ティモール",
+      "it": "Timor Est",
+      "cn": "东帝汶",
+      "tr": "Doğu Timor"
+    },
+    "latitude": "-8.83333333",
+    "longitude": "125.91666666",
+    "emoji": "🇹🇱",
+    "emojiU": "U+1F1F9 U+1F1F1"
+  }
+}

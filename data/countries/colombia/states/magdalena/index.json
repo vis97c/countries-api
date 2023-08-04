@@ -1,0 +1,234 @@
+{
+  "id": 2886,
+  "name": "Magdalena",
+  "state_code": "MAG",
+  "latitude": "10.41130140",
+  "longitude": "-74.40566120",
+  "type": null,
+  "cities": [
+    {
+      "id": 20505,
+      "name": "Algarrobo",
+      "latitude": "10.18553000",
+      "longitude": "-74.06158000"
+    },
+    {
+      "id": 20533,
+      "name": "Aracataca",
+      "latitude": "10.59181000",
+      "longitude": "-74.18983000"
+    },
+    {
+      "id": 20548,
+      "name": "Ariguaní",
+      "latitude": "9.89383000",
+      "longitude": "-74.13583000"
+    },
+    {
+      "id": 20673,
+      "name": "Cerro de San Antonio",
+      "latitude": "10.32585000",
+      "longitude": "-74.86933000"
+    },
+    {
+      "id": 20700,
+      "name": "Chivolo",
+      "latitude": "10.02638888",
+      "longitude": "-74.62138888"
+    },
+    {
+      "id": 20712,
+      "name": "Ciénaga",
+      "latitude": "10.83333000",
+      "longitude": "-74.08333000"
+    },
+    {
+      "id": 20726,
+      "name": "Concordia",
+      "latitude": "9.83545000",
+      "longitude": "-74.45548000"
+    },
+    {
+      "id": 20787,
+      "name": "El Banco",
+      "latitude": "9.00114000",
+      "longitude": "-73.97581000"
+    },
+    {
+      "id": 20820,
+      "name": "El Piñon",
+      "latitude": "10.33333000",
+      "longitude": "-74.66667000"
+    },
+    {
+      "id": 20824,
+      "name": "El Retén",
+      "latitude": "10.61135000",
+      "longitude": "-74.26824000"
+    },
+    {
+      "id": 20864,
+      "name": "Fundación",
+      "latitude": "10.52066000",
+      "longitude": "-74.18504000"
+    },
+    {
+      "id": 20907,
+      "name": "Guamal",
+      "latitude": "9.14334000",
+      "longitude": "-74.22384000"
+    },
+    {
+      "id": 21139,
+      "name": "Nueva Granada",
+      "latitude": "9.80168000",
+      "longitude": "-74.39304000"
+    },
+    {
+      "id": 21191,
+      "name": "Pedraza",
+      "latitude": "10.18739000",
+      "longitude": "-74.91504000"
+    },
+    {
+      "id": 21205,
+      "name": "Pijiño del Carmen",
+      "latitude": "9.32908000",
+      "longitude": "-74.45302000"
+    },
+    {
+      "id": 21210,
+      "name": "Pivijay",
+      "latitude": "10.46167000",
+      "longitude": "-74.61621000"
+    },
+    {
+      "id": 21214,
+      "name": "Plato",
+      "latitude": "9.77267000",
+      "longitude": "-74.74548000"
+    },
+    {
+      "id": 21228,
+      "name": "Puebloviejo",
+      "latitude": "10.84239000",
+      "longitude": "-74.38538000"
+    },
+    {
+      "id": 21282,
+      "name": "Remolino",
+      "latitude": "10.65048000",
+      "longitude": "-74.58442000"
+    },
+    {
+      "id": 21313,
+      "name": "Sabanas de San Angel",
+      "latitude": "10.11072000",
+      "longitude": "-74.26007000"
+    },
+    {
+      "id": 21318,
+      "name": "Salamina",
+      "latitude": "10.49027000",
+      "longitude": "-74.79463000"
+    },
+    {
+      "id": 20606,
+      "name": "San Sebastián de Buenavista",
+      "latitude": "9.23916666",
+      "longitude": "-74.35194444"
+    },
+    {
+      "id": 21409,
+      "name": "San Zenón",
+      "latitude": "9.32686000",
+      "longitude": "-74.32914000"
+    },
+    {
+      "id": 21411,
+      "name": "Santa Ana",
+      "latitude": "9.51484000",
+      "longitude": "-74.34330000"
+    },
+    {
+      "id": 21415,
+      "name": "Santa Bárbara de Pinto",
+      "latitude": "9.52107000",
+      "longitude": "-74.64912000"
+    },
+    {
+      "id": 21421,
+      "name": "Santa Marta",
+      "latitude": "11.24348000",
+      "longitude": "-74.20835000"
+    },
+    {
+      "id": 21463,
+      "name": "Sitionuevo",
+      "latitude": "10.77737000",
+      "longitude": "-74.72049000"
+    },
+    {
+      "id": 21519,
+      "name": "Tenerife",
+      "latitude": "9.93201000",
+      "longitude": "-74.73465000"
+    },
+    {
+      "id": 21631,
+      "name": "Zapayán",
+      "latitude": "10.11846000",
+      "longitude": "-74.69143000"
+    },
+    {
+      "id": 21637,
+      "name": "Zona Bananera",
+      "latitude": "10.76417000",
+      "longitude": "-74.15722000"
+    }
+  ],
+  "country": {
+    "id": 48,
+    "name": "Colombia",
+    "iso3": "COL",
+    "iso2": "CO",
+    "numeric_code": "170",
+    "phone_code": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "currency_name": "Colombian peso",
+    "currency_symbol": "$",
+    "tld": ".co",
+    "native": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Bogota",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "COT",
+        "tzName": "Colombia Time"
+      }
+    ],
+    "translations": {
+      "kr": "콜롬비아",
+      "pt-BR": "Colômbia",
+      "pt": "Colômbia",
+      "nl": "Colombia",
+      "hr": "Kolumbija",
+      "fa": "کلمبیا",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fr": "Colombie",
+      "ja": "コロンビア",
+      "it": "Colombia",
+      "cn": "哥伦比亚",
+      "tr": "Kolombiya"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-72.00000000",
+    "emoji": "🇨🇴",
+    "emojiU": "U+1F1E8 U+1F1F4"
+  }
+}

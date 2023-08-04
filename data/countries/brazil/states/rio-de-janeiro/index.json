@@ -1,0 +1,723 @@
+{
+  "id": 1997,
+  "name": "Rio de Janeiro",
+  "state_code": "RJ",
+  "latitude": "-22.90684670",
+  "longitude": "-43.17289650",
+  "type": null,
+  "cities": [
+    {
+      "id": 10257,
+      "name": "Angra dos Reis",
+      "latitude": "-23.00667000",
+      "longitude": "-44.31806000"
+    },
+    {
+      "id": 10291,
+      "name": "Aperibé",
+      "latitude": "-21.64148000",
+      "longitude": "-42.12753000"
+    },
+    {
+      "id": 10356,
+      "name": "Araruama",
+      "latitude": "-22.87278000",
+      "longitude": "-42.34306000"
+    },
+    {
+      "id": 10381,
+      "name": "Areal",
+      "latitude": "-22.23056000",
+      "longitude": "-43.10556000"
+    },
+    {
+      "id": 10402,
+      "name": "Armação dos Búzios",
+      "latitude": "-22.76948000",
+      "longitude": "-41.90965000"
+    },
+    {
+      "id": 10408,
+      "name": "Arraial do Cabo",
+      "latitude": "-22.95505000",
+      "longitude": "-42.06098000"
+    },
+    {
+      "id": 10540,
+      "name": "Barra do Piraí",
+      "latitude": "-22.47000000",
+      "longitude": "-43.82556000"
+    },
+    {
+      "id": 10520,
+      "name": "Barra Mansa",
+      "latitude": "-22.54417000",
+      "longitude": "-44.17139000"
+    },
+    {
+      "id": 10602,
+      "name": "Belford Roxo",
+      "latitude": "-22.76417000",
+      "longitude": "-43.39944000"
+    },
+    {
+      "id": 10694,
+      "name": "Bom Jardim",
+      "latitude": "-22.17871000",
+      "longitude": "-42.33515000"
+    },
+    {
+      "id": 10711,
+      "name": "Bom Jesus do Itabapoana",
+      "latitude": "-21.13389000",
+      "longitude": "-41.67972000"
+    },
+    {
+      "id": 10853,
+      "name": "Cabo Frio",
+      "latitude": "-22.88717000",
+      "longitude": "-42.02622000"
+    },
+    {
+      "id": 10875,
+      "name": "Cachoeiras de Macacu",
+      "latitude": "-22.46250000",
+      "longitude": "-42.65306000"
+    },
+    {
+      "id": 10948,
+      "name": "Cambuci",
+      "latitude": "-21.57528000",
+      "longitude": "-41.91111000"
+    },
+    {
+      "id": 11019,
+      "name": "Campos dos Goytacazes",
+      "latitude": "-21.75227000",
+      "longitude": "-41.33044000"
+    },
+    {
+      "id": 11052,
+      "name": "Cantagalo",
+      "latitude": "-21.98111000",
+      "longitude": "-42.36806000"
+    },
+    {
+      "id": 11108,
+      "name": "Carapebus",
+      "latitude": "-22.22429000",
+      "longitude": "-41.61306000"
+    },
+    {
+      "id": 11123,
+      "name": "Cardoso Moreira",
+      "latitude": "-21.51166000",
+      "longitude": "-41.46121000"
+    },
+    {
+      "id": 11142,
+      "name": "Carmo",
+      "latitude": "-21.89966000",
+      "longitude": "-42.53760000"
+    },
+    {
+      "id": 11180,
+      "name": "Casimiro de Abreu",
+      "latitude": "-22.48056000",
+      "longitude": "-42.20417000"
+    },
+    {
+      "id": 11341,
+      "name": "Comendador Levy Gasparian",
+      "latitude": "-22.03655000",
+      "longitude": "-43.25312000"
+    },
+    {
+      "id": 11352,
+      "name": "Conceição de Macabu",
+      "latitude": "-22.12612000",
+      "longitude": "-41.85341000"
+    },
+    {
+      "id": 11399,
+      "name": "Cordeiro",
+      "latitude": "-22.02861000",
+      "longitude": "-42.36083000"
+    },
+    {
+      "id": 11664,
+      "name": "Duas Barras",
+      "latitude": "-22.07281000",
+      "longitude": "-42.52467000"
+    },
+    {
+      "id": 11669,
+      "name": "Duque de Caxias",
+      "latitude": "-22.78556000",
+      "longitude": "-43.31167000"
+    },
+    {
+      "id": 11702,
+      "name": "Engenheiro Paulo de Frontin",
+      "latitude": "-22.54807000",
+      "longitude": "-43.67270000"
+    },
+    {
+      "id": 12028,
+      "name": "Guapimirim",
+      "latitude": "-22.58914000",
+      "longitude": "-42.97530000"
+    },
+    {
+      "id": 12195,
+      "name": "Iguaba Grande",
+      "latitude": "-22.83917000",
+      "longitude": "-42.22889000"
+    },
+    {
+      "id": 12207,
+      "name": "Ilha Grande",
+      "latitude": "-23.15236000",
+      "longitude": "-44.23164000"
+    },
+    {
+      "id": 12336,
+      "name": "Itaboraí",
+      "latitude": "-22.74444000",
+      "longitude": "-42.85944000"
+    },
+    {
+      "id": 12357,
+      "name": "Itaguaí",
+      "latitude": "-22.85222000",
+      "longitude": "-43.77528000"
+    },
+    {
+      "id": 12374,
+      "name": "Italva",
+      "latitude": "-21.38401000",
+      "longitude": "-41.66728000"
+    },
+    {
+      "id": 12397,
+      "name": "Itaocara",
+      "latitude": "-21.77006000",
+      "longitude": "-42.07488000"
+    },
+    {
+      "id": 12410,
+      "name": "Itaperuna",
+      "latitude": "-21.20500000",
+      "longitude": "-41.88778000"
+    },
+    {
+      "id": 12454,
+      "name": "Itatiaia",
+      "latitude": "-22.41099000",
+      "longitude": "-44.57621000"
+    },
+    {
+      "id": 12569,
+      "name": "Japeri",
+      "latitude": "-22.64306000",
+      "longitude": "-43.65333000"
+    },
+    {
+      "id": 12774,
+      "name": "Laje do Muriaé",
+      "latitude": "-21.23762000",
+      "longitude": "-42.13269000"
+    },
+    {
+      "id": 12892,
+      "name": "Macaé",
+      "latitude": "-22.38484000",
+      "longitude": "-41.78324000"
+    },
+    {
+      "id": 12903,
+      "name": "Macuco",
+      "latitude": "-22.02427000",
+      "longitude": "-42.27369000"
+    },
+    {
+      "id": 12914,
+      "name": "Magé",
+      "latitude": "-22.63490000",
+      "longitude": "-43.12056000"
+    },
+    {
+      "id": 12947,
+      "name": "Mangaratiba",
+      "latitude": "-22.95972000",
+      "longitude": "-44.04056000"
+    },
+    {
+      "id": 13012,
+      "name": "Maricá",
+      "latitude": "-22.91630000",
+      "longitude": "-42.82203000"
+    },
+    {
+      "id": 13097,
+      "name": "Mendes",
+      "latitude": "-22.54316000",
+      "longitude": "-43.74899000"
+    },
+    {
+      "id": 13104,
+      "name": "Mesquita",
+      "latitude": "-22.78993000",
+      "longitude": "-43.45966000"
+    },
+    {
+      "id": 13112,
+      "name": "Miguel Pereira",
+      "latitude": "-22.45389000",
+      "longitude": "-43.46889000"
+    },
+    {
+      "id": 13132,
+      "name": "Miracema",
+      "latitude": "-21.37442000",
+      "longitude": "-42.15048000"
+    },
+    {
+      "id": 13301,
+      "name": "Natividade",
+      "latitude": "-21.04222000",
+      "longitude": "-41.97333000"
+    },
+    {
+      "id": 13325,
+      "name": "Nilópolis",
+      "latitude": "-22.82106000",
+      "longitude": "-43.42703000"
+    },
+    {
+      "id": 13331,
+      "name": "Niterói",
+      "latitude": "-22.91715000",
+      "longitude": "-43.08391000"
+    },
+    {
+      "id": 13380,
+      "name": "Nova Friburgo",
+      "latitude": "-22.28194000",
+      "longitude": "-42.53111000"
+    },
+    {
+      "id": 13389,
+      "name": "Nova Iguaçu",
+      "latitude": "-22.75917000",
+      "longitude": "-43.45111000"
+    },
+    {
+      "id": 13623,
+      "name": "Paracambi",
+      "latitude": "-22.60829000",
+      "longitude": "-43.70840000"
+    },
+    {
+      "id": 13658,
+      "name": "Paraíba do Sul",
+      "latitude": "-22.15847000",
+      "longitude": "-43.29321000"
+    },
+    {
+      "id": 13654,
+      "name": "Paraty",
+      "latitude": "-23.21778000",
+      "longitude": "-44.71306000"
+    },
+    {
+      "id": 13713,
+      "name": "Paty do Alferes",
+      "latitude": "-22.42861000",
+      "longitude": "-43.41861000"
+    },
+    {
+      "id": 13821,
+      "name": "Petrópolis",
+      "latitude": "-22.38219000",
+      "longitude": "-43.15909000"
+    },
+    {
+      "id": 13866,
+      "name": "Pinheiral",
+      "latitude": "-22.51278000",
+      "longitude": "-44.00056000"
+    },
+    {
+      "id": 13910,
+      "name": "Piraí",
+      "latitude": "-22.62917000",
+      "longitude": "-43.89806000"
+    },
+    {
+      "id": 13984,
+      "name": "Porciúncula",
+      "latitude": "-20.96278000",
+      "longitude": "-42.04083000"
+    },
+    {
+      "id": 14013,
+      "name": "Porto Real",
+      "latitude": "-22.41972000",
+      "longitude": "-44.29028000"
+    },
+    {
+      "id": 14131,
+      "name": "Quatis",
+      "latitude": "-22.40722000",
+      "longitude": "-44.25806000"
+    },
+    {
+      "id": 14141,
+      "name": "Queimados",
+      "latitude": "-22.71611000",
+      "longitude": "-43.55528000"
+    },
+    {
+      "id": 14155,
+      "name": "Quissamã",
+      "latitude": "-22.09574000",
+      "longitude": "-41.39137000"
+    },
+    {
+      "id": 14197,
+      "name": "Resende",
+      "latitude": "-22.46889000",
+      "longitude": "-44.44667000"
+    },
+    {
+      "id": 14261,
+      "name": "Rio Bonito",
+      "latitude": "-22.74390000",
+      "longitude": "-42.61916000"
+    },
+    {
+      "id": 14270,
+      "name": "Rio Claro",
+      "latitude": "-22.77976000",
+      "longitude": "-44.07721000"
+    },
+    {
+      "id": 14305,
+      "name": "Rio das Flores",
+      "latitude": "-22.16104000",
+      "longitude": "-43.57579000"
+    },
+    {
+      "id": 14306,
+      "name": "Rio das Ostras",
+      "latitude": "-22.52694000",
+      "longitude": "-41.94500000"
+    },
+    {
+      "id": 14309,
+      "name": "Rio de Janeiro",
+      "latitude": "-22.92008000",
+      "longitude": "-43.33069000"
+    },
+    {
+      "id": 14504,
+      "name": "Santa Maria Madalena",
+      "latitude": "-21.95791000",
+      "longitude": "-41.90903000"
+    },
+    {
+      "id": 14620,
+      "name": "Santo Antônio de Pádua",
+      "latitude": "-21.57245000",
+      "longitude": "-42.21090000"
+    },
+    {
+      "id": 14878,
+      "name": "São Fidélis",
+      "latitude": "-21.64611000",
+      "longitude": "-41.74694000"
+    },
+    {
+      "id": 14886,
+      "name": "São Francisco de Itabapoana",
+      "latitude": "-21.38002000",
+      "longitude": "-41.14905000"
+    },
+    {
+      "id": 14916,
+      "name": "São Gonçalo",
+      "latitude": "-22.82694000",
+      "longitude": "-43.05389000"
+    },
+    {
+      "id": 15006,
+      "name": "São João da Barra",
+      "latitude": "-21.64028000",
+      "longitude": "-41.05111000"
+    },
+    {
+      "id": 15021,
+      "name": "São João de Meriti",
+      "latitude": "-22.80389000",
+      "longitude": "-43.37222000"
+    },
+    {
+      "id": 14958,
+      "name": "São José de Ubá",
+      "latitude": "-21.37831000",
+      "longitude": "-41.95256000"
+    },
+    {
+      "id": 14989,
+      "name": "São José do Vale do Rio Preto",
+      "latitude": "-22.17062000",
+      "longitude": "-42.91651000"
+    },
+    {
+      "id": 15105,
+      "name": "São Pedro",
+      "latitude": "-22.42313000",
+      "longitude": "-42.96612000"
+    },
+    {
+      "id": 15108,
+      "name": "São Pedro da Aldeia",
+      "latitude": "-22.83917000",
+      "longitude": "-42.10278000"
+    },
+    {
+      "id": 15143,
+      "name": "São Sebastião do Alto",
+      "latitude": "-21.86591000",
+      "longitude": "-42.09585000"
+    },
+    {
+      "id": 14662,
+      "name": "Sapucaia",
+      "latitude": "-22.04085000",
+      "longitude": "-42.81392000"
+    },
+    {
+      "id": 14666,
+      "name": "Saquarema",
+      "latitude": "-22.92000000",
+      "longitude": "-42.51028000"
+    },
+    {
+      "id": 14720,
+      "name": "Seropédica",
+      "latitude": "-22.73876000",
+      "longitude": "-43.70855000"
+    },
+    {
+      "id": 14775,
+      "name": "Silva Jardim",
+      "latitude": "-22.65083000",
+      "longitude": "-42.39167000"
+    },
+    {
+      "id": 14824,
+      "name": "Sumidouro",
+      "latitude": "-22.13179000",
+      "longitude": "-42.66127000"
+    },
+    {
+      "id": 15218,
+      "name": "Tanguá",
+      "latitude": "-22.79184000",
+      "longitude": "-42.71941000"
+    },
+    {
+      "id": 15286,
+      "name": "Teresópolis",
+      "latitude": "-22.31349000",
+      "longitude": "-42.87414000"
+    },
+    {
+      "id": 15350,
+      "name": "Trajano de Moraes",
+      "latitude": "-22.15204000",
+      "longitude": "-42.18834000"
+    },
+    {
+      "id": 15383,
+      "name": "Três Rios",
+      "latitude": "-22.12121000",
+      "longitude": "-43.06617000"
+    },
+    {
+      "id": 15500,
+      "name": "Valença",
+      "latitude": "-22.24020000",
+      "longitude": "-43.87843000"
+    },
+    {
+      "id": 15521,
+      "name": "Varre-Sai",
+      "latitude": "-20.89839000",
+      "longitude": "-41.81982000"
+    },
+    {
+      "id": 15524,
+      "name": "Vassouras",
+      "latitude": "-22.35995000",
+      "longitude": "-43.59809000"
+    },
+    {
+      "id": 15610,
+      "name": "Volta Redonda",
+      "latitude": "-22.52306000",
+      "longitude": "-44.10417000"
+    }
+  ],
+  "country": {
+    "id": 31,
+    "name": "Brazil",
+    "iso3": "BRA",
+    "iso2": "BR",
+    "numeric_code": "076",
+    "phone_code": "55",
+    "capital": "Brasilia",
+    "currency": "BRL",
+    "currency_name": "Brazilian real",
+    "currency_symbol": "R$",
+    "tld": ".br",
+    "native": "Brasil",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Araguaina",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Bahia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Belem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Boa_Vista",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Campo_Grande",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Cuiaba",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasilia Time"
+      },
+      {
+        "zoneName": "America/Eirunepe",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Fortaleza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Maceio",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Manaus",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)"
+      },
+      {
+        "zoneName": "America/Noronha",
+        "gmtOffset": -7200,
+        "gmtOffsetName": "UTC-02:00",
+        "abbreviation": "FNT",
+        "tzName": "Fernando de Noronha Time"
+      },
+      {
+        "zoneName": "America/Porto_Velho",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AMT",
+        "tzName": "Amazon Time (Brazil)[3"
+      },
+      {
+        "zoneName": "America/Recife",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Rio_Branco",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "ACT",
+        "tzName": "Acre Time"
+      },
+      {
+        "zoneName": "America/Santarem",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      },
+      {
+        "zoneName": "America/Sao_Paulo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "BRT",
+        "tzName": "Brasília Time"
+      }
+    ],
+    "translations": {
+      "kr": "브라질",
+      "pt-BR": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "cn": "巴西",
+      "tr": "Brezilya"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-55.00000000",
+    "emoji": "🇧🇷",
+    "emojiU": "U+1F1E7 U+1F1F7"
+  }
+}

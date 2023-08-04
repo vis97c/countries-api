@@ -1,0 +1,126 @@
+{
+  "id": 609,
+  "name": "Lezhë County",
+  "state_code": "08",
+  "latitude": "41.78137590",
+  "longitude": "19.80679160",
+  "type": null,
+  "cities": [
+    {
+      "id": 169,
+      "name": "Bashkia Kurbin",
+      "latitude": "41.62215000",
+      "longitude": "19.70734000"
+    },
+    {
+      "id": 171,
+      "name": "Bashkia Lezhë",
+      "latitude": "41.81320000",
+      "longitude": "19.64121000"
+    },
+    {
+      "id": 178,
+      "name": "Bashkia Mirditë",
+      "latitude": "41.80953000",
+      "longitude": "19.99024000"
+    },
+    {
+      "id": 218,
+      "name": "Kurbnesh",
+      "latitude": "41.77972000",
+      "longitude": "20.08361000"
+    },
+    {
+      "id": 222,
+      "name": "Laç",
+      "latitude": "41.63556000",
+      "longitude": "19.71306000"
+    },
+    {
+      "id": 224,
+      "name": "Lezhë",
+      "latitude": "41.78361000",
+      "longitude": "19.64361000"
+    },
+    {
+      "id": 229,
+      "name": "Mamurras",
+      "latitude": "41.57750000",
+      "longitude": "19.69222000"
+    },
+    {
+      "id": 232,
+      "name": "Milot",
+      "latitude": "41.68389000",
+      "longitude": "19.71556000"
+    },
+    {
+      "id": 261,
+      "name": "Rrëshen",
+      "latitude": "41.76750000",
+      "longitude": "19.87556000"
+    },
+    {
+      "id": 252,
+      "name": "Rrethi i Kurbinit",
+      "latitude": "41.63333000",
+      "longitude": "19.71667000"
+    },
+    {
+      "id": 262,
+      "name": "Rubik",
+      "latitude": "41.77444000",
+      "longitude": "19.78611000"
+    },
+    {
+      "id": 267,
+      "name": "Shëngjin",
+      "latitude": "41.81361000",
+      "longitude": "19.59389000"
+    }
+  ],
+  "country": {
+    "id": 3,
+    "name": "Albania",
+    "iso3": "ALB",
+    "iso2": "AL",
+    "numeric_code": "008",
+    "phone_code": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "currency_name": "Albanian lek",
+    "currency_symbol": "Lek",
+    "tld": ".al",
+    "native": "Shqipëria",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tirane",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알바니아",
+      "pt-BR": "Albânia",
+      "pt": "Albânia",
+      "nl": "Albanië",
+      "hr": "Albanija",
+      "fa": "آلبانی",
+      "de": "Albanien",
+      "es": "Albania",
+      "fr": "Albanie",
+      "ja": "アルバニア",
+      "it": "Albania",
+      "cn": "阿尔巴尼亚",
+      "tr": "Arnavutluk"
+    },
+    "latitude": "41.00000000",
+    "longitude": "20.00000000",
+    "emoji": "🇦🇱",
+    "emojiU": "U+1F1E6 U+1F1F1"
+  }
+}

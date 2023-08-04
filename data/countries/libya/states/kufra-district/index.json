@@ -1,0 +1,66 @@
+{
+  "id": 2972,
+  "name": "Kufra District",
+  "state_code": "KF",
+  "latitude": "23.31123890",
+  "longitude": "21.85685860",
+  "type": null,
+  "cities": [
+    {
+      "id": 66999,
+      "name": "Al Jawf",
+      "latitude": "24.19890000",
+      "longitude": "23.29093000"
+    },
+    {
+      "id": 67005,
+      "name": "At Tāj",
+      "latitude": "24.20487000",
+      "longitude": "23.28570000"
+    }
+  ],
+  "country": {
+    "id": 124,
+    "name": "Libya",
+    "iso3": "LBY",
+    "iso2": "LY",
+    "numeric_code": "434",
+    "phone_code": "218",
+    "capital": "Tripolis",
+    "currency": "LYD",
+    "currency_name": "Libyan dinar",
+    "currency_symbol": "د.ل",
+    "tld": ".ly",
+    "native": "‏ليبيا",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tripoli",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "리비아",
+      "pt-BR": "Líbia",
+      "pt": "Líbia",
+      "nl": "Libië",
+      "hr": "Libija",
+      "fa": "لیبی",
+      "de": "Libyen",
+      "es": "Libia",
+      "fr": "Libye",
+      "ja": "リビア",
+      "it": "Libia",
+      "cn": "利比亚",
+      "tr": "Libya"
+    },
+    "latitude": "25.00000000",
+    "longitude": "17.00000000",
+    "emoji": "🇱🇾",
+    "emojiU": "U+1F1F1 U+1F1FE"
+  }
+}

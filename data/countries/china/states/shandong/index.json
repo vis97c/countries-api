@@ -1,0 +1,601 @@
+{
+  "id": 2252,
+  "name": "Shandong",
+  "state_code": "SD",
+  "latitude": "37.80060640",
+  "longitude": "-122.26999180",
+  "type": "province",
+  "cities": [
+    {
+      "id": 19286,
+      "name": "Anqiu",
+      "latitude": "36.43417000",
+      "longitude": "119.19250000"
+    },
+    {
+      "id": 19335,
+      "name": "Beizhai",
+      "latitude": "36.21972000",
+      "longitude": "120.52889000"
+    },
+    {
+      "id": 19340,
+      "name": "Bianzhuang",
+      "latitude": "34.84861000",
+      "longitude": "118.04472000"
+    },
+    {
+      "id": 19343,
+      "name": "Binzhou",
+      "latitude": "37.36667000",
+      "longitude": "118.01667000"
+    },
+    {
+      "id": 19348,
+      "name": "Boshan",
+      "latitude": "36.48333000",
+      "longitude": "117.83333000"
+    },
+    {
+      "id": 19372,
+      "name": "Changqing",
+      "latitude": "36.55750000",
+      "longitude": "116.72722000"
+    },
+    {
+      "id": 19392,
+      "name": "Chengqu",
+      "latitude": "36.91060000",
+      "longitude": "121.52504000"
+    },
+    {
+      "id": 19393,
+      "name": "Chengtangcun",
+      "latitude": "35.08357000",
+      "longitude": "117.19071000"
+    },
+    {
+      "id": 19395,
+      "name": "Chengyang",
+      "latitude": "35.57944000",
+      "longitude": "118.83278000"
+    },
+    {
+      "id": 19450,
+      "name": "Dengying",
+      "latitude": "36.13889000",
+      "longitude": "120.57417000"
+    },
+    {
+      "id": 19452,
+      "name": "Dengzhou",
+      "latitude": "37.80822000",
+      "longitude": "120.75908000"
+    },
+    {
+      "id": 19455,
+      "name": "Dezhou",
+      "latitude": "37.45127000",
+      "longitude": "116.31046000"
+    },
+    {
+      "id": 19458,
+      "name": "Dingtao",
+      "latitude": "35.07436000",
+      "longitude": "115.56582000"
+    },
+    {
+      "id": 19463,
+      "name": "Dongcun",
+      "latitude": "36.77667000",
+      "longitude": "121.15972000"
+    },
+    {
+      "id": 19465,
+      "name": "Dongdu",
+      "latitude": "35.85000000",
+      "longitude": "117.70000000"
+    },
+    {
+      "id": 19501,
+      "name": "Feicheng",
+      "latitude": "36.24861000",
+      "longitude": "116.76583000"
+    },
+    {
+      "id": 19541,
+      "name": "Gaomi",
+      "latitude": "36.38333000",
+      "longitude": "119.75278000"
+    },
+    {
+      "id": 19599,
+      "name": "Hanting",
+      "latitude": "36.77083000",
+      "longitude": "119.21083000"
+    },
+    {
+      "id": 19621,
+      "name": "Heze",
+      "latitude": "35.23929000",
+      "longitude": "115.47358000"
+    },
+    {
+      "id": 19693,
+      "name": "Jiamaying",
+      "latitude": "37.20806000",
+      "longitude": "115.95000000"
+    },
+    {
+      "id": 19711,
+      "name": "Jiaozhou",
+      "latitude": "36.28389000",
+      "longitude": "120.00333000"
+    },
+    {
+      "id": 19719,
+      "name": "Jiehu",
+      "latitude": "35.54278000",
+      "longitude": "118.45500000"
+    },
+    {
+      "id": 19726,
+      "name": "Jimo",
+      "latitude": "36.38972000",
+      "longitude": "120.46222000"
+    },
+    {
+      "id": 19727,
+      "name": "Jinan",
+      "latitude": "36.66833000",
+      "longitude": "116.99722000"
+    },
+    {
+      "id": 19741,
+      "name": "Jining",
+      "latitude": "35.40500000",
+      "longitude": "116.58139000"
+    },
+    {
+      "id": 19765,
+      "name": "Juye",
+      "latitude": "35.39472000",
+      "longitude": "116.08833000"
+    },
+    {
+      "id": 19782,
+      "name": "Kuiju",
+      "latitude": "36.85361000",
+      "longitude": "119.39083000"
+    },
+    {
+      "id": 19787,
+      "name": "Kutao",
+      "latitude": "36.14500000",
+      "longitude": "120.48778000"
+    },
+    {
+      "id": 19790,
+      "name": "Laiwu",
+      "latitude": "36.19278000",
+      "longitude": "117.65694000"
+    },
+    {
+      "id": 19791,
+      "name": "Laixi",
+      "latitude": "36.85917000",
+      "longitude": "120.52694000"
+    },
+    {
+      "id": 19792,
+      "name": "Laiyang",
+      "latitude": "36.97583000",
+      "longitude": "120.71361000"
+    },
+    {
+      "id": 19793,
+      "name": "Laizhou",
+      "latitude": "37.18073000",
+      "longitude": "119.94217000"
+    },
+    {
+      "id": 19804,
+      "name": "Laocheng",
+      "latitude": "37.14278000",
+      "longitude": "115.88833000"
+    },
+    {
+      "id": 19828,
+      "name": "Liaocheng",
+      "latitude": "36.45596000",
+      "longitude": "115.97766000"
+    },
+    {
+      "id": 19850,
+      "name": "Linqu",
+      "latitude": "36.51556000",
+      "longitude": "118.53972000"
+    },
+    {
+      "id": 19856,
+      "name": "Linyi",
+      "latitude": "35.06306000",
+      "longitude": "118.34278000"
+    },
+    {
+      "id": 19866,
+      "name": "Longgang",
+      "latitude": "37.65181000",
+      "longitude": "120.33063000"
+    },
+    {
+      "id": 19915,
+      "name": "Mengyin",
+      "latitude": "35.70694000",
+      "longitude": "117.92639000"
+    },
+    {
+      "id": 19920,
+      "name": "Mingshui",
+      "latitude": "36.71667000",
+      "longitude": "117.50000000"
+    },
+    {
+      "id": 19927,
+      "name": "Mizhou",
+      "latitude": "35.99472000",
+      "longitude": "119.39750000"
+    },
+    {
+      "id": 19937,
+      "name": "Nanding",
+      "latitude": "36.74833000",
+      "longitude": "118.05583000"
+    },
+    {
+      "id": 19943,
+      "name": "Nanma",
+      "latitude": "36.18478000",
+      "longitude": "118.15486000"
+    },
+    {
+      "id": 19962,
+      "name": "Ninghai",
+      "latitude": "37.38422000",
+      "longitude": "121.60859000"
+    },
+    {
+      "id": 19963,
+      "name": "Ningyang",
+      "latitude": "35.76417000",
+      "longitude": "116.79139000"
+    },
+    {
+      "id": 19978,
+      "name": "Pingdu",
+      "latitude": "36.78444000",
+      "longitude": "119.94639000"
+    },
+    {
+      "id": 19984,
+      "name": "Pingyi",
+      "latitude": "35.50056000",
+      "longitude": "117.63083000"
+    },
+    {
+      "id": 19985,
+      "name": "Pingyin",
+      "latitude": "36.28306000",
+      "longitude": "116.44528000"
+    },
+    {
+      "id": 20016,
+      "name": "Qingdao",
+      "latitude": "36.06488000",
+      "longitude": "120.38042000"
+    },
+    {
+      "id": 20020,
+      "name": "Qingnian",
+      "latitude": "36.84032000",
+      "longitude": "115.71183000"
+    },
+    {
+      "id": 20023,
+      "name": "Qingshancun",
+      "latitude": "36.15415000",
+      "longitude": "120.68240000"
+    },
+    {
+      "id": 20025,
+      "name": "Qingyang",
+      "latitude": "37.49583000",
+      "longitude": "121.25806000"
+    },
+    {
+      "id": 20028,
+      "name": "Qingzhou",
+      "latitude": "36.69667000",
+      "longitude": "118.47972000"
+    },
+    {
+      "id": 20037,
+      "name": "Qufu",
+      "latitude": "35.59667000",
+      "longitude": "116.99111000"
+    },
+    {
+      "id": 20042,
+      "name": "Rizhao",
+      "latitude": "35.42750000",
+      "longitude": "119.45528000"
+    },
+    {
+      "id": 20062,
+      "name": "Shancheng",
+      "latitude": "34.79528000",
+      "longitude": "116.08167000"
+    },
+    {
+      "id": 20075,
+      "name": "Shanting",
+      "latitude": "35.07528000",
+      "longitude": "117.45778000"
+    },
+    {
+      "id": 20086,
+      "name": "Shazikou",
+      "latitude": "36.11500000",
+      "longitude": "120.53722000"
+    },
+    {
+      "id": 20087,
+      "name": "Shengli",
+      "latitude": "37.46271000",
+      "longitude": "118.49165000"
+    },
+    {
+      "id": 20099,
+      "name": "Shilaorencun",
+      "latitude": "36.09723000",
+      "longitude": "120.48910000"
+    },
+    {
+      "id": 20110,
+      "name": "Shizilu",
+      "latitude": "35.17111000",
+      "longitude": "118.82889000"
+    },
+    {
+      "id": 20112,
+      "name": "Shouguang",
+      "latitude": "36.88000000",
+      "longitude": "118.73750000"
+    },
+    {
+      "id": 20131,
+      "name": "Sishui",
+      "latitude": "35.64889000",
+      "longitude": "117.27583000"
+    },
+    {
+      "id": 20148,
+      "name": "Suozhen",
+      "latitude": "36.95389000",
+      "longitude": "118.10472000"
+    },
+    {
+      "id": 20165,
+      "name": "Tai’an",
+      "latitude": "36.18528000",
+      "longitude": "117.12000000"
+    },
+    {
+      "id": 20176,
+      "name": "Taozhuang",
+      "latitude": "34.85000000",
+      "longitude": "117.33333000"
+    },
+    {
+      "id": 20179,
+      "name": "Tianfu",
+      "latitude": "37.19723000",
+      "longitude": "122.05228000"
+    },
+    {
+      "id": 20213,
+      "name": "Weifang",
+      "latitude": "36.71000000",
+      "longitude": "119.10194000"
+    },
+    {
+      "id": 20214,
+      "name": "Weihai",
+      "latitude": "37.50914000",
+      "longitude": "122.11356000"
+    },
+    {
+      "id": 20223,
+      "name": "Wenshang",
+      "latitude": "35.72750000",
+      "longitude": "116.49611000"
+    },
+    {
+      "id": 20277,
+      "name": "Xiazhen",
+      "latitude": "34.80222000",
+      "longitude": "117.11167000"
+    },
+    {
+      "id": 20278,
+      "name": "Xiazhuang",
+      "latitude": "34.91611000",
+      "longitude": "118.63889000"
+    },
+    {
+      "id": 20283,
+      "name": "Xiliguantun",
+      "latitude": "37.07833000",
+      "longitude": "115.94139000"
+    },
+    {
+      "id": 20291,
+      "name": "Xindian",
+      "latitude": "36.79750000",
+      "longitude": "118.29444000"
+    },
+    {
+      "id": 20306,
+      "name": "Xintai",
+      "latitude": "35.90056000",
+      "longitude": "117.75194000"
+    },
+    {
+      "id": 20342,
+      "name": "Yanggu",
+      "latitude": "36.11056000",
+      "longitude": "115.77528000"
+    },
+    {
+      "id": 20355,
+      "name": "Yanta",
+      "latitude": "36.24111000",
+      "longitude": "115.66722000"
+    },
+    {
+      "id": 20356,
+      "name": "Yantai",
+      "latitude": "37.47649000",
+      "longitude": "121.44081000"
+    },
+    {
+      "id": 20359,
+      "name": "Yanzhou",
+      "latitude": "35.55278000",
+      "longitude": "116.82861000"
+    },
+    {
+      "id": 20362,
+      "name": "Yatou",
+      "latitude": "37.15660000",
+      "longitude": "122.43762000"
+    },
+    {
+      "id": 20381,
+      "name": "Yinzhu",
+      "latitude": "35.87861000",
+      "longitude": "119.97528000"
+    },
+    {
+      "id": 20382,
+      "name": "Yishui",
+      "latitude": "35.78472000",
+      "longitude": "118.62806000"
+    },
+    {
+      "id": 20393,
+      "name": "Yucheng",
+      "latitude": "34.92889000",
+      "longitude": "116.46528000"
+    },
+    {
+      "id": 20415,
+      "name": "Zaozhuang",
+      "latitude": "34.86472000",
+      "longitude": "117.55417000"
+    },
+    {
+      "id": 20435,
+      "name": "Zhaoyuan",
+      "latitude": "37.36497000",
+      "longitude": "120.40997000"
+    },
+    {
+      "id": 20458,
+      "name": "Zhoucheng",
+      "latitude": "35.91222000",
+      "longitude": "116.31167000"
+    },
+    {
+      "id": 20459,
+      "name": "Zhoucun",
+      "latitude": "36.81667000",
+      "longitude": "117.81667000"
+    },
+    {
+      "id": 20463,
+      "name": "Zhu Cheng City",
+      "latitude": "35.99502000",
+      "longitude": "119.40259000"
+    },
+    {
+      "id": 20465,
+      "name": "Zhuangyuan",
+      "latitude": "37.30553000",
+      "longitude": "120.82747000"
+    },
+    {
+      "id": 20478,
+      "name": "Zibo",
+      "latitude": "36.79056000",
+      "longitude": "118.06333000"
+    },
+    {
+      "id": 20481,
+      "name": "Zoucheng",
+      "latitude": "35.40056000",
+      "longitude": "116.96556000"
+    }
+  ],
+  "country": {
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phone_code": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "중국",
+      "pt-BR": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین",
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "cn": "中国",
+      "tr": "Çin"
+    },
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  }
+}

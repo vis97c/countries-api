@@ -1,0 +1,103 @@
+{
+  "id": 2262,
+  "name": "Ningxia Huizu",
+  "state_code": "NX",
+  "latitude": "37.19873100",
+  "longitude": "106.15809370",
+  "type": "autonomous region",
+  "cities": [
+    {
+      "id": 19438,
+      "name": "Dawukou",
+      "latitude": "39.04194000",
+      "longitude": "106.39583000"
+    },
+    {
+      "id": 19476,
+      "name": "Dongta",
+      "latitude": "38.08140000",
+      "longitude": "106.34444000"
+    },
+    {
+      "id": 20106,
+      "name": "Shitanjing",
+      "latitude": "39.23417000",
+      "longitude": "106.34389000"
+    },
+    {
+      "id": 20111,
+      "name": "Shizuishan",
+      "latitude": "39.23333000",
+      "longitude": "106.76944000"
+    },
+    {
+      "id": 20246,
+      "name": "Wuzhong",
+      "latitude": "37.98670000",
+      "longitude": "106.20100000"
+    },
+    {
+      "id": 20374,
+      "name": "Yinchuan",
+      "latitude": "38.46806000",
+      "longitude": "106.27306000"
+    },
+    {
+      "id": 20454,
+      "name": "Zhongwei",
+      "latitude": "37.51129000",
+      "longitude": "105.19067000"
+    }
+  ],
+  "country": {
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phone_code": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Shanghai",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      },
+      {
+        "zoneName": "Asia/Urumqi",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "XJT",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "중국",
+      "pt-BR": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین",
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "cn": "中国",
+      "tr": "Çin"
+    },
+    "latitude": "35.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3"
+  }
+}

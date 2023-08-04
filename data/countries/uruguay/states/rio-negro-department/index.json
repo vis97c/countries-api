@@ -1,0 +1,78 @@
+{
+  "id": 3210,
+  "name": "Río Negro Department",
+  "state_code": "RN",
+  "latitude": "-32.76763560",
+  "longitude": "-57.42952070",
+  "type": null,
+  "cities": [
+    {
+      "id": 129806,
+      "name": "Fray Bentos",
+      "latitude": "-33.11651000",
+      "longitude": "-58.31067000"
+    },
+    {
+      "id": 129836,
+      "name": "Nuevo Berlín",
+      "latitude": "-32.97974000",
+      "longitude": "-58.05858000"
+    },
+    {
+      "id": 129863,
+      "name": "San Javier",
+      "latitude": "-32.66523000",
+      "longitude": "-58.13320000"
+    },
+    {
+      "id": 129893,
+      "name": "Young",
+      "latitude": "-32.69844000",
+      "longitude": "-57.62693000"
+    }
+  ],
+  "country": {
+    "id": 235,
+    "name": "Uruguay",
+    "iso3": "URY",
+    "iso2": "UY",
+    "numeric_code": "858",
+    "phone_code": "598",
+    "capital": "Montevideo",
+    "currency": "UYU",
+    "currency_name": "Uruguayan peso",
+    "currency_symbol": "$",
+    "tld": ".uy",
+    "native": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Montevideo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "UYT",
+        "tzName": "Uruguay Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "우루과이",
+      "pt-BR": "Uruguai",
+      "pt": "Uruguai",
+      "nl": "Uruguay",
+      "hr": "Urugvaj",
+      "fa": "اروگوئه",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fr": "Uruguay",
+      "ja": "ウルグアイ",
+      "it": "Uruguay",
+      "cn": "乌拉圭",
+      "tr": "Uruguay"
+    },
+    "latitude": "-33.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇺🇾",
+    "emojiU": "U+1F1FA U+1F1FE"
+  }
+}

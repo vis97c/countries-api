@@ -1,0 +1,948 @@
+{
+  "id": 4600,
+  "name": "Moravskoslezský kraj",
+  "state_code": "80",
+  "latitude": "49.73053270",
+  "longitude": "18.23326370",
+  "type": null,
+  "cities": [
+    {
+      "id": 22108,
+      "name": "Albrechtice",
+      "latitude": "49.78645000",
+      "longitude": "18.52444000"
+    },
+    {
+      "id": 22113,
+      "name": "Bartošovice",
+      "latitude": "49.66884000",
+      "longitude": "18.05461000"
+    },
+    {
+      "id": 22116,
+      "name": "Baška",
+      "latitude": "49.64584000",
+      "longitude": "18.37233000"
+    },
+    {
+      "id": 22194,
+      "name": "Bílovec",
+      "latitude": "49.75639000",
+      "longitude": "18.01581000"
+    },
+    {
+      "id": 22139,
+      "name": "Bohumín",
+      "latitude": "49.90411000",
+      "longitude": "18.35755000"
+    },
+    {
+      "id": 22140,
+      "name": "Bohuslavice",
+      "latitude": "49.94232000",
+      "longitude": "18.12866000"
+    },
+    {
+      "id": 22145,
+      "name": "Bolatice",
+      "latitude": "49.95172000",
+      "longitude": "18.08358000"
+    },
+    {
+      "id": 22161,
+      "name": "Brantice",
+      "latitude": "50.06351000",
+      "longitude": "17.62911000"
+    },
+    {
+      "id": 22210,
+      "name": "Březová",
+      "latitude": "49.79158000",
+      "longitude": "17.86556000"
+    },
+    {
+      "id": 22214,
+      "name": "Břidličná",
+      "latitude": "49.91167000",
+      "longitude": "17.37107000"
+    },
+    {
+      "id": 22171,
+      "name": "Brumovice",
+      "latitude": "50.01530000",
+      "longitude": "17.74958000"
+    },
+    {
+      "id": 22172,
+      "name": "Bruntál",
+      "latitude": "49.98844000",
+      "longitude": "17.46470000"
+    },
+    {
+      "id": 22173,
+      "name": "Brušperk",
+      "latitude": "49.70010000",
+      "longitude": "18.22210000"
+    },
+    {
+      "id": 22176,
+      "name": "Budišov nad Budišovkou",
+      "latitude": "49.79511000",
+      "longitude": "17.62969000"
+    },
+    {
+      "id": 22179,
+      "name": "Bukovec",
+      "latitude": "49.55114000",
+      "longitude": "18.82683000"
+    },
+    {
+      "id": 22186,
+      "name": "Bystřice",
+      "latitude": "49.63657000",
+      "longitude": "18.72038000"
+    },
+    {
+      "id": 23367,
+      "name": "Čeladná",
+      "latitude": "49.54873000",
+      "longitude": "18.33759000"
+    },
+    {
+      "id": 23395,
+      "name": "Český Těšín",
+      "latitude": "49.74613000",
+      "longitude": "18.62613000"
+    },
+    {
+      "id": 22218,
+      "name": "Chlebičov",
+      "latitude": "49.95942000",
+      "longitude": "17.96748000"
+    },
+    {
+      "id": 22229,
+      "name": "Chotěbuz",
+      "latitude": "49.76849000",
+      "longitude": "18.56912000"
+    },
+    {
+      "id": 22237,
+      "name": "Chuchelná",
+      "latitude": "49.98664000",
+      "longitude": "18.11656000"
+    },
+    {
+      "id": 22250,
+      "name": "Darkovice",
+      "latitude": "49.93592000",
+      "longitude": "18.22213000"
+    },
+    {
+      "id": 22321,
+      "name": "Dětmarovice",
+      "latitude": "49.89412000",
+      "longitude": "18.46079000"
+    },
+    {
+      "id": 22262,
+      "name": "Dobrá",
+      "latitude": "49.67383000",
+      "longitude": "18.41393000"
+    },
+    {
+      "id": 22257,
+      "name": "Dobratice",
+      "latitude": "49.66039000",
+      "longitude": "18.49226000"
+    },
+    {
+      "id": 22271,
+      "name": "Dolní Benešov",
+      "latitude": "49.92101000",
+      "longitude": "18.10835000"
+    },
+    {
+      "id": 22284,
+      "name": "Dolní Lhota",
+      "latitude": "49.84236000",
+      "longitude": "18.09241000"
+    },
+    {
+      "id": 22286,
+      "name": "Dolní Lutyně",
+      "latitude": "49.89876000",
+      "longitude": "18.42815000"
+    },
+    {
+      "id": 22300,
+      "name": "Dolní Životice",
+      "latitude": "49.89732000",
+      "longitude": "17.77969000"
+    },
+    {
+      "id": 22304,
+      "name": "Doubrava",
+      "latitude": "49.85873000",
+      "longitude": "18.48018000"
+    },
+    {
+      "id": 22318,
+      "name": "Dvorce",
+      "latitude": "49.83332000",
+      "longitude": "17.54762000"
+    },
+    {
+      "id": 22327,
+      "name": "Frenštát pod Radhoštěm",
+      "latitude": "49.54835000",
+      "longitude": "18.21078000"
+    },
+    {
+      "id": 22329,
+      "name": "Fryčovice",
+      "latitude": "49.66677000",
+      "longitude": "18.22321000"
+    },
+    {
+      "id": 22331,
+      "name": "Frýdek-Místek",
+      "latitude": "49.68333000",
+      "longitude": "18.35000000"
+    },
+    {
+      "id": 22333,
+      "name": "Frýdlant nad Ostravicí",
+      "latitude": "49.59280000",
+      "longitude": "18.35967000"
+    },
+    {
+      "id": 22334,
+      "name": "Fulnek",
+      "latitude": "49.71238000",
+      "longitude": "17.90319000"
+    },
+    {
+      "id": 22440,
+      "name": "Háj ve Slezsku",
+      "latitude": "49.89856000",
+      "longitude": "18.09540000"
+    },
+    {
+      "id": 22347,
+      "name": "Hať",
+      "latitude": "49.94644000",
+      "longitude": "18.23931000"
+    },
+    {
+      "id": 22345,
+      "name": "Havířov",
+      "latitude": "49.77984000",
+      "longitude": "18.43688000"
+    },
+    {
+      "id": 22358,
+      "name": "Hlučín",
+      "latitude": "49.89795000",
+      "longitude": "18.19196000"
+    },
+    {
+      "id": 22361,
+      "name": "Hněvošice",
+      "latitude": "50.00299000",
+      "longitude": "18.00829000"
+    },
+    {
+      "id": 22359,
+      "name": "Hnojník",
+      "latitude": "49.68250000",
+      "longitude": "18.54143000"
+    },
+    {
+      "id": 22366,
+      "name": "Hodslavice",
+      "latitude": "49.53856000",
+      "longitude": "18.02367000"
+    },
+    {
+      "id": 22367,
+      "name": "Holasovice",
+      "latitude": "49.99843000",
+      "longitude": "17.80847000"
+    },
+    {
+      "id": 22374,
+      "name": "Horní Benešov",
+      "latitude": "49.96682000",
+      "longitude": "17.60262000"
+    },
+    {
+      "id": 22376,
+      "name": "Horní Bludovice",
+      "latitude": "49.74965000",
+      "longitude": "18.43677000"
+    },
+    {
+      "id": 22384,
+      "name": "Horní Město",
+      "latitude": "49.90845000",
+      "longitude": "17.21112000"
+    },
+    {
+      "id": 22391,
+      "name": "Horní Suchá",
+      "latitude": "49.79780000",
+      "longitude": "18.48189000"
+    },
+    {
+      "id": 22392,
+      "name": "Horní Těrlicko",
+      "latitude": "49.75177000",
+      "longitude": "18.48290000"
+    },
+    {
+      "id": 22411,
+      "name": "Hrabyně",
+      "latitude": "49.88249000",
+      "longitude": "18.05483000"
+    },
+    {
+      "id": 22413,
+      "name": "Hradec nad Moravici",
+      "latitude": "49.87042000",
+      "longitude": "17.87843000"
+    },
+    {
+      "id": 22429,
+      "name": "Hrádek",
+      "latitude": "49.61661000",
+      "longitude": "18.73720000"
+    },
+    {
+      "id": 22433,
+      "name": "Hukvaldy",
+      "latitude": "49.62381000",
+      "longitude": "18.22189000"
+    },
+    {
+      "id": 22449,
+      "name": "Jablunkov",
+      "latitude": "49.57672000",
+      "longitude": "18.76458000"
+    },
+    {
+      "id": 22451,
+      "name": "Jakartovice",
+      "latitude": "49.91510000",
+      "longitude": "17.68400000"
+    },
+    {
+      "id": 22454,
+      "name": "Janovice",
+      "latitude": "49.62141000",
+      "longitude": "18.40602000"
+    },
+    {
+      "id": 22468,
+      "name": "Jeseník nad Odrou",
+      "latitude": "49.61194000",
+      "longitude": "17.90526000"
+    },
+    {
+      "id": 22475,
+      "name": "Jindřichov",
+      "latitude": "50.25184000",
+      "longitude": "17.51903000"
+    },
+    {
+      "id": 22480,
+      "name": "Jistebník",
+      "latitude": "49.75400000",
+      "longitude": "18.13063000"
+    },
+    {
+      "id": 22497,
+      "name": "Karlovice",
+      "latitude": "50.10564000",
+      "longitude": "17.44563000"
+    },
+    {
+      "id": 22501,
+      "name": "Karviná",
+      "latitude": "49.85400000",
+      "longitude": "18.54169000"
+    },
+    {
+      "id": 22515,
+      "name": "Klimkovice",
+      "latitude": "49.78809000",
+      "longitude": "18.12585000"
+    },
+    {
+      "id": 22524,
+      "name": "Kobeřice",
+      "latitude": "49.98548000",
+      "longitude": "18.05212000"
+    },
+    {
+      "id": 22530,
+      "name": "Komorní Lhotka",
+      "latitude": "49.65811000",
+      "longitude": "18.52777000"
+    },
+    {
+      "id": 22534,
+      "name": "Kopřivnice",
+      "latitude": "49.59947000",
+      "longitude": "18.14480000"
+    },
+    {
+      "id": 22547,
+      "name": "Kozlovice",
+      "latitude": "49.59040000",
+      "longitude": "18.25656000"
+    },
+    {
+      "id": 22548,
+      "name": "Kozmice",
+      "latitude": "49.91280000",
+      "longitude": "18.15584000"
+    },
+    {
+      "id": 22557,
+      "name": "Kravaře",
+      "latitude": "49.93203000",
+      "longitude": "18.00472000"
+    },
+    {
+      "id": 22558,
+      "name": "Krmelín",
+      "latitude": "49.72914000",
+      "longitude": "18.23541000"
+    },
+    {
+      "id": 22559,
+      "name": "Krnov",
+      "latitude": "50.08967000",
+      "longitude": "17.70385000"
+    },
+    {
+      "id": 22572,
+      "name": "Kunčice pod Ondřejníkem",
+      "latitude": "49.55070000",
+      "longitude": "18.26113000"
+    },
+    {
+      "id": 22571,
+      "name": "Kunín",
+      "latitude": "49.63377000",
+      "longitude": "17.98965000"
+    },
+    {
+      "id": 22614,
+      "name": "Lichnov",
+      "latitude": "50.00786000",
+      "longitude": "17.62640000"
+    },
+    {
+      "id": 22615,
+      "name": "Lichnov (o. Nový Jičín)",
+      "latitude": "49.56423000",
+      "longitude": "18.16898000"
+    },
+    {
+      "id": 22653,
+      "name": "Lučina",
+      "latitude": "49.72082000",
+      "longitude": "18.44776000"
+    },
+    {
+      "id": 22645,
+      "name": "Ludgeřovice",
+      "latitude": "49.89042000",
+      "longitude": "18.24008000"
+    },
+    {
+      "id": 22677,
+      "name": "Markvartovice",
+      "latitude": "49.90595000",
+      "longitude": "18.23602000"
+    },
+    {
+      "id": 22741,
+      "name": "Město Albrechtice",
+      "latitude": "50.16294000",
+      "longitude": "17.57481000"
+    },
+    {
+      "id": 22682,
+      "name": "Metylovice",
+      "latitude": "49.60666000",
+      "longitude": "18.33911000"
+    },
+    {
+      "id": 22692,
+      "name": "Milíkov",
+      "latitude": "49.58565000",
+      "longitude": "18.71943000"
+    },
+    {
+      "id": 22713,
+      "name": "Mokré Lazce",
+      "latitude": "49.90462000",
+      "longitude": "18.02954000"
+    },
+    {
+      "id": 22724,
+      "name": "Morávka",
+      "latitude": "49.59607000",
+      "longitude": "18.52471000"
+    },
+    {
+      "id": 22730,
+      "name": "Mořkov",
+      "latitude": "49.53684000",
+      "longitude": "18.05968000"
+    },
+    {
+      "id": 22728,
+      "name": "Mosty u Jablunkova",
+      "latitude": "49.52737000",
+      "longitude": "18.75417000"
+    },
+    {
+      "id": 22796,
+      "name": "Návsí u Jablunkova",
+      "latitude": "49.58720000",
+      "longitude": "18.75907000"
+    },
+    {
+      "id": 22788,
+      "name": "Nový Jičín",
+      "latitude": "49.59438000",
+      "longitude": "18.01028000"
+    },
+    {
+      "id": 22797,
+      "name": "Nýdek",
+      "latitude": "49.65609000",
+      "longitude": "18.75687000"
+    },
+    {
+      "id": 22804,
+      "name": "Odry",
+      "latitude": "49.66255000",
+      "longitude": "17.83084000"
+    },
+    {
+      "id": 22810,
+      "name": "Okres Bruntál",
+      "latitude": "50.00000000",
+      "longitude": "17.41667000"
+    },
+    {
+      "id": 22817,
+      "name": "Okres Frýdek-Místek",
+      "latitude": "49.58333000",
+      "longitude": "18.50000000"
+    },
+    {
+      "id": 22827,
+      "name": "Okres Karviná",
+      "latitude": "49.83333000",
+      "longitude": "18.50000000"
+    },
+    {
+      "id": 22839,
+      "name": "Okres Nový Jičín",
+      "latitude": "49.66667000",
+      "longitude": "18.00000000"
+    },
+    {
+      "id": 22843,
+      "name": "Okres Opava",
+      "latitude": "49.83333000",
+      "longitude": "17.91667000"
+    },
+    {
+      "id": 22844,
+      "name": "Okres Ostrava-město",
+      "latitude": "49.83333000",
+      "longitude": "18.25000000"
+    },
+    {
+      "id": 22884,
+      "name": "Oldřišov",
+      "latitude": "49.99130000",
+      "longitude": "17.96074000"
+    },
+    {
+      "id": 22892,
+      "name": "Opava",
+      "latitude": "49.93866000",
+      "longitude": "17.90257000"
+    },
+    {
+      "id": 22895,
+      "name": "Orlová",
+      "latitude": "49.84527000",
+      "longitude": "18.43011000"
+    },
+    {
+      "id": 22902,
+      "name": "Osoblaha",
+      "latitude": "50.27517000",
+      "longitude": "17.71523000"
+    },
+    {
+      "id": 22904,
+      "name": "Ostrava",
+      "latitude": "49.83465000",
+      "longitude": "18.28204000"
+    },
+    {
+      "id": 22905,
+      "name": "Ostravice",
+      "latitude": "49.53510000",
+      "longitude": "18.39164000"
+    },
+    {
+      "id": 22913,
+      "name": "Otice",
+      "latitude": "49.91684000",
+      "longitude": "17.86982000"
+    },
+    {
+      "id": 22918,
+      "name": "Palkovice",
+      "latitude": "49.63467000",
+      "longitude": "18.31508000"
+    },
+    {
+      "id": 22921,
+      "name": "Paskov",
+      "latitude": "49.73179000",
+      "longitude": "18.29037000"
+    },
+    {
+      "id": 22930,
+      "name": "Petrovice u Karviné",
+      "latitude": "49.89587000",
+      "longitude": "18.54779000"
+    },
+    {
+      "id": 22931,
+      "name": "Petřvald",
+      "latitude": "49.83100000",
+      "longitude": "18.38940000"
+    },
+    {
+      "id": 22992,
+      "name": "Písek",
+      "latitude": "49.55924000",
+      "longitude": "18.80231000"
+    },
+    {
+      "id": 22995,
+      "name": "Píšť",
+      "latitude": "49.97857000",
+      "longitude": "18.19349000"
+    },
+    {
+      "id": 22975,
+      "name": "Pražmo",
+      "latitude": "49.60876000",
+      "longitude": "18.48617000"
+    },
+    {
+      "id": 23007,
+      "name": "Příbor",
+      "latitude": "49.64094000",
+      "longitude": "18.14499000"
+    },
+    {
+      "id": 22990,
+      "name": "Pustá Polom",
+      "latitude": "49.84917000",
+      "longitude": "17.99790000"
+    },
+    {
+      "id": 23026,
+      "name": "Raškovice",
+      "latitude": "49.61975000",
+      "longitude": "18.47286000"
+    },
+    {
+      "id": 23401,
+      "name": "Řepiště",
+      "latitude": "49.73338000",
+      "longitude": "18.31707000"
+    },
+    {
+      "id": 23033,
+      "name": "Ropice",
+      "latitude": "49.70536000",
+      "longitude": "18.61345000"
+    },
+    {
+      "id": 23052,
+      "name": "Rybí",
+      "latitude": "49.60073000",
+      "longitude": "18.07592000"
+    },
+    {
+      "id": 23054,
+      "name": "Rychvald",
+      "latitude": "49.86625000",
+      "longitude": "18.37626000"
+    },
+    {
+      "id": 23057,
+      "name": "Rýmařov",
+      "latitude": "49.93183000",
+      "longitude": "17.27177000"
+    },
+    {
+      "id": 23064,
+      "name": "Sedliště",
+      "latitude": "49.71836000",
+      "longitude": "18.36869000"
+    },
+    {
+      "id": 23065,
+      "name": "Sedlnice",
+      "latitude": "49.65770000",
+      "longitude": "18.08690000"
+    },
+    {
+      "id": 23412,
+      "name": "Šenov",
+      "latitude": "49.79315000",
+      "longitude": "18.37607000"
+    },
+    {
+      "id": 23415,
+      "name": "Šilheřovice",
+      "latitude": "49.92602000",
+      "longitude": "18.27017000"
+    },
+    {
+      "id": 23081,
+      "name": "Slavkov",
+      "latitude": "49.92180000",
+      "longitude": "17.83641000"
+    },
+    {
+      "id": 23102,
+      "name": "Stará Ves nad Ondřejnicí",
+      "latitude": "49.72775000",
+      "longitude": "18.18850000"
+    },
+    {
+      "id": 23105,
+      "name": "Staré Město",
+      "latitude": "49.66992000",
+      "longitude": "18.36349000"
+    },
+    {
+      "id": 23116,
+      "name": "Staříč",
+      "latitude": "49.68594000",
+      "longitude": "18.27281000"
+    },
+    {
+      "id": 23110,
+      "name": "Starý Bohumín",
+      "latitude": "49.91690000",
+      "longitude": "18.33619000"
+    },
+    {
+      "id": 23111,
+      "name": "Starý Jičín",
+      "latitude": "49.57686000",
+      "longitude": "17.96169000"
+    },
+    {
+      "id": 23135,
+      "name": "Stěbořice",
+      "latitude": "49.93708000",
+      "longitude": "17.80547000"
+    },
+    {
+      "id": 23428,
+      "name": "Štěpánkovice",
+      "latitude": "49.95738000",
+      "longitude": "18.03741000"
+    },
+    {
+      "id": 23423,
+      "name": "Štítina",
+      "latitude": "49.91487000",
+      "longitude": "18.01245000"
+    },
+    {
+      "id": 23119,
+      "name": "Stonava",
+      "latitude": "49.81691000",
+      "longitude": "18.52518000"
+    },
+    {
+      "id": 23422,
+      "name": "Štramberk",
+      "latitude": "49.59181000",
+      "longitude": "18.11741000"
+    },
+    {
+      "id": 23134,
+      "name": "Studénka",
+      "latitude": "49.72342000",
+      "longitude": "18.07853000"
+    },
+    {
+      "id": 23148,
+      "name": "Sviadnov",
+      "latitude": "49.68926000",
+      "longitude": "18.32762000"
+    },
+    {
+      "id": 23164,
+      "name": "Tichá",
+      "latitude": "49.56999000",
+      "longitude": "18.22148000"
+    },
+    {
+      "id": 23205,
+      "name": "Třinec",
+      "latitude": "49.67763000",
+      "longitude": "18.67078000"
+    },
+    {
+      "id": 23177,
+      "name": "Trojanovice",
+      "latitude": "49.52039000",
+      "longitude": "18.23800000"
+    },
+    {
+      "id": 23310,
+      "name": "Václavovice",
+      "latitude": "49.75531000",
+      "longitude": "18.37220000"
+    },
+    {
+      "id": 23234,
+      "name": "Velká Polom",
+      "latitude": "49.86359000",
+      "longitude": "18.09331000"
+    },
+    {
+      "id": 23239,
+      "name": "Velké Heraltice",
+      "latitude": "49.97493000",
+      "longitude": "17.72879000"
+    },
+    {
+      "id": 23240,
+      "name": "Velké Hoštice",
+      "latitude": "49.93609000",
+      "longitude": "17.97380000"
+    },
+    {
+      "id": 23259,
+      "name": "Vendryně",
+      "latitude": "49.66662000",
+      "longitude": "18.71307000"
+    },
+    {
+      "id": 23265,
+      "name": "Veřovice",
+      "latitude": "49.53916000",
+      "longitude": "18.11425000"
+    },
+    {
+      "id": 23312,
+      "name": "Vítkov",
+      "latitude": "49.77445000",
+      "longitude": "17.74941000"
+    },
+    {
+      "id": 23283,
+      "name": "Vlčnov",
+      "latitude": "49.57866000",
+      "longitude": "17.95458000"
+    },
+    {
+      "id": 23294,
+      "name": "Vratimov",
+      "latitude": "49.76995000",
+      "longitude": "18.31015000"
+    },
+    {
+      "id": 23296,
+      "name": "Vrbice",
+      "latitude": "49.88333000",
+      "longitude": "18.31667000"
+    },
+    {
+      "id": 23297,
+      "name": "Vrbno pod Pradědem",
+      "latitude": "50.12095000",
+      "longitude": "17.38316000"
+    },
+    {
+      "id": 23316,
+      "name": "Vřesina",
+      "latitude": "49.82418000",
+      "longitude": "18.12569000"
+    },
+    {
+      "id": 23352,
+      "name": "Zátor",
+      "latitude": "50.03413000",
+      "longitude": "17.59296000"
+    }
+  ],
+  "country": {
+    "id": 58,
+    "name": "Czech Republic",
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "numeric_code": "203",
+    "phone_code": "420",
+    "capital": "Prague",
+    "currency": "CZK",
+    "currency_name": "Czech koruna",
+    "currency_symbol": "Kč",
+    "tld": ".cz",
+    "native": "Česká republika",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Prague",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "체코",
+      "pt-BR": "República Tcheca",
+      "pt": "República Checa",
+      "nl": "Tsjechië",
+      "hr": "Češka",
+      "fa": "جمهوری چک",
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "fr": "République tchèque",
+      "ja": "チェコ",
+      "it": "Repubblica Ceca",
+      "cn": "捷克",
+      "tr": "Çekya"
+    },
+    "latitude": "49.75000000",
+    "longitude": "15.50000000",
+    "emoji": "🇨🇿",
+    "emojiU": "U+1F1E8 U+1F1FF"
+  }
+}

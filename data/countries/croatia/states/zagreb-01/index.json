@@ -1,0 +1,162 @@
+{
+  "id": 738,
+  "name": "Zagreb 01",
+  "state_code": "21",
+  "latitude": "45.81501080",
+  "longitude": "15.98191890",
+  "type": "city",
+  "cities": [
+    {
+      "id": 54419,
+      "name": "Brezovica",
+      "latitude": "45.72919000",
+      "longitude": "15.91069000"
+    },
+    {
+      "id": 54438,
+      "name": "Centar",
+      "latitude": "45.81313000",
+      "longitude": "15.97753000"
+    },
+    {
+      "id": 54470,
+      "name": "Dubrava",
+      "latitude": "45.83361000",
+      "longitude": "16.06361000"
+    },
+    {
+      "id": 54579,
+      "name": "Gradska četvrt Donji grad",
+      "latitude": "45.80834000",
+      "longitude": "15.96949000"
+    },
+    {
+      "id": 54580,
+      "name": "Gradska četvrt Gornji Grad - Medvescak",
+      "latitude": "45.82820000",
+      "longitude": "15.97938000"
+    },
+    {
+      "id": 54581,
+      "name": "Gradska četvrt Podsljeme",
+      "latitude": "45.86097000",
+      "longitude": "15.97996000"
+    },
+    {
+      "id": 54596,
+      "name": "Horvati",
+      "latitude": "45.70000000",
+      "longitude": "15.81667000"
+    },
+    {
+      "id": 54615,
+      "name": "Jankomir",
+      "latitude": "45.79167000",
+      "longitude": "15.90000000"
+    },
+    {
+      "id": 54623,
+      "name": "Ježdovec",
+      "latitude": "45.78333000",
+      "longitude": "15.85000000"
+    },
+    {
+      "id": 54636,
+      "name": "Kašina",
+      "latitude": "45.91134000",
+      "longitude": "16.12436000"
+    },
+    {
+      "id": 54707,
+      "name": "Lučko",
+      "latitude": "45.76111000",
+      "longitude": "15.87028000"
+    },
+    {
+      "id": 54760,
+      "name": "Novi Zagreb",
+      "latitude": "45.78333000",
+      "longitude": "15.98333000"
+    },
+    {
+      "id": 54771,
+      "name": "Odra",
+      "latitude": "45.72979000",
+      "longitude": "15.99240000"
+    },
+    {
+      "id": 54885,
+      "name": "Sesvete",
+      "latitude": "45.83333000",
+      "longitude": "16.13333000"
+    },
+    {
+      "id": 54912,
+      "name": "Stenjevec",
+      "latitude": "45.80846000",
+      "longitude": "15.88245000"
+    },
+    {
+      "id": 54917,
+      "name": "Strmec",
+      "latitude": "45.70843000",
+      "longitude": "15.91674000"
+    },
+    {
+      "id": 55003,
+      "name": "Zadvorsko",
+      "latitude": "45.71978000",
+      "longitude": "15.90880000"
+    },
+    {
+      "id": 55004,
+      "name": "Zagreb",
+      "latitude": "45.81444000",
+      "longitude": "15.97798000"
+    }
+  ],
+  "country": {
+    "id": 55,
+    "name": "Croatia",
+    "iso3": "HRV",
+    "iso2": "HR",
+    "numeric_code": "191",
+    "phone_code": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "currency_name": "Croatian kuna",
+    "currency_symbol": "kn",
+    "tld": ".hr",
+    "native": "Hrvatska",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zagreb",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "크로아티아",
+      "pt-BR": "Croácia",
+      "pt": "Croácia",
+      "nl": "Kroatië",
+      "hr": "Hrvatska",
+      "fa": "کرواسی",
+      "de": "Kroatien",
+      "es": "Croacia",
+      "fr": "Croatie",
+      "ja": "クロアチア",
+      "it": "Croazia",
+      "cn": "克罗地亚",
+      "tr": "Hirvatistan"
+    },
+    "latitude": "45.16666666",
+    "longitude": "15.50000000",
+    "emoji": "🇭🇷",
+    "emojiU": "U+1F1ED U+1F1F7"
+  }
+}

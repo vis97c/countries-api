@@ -1,0 +1,84 @@
+{
+  "id": 311,
+  "name": "Ebonyi",
+  "state_code": "EB",
+  "latitude": "6.26492320",
+  "longitude": "8.01373020",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76745,
+      "name": "Abakaliki",
+      "latitude": "6.32485000",
+      "longitude": "8.11368000"
+    },
+    {
+      "id": 76754,
+      "name": "Afikpo",
+      "latitude": "5.89258000",
+      "longitude": "7.93534000"
+    },
+    {
+      "id": 76852,
+      "name": "Effium",
+      "latitude": "6.63105000",
+      "longitude": "8.05814000"
+    },
+    {
+      "id": 76867,
+      "name": "Ezza-Ohu",
+      "latitude": "6.44094000",
+      "longitude": "8.08432000"
+    },
+    {
+      "id": 76954,
+      "name": "Isieke",
+      "latitude": "6.38186000",
+      "longitude": "8.03736000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

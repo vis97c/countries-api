@@ -1,0 +1,168 @@
+{
+  "id": 4021,
+  "name": "Delhi",
+  "state_code": "DL",
+  "latitude": "28.70405920",
+  "longitude": "77.10249020",
+  "type": "Union territory",
+  "cities": [
+    {
+      "id": 57655,
+      "name": "Alipur",
+      "latitude": "28.79862000",
+      "longitude": "77.13314000"
+    },
+    {
+      "id": 57909,
+      "name": "Bawana",
+      "latitude": "28.79820000",
+      "longitude": "77.03431000"
+    },
+    {
+      "id": 58171,
+      "name": "Central Delhi",
+      "latitude": "28.64857000",
+      "longitude": "77.21895000"
+    },
+    {
+      "id": 131679,
+      "name": "Delhi",
+      "latitude": "28.65195000",
+      "longitude": "77.23149000"
+    },
+    {
+      "id": 131687,
+      "name": "Deoli",
+      "latitude": "28.50254000",
+      "longitude": "77.23117000"
+    },
+    {
+      "id": 131821,
+      "name": "East Delhi",
+      "latitude": "28.66242000",
+      "longitude": "77.29122000"
+    },
+    {
+      "id": 132406,
+      "name": "Karol Bagh",
+      "latitude": "28.65136000",
+      "longitude": "77.19072000"
+    },
+    {
+      "id": 133126,
+      "name": "Najafgarh",
+      "latitude": "28.60922000",
+      "longitude": "76.97982000"
+    },
+    {
+      "id": 133269,
+      "name": "Nangloi Jat",
+      "latitude": "28.67957000",
+      "longitude": "77.06799000"
+    },
+    {
+      "id": 133165,
+      "name": "Narela",
+      "latitude": "28.85267000",
+      "longitude": "77.09288000"
+    },
+    {
+      "id": 133210,
+      "name": "New Delhi",
+      "latitude": "28.63576000",
+      "longitude": "77.22445000"
+    },
+    {
+      "id": 133234,
+      "name": "North Delhi",
+      "latitude": "28.66920000",
+      "longitude": "77.22273000"
+    },
+    {
+      "id": 133236,
+      "name": "North East Delhi",
+      "latitude": "28.68690000",
+      "longitude": "77.30195000"
+    },
+    {
+      "id": 133243,
+      "name": "North West Delhi",
+      "latitude": "28.70113000",
+      "longitude": "77.10154000"
+    },
+    {
+      "id": 133461,
+      "name": "Pitampura",
+      "latitude": "28.68964000",
+      "longitude": "77.13126000"
+    },
+    {
+      "id": 133645,
+      "name": "Rohini",
+      "latitude": "28.74322000",
+      "longitude": "77.06778000"
+    },
+    {
+      "id": 134007,
+      "name": "South Delhi",
+      "latitude": "28.53009000",
+      "longitude": "77.25174000"
+    },
+    {
+      "id": 134012,
+      "name": "South West Delhi",
+      "latitude": "28.58060000",
+      "longitude": "77.06720000"
+    },
+    {
+      "id": 134404,
+      "name": "West Delhi",
+      "latitude": "28.65655000",
+      "longitude": "77.10068000"
+    }
+  ],
+  "country": {
+    "id": 101,
+    "name": "India",
+    "iso3": "IND",
+    "iso2": "IN",
+    "numeric_code": "356",
+    "phone_code": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currency_name": "Indian rupee",
+    "currency_symbol": "₹",
+    "tld": ".in",
+    "native": "भारत",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kolkata",
+        "gmtOffset": 19800,
+        "gmtOffsetName": "UTC+05:30",
+        "abbreviation": "IST",
+        "tzName": "Indian Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도",
+      "pt-BR": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند",
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "cn": "印度",
+      "tr": "Hindistan"
+    },
+    "latitude": "20.00000000",
+    "longitude": "77.00000000",
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+  }
+}

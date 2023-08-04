@@ -1,0 +1,78 @@
+{
+  "id": 480,
+  "name": "Diourbel Region",
+  "state_code": "DB",
+  "latitude": "14.72830850",
+  "longitude": "-16.25221430",
+  "type": null,
+  "cities": [
+    {
+      "id": 104734,
+      "name": "Mbacké",
+      "latitude": "14.80828000",
+      "longitude": "-15.86454000"
+    },
+    {
+      "id": 104735,
+      "name": "Mbaké",
+      "latitude": "14.79032000",
+      "longitude": "-15.90803000"
+    },
+    {
+      "id": 104769,
+      "name": "Tiébo",
+      "latitude": "14.63333000",
+      "longitude": "-16.23333000"
+    },
+    {
+      "id": 104770,
+      "name": "Touba",
+      "latitude": "14.85000000",
+      "longitude": "-15.88333000"
+    }
+  ],
+  "country": {
+    "id": 195,
+    "name": "Senegal",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "numeric_code": "686",
+    "phone_code": "221",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "native": "Sénégal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "세네갈",
+      "pt-BR": "Senegal",
+      "pt": "Senegal",
+      "nl": "Senegal",
+      "hr": "Senegal",
+      "fa": "سنگال",
+      "de": "Senegal",
+      "es": "Senegal",
+      "fr": "Sénégal",
+      "ja": "セネガル",
+      "it": "Senegal",
+      "cn": "塞内加尔",
+      "tr": "Senegal"
+    },
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
+  }
+}

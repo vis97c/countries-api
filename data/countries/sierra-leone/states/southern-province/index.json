@@ -1,0 +1,210 @@
+{
+  "id": 912,
+  "name": "Southern Province",
+  "state_code": "S",
+  "latitude": null,
+  "longitude": null,
+  "type": null,
+  "cities": [
+    {
+      "id": 104604,
+      "name": "Baiima",
+      "latitude": "8.10826000",
+      "longitude": "-11.84772000"
+    },
+    {
+      "id": 104605,
+      "name": "Baoma",
+      "latitude": "7.99344000",
+      "longitude": "-11.71468000"
+    },
+    {
+      "id": 104610,
+      "name": "Bo",
+      "latitude": "7.96472000",
+      "longitude": "-11.73833000"
+    },
+    {
+      "id": 104611,
+      "name": "Bo District",
+      "latitude": "7.98877000",
+      "longitude": "-11.67340000"
+    },
+    {
+      "id": 104614,
+      "name": "Bomi",
+      "latitude": "7.24611000",
+      "longitude": "-11.52583000"
+    },
+    {
+      "id": 104615,
+      "name": "Bonthe",
+      "latitude": "7.52639000",
+      "longitude": "-12.50500000"
+    },
+    {
+      "id": 104616,
+      "name": "Bonthe District",
+      "latitude": "7.51622000",
+      "longitude": "-12.33591000"
+    },
+    {
+      "id": 104619,
+      "name": "Bumpe",
+      "latitude": "7.89209000",
+      "longitude": "-11.90541000"
+    },
+    {
+      "id": 104622,
+      "name": "Foindu",
+      "latitude": "7.40906000",
+      "longitude": "-11.54328000"
+    },
+    {
+      "id": 104624,
+      "name": "Gandorhun",
+      "latitude": "7.55502000",
+      "longitude": "-11.69260000"
+    },
+    {
+      "id": 104626,
+      "name": "Gbewebu",
+      "latitude": "7.55091000",
+      "longitude": "-11.60750000"
+    },
+    {
+      "id": 104646,
+      "name": "Koribundu",
+      "latitude": "7.70952000",
+      "longitude": "-11.69354000"
+    },
+    {
+      "id": 104649,
+      "name": "Largo",
+      "latitude": "8.27903000",
+      "longitude": "-12.15780000"
+    },
+    {
+      "id": 104656,
+      "name": "Mamboma",
+      "latitude": "8.08742000",
+      "longitude": "-11.68841000"
+    },
+    {
+      "id": 104663,
+      "name": "Mogbwemo",
+      "latitude": "7.76237000",
+      "longitude": "-12.30864000"
+    },
+    {
+      "id": 104665,
+      "name": "Moyamba",
+      "latitude": "8.15898000",
+      "longitude": "-12.43168000"
+    },
+    {
+      "id": 104666,
+      "name": "Moyamba District",
+      "latitude": "8.06290000",
+      "longitude": "-12.44401000"
+    },
+    {
+      "id": 104667,
+      "name": "Palima",
+      "latitude": "8.11996000",
+      "longitude": "-11.50702000"
+    },
+    {
+      "id": 104671,
+      "name": "Potoru",
+      "latitude": "7.50596000",
+      "longitude": "-11.47897000"
+    },
+    {
+      "id": 104672,
+      "name": "Pujehun",
+      "latitude": "7.35806000",
+      "longitude": "-11.72083000"
+    },
+    {
+      "id": 104673,
+      "name": "Pujehun District",
+      "latitude": "7.31855000",
+      "longitude": "-11.57920000"
+    },
+    {
+      "id": 104675,
+      "name": "Rotifunk",
+      "latitude": "8.22591000",
+      "longitude": "-12.67760000"
+    },
+    {
+      "id": 104679,
+      "name": "Serabu",
+      "latitude": "7.79311000",
+      "longitude": "-12.05294000"
+    },
+    {
+      "id": 104681,
+      "name": "Sumbuya",
+      "latitude": "7.64789000",
+      "longitude": "-11.96060000"
+    },
+    {
+      "id": 104686,
+      "name": "Tongole",
+      "latitude": "7.45092000",
+      "longitude": "-11.90071000"
+    },
+    {
+      "id": 104692,
+      "name": "Zimmi",
+      "latitude": "7.31356000",
+      "longitude": "-11.30818000"
+    }
+  ],
+  "country": {
+    "id": 198,
+    "name": "Sierra Leone",
+    "iso3": "SLE",
+    "iso2": "SL",
+    "numeric_code": "694",
+    "phone_code": "232",
+    "capital": "Freetown",
+    "currency": "SLL",
+    "currency_name": "Sierra Leonean leone",
+    "currency_symbol": "Le",
+    "tld": ".sl",
+    "native": "Sierra Leone",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Freetown",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "시에라리온",
+      "pt-BR": "Serra Leoa",
+      "pt": "Serra Leoa",
+      "nl": "Sierra Leone",
+      "hr": "Sijera Leone",
+      "fa": "سیرالئون",
+      "de": "Sierra Leone",
+      "es": "Sierra Leone",
+      "fr": "Sierra Leone",
+      "ja": "シエラレオネ",
+      "it": "Sierra Leone",
+      "cn": "塞拉利昂",
+      "tr": "Sierra Leone"
+    },
+    "latitude": "8.50000000",
+    "longitude": "-11.50000000",
+    "emoji": "🇸🇱",
+    "emojiU": "U+1F1F8 U+1F1F1"
+  }
+}

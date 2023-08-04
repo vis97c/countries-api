@@ -1,0 +1,90 @@
+{
+  "id": 2185,
+  "name": "Ardahan",
+  "state_code": "75",
+  "latitude": "41.11129640",
+  "longitude": "42.78316740",
+  "type": "province",
+  "cities": [
+    {
+      "id": 108853,
+      "name": "Çıldır",
+      "latitude": "41.13783000",
+      "longitude": "43.14169000"
+    },
+    {
+      "id": 107444,
+      "name": "Damal",
+      "latitude": "41.34145000",
+      "longitude": "42.83680000"
+    },
+    {
+      "id": 107692,
+      "name": "Göle",
+      "latitude": "40.78746000",
+      "longitude": "42.60603000"
+    },
+    {
+      "id": 107788,
+      "name": "Hanak",
+      "latitude": "41.23344000",
+      "longitude": "42.84037000"
+    },
+    {
+      "id": 107179,
+      "name": "Merkez",
+      "latitude": "41.10871000",
+      "longitude": "42.70222000"
+    },
+    {
+      "id": 108347,
+      "name": "Posof",
+      "latitude": "41.51111000",
+      "longitude": "42.72917000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

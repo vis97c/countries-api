@@ -1,0 +1,60 @@
+{
+  "id": 3426,
+  "name": "Maekel Region",
+  "state_code": "MA",
+  "latitude": "15.35514090",
+  "longitude": "38.86236830",
+  "type": null,
+  "cities": [
+    {
+      "id": 31883,
+      "name": "Asmara",
+      "latitude": "15.33805000",
+      "longitude": "38.93184000"
+    }
+  ],
+  "country": {
+    "id": 68,
+    "name": "Eritrea",
+    "iso3": "ERI",
+    "iso2": "ER",
+    "numeric_code": "232",
+    "phone_code": "291",
+    "capital": "Asmara",
+    "currency": "ERN",
+    "currency_name": "Eritrean nakfa",
+    "currency_symbol": "Nfk",
+    "tld": ".er",
+    "native": "ኤርትራ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "에리트레아",
+      "pt-BR": "Eritreia",
+      "pt": "Eritreia",
+      "nl": "Eritrea",
+      "hr": "Eritreja",
+      "fa": "اریتره",
+      "de": "Eritrea",
+      "es": "Eritrea",
+      "fr": "Érythrée",
+      "ja": "エリトリア",
+      "it": "Eritrea",
+      "cn": "厄立特里亚",
+      "tr": "Eritre"
+    },
+    "latitude": "15.00000000",
+    "longitude": "39.00000000",
+    "emoji": "🇪🇷",
+    "emojiU": "U+1F1EA U+1F1F7"
+  }
+}

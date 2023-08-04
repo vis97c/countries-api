@@ -1,0 +1,66 @@
+{
+  "id": 2839,
+  "name": "Commewijne District",
+  "state_code": "CM",
+  "latitude": "5.74021100",
+  "longitude": "-54.87312190",
+  "type": null,
+  "cities": [
+    {
+      "id": 104826,
+      "name": "Mariënburg",
+      "latitude": "5.87722000",
+      "longitude": "-55.04322000"
+    },
+    {
+      "id": 104828,
+      "name": "Nieuw Amsterdam",
+      "latitude": "5.88573000",
+      "longitude": "-55.08871000"
+    }
+  ],
+  "country": {
+    "id": 210,
+    "name": "Suriname",
+    "iso3": "SUR",
+    "iso2": "SR",
+    "numeric_code": "740",
+    "phone_code": "597",
+    "capital": "Paramaribo",
+    "currency": "SRD",
+    "currency_name": "Surinamese dollar",
+    "currency_symbol": "$",
+    "tld": ".sr",
+    "native": "Suriname",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Paramaribo",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "SRT",
+        "tzName": "Suriname Time"
+      }
+    ],
+    "translations": {
+      "kr": "수리남",
+      "pt-BR": "Suriname",
+      "pt": "Suriname",
+      "nl": "Suriname",
+      "hr": "Surinam",
+      "fa": "سورینام",
+      "de": "Suriname",
+      "es": "Surinam",
+      "fr": "Surinam",
+      "ja": "スリナム",
+      "it": "Suriname",
+      "cn": "苏里南",
+      "tr": "Surinam"
+    },
+    "latitude": "4.00000000",
+    "longitude": "-56.00000000",
+    "emoji": "🇸🇷",
+    "emojiU": "U+1F1F8 U+1F1F7"
+  }
+}

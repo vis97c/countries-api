@@ -1,0 +1,108 @@
+{
+  "id": 2677,
+  "name": "Labé Region",
+  "state_code": "L",
+  "latitude": "11.32320420",
+  "longitude": "-12.28913140",
+  "type": null,
+  "cities": [
+    {
+      "id": 52341,
+      "name": "Koubia",
+      "latitude": "11.58333000",
+      "longitude": "-11.83333000"
+    },
+    {
+      "id": 52347,
+      "name": "Labé",
+      "latitude": "11.31823000",
+      "longitude": "-12.28332000"
+    },
+    {
+      "id": 52346,
+      "name": "Labe Prefecture",
+      "latitude": "11.36600000",
+      "longitude": "-12.30000000"
+    },
+    {
+      "id": 52350,
+      "name": "Lélouma",
+      "latitude": "11.42383000",
+      "longitude": "-12.68183000"
+    },
+    {
+      "id": 52348,
+      "name": "Lelouma Prefecture",
+      "latitude": "11.41667000",
+      "longitude": "-12.66667000"
+    },
+    {
+      "id": 52352,
+      "name": "Mali",
+      "latitude": "12.07900000",
+      "longitude": "-12.29820000"
+    },
+    {
+      "id": 52353,
+      "name": "Mali Prefecture",
+      "latitude": "12.08333000",
+      "longitude": "-12.08333000"
+    },
+    {
+      "id": 52371,
+      "name": "Tougué",
+      "latitude": "11.44503000",
+      "longitude": "-11.66422000"
+    },
+    {
+      "id": 52370,
+      "name": "Tougue Prefecture",
+      "latitude": "11.46667000",
+      "longitude": "-11.60000000"
+    }
+  ],
+  "country": {
+    "id": 92,
+    "name": "Guinea",
+    "iso3": "GIN",
+    "iso2": "GN",
+    "numeric_code": "324",
+    "phone_code": "224",
+    "capital": "Conakry",
+    "currency": "GNF",
+    "currency_name": "Guinean franc",
+    "currency_symbol": "FG",
+    "tld": ".gn",
+    "native": "Guinée",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "기니",
+      "pt-BR": "Guiné",
+      "pt": "Guiné",
+      "nl": "Guinee",
+      "hr": "Gvineja",
+      "fa": "گینه",
+      "de": "Guinea",
+      "es": "Guinea",
+      "fr": "Guinée",
+      "ja": "ギニア",
+      "it": "Guinea",
+      "cn": "几内亚",
+      "tr": "Gine"
+    },
+    "latitude": "11.00000000",
+    "longitude": "-10.00000000",
+    "emoji": "🇬🇳",
+    "emojiU": "U+1F1EC U+1F1F3"
+  }
+}

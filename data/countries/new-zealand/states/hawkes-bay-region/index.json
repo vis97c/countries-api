@@ -1,0 +1,85 @@
+{
+  "id": 4075,
+  "name": "Hawke's Bay Region",
+  "state_code": "HKB",
+  "latitude": "-39.60165970",
+  "longitude": "176.58044730",
+  "type": null,
+  "cities": [
+    {
+      "id": 79800,
+      "name": "Hastings",
+      "latitude": "-39.63810000",
+      "longitude": "176.84918000"
+    },
+    {
+      "id": 79836,
+      "name": "Napier",
+      "latitude": "-39.49260000",
+      "longitude": "176.91233000"
+    },
+    {
+      "id": 79887,
+      "name": "Taradale",
+      "latitude": "-39.53333000",
+      "longitude": "176.85000000"
+    },
+    {
+      "id": 79906,
+      "name": "Wairoa",
+      "latitude": "-39.03333000",
+      "longitude": "177.36667000"
+    }
+  ],
+  "country": {
+    "id": 158,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phone_code": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Auckland",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "NZDT",
+        "tzName": "New Zealand Daylight Time"
+      },
+      {
+        "zoneName": "Pacific/Chatham",
+        "gmtOffset": 49500,
+        "gmtOffsetName": "UTC+13:45",
+        "abbreviation": "CHAST",
+        "tzName": "Chatham Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "뉴질랜드",
+      "pt-BR": "Nova Zelândia",
+      "pt": "Nova Zelândia",
+      "nl": "Nieuw-Zeeland",
+      "hr": "Novi Zeland",
+      "fa": "نیوزیلند",
+      "de": "Neuseeland",
+      "es": "Nueva Zelanda",
+      "fr": "Nouvelle-Zélande",
+      "ja": "ニュージーランド",
+      "it": "Nuova Zelanda",
+      "cn": "新西兰",
+      "tr": "Yeni Zelanda"
+    },
+    "latitude": "-41.00000000",
+    "longitude": "174.00000000",
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF"
+  }
+}

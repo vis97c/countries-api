@@ -1,0 +1,53 @@
+{
+  "id": 5040,
+  "name": "Saône-et-Loire",
+  "state_code": "71",
+  "latitude": "46.65548830",
+  "longitude": "3.98350500",
+  "type": "metropolitan department",
+  "cities": [],
+  "country": {
+    "id": 75,
+    "name": "France",
+    "iso3": "FRA",
+    "iso2": "FR",
+    "numeric_code": "250",
+    "phone_code": "33",
+    "capital": "Paris",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fr",
+    "native": "France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Paris",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "프랑스",
+      "pt-BR": "França",
+      "pt": "França",
+      "nl": "Frankrijk",
+      "hr": "Francuska",
+      "fa": "فرانسه",
+      "de": "Frankreich",
+      "es": "Francia",
+      "fr": "France",
+      "ja": "フランス",
+      "it": "Francia",
+      "cn": "法国",
+      "tr": "Fransa"
+    },
+    "latitude": "46.00000000",
+    "longitude": "2.00000000",
+    "emoji": "🇫🇷",
+    "emojiU": "U+1F1EB U+1F1F7"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3328,
+  "name": "Zambezia Province",
+  "state_code": "Q",
+  "latitude": "-16.56389870",
+  "longitude": "36.60939260",
+  "type": null,
+  "cities": [
+    {
+      "id": 76588,
+      "name": "Alto Molócuè",
+      "latitude": "-15.64932000",
+      "longitude": "37.66384000"
+    },
+    {
+      "id": 76594,
+      "name": "Chinde",
+      "latitude": "-18.58111000",
+      "longitude": "36.45861000"
+    },
+    {
+      "id": 76622,
+      "name": "Quelimane",
+      "latitude": "-17.87861000",
+      "longitude": "36.88833000"
+    }
+  ],
+  "country": {
+    "id": 150,
+    "name": "Mozambique",
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "numeric_code": "508",
+    "phone_code": "258",
+    "capital": "Maputo",
+    "currency": "MZN",
+    "currency_name": "Mozambican metical",
+    "currency_symbol": "MT",
+    "tld": ".mz",
+    "native": "Moçambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "모잠비크",
+      "pt-BR": "Moçambique",
+      "pt": "Moçambique",
+      "nl": "Mozambique",
+      "hr": "Mozambik",
+      "fa": "موزامبیک",
+      "de": "Mosambik",
+      "es": "Mozambique",
+      "fr": "Mozambique",
+      "ja": "モザンビーク",
+      "it": "Mozambico",
+      "cn": "莫桑比克",
+      "tr": "Mozambik"
+    },
+    "latitude": "-18.25000000",
+    "longitude": "35.00000000",
+    "emoji": "🇲🇿",
+    "emojiU": "U+1F1F2 U+1F1FF"
+  }
+}

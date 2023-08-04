@@ -1,0 +1,108 @@
+{
+  "id": 1652,
+  "name": "Nidwalden",
+  "state_code": "NW",
+  "latitude": "46.92670160",
+  "longitude": "8.38499820",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17448,
+      "name": "Beckenried",
+      "latitude": "46.96653000",
+      "longitude": "8.47575000"
+    },
+    {
+      "id": 17582,
+      "name": "Buochs",
+      "latitude": "46.97398000",
+      "longitude": "8.42279000"
+    },
+    {
+      "id": 17675,
+      "name": "Dallenwil",
+      "latitude": "46.92420000",
+      "longitude": "8.38785000"
+    },
+    {
+      "id": 17748,
+      "name": "Emmetten",
+      "latitude": "46.95658000",
+      "longitude": "8.51467000"
+    },
+    {
+      "id": 17752,
+      "name": "Ennetbürgen",
+      "latitude": "46.98423000",
+      "longitude": "8.41003000"
+    },
+    {
+      "id": 17906,
+      "name": "Hergiswil",
+      "latitude": "46.98429000",
+      "longitude": "8.30944000"
+    },
+    {
+      "id": 18546,
+      "name": "Stans",
+      "latitude": "46.95805000",
+      "longitude": "8.36609000"
+    },
+    {
+      "id": 18547,
+      "name": "Stansstad",
+      "latitude": "46.97680000",
+      "longitude": "8.33553000"
+    },
+    {
+      "id": 18763,
+      "name": "Wolfenschiessen",
+      "latitude": "46.90322000",
+      "longitude": "8.39423000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

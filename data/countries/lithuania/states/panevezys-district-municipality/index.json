@@ -1,0 +1,120 @@
+{
+  "id": 1614,
+  "name": "Panevėžys District Municipality",
+  "state_code": "33",
+  "latitude": "55.61667280",
+  "longitude": "24.31422830",
+  "type": null,
+  "cities": [
+    {
+      "id": 66587,
+      "name": "Birzai",
+      "latitude": "56.20000000",
+      "longitude": "24.75000000"
+    },
+    {
+      "id": 66608,
+      "name": "Juodupė",
+      "latitude": "56.08700000",
+      "longitude": "25.60700000"
+    },
+    {
+      "id": 66625,
+      "name": "Kupiskis",
+      "latitude": "55.84027000",
+      "longitude": "24.97976000"
+    },
+    {
+      "id": 66646,
+      "name": "Obeliai",
+      "latitude": "55.96895000",
+      "longitude": "25.15648000"
+    },
+    {
+      "id": 66651,
+      "name": "Panevėžys",
+      "latitude": "55.73333000",
+      "longitude": "24.35000000"
+    },
+    {
+      "id": 66652,
+      "name": "Panevėžys City",
+      "latitude": "55.73600000",
+      "longitude": "24.34347000"
+    },
+    {
+      "id": 66653,
+      "name": "Panevėžys District Municipality",
+      "latitude": "55.73301000",
+      "longitude": "24.37609000"
+    },
+    {
+      "id": 66654,
+      "name": "Pasvalys",
+      "latitude": "56.06667000",
+      "longitude": "24.40000000"
+    },
+    {
+      "id": 66665,
+      "name": "Ramygala",
+      "latitude": "55.51400000",
+      "longitude": "24.30000000"
+    },
+    {
+      "id": 66669,
+      "name": "Rokiškis",
+      "latitude": "55.96667000",
+      "longitude": "25.58333000"
+    },
+    {
+      "id": 66692,
+      "name": "Vabalninkas",
+      "latitude": "55.98151000",
+      "longitude": "24.74828000"
+    }
+  ],
+  "country": {
+    "id": 126,
+    "name": "Lithuania",
+    "iso3": "LTU",
+    "iso2": "LT",
+    "numeric_code": "440",
+    "phone_code": "370",
+    "capital": "Vilnius",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lt",
+    "native": "Lietuva",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vilnius",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "리투아니아",
+      "pt-BR": "Lituânia",
+      "pt": "Lituânia",
+      "nl": "Litouwen",
+      "hr": "Litva",
+      "fa": "لیتوانی",
+      "de": "Litauen",
+      "es": "Lituania",
+      "fr": "Lituanie",
+      "ja": "リトアニア",
+      "it": "Lituania",
+      "cn": "立陶宛",
+      "tr": "Litvanya"
+    },
+    "latitude": "56.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇱🇹",
+    "emojiU": "U+1F1F1 U+1F1F9"
+  }
+}

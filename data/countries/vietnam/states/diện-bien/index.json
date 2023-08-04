@@ -1,0 +1,90 @@
+{
+  "id": 3773,
+  "name": "Điện Biên",
+  "state_code": "71",
+  "latitude": "21.80423090",
+  "longitude": "103.10765250",
+  "type": null,
+  "cities": [
+    {
+      "id": 130196,
+      "name": "Dien Bien Phu",
+      "latitude": "21.38602000",
+      "longitude": "103.02301000"
+    },
+    {
+      "id": 130528,
+      "name": "Huyện Điện Biên Đông",
+      "latitude": "21.25266000",
+      "longitude": "103.26900000"
+    },
+    {
+      "id": 130365,
+      "name": "Huyện Mường Nhé",
+      "latitude": "22.10353000",
+      "longitude": "102.58465000"
+    },
+    {
+      "id": 130493,
+      "name": "Huyện Tủa Chùa",
+      "latitude": "21.95357000",
+      "longitude": "103.37332000"
+    },
+    {
+      "id": 130478,
+      "name": "Huyện Tuần Giáo",
+      "latitude": "21.69481000",
+      "longitude": "103.41758000"
+    },
+    {
+      "id": 130611,
+      "name": "Thị Xã Mưòng Lay",
+      "latitude": "22.03374000",
+      "longitude": "103.12331000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

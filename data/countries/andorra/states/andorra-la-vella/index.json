@@ -1,0 +1,60 @@
+{
+  "id": 488,
+  "name": "Andorra la Vella",
+  "state_code": "07",
+  "latitude": "42.50631740",
+  "longitude": "1.52183550",
+  "type": null,
+  "cities": [
+    {
+      "id": 1,
+      "name": "Andorra la Vella",
+      "latitude": "42.50779000",
+      "longitude": "1.52109000"
+    }
+  ],
+  "country": {
+    "id": 6,
+    "name": "Andorra",
+    "iso3": "AND",
+    "iso2": "AD",
+    "numeric_code": "020",
+    "phone_code": "376",
+    "capital": "Andorra la Vella",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ad",
+    "native": "Andorra",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Andorra",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "안도라",
+      "pt-BR": "Andorra",
+      "pt": "Andorra",
+      "nl": "Andorra",
+      "hr": "Andora",
+      "fa": "آندورا",
+      "de": "Andorra",
+      "es": "Andorra",
+      "fr": "Andorre",
+      "ja": "アンドラ",
+      "it": "Andorra",
+      "cn": "安道尔",
+      "tr": "Andorra"
+    },
+    "latitude": "42.50000000",
+    "longitude": "1.50000000",
+    "emoji": "🇦🇩",
+    "emojiU": "U+1F1E6 U+1F1E9"
+  }
+}

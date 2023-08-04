@@ -1,0 +1,66 @@
+{
+  "id": 3002,
+  "name": "Ribeira Grande",
+  "state_code": "RG",
+  "latitude": "37.82103690",
+  "longitude": "-25.51481370",
+  "type": null,
+  "cities": [
+    {
+      "id": 21998,
+      "name": "Ponta do Sol",
+      "latitude": "17.20171000",
+      "longitude": "-25.09217000"
+    },
+    {
+      "id": 22002,
+      "name": "Ribeira Grande",
+      "latitude": "17.18250000",
+      "longitude": "-25.06500000"
+    }
+  ],
+  "country": {
+    "id": 40,
+    "name": "Cape Verde",
+    "iso3": "CPV",
+    "iso2": "CV",
+    "numeric_code": "132",
+    "phone_code": "238",
+    "capital": "Praia",
+    "currency": "CVE",
+    "currency_name": "Cape Verdean escudo",
+    "currency_symbol": "$",
+    "tld": ".cv",
+    "native": "Cabo Verde",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ],
+    "translations": {
+      "kr": "카보베르데",
+      "pt-BR": "Cabo Verde",
+      "pt": "Cabo Verde",
+      "nl": "Kaapverdië",
+      "hr": "Zelenortska Republika",
+      "fa": "کیپ ورد",
+      "de": "Kap Verde",
+      "es": "Cabo Verde",
+      "fr": "Cap Vert",
+      "ja": "カーボベルデ",
+      "it": "Capo Verde",
+      "cn": "佛得角",
+      "tr": "Cabo Verde"
+    },
+    "latitude": "16.00000000",
+    "longitude": "-24.00000000",
+    "emoji": "🇨🇻",
+    "emojiU": "U+1F1E8 U+1F1FB"
+  }
+}

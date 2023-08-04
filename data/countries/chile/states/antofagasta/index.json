@@ -1,0 +1,122 @@
+{
+  "id": 2832,
+  "name": "Antofagasta",
+  "state_code": "AN",
+  "latitude": "-23.83691040",
+  "longitude": "-69.28775350",
+  "type": null,
+  "cities": [
+    {
+      "id": 18946,
+      "name": "Antofagasta",
+      "latitude": "-23.65236000",
+      "longitude": "-70.39540000"
+    },
+    {
+      "id": 18952,
+      "name": "Calama",
+      "latitude": "-22.45667000",
+      "longitude": "-68.92371000"
+    },
+    {
+      "id": 148326,
+      "name": "María Elena",
+      "latitude": "-22.35000000",
+      "longitude": "-69.66666667"
+    },
+    {
+      "id": 19033,
+      "name": "Mejillones",
+      "latitude": "-23.10000000",
+      "longitude": "-70.45000000"
+    },
+    {
+      "id": 19074,
+      "name": "Ollagüe",
+      "latitude": "-21.22496000",
+      "longitude": "-68.25352000"
+    },
+    {
+      "id": 19107,
+      "name": "San Pedro de Atacama",
+      "latitude": "-22.91110000",
+      "longitude": "-68.20113000"
+    },
+    {
+      "id": 19051,
+      "name": "Sierra Gorda",
+      "latitude": "-22.88333333",
+      "longitude": "-69.31666667"
+    },
+    {
+      "id": 19115,
+      "name": "Taltal",
+      "latitude": "-25.40713000",
+      "longitude": "-70.48554000"
+    },
+    {
+      "id": 19118,
+      "name": "Tocopilla",
+      "latitude": "-22.09198000",
+      "longitude": "-70.19792000"
+    }
+  ],
+  "country": {
+    "id": 44,
+    "name": "Chile",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "numeric_code": "152",
+    "phone_code": "56",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "native": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "칠리",
+      "pt-BR": "Chile",
+      "pt": "Chile",
+      "nl": "Chili",
+      "hr": "Čile",
+      "fa": "شیلی",
+      "de": "Chile",
+      "es": "Chile",
+      "fr": "Chili",
+      "ja": "チリ",
+      "it": "Cile",
+      "cn": "智利",
+      "tr": "Şili"
+    },
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
+  }
+}

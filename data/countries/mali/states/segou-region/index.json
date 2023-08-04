@@ -1,0 +1,102 @@
+{
+  "id": 249,
+  "name": "Ségou Region",
+  "state_code": "4",
+  "latitude": "13.83944560",
+  "longitude": "-6.06791940",
+  "type": null,
+  "cities": [
+    {
+      "id": 67590,
+      "name": "Baroueli",
+      "latitude": "13.07489000",
+      "longitude": "-6.57171000"
+    },
+    {
+      "id": 67594,
+      "name": "Cercle de San",
+      "latitude": "13.17895000",
+      "longitude": "-5.01617000"
+    },
+    {
+      "id": 67618,
+      "name": "Ké-Macina",
+      "latitude": "13.96410000",
+      "longitude": "-5.35791000"
+    },
+    {
+      "id": 67610,
+      "name": "Kinmparana",
+      "latitude": "12.84217000",
+      "longitude": "-4.92450000"
+    },
+    {
+      "id": 67619,
+      "name": "Markala",
+      "latitude": "13.70210000",
+      "longitude": "-6.06590000"
+    },
+    {
+      "id": 67624,
+      "name": "San",
+      "latitude": "13.30335000",
+      "longitude": "-4.89562000"
+    },
+    {
+      "id": 67627,
+      "name": "Ségou",
+      "latitude": "13.43170000",
+      "longitude": "-6.21570000"
+    },
+    {
+      "id": 67626,
+      "name": "Sokolo",
+      "latitude": "14.73280000",
+      "longitude": "-6.12190000"
+    }
+  ],
+  "country": {
+    "id": 134,
+    "name": "Mali",
+    "iso3": "MLI",
+    "iso2": "ML",
+    "numeric_code": "466",
+    "phone_code": "223",
+    "capital": "Bamako",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ml",
+    "native": "Mali",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bamako",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "말리",
+      "pt-BR": "Mali",
+      "pt": "Mali",
+      "nl": "Mali",
+      "hr": "Mali",
+      "fa": "مالی",
+      "de": "Mali",
+      "es": "Mali",
+      "fr": "Mali",
+      "ja": "マリ",
+      "it": "Mali",
+      "cn": "马里",
+      "tr": "Mali"
+    },
+    "latitude": "17.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇲🇱",
+    "emojiU": "U+1F1F2 U+1F1F1"
+  }
+}

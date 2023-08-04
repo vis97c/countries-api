@@ -1,0 +1,198 @@
+{
+  "id": 4712,
+  "name": "Pazardzhik Province",
+  "state_code": "13",
+  "latitude": "42.19275670",
+  "longitude": "24.33362260",
+  "type": null,
+  "cities": [
+    {
+      "id": 9267,
+      "name": "Batak",
+      "latitude": "41.94225000",
+      "longitude": "24.21843000"
+    },
+    {
+      "id": 9273,
+      "name": "Belovo",
+      "latitude": "42.21239000",
+      "longitude": "24.02081000"
+    },
+    {
+      "id": 9286,
+      "name": "Bratsigovo",
+      "latitude": "42.01667000",
+      "longitude": "24.36667000"
+    },
+    {
+      "id": 9384,
+      "name": "Lesichovo",
+      "latitude": "42.35626000",
+      "longitude": "24.11190000"
+    },
+    {
+      "id": 9423,
+      "name": "Obshtina Batak",
+      "latitude": "41.86667000",
+      "longitude": "24.21667000"
+    },
+    {
+      "id": 9428,
+      "name": "Obshtina Belovo",
+      "latitude": "42.20000000",
+      "longitude": "23.93333000"
+    },
+    {
+      "id": 9440,
+      "name": "Obshtina Bratsigovo",
+      "latitude": "42.00000000",
+      "longitude": "24.40000000"
+    },
+    {
+      "id": 9520,
+      "name": "Obshtina Lesichovo",
+      "latitude": "42.36667000",
+      "longitude": "24.15000000"
+    },
+    {
+      "id": 9547,
+      "name": "Obshtina Panagyurishte",
+      "latitude": "42.50000000",
+      "longitude": "24.16667000"
+    },
+    {
+      "id": 9551,
+      "name": "Obshtina Pazardzhik",
+      "latitude": "42.20000000",
+      "longitude": "24.33333000"
+    },
+    {
+      "id": 9554,
+      "name": "Obshtina Peshtera",
+      "latitude": "42.03333000",
+      "longitude": "24.30000000"
+    },
+    {
+      "id": 9568,
+      "name": "Obshtina Rakitovo",
+      "latitude": "41.99965000",
+      "longitude": "24.10877000"
+    },
+    {
+      "id": 9585,
+      "name": "Obshtina Septemvri",
+      "latitude": "42.26667000",
+      "longitude": "24.13333000"
+    },
+    {
+      "id": 9602,
+      "name": "Obshtina Strelcha",
+      "latitude": "42.46667000",
+      "longitude": "24.36667000"
+    },
+    {
+      "id": 9627,
+      "name": "Obshtina Velingrad",
+      "latitude": "41.96667000",
+      "longitude": "23.93333000"
+    },
+    {
+      "id": 9644,
+      "name": "Panagyurishte",
+      "latitude": "42.49518000",
+      "longitude": "24.19021000"
+    },
+    {
+      "id": 9649,
+      "name": "Pazardzhik",
+      "latitude": "42.20000000",
+      "longitude": "24.33333000"
+    },
+    {
+      "id": 9652,
+      "name": "Peshtera",
+      "latitude": "42.03372000",
+      "longitude": "24.29995000"
+    },
+    {
+      "id": 9666,
+      "name": "Rakitovo",
+      "latitude": "41.99012000",
+      "longitude": "24.08730000"
+    },
+    {
+      "id": 9684,
+      "name": "Sarnitsa",
+      "latitude": "41.73835000",
+      "longitude": "24.02435000"
+    },
+    {
+      "id": 9685,
+      "name": "Sarnitsa Obshtina",
+      "latitude": "41.73333000",
+      "longitude": "24.03333000"
+    },
+    {
+      "id": 9688,
+      "name": "Septemvri",
+      "latitude": "42.21138000",
+      "longitude": "24.12946000"
+    },
+    {
+      "id": 9710,
+      "name": "Strelcha",
+      "latitude": "42.50000000",
+      "longitude": "24.31667000"
+    },
+    {
+      "id": 9738,
+      "name": "Velingrad",
+      "latitude": "42.02754000",
+      "longitude": "23.99155000"
+    }
+  ],
+  "country": {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "numeric_code": "100",
+    "phone_code": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "native": "България",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "불가리아",
+      "pt-BR": "Bulgária",
+      "pt": "Bulgária",
+      "nl": "Bulgarije",
+      "hr": "Bugarska",
+      "fa": "بلغارستان",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア",
+      "it": "Bulgaria",
+      "cn": "保加利亚",
+      "tr": "Bulgaristan"
+    },
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  }
+}

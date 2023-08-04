@@ -1,0 +1,714 @@
+{
+  "id": 3907,
+  "name": "Australian Capital Territory",
+  "state_code": "ACT",
+  "latitude": "-35.47346790",
+  "longitude": "149.01236790",
+  "type": "territory",
+  "cities": [
+    {
+      "id": 3915,
+      "name": "Acton",
+      "latitude": "-35.27767000",
+      "longitude": "149.11829000"
+    },
+    {
+      "id": 3923,
+      "name": "Ainslie",
+      "latitude": "-35.26255000",
+      "longitude": "149.14370000"
+    },
+    {
+      "id": 3974,
+      "name": "Amaroo",
+      "latitude": "-35.16959000",
+      "longitude": "149.12802000"
+    },
+    {
+      "id": 3995,
+      "name": "Aranda",
+      "latitude": "-35.25817000",
+      "longitude": "149.08040000"
+    },
+    {
+      "id": 4098,
+      "name": "Banks",
+      "latitude": "-35.47194000",
+      "longitude": "149.09965000"
+    },
+    {
+      "id": 4129,
+      "name": "Barton",
+      "latitude": "-35.30489000",
+      "longitude": "149.14121000"
+    },
+    {
+      "id": 4184,
+      "name": "Belconnen",
+      "latitude": "-35.23798000",
+      "longitude": "149.06627000"
+    },
+    {
+      "id": 4331,
+      "name": "Bonner",
+      "latitude": "-35.16225000",
+      "longitude": "149.13855000"
+    },
+    {
+      "id": 4338,
+      "name": "Bonython",
+      "latitude": "-35.43326000",
+      "longitude": "149.07822000"
+    },
+    {
+      "id": 4377,
+      "name": "Braddon",
+      "latitude": "-35.27078000",
+      "longitude": "149.13569000"
+    },
+    {
+      "id": 4436,
+      "name": "Bruce",
+      "latitude": "-35.24405000",
+      "longitude": "149.09083000"
+    },
+    {
+      "id": 4536,
+      "name": "Calwell",
+      "latitude": "-35.44042000",
+      "longitude": "149.10707000"
+    },
+    {
+      "id": 4555,
+      "name": "Campbell",
+      "latitude": "-35.28907000",
+      "longitude": "149.15382000"
+    },
+    {
+      "id": 4566,
+      "name": "Canberra",
+      "latitude": "-35.28346000",
+      "longitude": "149.12807000"
+    },
+    {
+      "id": 4621,
+      "name": "Casey",
+      "latitude": "-35.16701000",
+      "longitude": "149.09470000"
+    },
+    {
+      "id": 4662,
+      "name": "Chapman",
+      "latitude": "-35.35621000",
+      "longitude": "149.03742000"
+    },
+    {
+      "id": 4669,
+      "name": "Charnwood",
+      "latitude": "-35.20019000",
+      "longitude": "149.03412000"
+    },
+    {
+      "id": 4687,
+      "name": "Chifley",
+      "latitude": "-35.35340000",
+      "longitude": "149.07684000"
+    },
+    {
+      "id": 4697,
+      "name": "Chisholm",
+      "latitude": "-35.41249000",
+      "longitude": "149.12825000"
+    },
+    {
+      "id": 4708,
+      "name": "City",
+      "latitude": "-35.28125000",
+      "longitude": "149.12927000"
+    },
+    {
+      "id": 4787,
+      "name": "Conder",
+      "latitude": "-35.45926000",
+      "longitude": "149.10422000"
+    },
+    {
+      "id": 4799,
+      "name": "Cook",
+      "latitude": "-35.26014000",
+      "longitude": "149.06566000"
+    },
+    {
+      "id": 4816,
+      "name": "Coombs",
+      "latitude": "-35.31634000",
+      "longitude": "149.03941000"
+    },
+    {
+      "id": 4855,
+      "name": "Crace",
+      "latitude": "-35.20282000",
+      "longitude": "149.10736000"
+    },
+    {
+      "id": 4916,
+      "name": "Curtin",
+      "latitude": "-35.32464000",
+      "longitude": "149.07763000"
+    },
+    {
+      "id": 4957,
+      "name": "Deakin",
+      "latitude": "-35.31927000",
+      "longitude": "149.10308000"
+    },
+    {
+      "id": 4989,
+      "name": "Dickson",
+      "latitude": "-35.25082000",
+      "longitude": "149.13932000"
+    },
+    {
+      "id": 5024,
+      "name": "Downer",
+      "latitude": "-35.24457000",
+      "longitude": "149.14468000"
+    },
+    {
+      "id": 5036,
+      "name": "Duffy",
+      "latitude": "-35.33459000",
+      "longitude": "149.03188000"
+    },
+    {
+      "id": 5046,
+      "name": "Dunlop",
+      "latitude": "-35.19402000",
+      "longitude": "149.01984000"
+    },
+    {
+      "id": 5197,
+      "name": "Evatt",
+      "latitude": "-35.21191000",
+      "longitude": "149.06891000"
+    },
+    {
+      "id": 5204,
+      "name": "Fadden",
+      "latitude": "-35.40500000",
+      "longitude": "149.11662000"
+    },
+    {
+      "id": 5219,
+      "name": "Farrer",
+      "latitude": "-35.37673000",
+      "longitude": "149.10500000"
+    },
+    {
+      "id": 5239,
+      "name": "Fisher",
+      "latitude": "-35.36126000",
+      "longitude": "149.05704000"
+    },
+    {
+      "id": 5257,
+      "name": "Florey",
+      "latitude": "-35.22588000",
+      "longitude": "149.05000000"
+    },
+    {
+      "id": 5258,
+      "name": "Flynn",
+      "latitude": "-35.20593000",
+      "longitude": "149.04389000"
+    },
+    {
+      "id": 5261,
+      "name": "Forde",
+      "latitude": "-35.16823000",
+      "longitude": "149.14607000"
+    },
+    {
+      "id": 5270,
+      "name": "Forrest",
+      "latitude": "-35.31499000",
+      "longitude": "149.12859000"
+    },
+    {
+      "id": 5278,
+      "name": "Franklin",
+      "latitude": "-35.19946000",
+      "longitude": "149.14329000"
+    },
+    {
+      "id": 5284,
+      "name": "Fraser",
+      "latitude": "-35.19170000",
+      "longitude": "149.04534000"
+    },
+    {
+      "id": 5306,
+      "name": "Garran",
+      "latitude": "-35.34206000",
+      "longitude": "149.10846000"
+    },
+    {
+      "id": 5336,
+      "name": "Gilmore",
+      "latitude": "-35.41994000",
+      "longitude": "149.13481000"
+    },
+    {
+      "id": 5340,
+      "name": "Giralang",
+      "latitude": "-35.21093000",
+      "longitude": "149.09600000"
+    },
+    {
+      "id": 5420,
+      "name": "Gordon",
+      "latitude": "-35.45676000",
+      "longitude": "149.08498000"
+    },
+    {
+      "id": 5429,
+      "name": "Gowrie",
+      "latitude": "-35.41187000",
+      "longitude": "149.10903000"
+    },
+    {
+      "id": 5461,
+      "name": "Greenway",
+      "latitude": "-35.41829000",
+      "longitude": "149.06658000"
+    },
+    {
+      "id": 5472,
+      "name": "Griffith",
+      "latitude": "-35.32533000",
+      "longitude": "149.13714000"
+    },
+    {
+      "id": 5485,
+      "name": "Gungahlin",
+      "latitude": "-35.18674000",
+      "longitude": "149.13619000"
+    },
+    {
+      "id": 5498,
+      "name": "Hackett",
+      "latitude": "-35.24948000",
+      "longitude": "149.16352000"
+    },
+    {
+      "id": 5531,
+      "name": "Harrison",
+      "latitude": "-35.19906000",
+      "longitude": "149.15631000"
+    },
+    {
+      "id": 5538,
+      "name": "Hawker",
+      "latitude": "-35.24707000",
+      "longitude": "149.03666000"
+    },
+    {
+      "id": 5592,
+      "name": "Higgins",
+      "latitude": "-35.23242000",
+      "longitude": "149.02720000"
+    },
+    {
+      "id": 5629,
+      "name": "Holder",
+      "latitude": "-35.33439000",
+      "longitude": "149.04614000"
+    },
+    {
+      "id": 5639,
+      "name": "Holt",
+      "latitude": "-35.22441000",
+      "longitude": "149.01188000"
+    },
+    {
+      "id": 5663,
+      "name": "Hughes",
+      "latitude": "-35.33269000",
+      "longitude": "149.09491000"
+    },
+    {
+      "id": 5707,
+      "name": "Isaacs",
+      "latitude": "-35.36862000",
+      "longitude": "149.11555000"
+    },
+    {
+      "id": 5708,
+      "name": "Isabella Plains",
+      "latitude": "-35.42829000",
+      "longitude": "149.08795000"
+    },
+    {
+      "id": 5758,
+      "name": "Kaleen",
+      "latitude": "-35.21814000",
+      "longitude": "149.10516000"
+    },
+    {
+      "id": 5768,
+      "name": "Kambah",
+      "latitude": "-35.38624000",
+      "longitude": "149.05804000"
+    },
+    {
+      "id": 5886,
+      "name": "Kingston",
+      "latitude": "-35.31525000",
+      "longitude": "149.14658000"
+    },
+    {
+      "id": 5980,
+      "name": "Latham",
+      "latitude": "-35.21652000",
+      "longitude": "149.03144000"
+    },
+    {
+      "id": 6091,
+      "name": "Lyneham",
+      "latitude": "-35.23980000",
+      "longitude": "149.13074000"
+    },
+    {
+      "id": 6093,
+      "name": "Lyons",
+      "latitude": "-35.34060000",
+      "longitude": "149.07396000"
+    },
+    {
+      "id": 6097,
+      "name": "Macarthur",
+      "latitude": "-35.40885000",
+      "longitude": "149.12696000"
+    },
+    {
+      "id": 6102,
+      "name": "Macgregor",
+      "latitude": "-35.20980000",
+      "longitude": "149.01101000"
+    },
+    {
+      "id": 6112,
+      "name": "Macquarie",
+      "latitude": "-35.25126000",
+      "longitude": "149.06363000"
+    },
+    {
+      "id": 6205,
+      "name": "Mawson",
+      "latitude": "-35.36340000",
+      "longitude": "149.09863000"
+    },
+    {
+      "id": 6218,
+      "name": "McKellar",
+      "latitude": "-35.21752000",
+      "longitude": "149.07704000"
+    },
+    {
+      "id": 6234,
+      "name": "Melba",
+      "latitude": "-35.21016000",
+      "longitude": "149.05405000"
+    },
+    {
+      "id": 6345,
+      "name": "Monash",
+      "latitude": "-35.41577000",
+      "longitude": "149.09063000"
+    },
+    {
+      "id": 6533,
+      "name": "Narrabundah",
+      "latitude": "-35.33570000",
+      "longitude": "149.14924000"
+    },
+    {
+      "id": 6583,
+      "name": "Ngunnawal",
+      "latitude": "-35.17280000",
+      "longitude": "149.11147000"
+    },
+    {
+      "id": 6587,
+      "name": "Nicholls",
+      "latitude": "-35.18733000",
+      "longitude": "149.09648000"
+    },
+    {
+      "id": 6691,
+      "name": "O'Connor",
+      "latitude": "-35.25645000",
+      "longitude": "149.11248000"
+    },
+    {
+      "id": 6749,
+      "name": "Oxley",
+      "latitude": "-35.40952000",
+      "longitude": "149.07860000"
+    },
+    {
+      "id": 6761,
+      "name": "Page",
+      "latitude": "-35.23864000",
+      "longitude": "149.04988000"
+    },
+    {
+      "id": 6770,
+      "name": "Palmerston",
+      "latitude": "-35.19447000",
+      "longitude": "149.11940000"
+    },
+    {
+      "id": 6820,
+      "name": "Pearce",
+      "latitude": "-35.36222000",
+      "longitude": "149.08338000"
+    },
+    {
+      "id": 6848,
+      "name": "Phillip",
+      "latitude": "-35.35035000",
+      "longitude": "149.09151000"
+    },
+    {
+      "id": 6977,
+      "name": "Red Hill",
+      "latitude": "-35.32624000",
+      "longitude": "149.11906000"
+    },
+    {
+      "id": 6992,
+      "name": "Reid",
+      "latitude": "-35.28578000",
+      "longitude": "149.13905000"
+    },
+    {
+      "id": 7004,
+      "name": "Richardson",
+      "latitude": "-35.42787000",
+      "longitude": "149.11377000"
+    },
+    {
+      "id": 7031,
+      "name": "Rivett",
+      "latitude": "-35.34709000",
+      "longitude": "149.03790000"
+    },
+    {
+      "id": 7157,
+      "name": "Scullin",
+      "latitude": "-35.23462000",
+      "longitude": "149.03900000"
+    },
+    {
+      "id": 7303,
+      "name": "Spence",
+      "latitude": "-35.19873000",
+      "longitude": "149.06438000"
+    },
+    {
+      "id": 7348,
+      "name": "Stirling",
+      "latitude": "-35.34969000",
+      "longitude": "149.04930000"
+    },
+    {
+      "id": 7498,
+      "name": "Theodore",
+      "latitude": "-35.44962000",
+      "longitude": "149.11971000"
+    },
+    {
+      "id": 7544,
+      "name": "Torrens",
+      "latitude": "-35.37203000",
+      "longitude": "149.08773000"
+    },
+    {
+      "id": 7582,
+      "name": "Turner",
+      "latitude": "-35.26881000",
+      "longitude": "149.12465000"
+    },
+    {
+      "id": 7693,
+      "name": "Wanniassa",
+      "latitude": "-35.39783000",
+      "longitude": "149.09086000"
+    },
+    {
+      "id": 7697,
+      "name": "Waramanga",
+      "latitude": "-35.35297000",
+      "longitude": "149.06214000"
+    },
+    {
+      "id": 7735,
+      "name": "Watson",
+      "latitude": "-35.23815000",
+      "longitude": "149.15271000"
+    },
+    {
+      "id": 7753,
+      "name": "Weetangera",
+      "latitude": "-35.25000000",
+      "longitude": "149.05000000"
+    },
+    {
+      "id": 7827,
+      "name": "Weston",
+      "latitude": "-35.33582000",
+      "longitude": "149.05929000"
+    },
+    {
+      "id": 7955,
+      "name": "Wright",
+      "latitude": "-35.32239000",
+      "longitude": "149.03456000"
+    },
+    {
+      "id": 8002,
+      "name": "Yarralumla",
+      "latitude": "-35.29980000",
+      "longitude": "149.10585000"
+    }
+  ],
+  "country": {
+    "id": 14,
+    "name": "Australia",
+    "iso3": "AUS",
+    "iso2": "AU",
+    "numeric_code": "036",
+    "phone_code": "61",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".au",
+    "native": "Australia",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Antarctica/Macquarie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MIST",
+        "tzName": "Macquarie Island Station Time"
+      },
+      {
+        "zoneName": "Australia/Adelaide",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Brisbane",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Broken_Hill",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Currie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Darwin",
+        "gmtOffset": 34200,
+        "gmtOffsetName": "UTC+09:30",
+        "abbreviation": "ACST",
+        "tzName": "Australian Central Standard Time"
+      },
+      {
+        "zoneName": "Australia/Eucla",
+        "gmtOffset": 31500,
+        "gmtOffsetName": "UTC+08:45",
+        "abbreviation": "ACWST",
+        "tzName": "Australian Central Western Standard Time (Unofficial)"
+      },
+      {
+        "zoneName": "Australia/Hobart",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Lindeman",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Lord_Howe",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "LHST",
+        "tzName": "Lord Howe Summer Time"
+      },
+      {
+        "zoneName": "Australia/Melbourne",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Perth",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "AWST",
+        "tzName": "Australian Western Standard Time"
+      },
+      {
+        "zoneName": "Australia/Sydney",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      }
+    ],
+    "translations": {
+      "kr": "호주",
+      "pt-BR": "Austrália",
+      "pt": "Austrália",
+      "nl": "Australië",
+      "hr": "Australija",
+      "fa": "استرالیا",
+      "de": "Australien",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "it": "Australia",
+      "cn": "澳大利亚",
+      "tr": "Avustralya"
+    },
+    "latitude": "-27.00000000",
+    "longitude": "133.00000000",
+    "emoji": "🇦🇺",
+    "emojiU": "U+1F1E6 U+1F1FA"
+  }
+}

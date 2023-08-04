@@ -1,0 +1,108 @@
+{
+  "id": 965,
+  "name": "Amman",
+  "state_code": "AM",
+  "latitude": "31.94536330",
+  "longitude": "35.92838950",
+  "type": null,
+  "cities": [
+    {
+      "id": 63133,
+      "name": "Al Jīzah",
+      "latitude": "31.69893000",
+      "longitude": "35.95530000"
+    },
+    {
+      "id": 63132,
+      "name": "Al Jubayhah",
+      "latitude": "32.01071000",
+      "longitude": "35.89802000"
+    },
+    {
+      "id": 63141,
+      "name": "Amman",
+      "latitude": "31.95522000",
+      "longitude": "35.94503000"
+    },
+    {
+      "id": 63203,
+      "name": "Ḩayy al Bunayyāt",
+      "latitude": "31.89603000",
+      "longitude": "35.88465000"
+    },
+    {
+      "id": 63204,
+      "name": "Ḩayy al Quwaysimah",
+      "latitude": "31.91037000",
+      "longitude": "35.94975000"
+    },
+    {
+      "id": 63162,
+      "name": "Jāwā",
+      "latitude": "31.85247000",
+      "longitude": "35.93928000"
+    },
+    {
+      "id": 63185,
+      "name": "Saḩāb",
+      "latitude": "31.87032000",
+      "longitude": "36.00479000"
+    },
+    {
+      "id": 63192,
+      "name": "Umm as Summāq",
+      "latitude": "31.88542000",
+      "longitude": "35.85430000"
+    },
+    {
+      "id": 63194,
+      "name": "Wādī as Sīr",
+      "latitude": "31.95450000",
+      "longitude": "35.81831000"
+    }
+  ],
+  "country": {
+    "id": 111,
+    "name": "Jordan",
+    "iso3": "JOR",
+    "iso2": "JO",
+    "numeric_code": "400",
+    "phone_code": "962",
+    "capital": "Amman",
+    "currency": "JOD",
+    "currency_name": "Jordanian dinar",
+    "currency_symbol": "ا.د",
+    "tld": ".jo",
+    "native": "الأردن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Amman",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "요르단",
+      "pt-BR": "Jordânia",
+      "pt": "Jordânia",
+      "nl": "Jordanië",
+      "hr": "Jordan",
+      "fa": "اردن",
+      "de": "Jordanien",
+      "es": "Jordania",
+      "fr": "Jordanie",
+      "ja": "ヨルダン",
+      "it": "Giordania",
+      "cn": "约旦",
+      "tr": "Ürdün"
+    },
+    "latitude": "31.00000000",
+    "longitude": "36.00000000",
+    "emoji": "🇯🇴",
+    "emojiU": "U+1F1EF U+1F1F4"
+  }
+}

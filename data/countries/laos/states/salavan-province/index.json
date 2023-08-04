@@ -1,0 +1,108 @@
+{
+  "id": 981,
+  "name": "Salavan Province",
+  "state_code": "SL",
+  "latitude": "15.81710730",
+  "longitude": "106.25221430",
+  "type": null,
+  "cities": [
+    {
+      "id": 65875,
+      "name": "Muang Khôngxédôn",
+      "latitude": "15.54626000",
+      "longitude": "105.77051000"
+    },
+    {
+      "id": 65876,
+      "name": "Muang Lakhonphéng",
+      "latitude": "15.83308000",
+      "longitude": "105.59745000"
+    },
+    {
+      "id": 65878,
+      "name": "Muang Laongam",
+      "latitude": "15.47745000",
+      "longitude": "106.14111000"
+    },
+    {
+      "id": 65896,
+      "name": "Muang Samouay",
+      "latitude": "16.35868000",
+      "longitude": "106.87480000"
+    },
+    {
+      "id": 65899,
+      "name": "Muang Saravan",
+      "latitude": "15.71587000",
+      "longitude": "106.36158000"
+    },
+    {
+      "id": 65902,
+      "name": "Muang Ta-Ôy",
+      "latitude": "16.07765000",
+      "longitude": "106.70304000"
+    },
+    {
+      "id": 65907,
+      "name": "Muang Toumlan",
+      "latitude": "16.02236000",
+      "longitude": "106.23837000"
+    },
+    {
+      "id": 65909,
+      "name": "Muang Vapi",
+      "latitude": "15.75005000",
+      "longitude": "105.95529000"
+    },
+    {
+      "id": 65922,
+      "name": "Salavan",
+      "latitude": "15.71652000",
+      "longitude": "106.41744000"
+    }
+  ],
+  "country": {
+    "id": 119,
+    "name": "Laos",
+    "iso3": "LAO",
+    "iso2": "LA",
+    "numeric_code": "418",
+    "phone_code": "856",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "currency_name": "Lao kip",
+    "currency_symbol": "₭",
+    "tld": ".la",
+    "native": "ສປປລາວ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Vientiane",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "라오스",
+      "pt-BR": "Laos",
+      "pt": "Laos",
+      "nl": "Laos",
+      "hr": "Laos",
+      "fa": "لائوس",
+      "de": "Laos",
+      "es": "Laos",
+      "fr": "Laos",
+      "ja": "ラオス人民民主共和国",
+      "it": "Laos",
+      "cn": "寮人民民主共和国",
+      "tr": "Laos"
+    },
+    "latitude": "18.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇱🇦",
+    "emojiU": "U+1F1F1 U+1F1E6"
+  }
+}

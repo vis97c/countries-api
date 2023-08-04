@@ -1,0 +1,132 @@
+{
+  "id": 2222,
+  "name": "Isparta",
+  "state_code": "32",
+  "latitude": "38.02114640",
+  "longitude": "31.07937050",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107094,
+      "name": "Aksu",
+      "latitude": "37.79889000",
+      "longitude": "31.07111000"
+    },
+    {
+      "id": 107204,
+      "name": "Atabey",
+      "latitude": "37.95083000",
+      "longitude": "30.63861000"
+    },
+    {
+      "id": 107627,
+      "name": "Eğirdir",
+      "latitude": "37.87462000",
+      "longitude": "30.85042000"
+    },
+    {
+      "id": 107653,
+      "name": "Gelendost",
+      "latitude": "38.12083000",
+      "longitude": "31.01528000"
+    },
+    {
+      "id": 107707,
+      "name": "Gönen",
+      "latitude": "37.95639000",
+      "longitude": "30.51140000"
+    },
+    {
+      "id": 107989,
+      "name": "Keçiborlu",
+      "latitude": "37.94250000",
+      "longitude": "30.30222000"
+    },
+    {
+      "id": 107850,
+      "name": "Merkez",
+      "latitude": "37.76444000",
+      "longitude": "30.55222000"
+    },
+    {
+      "id": 108935,
+      "name": "Şarkikaraağaç",
+      "latitude": "38.07944000",
+      "longitude": "31.36639000"
+    },
+    {
+      "id": 108436,
+      "name": "Senirkent",
+      "latitude": "38.10444000",
+      "longitude": "30.54861000"
+    },
+    {
+      "id": 108526,
+      "name": "Sütçüler",
+      "latitude": "37.51120000",
+      "longitude": "30.95661000"
+    },
+    {
+      "id": 108624,
+      "name": "Uluborlu",
+      "latitude": "38.07825000",
+      "longitude": "30.45019000"
+    },
+    {
+      "id": 108666,
+      "name": "Yalvaç",
+      "latitude": "38.29556000",
+      "longitude": "31.17778000"
+    },
+    {
+      "id": 108712,
+      "name": "Yenişarbademli",
+      "latitude": "37.70778000",
+      "longitude": "31.38639000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

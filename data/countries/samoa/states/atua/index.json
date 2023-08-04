@@ -1,0 +1,78 @@
+{
+  "id": 4765,
+  "name": "Atua",
+  "state_code": "AT",
+  "latitude": "-13.97870530",
+  "longitude": "-171.62542830",
+  "type": null,
+  "cities": [
+    {
+      "id": 130646,
+      "name": "Falefa",
+      "latitude": "-13.88695000",
+      "longitude": "-171.58805000"
+    },
+    {
+      "id": 130650,
+      "name": "Lotofagā",
+      "latitude": "-13.97643000",
+      "longitude": "-171.85781000"
+    },
+    {
+      "id": 130651,
+      "name": "Lufilufi",
+      "latitude": "-13.87449000",
+      "longitude": "-171.59857000"
+    },
+    {
+      "id": 130659,
+      "name": "Solosolo",
+      "latitude": "-13.87504000",
+      "longitude": "-171.64181000"
+    }
+  ],
+  "country": {
+    "id": 191,
+    "name": "Samoa",
+    "iso3": "WSM",
+    "iso2": "WS",
+    "numeric_code": "882",
+    "phone_code": "685",
+    "capital": "Apia",
+    "currency": "WST",
+    "currency_name": "Samoan tālā",
+    "currency_symbol": "SAT",
+    "tld": ".ws",
+    "native": "Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Apia",
+        "gmtOffset": 50400,
+        "gmtOffsetName": "UTC+14:00",
+        "abbreviation": "WST",
+        "tzName": "West Samoa Time"
+      }
+    ],
+    "translations": {
+      "kr": "사모아",
+      "pt-BR": "Samoa",
+      "pt": "Samoa",
+      "nl": "Samoa",
+      "hr": "Samoa",
+      "fa": "ساموآ",
+      "de": "Samoa",
+      "es": "Samoa",
+      "fr": "Samoa",
+      "ja": "サモア",
+      "it": "Samoa",
+      "cn": "萨摩亚",
+      "tr": "Samoa"
+    },
+    "latitude": "-13.58333333",
+    "longitude": "-172.33333333",
+    "emoji": "🇼🇸",
+    "emojiU": "U+1F1FC U+1F1F8"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 3556,
+  "name": "Viljandi County",
+  "state_code": "84",
+  "latitude": "58.28217460",
+  "longitude": "25.57522330",
+  "type": null,
+  "cities": [
+    {
+      "id": 31593,
+      "name": "Abja-Paluoja",
+      "latitude": "58.12528000",
+      "longitude": "25.34972000"
+    },
+    {
+      "id": 31625,
+      "name": "Karksi-Nuia",
+      "latitude": "58.10333000",
+      "longitude": "25.56278000"
+    },
+    {
+      "id": 31664,
+      "name": "Mõisaküla",
+      "latitude": "58.09222000",
+      "longitude": "25.18639000"
+    },
+    {
+      "id": 31711,
+      "name": "Suure-Jaani",
+      "latitude": "58.53611000",
+      "longitude": "25.47056000"
+    },
+    {
+      "id": 31739,
+      "name": "Viiratsi",
+      "latitude": "58.36000000",
+      "longitude": "25.63722000"
+    },
+    {
+      "id": 31740,
+      "name": "Viljandi",
+      "latitude": "58.36389000",
+      "longitude": "25.59000000"
+    },
+    {
+      "id": 31741,
+      "name": "Viljandi vald",
+      "latitude": "58.36392000",
+      "longitude": "25.49103000"
+    },
+    {
+      "id": 31751,
+      "name": "Võhma",
+      "latitude": "58.62833000",
+      "longitude": "25.54833000"
+    }
+  ],
+  "country": {
+    "id": 69,
+    "name": "Estonia",
+    "iso3": "EST",
+    "iso2": "EE",
+    "numeric_code": "233",
+    "phone_code": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".ee",
+    "native": "Eesti",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Tallinn",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스토니아",
+      "pt-BR": "Estônia",
+      "pt": "Estónia",
+      "nl": "Estland",
+      "hr": "Estonija",
+      "fa": "استونی",
+      "de": "Estland",
+      "es": "Estonia",
+      "fr": "Estonie",
+      "ja": "エストニア",
+      "it": "Estonia",
+      "cn": "爱沙尼亚",
+      "tr": "Estonya"
+    },
+    "latitude": "59.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇪🇪",
+    "emojiU": "U+1F1EA U+1F1EA"
+  }
+}

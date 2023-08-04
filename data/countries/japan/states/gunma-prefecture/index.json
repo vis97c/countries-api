@@ -1,0 +1,240 @@
+{
+  "id": 862,
+  "name": "Gunma Prefecture",
+  "state_code": "10",
+  "latitude": "36.56053880",
+  "longitude": "138.87999720",
+  "type": null,
+  "cities": [
+    {
+      "id": 63217,
+      "name": "Agatsuma-gun",
+      "latitude": "36.57368000",
+      "longitude": "138.67243000"
+    },
+    {
+      "id": 63247,
+      "name": "Annaka",
+      "latitude": "36.33011000",
+      "longitude": "138.89585000"
+    },
+    {
+      "id": 63248,
+      "name": "Annaka Shi",
+      "latitude": "36.34079000",
+      "longitude": "138.77647000"
+    },
+    {
+      "id": 63350,
+      "name": "Fujioka",
+      "latitude": "36.24624000",
+      "longitude": "139.07204000"
+    },
+    {
+      "id": 63351,
+      "name": "Fujioka Shi",
+      "latitude": "36.19213000",
+      "longitude": "138.99918000"
+    },
+    {
+      "id": 63588,
+      "name": "Isesaki",
+      "latitude": "36.31667000",
+      "longitude": "139.20000000"
+    },
+    {
+      "id": 63589,
+      "name": "Isesaki Shi",
+      "latitude": "36.32126000",
+      "longitude": "139.21823000"
+    },
+    {
+      "id": 63709,
+      "name": "Kanekomachi",
+      "latitude": "36.41097000",
+      "longitude": "138.99621000"
+    },
+    {
+      "id": 63790,
+      "name": "Kiryū",
+      "latitude": "36.40000000",
+      "longitude": "139.33333000"
+    },
+    {
+      "id": 63791,
+      "name": "Kiryū Shi",
+      "latitude": "36.45702000",
+      "longitude": "139.30962000"
+    },
+    {
+      "id": 63908,
+      "name": "Maebashi",
+      "latitude": "36.40000000",
+      "longitude": "139.08333000"
+    },
+    {
+      "id": 63909,
+      "name": "Maebashi Shi",
+      "latitude": "36.41432000",
+      "longitude": "139.13110000"
+    },
+    {
+      "id": 63946,
+      "name": "Midori",
+      "latitude": "36.44492000",
+      "longitude": "139.28448000"
+    },
+    {
+      "id": 63947,
+      "name": "Midori Shi",
+      "latitude": "36.53044000",
+      "longitude": "139.34728000"
+    },
+    {
+      "id": 64088,
+      "name": "Nakanojōmachi",
+      "latitude": "36.58717000",
+      "longitude": "138.84083000"
+    },
+    {
+      "id": 64170,
+      "name": "Numata",
+      "latitude": "36.63333000",
+      "longitude": "139.05000000"
+    },
+    {
+      "id": 64171,
+      "name": "Numata Shi",
+      "latitude": "36.67371000",
+      "longitude": "139.18353000"
+    },
+    {
+      "id": 64737,
+      "name": "Ōmamachō-ōmama",
+      "latitude": "36.43181000",
+      "longitude": "139.27534000"
+    },
+    {
+      "id": 64757,
+      "name": "Ōta",
+      "latitude": "36.30000000",
+      "longitude": "139.36667000"
+    },
+    {
+      "id": 64759,
+      "name": "Ōta-shi",
+      "latitude": "36.30000000",
+      "longitude": "139.36667000"
+    },
+    {
+      "id": 64258,
+      "name": "Sakai-nakajima",
+      "latitude": "36.26667000",
+      "longitude": "139.25000000"
+    },
+    {
+      "id": 64312,
+      "name": "Shibukawa",
+      "latitude": "36.48333000",
+      "longitude": "139.00000000"
+    },
+    {
+      "id": 64313,
+      "name": "Shibukawa-shi",
+      "latitude": "36.50000000",
+      "longitude": "138.98333000"
+    },
+    {
+      "id": 64436,
+      "name": "Takasaki",
+      "latitude": "36.33333000",
+      "longitude": "139.01667000"
+    },
+    {
+      "id": 64437,
+      "name": "Takasaki Shi",
+      "latitude": "36.40538000",
+      "longitude": "138.89227000"
+    },
+    {
+      "id": 64456,
+      "name": "Tamamura",
+      "latitude": "36.30000000",
+      "longitude": "139.11667000"
+    },
+    {
+      "id": 64472,
+      "name": "Tatebayashi",
+      "latitude": "36.25000000",
+      "longitude": "139.53333000"
+    },
+    {
+      "id": 64473,
+      "name": "Tatebayashi-shi",
+      "latitude": "36.24597000",
+      "longitude": "139.53533000"
+    },
+    {
+      "id": 64506,
+      "name": "Tomioka",
+      "latitude": "36.25411000",
+      "longitude": "138.89813000"
+    },
+    {
+      "id": 64507,
+      "name": "Tomioka-shi",
+      "latitude": "36.25000000",
+      "longitude": "138.88333000"
+    },
+    {
+      "id": 64684,
+      "name": "Yoshii",
+      "latitude": "36.25000000",
+      "longitude": "138.98333000"
+    }
+  ],
+  "country": {
+    "id": 109,
+    "name": "Japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "numeric_code": "392",
+    "phone_code": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currency_name": "Japanese yen",
+    "currency_symbol": "¥",
+    "tld": ".jp",
+    "native": "日本",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tokyo",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "JST",
+        "tzName": "Japan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "일본",
+      "pt-BR": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن",
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "cn": "日本",
+      "tr": "Japonya"
+    },
+    "latitude": "36.00000000",
+    "longitude": "138.00000000",
+    "emoji": "🇯🇵",
+    "emojiU": "U+1F1EF U+1F1F5"
+  }
+}

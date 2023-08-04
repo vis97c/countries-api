@@ -1,0 +1,186 @@
+{
+  "id": 811,
+  "name": "Khulna District",
+  "state_code": "27",
+  "latitude": "22.67377350",
+  "longitude": "89.39665810",
+  "type": "district",
+  "cities": [
+    {
+      "id": 8456,
+      "name": "Bagerhat",
+      "latitude": "22.40000000",
+      "longitude": "89.75000000"
+    },
+    {
+      "id": 8467,
+      "name": "Bhātpāra Abhaynagar",
+      "latitude": "23.01472000",
+      "longitude": "89.43936000"
+    },
+    {
+      "id": 8464,
+      "name": "Bherāmāra",
+      "latitude": "24.02452000",
+      "longitude": "88.99234000"
+    },
+    {
+      "id": 8482,
+      "name": "Chuadanga",
+      "latitude": "23.63333000",
+      "longitude": "88.85000000"
+    },
+    {
+      "id": 8504,
+      "name": "Jessore",
+      "latitude": "23.08333000",
+      "longitude": "89.16667000"
+    },
+    {
+      "id": 8506,
+      "name": "Jhenaidah",
+      "latitude": "23.50000000",
+      "longitude": "89.16667000"
+    },
+    {
+      "id": 8507,
+      "name": "Jhingergācha",
+      "latitude": "23.11134000",
+      "longitude": "89.09061000"
+    },
+    {
+      "id": 8519,
+      "name": "Kālia",
+      "latitude": "23.04300000",
+      "longitude": "89.63094000"
+    },
+    {
+      "id": 8520,
+      "name": "Kālīganj",
+      "latitude": "23.40964000",
+      "longitude": "89.13801000"
+    },
+    {
+      "id": 8511,
+      "name": "Kesabpur",
+      "latitude": "22.90725000",
+      "longitude": "89.21954000"
+    },
+    {
+      "id": 8514,
+      "name": "Khulna",
+      "latitude": "22.50000000",
+      "longitude": "89.33333000"
+    },
+    {
+      "id": 8518,
+      "name": "Kushtia",
+      "latitude": "23.83333000",
+      "longitude": "88.91667000"
+    },
+    {
+      "id": 8528,
+      "name": "Magura",
+      "latitude": "23.43333000",
+      "longitude": "89.43333000"
+    },
+    {
+      "id": 8536,
+      "name": "Meherpur",
+      "latitude": "23.75000000",
+      "longitude": "88.70000000"
+    },
+    {
+      "id": 8538,
+      "name": "Morrelgonj",
+      "latitude": "22.45566000",
+      "longitude": "89.85584000"
+    },
+    {
+      "id": 8546,
+      "name": "Narail",
+      "latitude": "23.13333000",
+      "longitude": "89.60000000"
+    },
+    {
+      "id": 8554,
+      "name": "Nowlamary",
+      "latitude": "23.67346000",
+      "longitude": "88.98885000"
+    },
+    {
+      "id": 8566,
+      "name": "Phultala",
+      "latitude": "22.71673000",
+      "longitude": "89.51194000"
+    },
+    {
+      "id": 8585,
+      "name": "Sarankhola",
+      "latitude": "22.31006000",
+      "longitude": "89.79113000"
+    },
+    {
+      "id": 8587,
+      "name": "Satkhira",
+      "latitude": "22.35000000",
+      "longitude": "89.15000000"
+    },
+    {
+      "id": 8606,
+      "name": "Ujalpur",
+      "latitude": "23.80562000",
+      "longitude": "88.62444000"
+    },
+    {
+      "id": 8607,
+      "name": "Uttar Char Fasson",
+      "latitude": "22.22647000",
+      "longitude": "90.71275000"
+    }
+  ],
+  "country": {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "numeric_code": "050",
+    "phone_code": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currency_name": "Bangladeshi taka",
+    "currency_symbol": "৳",
+    "tld": ".bd",
+    "native": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dhaka",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "BDT",
+        "tzName": "Bangladesh Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+    },
+    "latitude": "24.00000000",
+    "longitude": "90.00000000",
+    "emoji": "🇧🇩",
+    "emojiU": "U+1F1E7 U+1F1E9"
+  }
+}

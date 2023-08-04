@@ -1,0 +1,78 @@
+{
+  "id": 1118,
+  "name": "Adrar",
+  "state_code": "01",
+  "latitude": "26.41813100",
+  "longitude": "-0.60147170",
+  "type": null,
+  "cities": [
+    {
+      "id": 31227,
+      "name": "Adrar",
+      "latitude": "27.87429000",
+      "longitude": "-0.29388000"
+    },
+    {
+      "id": 31234,
+      "name": "Aoulef",
+      "latitude": "26.96667000",
+      "longitude": "1.08333000"
+    },
+    {
+      "id": 31406,
+      "name": "Reggane",
+      "latitude": "26.71576000",
+      "longitude": "0.17140000"
+    },
+    {
+      "id": 31450,
+      "name": "Timimoun",
+      "latitude": "29.26388000",
+      "longitude": "0.23098000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

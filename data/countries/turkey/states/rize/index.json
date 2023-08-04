@@ -1,0 +1,126 @@
+{
+  "id": 2219,
+  "name": "Rize",
+  "state_code": "53",
+  "latitude": "40.95814970",
+  "longitude": "40.92269850",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107182,
+      "name": "Ardeşen",
+      "latitude": "41.19111000",
+      "longitude": "40.98750000"
+    },
+    {
+      "id": 153358,
+      "name": "Çamlıhemşin",
+      "latitude": "41.04593800",
+      "longitude": "41.00527500"
+    },
+    {
+      "id": 108800,
+      "name": "Çayeli",
+      "latitude": "41.08941000",
+      "longitude": "40.73696000"
+    },
+    {
+      "id": 153359,
+      "name": "Derepazarı",
+      "latitude": "41.02472200",
+      "longitude": "40.42555600"
+    },
+    {
+      "id": 107644,
+      "name": "Fındıklı",
+      "latitude": "41.27110000",
+      "longitude": "41.14449000"
+    },
+    {
+      "id": 107743,
+      "name": "Güneysu",
+      "latitude": "40.98130000",
+      "longitude": "40.60465000"
+    },
+    {
+      "id": 107821,
+      "name": "Hemşin",
+      "latitude": "41.05922000",
+      "longitude": "40.90140000"
+    },
+    {
+      "id": 108889,
+      "name": "İkizdere",
+      "latitude": "40.77713000",
+      "longitude": "40.56076000"
+    },
+    {
+      "id": 108922,
+      "name": "İyidere",
+      "latitude": "41.00905000",
+      "longitude": "40.37776000"
+    },
+    {
+      "id": 107877,
+      "name": "Kalkandere",
+      "latitude": "40.92143000",
+      "longitude": "40.43999000"
+    },
+    {
+      "id": 108371,
+      "name": "Merkez",
+      "latitude": "41.02083000",
+      "longitude": "40.52194000"
+    },
+    {
+      "id": 108321,
+      "name": "Pazar",
+      "latitude": "41.17917000",
+      "longitude": "40.88417000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

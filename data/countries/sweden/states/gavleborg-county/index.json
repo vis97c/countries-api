@@ -1,0 +1,222 @@
+{
+  "id": 1533,
+  "name": "Gävleborg County",
+  "state_code": "X",
+  "latitude": "61.30119930",
+  "longitude": "16.15342140",
+  "type": null,
+  "cities": [
+    {
+      "id": 102990,
+      "name": "Alfta",
+      "latitude": "61.34675000",
+      "longitude": "16.07499000"
+    },
+    {
+      "id": 103009,
+      "name": "Arbrå",
+      "latitude": "61.46667000",
+      "longitude": "16.38333000"
+    },
+    {
+      "id": 104014,
+      "name": "Årsunda",
+      "latitude": "60.51644000",
+      "longitude": "16.73436000"
+    },
+    {
+      "id": 103033,
+      "name": "Bergby",
+      "latitude": "60.92931000",
+      "longitude": "17.04194000"
+    },
+    {
+      "id": 103038,
+      "name": "Bergsjö",
+      "latitude": "61.98253000",
+      "longitude": "17.06368000"
+    },
+    {
+      "id": 103067,
+      "name": "Bollnäs",
+      "latitude": "61.34817000",
+      "longitude": "16.39464000"
+    },
+    {
+      "id": 103118,
+      "name": "Delsbo",
+      "latitude": "61.80104000",
+      "longitude": "16.55571000"
+    },
+    {
+      "id": 103129,
+      "name": "Edsbyn",
+      "latitude": "61.37692000",
+      "longitude": "15.81747000"
+    },
+    {
+      "id": 103193,
+      "name": "Färila",
+      "latitude": "61.80011000",
+      "longitude": "15.84422000"
+    },
+    {
+      "id": 103177,
+      "name": "Forsbacka",
+      "latitude": "60.61667000",
+      "longitude": "16.88333000"
+    },
+    {
+      "id": 103240,
+      "name": "Gävle",
+      "latitude": "60.67452000",
+      "longitude": "17.14174000"
+    },
+    {
+      "id": 103214,
+      "name": "Gnarp",
+      "latitude": "62.04874000",
+      "longitude": "17.25858000"
+    },
+    {
+      "id": 103276,
+      "name": "Hedesunda",
+      "latitude": "60.40000000",
+      "longitude": "17.00000000"
+    },
+    {
+      "id": 103293,
+      "name": "Hofors",
+      "latitude": "60.54573000",
+      "longitude": "16.28668000"
+    },
+    {
+      "id": 103305,
+      "name": "Hudiksvall",
+      "latitude": "61.72744000",
+      "longitude": "17.10558000"
+    },
+    {
+      "id": 103344,
+      "name": "Iggesund",
+      "latitude": "61.64219000",
+      "longitude": "17.07477000"
+    },
+    {
+      "id": 103361,
+      "name": "Järbo",
+      "latitude": "60.71667000",
+      "longitude": "16.60000000"
+    },
+    {
+      "id": 103365,
+      "name": "Järvsö",
+      "latitude": "61.71667000",
+      "longitude": "16.16667000"
+    },
+    {
+      "id": 103389,
+      "name": "Kilafors",
+      "latitude": "61.23333000",
+      "longitude": "16.56667000"
+    },
+    {
+      "id": 103485,
+      "name": "Ljusdal",
+      "latitude": "61.82883000",
+      "longitude": "16.09126000"
+    },
+    {
+      "id": 103488,
+      "name": "Ljusne",
+      "latitude": "61.21170000",
+      "longitude": "17.12790000"
+    },
+    {
+      "id": 103607,
+      "name": "Ockelbo",
+      "latitude": "60.89120000",
+      "longitude": "16.71846000"
+    },
+    {
+      "id": 103680,
+      "name": "Sandarne",
+      "latitude": "61.25893000",
+      "longitude": "17.15284000"
+    },
+    {
+      "id": 103681,
+      "name": "Sandviken",
+      "latitude": "60.61667000",
+      "longitude": "16.76667000"
+    },
+    {
+      "id": 103819,
+      "name": "Söderhamn",
+      "latitude": "61.30373000",
+      "longitude": "17.05921000"
+    },
+    {
+      "id": 103832,
+      "name": "Sörforsa",
+      "latitude": "61.73333000",
+      "longitude": "16.98333000"
+    },
+    {
+      "id": 103768,
+      "name": "Storvik",
+      "latitude": "60.58333000",
+      "longitude": "16.53333000"
+    },
+    {
+      "id": 103912,
+      "name": "Valbo",
+      "latitude": "60.65000000",
+      "longitude": "17.03333000"
+    }
+  ],
+  "country": {
+    "id": 213,
+    "name": "Sweden",
+    "iso3": "SWE",
+    "iso2": "SE",
+    "numeric_code": "752",
+    "phone_code": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "currency_name": "Swedish krona",
+    "currency_symbol": "kr",
+    "tld": ".se",
+    "native": "Sverige",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Stockholm",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스웨덴",
+      "pt-BR": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد",
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "cn": "瑞典",
+      "tr": "İsveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "15.00000000",
+    "emoji": "🇸🇪",
+    "emojiU": "U+1F1F8 U+1F1EA"
+  }
+}

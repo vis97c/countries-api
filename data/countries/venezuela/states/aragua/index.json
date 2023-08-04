@@ -1,0 +1,114 @@
+{
+  "id": 2047,
+  "name": "Aragua",
+  "state_code": "D",
+  "latitude": "10.06357580",
+  "longitude": "-67.28478750",
+  "type": "state",
+  "cities": [
+    {
+      "id": 130052,
+      "name": "Cagua",
+      "latitude": "10.18634000",
+      "longitude": "-67.45935000"
+    },
+    {
+      "id": 130077,
+      "name": "El Limón",
+      "latitude": "10.30589000",
+      "longitude": "-67.63212000"
+    },
+    {
+      "id": 130093,
+      "name": "La Victoria",
+      "latitude": "10.22677000",
+      "longitude": "-67.33122000"
+    },
+    {
+      "id": 130096,
+      "name": "Las Tejerías",
+      "latitude": "10.25416000",
+      "longitude": "-67.17333000"
+    },
+    {
+      "id": 130104,
+      "name": "Maracay",
+      "latitude": "10.23535000",
+      "longitude": "-67.59113000"
+    },
+    {
+      "id": 130128,
+      "name": "Palo Negro",
+      "latitude": "10.17389000",
+      "longitude": "-67.54194000"
+    },
+    {
+      "id": 130151,
+      "name": "San Mateo",
+      "latitude": "10.21302000",
+      "longitude": "-67.42365000"
+    },
+    {
+      "id": 130153,
+      "name": "Santa Rita",
+      "latitude": "10.20540000",
+      "longitude": "-67.55948000"
+    },
+    {
+      "id": 130162,
+      "name": "Turmero",
+      "latitude": "10.22856000",
+      "longitude": "-67.47421000"
+    },
+    {
+      "id": 130169,
+      "name": "Villa de Cura",
+      "latitude": "10.03863000",
+      "longitude": "-67.48938000"
+    }
+  ],
+  "country": {
+    "id": 239,
+    "name": "Venezuela",
+    "iso3": "VEN",
+    "iso2": "VE",
+    "numeric_code": "862",
+    "phone_code": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "currency_name": "Bolívar",
+    "currency_symbol": "Bs",
+    "tld": ".ve",
+    "native": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Caracas",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "VET",
+        "tzName": "Venezuelan Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "베네수엘라",
+      "pt-BR": "Venezuela",
+      "pt": "Venezuela",
+      "nl": "Venezuela",
+      "hr": "Venezuela",
+      "fa": "ونزوئلا",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fr": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "it": "Venezuela",
+      "cn": "委内瑞拉",
+      "tr": "Venezuela"
+    },
+    "latitude": "8.00000000",
+    "longitude": "-66.00000000",
+    "emoji": "🇻🇪",
+    "emojiU": "U+1F1FB U+1F1EA"
+  }
+}

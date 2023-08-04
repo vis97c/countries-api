@@ -1,0 +1,178 @@
+{
+  "id": 10,
+  "name": "Antigua And Barbuda",
+  "iso3": "ATG",
+  "iso2": "AG",
+  "numeric_code": "028",
+  "phone_code": "+1-268",
+  "capital": "St. John's",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "tld": ".ag",
+  "native": "Antigua and Barbuda",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": [
+    {
+      "zoneName": "America/Antigua",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "앤티가 바부다",
+    "pt-BR": "Antígua e Barbuda",
+    "pt": "Antígua e Barbuda",
+    "nl": "Antigua en Barbuda",
+    "hr": "Antigva i Barbuda",
+    "fa": "آنتیگوا و باربودا",
+    "de": "Antigua und Barbuda",
+    "es": "Antigua y Barbuda",
+    "fr": "Antigua-et-Barbuda",
+    "ja": "アンティグア・バーブーダ",
+    "it": "Antigua e Barbuda",
+    "cn": "安提瓜和巴布达",
+    "tr": "Antigua Ve Barbuda"
+  },
+  "latitude": "17.05000000",
+  "longitude": "-61.80000000",
+  "emoji": "🇦🇬",
+  "emojiU": "U+1F1E6 U+1F1EC",
+  "states": [
+    {
+      "id": 3708,
+      "name": "Barbuda",
+      "state_code": "10",
+      "latitude": "17.62662420",
+      "longitude": "-61.77130280",
+      "type": null,
+      "cities": [
+        {
+          "id": 144,
+          "name": "Codrington",
+          "latitude": "17.63333000",
+          "longitude": "-61.83333000"
+        }
+      ]
+    },
+    {
+      "id": 3703,
+      "name": "Redonda",
+      "state_code": "11",
+      "latitude": "16.93841600",
+      "longitude": "-62.34551480",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 3709,
+      "name": "Saint George Parish",
+      "state_code": "03",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 148,
+          "name": "Piggotts",
+          "latitude": "17.11667000",
+          "longitude": "-61.80000000"
+        }
+      ]
+    },
+    {
+      "id": 3706,
+      "name": "Saint John Parish",
+      "state_code": "04",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 149,
+          "name": "Potters Village",
+          "latitude": "17.11337000",
+          "longitude": "-61.81962000"
+        },
+        {
+          "id": 150,
+          "name": "Saint John’s",
+          "latitude": "17.12096000",
+          "longitude": "-61.84329000"
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "name": "Saint Mary Parish",
+      "state_code": "05",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 143,
+          "name": "Bolands",
+          "latitude": "17.06565000",
+          "longitude": "-61.87466000"
+        }
+      ]
+    },
+    {
+      "id": 3705,
+      "name": "Saint Paul Parish",
+      "state_code": "06",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 145,
+          "name": "Falmouth",
+          "latitude": "17.02741000",
+          "longitude": "-61.78136000"
+        },
+        {
+          "id": 146,
+          "name": "Liberta",
+          "latitude": "17.04141000",
+          "longitude": "-61.79052000"
+        }
+      ]
+    },
+    {
+      "id": 3704,
+      "name": "Saint Peter Parish",
+      "state_code": "07",
+      "latitude": null,
+      "longitude": null,
+      "type": null,
+      "cities": [
+        {
+          "id": 142,
+          "name": "All Saints",
+          "latitude": "17.06671000",
+          "longitude": "-61.79303000"
+        },
+        {
+          "id": 147,
+          "name": "Parham",
+          "latitude": "17.09682000",
+          "longitude": "-61.77046000"
+        }
+      ]
+    },
+    {
+      "id": 3710,
+      "name": "Saint Philip Parish",
+      "state_code": "08",
+      "latitude": "40.43682580",
+      "longitude": "-80.06855320",
+      "type": null,
+      "cities": []
+    }
+  ]
+}

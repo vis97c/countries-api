@@ -1,0 +1,725 @@
+{
+  "id": 51,
+  "name": "Democratic Republic of the Congo",
+  "iso3": "COD",
+  "iso2": "CD",
+  "numeric_code": "180",
+  "phone_code": "243",
+  "capital": "Kinshasa",
+  "currency": "CDF",
+  "currency_name": "Congolese Franc",
+  "currency_symbol": "FC",
+  "tld": ".cd",
+  "native": "République démocratique du Congo",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Kinshasa",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    },
+    {
+      "zoneName": "Africa/Lubumbashi",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "translations": {
+    "kr": "콩고 민주 공화국",
+    "pt-BR": "RD Congo",
+    "pt": "RD Congo",
+    "nl": "Congo [DRC]",
+    "hr": "Kongo, Demokratska Republika",
+    "fa": "جمهوری کنگو",
+    "de": "Kongo (Dem. Rep.)",
+    "es": "Congo (Rep. Dem.)",
+    "fr": "Congo (Rép. dém.)",
+    "ja": "コンゴ民主共和国",
+    "it": "Congo (Rep. Dem.)",
+    "cn": "刚果（金）",
+    "tr": "Kongo Demokratik Cumhuriyeti"
+  },
+  "latitude": "0.00000000",
+  "longitude": "25.00000000",
+  "emoji": "🇨🇩",
+  "emojiU": "U+1F1E8 U+1F1E9",
+  "states": [
+    {
+      "id": 2753,
+      "name": "Bas-Uélé",
+      "state_code": "BU",
+      "latitude": "3.99010090",
+      "longitude": "24.90422080",
+      "type": null,
+      "cities": [
+        {
+          "id": 17225,
+          "name": "Aketi",
+          "latitude": "2.73877000",
+          "longitude": "23.78326000"
+        },
+        {
+          "id": 17232,
+          "name": "Bondo",
+          "latitude": "3.81461000",
+          "longitude": "23.68665000"
+        },
+        {
+          "id": 17241,
+          "name": "Buta",
+          "latitude": "2.78582000",
+          "longitude": "24.72997000"
+        }
+      ]
+    },
+    {
+      "id": 2744,
+      "name": "Équateur",
+      "state_code": "EQ",
+      "latitude": "-1.83123900",
+      "longitude": "-78.18340600",
+      "type": null,
+      "cities": [
+        {
+          "id": 17245,
+          "name": "Gemena",
+          "latitude": "3.25651000",
+          "longitude": "19.77234000"
+        },
+        {
+          "id": 17269,
+          "name": "Lisala",
+          "latitude": "2.15127000",
+          "longitude": "21.51672000"
+        },
+        {
+          "id": 17274,
+          "name": "Lukolela",
+          "latitude": "-1.06046000",
+          "longitude": "17.18210000"
+        },
+        {
+          "id": 17279,
+          "name": "Mbandaka",
+          "latitude": "0.04865000",
+          "longitude": "18.26034000"
+        }
+      ]
+    },
+    {
+      "id": 2750,
+      "name": "Haut-Katanga",
+      "state_code": "HK",
+      "latitude": "-10.41020750",
+      "longitude": "27.54958460",
+      "type": null,
+      "cities": [
+        {
+          "id": 17247,
+          "name": "Haut Katanga",
+          "latitude": "-10.46044000",
+          "longitude": "27.94322000"
+        },
+        {
+          "id": 17255,
+          "name": "Kambove",
+          "latitude": "-10.87352000",
+          "longitude": "26.59746000"
+        },
+        {
+          "id": 17264,
+          "name": "Kipushi",
+          "latitude": "-11.76097000",
+          "longitude": "27.25135000"
+        },
+        {
+          "id": 17268,
+          "name": "Likasi",
+          "latitude": "-10.98303000",
+          "longitude": "26.73840000"
+        },
+        {
+          "id": 17272,
+          "name": "Lubumbashi",
+          "latitude": "-11.66089000",
+          "longitude": "27.47938000"
+        }
+      ]
+    },
+    {
+      "id": 2758,
+      "name": "Haut-Lomami",
+      "state_code": "HL",
+      "latitude": "-7.70527520",
+      "longitude": "24.90422080",
+      "type": null,
+      "cities": [
+        {
+          "id": 17235,
+          "name": "Bukama",
+          "latitude": "-9.20443000",
+          "longitude": "25.85475000"
+        },
+        {
+          "id": 17256,
+          "name": "Kamina",
+          "latitude": "-8.73508000",
+          "longitude": "24.99798000"
+        }
+      ]
+    },
+    {
+      "id": 2734,
+      "name": "Haut-Uélé",
+      "state_code": "HU",
+      "latitude": "3.58451540",
+      "longitude": "28.29943500",
+      "type": null,
+      "cities": [
+        {
+          "id": 17250,
+          "name": "Isiro",
+          "latitude": "2.77391000",
+          "longitude": "27.61603000"
+        },
+        {
+          "id": 17291,
+          "name": "Wamba",
+          "latitude": "2.14838000",
+          "longitude": "27.99466000"
+        },
+        {
+          "id": 17292,
+          "name": "Watsa",
+          "latitude": "3.03716000",
+          "longitude": "29.53551000"
+        }
+      ]
+    },
+    {
+      "id": 2751,
+      "name": "Ituri",
+      "state_code": "IT",
+      "latitude": "1.59576820",
+      "longitude": "29.41793240",
+      "type": null,
+      "cities": [
+        {
+          "id": 17239,
+          "name": "Bunia",
+          "latitude": "1.55941000",
+          "longitude": "30.25224000"
+        }
+      ]
+    },
+    {
+      "id": 2757,
+      "name": "Kasaï",
+      "state_code": "KS",
+      "latitude": "-5.04719790",
+      "longitude": "20.71224650",
+      "type": null,
+      "cities": [
+        {
+          "id": 17248,
+          "name": "Ilebo",
+          "latitude": "-4.33111000",
+          "longitude": "20.58638000"
+        },
+        {
+          "id": 17273,
+          "name": "Luebo",
+          "latitude": "-5.35218000",
+          "longitude": "21.42192000"
+        },
+        {
+          "id": 17284,
+          "name": "Mweka",
+          "latitude": "-4.85187000",
+          "longitude": "21.55950000"
+        },
+        {
+          "id": 17289,
+          "name": "Tshikapa",
+          "latitude": "-6.41621000",
+          "longitude": "20.79995000"
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "name": "Kasaï Central",
+      "state_code": "KC",
+      "latitude": "-8.44045910",
+      "longitude": "20.41659340",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2735,
+      "name": "Kasaï Oriental",
+      "state_code": "KE",
+      "latitude": "-6.03362300",
+      "longitude": "23.57285010",
+      "type": null,
+      "cities": [
+        {
+          "id": 17243,
+          "name": "Gandajika",
+          "latitude": "-6.74504000",
+          "longitude": "23.95328000"
+        },
+        {
+          "id": 17253,
+          "name": "Kabinda",
+          "latitude": "-6.13791000",
+          "longitude": "24.48179000"
+        },
+        {
+          "id": 17281,
+          "name": "Mbuji-Mayi",
+          "latitude": "-6.13603000",
+          "longitude": "23.58979000"
+        }
+      ]
+    },
+    {
+      "id": 2741,
+      "name": "Kinshasa",
+      "state_code": "KN",
+      "latitude": "-4.44193110",
+      "longitude": "15.26629310",
+      "type": null,
+      "cities": [
+        {
+          "id": 17263,
+          "name": "Kinshasa",
+          "latitude": "-4.32758000",
+          "longitude": "15.31357000"
+        },
+        {
+          "id": 17277,
+          "name": "Masina",
+          "latitude": "-4.38361000",
+          "longitude": "15.39139000"
+        }
+      ]
+    },
+    {
+      "id": 2746,
+      "name": "Kongo Central",
+      "state_code": "BC",
+      "latitude": "-5.23656850",
+      "longitude": "13.91439900",
+      "type": null,
+      "cities": [
+        {
+          "id": 17231,
+          "name": "Boma",
+          "latitude": "-5.85098000",
+          "longitude": "13.05364000"
+        },
+        {
+          "id": 17258,
+          "name": "Kasangulu",
+          "latitude": "-4.58330000",
+          "longitude": "15.16554000"
+        },
+        {
+          "id": 17278,
+          "name": "Matadi",
+          "latitude": "-5.83861000",
+          "longitude": "13.46306000"
+        },
+        {
+          "id": 17280,
+          "name": "Mbanza-Ngungu",
+          "latitude": "-5.25837000",
+          "longitude": "14.85838000"
+        },
+        {
+          "id": 17282,
+          "name": "Moanda",
+          "latitude": "-5.92753000",
+          "longitude": "12.37148000"
+        },
+        {
+          "id": 17288,
+          "name": "Tshela",
+          "latitude": "-4.99707000",
+          "longitude": "12.94840000"
+        }
+      ]
+    },
+    {
+      "id": 2740,
+      "name": "Kwango",
+      "state_code": "KG",
+      "latitude": "-6.43374090",
+      "longitude": "17.66888700",
+      "type": null,
+      "cities": [
+        {
+          "id": 17260,
+          "name": "Kasongo-Lunda",
+          "latitude": "-6.47833000",
+          "longitude": "16.81735000"
+        }
+      ]
+    },
+    {
+      "id": 2759,
+      "name": "Kwilu",
+      "state_code": "KL",
+      "latitude": "-5.11888250",
+      "longitude": "18.42760470",
+      "type": null,
+      "cities": [
+        {
+          "id": 17226,
+          "name": "Bandundu",
+          "latitude": "-3.31687000",
+          "longitude": "17.38063000"
+        },
+        {
+          "id": 17237,
+          "name": "Bulungu",
+          "latitude": "-4.54437000",
+          "longitude": "18.60364000"
+        },
+        {
+          "id": 17261,
+          "name": "Kikwit",
+          "latitude": "-5.04098000",
+          "longitude": "18.81619000"
+        },
+        {
+          "id": 17276,
+          "name": "Mangai",
+          "latitude": "-4.02328000",
+          "longitude": "19.53385000"
+        }
+      ]
+    },
+    {
+      "id": 2747,
+      "name": "Lomami",
+      "state_code": "LO",
+      "latitude": "-6.14539310",
+      "longitude": "24.52426400",
+      "type": null,
+      "cities": [
+        {
+          "id": 17271,
+          "name": "Lubao",
+          "latitude": "-5.38771000",
+          "longitude": "25.74885000"
+        },
+        {
+          "id": 17285,
+          "name": "Mwene-Ditu",
+          "latitude": "-7.00906000",
+          "longitude": "23.45278000"
+        }
+      ]
+    },
+    {
+      "id": 4953,
+      "name": "Lualaba",
+      "state_code": "LU",
+      "latitude": "-10.48086980",
+      "longitude": "25.62978160",
+      "type": null,
+      "cities": []
+    },
+    {
+      "id": 2755,
+      "name": "Mai-Ndombe",
+      "state_code": "MN",
+      "latitude": "-2.63574340",
+      "longitude": "18.42760470",
+      "type": null,
+      "cities": [
+        {
+          "id": 17230,
+          "name": "Bolobo",
+          "latitude": "-2.15800000",
+          "longitude": "16.23249000"
+        },
+        {
+          "id": 17249,
+          "name": "Inongo",
+          "latitude": "-1.92750000",
+          "longitude": "18.28810000"
+        },
+        {
+          "id": 17283,
+          "name": "Mushie",
+          "latitude": "-3.01728000",
+          "longitude": "16.92238000"
+        },
+        {
+          "id": 17286,
+          "name": "Nioki",
+          "latitude": "-2.72037000",
+          "longitude": "17.69001000"
+        }
+      ]
+    },
+    {
+      "id": 2745,
+      "name": "Maniema",
+      "state_code": "MA",
+      "latitude": "-3.07309290",
+      "longitude": "26.04138890",
+      "type": null,
+      "cities": [
+        {
+          "id": 17257,
+          "name": "Kampene",
+          "latitude": "-3.59678000",
+          "longitude": "26.66715000"
+        },
+        {
+          "id": 17259,
+          "name": "Kasongo",
+          "latitude": "-4.42741000",
+          "longitude": "26.66656000"
+        },
+        {
+          "id": 17262,
+          "name": "Kindu",
+          "latitude": "-2.94373000",
+          "longitude": "25.92237000"
+        }
+      ]
+    },
+    {
+      "id": 2752,
+      "name": "Mongala",
+      "state_code": "MO",
+      "latitude": "1.99623240",
+      "longitude": "21.47528510",
+      "type": null,
+      "cities": [
+        {
+          "id": 17238,
+          "name": "Bumba",
+          "latitude": "2.18771000",
+          "longitude": "22.46827000"
+        }
+      ]
+    },
+    {
+      "id": 2749,
+      "name": "Nord-Kivu",
+      "state_code": "NK",
+      "latitude": "-0.79177290",
+      "longitude": "29.04599270",
+      "type": null,
+      "cities": [
+        {
+          "id": 17228,
+          "name": "Beni",
+          "latitude": "0.49113000",
+          "longitude": "29.47306000"
+        },
+        {
+          "id": 17242,
+          "name": "Butembo",
+          "latitude": "0.14164000",
+          "longitude": "29.29117000"
+        },
+        {
+          "id": 17246,
+          "name": "Goma",
+          "latitude": "-1.67409000",
+          "longitude": "29.22845000"
+        },
+        {
+          "id": 17287,
+          "name": "Sake",
+          "latitude": "-1.57386000",
+          "longitude": "29.04339000"
+        }
+      ]
+    },
+    {
+      "id": 2739,
+      "name": "Nord-Ubangi",
+      "state_code": "NU",
+      "latitude": "3.78787260",
+      "longitude": "21.47528510",
+      "type": null,
+      "cities": [
+        {
+          "id": 17234,
+          "name": "Bosobolo",
+          "latitude": "4.18980000",
+          "longitude": "19.88330000"
+        },
+        {
+          "id": 17240,
+          "name": "Businga",
+          "latitude": "3.33863000",
+          "longitude": "20.88577000"
+        },
+        {
+          "id": 17244,
+          "name": "Gbadolite",
+          "latitude": "4.27900000",
+          "longitude": "21.00284000"
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "name": "Sankuru",
+      "state_code": "SA",
+      "latitude": "-2.84374530",
+      "longitude": "23.38235450",
+      "type": null,
+      "cities": [
+        {
+          "id": 17270,
+          "name": "Lodja",
+          "latitude": "-3.52105000",
+          "longitude": "23.60050000"
+        },
+        {
+          "id": 17275,
+          "name": "Lusambo",
+          "latitude": "-4.97503000",
+          "longitude": "23.44391000"
+        }
+      ]
+    },
+    {
+      "id": 2738,
+      "name": "Sud-Kivu",
+      "state_code": "SK",
+      "latitude": "-3.01165800",
+      "longitude": "28.29943500",
+      "type": null,
+      "cities": [
+        {
+          "id": 17236,
+          "name": "Bukavu",
+          "latitude": "-2.49077000",
+          "longitude": "28.84281000"
+        },
+        {
+          "id": 17252,
+          "name": "Kabare",
+          "latitude": "-2.49682000",
+          "longitude": "28.79081000"
+        },
+        {
+          "id": 17290,
+          "name": "Uvira",
+          "latitude": "-3.39534000",
+          "longitude": "29.13779000"
+        }
+      ]
+    },
+    {
+      "id": 2748,
+      "name": "Sud-Ubangi",
+      "state_code": "SU",
+      "latitude": "3.22999420",
+      "longitude": "19.18800470",
+      "type": null,
+      "cities": [
+        {
+          "id": 17233,
+          "name": "Bongandanga",
+          "latitude": "1.50695000",
+          "longitude": "21.07260000"
+        },
+        {
+          "id": 17267,
+          "name": "Libenge",
+          "latitude": "3.65332000",
+          "longitude": "18.63566000"
+        }
+      ]
+    },
+    {
+      "id": 2733,
+      "name": "Tanganyika",
+      "state_code": "TA",
+      "latitude": "-6.27401180",
+      "longitude": "27.92490020",
+      "type": null,
+      "cities": [
+        {
+          "id": 17251,
+          "name": "Kabalo",
+          "latitude": "-6.05255000",
+          "longitude": "26.91430000"
+        },
+        {
+          "id": 17254,
+          "name": "Kalemie",
+          "latitude": "-5.94749000",
+          "longitude": "29.19471000"
+        },
+        {
+          "id": 17266,
+          "name": "Kongolo",
+          "latitude": "-5.38532000",
+          "longitude": "27.00029000"
+        }
+      ]
+    },
+    {
+      "id": 2756,
+      "name": "Tshopo",
+      "state_code": "TO",
+      "latitude": "0.54554620",
+      "longitude": "24.90422080",
+      "type": null,
+      "cities": [
+        {
+          "id": 17227,
+          "name": "Basoko",
+          "latitude": "1.23909000",
+          "longitude": "23.61598000"
+        },
+        {
+          "id": 17265,
+          "name": "Kisangani",
+          "latitude": "0.51528000",
+          "longitude": "25.19099000"
+        },
+        {
+          "id": 17293,
+          "name": "Yangambi",
+          "latitude": "0.76755000",
+          "longitude": "24.43973000"
+        }
+      ]
+    },
+    {
+      "id": 2732,
+      "name": "Tshuapa",
+      "state_code": "TU",
+      "latitude": "-0.99030230",
+      "longitude": "23.02888440",
+      "type": null,
+      "cities": [
+        {
+          "id": 17229,
+          "name": "Boende",
+          "latitude": "-0.28163000",
+          "longitude": "20.88053000"
+        }
+      ]
+    }
+  ]
+}

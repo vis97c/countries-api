@@ -1,0 +1,90 @@
+{
+  "id": 1136,
+  "name": "Oum El Bouaghi",
+  "state_code": "04",
+  "latitude": "35.86887890",
+  "longitude": "7.11082660",
+  "type": null,
+  "cities": [
+    {
+      "id": 31242,
+      "name": "Aïn Beïda",
+      "latitude": "35.79639000",
+      "longitude": "7.39278000"
+    },
+    {
+      "id": 31244,
+      "name": "Aïn Fakroun",
+      "latitude": "35.97108000",
+      "longitude": "6.87374000"
+    },
+    {
+      "id": 31245,
+      "name": "Aïn Kercha",
+      "latitude": "35.92472000",
+      "longitude": "6.69528000"
+    },
+    {
+      "id": 31330,
+      "name": "El Aouinet",
+      "latitude": "35.86691000",
+      "longitude": "7.88673000"
+    },
+    {
+      "id": 31384,
+      "name": "Meskiana",
+      "latitude": "35.63058000",
+      "longitude": "7.66606000"
+    },
+    {
+      "id": 31404,
+      "name": "Oum el Bouaghi",
+      "latitude": "35.87541000",
+      "longitude": "7.11353000"
+    }
+  ],
+  "country": {
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phone_code": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "알제리",
+      "pt-BR": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر",
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "cn": "阿尔及利亚",
+      "tr": "Cezayir"
+    },
+    "latitude": "28.00000000",
+    "longitude": "3.00000000",
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF"
+  }
+}

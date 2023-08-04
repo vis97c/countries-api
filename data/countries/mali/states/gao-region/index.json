@@ -1,0 +1,84 @@
+{
+  "id": 258,
+  "name": "Gao Region",
+  "state_code": "7",
+  "latitude": "16.90663320",
+  "longitude": "1.52086240",
+  "type": null,
+  "cities": [
+    {
+      "id": 67584,
+      "name": "Ansongo",
+      "latitude": "15.65970000",
+      "longitude": "0.50220000"
+    },
+    {
+      "id": 67592,
+      "name": "Cercle de Bourem",
+      "latitude": "17.71192000",
+      "longitude": "-0.34284000"
+    },
+    {
+      "id": 67601,
+      "name": "Gao",
+      "latitude": "16.27167000",
+      "longitude": "-0.04472000"
+    },
+    {
+      "id": 67602,
+      "name": "Gao Cercle",
+      "latitude": "16.72237000",
+      "longitude": "0.43984000"
+    },
+    {
+      "id": 67605,
+      "name": "Inékar",
+      "latitude": "15.95944000",
+      "longitude": "3.14111000"
+    }
+  ],
+  "country": {
+    "id": 134,
+    "name": "Mali",
+    "iso3": "MLI",
+    "iso2": "ML",
+    "numeric_code": "466",
+    "phone_code": "223",
+    "capital": "Bamako",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ml",
+    "native": "Mali",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bamako",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "말리",
+      "pt-BR": "Mali",
+      "pt": "Mali",
+      "nl": "Mali",
+      "hr": "Mali",
+      "fa": "مالی",
+      "de": "Mali",
+      "es": "Mali",
+      "fr": "Mali",
+      "ja": "マリ",
+      "it": "Mali",
+      "cn": "马里",
+      "tr": "Mali"
+    },
+    "latitude": "17.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇲🇱",
+    "emojiU": "U+1F1F2 U+1F1F1"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": 6,
+  "name": "Andorra",
+  "iso3": "AND",
+  "iso2": "AD",
+  "numeric_code": "020",
+  "phone_code": "376",
+  "capital": "Andorra la Vella",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".ad",
+  "native": "Andorra",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "timezones": [
+    {
+      "zoneName": "Europe/Andorra",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "kr": "안도라",
+    "pt-BR": "Andorra",
+    "pt": "Andorra",
+    "nl": "Andorra",
+    "hr": "Andora",
+    "fa": "آندورا",
+    "de": "Andorra",
+    "es": "Andorra",
+    "fr": "Andorre",
+    "ja": "アンドラ",
+    "it": "Andorra",
+    "cn": "安道尔",
+    "tr": "Andorra"
+  },
+  "latitude": "42.50000000",
+  "longitude": "1.50000000",
+  "emoji": "🇦🇩",
+  "emojiU": "U+1F1E6 U+1F1E9",
+  "states": [
+    {
+      "id": 488,
+      "name": "Andorra la Vella",
+      "state_code": "07",
+      "latitude": "42.50631740",
+      "longitude": "1.52183550",
+      "type": null,
+      "cities": [
+        {
+          "id": 1,
+          "name": "Andorra la Vella",
+          "latitude": "42.50779000",
+          "longitude": "1.52109000"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Canillo",
+      "state_code": "02",
+      "latitude": "42.59782490",
+      "longitude": "1.65663770",
+      "type": null,
+      "cities": [
+        {
+          "id": 3,
+          "name": "Canillo",
+          "latitude": "42.56760000",
+          "longitude": "1.59756000"
+        },
+        {
+          "id": 4,
+          "name": "El Tarter",
+          "latitude": "42.57952000",
+          "longitude": "1.65362000"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Encamp",
+      "state_code": "03",
+      "latitude": "42.53597640",
+      "longitude": "1.58367730",
+      "type": null,
+      "cities": [
+        {
+          "id": 5,
+          "name": "Encamp",
+          "latitude": "42.53474000",
+          "longitude": "1.58014000"
+        },
+        {
+          "id": 7,
+          "name": "Pas de la Casa",
+          "latitude": "42.54277000",
+          "longitude": "1.73361000"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Escaldes-Engordany",
+      "state_code": "08",
+      "latitude": "42.49093790",
+      "longitude": "1.58869660",
+      "type": null,
+      "cities": [
+        {
+          "id": 10,
+          "name": "les Escaldes",
+          "latitude": "42.50729000",
+          "longitude": "1.53414000"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "La Massana",
+      "state_code": "04",
+      "latitude": "42.54562500",
+      "longitude": "1.51473920",
+      "type": null,
+      "cities": [
+        {
+          "id": 2,
+          "name": "Arinsal",
+          "latitude": "42.57205000",
+          "longitude": "1.48453000"
+        },
+        {
+          "id": 9,
+          "name": "la Massana",
+          "latitude": "42.54499000",
+          "longitude": "1.51483000"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Ordino",
+      "state_code": "05",
+      "latitude": "42.59944330",
+      "longitude": "1.54023270",
+      "type": null,
+      "cities": [
+        {
+          "id": 6,
+          "name": "Ordino",
+          "latitude": "42.55623000",
+          "longitude": "1.53319000"
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Sant Julià de Lòria",
+      "state_code": "06",
+      "latitude": "42.45296310",
+      "longitude": "1.49182350",
+      "type": null,
+      "cities": [
+        {
+          "id": 8,
+          "name": "Sant Julià de Lòria",
+          "latitude": "42.46372000",
+          "longitude": "1.49129000"
+        }
+      ]
+    }
+  ]
+}

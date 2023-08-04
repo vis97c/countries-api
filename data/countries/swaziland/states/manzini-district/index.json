@@ -1,0 +1,114 @@
+{
+  "id": 968,
+  "name": "Manzini District",
+  "state_code": "MA",
+  "latitude": "-26.50819990",
+  "longitude": "31.37131640",
+  "type": null,
+  "cities": [
+    {
+      "id": 105082,
+      "name": "Bhunya",
+      "latitude": "-26.55000000",
+      "longitude": "31.01667000"
+    },
+    {
+      "id": 105086,
+      "name": "Ekukhanyeni",
+      "latitude": "-26.38750000",
+      "longitude": "31.52806000"
+    },
+    {
+      "id": 105091,
+      "name": "Kwaluseni",
+      "latitude": "-26.48333000",
+      "longitude": "31.33333000"
+    },
+    {
+      "id": 105095,
+      "name": "Malkerns",
+      "latitude": "-26.56667000",
+      "longitude": "31.18333000"
+    },
+    {
+      "id": 105096,
+      "name": "Manzini",
+      "latitude": "-26.49884000",
+      "longitude": "31.38004000"
+    },
+    {
+      "id": 105097,
+      "name": "Manzini South",
+      "latitude": "-26.48333000",
+      "longitude": "31.36667000"
+    },
+    {
+      "id": 105100,
+      "name": "Mhlambanyatsi",
+      "latitude": "-26.45000000",
+      "longitude": "31.01667000"
+    },
+    {
+      "id": 105103,
+      "name": "Ngwempisi",
+      "latitude": "-26.69990000",
+      "longitude": "31.28876000"
+    },
+    {
+      "id": 105108,
+      "name": "Ntondozi",
+      "latitude": "-26.63500000",
+      "longitude": "31.22556000"
+    },
+    {
+      "id": 105110,
+      "name": "Sidvokodvo",
+      "latitude": "-26.62820000",
+      "longitude": "31.42021000"
+    }
+  ],
+  "country": {
+    "id": 212,
+    "name": "Swaziland",
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "numeric_code": "748",
+    "phone_code": "268",
+    "capital": "Mbabane",
+    "currency": "SZL",
+    "currency_name": "Lilangeni",
+    "currency_symbol": "E",
+    "tld": ".sz",
+    "native": "Swaziland",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mbabane",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "에스와티니",
+      "pt-BR": "Suazilândia",
+      "pt": "Suazilândia",
+      "nl": "Swaziland",
+      "hr": "Svazi",
+      "fa": "سوازیلند",
+      "de": "Swasiland",
+      "es": "Suazilandia",
+      "fr": "Swaziland",
+      "ja": "スワジランド",
+      "it": "Swaziland",
+      "cn": "斯威士兰",
+      "tr": "Esvatini"
+    },
+    "latitude": "-26.50000000",
+    "longitude": "31.50000000",
+    "emoji": "🇸🇿",
+    "emojiU": "U+1F1F8 U+1F1FF"
+  }
+}

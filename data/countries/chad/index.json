@@ -1,0 +1,575 @@
+{
+  "id": 43,
+  "name": "Chad",
+  "iso3": "TCD",
+  "iso2": "TD",
+  "numeric_code": "148",
+  "phone_code": "235",
+  "capital": "N'Djamena",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "tld": ".td",
+  "native": "Tchad",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "timezones": [
+    {
+      "zoneName": "Africa/Ndjamena",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "translations": {
+    "kr": "차드",
+    "pt-BR": "Chade",
+    "pt": "Chade",
+    "nl": "Tsjaad",
+    "hr": "Čad",
+    "fa": "چاد",
+    "de": "Tschad",
+    "es": "Chad",
+    "fr": "Tchad",
+    "ja": "チャド",
+    "it": "Ciad",
+    "cn": "乍得",
+    "tr": "Çad"
+  },
+  "latitude": "15.00000000",
+  "longitude": "19.00000000",
+  "emoji": "🇹🇩",
+  "emojiU": "U+1F1F9 U+1F1E9",
+  "states": [
+    {
+      "id": 3583,
+      "name": "Bahr el Gazel",
+      "state_code": "BG",
+      "latitude": "14.77022660",
+      "longitude": "16.91225100",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105152,
+          "name": "Moussoro",
+          "latitude": "13.64143000",
+          "longitude": "16.48941000"
+        }
+      ]
+    },
+    {
+      "id": 3590,
+      "name": "Batha",
+      "state_code": "BA",
+      "latitude": "13.93717750",
+      "longitude": "18.42760470",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105120,
+          "name": "Ati",
+          "latitude": "13.21540000",
+          "longitude": "18.33530000"
+        },
+        {
+          "id": 105154,
+          "name": "Oum Hadjer",
+          "latitude": "13.29540000",
+          "longitude": "19.69660000"
+        }
+      ]
+    },
+    {
+      "id": 3574,
+      "name": "Borkou",
+      "state_code": "BO",
+      "latitude": "17.86888450",
+      "longitude": "18.80761950",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105133,
+          "name": "Faya-Largeau",
+          "latitude": "17.92570000",
+          "longitude": "19.10428000"
+        }
+      ]
+    },
+    {
+      "id": 5114,
+      "name": "Chari-Baguirmi",
+      "state_code": "CB",
+      "latitude": "11.46186260",
+      "longitude": "15.24463940",
+      "type": "province",
+      "cities": [
+        {
+          "id": 153256,
+          "name": "Baguirmi Department",
+          "latitude": "11.39833333",
+          "longitude": "16.16750000"
+        },
+        {
+          "id": 153257,
+          "name": "Bousso",
+          "latitude": "10.48250000",
+          "longitude": "16.71611111"
+        },
+        {
+          "id": 153258,
+          "name": "Chari Department",
+          "latitude": "12.05000000",
+          "longitude": "15.30000000"
+        },
+        {
+          "id": 153259,
+          "name": "Dababa",
+          "latitude": "12.38000000",
+          "longitude": "17.06000000"
+        },
+        {
+          "id": 153260,
+          "name": "Gaoui",
+          "latitude": "12.18070000",
+          "longitude": "15.14760000"
+        },
+        {
+          "id": 153261,
+          "name": "Linia",
+          "latitude": "12.05000000",
+          "longitude": "15.30000000"
+        },
+        {
+          "id": 153262,
+          "name": "Mandjafa",
+          "latitude": "11.19861111",
+          "longitude": "15.36111111"
+        },
+        {
+          "id": 153263,
+          "name": "Massenya",
+          "latitude": "11.40277778",
+          "longitude": "16.17000000"
+        }
+      ]
+    },
+    {
+      "id": 3575,
+      "name": "Ennedi-Est",
+      "state_code": "EE",
+      "latitude": "16.34204960",
+      "longitude": "23.00119890",
+      "type": "province",
+      "cities": []
+    },
+    {
+      "id": 3584,
+      "name": "Ennedi-Ouest",
+      "state_code": "EO",
+      "latitude": "18.97756300",
+      "longitude": "21.85685860",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105132,
+          "name": "Fada",
+          "latitude": "17.18535000",
+          "longitude": "21.58114000"
+        }
+      ]
+    },
+    {
+      "id": 3576,
+      "name": "Guéra",
+      "state_code": "GR",
+      "latitude": "11.12190150",
+      "longitude": "18.42760470",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105124,
+          "name": "Bitkine",
+          "latitude": "11.98010000",
+          "longitude": "18.21380000"
+        },
+        {
+          "id": 105149,
+          "name": "Melfi",
+          "latitude": "11.05980000",
+          "longitude": "17.93550000"
+        },
+        {
+          "id": 105150,
+          "name": "Mongo",
+          "latitude": "12.18441000",
+          "longitude": "18.69303000"
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "name": "Hadjer-Lamis",
+      "state_code": "HL",
+      "latitude": "12.45772730",
+      "longitude": "16.72346390",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105125,
+          "name": "Bokoro",
+          "latitude": "12.37813000",
+          "longitude": "17.05876000"
+        },
+        {
+          "id": 105146,
+          "name": "Massaguet",
+          "latitude": "12.47554000",
+          "longitude": "15.43647000"
+        },
+        {
+          "id": 105147,
+          "name": "Massakory",
+          "latitude": "12.99600000",
+          "longitude": "15.72927000"
+        }
+      ]
+    },
+    {
+      "id": 3588,
+      "name": "Kanem",
+      "state_code": "KA",
+      "latitude": "14.87812620",
+      "longitude": "15.40680790",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105145,
+          "name": "Mao",
+          "latitude": "14.12116000",
+          "longitude": "15.31030000"
+        }
+      ]
+    },
+    {
+      "id": 3577,
+      "name": "Lac",
+      "state_code": "LC",
+      "latitude": "13.69153770",
+      "longitude": "14.10013260",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105126,
+          "name": "Bol",
+          "latitude": "13.46706000",
+          "longitude": "14.71363000"
+        }
+      ]
+    },
+    {
+      "id": 3585,
+      "name": "Logone Occidental",
+      "state_code": "LO",
+      "latitude": "8.75967600",
+      "longitude": "15.87600400",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105122,
+          "name": "Beïnamar",
+          "latitude": "8.66980000",
+          "longitude": "15.38130000"
+        },
+        {
+          "id": 105121,
+          "name": "Benoy",
+          "latitude": "8.98327000",
+          "longitude": "16.31991000"
+        },
+        {
+          "id": 105143,
+          "name": "Lac Wey",
+          "latitude": "8.70502000",
+          "longitude": "15.98303000"
+        },
+        {
+          "id": 105151,
+          "name": "Moundou",
+          "latitude": "8.56667000",
+          "longitude": "16.08333000"
+        }
+      ]
+    },
+    {
+      "id": 3591,
+      "name": "Logone Oriental",
+      "state_code": "LR",
+      "latitude": "8.31499490",
+      "longitude": "16.34637910",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105129,
+          "name": "Bébédja",
+          "latitude": "8.67610000",
+          "longitude": "16.56600000"
+        },
+        {
+          "id": 105128,
+          "name": "Béboto",
+          "latitude": "8.26681000",
+          "longitude": "16.93898000"
+        },
+        {
+          "id": 105131,
+          "name": "Doba",
+          "latitude": "8.65000000",
+          "longitude": "16.85000000"
+        }
+      ]
+    },
+    {
+      "id": 3589,
+      "name": "Mandoul",
+      "state_code": "MA",
+      "latitude": "8.60309100",
+      "longitude": "17.47951730",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105134,
+          "name": "Goundi",
+          "latitude": "9.36267000",
+          "longitude": "17.36597000"
+        },
+        {
+          "id": 105141,
+          "name": "Koumra",
+          "latitude": "8.91256000",
+          "longitude": "17.55392000"
+        },
+        {
+          "id": 105153,
+          "name": "Moïssala",
+          "latitude": "8.34040000",
+          "longitude": "17.76630000"
+        }
+      ]
+    },
+    {
+      "id": 3580,
+      "name": "Mayo-Kebbi Est",
+      "state_code": "ME",
+      "latitude": "9.40460390",
+      "longitude": "14.84546190",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105127,
+          "name": "Bongor",
+          "latitude": "10.28056000",
+          "longitude": "15.37222000"
+        },
+        {
+          "id": 105135,
+          "name": "Gounou Gaya",
+          "latitude": "9.62940000",
+          "longitude": "15.51320000"
+        },
+        {
+          "id": 105138,
+          "name": "Guelendeng",
+          "latitude": "10.91762000",
+          "longitude": "15.55011000"
+        }
+      ]
+    },
+    {
+      "id": 3571,
+      "name": "Mayo-Kebbi Ouest",
+      "state_code": "MO",
+      "latitude": "10.41130140",
+      "longitude": "15.59433880",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105148,
+          "name": "Mboursou Léré",
+          "latitude": "9.76390000",
+          "longitude": "14.15390000"
+        },
+        {
+          "id": 105155,
+          "name": "Pala",
+          "latitude": "9.36420000",
+          "longitude": "14.90460000"
+        }
+      ]
+    },
+    {
+      "id": 3570,
+      "name": "Moyen-Chari",
+      "state_code": "MC",
+      "latitude": "9.06399980",
+      "longitude": "18.42760470",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105142,
+          "name": "Kyabé",
+          "latitude": "9.45149000",
+          "longitude": "18.94493000"
+        },
+        {
+          "id": 105156,
+          "name": "Sarh",
+          "latitude": "9.14290000",
+          "longitude": "18.39230000"
+        }
+      ]
+    },
+    {
+      "id": 3586,
+      "name": "N'Djamena",
+      "state_code": "ND",
+      "latitude": "12.13484570",
+      "longitude": "15.05574150",
+      "type": "province",
+      "cities": [
+        {
+          "id": 153264,
+          "name": "N'Djamena",
+          "latitude": "12.11000000",
+          "longitude": "15.05000000"
+        }
+      ]
+    },
+    {
+      "id": 3582,
+      "name": "Ouaddaï",
+      "state_code": "OD",
+      "latitude": "13.74847600",
+      "longitude": "20.71224650",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105116,
+          "name": "Abéché",
+          "latitude": "13.82916000",
+          "longitude": "20.83240000"
+        },
+        {
+          "id": 105117,
+          "name": "Adré",
+          "latitude": "13.46648000",
+          "longitude": "22.19875000"
+        },
+        {
+          "id": 105137,
+          "name": "Goz Béïda",
+          "latitude": "13.94563000",
+          "longitude": "20.54680000"
+        }
+      ]
+    },
+    {
+      "id": 3592,
+      "name": "Salamat",
+      "state_code": "SA",
+      "latitude": "10.96916010",
+      "longitude": "20.71224650",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105118,
+          "name": "Am Timan",
+          "latitude": "11.02970000",
+          "longitude": "20.28270000"
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "name": "Sila",
+      "state_code": "SI",
+      "latitude": "12.13074000",
+      "longitude": "21.28450250",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105136,
+          "name": "Goz Beïda",
+          "latitude": "12.22484000",
+          "longitude": "21.41034000"
+        }
+      ]
+    },
+    {
+      "id": 3579,
+      "name": "Tandjilé",
+      "state_code": "TA",
+      "latitude": "9.66257290",
+      "longitude": "16.72346390",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105130,
+          "name": "Béré",
+          "latitude": "9.32020000",
+          "longitude": "16.15520000"
+        },
+        {
+          "id": 105140,
+          "name": "Kelo",
+          "latitude": "9.30859000",
+          "longitude": "15.80658000"
+        },
+        {
+          "id": 105144,
+          "name": "Laï",
+          "latitude": "9.39720000",
+          "longitude": "16.30066000"
+        }
+      ]
+    },
+    {
+      "id": 3587,
+      "name": "Tibesti",
+      "state_code": "TI",
+      "latitude": "21.36500310",
+      "longitude": "16.91225100",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105119,
+          "name": "Aozou",
+          "latitude": "21.83750000",
+          "longitude": "17.42750000"
+        }
+      ]
+    },
+    {
+      "id": 3581,
+      "name": "Wadi Fira",
+      "state_code": "WF",
+      "latitude": "15.08924160",
+      "longitude": "21.47528510",
+      "type": "province",
+      "cities": [
+        {
+          "id": 105123,
+          "name": "Biltine",
+          "latitude": "14.52791000",
+          "longitude": "20.92749000"
+        },
+        {
+          "id": 105139,
+          "name": "Iriba",
+          "latitude": "15.11667000",
+          "longitude": "22.25000000"
+        }
+      ]
+    }
+  ]
+}

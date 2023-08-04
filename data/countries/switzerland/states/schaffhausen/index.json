@@ -1,0 +1,162 @@
+{
+  "id": 1654,
+  "name": "Schaffhausen",
+  "state_code": "SH",
+  "latitude": "47.70093640",
+  "longitude": "8.56800400",
+  "type": "canton",
+  "cities": [
+    {
+      "id": 17461,
+      "name": "Beringen",
+      "latitude": "47.69763000",
+      "longitude": "8.57431000"
+    },
+    {
+      "id": 17502,
+      "name": "Bezirk Oberklettgau",
+      "latitude": "47.69893000",
+      "longitude": "8.51774000"
+    },
+    {
+      "id": 17505,
+      "name": "Bezirk Reiat",
+      "latitude": "47.74752000",
+      "longitude": "8.70821000"
+    },
+    {
+      "id": 17507,
+      "name": "Bezirk Schaffhausen",
+      "latitude": "47.69440000",
+      "longitude": "8.63525000"
+    },
+    {
+      "id": 17508,
+      "name": "Bezirk Schleitheim",
+      "latitude": "47.75000000",
+      "longitude": "8.51111000"
+    },
+    {
+      "id": 17512,
+      "name": "Bezirk Stein",
+      "latitude": "47.66429000",
+      "longitude": "8.84683000"
+    },
+    {
+      "id": 17515,
+      "name": "Bezirk Unterklettgau",
+      "latitude": "47.68000000",
+      "longitude": "8.46333000"
+    },
+    {
+      "id": 17892,
+      "name": "Hallau",
+      "latitude": "47.69648000",
+      "longitude": "8.45827000"
+    },
+    {
+      "id": 18110,
+      "name": "Löhningen",
+      "latitude": "47.70121000",
+      "longitude": "8.55236000"
+    },
+    {
+      "id": 18217,
+      "name": "Neuhausen",
+      "latitude": "47.68579000",
+      "longitude": "8.61474000"
+    },
+    {
+      "id": 18218,
+      "name": "Neunkirch",
+      "latitude": "47.69012000",
+      "longitude": "8.49981000"
+    },
+    {
+      "id": 18336,
+      "name": "Ramsen",
+      "latitude": "47.70797000",
+      "longitude": "8.80949000"
+    },
+    {
+      "id": 18455,
+      "name": "Schaffhausen",
+      "latitude": "47.69732000",
+      "longitude": "8.63493000"
+    },
+    {
+      "id": 18464,
+      "name": "Schleitheim",
+      "latitude": "47.74818000",
+      "longitude": "8.48213000"
+    },
+    {
+      "id": 18552,
+      "name": "Stein am Rhein",
+      "latitude": "47.65933000",
+      "longitude": "8.85964000"
+    },
+    {
+      "id": 18556,
+      "name": "Stetten",
+      "latitude": "47.74025000",
+      "longitude": "8.66298000"
+    },
+    {
+      "id": 18588,
+      "name": "Thayngen",
+      "latitude": "47.74717000",
+      "longitude": "8.70724000"
+    },
+    {
+      "id": 18751,
+      "name": "Wilchingen",
+      "latitude": "47.66745000",
+      "longitude": "8.46774000"
+    }
+  ],
+  "country": {
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phone_code": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Zurich",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스위스",
+      "pt-BR": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس",
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "cn": "瑞士",
+      "tr": "İsviçre"
+    },
+    "latitude": "47.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "id": 3655,
+  "name": "La Pampa",
+  "state_code": "L",
+  "latitude": "-36.61475730",
+  "longitude": "-64.28392090",
+  "type": "province",
+  "cities": [
+    {
+      "id": 652,
+      "name": "Alpachiri",
+      "latitude": "-37.37704000",
+      "longitude": "-63.77445000"
+    },
+    {
+      "id": 654,
+      "name": "Alta Italia",
+      "latitude": "-35.33350000",
+      "longitude": "-64.11496000"
+    },
+    {
+      "id": 662,
+      "name": "Anguil",
+      "latitude": "-36.52567000",
+      "longitude": "-64.01025000"
+    },
+    {
+      "id": 666,
+      "name": "Arata",
+      "latitude": "-35.63895000",
+      "longitude": "-64.35621000"
+    },
+    {
+      "id": 692,
+      "name": "Bernardo Larroudé",
+      "latitude": "-35.02449000",
+      "longitude": "-63.58253000"
+    },
+    {
+      "id": 694,
+      "name": "Bernasconi",
+      "latitude": "-37.90459000",
+      "longitude": "-63.74240000"
+    },
+    {
+      "id": 712,
+      "name": "Caleufú",
+      "latitude": "-35.59559000",
+      "longitude": "-64.55778000"
+    },
+    {
+      "id": 740,
+      "name": "Catriló",
+      "latitude": "-36.40597000",
+      "longitude": "-63.42168000"
+    },
+    {
+      "id": 775,
+      "name": "Colonia Barón",
+      "latitude": "-36.15152000",
+      "longitude": "-63.85404000"
+    },
+    {
+      "id": 843,
+      "name": "Departamento de Caleu-Caleu",
+      "latitude": "-38.58333000",
+      "longitude": "-64.00000000"
+    },
+    {
+      "id": 1021,
+      "name": "Departamento de Toay",
+      "latitude": "-36.58333000",
+      "longitude": "-64.80000000"
+    },
+    {
+      "id": 1041,
+      "name": "Doblas",
+      "latitude": "-37.14967000",
+      "longitude": "-64.01183000"
+    },
+    {
+      "id": 1046,
+      "name": "Eduardo Castex",
+      "latitude": "-35.91501000",
+      "longitude": "-64.29448000"
+    },
+    {
+      "id": 1065,
+      "name": "Embajador Martini",
+      "latitude": "-35.38633000",
+      "longitude": "-64.28092000"
+    },
+    {
+      "id": 1094,
+      "name": "General Acha",
+      "latitude": "-37.37698000",
+      "longitude": "-64.60431000"
+    },
+    {
+      "id": 1107,
+      "name": "General Manuel J. Campos",
+      "latitude": "-37.46025000",
+      "longitude": "-63.58537000"
+    },
+    {
+      "id": 1108,
+      "name": "General Pico",
+      "latitude": "-35.65662000",
+      "longitude": "-63.75682000"
+    },
+    {
+      "id": 1113,
+      "name": "General San Martín",
+      "latitude": "-37.97904000",
+      "longitude": "-63.60449000"
+    },
+    {
+      "id": 1130,
+      "name": "Guatraché",
+      "latitude": "-37.66776000",
+      "longitude": "-63.53021000"
+    },
+    {
+      "id": 1153,
+      "name": "Ingeniero Luiggi",
+      "latitude": "-35.38585000",
+      "longitude": "-64.46519000"
+    },
+    {
+      "id": 1157,
+      "name": "Intendente Alvear",
+      "latitude": "-35.23383000",
+      "longitude": "-63.59205000"
+    },
+    {
+      "id": 1164,
+      "name": "Jacinto Arauz",
+      "latitude": "-38.08606000",
+      "longitude": "-63.43169000"
+    },
+    {
+      "id": 1175,
+      "name": "La Adela",
+      "latitude": "-38.98333000",
+      "longitude": "-64.08333000"
+    },
+    {
+      "id": 1192,
+      "name": "La Maruja",
+      "latitude": "-35.67360000",
+      "longitude": "-64.93997000"
+    },
+    {
+      "id": 1240,
+      "name": "Lonquimay",
+      "latitude": "-36.46546000",
+      "longitude": "-63.62429000"
+    },
+    {
+      "id": 1259,
+      "name": "Macachín",
+      "latitude": "-37.13598000",
+      "longitude": "-63.66650000"
+    },
+    {
+      "id": 1281,
+      "name": "Miguel Riglos",
+      "latitude": "-36.85398000",
+      "longitude": "-63.68842000"
+    },
+    {
+      "id": 1320,
+      "name": "Parera",
+      "latitude": "-35.14600000",
+      "longitude": "-64.50089000"
+    },
+    {
+      "id": 1367,
+      "name": "Quemú Quemú",
+      "latitude": "-36.05463000",
+      "longitude": "-63.56428000"
+    },
+    {
+      "id": 1373,
+      "name": "Rancul",
+      "latitude": "-35.06862000",
+      "longitude": "-64.68107000"
+    },
+    {
+      "id": 1375,
+      "name": "Realicó",
+      "latitude": "-35.03658000",
+      "longitude": "-64.24470000"
+    },
+    {
+      "id": 1459,
+      "name": "Santa Isabel",
+      "latitude": "-36.22724000",
+      "longitude": "-66.94240000"
+    },
+    {
+      "id": 1465,
+      "name": "Santa Rosa",
+      "latitude": "-36.61667000",
+      "longitude": "-64.28333000"
+    },
+    {
+      "id": 1500,
+      "name": "Telén",
+      "latitude": "-36.26429000",
+      "longitude": "-65.51018000"
+    },
+    {
+      "id": 1513,
+      "name": "Trenel",
+      "latitude": "-35.69837000",
+      "longitude": "-64.13218000"
+    },
+    {
+      "id": 1523,
+      "name": "Uriburu",
+      "latitude": "-36.50682000",
+      "longitude": "-63.86225000"
+    },
+    {
+      "id": 1527,
+      "name": "Veinticinco de Mayo",
+      "latitude": "-37.77410000",
+      "longitude": "-67.71638000"
+    },
+    {
+      "id": 1534,
+      "name": "Victorica",
+      "latitude": "-36.21505000",
+      "longitude": "-65.43586000"
+    },
+    {
+      "id": 1592,
+      "name": "Winifreda",
+      "latitude": "-36.22643000",
+      "longitude": "-64.23388000"
+    }
+  ],
+  "country": {
+    "id": 11,
+    "name": "Argentina",
+    "iso3": "ARG",
+    "iso2": "AR",
+    "numeric_code": "032",
+    "phone_code": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currency_name": "Argentine peso",
+    "currency_symbol": "$",
+    "tld": ".ar",
+    "native": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Argentina/Buenos_Aires",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Catamarca",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Cordoba",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Jujuy",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/La_Rioja",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Mendoza",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Rio_Gallegos",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Salta",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Juan",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/San_Luis",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Tucuman",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      },
+      {
+        "zoneName": "America/Argentina/Ushuaia",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "ART",
+        "tzName": "Argentina Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르헨티나",
+      "pt-BR": "Argentina",
+      "pt": "Argentina",
+      "nl": "Argentinië",
+      "hr": "Argentina",
+      "fa": "آرژانتین",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fr": "Argentine",
+      "ja": "アルゼンチン",
+      "it": "Argentina",
+      "cn": "阿根廷",
+      "tr": "Arjantin"
+    },
+    "latitude": "-34.00000000",
+    "longitude": "-64.00000000",
+    "emoji": "🇦🇷",
+    "emojiU": "U+1F1E6 U+1F1F7"
+  }
+}

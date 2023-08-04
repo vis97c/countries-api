@@ -1,0 +1,72 @@
+{
+  "id": 3582,
+  "name": "Ouaddaï",
+  "state_code": "OD",
+  "latitude": "13.74847600",
+  "longitude": "20.71224650",
+  "type": "province",
+  "cities": [
+    {
+      "id": 105116,
+      "name": "Abéché",
+      "latitude": "13.82916000",
+      "longitude": "20.83240000"
+    },
+    {
+      "id": 105117,
+      "name": "Adré",
+      "latitude": "13.46648000",
+      "longitude": "22.19875000"
+    },
+    {
+      "id": 105137,
+      "name": "Goz Béïda",
+      "latitude": "13.94563000",
+      "longitude": "20.54680000"
+    }
+  ],
+  "country": {
+    "id": 43,
+    "name": "Chad",
+    "iso3": "TCD",
+    "iso2": "TD",
+    "numeric_code": "148",
+    "phone_code": "235",
+    "capital": "N'Djamena",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".td",
+    "native": "Tchad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "차드",
+      "pt-BR": "Chade",
+      "pt": "Chade",
+      "nl": "Tsjaad",
+      "hr": "Čad",
+      "fa": "چاد",
+      "de": "Tschad",
+      "es": "Chad",
+      "fr": "Tchad",
+      "ja": "チャド",
+      "it": "Ciad",
+      "cn": "乍得",
+      "tr": "Çad"
+    },
+    "latitude": "15.00000000",
+    "longitude": "19.00000000",
+    "emoji": "🇹🇩",
+    "emojiU": "U+1F1F9 U+1F1E9"
+  }
+}

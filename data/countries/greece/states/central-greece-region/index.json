@@ -1,0 +1,612 @@
+{
+  "id": 2128,
+  "name": "Central Greece Region",
+  "state_code": "H",
+  "latitude": "38.60439840",
+  "longitude": "22.71521310",
+  "type": null,
+  "cities": [
+    {
+      "id": 52404,
+      "name": "Afrátion",
+      "latitude": "38.45212000",
+      "longitude": "23.68775000"
+    },
+    {
+      "id": 52423,
+      "name": "Agía Triáda",
+      "latitude": "38.35505000",
+      "longitude": "22.90881000"
+    },
+    {
+      "id": 53376,
+      "name": "Ágios Geórgios",
+      "latitude": "38.39343000",
+      "longitude": "22.93189000"
+    },
+    {
+      "id": 52429,
+      "name": "Aidipsós",
+      "latitude": "38.87924000",
+      "longitude": "23.04691000"
+    },
+    {
+      "id": 52434,
+      "name": "Akraifnía",
+      "latitude": "38.45663000",
+      "longitude": "23.22093000"
+    },
+    {
+      "id": 52446,
+      "name": "Alíartos",
+      "latitude": "38.36667000",
+      "longitude": "23.10000000"
+    },
+    {
+      "id": 52444,
+      "name": "Alivéri",
+      "latitude": "38.41667000",
+      "longitude": "24.03333000"
+    },
+    {
+      "id": 52457,
+      "name": "Amárynthos",
+      "latitude": "38.39300000",
+      "longitude": "23.88492000"
+    },
+    {
+      "id": 52450,
+      "name": "Amfíkleia",
+      "latitude": "38.63912000",
+      "longitude": "22.59171000"
+    },
+    {
+      "id": 53389,
+      "name": "Ámfissa",
+      "latitude": "38.52813000",
+      "longitude": "22.37713000"
+    },
+    {
+      "id": 52471,
+      "name": "Anthíli",
+      "latitude": "38.85000000",
+      "longitude": "22.47906000"
+    },
+    {
+      "id": 52472,
+      "name": "Antikyra",
+      "latitude": "38.38333000",
+      "longitude": "22.63333000"
+    },
+    {
+      "id": 52501,
+      "name": "Aráchova",
+      "latitude": "38.47958000",
+      "longitude": "22.58350000"
+    },
+    {
+      "id": 53401,
+      "name": "Árma",
+      "latitude": "38.35121000",
+      "longitude": "23.48599000"
+    },
+    {
+      "id": 52504,
+      "name": "Asopía",
+      "latitude": "38.29882000",
+      "longitude": "23.50189000"
+    },
+    {
+      "id": 52514,
+      "name": "Atalánti",
+      "latitude": "38.65111000",
+      "longitude": "22.99917000"
+    },
+    {
+      "id": 53412,
+      "name": "Áyios Konstandínos",
+      "latitude": "38.75612000",
+      "longitude": "22.85757000"
+    },
+    {
+      "id": 53413,
+      "name": "Áyios Nikólaos",
+      "latitude": "38.42051000",
+      "longitude": "23.64772000"
+    },
+    {
+      "id": 53414,
+      "name": "Áyios Thomás",
+      "latitude": "38.27717000",
+      "longitude": "23.58906000"
+    },
+    {
+      "id": 52524,
+      "name": "Chairóneia",
+      "latitude": "38.49551000",
+      "longitude": "22.84424000"
+    },
+    {
+      "id": 52528,
+      "name": "Chalkída",
+      "latitude": "38.46354000",
+      "longitude": "23.60284000"
+    },
+    {
+      "id": 52547,
+      "name": "Delphi",
+      "latitude": "38.47942000",
+      "longitude": "22.49357000"
+    },
+    {
+      "id": 52551,
+      "name": "Dhrosiá",
+      "latitude": "38.48413000",
+      "longitude": "23.54774000"
+    },
+    {
+      "id": 52568,
+      "name": "Dílesi",
+      "latitude": "38.33762000",
+      "longitude": "23.67077000"
+    },
+    {
+      "id": 52570,
+      "name": "Dístomo",
+      "latitude": "38.42892000",
+      "longitude": "22.66728000"
+    },
+    {
+      "id": 52559,
+      "name": "Domokós",
+      "latitude": "39.12722000",
+      "longitude": "22.30028000"
+    },
+    {
+      "id": 52560,
+      "name": "Domvraína",
+      "latitude": "38.25300000",
+      "longitude": "22.98211000"
+    },
+    {
+      "id": 52583,
+      "name": "Eláteia",
+      "latitude": "38.62770000",
+      "longitude": "22.76492000"
+    },
+    {
+      "id": 52593,
+      "name": "Erétria",
+      "latitude": "38.40097000",
+      "longitude": "23.80220000"
+    },
+    {
+      "id": 52615,
+      "name": "Fáros",
+      "latitude": "38.39959000",
+      "longitude": "23.62275000"
+    },
+    {
+      "id": 52619,
+      "name": "Fílla",
+      "latitude": "38.44177000",
+      "longitude": "23.68306000"
+    },
+    {
+      "id": 52625,
+      "name": "Galaxídhion",
+      "latitude": "38.38067000",
+      "longitude": "22.38001000"
+    },
+    {
+      "id": 52668,
+      "name": "Istiaía",
+      "latitude": "38.95520000",
+      "longitude": "23.15210000"
+    },
+    {
+      "id": 52671,
+      "name": "Itéa",
+      "latitude": "38.43201000",
+      "longitude": "22.42443000"
+    },
+    {
+      "id": 52673,
+      "name": "Kainoúryion",
+      "latitude": "38.79283000",
+      "longitude": "22.72470000"
+    },
+    {
+      "id": 52700,
+      "name": "Kaména Voúrla",
+      "latitude": "38.77844000",
+      "longitude": "22.78573000"
+    },
+    {
+      "id": 52706,
+      "name": "Kaparéllion",
+      "latitude": "38.23697000",
+      "longitude": "23.21411000"
+    },
+    {
+      "id": 52716,
+      "name": "Karpenísi",
+      "latitude": "38.91218000",
+      "longitude": "21.79836000"
+    },
+    {
+      "id": 52804,
+      "name": "Kárystos",
+      "latitude": "38.01333000",
+      "longitude": "24.41611000"
+    },
+    {
+      "id": 52727,
+      "name": "Kastélla",
+      "latitude": "38.57048000",
+      "longitude": "23.63131000"
+    },
+    {
+      "id": 52818,
+      "name": "Káto Tithoréa",
+      "latitude": "38.60751000",
+      "longitude": "22.71348000"
+    },
+    {
+      "id": 52740,
+      "name": "Kerasochóri",
+      "latitude": "39.00556000",
+      "longitude": "21.63778000"
+    },
+    {
+      "id": 52821,
+      "name": "Kírra",
+      "latitude": "38.42944000",
+      "longitude": "22.44443000"
+    },
+    {
+      "id": 52827,
+      "name": "Kými",
+      "latitude": "38.63477000",
+      "longitude": "24.10287000"
+    },
+    {
+      "id": 52800,
+      "name": "Kyriáki",
+      "latitude": "38.35365000",
+      "longitude": "22.78841000"
+    },
+    {
+      "id": 52837,
+      "name": "Lamía",
+      "latitude": "38.90000000",
+      "longitude": "22.43333000"
+    },
+    {
+      "id": 52849,
+      "name": "Lianokládhion",
+      "latitude": "38.91655000",
+      "longitude": "22.30336000"
+    },
+    {
+      "id": 52851,
+      "name": "Lidoríki",
+      "latitude": "38.52389000",
+      "longitude": "22.19972000"
+    },
+    {
+      "id": 52880,
+      "name": "Límni",
+      "latitude": "38.76667000",
+      "longitude": "23.31667000"
+    },
+    {
+      "id": 52860,
+      "name": "Livadeiá",
+      "latitude": "38.43616000",
+      "longitude": "22.87665000"
+    },
+    {
+      "id": 52862,
+      "name": "Livanátes",
+      "latitude": "38.71100000",
+      "longitude": "23.05030000"
+    },
+    {
+      "id": 52864,
+      "name": "Loukísia",
+      "latitude": "38.47946000",
+      "longitude": "23.44796000"
+    },
+    {
+      "id": 52865,
+      "name": "Loutrá Aidhipsoú",
+      "latitude": "38.85695000",
+      "longitude": "23.04739000"
+    },
+    {
+      "id": 52883,
+      "name": "Magoúla",
+      "latitude": "38.41178000",
+      "longitude": "23.82128000"
+    },
+    {
+      "id": 52887,
+      "name": "Makrakómi",
+      "latitude": "38.94150000",
+      "longitude": "22.11535000"
+    },
+    {
+      "id": 52892,
+      "name": "Malakónta",
+      "latitude": "38.40000000",
+      "longitude": "23.76667000"
+    },
+    {
+      "id": 52893,
+      "name": "Malesína",
+      "latitude": "38.62225000",
+      "longitude": "23.23370000"
+    },
+    {
+      "id": 52897,
+      "name": "Mantoúdi",
+      "latitude": "38.79808000",
+      "longitude": "23.47967000"
+    },
+    {
+      "id": 52901,
+      "name": "Marmárion",
+      "latitude": "38.04839000",
+      "longitude": "24.32039000"
+    },
+    {
+      "id": 52903,
+      "name": "Martínon",
+      "latitude": "38.56817000",
+      "longitude": "23.21458000"
+    },
+    {
+      "id": 52958,
+      "name": "Mólos",
+      "latitude": "38.80998000",
+      "longitude": "22.64544000"
+    },
+    {
+      "id": 52952,
+      "name": "Mytikas",
+      "latitude": "38.44373000",
+      "longitude": "23.65365000"
+    },
+    {
+      "id": 53003,
+      "name": "Néa Artáki",
+      "latitude": "38.52027000",
+      "longitude": "23.63296000"
+    },
+    {
+      "id": 53016,
+      "name": "Néa Lámpsakos",
+      "latitude": "38.43729000",
+      "longitude": "23.62824000"
+    },
+    {
+      "id": 53035,
+      "name": "Néa Stíra",
+      "latitude": "38.17935000",
+      "longitude": "24.20842000"
+    },
+    {
+      "id": 53049,
+      "name": "Néon Monastírion",
+      "latitude": "39.23988000",
+      "longitude": "22.27465000"
+    },
+    {
+      "id": 52982,
+      "name": "Nomós Evrytanías",
+      "latitude": "39.00000000",
+      "longitude": "21.66667000"
+    },
+    {
+      "id": 52983,
+      "name": "Nomós Fokídos",
+      "latitude": "38.50000000",
+      "longitude": "22.25000000"
+    },
+    {
+      "id": 53057,
+      "name": "Oinófyta",
+      "latitude": "38.31163000",
+      "longitude": "23.64000000"
+    },
+    {
+      "id": 53058,
+      "name": "Omvriakí",
+      "latitude": "39.10118000",
+      "longitude": "22.27106000"
+    },
+    {
+      "id": 53060,
+      "name": "Orchomenós",
+      "latitude": "38.49290000",
+      "longitude": "22.97962000"
+    },
+    {
+      "id": 53061,
+      "name": "Oreoí",
+      "latitude": "38.95034000",
+      "longitude": "23.09191000"
+    },
+    {
+      "id": 53068,
+      "name": "Oxílithos",
+      "latitude": "38.57988000",
+      "longitude": "24.11184000"
+    },
+    {
+      "id": 53092,
+      "name": "Paralía Avlídhos",
+      "latitude": "38.38002000",
+      "longitude": "23.62842000"
+    },
+    {
+      "id": 53103,
+      "name": "Pelasgía",
+      "latitude": "38.94813000",
+      "longitude": "22.83980000"
+    },
+    {
+      "id": 53129,
+      "name": "Pláka Dílesi",
+      "latitude": "38.34950000",
+      "longitude": "23.65056000"
+    },
+    {
+      "id": 53131,
+      "name": "Politiká",
+      "latitude": "38.59673000",
+      "longitude": "23.54457000"
+    },
+    {
+      "id": 53144,
+      "name": "Prokópi",
+      "latitude": "38.73402000",
+      "longitude": "23.49060000"
+    },
+    {
+      "id": 53154,
+      "name": "Psachná",
+      "latitude": "38.57852000",
+      "longitude": "23.64326000"
+    },
+    {
+      "id": 53193,
+      "name": "Rodhítsa",
+      "latitude": "38.88829000",
+      "longitude": "22.46410000"
+    },
+    {
+      "id": 53198,
+      "name": "Roviés",
+      "latitude": "38.80971000",
+      "longitude": "23.23073000"
+    },
+    {
+      "id": 53209,
+      "name": "Schimatári",
+      "latitude": "38.35000000",
+      "longitude": "23.58333000"
+    },
+    {
+      "id": 53229,
+      "name": "Skýros",
+      "latitude": "38.90417000",
+      "longitude": "24.56306000"
+    },
+    {
+      "id": 53239,
+      "name": "Spercheiáda",
+      "latitude": "38.90656000",
+      "longitude": "22.12792000"
+    },
+    {
+      "id": 53249,
+      "name": "Stavrós",
+      "latitude": "38.89641000",
+      "longitude": "22.37082000"
+    },
+    {
+      "id": 53252,
+      "name": "Steíri",
+      "latitude": "38.40831000",
+      "longitude": "22.71162000"
+    },
+    {
+      "id": 53255,
+      "name": "Stylída",
+      "latitude": "38.91667000",
+      "longitude": "22.61667000"
+    },
+    {
+      "id": 53276,
+      "name": "Thespiés",
+      "latitude": "38.30300000",
+      "longitude": "23.15016000"
+    },
+    {
+      "id": 53285,
+      "name": "Thívai",
+      "latitude": "38.32500000",
+      "longitude": "23.31889000"
+    },
+    {
+      "id": 53338,
+      "name": "Vágia",
+      "latitude": "38.31748000",
+      "longitude": "23.17752000"
+    },
+    {
+      "id": 53314,
+      "name": "Vasilikón",
+      "latitude": "38.42586000",
+      "longitude": "23.67189000"
+    },
+    {
+      "id": 53315,
+      "name": "Vathí",
+      "latitude": "38.40490000",
+      "longitude": "23.60332000"
+    },
+    {
+      "id": 53354,
+      "name": "Yimnón",
+      "latitude": "38.44048000",
+      "longitude": "23.88400000"
+    }
+  ],
+  "country": {
+    "id": 85,
+    "name": "Greece",
+    "iso3": "GRC",
+    "iso2": "GR",
+    "numeric_code": "300",
+    "phone_code": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".gr",
+    "native": "Ελλάδα",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Athens",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "그리스",
+      "pt-BR": "Grécia",
+      "pt": "Grécia",
+      "nl": "Griekenland",
+      "hr": "Grčka",
+      "fa": "یونان",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "fr": "Grèce",
+      "ja": "ギリシャ",
+      "it": "Grecia",
+      "cn": "希腊",
+      "tr": "Yunanistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "22.00000000",
+    "emoji": "🇬🇷",
+    "emojiU": "U+1F1EC U+1F1F7"
+  }
+}

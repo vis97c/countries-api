@@ -1,0 +1,84 @@
+{
+  "id": 2567,
+  "name": "Sidi Bouzid",
+  "state_code": "43",
+  "latitude": "35.03543860",
+  "longitude": "9.48393920",
+  "type": "governorate",
+  "cities": [
+    {
+      "id": 106925,
+      "name": "Bir el Hafey",
+      "latitude": "34.93212000",
+      "longitude": "9.19321000"
+    },
+    {
+      "id": 106949,
+      "name": "Er Regueb",
+      "latitude": "34.85932000",
+      "longitude": "9.78654000"
+    },
+    {
+      "id": 106967,
+      "name": "Jilma",
+      "latitude": "35.27311000",
+      "longitude": "9.42385000"
+    },
+    {
+      "id": 106995,
+      "name": "Mezzouna",
+      "latitude": "34.57758000",
+      "longitude": "9.84193000"
+    },
+    {
+      "id": 107024,
+      "name": "Sidi Bouzid",
+      "latitude": "35.03823000",
+      "longitude": "9.48494000"
+    }
+  ],
+  "country": {
+    "id": 224,
+    "name": "Tunisia",
+    "iso3": "TUN",
+    "iso2": "TN",
+    "numeric_code": "788",
+    "phone_code": "216",
+    "capital": "Tunis",
+    "currency": "TND",
+    "currency_name": "Tunisian dinar",
+    "currency_symbol": "ت.د",
+    "tld": ".tn",
+    "native": "تونس",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "튀니지",
+      "pt-BR": "Tunísia",
+      "pt": "Tunísia",
+      "nl": "Tunesië",
+      "hr": "Tunis",
+      "fa": "تونس",
+      "de": "Tunesien",
+      "es": "Túnez",
+      "fr": "Tunisie",
+      "ja": "チュニジア",
+      "it": "Tunisia",
+      "cn": "突尼斯",
+      "tr": "Tunus"
+    },
+    "latitude": "34.00000000",
+    "longitude": "9.00000000",
+    "emoji": "🇹🇳",
+    "emojiU": "U+1F1F9 U+1F1F3"
+  }
+}

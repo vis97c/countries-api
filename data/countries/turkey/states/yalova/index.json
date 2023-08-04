@@ -1,0 +1,90 @@
+{
+  "id": 2218,
+  "name": "Yalova",
+  "state_code": "77",
+  "latitude": "40.57759860",
+  "longitude": "29.20883030",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107145,
+      "name": "Altınova",
+      "latitude": "40.69495000",
+      "longitude": "29.50986000"
+    },
+    {
+      "id": 107187,
+      "name": "Armutlu",
+      "latitude": "40.52919000",
+      "longitude": "28.83871000"
+    },
+    {
+      "id": 108831,
+      "name": "Çiftlikköy",
+      "latitude": "40.66028000",
+      "longitude": "29.32361000"
+    },
+    {
+      "id": 108856,
+      "name": "Çınarcık",
+      "latitude": "40.64538000",
+      "longitude": "29.12450000"
+    },
+    {
+      "id": 108665,
+      "name": "Merkez",
+      "latitude": "40.65501000",
+      "longitude": "29.27693000"
+    },
+    {
+      "id": 108572,
+      "name": "Termal",
+      "latitude": "40.61381000",
+      "longitude": "29.18049000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 4449,
+  "name": "Inčukalns Municipality",
+  "state_code": "037",
+  "latitude": "57.09943420",
+  "longitude": "24.68555700",
+  "type": null,
+  "cities": [
+    {
+      "id": 66901,
+      "name": "Inčukalns",
+      "latitude": "57.09867000",
+      "longitude": "24.68630000"
+    },
+    {
+      "id": 66979,
+      "name": "Vangaži",
+      "latitude": "57.09358000",
+      "longitude": "24.54468000"
+    }
+  ],
+  "country": {
+    "id": 120,
+    "name": "Latvia",
+    "iso3": "LVA",
+    "iso2": "LV",
+    "numeric_code": "428",
+    "phone_code": "371",
+    "capital": "Riga",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".lv",
+    "native": "Latvija",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Riga",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "라트비아",
+      "pt-BR": "Letônia",
+      "pt": "Letónia",
+      "nl": "Letland",
+      "hr": "Latvija",
+      "fa": "لتونی",
+      "de": "Lettland",
+      "es": "Letonia",
+      "fr": "Lettonie",
+      "ja": "ラトビア",
+      "it": "Lettonia",
+      "cn": "拉脱维亚",
+      "tr": "Letonya"
+    },
+    "latitude": "57.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇱🇻",
+    "emojiU": "U+1F1F1 U+1F1FB"
+  }
+}

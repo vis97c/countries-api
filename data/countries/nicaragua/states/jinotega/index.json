@@ -1,0 +1,102 @@
+{
+  "id": 955,
+  "name": "Jinotega",
+  "state_code": "JI",
+  "latitude": "13.08839070",
+  "longitude": "-85.99939970",
+  "type": "department",
+  "cities": [
+    {
+      "id": 77183,
+      "name": "El Cuá",
+      "latitude": "13.41667000",
+      "longitude": "-85.75000000"
+    },
+    {
+      "id": 77194,
+      "name": "Jinotega",
+      "latitude": "13.09103000",
+      "longitude": "-86.00234000"
+    },
+    {
+      "id": 77201,
+      "name": "La Concordia",
+      "latitude": "13.19528000",
+      "longitude": "-86.16659000"
+    },
+    {
+      "id": 77210,
+      "name": "Las Praderas",
+      "latitude": "13.17000000",
+      "longitude": "-85.85000000"
+    },
+    {
+      "id": 77199,
+      "name": "LLano de La Cruz",
+      "latitude": "13.12449000",
+      "longitude": "-86.00833000"
+    },
+    {
+      "id": 77258,
+      "name": "San José de Bocay",
+      "latitude": "13.54204000",
+      "longitude": "-85.53942000"
+    },
+    {
+      "id": 77269,
+      "name": "San Rafael del Norte",
+      "latitude": "13.21248000",
+      "longitude": "-86.11089000"
+    },
+    {
+      "id": 77272,
+      "name": "San Sebastián de Yalí",
+      "latitude": "13.30540000",
+      "longitude": "-86.18641000"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

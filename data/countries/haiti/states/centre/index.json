@@ -1,0 +1,102 @@
+{
+  "id": 4125,
+  "name": "Centre",
+  "state_code": "CE",
+  "latitude": "32.83702510",
+  "longitude": "-96.77738820",
+  "type": null,
+  "cities": [
+    {
+      "id": 55054,
+      "name": "Arrondissement de Cerca La Source",
+      "latitude": "19.11667000",
+      "longitude": "-71.75000000"
+    },
+    {
+      "id": 55082,
+      "name": "Cerca la Source",
+      "latitude": "19.16696000",
+      "longitude": "-71.79015000"
+    },
+    {
+      "id": 55108,
+      "name": "Hinche",
+      "latitude": "19.15000000",
+      "longitude": "-72.01667000"
+    },
+    {
+      "id": 55117,
+      "name": "Lascahobas",
+      "latitude": "18.83047000",
+      "longitude": "-71.93563000"
+    },
+    {
+      "id": 55127,
+      "name": "Mayisad",
+      "latitude": "19.17607000",
+      "longitude": "-72.13958000"
+    },
+    {
+      "id": 55130,
+      "name": "Mirebalais",
+      "latitude": "18.83455000",
+      "longitude": "-72.10480000"
+    },
+    {
+      "id": 55158,
+      "name": "Thomassique",
+      "latitude": "19.08209000",
+      "longitude": "-71.83855000"
+    },
+    {
+      "id": 55160,
+      "name": "Thomonde",
+      "latitude": "19.01730000",
+      "longitude": "-71.96235000"
+    }
+  ],
+  "country": {
+    "id": 95,
+    "name": "Haiti",
+    "iso3": "HTI",
+    "iso2": "HT",
+    "numeric_code": "332",
+    "phone_code": "509",
+    "capital": "Port-au-Prince",
+    "currency": "HTG",
+    "currency_name": "Haitian gourde",
+    "currency_symbol": "G",
+    "tld": ".ht",
+    "native": "Haïti",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Port-au-Prince",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "아이티",
+      "pt-BR": "Haiti",
+      "pt": "Haiti",
+      "nl": "Haïti",
+      "hr": "Haiti",
+      "fa": "هائیتی",
+      "de": "Haiti",
+      "es": "Haiti",
+      "fr": "Haïti",
+      "ja": "ハイチ",
+      "it": "Haiti",
+      "cn": "海地",
+      "tr": "Haiti"
+    },
+    "latitude": "19.00000000",
+    "longitude": "-72.41666666",
+    "emoji": "🇭🇹",
+    "emojiU": "U+1F1ED U+1F1F9"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "id": 1185,
+  "name": "Las Palmas",
+  "state_code": "GC",
+  "latitude": "28.29156370",
+  "longitude": "-16.62913040",
+  "type": "province",
+  "cities": [
+    {
+      "id": 31944,
+      "name": "Agaete",
+      "latitude": "28.10023000",
+      "longitude": "-15.69998000"
+    },
+    {
+      "id": 31973,
+      "name": "Agüimes",
+      "latitude": "27.90539000",
+      "longitude": "-15.44609000"
+    },
+    {
+      "id": 153199,
+      "name": "Aldea de San Nicolás La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 32393,
+      "name": "Antigua",
+      "latitude": "28.42307000",
+      "longitude": "-14.01379000"
+    },
+    {
+      "id": 32504,
+      "name": "Arrecife",
+      "latitude": "28.96302000",
+      "longitude": "-13.54769000"
+    },
+    {
+      "id": 32523,
+      "name": "Artenara",
+      "latitude": "28.02055000",
+      "longitude": "-15.64693000"
+    },
+    {
+      "id": 32528,
+      "name": "Arucas",
+      "latitude": "28.11983000",
+      "longitude": "-15.52325000"
+    },
+    {
+      "id": 153196,
+      "name": "Betancuria",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 33328,
+      "name": "Carrizal",
+      "latitude": "27.91161000",
+      "longitude": "-15.40558000"
+    },
+    {
+      "id": 33802,
+      "name": "Corralejo",
+      "latitude": "28.73079000",
+      "longitude": "-13.86749000"
+    },
+    {
+      "id": 33818,
+      "name": "Costa Calma",
+      "latitude": "28.16155000",
+      "longitude": "-14.22691000"
+    },
+    {
+      "id": 33819,
+      "name": "Costa Teguise",
+      "latitude": "28.99838000",
+      "longitude": "-13.49911000"
+    },
+    {
+      "id": 33839,
+      "name": "Cruce de Arinaga",
+      "latitude": "27.87656000",
+      "longitude": "-15.42798000"
+    },
+    {
+      "id": 33994,
+      "name": "El Cotillo",
+      "latitude": "28.68264000",
+      "longitude": "-14.00637000"
+    },
+    {
+      "id": 34004,
+      "name": "El Paso",
+      "latitude": "28.65007000",
+      "longitude": "-17.88274000"
+    },
+    {
+      "id": 34190,
+      "name": "Firgas",
+      "latitude": "28.10711000",
+      "longitude": "-15.56299000"
+    },
+    {
+      "id": 34559,
+      "name": "Gáldar",
+      "latitude": "28.14701000",
+      "longitude": "-15.65020000"
+    },
+    {
+      "id": 34541,
+      "name": "Guia",
+      "latitude": "28.13974000",
+      "longitude": "-15.63294000"
+    },
+    {
+      "id": 34573,
+      "name": "Haría",
+      "latitude": "29.14553000",
+      "longitude": "-13.49986000"
+    },
+    {
+      "id": 34754,
+      "name": "Ingenio",
+      "latitude": "27.91855000",
+      "longitude": "-15.43433000"
+    },
+    {
+      "id": 34880,
+      "name": "La Guancha",
+      "latitude": "28.37320000",
+      "longitude": "-16.65158000"
+    },
+    {
+      "id": 34887,
+      "name": "La Laguna",
+      "latitude": "28.48530000",
+      "longitude": "-16.32014000"
+    },
+    {
+      "id": 34894,
+      "name": "La Matanza de Acentejo",
+      "latitude": "28.45242000",
+      "longitude": "-16.44720000"
+    },
+    {
+      "id": 34897,
+      "name": "La Oliva",
+      "latitude": "28.61052000",
+      "longitude": "-13.92912000"
+    },
+    {
+      "id": 34898,
+      "name": "La Orotava",
+      "latitude": "28.39076000",
+      "longitude": "-16.52309000"
+    },
+    {
+      "id": 34934,
+      "name": "La Victoria de Acentejo",
+      "latitude": "28.43231000",
+      "longitude": "-16.46232000"
+    },
+    {
+      "id": 34988,
+      "name": "Las Palmas de Gran Canaria",
+      "latitude": "28.09973000",
+      "longitude": "-15.41343000"
+    },
+    {
+      "id": 34990,
+      "name": "Las Rosas",
+      "latitude": "28.01539000",
+      "longitude": "-16.65373000"
+    },
+    {
+      "id": 35105,
+      "name": "Lomo de Arico",
+      "latitude": "28.16667000",
+      "longitude": "-16.48333000"
+    },
+    {
+      "id": 35122,
+      "name": "Los Gigantes",
+      "latitude": "28.24361000",
+      "longitude": "-16.84153000"
+    },
+    {
+      "id": 35124,
+      "name": "Los Llanos de Aridane",
+      "latitude": "28.65851000",
+      "longitude": "-17.91821000"
+    },
+    {
+      "id": 35132,
+      "name": "Los Realejos",
+      "latitude": "28.38487000",
+      "longitude": "-16.58275000"
+    },
+    {
+      "id": 35135,
+      "name": "Los Silos",
+      "latitude": "28.36610000",
+      "longitude": "-16.81552000"
+    },
+    {
+      "id": 35702,
+      "name": "Mácher",
+      "latitude": "28.94840000",
+      "longitude": "-13.69117000"
+    },
+    {
+      "id": 35324,
+      "name": "Maspalomas",
+      "latitude": "27.76056000",
+      "longitude": "-15.58602000"
+    },
+    {
+      "id": 35357,
+      "name": "Mazo",
+      "latitude": "28.60906000",
+      "longitude": "-17.77801000"
+    },
+    {
+      "id": 35469,
+      "name": "Mogán",
+      "latitude": "27.88385000",
+      "longitude": "-15.72538000"
+    },
+    {
+      "id": 35647,
+      "name": "Moya",
+      "latitude": "28.11106000",
+      "longitude": "-15.58285000"
+    },
+    {
+      "id": 35794,
+      "name": "Nazaret",
+      "latitude": "29.03818000",
+      "longitude": "-13.56386000"
+    },
+    {
+      "id": 153197,
+      "name": "Oliva La",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36480,
+      "name": "Pájara",
+      "latitude": "28.35039000",
+      "longitude": "-14.10760000"
+    },
+    {
+      "id": 153198,
+      "name": "Palmas de Gran Canaria Las",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 36239,
+      "name": "Playa Blanca",
+      "latitude": "28.86426000",
+      "longitude": "-13.82814000"
+    },
+    {
+      "id": 36240,
+      "name": "Playa de las Américas",
+      "latitude": "28.06403000",
+      "longitude": "-16.73012000"
+    },
+    {
+      "id": 36241,
+      "name": "Playa del Ingles",
+      "latitude": "27.75670000",
+      "longitude": "-15.57870000"
+    },
+    {
+      "id": 36376,
+      "name": "Provincia de Las Palmas",
+      "latitude": "28.42039000",
+      "longitude": "-14.01306000"
+    },
+    {
+      "id": 36386,
+      "name": "Provincia de Santa Cruz de Tenerife",
+      "latitude": "28.16667000",
+      "longitude": "-17.33333000"
+    },
+    {
+      "id": 36455,
+      "name": "Puerto del Carmen",
+      "latitude": "28.92313000",
+      "longitude": "-13.66579000"
+    },
+    {
+      "id": 36456,
+      "name": "Puerto del Rosario",
+      "latitude": "28.50038000",
+      "longitude": "-13.86272000"
+    },
+    {
+      "id": 36448,
+      "name": "Puerto Rico",
+      "latitude": "27.78943000",
+      "longitude": "-15.71045000"
+    },
+    {
+      "id": 36471,
+      "name": "Punta de Mujeres",
+      "latitude": "29.14660000",
+      "longitude": "-13.44761000"
+    },
+    {
+      "id": 36553,
+      "name": "Realejo Alto",
+      "latitude": "28.37645000",
+      "longitude": "-16.58575000"
+    },
+    {
+      "id": 36806,
+      "name": "San Bartolomé",
+      "latitude": "29.00093000",
+      "longitude": "-13.61300000"
+    },
+    {
+      "id": 36809,
+      "name": "San Bartolomé de Tirajana",
+      "latitude": "27.92481000",
+      "longitude": "-15.57329000"
+    },
+    {
+      "id": 36895,
+      "name": "San Nicolás",
+      "latitude": "27.98910000",
+      "longitude": "-15.78126000"
+    },
+    {
+      "id": 37007,
+      "name": "Santa Brígida",
+      "latitude": "28.03197000",
+      "longitude": "-15.50425000"
+    },
+    {
+      "id": 37062,
+      "name": "Santa Lucía",
+      "latitude": "27.91174000",
+      "longitude": "-15.54071000"
+    },
+    {
+      "id": 153200,
+      "name": "Santa Lucía de Tirajana",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 153201,
+      "name": "Santa María de Guía de Gran Canaria",
+      "latitude": "0.00000000",
+      "longitude": "0.00000000"
+    },
+    {
+      "id": 37180,
+      "name": "Sauzal",
+      "latitude": "28.46667000",
+      "longitude": "-16.41667000"
+    },
+    {
+      "id": 37368,
+      "name": "Tanque",
+      "latitude": "28.36667000",
+      "longitude": "-16.83333000"
+    },
+    {
+      "id": 37392,
+      "name": "Teguise",
+      "latitude": "29.06049000",
+      "longitude": "-13.56397000"
+    },
+    {
+      "id": 37397,
+      "name": "Tejeda",
+      "latitude": "27.99508000",
+      "longitude": "-15.61543000"
+    },
+    {
+      "id": 37400,
+      "name": "Telde",
+      "latitude": "27.99243000",
+      "longitude": "-15.41915000"
+    },
+    {
+      "id": 37405,
+      "name": "Teror",
+      "latitude": "28.06062000",
+      "longitude": "-15.54909000"
+    },
+    {
+      "id": 37666,
+      "name": "Tías",
+      "latitude": "28.96108000",
+      "longitude": "-13.64502000"
+    },
+    {
+      "id": 37427,
+      "name": "Tinajo",
+      "latitude": "29.06326000",
+      "longitude": "-13.67647000"
+    },
+    {
+      "id": 37652,
+      "name": "Tuineje",
+      "latitude": "28.32372000",
+      "longitude": "-14.04722000"
+    },
+    {
+      "id": 37850,
+      "name": "Vallehermosa",
+      "latitude": "28.17944000",
+      "longitude": "-17.26664000"
+    },
+    {
+      "id": 37857,
+      "name": "Valleseco",
+      "latitude": "28.04330000",
+      "longitude": "-15.57623000"
+    },
+    {
+      "id": 37875,
+      "name": "Valsequillo de Gran Canaria",
+      "latitude": "27.98562000",
+      "longitude": "-15.49725000"
+    },
+    {
+      "id": 37900,
+      "name": "Vecindario",
+      "latitude": "27.84636000",
+      "longitude": "-15.44455000"
+    },
+    {
+      "id": 37907,
+      "name": "Vega de San Mateo",
+      "latitude": "28.00892000",
+      "longitude": "-15.53330000"
+    },
+    {
+      "id": 38425,
+      "name": "Yaiza",
+      "latitude": "28.95678000",
+      "longitude": "-13.76535000"
+    }
+  ],
+  "country": {
+    "id": 207,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phone_code": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ceuta",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      },
+      {
+        "zoneName": "Atlantic/Canary",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "WET",
+        "tzName": "Western European Time"
+      },
+      {
+        "zoneName": "Europe/Madrid",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "스페인",
+      "pt-BR": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا",
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "cn": "西班牙",
+      "tr": "İspanya"
+    },
+    "latitude": "40.00000000",
+    "longitude": "-4.00000000",
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8"
+  }
+}

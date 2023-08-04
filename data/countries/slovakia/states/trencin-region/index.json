@@ -1,0 +1,228 @@
+{
+  "id": 4358,
+  "name": "Trenčín Region",
+  "state_code": "TC",
+  "latitude": "48.80867580",
+  "longitude": "18.23240260",
+  "type": null,
+  "cities": [
+    {
+      "id": 104379,
+      "name": "Bánovce nad Bebravou",
+      "latitude": "48.72130000",
+      "longitude": "18.25754000"
+    },
+    {
+      "id": 104373,
+      "name": "Bojnice",
+      "latitude": "48.78511000",
+      "longitude": "18.58640000"
+    },
+    {
+      "id": 104377,
+      "name": "Brezová pod Bradlom",
+      "latitude": "48.66349000",
+      "longitude": "17.53905000"
+    },
+    {
+      "id": 104586,
+      "name": "Čachtice",
+      "latitude": "48.71226000",
+      "longitude": "17.78704000"
+    },
+    {
+      "id": 104384,
+      "name": "Dubnica nad Váhom",
+      "latitude": "48.95981000",
+      "longitude": "18.16634000"
+    },
+    {
+      "id": 104394,
+      "name": "Handlová",
+      "latitude": "48.72760000",
+      "longitude": "18.76012000"
+    },
+    {
+      "id": 104402,
+      "name": "Ilava",
+      "latitude": "48.99769000",
+      "longitude": "18.23530000"
+    },
+    {
+      "id": 104419,
+      "name": "Lehota pod Vtáčnikom",
+      "latitude": "48.69138000",
+      "longitude": "18.59944000"
+    },
+    {
+      "id": 104436,
+      "name": "Myjava",
+      "latitude": "48.75876000",
+      "longitude": "17.56866000"
+    },
+    {
+      "id": 104437,
+      "name": "Nemšová",
+      "latitude": "48.96702000",
+      "longitude": "18.11892000"
+    },
+    {
+      "id": 104441,
+      "name": "Nová Dubnica",
+      "latitude": "48.93479000",
+      "longitude": "18.14632000"
+    },
+    {
+      "id": 104443,
+      "name": "Nováky",
+      "latitude": "48.71106000",
+      "longitude": "18.53389000"
+    },
+    {
+      "id": 104444,
+      "name": "Nové Mesto nad Váhom",
+      "latitude": "48.75763000",
+      "longitude": "17.83090000"
+    },
+    {
+      "id": 104457,
+      "name": "Okres Bánovce nad Bebravou",
+      "latitude": "48.71908000",
+      "longitude": "18.25773000"
+    },
+    {
+      "id": 104465,
+      "name": "Okres Ilava",
+      "latitude": "48.99641000",
+      "longitude": "18.23374000"
+    },
+    {
+      "id": 104479,
+      "name": "Okres Myjava",
+      "latitude": "48.75000000",
+      "longitude": "17.58333000"
+    },
+    {
+      "id": 104482,
+      "name": "Okres Nové Mesto nad Váhom",
+      "latitude": "48.75466000",
+      "longitude": "17.83506000"
+    },
+    {
+      "id": 104484,
+      "name": "Okres Partizánske",
+      "latitude": "48.62613000",
+      "longitude": "18.37957000"
+    },
+    {
+      "id": 104489,
+      "name": "Okres Považská Bystrica",
+      "latitude": "49.11667000",
+      "longitude": "18.45000000"
+    },
+    {
+      "id": 104491,
+      "name": "Okres Prievidza",
+      "latitude": "48.76667000",
+      "longitude": "18.63333000"
+    },
+    {
+      "id": 104492,
+      "name": "Okres Púchov",
+      "latitude": "49.12406000",
+      "longitude": "18.32477000"
+    },
+    {
+      "id": 104508,
+      "name": "Okres Trenčín",
+      "latitude": "48.89520000",
+      "longitude": "18.04264000"
+    },
+    {
+      "id": 104523,
+      "name": "Partizánske",
+      "latitude": "48.62861000",
+      "longitude": "18.38455000"
+    },
+    {
+      "id": 104529,
+      "name": "Považská Bystrica",
+      "latitude": "49.12153000",
+      "longitude": "18.42169000"
+    },
+    {
+      "id": 104532,
+      "name": "Prievidza",
+      "latitude": "48.77446000",
+      "longitude": "18.62750000"
+    },
+    {
+      "id": 104533,
+      "name": "Púchov",
+      "latitude": "49.12494000",
+      "longitude": "18.32597000"
+    },
+    {
+      "id": 104551,
+      "name": "Stará Turá",
+      "latitude": "48.77721000",
+      "longitude": "17.69433000"
+    },
+    {
+      "id": 104566,
+      "name": "Trenčianske Teplice",
+      "latitude": "48.91063000",
+      "longitude": "18.16691000"
+    },
+    {
+      "id": 104567,
+      "name": "Trenčín",
+      "latitude": "48.89452000",
+      "longitude": "18.04436000"
+    }
+  ],
+  "country": {
+    "id": 200,
+    "name": "Slovakia",
+    "iso3": "SVK",
+    "iso2": "SK",
+    "numeric_code": "703",
+    "phone_code": "421",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".sk",
+    "native": "Slovensko",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Bratislava",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "슬로바키아",
+      "pt-BR": "Eslováquia",
+      "pt": "Eslováquia",
+      "nl": "Slowakije",
+      "hr": "Slovačka",
+      "fa": "اسلواکی",
+      "de": "Slowakei",
+      "es": "República Eslovaca",
+      "fr": "Slovaquie",
+      "ja": "スロバキア",
+      "it": "Slovacchia",
+      "cn": "斯洛伐克",
+      "tr": "Slovakya"
+    },
+    "latitude": "48.66666666",
+    "longitude": "19.50000000",
+    "emoji": "🇸🇰",
+    "emojiU": "U+1F1F8 U+1F1F0"
+  }
+}

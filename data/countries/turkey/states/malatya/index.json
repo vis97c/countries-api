@@ -1,0 +1,132 @@
+{
+  "id": 2158,
+  "name": "Malatya",
+  "state_code": "44",
+  "latitude": "38.40150570",
+  "longitude": "37.95362980",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107105,
+      "name": "Akçadağ",
+      "latitude": "38.33899000",
+      "longitude": "37.97021000"
+    },
+    {
+      "id": 107175,
+      "name": "Arapgir",
+      "latitude": "39.04117000",
+      "longitude": "38.49516000"
+    },
+    {
+      "id": 107183,
+      "name": "Arguvan",
+      "latitude": "38.78172000",
+      "longitude": "38.26349000"
+    },
+    {
+      "id": 107292,
+      "name": "Battalgazi",
+      "latitude": "38.43932000",
+      "longitude": "38.45764000"
+    },
+    {
+      "id": 107447,
+      "name": "Darende",
+      "latitude": "38.54583000",
+      "longitude": "37.50583000"
+    },
+    {
+      "id": 107525,
+      "name": "Doğanşehir",
+      "latitude": "38.08574000",
+      "longitude": "37.87116000"
+    },
+    {
+      "id": 107520,
+      "name": "Doğanyol",
+      "latitude": "38.30746000",
+      "longitude": "39.03431000"
+    },
+    {
+      "id": 107819,
+      "name": "Hekimhan",
+      "latitude": "38.81622000",
+      "longitude": "37.92882000"
+    },
+    {
+      "id": 107870,
+      "name": "Kale",
+      "latitude": "39.03333000",
+      "longitude": "38.00000000"
+    },
+    {
+      "id": 108044,
+      "name": "Kuluncak",
+      "latitude": "38.87656000",
+      "longitude": "37.66279000"
+    },
+    {
+      "id": 108354,
+      "name": "Pütürge",
+      "latitude": "38.19630000",
+      "longitude": "38.87418000"
+    },
+    {
+      "id": 108684,
+      "name": "Yazıhan",
+      "latitude": "38.59292000",
+      "longitude": "38.17327000"
+    },
+    {
+      "id": 108728,
+      "name": "Yeşilyurt",
+      "latitude": "38.29602000",
+      "longitude": "38.24526000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

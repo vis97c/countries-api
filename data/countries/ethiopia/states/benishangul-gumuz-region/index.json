@@ -1,0 +1,66 @@
+{
+  "id": 9,
+  "name": "Benishangul-Gumuz Region",
+  "state_code": "BE",
+  "latitude": "10.78028890",
+  "longitude": "35.56578620",
+  "type": null,
+  "cities": [
+    {
+      "id": 38596,
+      "name": "Asosa",
+      "latitude": "10.00000000",
+      "longitude": "34.50000000"
+    },
+    {
+      "id": 38679,
+      "name": "Metekel",
+      "latitude": "10.42673000",
+      "longitude": "35.71975000"
+    }
+  ],
+  "country": {
+    "id": 70,
+    "name": "Ethiopia",
+    "iso3": "ETH",
+    "iso2": "ET",
+    "numeric_code": "231",
+    "phone_code": "251",
+    "capital": "Addis Ababa",
+    "currency": "ETB",
+    "currency_name": "Ethiopian birr",
+    "currency_symbol": "Nkf",
+    "tld": ".et",
+    "native": "ኢትዮጵያ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Addis_Ababa",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "에티오피아",
+      "pt-BR": "Etiópia",
+      "pt": "Etiópia",
+      "nl": "Ethiopië",
+      "hr": "Etiopija",
+      "fa": "اتیوپی",
+      "de": "Äthiopien",
+      "es": "Etiopía",
+      "fr": "Éthiopie",
+      "ja": "エチオピア",
+      "it": "Etiopia",
+      "cn": "埃塞俄比亚",
+      "tr": "Etiyopya"
+    },
+    "latitude": "8.00000000",
+    "longitude": "38.00000000",
+    "emoji": "🇪🇹",
+    "emojiU": "U+1F1EA U+1F1F9"
+  }
+}

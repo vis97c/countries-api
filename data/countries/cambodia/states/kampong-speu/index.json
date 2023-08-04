@@ -1,0 +1,84 @@
+{
+  "id": 3988,
+  "name": "Kampong Speu",
+  "state_code": "5",
+  "latitude": "11.61551090",
+  "longitude": "104.37919120",
+  "type": "province",
+  "cities": [
+    {
+      "id": 64946,
+      "name": "Kampong Speu",
+      "latitude": "11.45332000",
+      "longitude": "104.52085000"
+    },
+    {
+      "id": 64962,
+      "name": "Krŏng Chbar Mon",
+      "latitude": "11.47091000",
+      "longitude": "104.50655000"
+    },
+    {
+      "id": 64989,
+      "name": "Srŏk Basedth",
+      "latitude": "11.18432000",
+      "longitude": "104.53584000"
+    },
+    {
+      "id": 65008,
+      "name": "Srŏk Kông Pĭsei",
+      "latitude": "11.31648000",
+      "longitude": "104.65992000"
+    },
+    {
+      "id": 65032,
+      "name": "Srŏk Ŏdŏngk",
+      "latitude": "11.66845000",
+      "longitude": "104.61224000"
+    }
+  ],
+  "country": {
+    "id": 37,
+    "name": "Cambodia",
+    "iso3": "KHM",
+    "iso2": "KH",
+    "numeric_code": "116",
+    "phone_code": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "currency_name": "Cambodian riel",
+    "currency_symbol": "KHR",
+    "tld": ".kh",
+    "native": "Kâmpŭchéa",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Phnom_Penh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "캄보디아",
+      "pt-BR": "Camboja",
+      "pt": "Camboja",
+      "nl": "Cambodja",
+      "hr": "Kambodža",
+      "fa": "کامبوج",
+      "de": "Kambodscha",
+      "es": "Camboya",
+      "fr": "Cambodge",
+      "ja": "カンボジア",
+      "it": "Cambogia",
+      "cn": "柬埔寨",
+      "tr": "Kamboçya"
+    },
+    "latitude": "13.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇰🇭",
+    "emojiU": "U+1F1F0 U+1F1ED"
+  }
+}

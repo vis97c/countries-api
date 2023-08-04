@@ -1,0 +1,7788 @@
+{
+  "id": 1702,
+  "name": "Piedmont",
+  "state_code": "21",
+  "latitude": "45.05223660",
+  "longitude": "7.51538850",
+  "type": "region",
+  "cities": [
+    {
+      "id": 135248,
+      "name": "Acceglio",
+      "latitude": "44.47463000",
+      "longitude": "6.99092000"
+    },
+    {
+      "id": 135283,
+      "name": "Acqui Terme",
+      "latitude": "44.67552000",
+      "longitude": "8.46934000"
+    },
+    {
+      "id": 135303,
+      "name": "Agliano",
+      "latitude": "44.79164000",
+      "longitude": "8.25124000"
+    },
+    {
+      "id": 135304,
+      "name": "Agliano Terme",
+      "latitude": "44.79025000",
+      "longitude": "8.25044000"
+    },
+    {
+      "id": 135306,
+      "name": "Agliè",
+      "latitude": "45.36800000",
+      "longitude": "7.76800000"
+    },
+    {
+      "id": 135315,
+      "name": "Agrate",
+      "latitude": "45.67540000",
+      "longitude": "8.56065000"
+    },
+    {
+      "id": 135317,
+      "name": "Agrate Conturbia",
+      "latitude": "45.67547000",
+      "longitude": "8.55973000"
+    },
+    {
+      "id": 135331,
+      "name": "Ailoche",
+      "latitude": "45.69812000",
+      "longitude": "8.22133000"
+    },
+    {
+      "id": 135332,
+      "name": "Airali",
+      "latitude": "44.81670000",
+      "longitude": "7.25157000"
+    },
+    {
+      "id": 135333,
+      "name": "Airasca",
+      "latitude": "44.91719000",
+      "longitude": "7.48322000"
+    },
+    {
+      "id": 135337,
+      "name": "Aisone",
+      "latitude": "44.31392000",
+      "longitude": "7.21963000"
+    },
+    {
+      "id": 135339,
+      "name": "Ala di Stura",
+      "latitude": "45.31492000",
+      "longitude": "7.30345000"
+    },
+    {
+      "id": 135341,
+      "name": "Alagna Valsesia",
+      "latitude": "45.85182000",
+      "longitude": "7.93752000"
+    },
+    {
+      "id": 135346,
+      "name": "Alba",
+      "latitude": "44.69990000",
+      "longitude": "8.03470000"
+    },
+    {
+      "id": 135353,
+      "name": "Albano Vercellese",
+      "latitude": "45.42616000",
+      "longitude": "8.38093000"
+    },
+    {
+      "id": 135360,
+      "name": "Albaretto della Torre",
+      "latitude": "44.59624000",
+      "longitude": "8.06464000"
+    },
+    {
+      "id": 135363,
+      "name": "Albera Ligure",
+      "latitude": "44.70159000",
+      "longitude": "9.06720000"
+    },
+    {
+      "id": 135372,
+      "name": "Albiano d'Ivrea",
+      "latitude": "45.43424000",
+      "longitude": "7.94789000"
+    },
+    {
+      "id": 135387,
+      "name": "Albugnano",
+      "latitude": "45.07755000",
+      "longitude": "7.97113000"
+    },
+    {
+      "id": 135394,
+      "name": "Alessandria",
+      "latitude": "44.90924000",
+      "longitude": "8.61007000"
+    },
+    {
+      "id": 135402,
+      "name": "Alfiano Natta",
+      "latitude": "45.04860000",
+      "longitude": "8.20730000"
+    },
+    {
+      "id": 135408,
+      "name": "Alice Bel Colle",
+      "latitude": "44.72605000",
+      "longitude": "8.45074000"
+    },
+    {
+      "id": 135409,
+      "name": "Alice Castello",
+      "latitude": "45.36860000",
+      "longitude": "8.07320000"
+    },
+    {
+      "id": 135410,
+      "name": "Alice Superiore",
+      "latitude": "45.46066000",
+      "longitude": "7.77922000"
+    },
+    {
+      "id": 135422,
+      "name": "Almese-Rivera",
+      "latitude": "45.11915000",
+      "longitude": "7.40111000"
+    },
+    {
+      "id": 135425,
+      "name": "Alpette",
+      "latitude": "45.40917000",
+      "longitude": "7.57795000"
+    },
+    {
+      "id": 135426,
+      "name": "Alpignano",
+      "latitude": "45.09346000",
+      "longitude": "7.52392000"
+    },
+    {
+      "id": 135434,
+      "name": "Altavilla Monferrato",
+      "latitude": "44.99355000",
+      "longitude": "8.37594000"
+    },
+    {
+      "id": 135443,
+      "name": "Alto",
+      "latitude": "44.10863000",
+      "longitude": "8.00215000"
+    },
+    {
+      "id": 135451,
+      "name": "Alzano Scrivia",
+      "latitude": "45.01806000",
+      "longitude": "8.88065000"
+    },
+    {
+      "id": 135470,
+      "name": "Ameno",
+      "latitude": "45.78897000",
+      "longitude": "8.44000000"
+    },
+    {
+      "id": 135483,
+      "name": "Andezeno",
+      "latitude": "45.03376000",
+      "longitude": "7.86607000"
+    },
+    {
+      "id": 135485,
+      "name": "Andorno Cacciorna",
+      "latitude": "45.61054000",
+      "longitude": "8.05589000"
+    },
+    {
+      "id": 135487,
+      "name": "Andrate",
+      "latitude": "45.52633000",
+      "longitude": "7.88145000"
+    },
+    {
+      "id": 135501,
+      "name": "Angrogna",
+      "latitude": "44.84354000",
+      "longitude": "7.22422000"
+    },
+    {
+      "id": 135518,
+      "name": "Antignano",
+      "latitude": "44.84535000",
+      "longitude": "8.13494000"
+    },
+    {
+      "id": 135522,
+      "name": "Antronapiana",
+      "latitude": "46.06091000",
+      "longitude": "8.11519000"
+    },
+    {
+      "id": 135528,
+      "name": "Anzola d'Ossola",
+      "latitude": "45.98897000",
+      "longitude": "8.34531000"
+    },
+    {
+      "id": 135551,
+      "name": "Aramengo",
+      "latitude": "45.10085000",
+      "longitude": "8.00003000"
+    },
+    {
+      "id": 135557,
+      "name": "Arborio",
+      "latitude": "45.49586000",
+      "longitude": "8.38755000"
+    },
+    {
+      "id": 135595,
+      "name": "Arguello",
+      "latitude": "44.58274000",
+      "longitude": "8.11084000"
+    },
+    {
+      "id": 135604,
+      "name": "Arignano",
+      "latitude": "45.03966000",
+      "longitude": "7.90189000"
+    },
+    {
+      "id": 135608,
+      "name": "Arizzano",
+      "latitude": "45.95738000",
+      "longitude": "8.58292000"
+    },
+    {
+      "id": 135613,
+      "name": "Armeno",
+      "latitude": "45.82078000",
+      "longitude": "8.44557000"
+    },
+    {
+      "id": 135622,
+      "name": "Arola",
+      "latitude": "45.80867000",
+      "longitude": "8.35808000"
+    },
+    {
+      "id": 135624,
+      "name": "Arona",
+      "latitude": "45.75890000",
+      "longitude": "8.55715000"
+    },
+    {
+      "id": 135630,
+      "name": "Arquata Scrivia",
+      "latitude": "44.68830000",
+      "longitude": "8.88682000"
+    },
+    {
+      "id": 135660,
+      "name": "Asigliano Vercellese",
+      "latitude": "45.26146000",
+      "longitude": "8.40853000"
+    },
+    {
+      "id": 135670,
+      "name": "Asti",
+      "latitude": "44.90162000",
+      "longitude": "8.20751000"
+    },
+    {
+      "id": 135688,
+      "name": "Aurano",
+      "latitude": "46.00038000",
+      "longitude": "8.58822000"
+    },
+    {
+      "id": 135708,
+      "name": "Avigliana",
+      "latitude": "45.07978000",
+      "longitude": "7.39647000"
+    },
+    {
+      "id": 135714,
+      "name": "Avolasca",
+      "latitude": "44.80315000",
+      "longitude": "8.96545000"
+    },
+    {
+      "id": 135718,
+      "name": "Azeglio",
+      "latitude": "45.42283000",
+      "longitude": "7.99222000"
+    },
+    {
+      "id": 135724,
+      "name": "Azzano d'Asti",
+      "latitude": "44.87345000",
+      "longitude": "8.26684000"
+    },
+    {
+      "id": 135728,
+      "name": "Baceno",
+      "latitude": "46.26062000",
+      "longitude": "8.31874000"
+    },
+    {
+      "id": 135755,
+      "name": "Bagnasco",
+      "latitude": "44.30412000",
+      "longitude": "8.04522000"
+    },
+    {
+      "id": 135769,
+      "name": "Bagnolo Piemonte",
+      "latitude": "44.76034000",
+      "longitude": "7.31392000"
+    },
+    {
+      "id": 135779,
+      "name": "Bairo",
+      "latitude": "45.38606000",
+      "longitude": "7.75532000"
+    },
+    {
+      "id": 135782,
+      "name": "Balangero",
+      "latitude": "45.26988000",
+      "longitude": "7.51884000"
+    },
+    {
+      "id": 135783,
+      "name": "Baldichieri d'Asti",
+      "latitude": "44.90595000",
+      "longitude": "8.09163000"
+    },
+    {
+      "id": 135784,
+      "name": "Baldissero Canavese",
+      "latitude": "45.41026000",
+      "longitude": "7.74422000"
+    },
+    {
+      "id": 135786,
+      "name": "Baldissero d'Alba",
+      "latitude": "44.76184000",
+      "longitude": "7.90863000"
+    },
+    {
+      "id": 135785,
+      "name": "Baldissero Torinese",
+      "latitude": "45.06837000",
+      "longitude": "7.81274000"
+    },
+    {
+      "id": 135792,
+      "name": "Balme",
+      "latitude": "45.30192000",
+      "longitude": "7.21937000"
+    },
+    {
+      "id": 135793,
+      "name": "Balmuccia",
+      "latitude": "45.81878000",
+      "longitude": "8.14080000"
+    },
+    {
+      "id": 135794,
+      "name": "Balocco",
+      "latitude": "45.45589000",
+      "longitude": "8.28068000"
+    },
+    {
+      "id": 135799,
+      "name": "Balzola",
+      "latitude": "45.18358000",
+      "longitude": "8.40277000"
+    },
+    {
+      "id": 135802,
+      "name": "Banchette",
+      "latitude": "45.45356000",
+      "longitude": "7.85632000"
+    },
+    {
+      "id": 135803,
+      "name": "Bandito",
+      "latitude": "44.72282000",
+      "longitude": "7.82403000"
+    },
+    {
+      "id": 135804,
+      "name": "Bannio",
+      "latitude": "45.98397000",
+      "longitude": "8.14611000"
+    },
+    {
+      "id": 135816,
+      "name": "Baratte",
+      "latitude": "45.11160000",
+      "longitude": "7.23643000"
+    },
+    {
+      "id": 135818,
+      "name": "Barbania",
+      "latitude": "45.29143000",
+      "longitude": "7.63450000"
+    },
+    {
+      "id": 135823,
+      "name": "Barbaresco",
+      "latitude": "44.72324000",
+      "longitude": "8.08194000"
+    },
+    {
+      "id": 135843,
+      "name": "Bardonecchia",
+      "latitude": "45.07462000",
+      "longitude": "6.69888000"
+    },
+    {
+      "id": 135845,
+      "name": "Barengo",
+      "latitude": "45.57597000",
+      "longitude": "8.51403000"
+    },
+    {
+      "id": 135851,
+      "name": "Barge",
+      "latitude": "44.72786000",
+      "longitude": "7.32283000"
+    },
+    {
+      "id": 135862,
+      "name": "Barolo",
+      "latitude": "44.61094000",
+      "longitude": "7.94284000"
+    },
+    {
+      "id": 135864,
+      "name": "Barone Canavese",
+      "latitude": "45.32576000",
+      "longitude": "7.87342000"
+    },
+    {
+      "id": 135866,
+      "name": "Barquedo",
+      "latitude": "45.74283000",
+      "longitude": "8.49630000"
+    },
+    {
+      "id": 135878,
+      "name": "Basaluzzo",
+      "latitude": "44.76885000",
+      "longitude": "8.70485000"
+    },
+    {
+      "id": 135896,
+      "name": "Bassignana",
+      "latitude": "45.00110000",
+      "longitude": "8.73291000"
+    },
+    {
+      "id": 135900,
+      "name": "Bastia Mondovì",
+      "latitude": "44.44194000",
+      "longitude": "7.89444000"
+    },
+    {
+      "id": 135908,
+      "name": "Battifollo",
+      "latitude": "44.31983000",
+      "longitude": "8.01094000"
+    },
+    {
+      "id": 135914,
+      "name": "Baveno",
+      "latitude": "45.90818000",
+      "longitude": "8.50033000"
+    },
+    {
+      "id": 135922,
+      "name": "Bee",
+      "latitude": "45.96328000",
+      "longitude": "8.57542000"
+    },
+    {
+      "id": 135924,
+      "name": "Beinasco",
+      "latitude": "45.02472000",
+      "longitude": "7.58564000"
+    },
+    {
+      "id": 135925,
+      "name": "Beinette",
+      "latitude": "44.36394000",
+      "longitude": "7.64464000"
+    },
+    {
+      "id": 135930,
+      "name": "Belforte Monferrato",
+      "latitude": "44.62505000",
+      "longitude": "8.66125000"
+    },
+    {
+      "id": 135933,
+      "name": "Belgirate",
+      "latitude": "45.84123000",
+      "longitude": "8.57064000"
+    },
+    {
+      "id": 135944,
+      "name": "Bellinzago Novarese",
+      "latitude": "45.56877000",
+      "longitude": "8.64323000"
+    },
+    {
+      "id": 135962,
+      "name": "Belvedere Langhe",
+      "latitude": "44.49361000",
+      "longitude": "7.97387000"
+    },
+    {
+      "id": 135967,
+      "name": "Belveglio",
+      "latitude": "44.83012000",
+      "longitude": "8.32864000"
+    },
+    {
+      "id": 135972,
+      "name": "Bene Vagienna",
+      "latitude": "44.54268000",
+      "longitude": "7.82726000"
+    },
+    {
+      "id": 135975,
+      "name": "Benevello",
+      "latitude": "44.62981000",
+      "longitude": "8.10507000"
+    },
+    {
+      "id": 135977,
+      "name": "Benna",
+      "latitude": "45.51528000",
+      "longitude": "8.12409000"
+    },
+    {
+      "id": 135986,
+      "name": "Bergamasco",
+      "latitude": "44.82725000",
+      "longitude": "8.45474000"
+    },
+    {
+      "id": 135990,
+      "name": "Bergolo",
+      "latitude": "44.54784000",
+      "longitude": "8.18314000"
+    },
+    {
+      "id": 135995,
+      "name": "Bernezzo",
+      "latitude": "44.38533000",
+      "longitude": "7.43633000"
+    },
+    {
+      "id": 135998,
+      "name": "Bersezio",
+      "latitude": "44.38031000",
+      "longitude": "6.96885000"
+    },
+    {
+      "id": 136004,
+      "name": "Berzano di San Pietro",
+      "latitude": "45.09418000",
+      "longitude": "7.95352000"
+    },
+    {
+      "id": 136005,
+      "name": "Berzano di Tortona",
+      "latitude": "44.87666000",
+      "longitude": "8.95108000"
+    },
+    {
+      "id": 136023,
+      "name": "Beura",
+      "latitude": "46.07964000",
+      "longitude": "8.29826000"
+    },
+    {
+      "id": 136031,
+      "name": "Biandrate",
+      "latitude": "45.45271000",
+      "longitude": "8.46402000"
+    },
+    {
+      "id": 136035,
+      "name": "Bianzè",
+      "latitude": "45.30751000",
+      "longitude": "8.12202000"
+    },
+    {
+      "id": 136041,
+      "name": "Bibiana",
+      "latitude": "44.79894000",
+      "longitude": "7.28822000"
+    },
+    {
+      "id": 136046,
+      "name": "Biella",
+      "latitude": "45.56304000",
+      "longitude": "8.05796000"
+    },
+    {
+      "id": 136054,
+      "name": "Bioglio-Portula-Andrè",
+      "latitude": "45.61516000",
+      "longitude": "8.13602000"
+    },
+    {
+      "id": 136065,
+      "name": "Bistagno",
+      "latitude": "44.66059000",
+      "longitude": "8.37163000"
+    },
+    {
+      "id": 136086,
+      "name": "Bobbio Pellice",
+      "latitude": "44.80854000",
+      "longitude": "7.11691000"
+    },
+    {
+      "id": 136087,
+      "name": "Boca",
+      "latitude": "45.67897000",
+      "longitude": "8.40873000"
+    },
+    {
+      "id": 136089,
+      "name": "Boccioleto",
+      "latitude": "45.83047000",
+      "longitude": "8.11282000"
+    },
+    {
+      "id": 136097,
+      "name": "Bogogno",
+      "latitude": "45.66307000",
+      "longitude": "8.53473000"
+    },
+    {
+      "id": 136106,
+      "name": "Bollengo",
+      "latitude": "45.47162000",
+      "longitude": "7.94133000"
+    },
+    {
+      "id": 136116,
+      "name": "Bolzano Novarese",
+      "latitude": "45.76266000",
+      "longitude": "8.44248000"
+    },
+    {
+      "id": 136143,
+      "name": "Bonvicino",
+      "latitude": "44.50354000",
+      "longitude": "8.01754000"
+    },
+    {
+      "id": 136155,
+      "name": "Borgaro Torinese",
+      "latitude": "45.15122000",
+      "longitude": "7.65543000"
+    },
+    {
+      "id": 136162,
+      "name": "Borghetto di Borbera",
+      "latitude": "44.72945000",
+      "longitude": "8.94346000"
+    },
+    {
+      "id": 136167,
+      "name": "Borgiallo",
+      "latitude": "45.41758000",
+      "longitude": "7.66984000"
+    },
+    {
+      "id": 136169,
+      "name": "Borgo",
+      "latitude": "44.70887000",
+      "longitude": "7.96222000"
+    },
+    {
+      "id": 136199,
+      "name": "Borgo d'Ale",
+      "latitude": "45.34958000",
+      "longitude": "8.05198000"
+    },
+    {
+      "id": 136176,
+      "name": "Borgo Melano",
+      "latitude": "45.01578000",
+      "longitude": "7.57656000"
+    },
+    {
+      "id": 136181,
+      "name": "Borgo San Dalmazzo",
+      "latitude": "44.33785000",
+      "longitude": "7.49310000"
+    },
+    {
+      "id": 136185,
+      "name": "Borgo San Martino",
+      "latitude": "45.09259000",
+      "longitude": "8.52373000"
+    },
+    {
+      "id": 136191,
+      "name": "Borgo Ticino",
+      "latitude": "45.68931000",
+      "longitude": "8.60448000"
+    },
+    {
+      "id": 136196,
+      "name": "Borgo Vercelli",
+      "latitude": "45.35680000",
+      "longitude": "8.46460000"
+    },
+    {
+      "id": 136203,
+      "name": "Borgofranco d'Ivrea",
+      "latitude": "45.51636000",
+      "longitude": "7.85865000"
+    },
+    {
+      "id": 136205,
+      "name": "Borgolavezzaro",
+      "latitude": "45.31918000",
+      "longitude": "8.69931000"
+    },
+    {
+      "id": 136206,
+      "name": "Borgomale",
+      "latitude": "44.62034000",
+      "longitude": "8.13224000"
+    },
+    {
+      "id": 136207,
+      "name": "Borgomanero",
+      "latitude": "45.69873000",
+      "longitude": "8.46230000"
+    },
+    {
+      "id": 136209,
+      "name": "Borgomasino",
+      "latitude": "45.36205000",
+      "longitude": "7.98811000"
+    },
+    {
+      "id": 136210,
+      "name": "Borgone Susa",
+      "latitude": "45.12334000",
+      "longitude": "7.23641000"
+    },
+    {
+      "id": 136213,
+      "name": "Borgoratto Alessandrino",
+      "latitude": "44.83625000",
+      "longitude": "8.53854000"
+    },
+    {
+      "id": 136218,
+      "name": "Borgosesia",
+      "latitude": "45.72045000",
+      "longitude": "8.27466000"
+    },
+    {
+      "id": 136228,
+      "name": "Borriana",
+      "latitude": "45.50781000",
+      "longitude": "8.03860000"
+    },
+    {
+      "id": 136243,
+      "name": "Bosco Marengo",
+      "latitude": "44.82373000",
+      "longitude": "8.68008000"
+    },
+    {
+      "id": 136246,
+      "name": "Bosconero",
+      "latitude": "45.26630000",
+      "longitude": "7.76578000"
+    },
+    {
+      "id": 136250,
+      "name": "Bosia",
+      "latitude": "44.60244000",
+      "longitude": "8.14734000"
+    },
+    {
+      "id": 136251,
+      "name": "Bosio",
+      "latitude": "44.64975000",
+      "longitude": "8.79285000"
+    },
+    {
+      "id": 136255,
+      "name": "Bossolasco",
+      "latitude": "44.52818000",
+      "longitude": "8.04993000"
+    },
+    {
+      "id": 136269,
+      "name": "Boves",
+      "latitude": "44.32985000",
+      "longitude": "7.54733000"
+    },
+    {
+      "id": 136276,
+      "name": "Bozzole",
+      "latitude": "45.06934000",
+      "longitude": "8.60561000"
+    },
+    {
+      "id": 136278,
+      "name": "Bra",
+      "latitude": "44.69776000",
+      "longitude": "7.85128000"
+    },
+    {
+      "id": 136288,
+      "name": "Brandizzo",
+      "latitude": "45.17706000",
+      "longitude": "7.83581000"
+    },
+    {
+      "id": 136297,
+      "name": "Breia",
+      "latitude": "45.76497000",
+      "longitude": "8.30552000"
+    },
+    {
+      "id": 136312,
+      "name": "Breo",
+      "latitude": "44.39865000",
+      "longitude": "7.81903000"
+    },
+    {
+      "id": 136324,
+      "name": "Briaglia",
+      "latitude": "44.39583000",
+      "longitude": "7.87574000"
+    },
+    {
+      "id": 136326,
+      "name": "Bricco di Neive",
+      "latitude": "44.71159000",
+      "longitude": "8.13409000"
+    },
+    {
+      "id": 136327,
+      "name": "Bricherasio",
+      "latitude": "44.82328000",
+      "longitude": "7.30300000"
+    },
+    {
+      "id": 136330,
+      "name": "Briga Alta",
+      "latitude": "44.08273000",
+      "longitude": "7.74944000"
+    },
+    {
+      "id": 136331,
+      "name": "Briga Novarese",
+      "latitude": "45.72931000",
+      "longitude": "8.45586000"
+    },
+    {
+      "id": 136332,
+      "name": "Brignano",
+      "latitude": "44.81457000",
+      "longitude": "9.04005000"
+    },
+    {
+      "id": 136337,
+      "name": "Briona",
+      "latitude": "45.54247000",
+      "longitude": "8.47973000"
+    },
+    {
+      "id": 136350,
+      "name": "Brondello",
+      "latitude": "44.60073000",
+      "longitude": "7.40592000"
+    },
+    {
+      "id": 136355,
+      "name": "Brossasco",
+      "latitude": "44.56778000",
+      "longitude": "7.36454000"
+    },
+    {
+      "id": 136356,
+      "name": "Brosso",
+      "latitude": "45.49180000",
+      "longitude": "7.80225000"
+    },
+    {
+      "id": 136357,
+      "name": "Brovello",
+      "latitude": "45.84246000",
+      "longitude": "8.53189000"
+    },
+    {
+      "id": 136358,
+      "name": "Brovello-Carpugnino",
+      "latitude": "45.84247000",
+      "longitude": "8.53173000"
+    },
+    {
+      "id": 136359,
+      "name": "Brozolo",
+      "latitude": "45.11695000",
+      "longitude": "8.07193000"
+    },
+    {
+      "id": 136366,
+      "name": "Bruino",
+      "latitude": "45.01506000",
+      "longitude": "7.47754000"
+    },
+    {
+      "id": 136372,
+      "name": "Bruno",
+      "latitude": "44.79262000",
+      "longitude": "8.43973000"
+    },
+    {
+      "id": 136374,
+      "name": "Brusasco",
+      "latitude": "45.15499000",
+      "longitude": "8.06107000"
+    },
+    {
+      "id": 136377,
+      "name": "Brusnengo",
+      "latitude": "45.59011000",
+      "longitude": "8.25219000"
+    },
+    {
+      "id": 136379,
+      "name": "Bruzolo",
+      "latitude": "45.14093000",
+      "longitude": "7.19463000"
+    },
+    {
+      "id": 136383,
+      "name": "Bubbio",
+      "latitude": "44.66344000",
+      "longitude": "8.29514000"
+    },
+    {
+      "id": 136414,
+      "name": "Buriasco",
+      "latitude": "44.87222000",
+      "longitude": "7.41200000"
+    },
+    {
+      "id": 136415,
+      "name": "Burolo",
+      "latitude": "45.48116000",
+      "longitude": "7.93392000"
+    },
+    {
+      "id": 136416,
+      "name": "Buronzo",
+      "latitude": "45.48018000",
+      "longitude": "8.26628000"
+    },
+    {
+      "id": 136420,
+      "name": "Busano",
+      "latitude": "45.33137000",
+      "longitude": "7.65727000"
+    },
+    {
+      "id": 136421,
+      "name": "Busca",
+      "latitude": "44.51625000",
+      "longitude": "7.47662000"
+    },
+    {
+      "id": 136433,
+      "name": "Bussoleno",
+      "latitude": "45.13970000",
+      "longitude": "7.14432000"
+    },
+    {
+      "id": 136439,
+      "name": "Buttigliera Alta",
+      "latitude": "45.06836000",
+      "longitude": "7.43254000"
+    },
+    {
+      "id": 136440,
+      "name": "Buttigliera d'Asti",
+      "latitude": "45.02175000",
+      "longitude": "7.95103000"
+    },
+    {
+      "id": 136448,
+      "name": "Cabella Ligure",
+      "latitude": "44.67491000",
+      "longitude": "9.09607000"
+    },
+    {
+      "id": 136465,
+      "name": "Cafasse",
+      "latitude": "45.24865000",
+      "longitude": "7.51882000"
+    },
+    {
+      "id": 136488,
+      "name": "Calamandrana",
+      "latitude": "44.73767000",
+      "longitude": "8.33726000"
+    },
+    {
+      "id": 136492,
+      "name": "Calasca-Castiglione",
+      "latitude": "46.02081000",
+      "longitude": "8.21451000"
+    },
+    {
+      "id": 136531,
+      "name": "Callabiana - Chiesa",
+      "latitude": "45.63137000",
+      "longitude": "8.09722000"
+    },
+    {
+      "id": 136532,
+      "name": "Calliano",
+      "latitude": "45.00798000",
+      "longitude": "8.25661000"
+    },
+    {
+      "id": 136537,
+      "name": "Calosso",
+      "latitude": "44.73994000",
+      "longitude": "8.22714000"
+    },
+    {
+      "id": 136545,
+      "name": "Caltignaga",
+      "latitude": "45.52088000",
+      "longitude": "8.58616000"
+    },
+    {
+      "id": 136549,
+      "name": "Caluso",
+      "latitude": "45.30466000",
+      "longitude": "7.89101000"
+    },
+    {
+      "id": 136566,
+      "name": "Camagna Monferrato",
+      "latitude": "45.01765000",
+      "longitude": "8.42974000"
+    },
+    {
+      "id": 136570,
+      "name": "Camandona",
+      "latitude": "45.64417000",
+      "longitude": "8.09972000"
+    },
+    {
+      "id": 136573,
+      "name": "Cambiano",
+      "latitude": "44.97113000",
+      "longitude": "7.77447000"
+    },
+    {
+      "id": 136574,
+      "name": "Cambiasca",
+      "latitude": "45.96238000",
+      "longitude": "8.54462000"
+    },
+    {
+      "id": 136575,
+      "name": "Camburzano",
+      "latitude": "45.54393000",
+      "longitude": "8.00226000"
+    },
+    {
+      "id": 136576,
+      "name": "Camerana",
+      "latitude": "44.42404000",
+      "longitude": "8.14144000"
+    },
+    {
+      "id": 136578,
+      "name": "Camerano",
+      "latitude": "44.99118000",
+      "longitude": "8.08965000"
+    },
+    {
+      "id": 136579,
+      "name": "Camerano Casasco",
+      "latitude": "44.99165000",
+      "longitude": "8.09103000"
+    },
+    {
+      "id": 136583,
+      "name": "Cameri",
+      "latitude": "45.50159000",
+      "longitude": "8.66245000"
+    },
+    {
+      "id": 136590,
+      "name": "Camino",
+      "latitude": "45.15723000",
+      "longitude": "8.29376000"
+    },
+    {
+      "id": 136596,
+      "name": "Camo",
+      "latitude": "44.69504000",
+      "longitude": "8.19434000"
+    },
+    {
+      "id": 136613,
+      "name": "Campertogno",
+      "latitude": "45.79877000",
+      "longitude": "8.03212000"
+    },
+    {
+      "id": 136617,
+      "name": "Campiglia Cervo",
+      "latitude": "45.66290000",
+      "longitude": "7.99967000"
+    },
+    {
+      "id": 136620,
+      "name": "Campiglione",
+      "latitude": "44.80284000",
+      "longitude": "7.32422000"
+    },
+    {
+      "id": 136669,
+      "name": "Campomolino",
+      "latitude": "44.40883000",
+      "longitude": "7.21192000"
+    },
+    {
+      "id": 136687,
+      "name": "Canale",
+      "latitude": "44.79532000",
+      "longitude": "7.99373000"
+    },
+    {
+      "id": 136698,
+      "name": "Candelo",
+      "latitude": "45.54093000",
+      "longitude": "8.10659000"
+    },
+    {
+      "id": 136700,
+      "name": "Candia Canavese",
+      "latitude": "45.32734000",
+      "longitude": "7.88429000"
+    },
+    {
+      "id": 136706,
+      "name": "Candiolo",
+      "latitude": "44.95858000",
+      "longitude": "7.59812000"
+    },
+    {
+      "id": 136708,
+      "name": "Canelli",
+      "latitude": "44.72084000",
+      "longitude": "8.29282000"
+    },
+    {
+      "id": 136715,
+      "name": "Canischio",
+      "latitude": "45.37485000",
+      "longitude": "7.59621000"
+    },
+    {
+      "id": 136720,
+      "name": "Cannero Riviera",
+      "latitude": "46.02200000",
+      "longitude": "8.67933000"
+    },
+    {
+      "id": 136726,
+      "name": "Cannobio",
+      "latitude": "46.06233000",
+      "longitude": "8.69628000"
+    },
+    {
+      "id": 136733,
+      "name": "Canosio",
+      "latitude": "44.45583000",
+      "longitude": "7.08272000"
+    },
+    {
+      "id": 136740,
+      "name": "Cantalupa",
+      "latitude": "44.94594000",
+      "longitude": "7.33032000"
+    },
+    {
+      "id": 136742,
+      "name": "Cantalupo Ligure",
+      "latitude": "44.71811000",
+      "longitude": "9.04575000"
+    },
+    {
+      "id": 136745,
+      "name": "Cantarana",
+      "latitude": "44.90245000",
+      "longitude": "8.02753000"
+    },
+    {
+      "id": 136750,
+      "name": "Cantoira",
+      "latitude": "45.34014000",
+      "longitude": "7.38450000"
+    },
+    {
+      "id": 136806,
+      "name": "Caprauna",
+      "latitude": "44.11603000",
+      "longitude": "7.95495000"
+    },
+    {
+      "id": 136808,
+      "name": "Caprezzo",
+      "latitude": "45.98198000",
+      "longitude": "8.56282000"
+    },
+    {
+      "id": 136814,
+      "name": "Capriata d'Orba",
+      "latitude": "44.72785000",
+      "longitude": "8.69085000"
+    },
+    {
+      "id": 136817,
+      "name": "Caprie",
+      "latitude": "45.11944000",
+      "longitude": "7.33294000"
+    },
+    {
+      "id": 136820,
+      "name": "Capriglio",
+      "latitude": "45.00355000",
+      "longitude": "8.00893000"
+    },
+    {
+      "id": 136829,
+      "name": "Caraglio",
+      "latitude": "44.41725000",
+      "longitude": "7.43281000"
+    },
+    {
+      "id": 136830,
+      "name": "Caramagna Piemonte",
+      "latitude": "44.78224000",
+      "longitude": "7.73943000"
+    },
+    {
+      "id": 136842,
+      "name": "Caravino",
+      "latitude": "45.39950000",
+      "longitude": "7.96020000"
+    },
+    {
+      "id": 136845,
+      "name": "Carbonara Scrivia",
+      "latitude": "44.84915000",
+      "longitude": "8.86975000"
+    },
+    {
+      "id": 136856,
+      "name": "Carcoforo",
+      "latitude": "45.90858000",
+      "longitude": "8.04967000"
+    },
+    {
+      "id": 136863,
+      "name": "Cardè",
+      "latitude": "44.74444000",
+      "longitude": "7.47762000"
+    },
+    {
+      "id": 136865,
+      "name": "Carema",
+      "latitude": "45.58401000",
+      "longitude": "7.80879000"
+    },
+    {
+      "id": 136867,
+      "name": "Carentino",
+      "latitude": "44.82885000",
+      "longitude": "8.47134000"
+    },
+    {
+      "id": 136869,
+      "name": "Caresana",
+      "latitude": "45.22142000",
+      "longitude": "8.50480000"
+    },
+    {
+      "id": 136870,
+      "name": "Caresanablot",
+      "latitude": "45.35736000",
+      "longitude": "8.39203000"
+    },
+    {
+      "id": 136871,
+      "name": "Carezzano Maggiore",
+      "latitude": "44.80705000",
+      "longitude": "8.90055000"
+    },
+    {
+      "id": 136877,
+      "name": "Carignano",
+      "latitude": "44.90599000",
+      "longitude": "7.67253000"
+    },
+    {
+      "id": 136882,
+      "name": "Carisio",
+      "latitude": "45.41017000",
+      "longitude": "8.19962000"
+    },
+    {
+      "id": 136890,
+      "name": "Carmagnola",
+      "latitude": "44.84963000",
+      "longitude": "7.72032000"
+    },
+    {
+      "id": 136911,
+      "name": "Carpeneto",
+      "latitude": "44.67835000",
+      "longitude": "8.60555000"
+    },
+    {
+      "id": 136916,
+      "name": "Carpignano Sesia",
+      "latitude": "45.53341000",
+      "longitude": "8.41734000"
+    },
+    {
+      "id": 136927,
+      "name": "Carrega Ligure",
+      "latitude": "44.61879000",
+      "longitude": "9.17564000"
+    },
+    {
+      "id": 136930,
+      "name": "Carrosio",
+      "latitude": "44.65776000",
+      "longitude": "8.83126000"
+    },
+    {
+      "id": 136935,
+      "name": "Carrù",
+      "latitude": "44.47967000",
+      "longitude": "7.87236000"
+    },
+    {
+      "id": 136939,
+      "name": "Cartignano",
+      "latitude": "44.47833000",
+      "longitude": "7.28573000"
+    },
+    {
+      "id": 136941,
+      "name": "Cartosio",
+      "latitude": "44.59024000",
+      "longitude": "8.42065000"
+    },
+    {
+      "id": 136957,
+      "name": "Casal Cermelli",
+      "latitude": "44.83495000",
+      "longitude": "8.62495000"
+    },
+    {
+      "id": 136964,
+      "name": "Casalbeltrame",
+      "latitude": "45.43806000",
+      "longitude": "8.46653000"
+    },
+    {
+      "id": 136967,
+      "name": "Casalborgone",
+      "latitude": "45.13045000",
+      "longitude": "7.94043000"
+    },
+    {
+      "id": 136974,
+      "name": "Casale Corte Cerro",
+      "latitude": "45.91545000",
+      "longitude": "8.41407000"
+    },
+    {
+      "id": 136978,
+      "name": "Casale Monferrato",
+      "latitude": "45.13338000",
+      "longitude": "8.45250000"
+    },
+    {
+      "id": 136982,
+      "name": "Casaleggio Boiro",
+      "latitude": "44.63355000",
+      "longitude": "8.73045000"
+    },
+    {
+      "id": 136983,
+      "name": "Casaleggio Novara",
+      "latitude": "45.48793000",
+      "longitude": "8.49307000"
+    },
+    {
+      "id": 136992,
+      "name": "Casalgrasso",
+      "latitude": "44.81834000",
+      "longitude": "7.62498000"
+    },
+    {
+      "id": 136997,
+      "name": "Casalino",
+      "latitude": "45.35836000",
+      "longitude": "8.52393000"
+    },
+    {
+      "id": 137002,
+      "name": "Casalnoceto",
+      "latitude": "44.91326000",
+      "longitude": "8.98376000"
+    },
+    {
+      "id": 137013,
+      "name": "Casalvolone",
+      "latitude": "45.39966000",
+      "longitude": "8.46472000"
+    },
+    {
+      "id": 137022,
+      "name": "Casanova Elvo",
+      "latitude": "45.40020000",
+      "longitude": "8.29413000"
+    },
+    {
+      "id": 137027,
+      "name": "Casapinta",
+      "latitude": "45.61566000",
+      "longitude": "8.19592000"
+    },
+    {
+      "id": 137036,
+      "name": "Casasco",
+      "latitude": "44.82734000",
+      "longitude": "9.00565000"
+    },
+    {
+      "id": 137052,
+      "name": "Cascinette d'Ivrea",
+      "latitude": "45.48016000",
+      "longitude": "7.90562000"
+    },
+    {
+      "id": 137057,
+      "name": "Caselette",
+      "latitude": "45.10975000",
+      "longitude": "7.48582000"
+    },
+    {
+      "id": 137062,
+      "name": "Caselle Torinese",
+      "latitude": "45.17458000",
+      "longitude": "7.64290000"
+    },
+    {
+      "id": 137090,
+      "name": "Casorzo",
+      "latitude": "45.02165000",
+      "longitude": "8.33843000"
+    },
+    {
+      "id": 137098,
+      "name": "Cassano Spinola",
+      "latitude": "44.76557000",
+      "longitude": "8.86228000"
+    },
+    {
+      "id": 137108,
+      "name": "Cassinasco",
+      "latitude": "44.68977000",
+      "longitude": "8.30345000"
+    },
+    {
+      "id": 137109,
+      "name": "Cassine",
+      "latitude": "44.75166000",
+      "longitude": "8.52872000"
+    },
+    {
+      "id": 137110,
+      "name": "Cassinelle-Concentrico",
+      "latitude": "44.60154000",
+      "longitude": "8.56345000"
+    },
+    {
+      "id": 137118,
+      "name": "Castagneto Po",
+      "latitude": "45.15854000",
+      "longitude": "7.88639000"
+    },
+    {
+      "id": 137119,
+      "name": "Castagnito",
+      "latitude": "44.75472000",
+      "longitude": "8.03195000"
+    },
+    {
+      "id": 137123,
+      "name": "Castagnole delle Lanze",
+      "latitude": "44.74988000",
+      "longitude": "8.14966000"
+    },
+    {
+      "id": 137121,
+      "name": "Castagnole Monferrato",
+      "latitude": "44.95864000",
+      "longitude": "8.30507000"
+    },
+    {
+      "id": 137122,
+      "name": "Castagnole Piemonte",
+      "latitude": "44.89814000",
+      "longitude": "7.56612000"
+    },
+    {
+      "id": 137130,
+      "name": "Castel Boglione",
+      "latitude": "44.72195000",
+      "longitude": "8.37994000"
+    },
+    {
+      "id": 137148,
+      "name": "Castel Rocchero",
+      "latitude": "44.71835000",
+      "longitude": "8.41534000"
+    },
+    {
+      "id": 137184,
+      "name": "Castelceriolo",
+      "latitude": "44.91723000",
+      "longitude": "8.69384000"
+    },
+    {
+      "id": 137190,
+      "name": "Casteldelfino",
+      "latitude": "44.59002000",
+      "longitude": "7.07026000"
+    },
+    {
+      "id": 137206,
+      "name": "Castell'Alfero",
+      "latitude": "44.98505000",
+      "longitude": "8.22309000"
+    },
+    {
+      "id": 137214,
+      "name": "Castellamonte",
+      "latitude": "45.38267000",
+      "longitude": "7.70886000"
+    },
+    {
+      "id": 137218,
+      "name": "Castellania",
+      "latitude": "44.79845000",
+      "longitude": "8.93035000"
+    },
+    {
+      "id": 137220,
+      "name": "Castellar",
+      "latitude": "44.62123000",
+      "longitude": "7.43743000"
+    },
+    {
+      "id": 137221,
+      "name": "Castellar Guidobono",
+      "latitude": "44.90483000",
+      "longitude": "8.94835000"
+    },
+    {
+      "id": 137224,
+      "name": "Castellazzo Bormida",
+      "latitude": "44.84353000",
+      "longitude": "8.57900000"
+    },
+    {
+      "id": 137225,
+      "name": "Castellazzo Novarese",
+      "latitude": "45.51337000",
+      "longitude": "8.48693000"
+    },
+    {
+      "id": 137228,
+      "name": "Castellero",
+      "latitude": "44.92535000",
+      "longitude": "8.07383000"
+    },
+    {
+      "id": 137231,
+      "name": "Castelletto Cervo",
+      "latitude": "45.52136000",
+      "longitude": "8.22542000"
+    },
+    {
+      "id": 137239,
+      "name": "Castelletto d'Erro",
+      "latitude": "44.62597000",
+      "longitude": "8.39442000"
+    },
+    {
+      "id": 137240,
+      "name": "Castelletto d'Orba",
+      "latitude": "44.68455000",
+      "longitude": "8.70395000"
+    },
+    {
+      "id": 137232,
+      "name": "Castelletto Merli",
+      "latitude": "45.07395000",
+      "longitude": "8.24013000"
+    },
+    {
+      "id": 137233,
+      "name": "Castelletto Molina",
+      "latitude": "44.75125000",
+      "longitude": "8.43324000"
+    },
+    {
+      "id": 137234,
+      "name": "Castelletto Monferrato",
+      "latitude": "44.98115000",
+      "longitude": "8.56454000"
+    },
+    {
+      "id": 137236,
+      "name": "Castelletto Sopra Ticino",
+      "latitude": "45.72002000",
+      "longitude": "8.63362000"
+    },
+    {
+      "id": 137237,
+      "name": "Castelletto Stura",
+      "latitude": "44.44383000",
+      "longitude": "7.63923000"
+    },
+    {
+      "id": 137238,
+      "name": "Castelletto Uzzone",
+      "latitude": "44.49527000",
+      "longitude": "8.18772000"
+    },
+    {
+      "id": 137247,
+      "name": "Castellinaldo",
+      "latitude": "44.77484000",
+      "longitude": "8.02974000"
+    },
+    {
+      "id": 137248,
+      "name": "Castellino Tanaro",
+      "latitude": "44.42784000",
+      "longitude": "7.98124000"
+    },
+    {
+      "id": 137259,
+      "name": "Castello di Annone",
+      "latitude": "44.87944000",
+      "longitude": "8.31701000"
+    },
+    {
+      "id": 137282,
+      "name": "Castelnuovo Belbo",
+      "latitude": "44.80110000",
+      "longitude": "8.41236000"
+    },
+    {
+      "id": 137285,
+      "name": "Castelnuovo Bormida",
+      "latitude": "44.74236000",
+      "longitude": "8.55060000"
+    },
+    {
+      "id": 137287,
+      "name": "Castelnuovo Calcea",
+      "latitude": "44.78688000",
+      "longitude": "8.28421000"
+    },
+    {
+      "id": 137299,
+      "name": "Castelnuovo di Ceva",
+      "latitude": "44.35363000",
+      "longitude": "8.12894000"
+    },
+    {
+      "id": 137289,
+      "name": "Castelnuovo Don Bosco",
+      "latitude": "45.04077000",
+      "longitude": "7.96389000"
+    },
+    {
+      "id": 137291,
+      "name": "Castelnuovo Nigra",
+      "latitude": "45.43816000",
+      "longitude": "7.69461000"
+    },
+    {
+      "id": 137294,
+      "name": "Castelnuovo Scrivia",
+      "latitude": "44.97932000",
+      "longitude": "8.88246000"
+    },
+    {
+      "id": 137317,
+      "name": "Castelspina",
+      "latitude": "44.80615000",
+      "longitude": "8.58315000"
+    },
+    {
+      "id": 137341,
+      "name": "Castiglione Falletto",
+      "latitude": "44.62254000",
+      "longitude": "7.97534000"
+    },
+    {
+      "id": 137345,
+      "name": "Castiglione Tinella",
+      "latitude": "44.72534000",
+      "longitude": "8.19014000"
+    },
+    {
+      "id": 137346,
+      "name": "Castiglione Torinese",
+      "latitude": "45.11905000",
+      "longitude": "7.80712000"
+    },
+    {
+      "id": 137361,
+      "name": "Castino",
+      "latitude": "44.61784000",
+      "longitude": "8.18244000"
+    },
+    {
+      "id": 137409,
+      "name": "Cavaglià",
+      "latitude": "45.40602000",
+      "longitude": "8.09163000"
+    },
+    {
+      "id": 137406,
+      "name": "Cavaglietto",
+      "latitude": "45.60217000",
+      "longitude": "8.50213000"
+    },
+    {
+      "id": 137407,
+      "name": "Cavaglio D'Agogna",
+      "latitude": "45.61317000",
+      "longitude": "8.48613000"
+    },
+    {
+      "id": 137408,
+      "name": "Cavaglio-Spoccia",
+      "latitude": "46.07108000",
+      "longitude": "8.63072000"
+    },
+    {
+      "id": 137410,
+      "name": "Cavagnolo",
+      "latitude": "45.15175000",
+      "longitude": "8.04903000"
+    },
+    {
+      "id": 137415,
+      "name": "Cavallerleone",
+      "latitude": "44.74014000",
+      "longitude": "7.66393000"
+    },
+    {
+      "id": 137416,
+      "name": "Cavallermaggiore",
+      "latitude": "44.70639000",
+      "longitude": "7.68693000"
+    },
+    {
+      "id": 137420,
+      "name": "Cavallirio",
+      "latitude": "45.66227000",
+      "longitude": "8.39694000"
+    },
+    {
+      "id": 137427,
+      "name": "Cavatore",
+      "latitude": "44.63099000",
+      "longitude": "8.45276000"
+    },
+    {
+      "id": 137441,
+      "name": "Cavour",
+      "latitude": "44.79286000",
+      "longitude": "7.37438000"
+    },
+    {
+      "id": 137468,
+      "name": "Cella Monte",
+      "latitude": "45.07405000",
+      "longitude": "8.39154000"
+    },
+    {
+      "id": 137471,
+      "name": "Cellarengo",
+      "latitude": "44.86435000",
+      "longitude": "7.94533000"
+    },
+    {
+      "id": 137473,
+      "name": "Celle Enomondo",
+      "latitude": "44.85685000",
+      "longitude": "8.12373000"
+    },
+    {
+      "id": 137481,
+      "name": "Cellio",
+      "latitude": "45.75505000",
+      "longitude": "8.31185000"
+    },
+    {
+      "id": 137495,
+      "name": "Centallo",
+      "latitude": "44.50153000",
+      "longitude": "7.58783000"
+    },
+    {
+      "id": 137509,
+      "name": "Ceppo Morelli",
+      "latitude": "45.97114000",
+      "longitude": "8.06688000"
+    },
+    {
+      "id": 137514,
+      "name": "Cerano",
+      "latitude": "45.40915000",
+      "longitude": "8.78351000"
+    },
+    {
+      "id": 137522,
+      "name": "Cercenasco",
+      "latitude": "44.86204000",
+      "longitude": "7.49822000"
+    },
+    {
+      "id": 137535,
+      "name": "Ceres",
+      "latitude": "45.31336000",
+      "longitude": "7.38961000"
+    },
+    {
+      "id": 137536,
+      "name": "Ceresane-Curanuova",
+      "latitude": "45.52435000",
+      "longitude": "8.00708000"
+    },
+    {
+      "id": 137539,
+      "name": "Cereseto",
+      "latitude": "45.08685000",
+      "longitude": "8.31817000"
+    },
+    {
+      "id": 137540,
+      "name": "Ceresole Alba",
+      "latitude": "44.79974000",
+      "longitude": "7.82243000"
+    },
+    {
+      "id": 137541,
+      "name": "Ceresole Reale",
+      "latitude": "45.43235000",
+      "longitude": "7.23506000"
+    },
+    {
+      "id": 137561,
+      "name": "Cerreto Castello",
+      "latitude": "45.56446000",
+      "longitude": "8.16082000"
+    },
+    {
+      "id": 137567,
+      "name": "Cerreto d'Asti",
+      "latitude": "45.05215000",
+      "longitude": "8.03513000"
+    },
+    {
+      "id": 137562,
+      "name": "Cerreto Grue",
+      "latitude": "44.84255000",
+      "longitude": "8.93035000"
+    },
+    {
+      "id": 137564,
+      "name": "Cerreto Langhe",
+      "latitude": "44.57484000",
+      "longitude": "8.09794000"
+    },
+    {
+      "id": 137570,
+      "name": "Cerrina",
+      "latitude": "45.12135000",
+      "longitude": "8.21383000"
+    },
+    {
+      "id": 137571,
+      "name": "Cerrione",
+      "latitude": "45.46933000",
+      "longitude": "8.06840000"
+    },
+    {
+      "id": 137573,
+      "name": "Cerro Tanaro",
+      "latitude": "44.87335000",
+      "longitude": "8.35874000"
+    },
+    {
+      "id": 137585,
+      "name": "Cervasca",
+      "latitude": "44.38093000",
+      "longitude": "7.47123000"
+    },
+    {
+      "id": 137586,
+      "name": "Cervatto",
+      "latitude": "45.88297000",
+      "longitude": "8.16232000"
+    },
+    {
+      "id": 137588,
+      "name": "Cervere",
+      "latitude": "44.63428000",
+      "longitude": "7.78884000"
+    },
+    {
+      "id": 137603,
+      "name": "Cesana Torinese",
+      "latitude": "44.95340000",
+      "longitude": "6.79199000"
+    },
+    {
+      "id": 137607,
+      "name": "Cesara",
+      "latitude": "45.83379000",
+      "longitude": "8.36777000"
+    },
+    {
+      "id": 137619,
+      "name": "Cessole",
+      "latitude": "44.64877000",
+      "longitude": "8.24438000"
+    },
+    {
+      "id": 137625,
+      "name": "Ceva",
+      "latitude": "44.38505000",
+      "longitude": "8.02769000"
+    },
+    {
+      "id": 137636,
+      "name": "Cherasco",
+      "latitude": "44.64345000",
+      "longitude": "7.85818000"
+    },
+    {
+      "id": 137640,
+      "name": "Chialamberto",
+      "latitude": "45.36295000",
+      "longitude": "7.34363000"
+    },
+    {
+      "id": 137647,
+      "name": "Chianocco",
+      "latitude": "45.14854000",
+      "longitude": "7.16981000"
+    },
+    {
+      "id": 137661,
+      "name": "Chiaverano",
+      "latitude": "45.49886000",
+      "longitude": "7.90262000"
+    },
+    {
+      "id": 137663,
+      "name": "Chieri",
+      "latitude": "45.01054000",
+      "longitude": "7.82133000"
+    },
+    {
+      "id": 137667,
+      "name": "Chiesa di Macra",
+      "latitude": "44.48283000",
+      "longitude": "7.18062000"
+    },
+    {
+      "id": 137669,
+      "name": "Chiesanuova",
+      "latitude": "45.41745000",
+      "longitude": "7.65552000"
+    },
+    {
+      "id": 137678,
+      "name": "Chiomonte",
+      "latitude": "45.11909000",
+      "longitude": "6.98420000"
+    },
+    {
+      "id": 137688,
+      "name": "Chiusa di Pesio",
+      "latitude": "44.32588000",
+      "longitude": "7.67431000"
+    },
+    {
+      "id": 137689,
+      "name": "Chiusa di San Michele",
+      "latitude": "45.10424000",
+      "longitude": "7.32711000"
+    },
+    {
+      "id": 137692,
+      "name": "Chiusano d'Asti",
+      "latitude": "44.98665000",
+      "longitude": "8.11853000"
+    },
+    {
+      "id": 137699,
+      "name": "Chivasso",
+      "latitude": "45.19093000",
+      "longitude": "7.88981000"
+    },
+    {
+      "id": 137714,
+      "name": "Ciconio",
+      "latitude": "45.33025000",
+      "longitude": "7.75852000"
+    },
+    {
+      "id": 137715,
+      "name": "Cigliano",
+      "latitude": "45.30804000",
+      "longitude": "8.02316000"
+    },
+    {
+      "id": 137716,
+      "name": "Cigliè",
+      "latitude": "44.43653000",
+      "longitude": "7.92654000"
+    },
+    {
+      "id": 137729,
+      "name": "Cinaglio",
+      "latitude": "44.97525000",
+      "longitude": "8.10003000"
+    },
+    {
+      "id": 137738,
+      "name": "Cintano",
+      "latitude": "45.42812000",
+      "longitude": "7.68827000"
+    },
+    {
+      "id": 137742,
+      "name": "Cinzano",
+      "latitude": "45.09528000",
+      "longitude": "7.92427000"
+    },
+    {
+      "id": 137749,
+      "name": "Ciriè",
+      "latitude": "45.23486000",
+      "longitude": "7.60125000"
+    },
+    {
+      "id": 137760,
+      "name": "Cissone",
+      "latitude": "44.56314000",
+      "longitude": "8.03044000"
+    },
+    {
+      "id": 137761,
+      "name": "Cisterna d'Asti",
+      "latitude": "44.82525000",
+      "longitude": "8.00076000"
+    },
+    {
+      "id": 137781,
+      "name": "Civiasco",
+      "latitude": "45.80786000",
+      "longitude": "8.29386000"
+    },
+    {
+      "id": 137809,
+      "name": "Clavesana",
+      "latitude": "44.48334000",
+      "longitude": "7.91084000"
+    },
+    {
+      "id": 137810,
+      "name": "Claviere",
+      "latitude": "44.93922000",
+      "longitude": "6.75213000"
+    },
+    {
+      "id": 137818,
+      "name": "Coassolo",
+      "latitude": "45.29838000",
+      "longitude": "7.46136000"
+    },
+    {
+      "id": 137819,
+      "name": "Coassolo Torinese",
+      "latitude": "45.29775000",
+      "longitude": "7.46041000"
+    },
+    {
+      "id": 137820,
+      "name": "Coazze",
+      "latitude": "45.05181000",
+      "longitude": "7.30063000"
+    },
+    {
+      "id": 137821,
+      "name": "Coazzolo",
+      "latitude": "44.72824000",
+      "longitude": "8.14514000"
+    },
+    {
+      "id": 137824,
+      "name": "Cocconato",
+      "latitude": "45.08642000",
+      "longitude": "8.04019000"
+    },
+    {
+      "id": 137839,
+      "name": "Coggiola",
+      "latitude": "45.68640000",
+      "longitude": "8.18252000"
+    },
+    {
+      "id": 137847,
+      "name": "Colazza",
+      "latitude": "45.79257000",
+      "longitude": "8.50033000"
+    },
+    {
+      "id": 137883,
+      "name": "Collegno",
+      "latitude": "45.07873000",
+      "longitude": "7.56735000"
+    },
+    {
+      "id": 137891,
+      "name": "Colleretto Castelnuovo",
+      "latitude": "45.42236000",
+      "longitude": "7.67981000"
+    },
+    {
+      "id": 137892,
+      "name": "Colleretto Giacosa",
+      "latitude": "45.43286000",
+      "longitude": "7.79852000"
+    },
+    {
+      "id": 137905,
+      "name": "Collobiano",
+      "latitude": "45.39665000",
+      "longitude": "8.34750000"
+    },
+    {
+      "id": 137940,
+      "name": "Comignago",
+      "latitude": "45.71487000",
+      "longitude": "8.56403000"
+    },
+    {
+      "id": 137964,
+      "name": "Condove",
+      "latitude": "45.11591000",
+      "longitude": "7.30859000"
+    },
+    {
+      "id": 137970,
+      "name": "Coniolo Bricco",
+      "latitude": "45.14816000",
+      "longitude": "8.37093000"
+    },
+    {
+      "id": 137984,
+      "name": "Conzano",
+      "latitude": "45.02009000",
+      "longitude": "8.45554000"
+    },
+    {
+      "id": 138016,
+      "name": "Corio",
+      "latitude": "45.31222000",
+      "longitude": "7.53351000"
+    },
+    {
+      "id": 138030,
+      "name": "Corneliano d'Alba",
+      "latitude": "44.73614000",
+      "longitude": "7.95723000"
+    },
+    {
+      "id": 138049,
+      "name": "Corsione",
+      "latitude": "45.00095000",
+      "longitude": "8.14523000"
+    },
+    {
+      "id": 138052,
+      "name": "Cortandone",
+      "latitude": "44.95915000",
+      "longitude": "8.05843000"
+    },
+    {
+      "id": 138053,
+      "name": "Cortanze",
+      "latitude": "45.01404000",
+      "longitude": "8.08879000"
+    },
+    {
+      "id": 138054,
+      "name": "Cortazzone",
+      "latitude": "44.97915000",
+      "longitude": "8.06123000"
+    },
+    {
+      "id": 138061,
+      "name": "Cortemilia",
+      "latitude": "44.58044000",
+      "longitude": "8.19367000"
+    },
+    {
+      "id": 138066,
+      "name": "Cortiglione",
+      "latitude": "44.82225000",
+      "longitude": "8.35796000"
+    },
+    {
+      "id": 138083,
+      "name": "Cossano Belbo",
+      "latitude": "44.66884000",
+      "longitude": "8.19864000"
+    },
+    {
+      "id": 138084,
+      "name": "Cossano Canavese",
+      "latitude": "45.38776000",
+      "longitude": "7.99152000"
+    },
+    {
+      "id": 138085,
+      "name": "Cossato",
+      "latitude": "45.57032000",
+      "longitude": "8.18471000"
+    },
+    {
+      "id": 138088,
+      "name": "Cossogno",
+      "latitude": "45.96408000",
+      "longitude": "8.50962000"
+    },
+    {
+      "id": 138090,
+      "name": "Cossombrato",
+      "latitude": "44.98976000",
+      "longitude": "8.13897000"
+    },
+    {
+      "id": 138095,
+      "name": "Costa Vescovato",
+      "latitude": "44.81615000",
+      "longitude": "8.92695000"
+    },
+    {
+      "id": 138105,
+      "name": "Costanzana",
+      "latitude": "45.23742000",
+      "longitude": "8.36943000"
+    },
+    {
+      "id": 138109,
+      "name": "Costigliole d'Asti",
+      "latitude": "44.78517000",
+      "longitude": "8.18405000"
+    },
+    {
+      "id": 138110,
+      "name": "Costiglione Saluzzo",
+      "latitude": "44.56453000",
+      "longitude": "7.48543000"
+    },
+    {
+      "id": 138124,
+      "name": "Crava",
+      "latitude": "44.43001000",
+      "longitude": "7.74493000"
+    },
+    {
+      "id": 138125,
+      "name": "Cravagliana",
+      "latitude": "45.84827000",
+      "longitude": "8.20182000"
+    },
+    {
+      "id": 138126,
+      "name": "Cravanzana",
+      "latitude": "44.57448000",
+      "longitude": "8.12731000"
+    },
+    {
+      "id": 138127,
+      "name": "Craveggia",
+      "latitude": "46.14124000",
+      "longitude": "8.48907000"
+    },
+    {
+      "id": 138137,
+      "name": "Cremolino",
+      "latitude": "44.63674000",
+      "longitude": "8.58584000"
+    },
+    {
+      "id": 138141,
+      "name": "Crescentino",
+      "latitude": "45.19941000",
+      "longitude": "8.08635000"
+    },
+    {
+      "id": 138148,
+      "name": "Cressa",
+      "latitude": "45.64762000",
+      "longitude": "8.50942000"
+    },
+    {
+      "id": 138151,
+      "name": "Crevacuore",
+      "latitude": "45.68548000",
+      "longitude": "8.24404000"
+    },
+    {
+      "id": 138153,
+      "name": "Crevoladossola",
+      "latitude": "46.14858000",
+      "longitude": "8.29742000"
+    },
+    {
+      "id": 138158,
+      "name": "Crissolo",
+      "latitude": "44.69953000",
+      "longitude": "7.15602000"
+    },
+    {
+      "id": 138162,
+      "name": "Crodo",
+      "latitude": "46.21726000",
+      "longitude": "8.32238000"
+    },
+    {
+      "id": 138172,
+      "name": "Crova",
+      "latitude": "45.33066000",
+      "longitude": "8.21083000"
+    },
+    {
+      "id": 138178,
+      "name": "Cuccaro Monferrato",
+      "latitude": "44.99365000",
+      "longitude": "8.45754000"
+    },
+    {
+      "id": 138182,
+      "name": "Cuceglio",
+      "latitude": "45.35853000",
+      "longitude": "7.81588000"
+    },
+    {
+      "id": 138187,
+      "name": "Cumiana",
+      "latitude": "44.97629000",
+      "longitude": "7.37761000"
+    },
+    {
+      "id": 138190,
+      "name": "Cuneo",
+      "latitude": "44.39071000",
+      "longitude": "7.54828000"
+    },
+    {
+      "id": 138193,
+      "name": "Cunico",
+      "latitude": "45.04050000",
+      "longitude": "8.09554000"
+    },
+    {
+      "id": 138194,
+      "name": "Cuorgnè",
+      "latitude": "45.39341000",
+      "longitude": "7.65015000"
+    },
+    {
+      "id": 138200,
+      "name": "Cureggio",
+      "latitude": "45.67487000",
+      "longitude": "8.45973000"
+    },
+    {
+      "id": 138203,
+      "name": "Curino",
+      "latitude": "45.62717000",
+      "longitude": "8.23622000"
+    },
+    {
+      "id": 138207,
+      "name": "Cursolo",
+      "latitude": "46.09858000",
+      "longitude": "8.56822000"
+    },
+    {
+      "id": 138246,
+      "name": "Demonte",
+      "latitude": "44.31646000",
+      "longitude": "7.29808000"
+    },
+    {
+      "id": 138247,
+      "name": "Denice",
+      "latitude": "44.59884000",
+      "longitude": "8.33315000"
+    },
+    {
+      "id": 138250,
+      "name": "Dernice",
+      "latitude": "44.76660000",
+      "longitude": "9.05001000"
+    },
+    {
+      "id": 138254,
+      "name": "Desana",
+      "latitude": "45.26915000",
+      "longitude": "8.35777000"
+    },
+    {
+      "id": 138264,
+      "name": "Diano d'Alba",
+      "latitude": "44.65294000",
+      "longitude": "8.02704000"
+    },
+    {
+      "id": 138271,
+      "name": "Divignano",
+      "latitude": "45.66247000",
+      "longitude": "8.59987000"
+    },
+    {
+      "id": 138276,
+      "name": "Dogliani",
+      "latitude": "44.53326000",
+      "longitude": "7.94510000"
+    },
+    {
+      "id": 138292,
+      "name": "Domodossola",
+      "latitude": "46.11650000",
+      "longitude": "8.29313000"
+    },
+    {
+      "id": 138297,
+      "name": "Donato",
+      "latitude": "45.52626000",
+      "longitude": "7.90962000"
+    },
+    {
+      "id": 138309,
+      "name": "Dormelletto",
+      "latitude": "45.73627000",
+      "longitude": "8.56663000"
+    },
+    {
+      "id": 138312,
+      "name": "Dorzano",
+      "latitude": "45.42606000",
+      "longitude": "8.09852000"
+    },
+    {
+      "id": 138332,
+      "name": "Dronero",
+      "latitude": "44.46476000",
+      "longitude": "7.36242000"
+    },
+    {
+      "id": 138333,
+      "name": "Drubiaglio-Grangia",
+      "latitude": "45.09552000",
+      "longitude": "7.41940000"
+    },
+    {
+      "id": 138334,
+      "name": "Druento",
+      "latitude": "45.13306000",
+      "longitude": "7.57512000"
+    },
+    {
+      "id": 138335,
+      "name": "Druogno",
+      "latitude": "46.13421000",
+      "longitude": "8.43276000"
+    },
+    {
+      "id": 138347,
+      "name": "Dusino",
+      "latitude": "44.92566000",
+      "longitude": "7.97165000"
+    },
+    {
+      "id": 138361,
+      "name": "Entracque",
+      "latitude": "44.24028000",
+      "longitude": "7.39847000"
+    },
+    {
+      "id": 138363,
+      "name": "Envie",
+      "latitude": "44.68210000",
+      "longitude": "7.37206000"
+    },
+    {
+      "id": 138390,
+      "name": "Exilles",
+      "latitude": "45.09754000",
+      "longitude": "6.92920000"
+    },
+    {
+      "id": 138423,
+      "name": "Falmenta",
+      "latitude": "46.07309000",
+      "longitude": "8.58944000"
+    },
+    {
+      "id": 138439,
+      "name": "Fara Novarese",
+      "latitude": "45.55440000",
+      "longitude": "8.45664000"
+    },
+    {
+      "id": 138446,
+      "name": "Farigliano",
+      "latitude": "44.51204000",
+      "longitude": "7.91424000"
+    },
+    {
+      "id": 138457,
+      "name": "Faule",
+      "latitude": "44.80624000",
+      "longitude": "7.58512000"
+    },
+    {
+      "id": 138460,
+      "name": "Favari-Avatanei",
+      "latitude": "44.91235000",
+      "longitude": "7.79950000"
+    },
+    {
+      "id": 138463,
+      "name": "Favria",
+      "latitude": "45.33099000",
+      "longitude": "7.68834000"
+    },
+    {
+      "id": 138465,
+      "name": "Feisoglio",
+      "latitude": "44.54374000",
+      "longitude": "8.10494000"
+    },
+    {
+      "id": 138467,
+      "name": "Feletto",
+      "latitude": "45.30336000",
+      "longitude": "7.74481000"
+    },
+    {
+      "id": 138471,
+      "name": "Felizzano",
+      "latitude": "44.89935000",
+      "longitude": "8.43584000"
+    },
+    {
+      "id": 138477,
+      "name": "Fenestrelle",
+      "latitude": "45.03594000",
+      "longitude": "7.04941000"
+    },
+    {
+      "id": 138494,
+      "name": "Ferrere",
+      "latitude": "44.87605000",
+      "longitude": "7.99421000"
+    },
+    {
+      "id": 138495,
+      "name": "Ferriera",
+      "latitude": "45.08382000",
+      "longitude": "7.43017000"
+    },
+    {
+      "id": 138500,
+      "name": "Fiano",
+      "latitude": "45.21631000",
+      "longitude": "7.52603000"
+    },
+    {
+      "id": 138540,
+      "name": "Fiorano Canavese",
+      "latitude": "45.46776000",
+      "longitude": "7.83372000"
+    },
+    {
+      "id": 138561,
+      "name": "Fleccia-Chianavasso",
+      "latitude": "44.94670000",
+      "longitude": "7.21474000"
+    },
+    {
+      "id": 138570,
+      "name": "Fobello",
+      "latitude": "45.89002000",
+      "longitude": "8.15799000"
+    },
+    {
+      "id": 138576,
+      "name": "Foglizzo",
+      "latitude": "45.27361000",
+      "longitude": "7.82087000"
+    },
+    {
+      "id": 138599,
+      "name": "Fontanella-Ozino",
+      "latitude": "45.61963000",
+      "longitude": "8.16927000"
+    },
+    {
+      "id": 138602,
+      "name": "Fontaneto D'Agogna",
+      "latitude": "45.64347000",
+      "longitude": "8.47879000"
+    },
+    {
+      "id": 138603,
+      "name": "Fontanetto Po",
+      "latitude": "45.19436000",
+      "longitude": "8.19206000"
+    },
+    {
+      "id": 138605,
+      "name": "Fontanile",
+      "latitude": "44.75295000",
+      "longitude": "8.42134000"
+    },
+    {
+      "id": 138634,
+      "name": "Formazza",
+      "latitude": "46.37689000",
+      "longitude": "8.42571000"
+    },
+    {
+      "id": 138641,
+      "name": "Formigliana",
+      "latitude": "45.42926000",
+      "longitude": "8.29193000"
+    },
+    {
+      "id": 138648,
+      "name": "Fornaci",
+      "latitude": "45.02816000",
+      "longitude": "7.59869000"
+    },
+    {
+      "id": 138656,
+      "name": "Forno Canavese",
+      "latitude": "45.34287000",
+      "longitude": "7.58951000"
+    },
+    {
+      "id": 138674,
+      "name": "Fossano",
+      "latitude": "44.55077000",
+      "longitude": "7.71922000"
+    },
+    {
+      "id": 138684,
+      "name": "Frabosa Soprana",
+      "latitude": "44.29094000",
+      "longitude": "7.80353000"
+    },
+    {
+      "id": 138685,
+      "name": "Frabosa Sottana",
+      "latitude": "44.30233000",
+      "longitude": "7.79754000"
+    },
+    {
+      "id": 138686,
+      "name": "Fraconalto",
+      "latitude": "44.59105000",
+      "longitude": "8.87846000"
+    },
+    {
+      "id": 138693,
+      "name": "Francavilla Bisio",
+      "latitude": "44.73465000",
+      "longitude": "8.73125000"
+    },
+    {
+      "id": 138706,
+      "name": "Frascaro",
+      "latitude": "44.82575000",
+      "longitude": "8.53127000"
+    },
+    {
+      "id": 138712,
+      "name": "Frassinello Monferrato",
+      "latitude": "45.03322000",
+      "longitude": "8.38666000"
+    },
+    {
+      "id": 138713,
+      "name": "Frassineto Po",
+      "latitude": "45.13271000",
+      "longitude": "8.53525000"
+    },
+    {
+      "id": 138714,
+      "name": "Frassinetto",
+      "latitude": "45.43834000",
+      "longitude": "7.60886000"
+    },
+    {
+      "id": 138715,
+      "name": "Frassino",
+      "latitude": "44.57211000",
+      "longitude": "7.27536000"
+    },
+    {
+      "id": 138726,
+      "name": "Frazione Chiesa",
+      "latitude": "45.69405000",
+      "longitude": "8.21228000"
+    },
+    {
+      "id": 138732,
+      "name": "Fresonara",
+      "latitude": "44.78295000",
+      "longitude": "8.68615000"
+    },
+    {
+      "id": 138735,
+      "name": "Frinco",
+      "latitude": "45.00405000",
+      "longitude": "8.17193000"
+    },
+    {
+      "id": 138738,
+      "name": "Front",
+      "latitude": "45.27941000",
+      "longitude": "7.66425000"
+    },
+    {
+      "id": 138743,
+      "name": "Frossasco",
+      "latitude": "44.92176000",
+      "longitude": "7.37125000"
+    },
+    {
+      "id": 138744,
+      "name": "Frugarolo",
+      "latitude": "44.83924000",
+      "longitude": "8.68165000"
+    },
+    {
+      "id": 138745,
+      "name": "Fubine",
+      "latitude": "44.96305000",
+      "longitude": "8.42814000"
+    },
+    {
+      "id": 138766,
+      "name": "Gabbio-Cereda-Ramate",
+      "latitude": "45.90959000",
+      "longitude": "8.42113000"
+    },
+    {
+      "id": 138769,
+      "name": "Gabiano",
+      "latitude": "45.15714000",
+      "longitude": "8.19469000"
+    },
+    {
+      "id": 138780,
+      "name": "Gaglianico",
+      "latitude": "45.53718000",
+      "longitude": "8.07839000"
+    },
+    {
+      "id": 138790,
+      "name": "Gaiola",
+      "latitude": "44.33554000",
+      "longitude": "7.40896000"
+    },
+    {
+      "id": 138804,
+      "name": "Galliate",
+      "latitude": "45.47942000",
+      "longitude": "8.69815000"
+    },
+    {
+      "id": 138825,
+      "name": "Gamalero",
+      "latitude": "44.80850000",
+      "longitude": "8.54116000"
+    },
+    {
+      "id": 138828,
+      "name": "Gambasca",
+      "latitude": "44.62950000",
+      "longitude": "7.34686000"
+    },
+    {
+      "id": 138842,
+      "name": "Garadassi",
+      "latitude": "44.75429000",
+      "longitude": "9.15393000"
+    },
+    {
+      "id": 138844,
+      "name": "Garbagna",
+      "latitude": "44.78045000",
+      "longitude": "8.99786000"
+    },
+    {
+      "id": 138845,
+      "name": "Garbagna Novarese",
+      "latitude": "45.38876000",
+      "longitude": "8.66124000"
+    },
+    {
+      "id": 138853,
+      "name": "Garessio",
+      "latitude": "44.20705000",
+      "longitude": "8.01778000"
+    },
+    {
+      "id": 138854,
+      "name": "Gargallo",
+      "latitude": "45.72877000",
+      "longitude": "8.42533000"
+    },
+    {
+      "id": 138857,
+      "name": "Garino",
+      "latitude": "44.97325000",
+      "longitude": "7.61728000"
+    },
+    {
+      "id": 138863,
+      "name": "Garzigliana",
+      "latitude": "44.83724000",
+      "longitude": "7.37442000"
+    },
+    {
+      "id": 138865,
+      "name": "Gassino Torinese",
+      "latitude": "45.12907000",
+      "longitude": "7.82934000"
+    },
+    {
+      "id": 138868,
+      "name": "Gattico",
+      "latitude": "45.70717000",
+      "longitude": "8.52003000"
+    },
+    {
+      "id": 138869,
+      "name": "Gattinara",
+      "latitude": "45.61309000",
+      "longitude": "8.36463000"
+    },
+    {
+      "id": 138873,
+      "name": "Gavazzana",
+      "latitude": "44.77585000",
+      "longitude": "8.88595000"
+    },
+    {
+      "id": 138876,
+      "name": "Gavi",
+      "latitude": "44.68627000",
+      "longitude": "8.80717000"
+    },
+    {
+      "id": 138900,
+      "name": "Genola",
+      "latitude": "44.59053000",
+      "longitude": "7.66114000"
+    },
+    {
+      "id": 138910,
+      "name": "Gerbido",
+      "latitude": "45.04449000",
+      "longitude": "7.61408000"
+    },
+    {
+      "id": 138911,
+      "name": "Gerbole",
+      "latitude": "45.00115000",
+      "longitude": "7.50670000"
+    },
+    {
+      "id": 138912,
+      "name": "Gerbole-Zucche",
+      "latitude": "44.98605000",
+      "longitude": "7.51671000"
+    },
+    {
+      "id": 138916,
+      "name": "Germagnano",
+      "latitude": "45.26317000",
+      "longitude": "7.46886000"
+    },
+    {
+      "id": 138917,
+      "name": "Germagno",
+      "latitude": "45.89257000",
+      "longitude": "8.38772000"
+    },
+    {
+      "id": 138930,
+      "name": "Ghemme",
+      "latitude": "45.59863000",
+      "longitude": "8.42013000"
+    },
+    {
+      "id": 138932,
+      "name": "Ghiare-Madonna",
+      "latitude": "44.80770000",
+      "longitude": "8.37404000"
+    },
+    {
+      "id": 138933,
+      "name": "Ghiffa",
+      "latitude": "45.95298000",
+      "longitude": "8.60430000"
+    },
+    {
+      "id": 138936,
+      "name": "Ghislarengo",
+      "latitude": "45.52856000",
+      "longitude": "8.38514000"
+    },
+    {
+      "id": 138939,
+      "name": "Giaglione",
+      "latitude": "45.13919000",
+      "longitude": "7.01534000"
+    },
+    {
+      "id": 138947,
+      "name": "Giarole",
+      "latitude": "45.06148000",
+      "longitude": "8.56730000"
+    },
+    {
+      "id": 138952,
+      "name": "Giaveno",
+      "latitude": "45.04435000",
+      "longitude": "7.34722000"
+    },
+    {
+      "id": 138955,
+      "name": "Gifflenga",
+      "latitude": "45.49306000",
+      "longitude": "8.23223000"
+    },
+    {
+      "id": 138959,
+      "name": "Gignese",
+      "latitude": "45.86396000",
+      "longitude": "8.50943000"
+    },
+    {
+      "id": 139002,
+      "name": "Givoletto",
+      "latitude": "45.16225000",
+      "longitude": "7.49642000"
+    },
+    {
+      "id": 139023,
+      "name": "Gonte",
+      "latitude": "45.99519000",
+      "longitude": "8.64982000"
+    },
+    {
+      "id": 139042,
+      "name": "Gorzegno",
+      "latitude": "44.51236000",
+      "longitude": "8.13480000"
+    },
+    {
+      "id": 139045,
+      "name": "Gottasecca",
+      "latitude": "44.46014000",
+      "longitude": "8.16754000"
+    },
+    {
+      "id": 139047,
+      "name": "Govone",
+      "latitude": "44.80445000",
+      "longitude": "8.09404000"
+    },
+    {
+      "id": 139048,
+      "name": "Gozzano",
+      "latitude": "45.74273000",
+      "longitude": "8.43659000"
+    },
+    {
+      "id": 139055,
+      "name": "Graglia",
+      "latitude": "45.55800000",
+      "longitude": "7.97899000"
+    },
+    {
+      "id": 139059,
+      "name": "Grana",
+      "latitude": "44.99835000",
+      "longitude": "8.29944000"
+    },
+    {
+      "id": 139067,
+      "name": "Granozzo con Monticello",
+      "latitude": "45.36016000",
+      "longitude": "8.57334000"
+    },
+    {
+      "id": 139080,
+      "name": "Gravellona Toce",
+      "latitude": "45.92859000",
+      "longitude": "8.43209000"
+    },
+    {
+      "id": 139081,
+      "name": "Gravere",
+      "latitude": "45.12534000",
+      "longitude": "7.01751000"
+    },
+    {
+      "id": 139085,
+      "name": "Grazzano Badoglio",
+      "latitude": "45.03996000",
+      "longitude": "8.31105000"
+    },
+    {
+      "id": 139087,
+      "name": "Greggio",
+      "latitude": "45.45148000",
+      "longitude": "8.38494000"
+    },
+    {
+      "id": 139088,
+      "name": "Gremiasco",
+      "latitude": "44.79625000",
+      "longitude": "9.10686000"
+    },
+    {
+      "id": 139099,
+      "name": "Grignasco",
+      "latitude": "45.67982000",
+      "longitude": "8.34442000"
+    },
+    {
+      "id": 139102,
+      "name": "Grinzane Cavour",
+      "latitude": "44.65334000",
+      "longitude": "7.99504000"
+    },
+    {
+      "id": 139107,
+      "name": "Grognardo",
+      "latitude": "44.63034000",
+      "longitude": "8.49265000"
+    },
+    {
+      "id": 139110,
+      "name": "Grondona",
+      "latitude": "44.69645000",
+      "longitude": "8.96546000"
+    },
+    {
+      "id": 139115,
+      "name": "Groscavallo",
+      "latitude": "45.36805000",
+      "longitude": "7.25801000"
+    },
+    {
+      "id": 139119,
+      "name": "Grosso",
+      "latitude": "45.25645000",
+      "longitude": "7.55732000"
+    },
+    {
+      "id": 139134,
+      "name": "Grugliasco",
+      "latitude": "45.06516000",
+      "longitude": "7.57954000"
+    },
+    {
+      "id": 139154,
+      "name": "Guardabosone",
+      "latitude": "45.70187000",
+      "longitude": "8.24932000"
+    },
+    {
+      "id": 139167,
+      "name": "Guarene",
+      "latitude": "44.74004000",
+      "longitude": "8.03514000"
+    },
+    {
+      "id": 139172,
+      "name": "Guazzora",
+      "latitude": "45.01392000",
+      "longitude": "8.84822000"
+    },
+    {
+      "id": 139183,
+      "name": "Gurro",
+      "latitude": "46.08498000",
+      "longitude": "8.56772000"
+    },
+    {
+      "id": 139192,
+      "name": "Igliano",
+      "latitude": "44.44294000",
+      "longitude": "8.01334000"
+    },
+    {
+      "id": 139204,
+      "name": "Incisa Scapaccino",
+      "latitude": "44.80805000",
+      "longitude": "8.37584000"
+    },
+    {
+      "id": 139208,
+      "name": "Ingria",
+      "latitude": "45.46650000",
+      "longitude": "7.57119000"
+    },
+    {
+      "id": 139209,
+      "name": "Intragna",
+      "latitude": "45.99468000",
+      "longitude": "8.57392000"
+    },
+    {
+      "id": 139217,
+      "name": "Inverso Pinasca",
+      "latitude": "44.94564000",
+      "longitude": "7.21841000"
+    },
+    {
+      "id": 139219,
+      "name": "Invorio",
+      "latitude": "45.75679000",
+      "longitude": "8.48741000"
+    },
+    {
+      "id": 139224,
+      "name": "Isasca",
+      "latitude": "44.58763000",
+      "longitude": "7.38162000"
+    },
+    {
+      "id": 139242,
+      "name": "Isola d'Asti",
+      "latitude": "44.83315000",
+      "longitude": "8.18024000"
+    },
+    {
+      "id": 139240,
+      "name": "Isola Sant'Antonio",
+      "latitude": "45.03019000",
+      "longitude": "8.84928000"
+    },
+    {
+      "id": 139252,
+      "name": "Isolabella",
+      "latitude": "44.90645000",
+      "longitude": "7.90903000"
+    },
+    {
+      "id": 139261,
+      "name": "Issiglio",
+      "latitude": "45.44626000",
+      "longitude": "7.75322000"
+    },
+    {
+      "id": 139271,
+      "name": "Ivrea",
+      "latitude": "45.46723000",
+      "longitude": "7.87617000"
+    },
+    {
+      "id": 139289,
+      "name": "La Cassa",
+      "latitude": "45.18035000",
+      "longitude": "7.51632000"
+    },
+    {
+      "id": 139292,
+      "name": "La Loggia",
+      "latitude": "44.95495000",
+      "longitude": "7.66864000"
+    },
+    {
+      "id": 139297,
+      "name": "La Morra",
+      "latitude": "44.63790000",
+      "longitude": "7.93078000"
+    },
+    {
+      "id": 139309,
+      "name": "La Villa",
+      "latitude": "45.26713000",
+      "longitude": "7.43109000"
+    },
+    {
+      "id": 139325,
+      "name": "Lagnasco",
+      "latitude": "44.62504000",
+      "longitude": "7.55483000"
+    },
+    {
+      "id": 139351,
+      "name": "Lamporo",
+      "latitude": "45.23092000",
+      "longitude": "8.09846000"
+    },
+    {
+      "id": 139356,
+      "name": "Landiona",
+      "latitude": "45.49703000",
+      "longitude": "8.42224000"
+    },
+    {
+      "id": 139362,
+      "name": "Lanvario",
+      "latitude": "45.63970000",
+      "longitude": "8.19856000"
+    },
+    {
+      "id": 139365,
+      "name": "Lanzo Torinese",
+      "latitude": "45.27657000",
+      "longitude": "7.48235000"
+    },
+    {
+      "id": 139402,
+      "name": "Lauriano",
+      "latitude": "45.15989000",
+      "longitude": "7.99474000"
+    },
+    {
+      "id": 139439,
+      "name": "Leini",
+      "latitude": "45.18275000",
+      "longitude": "7.71422000"
+    },
+    {
+      "id": 139441,
+      "name": "Lemie",
+      "latitude": "45.22866000",
+      "longitude": "7.29248000"
+    },
+    {
+      "id": 139449,
+      "name": "Lenta",
+      "latitude": "45.55691000",
+      "longitude": "8.38402000"
+    },
+    {
+      "id": 139461,
+      "name": "Lequio Berria",
+      "latitude": "44.60584000",
+      "longitude": "8.09814000"
+    },
+    {
+      "id": 139462,
+      "name": "Lequio Tanaro",
+      "latitude": "44.55994000",
+      "longitude": "7.88214000"
+    },
+    {
+      "id": 139465,
+      "name": "Lerma",
+      "latitude": "44.63577000",
+      "longitude": "8.71323000"
+    },
+    {
+      "id": 139466,
+      "name": "Lesa",
+      "latitude": "45.82066000",
+      "longitude": "8.55964000"
+    },
+    {
+      "id": 139467,
+      "name": "Lesegno",
+      "latitude": "44.40110000",
+      "longitude": "7.96943000"
+    },
+    {
+      "id": 139471,
+      "name": "Lesna",
+      "latitude": "45.05418000",
+      "longitude": "7.62031000"
+    },
+    {
+      "id": 139472,
+      "name": "Lessolo",
+      "latitude": "45.47794000",
+      "longitude": "7.81576000"
+    },
+    {
+      "id": 139473,
+      "name": "Lessona",
+      "latitude": "45.58693000",
+      "longitude": "8.19433000"
+    },
+    {
+      "id": 139487,
+      "name": "Levice",
+      "latitude": "44.53824000",
+      "longitude": "8.15504000"
+    },
+    {
+      "id": 139489,
+      "name": "Levone",
+      "latitude": "45.31665000",
+      "longitude": "7.60632000"
+    },
+    {
+      "id": 139510,
+      "name": "Lignana",
+      "latitude": "45.28606000",
+      "longitude": "8.34393000"
+    },
+    {
+      "id": 139525,
+      "name": "Limone Piemonte",
+      "latitude": "44.20091000",
+      "longitude": "7.57861000"
+    },
+    {
+      "id": 139542,
+      "name": "Lisio",
+      "latitude": "44.30713000",
+      "longitude": "7.97874000"
+    },
+    {
+      "id": 139544,
+      "name": "Litta Parodi-Cascinagrossa",
+      "latitude": "44.87336000",
+      "longitude": "8.71246000"
+    },
+    {
+      "id": 139545,
+      "name": "Livera",
+      "latitude": "45.61239000",
+      "longitude": "8.10571000"
+    },
+    {
+      "id": 139552,
+      "name": "Livorno Ferraris",
+      "latitude": "45.28271000",
+      "longitude": "8.07780000"
+    },
+    {
+      "id": 139558,
+      "name": "Loazzolo",
+      "latitude": "44.66904000",
+      "longitude": "8.25844000"
+    },
+    {
+      "id": 139559,
+      "name": "Locana",
+      "latitude": "45.41419000",
+      "longitude": "7.45712000"
+    },
+    {
+      "id": 139580,
+      "name": "Lombardore",
+      "latitude": "45.23580000",
+      "longitude": "7.73703000"
+    },
+    {
+      "id": 139581,
+      "name": "Lombriasco",
+      "latitude": "44.84094000",
+      "longitude": "7.63593000"
+    },
+    {
+      "id": 139602,
+      "name": "Loranzè",
+      "latitude": "45.44269000",
+      "longitude": "7.81328000"
+    },
+    {
+      "id": 139605,
+      "name": "Loreglia",
+      "latitude": "45.90687000",
+      "longitude": "8.37132000"
+    },
+    {
+      "id": 139625,
+      "name": "Lozzolo",
+      "latitude": "45.61894000",
+      "longitude": "8.32284000"
+    },
+    {
+      "id": 139626,
+      "name": "Lu",
+      "latitude": "45.00184000",
+      "longitude": "8.48561000"
+    },
+    {
+      "id": 139646,
+      "name": "Lugnacco",
+      "latitude": "45.44506000",
+      "longitude": "7.78212000"
+    },
+    {
+      "id": 139654,
+      "name": "Lumellogno",
+      "latitude": "45.40801000",
+      "longitude": "8.58787000"
+    },
+    {
+      "id": 139672,
+      "name": "Luserna",
+      "latitude": "44.80745000",
+      "longitude": "7.24579000"
+    },
+    {
+      "id": 139673,
+      "name": "Lusernetta",
+      "latitude": "44.80314000",
+      "longitude": "7.24672000"
+    },
+    {
+      "id": 139677,
+      "name": "Lusigliè",
+      "latitude": "45.31845000",
+      "longitude": "7.76462000"
+    },
+    {
+      "id": 139695,
+      "name": "Macello",
+      "latitude": "44.85114000",
+      "longitude": "7.39802000"
+    },
+    {
+      "id": 139704,
+      "name": "Macra",
+      "latitude": "44.50013000",
+      "longitude": "7.17952000"
+    },
+    {
+      "id": 139705,
+      "name": "Macugnaga",
+      "latitude": "45.96929000",
+      "longitude": "7.96783000"
+    },
+    {
+      "id": 139710,
+      "name": "Madonna del Sasso",
+      "latitude": "45.79217000",
+      "longitude": "8.36952000"
+    },
+    {
+      "id": 139718,
+      "name": "Maggiora",
+      "latitude": "45.68937000",
+      "longitude": "8.42233000"
+    },
+    {
+      "id": 139723,
+      "name": "Magliano Alfieri",
+      "latitude": "44.76924000",
+      "longitude": "8.07014000"
+    },
+    {
+      "id": 139724,
+      "name": "Magliano Alpi",
+      "latitude": "44.45808000",
+      "longitude": "7.81926000"
+    },
+    {
+      "id": 139733,
+      "name": "Maglione",
+      "latitude": "45.34666000",
+      "longitude": "8.01332000"
+    },
+    {
+      "id": 139734,
+      "name": "Maglione-Crosa",
+      "latitude": "45.60297000",
+      "longitude": "8.14937000"
+    },
+    {
+      "id": 139737,
+      "name": "Magnano",
+      "latitude": "45.46336000",
+      "longitude": "8.00302000"
+    },
+    {
+      "id": 139762,
+      "name": "Malesco",
+      "latitude": "46.12800000",
+      "longitude": "8.49801000"
+    },
+    {
+      "id": 139777,
+      "name": "Malvicino",
+      "latitude": "44.55934000",
+      "longitude": "8.41315000"
+    },
+    {
+      "id": 139787,
+      "name": "Mandello Vitta",
+      "latitude": "45.49567000",
+      "longitude": "8.45983000"
+    },
+    {
+      "id": 139790,
+      "name": "Mandrogne",
+      "latitude": "44.86308000",
+      "longitude": "8.74676000"
+    },
+    {
+      "id": 139797,
+      "name": "Mango",
+      "latitude": "44.68812000",
+      "longitude": "8.14922000"
+    },
+    {
+      "id": 139805,
+      "name": "Manta",
+      "latitude": "44.61583000",
+      "longitude": "7.48703000"
+    },
+    {
+      "id": 139816,
+      "name": "Mappano",
+      "latitude": "45.14833000",
+      "longitude": "7.70778000"
+    },
+    {
+      "id": 139825,
+      "name": "Marano Ticino",
+      "latitude": "45.62783000",
+      "longitude": "8.63155000"
+    },
+    {
+      "id": 139831,
+      "name": "Maranzana",
+      "latitude": "44.76035000",
+      "longitude": "8.47845000"
+    },
+    {
+      "id": 139857,
+      "name": "Marene",
+      "latitude": "44.66113000",
+      "longitude": "7.73436000"
+    },
+    {
+      "id": 139859,
+      "name": "Marentino",
+      "latitude": "45.05368000",
+      "longitude": "7.87609000"
+    },
+    {
+      "id": 139861,
+      "name": "Maretto",
+      "latitude": "44.94485000",
+      "longitude": "8.03413000"
+    },
+    {
+      "id": 139862,
+      "name": "Margarita",
+      "latitude": "44.40343000",
+      "longitude": "7.68493000"
+    },
+    {
+      "id": 139907,
+      "name": "Marmora",
+      "latitude": "44.45833000",
+      "longitude": "7.09402000"
+    },
+    {
+      "id": 139909,
+      "name": "Marocchi",
+      "latitude": "44.94201000",
+      "longitude": "7.81888000"
+    },
+    {
+      "id": 139918,
+      "name": "Marsaglia",
+      "latitude": "44.45284000",
+      "longitude": "7.97994000"
+    },
+    {
+      "id": 139935,
+      "name": "Martiniana Po",
+      "latitude": "44.62723000",
+      "longitude": "7.36282000"
+    },
+    {
+      "id": 139957,
+      "name": "Masera",
+      "latitude": "46.13888000",
+      "longitude": "8.32526000"
+    },
+    {
+      "id": 139962,
+      "name": "Masio",
+      "latitude": "44.86965000",
+      "longitude": "8.40774000"
+    },
+    {
+      "id": 139981,
+      "name": "Massazza",
+      "latitude": "45.49183000",
+      "longitude": "8.16495000"
+    },
+    {
+      "id": 139982,
+      "name": "Massello",
+      "latitude": "44.95874000",
+      "longitude": "7.05671000"
+    },
+    {
+      "id": 139984,
+      "name": "Masserano",
+      "latitude": "45.59536000",
+      "longitude": "8.22197000"
+    },
+    {
+      "id": 139989,
+      "name": "Massino Visconti",
+      "latitude": "45.82417000",
+      "longitude": "8.54133000"
+    },
+    {
+      "id": 139990,
+      "name": "Massiola",
+      "latitude": "45.91247000",
+      "longitude": "8.32012000"
+    },
+    {
+      "id": 139995,
+      "name": "Mathi",
+      "latitude": "45.25515000",
+      "longitude": "7.54202000"
+    },
+    {
+      "id": 140000,
+      "name": "Mattie",
+      "latitude": "45.11814000",
+      "longitude": "7.11511000"
+    },
+    {
+      "id": 140010,
+      "name": "Mazze",
+      "latitude": "45.30025000",
+      "longitude": "7.93272000"
+    },
+    {
+      "id": 140014,
+      "name": "Meana di Susa",
+      "latitude": "45.12204000",
+      "longitude": "7.06471000"
+    },
+    {
+      "id": 140032,
+      "name": "Meina",
+      "latitude": "45.79123000",
+      "longitude": "8.53761000"
+    },
+    {
+      "id": 140036,
+      "name": "Melazzo",
+      "latitude": "44.64394000",
+      "longitude": "8.42495000"
+    },
+    {
+      "id": 140054,
+      "name": "Melle",
+      "latitude": "44.56197000",
+      "longitude": "7.31948000"
+    },
+    {
+      "id": 140067,
+      "name": "Merana",
+      "latitude": "44.51884000",
+      "longitude": "8.29824000"
+    },
+    {
+      "id": 140080,
+      "name": "Mercenasco",
+      "latitude": "45.36002000",
+      "longitude": "7.88013000"
+    },
+    {
+      "id": 140084,
+      "name": "Mergozzo",
+      "latitude": "45.96229000",
+      "longitude": "8.45403000"
+    },
+    {
+      "id": 140103,
+      "name": "Meugliano",
+      "latitude": "45.49026000",
+      "longitude": "7.77942000"
+    },
+    {
+      "id": 140107,
+      "name": "Mezzana Mortigliengo",
+      "latitude": "45.62657000",
+      "longitude": "8.18952000"
+    },
+    {
+      "id": 140117,
+      "name": "Mezzenile",
+      "latitude": "45.29485000",
+      "longitude": "7.39561000"
+    },
+    {
+      "id": 140124,
+      "name": "Mezzomerico",
+      "latitude": "45.61991000",
+      "longitude": "8.60616000"
+    },
+    {
+      "id": 140125,
+      "name": "Miagliano",
+      "latitude": "45.61346000",
+      "longitude": "8.04472000"
+    },
+    {
+      "id": 140128,
+      "name": "Miasino",
+      "latitude": "45.80197000",
+      "longitude": "8.42972000"
+    },
+    {
+      "id": 140129,
+      "name": "Miazzina",
+      "latitude": "45.97566000",
+      "longitude": "8.52308000"
+    },
+    {
+      "id": 140143,
+      "name": "Milanere",
+      "latitude": "45.10436000",
+      "longitude": "7.43373000"
+    },
+    {
+      "id": 140170,
+      "name": "Mirabello Monferrato",
+      "latitude": "45.03496000",
+      "longitude": "8.52385000"
+    },
+    {
+      "id": 140186,
+      "name": "Moasca",
+      "latitude": "44.76355000",
+      "longitude": "8.27834000"
+    },
+    {
+      "id": 140208,
+      "name": "Moiola",
+      "latitude": "44.32113000",
+      "longitude": "7.38973000"
+    },
+    {
+      "id": 140210,
+      "name": "Molare",
+      "latitude": "44.61807000",
+      "longitude": "8.59960000"
+    },
+    {
+      "id": 140222,
+      "name": "Molino dei Torti",
+      "latitude": "45.02426000",
+      "longitude": "8.89365000"
+    },
+    {
+      "id": 140229,
+      "name": "Mollia",
+      "latitude": "45.81667000",
+      "longitude": "8.03031000"
+    },
+    {
+      "id": 140234,
+      "name": "Mombaldone",
+      "latitude": "44.57025000",
+      "longitude": "8.33302000"
+    },
+    {
+      "id": 140235,
+      "name": "Mombarcaro",
+      "latitude": "44.46764000",
+      "longitude": "8.08824000"
+    },
+    {
+      "id": 140237,
+      "name": "Mombaruzzo",
+      "latitude": "44.77145000",
+      "longitude": "8.44824000"
+    },
+    {
+      "id": 140238,
+      "name": "Mombasiglio",
+      "latitude": "44.36663000",
+      "longitude": "7.96794000"
+    },
+    {
+      "id": 140241,
+      "name": "Mombello di Torino",
+      "latitude": "45.04575000",
+      "longitude": "7.92083000"
+    },
+    {
+      "id": 140240,
+      "name": "Mombello Monferrato",
+      "latitude": "45.13285000",
+      "longitude": "8.25033000"
+    },
+    {
+      "id": 140242,
+      "name": "Mombercelli",
+      "latitude": "44.81785000",
+      "longitude": "8.29474000"
+    },
+    {
+      "id": 140244,
+      "name": "Momo",
+      "latitude": "45.57424000",
+      "longitude": "8.55390000"
+    },
+    {
+      "id": 140245,
+      "name": "Mompantero",
+      "latitude": "45.14744000",
+      "longitude": "7.04301000"
+    },
+    {
+      "id": 140247,
+      "name": "Momperone",
+      "latitude": "44.83845000",
+      "longitude": "9.03425000"
+    },
+    {
+      "id": 140249,
+      "name": "Monale",
+      "latitude": "44.93755000",
+      "longitude": "8.07243000"
+    },
+    {
+      "id": 140252,
+      "name": "Monastero Bormida",
+      "latitude": "44.64854000",
+      "longitude": "8.32664000"
+    },
+    {
+      "id": 140253,
+      "name": "Monastero di Lanzo",
+      "latitude": "45.30185000",
+      "longitude": "7.43971000"
+    },
+    {
+      "id": 140254,
+      "name": "Monastero di Vasco",
+      "latitude": "44.34033000",
+      "longitude": "7.82264000"
+    },
+    {
+      "id": 140255,
+      "name": "Monasterolo",
+      "latitude": "45.23549000",
+      "longitude": "7.50821000"
+    },
+    {
+      "id": 140257,
+      "name": "Monasterolo Casotto",
+      "latitude": "44.32823000",
+      "longitude": "7.94324000"
+    },
+    {
+      "id": 140259,
+      "name": "Monasterolo di Savigliano",
+      "latitude": "44.68634000",
+      "longitude": "7.61953000"
+    },
+    {
+      "id": 140262,
+      "name": "Moncalieri",
+      "latitude": "44.99940000",
+      "longitude": "7.68236000"
+    },
+    {
+      "id": 140263,
+      "name": "Moncalvo",
+      "latitude": "45.05057000",
+      "longitude": "8.26277000"
+    },
+    {
+      "id": 140264,
+      "name": "Moncenisio",
+      "latitude": "45.20404000",
+      "longitude": "6.98461000"
+    },
+    {
+      "id": 140265,
+      "name": "Moncestino",
+      "latitude": "45.15465000",
+      "longitude": "8.16143000"
+    },
+    {
+      "id": 140266,
+      "name": "Monchiero Borgonuovo",
+      "latitude": "44.57054000",
+      "longitude": "7.92024000"
+    },
+    {
+      "id": 140269,
+      "name": "Moncrivello",
+      "latitude": "45.33236000",
+      "longitude": "7.99552000"
+    },
+    {
+      "id": 140271,
+      "name": "Moncucco Torinese",
+      "latitude": "45.06738000",
+      "longitude": "7.93246000"
+    },
+    {
+      "id": 140275,
+      "name": "Mondovì",
+      "latitude": "44.39603000",
+      "longitude": "7.81764000"
+    },
+    {
+      "id": 140278,
+      "name": "Monesiglio",
+      "latitude": "44.46550000",
+      "longitude": "8.11915000"
+    },
+    {
+      "id": 140281,
+      "name": "Monforte d'Alba",
+      "latitude": "44.58271000",
+      "longitude": "7.96793000"
+    },
+    {
+      "id": 140283,
+      "name": "Mongardino",
+      "latitude": "44.84915000",
+      "longitude": "8.21906000"
+    },
+    {
+      "id": 140286,
+      "name": "Mongiardino Ligure",
+      "latitude": "44.63443000",
+      "longitude": "9.06462000"
+    },
+    {
+      "id": 140289,
+      "name": "Mongrando",
+      "latitude": "45.52826000",
+      "longitude": "8.00712000"
+    },
+    {
+      "id": 140294,
+      "name": "Monleale",
+      "latitude": "44.88435000",
+      "longitude": "8.97395000"
+    },
+    {
+      "id": 140591,
+      "name": "Montà",
+      "latitude": "44.81474000",
+      "longitude": "7.95477000"
+    },
+    {
+      "id": 140304,
+      "name": "Montabone",
+      "latitude": "44.69875000",
+      "longitude": "8.39064000"
+    },
+    {
+      "id": 140305,
+      "name": "Montacuto",
+      "latitude": "44.76645000",
+      "longitude": "9.10496000"
+    },
+    {
+      "id": 140306,
+      "name": "Montafia",
+      "latitude": "44.98925000",
+      "longitude": "8.02463000"
+    },
+    {
+      "id": 140320,
+      "name": "Montaldeo",
+      "latitude": "44.66715000",
+      "longitude": "8.73015000"
+    },
+    {
+      "id": 140321,
+      "name": "Montaldo Bormida",
+      "latitude": "44.68265000",
+      "longitude": "8.58785000"
+    },
+    {
+      "id": 140325,
+      "name": "Montaldo di Mondovì",
+      "latitude": "44.32173000",
+      "longitude": "7.86714000"
+    },
+    {
+      "id": 140322,
+      "name": "Montaldo Roero",
+      "latitude": "44.76834000",
+      "longitude": "7.92483000"
+    },
+    {
+      "id": 140323,
+      "name": "Montaldo Scarampi",
+      "latitude": "44.83035000",
+      "longitude": "8.25904000"
+    },
+    {
+      "id": 140324,
+      "name": "Montaldo Torinese",
+      "latitude": "45.06535000",
+      "longitude": "7.85023000"
+    },
+    {
+      "id": 140328,
+      "name": "Montalenghe",
+      "latitude": "45.33666000",
+      "longitude": "7.83794000"
+    },
+    {
+      "id": 140331,
+      "name": "Montalto Dora",
+      "latitude": "45.48993000",
+      "longitude": "7.86253000"
+    },
+    {
+      "id": 140339,
+      "name": "Montanaro",
+      "latitude": "45.23274000",
+      "longitude": "7.85492000"
+    },
+    {
+      "id": 140341,
+      "name": "Montanera",
+      "latitude": "44.46223000",
+      "longitude": "7.66563000"
+    },
+    {
+      "id": 140347,
+      "name": "Montariolo",
+      "latitude": "44.99575000",
+      "longitude": "8.77539000"
+    },
+    {
+      "id": 140403,
+      "name": "Montecastello",
+      "latitude": "44.94945000",
+      "longitude": "8.68575000"
+    },
+    {
+      "id": 140414,
+      "name": "Montechiaro d'Acqui",
+      "latitude": "44.59444000",
+      "longitude": "8.37865000"
+    },
+    {
+      "id": 140415,
+      "name": "Montechiaro d'Asti",
+      "latitude": "45.00701000",
+      "longitude": "8.11286000"
+    },
+    {
+      "id": 140424,
+      "name": "Montecrestese",
+      "latitude": "46.16448000",
+      "longitude": "8.32621000"
+    },
+    {
+      "id": 140453,
+      "name": "Montegioco",
+      "latitude": "44.84205000",
+      "longitude": "8.96275000"
+    },
+    {
+      "id": 140459,
+      "name": "Montegrosso",
+      "latitude": "44.82065000",
+      "longitude": "8.23754000"
+    },
+    {
+      "id": 140474,
+      "name": "Montelera",
+      "latitude": "45.15429000",
+      "longitude": "7.44290000"
+    },
+    {
+      "id": 140480,
+      "name": "Montelupo Albese",
+      "latitude": "44.62151000",
+      "longitude": "8.04720000"
+    },
+    {
+      "id": 140485,
+      "name": "Montemagno",
+      "latitude": "44.98305000",
+      "longitude": "8.32534000"
+    },
+    {
+      "id": 140486,
+      "name": "Montemale di Cuneo",
+      "latitude": "44.43743000",
+      "longitude": "7.37533000"
+    },
+    {
+      "id": 140489,
+      "name": "Montemarzino",
+      "latitude": "44.84835000",
+      "longitude": "8.99365000"
+    },
+    {
+      "id": 140524,
+      "name": "Monterosso Grana",
+      "latitude": "44.40823000",
+      "longitude": "7.32293000"
+    },
+    {
+      "id": 140536,
+      "name": "Montescheno",
+      "latitude": "46.06658000",
+      "longitude": "8.23192000"
+    },
+    {
+      "id": 140545,
+      "name": "Monteu da Po",
+      "latitude": "45.15031000",
+      "longitude": "8.01428000"
+    },
+    {
+      "id": 140544,
+      "name": "Monteu Roero",
+      "latitude": "44.78059000",
+      "longitude": "7.93383000"
+    },
+    {
+      "id": 140552,
+      "name": "Montezemolo",
+      "latitude": "44.37703000",
+      "longitude": "8.14114000"
+    },
+    {
+      "id": 140567,
+      "name": "Monticello d'Alba",
+      "latitude": "44.71894000",
+      "longitude": "7.94263000"
+    },
+    {
+      "id": 140572,
+      "name": "Montiglio",
+      "latitude": "45.06462000",
+      "longitude": "8.09878000"
+    },
+    {
+      "id": 140598,
+      "name": "Morano sul Po",
+      "latitude": "45.16621000",
+      "longitude": "8.36674000"
+    },
+    {
+      "id": 140599,
+      "name": "Moransengo",
+      "latitude": "45.11485000",
+      "longitude": "8.02523000"
+    },
+    {
+      "id": 140603,
+      "name": "Morbello",
+      "latitude": "44.60504000",
+      "longitude": "8.51075000"
+    },
+    {
+      "id": 140611,
+      "name": "Moretta",
+      "latitude": "44.76137000",
+      "longitude": "7.53632000"
+    },
+    {
+      "id": 140621,
+      "name": "Moriondo Torinese",
+      "latitude": "45.03853000",
+      "longitude": "7.94086000"
+    },
+    {
+      "id": 140625,
+      "name": "Mornese",
+      "latitude": "44.63925000",
+      "longitude": "8.75615000"
+    },
+    {
+      "id": 140630,
+      "name": "Morozzo",
+      "latitude": "44.42277000",
+      "longitude": "7.71006000"
+    },
+    {
+      "id": 140638,
+      "name": "Morsasco",
+      "latitude": "44.66535000",
+      "longitude": "8.55085000"
+    },
+    {
+      "id": 140653,
+      "name": "Mosso",
+      "latitude": "45.65007000",
+      "longitude": "8.13762000"
+    },
+    {
+      "id": 140654,
+      "name": "Mosso Santa Maria",
+      "latitude": "45.64958000",
+      "longitude": "8.13682000"
+    },
+    {
+      "id": 140658,
+      "name": "Motta Dè Conti",
+      "latitude": "45.19356000",
+      "longitude": "8.52094000"
+    },
+    {
+      "id": 140667,
+      "name": "Mottalciata",
+      "latitude": "45.50019000",
+      "longitude": "8.21065000"
+    },
+    {
+      "id": 140687,
+      "name": "Murazzano",
+      "latitude": "44.47334000",
+      "longitude": "8.01938000"
+    },
+    {
+      "id": 140689,
+      "name": "Murello",
+      "latitude": "44.75214000",
+      "longitude": "7.60093000"
+    },
+    {
+      "id": 140691,
+      "name": "Murisengo",
+      "latitude": "45.08165000",
+      "longitude": "8.13554000"
+    },
+    {
+      "id": 140705,
+      "name": "Mussotto",
+      "latitude": "44.71766000",
+      "longitude": "8.03404000"
+    },
+    {
+      "id": 140708,
+      "name": "Muzzano",
+      "latitude": "45.56076000",
+      "longitude": "7.98892000"
+    },
+    {
+      "id": 140722,
+      "name": "Narzole",
+      "latitude": "44.59441000",
+      "longitude": "7.86765000"
+    },
+    {
+      "id": 140734,
+      "name": "Nebbiuno",
+      "latitude": "45.80774000",
+      "longitude": "8.52593000"
+    },
+    {
+      "id": 140738,
+      "name": "Neive-Borgonovo",
+      "latitude": "44.72397000",
+      "longitude": "8.11780000"
+    },
+    {
+      "id": 140752,
+      "name": "Netro",
+      "latitude": "45.54004000",
+      "longitude": "7.94695000"
+    },
+    {
+      "id": 140756,
+      "name": "Neviglie",
+      "latitude": "44.69194000",
+      "longitude": "8.11684000"
+    },
+    {
+      "id": 140759,
+      "name": "Nibbiola",
+      "latitude": "45.37236000",
+      "longitude": "8.65674000"
+    },
+    {
+      "id": 140762,
+      "name": "Nichelino",
+      "latitude": "45.00031000",
+      "longitude": "7.65305000"
+    },
+    {
+      "id": 140767,
+      "name": "Niella Belbo",
+      "latitude": "44.51275000",
+      "longitude": "8.08036000"
+    },
+    {
+      "id": 140768,
+      "name": "Niella Tanaro",
+      "latitude": "44.40573000",
+      "longitude": "7.92794000"
+    },
+    {
+      "id": 140774,
+      "name": "Nizza Monferrato",
+      "latitude": "44.77416000",
+      "longitude": "8.35784000"
+    },
+    {
+      "id": 140777,
+      "name": "Noasca",
+      "latitude": "45.45332000",
+      "longitude": "7.31494000"
+    },
+    {
+      "id": 140798,
+      "name": "Nole",
+      "latitude": "45.24159000",
+      "longitude": "7.56983000"
+    },
+    {
+      "id": 140800,
+      "name": "Nomaglio",
+      "latitude": "45.53616000",
+      "longitude": "7.86032000"
+    },
+    {
+      "id": 140803,
+      "name": "None",
+      "latitude": "44.93645000",
+      "longitude": "7.54015000"
+    },
+    {
+      "id": 140804,
+      "name": "Nonio",
+      "latitude": "45.84577000",
+      "longitude": "8.37752000"
+    },
+    {
+      "id": 140821,
+      "name": "Novalesa",
+      "latitude": "45.19065000",
+      "longitude": "7.01416000"
+    },
+    {
+      "id": 140822,
+      "name": "Novara",
+      "latitude": "45.44694000",
+      "longitude": "8.62118000"
+    },
+    {
+      "id": 140830,
+      "name": "Novello",
+      "latitude": "44.58882000",
+      "longitude": "7.92587000"
+    },
+    {
+      "id": 140835,
+      "name": "Novi Ligure",
+      "latitude": "44.76246000",
+      "longitude": "8.78700000"
+    },
+    {
+      "id": 140841,
+      "name": "Nucetto",
+      "latitude": "44.33963000",
+      "longitude": "8.05960000"
+    },
+    {
+      "id": 140866,
+      "name": "Occhieppo Inferiore",
+      "latitude": "45.55006000",
+      "longitude": "8.02102000"
+    },
+    {
+      "id": 140867,
+      "name": "Occhieppo Superiore",
+      "latitude": "45.56400000",
+      "longitude": "8.00618000"
+    },
+    {
+      "id": 140869,
+      "name": "Occimiano",
+      "latitude": "45.05991000",
+      "longitude": "8.50666000"
+    },
+    {
+      "id": 140870,
+      "name": "Odalengo Grande",
+      "latitude": "45.10922000",
+      "longitude": "8.16748000"
+    },
+    {
+      "id": 140871,
+      "name": "Odalengo Piccolo",
+      "latitude": "45.07165000",
+      "longitude": "8.20603000"
+    },
+    {
+      "id": 140879,
+      "name": "Oggebbio",
+      "latitude": "45.99088000",
+      "longitude": "8.64663000"
+    },
+    {
+      "id": 140882,
+      "name": "Oglianico",
+      "latitude": "45.34154000",
+      "longitude": "7.69196000"
+    },
+    {
+      "id": 140885,
+      "name": "Olcenengo",
+      "latitude": "45.36346000",
+      "longitude": "8.30983000"
+    },
+    {
+      "id": 140886,
+      "name": "Oldenico",
+      "latitude": "45.40276000",
+      "longitude": "8.38103000"
+    },
+    {
+      "id": 140887,
+      "name": "Oleggio",
+      "latitude": "45.59674000",
+      "longitude": "8.64213000"
+    },
+    {
+      "id": 140888,
+      "name": "Oleggio Castello",
+      "latitude": "45.74887000",
+      "longitude": "8.52713000"
+    },
+    {
+      "id": 140904,
+      "name": "Olivola",
+      "latitude": "45.03725000",
+      "longitude": "8.36784000"
+    },
+    {
+      "id": 140910,
+      "name": "Olmo Gentile",
+      "latitude": "44.58574000",
+      "longitude": "8.24694000"
+    },
+    {
+      "id": 140918,
+      "name": "Omegna",
+      "latitude": "45.88002000",
+      "longitude": "8.40665000"
+    },
+    {
+      "id": 140922,
+      "name": "Oncino",
+      "latitude": "44.67683000",
+      "longitude": "7.19032000"
+    },
+    {
+      "id": 140939,
+      "name": "Orbassano",
+      "latitude": "45.00547000",
+      "longitude": "7.53813000"
+    },
+    {
+      "id": 140955,
+      "name": "Orio Canavese",
+      "latitude": "45.32883000",
+      "longitude": "7.85991000"
+    },
+    {
+      "id": 140961,
+      "name": "Ormea",
+      "latitude": "44.15586000",
+      "longitude": "7.92811000"
+    },
+    {
+      "id": 140964,
+      "name": "Ornavasso",
+      "latitude": "45.96795000",
+      "longitude": "8.41584000"
+    },
+    {
+      "id": 140971,
+      "name": "Orsara Bormida",
+      "latitude": "44.69015000",
+      "longitude": "8.56275000"
+    },
+    {
+      "id": 140978,
+      "name": "Orta San Giulio",
+      "latitude": "45.79727000",
+      "longitude": "8.41437000"
+    },
+    {
+      "id": 140999,
+      "name": "Osasco",
+      "latitude": "44.84944000",
+      "longitude": "7.34302000"
+    },
+    {
+      "id": 141000,
+      "name": "Osasio",
+      "latitude": "44.87144000",
+      "longitude": "7.60802000"
+    },
+    {
+      "id": 141030,
+      "name": "Ostana",
+      "latitude": "44.69263000",
+      "longitude": "7.18942000"
+    },
+    {
+      "id": 141051,
+      "name": "Ottiglio",
+      "latitude": "45.05426000",
+      "longitude": "8.33980000"
+    },
+    {
+      "id": 141054,
+      "name": "Oulx",
+      "latitude": "45.03641000",
+      "longitude": "6.83372000"
+    },
+    {
+      "id": 141055,
+      "name": "Ovada",
+      "latitude": "44.63727000",
+      "longitude": "8.64196000"
+    },
+    {
+      "id": 141057,
+      "name": "Oviglio",
+      "latitude": "44.86125000",
+      "longitude": "8.48774000"
+    },
+    {
+      "id": 141061,
+      "name": "Ozegna",
+      "latitude": "45.34801000",
+      "longitude": "7.74503000"
+    },
+    {
+      "id": 141063,
+      "name": "Ozzano Monferrato",
+      "latitude": "45.10592000",
+      "longitude": "8.37238000"
+    },
+    {
+      "id": 141075,
+      "name": "Paderna",
+      "latitude": "44.82148000",
+      "longitude": "8.89088000"
+    },
+    {
+      "id": 141092,
+      "name": "Paesana",
+      "latitude": "44.68332000",
+      "longitude": "7.27571000"
+    },
+    {
+      "id": 58211,
+      "name": "Pagno",
+      "latitude": "44.61173000",
+      "longitude": "7.42572000"
+    },
+    {
+      "id": 58229,
+      "name": "Palazzo Canavese",
+      "latitude": "45.45962000",
+      "longitude": "7.97776000"
+    },
+    {
+      "id": 58234,
+      "name": "Palazzolo Vercellese",
+      "latitude": "45.18554000",
+      "longitude": "8.23302000"
+    },
+    {
+      "id": 58249,
+      "name": "Pallanza-Intra-Suna",
+      "latitude": "45.93778000",
+      "longitude": "8.57088000"
+    },
+    {
+      "id": 58250,
+      "name": "Pallanzeno",
+      "latitude": "46.04202000",
+      "longitude": "8.25949000"
+    },
+    {
+      "id": 58272,
+      "name": "Pamparato",
+      "latitude": "44.27666000",
+      "longitude": "7.91432000"
+    },
+    {
+      "id": 58273,
+      "name": "Pancalieri",
+      "latitude": "44.83344000",
+      "longitude": "7.58592000"
+    },
+    {
+      "id": 58301,
+      "name": "Parella",
+      "latitude": "45.43018000",
+      "longitude": "7.79128000"
+    },
+    {
+      "id": 58304,
+      "name": "Pareto",
+      "latitude": "44.51644000",
+      "longitude": "8.38185000"
+    },
+    {
+      "id": 58309,
+      "name": "Parodi Ligure",
+      "latitude": "44.66975000",
+      "longitude": "8.75865000"
+    },
+    {
+      "id": 58310,
+      "name": "Paroldo",
+      "latitude": "44.43204000",
+      "longitude": "8.07244000"
+    },
+    {
+      "id": 58318,
+      "name": "Paruzzaro",
+      "latitude": "45.74818000",
+      "longitude": "8.51486000"
+    },
+    {
+      "id": 58327,
+      "name": "Passerano Marmorito",
+      "latitude": "45.05585000",
+      "longitude": "8.01873000"
+    },
+    {
+      "id": 58336,
+      "name": "Pasta",
+      "latitude": "45.01131000",
+      "longitude": "7.55243000"
+    },
+    {
+      "id": 58341,
+      "name": "Pasturana",
+      "latitude": "44.75085000",
+      "longitude": "8.74925000"
+    },
+    {
+      "id": 58358,
+      "name": "Pavarolo",
+      "latitude": "45.06665000",
+      "longitude": "7.83943000"
+    },
+    {
+      "id": 58363,
+      "name": "Pavone Canavese",
+      "latitude": "45.44193000",
+      "longitude": "7.85294000"
+    },
+    {
+      "id": 58368,
+      "name": "Pecco",
+      "latitude": "45.45206000",
+      "longitude": "7.77742000"
+    },
+    {
+      "id": 58369,
+      "name": "Pecetto",
+      "latitude": "45.01760000",
+      "longitude": "7.75107000"
+    },
+    {
+      "id": 58370,
+      "name": "Pecetto di Valenza",
+      "latitude": "44.98904000",
+      "longitude": "8.66996000"
+    },
+    {
+      "id": 58391,
+      "name": "Pella",
+      "latitude": "45.79722000",
+      "longitude": "8.38444000"
+    },
+    {
+      "id": 58399,
+      "name": "Penango",
+      "latitude": "45.03295000",
+      "longitude": "8.25174000"
+    },
+    {
+      "id": 58428,
+      "name": "Perletto",
+      "latitude": "44.59934000",
+      "longitude": "8.21304000"
+    },
+    {
+      "id": 58429,
+      "name": "Perlo",
+      "latitude": "44.33183000",
+      "longitude": "8.08554000"
+    },
+    {
+      "id": 58431,
+      "name": "Pernate",
+      "latitude": "45.45958000",
+      "longitude": "8.67845000"
+    },
+    {
+      "id": 58436,
+      "name": "Perosa Argentina",
+      "latitude": "44.95909000",
+      "longitude": "7.19167000"
+    },
+    {
+      "id": 58437,
+      "name": "Perosa Canavese",
+      "latitude": "45.39706000",
+      "longitude": "7.83082000"
+    },
+    {
+      "id": 58438,
+      "name": "Perrero",
+      "latitude": "44.93849000",
+      "longitude": "7.11263000"
+    },
+    {
+      "id": 58441,
+      "name": "Pertengo",
+      "latitude": "45.23606000",
+      "longitude": "8.41651000"
+    },
+    {
+      "id": 58445,
+      "name": "Pertusio",
+      "latitude": "45.35565000",
+      "longitude": "7.64152000"
+    },
+    {
+      "id": 58471,
+      "name": "Pessinetto",
+      "latitude": "45.28675000",
+      "longitude": "7.41531000"
+    },
+    {
+      "id": 58472,
+      "name": "Pessione",
+      "latitude": "44.96504000",
+      "longitude": "7.84115000"
+    },
+    {
+      "id": 58489,
+      "name": "Pettenasco",
+      "latitude": "45.81657000",
+      "longitude": "8.40702000"
+    },
+    {
+      "id": 58490,
+      "name": "Pettinengo",
+      "latitude": "45.61306000",
+      "longitude": "8.10422000"
+    },
+    {
+      "id": 58495,
+      "name": "Peveragno",
+      "latitude": "44.32060000",
+      "longitude": "7.61859000"
+    },
+    {
+      "id": 58497,
+      "name": "Pezzana",
+      "latitude": "45.26152000",
+      "longitude": "8.48396000"
+    },
+    {
+      "id": 58501,
+      "name": "Pezzolo Valle Uzzone",
+      "latitude": "44.53874000",
+      "longitude": "8.19394000"
+    },
+    {
+      "id": 58513,
+      "name": "Piana San Raffaele",
+      "latitude": "45.15290000",
+      "longitude": "7.85013000"
+    },
+    {
+      "id": 58529,
+      "name": "Pianezza",
+      "latitude": "45.10420000",
+      "longitude": "7.55003000"
+    },
+    {
+      "id": 58531,
+      "name": "Pianfei",
+      "latitude": "44.37203000",
+      "longitude": "7.71143000"
+    },
+    {
+      "id": 58546,
+      "name": "Piano-Molini d'Isola",
+      "latitude": "44.83194000",
+      "longitude": "8.18073000"
+    },
+    {
+      "id": 58556,
+      "name": "Piasco",
+      "latitude": "44.56106000",
+      "longitude": "7.44420000"
+    },
+    {
+      "id": 58558,
+      "name": "Piatto",
+      "latitude": "45.58986000",
+      "longitude": "8.13532000"
+    },
+    {
+      "id": 58564,
+      "name": "Piazza",
+      "latitude": "44.38597000",
+      "longitude": "7.83163000"
+    },
+    {
+      "id": 58586,
+      "name": "Piea",
+      "latitude": "45.02706000",
+      "longitude": "8.07146000"
+    },
+    {
+      "id": 58587,
+      "name": "Piedicavallo",
+      "latitude": "45.68986000",
+      "longitude": "7.95482000"
+    },
+    {
+      "id": 58593,
+      "name": "Piedimulera",
+      "latitude": "46.02408000",
+      "longitude": "8.25897000"
+    },
+    {
+      "id": 58602,
+      "name": "Pietra Marazzi",
+      "latitude": "44.94265000",
+      "longitude": "8.66854000"
+    },
+    {
+      "id": 58623,
+      "name": "Pietraporzio",
+      "latitude": "44.34352000",
+      "longitude": "7.03433000"
+    },
+    {
+      "id": 58642,
+      "name": "Pieve Vergonte",
+      "latitude": "46.01298000",
+      "longitude": "8.26082000"
+    },
+    {
+      "id": 58667,
+      "name": "Pila",
+      "latitude": "45.76997000",
+      "longitude": "8.08122000"
+    },
+    {
+      "id": 58673,
+      "name": "Pinasca-Dubbione",
+      "latitude": "44.94264000",
+      "longitude": "7.22912000"
+    },
+    {
+      "id": 58675,
+      "name": "Pinerolo",
+      "latitude": "44.88534000",
+      "longitude": "7.33135000"
+    },
+    {
+      "id": 58679,
+      "name": "Pino d'Asti",
+      "latitude": "45.05745000",
+      "longitude": "7.98623000"
+    },
+    {
+      "id": 58678,
+      "name": "Pino Torinese",
+      "latitude": "45.03955000",
+      "longitude": "7.77712000"
+    },
+    {
+      "id": 58686,
+      "name": "Piobesi d'Alba",
+      "latitude": "44.73444000",
+      "longitude": "7.97937000"
+    },
+    {
+      "id": 58685,
+      "name": "Piobesi Torinese",
+      "latitude": "44.76667000",
+      "longitude": "7.61667000"
+    },
+    {
+      "id": 58687,
+      "name": "Piode",
+      "latitude": "45.77059000",
+      "longitude": "8.05265000"
+    },
+    {
+      "id": 58694,
+      "name": "Piossasco",
+      "latitude": "44.98802000",
+      "longitude": "7.46010000"
+    },
+    {
+      "id": 58698,
+      "name": "Piovà Massaia",
+      "latitude": "45.05515000",
+      "longitude": "8.05013000"
+    },
+    {
+      "id": 58697,
+      "name": "Piovera",
+      "latitude": "44.95845000",
+      "longitude": "8.73595000"
+    },
+    {
+      "id": 58700,
+      "name": "Piozzo",
+      "latitude": "44.51384000",
+      "longitude": "7.89254000"
+    },
+    {
+      "id": 58703,
+      "name": "Pisano",
+      "latitude": "45.79567000",
+      "longitude": "8.51487000"
+    },
+    {
+      "id": 58704,
+      "name": "Piscina",
+      "latitude": "44.91874000",
+      "longitude": "7.42532000"
+    },
+    {
+      "id": 58722,
+      "name": "Piverone",
+      "latitude": "45.44557000",
+      "longitude": "8.00745000"
+    },
+    {
+      "id": 58738,
+      "name": "Pleyne",
+      "latitude": "44.58063000",
+      "longitude": "7.01712000"
+    },
+    {
+      "id": 58742,
+      "name": "Pocapaglia",
+      "latitude": "44.71524000",
+      "longitude": "7.88293000"
+    },
+    {
+      "id": 58777,
+      "name": "Pogno",
+      "latitude": "45.75806000",
+      "longitude": "8.38559000"
+    },
+    {
+      "id": 58781,
+      "name": "Poirino",
+      "latitude": "44.92047000",
+      "longitude": "7.84465000"
+    },
+    {
+      "id": 58801,
+      "name": "Pollone",
+      "latitude": "45.57976000",
+      "longitude": "8.00592000"
+    },
+    {
+      "id": 58803,
+      "name": "Polonghera",
+      "latitude": "44.80234000",
+      "longitude": "7.59572000"
+    },
+    {
+      "id": 58809,
+      "name": "Pomaretto",
+      "latitude": "45.15194000",
+      "longitude": "8.04661000"
+    },
+    {
+      "id": 58811,
+      "name": "Pomaro Monferrato",
+      "latitude": "45.06246000",
+      "longitude": "8.59604000"
+    },
+    {
+      "id": 58813,
+      "name": "Pombia",
+      "latitude": "45.65550000",
+      "longitude": "8.62846000"
+    },
+    {
+      "id": 58823,
+      "name": "Ponderano",
+      "latitude": "45.53846000",
+      "longitude": "8.05592000"
+    },
+    {
+      "id": 58828,
+      "name": "Pont-Canavese",
+      "latitude": "45.42138000",
+      "longitude": "7.60024000"
+    },
+    {
+      "id": 58865,
+      "name": "Pontechianale",
+      "latitude": "44.62123000",
+      "longitude": "7.03002000"
+    },
+    {
+      "id": 58867,
+      "name": "Pontecurone",
+      "latitude": "44.95880000",
+      "longitude": "8.93289000"
+    },
+    {
+      "id": 58879,
+      "name": "Pontestura",
+      "latitude": "45.14245000",
+      "longitude": "8.33324000"
+    },
+    {
+      "id": 58882,
+      "name": "Ponti",
+      "latitude": "44.62847000",
+      "longitude": "8.36461000"
+    },
+    {
+      "id": 58896,
+      "name": "Ponzano Monferrato",
+      "latitude": "45.08485000",
+      "longitude": "8.26553000"
+    },
+    {
+      "id": 58899,
+      "name": "Ponzone",
+      "latitude": "44.58814000",
+      "longitude": "8.45935000"
+    },
+    {
+      "id": 58913,
+      "name": "Portacomaro",
+      "latitude": "44.95665000",
+      "longitude": "8.25804000"
+    },
+    {
+      "id": 58915,
+      "name": "Porte",
+      "latitude": "44.88714000",
+      "longitude": "7.26982000"
+    },
+    {
+      "id": 58951,
+      "name": "Portula",
+      "latitude": "45.67512000",
+      "longitude": "8.17244000"
+    },
+    {
+      "id": 58964,
+      "name": "Postua",
+      "latitude": "45.71355000",
+      "longitude": "8.22853000"
+    },
+    {
+      "id": 58983,
+      "name": "Pozzol Groppo",
+      "latitude": "44.87806000",
+      "longitude": "9.02985000"
+    },
+    {
+      "id": 58986,
+      "name": "Pozzolo Formigaro",
+      "latitude": "44.79925000",
+      "longitude": "8.78364000"
+    },
+    {
+      "id": 58996,
+      "name": "Pradleves",
+      "latitude": "44.41786000",
+      "longitude": "7.28146000"
+    },
+    {
+      "id": 58997,
+      "name": "Pragelato-Ruà",
+      "latitude": "45.01364000",
+      "longitude": "6.94161000"
+    },
+    {
+      "id": 59001,
+      "name": "Prali",
+      "latitude": "44.88944000",
+      "longitude": "7.05131000"
+    },
+    {
+      "id": 59002,
+      "name": "Pralormo",
+      "latitude": "44.85976000",
+      "longitude": "7.90440000"
+    },
+    {
+      "id": 59003,
+      "name": "Pralungo",
+      "latitude": "45.58999000",
+      "longitude": "8.03976000"
+    },
+    {
+      "id": 59006,
+      "name": "Pramollo",
+      "latitude": "44.90814000",
+      "longitude": "7.19071000"
+    },
+    {
+      "id": 59007,
+      "name": "Prarolo",
+      "latitude": "45.28149000",
+      "longitude": "8.47784000"
+    },
+    {
+      "id": 59008,
+      "name": "Prarostino",
+      "latitude": "44.86634000",
+      "longitude": "7.26762000"
+    },
+    {
+      "id": 59009,
+      "name": "Prasco",
+      "latitude": "44.63938000",
+      "longitude": "8.55167000"
+    },
+    {
+      "id": 59010,
+      "name": "Prascorsano",
+      "latitude": "45.36721000",
+      "longitude": "7.61727000"
+    },
+    {
+      "id": 59023,
+      "name": "Pratiglione",
+      "latitude": "45.35275000",
+      "longitude": "7.59602000"
+    },
+    {
+      "id": 59031,
+      "name": "Prato Sesia",
+      "latitude": "45.65067000",
+      "longitude": "8.37293000"
+    },
+    {
+      "id": 59038,
+      "name": "Pray",
+      "latitude": "45.67508000",
+      "longitude": "8.20951000"
+    },
+    {
+      "id": 59039,
+      "name": "Prazzo Superiore",
+      "latitude": "44.48297000",
+      "longitude": "7.05468000"
+    },
+    {
+      "id": 59047,
+      "name": "Predosa",
+      "latitude": "44.75049000",
+      "longitude": "8.65568000"
+    },
+    {
+      "id": 59054,
+      "name": "Premeno",
+      "latitude": "45.97818000",
+      "longitude": "8.59587000"
+    },
+    {
+      "id": 59056,
+      "name": "Premia",
+      "latitude": "46.26807000",
+      "longitude": "8.33830000"
+    },
+    {
+      "id": 59059,
+      "name": "Premosello-Chiovenda",
+      "latitude": "46.00380000",
+      "longitude": "8.32973000"
+    },
+    {
+      "id": 59074,
+      "name": "Priero",
+      "latitude": "44.37604000",
+      "longitude": "8.09334000"
+    },
+    {
+      "id": 59079,
+      "name": "Priocca",
+      "latitude": "44.78624000",
+      "longitude": "8.06424000"
+    },
+    {
+      "id": 59080,
+      "name": "Priola",
+      "latitude": "44.24478000",
+      "longitude": "8.02149000"
+    },
+    {
+      "id": 59107,
+      "name": "Provincia di Alessandria",
+      "latitude": "44.81667000",
+      "longitude": "8.70000000"
+    },
+    {
+      "id": 59110,
+      "name": "Provincia di Asti",
+      "latitude": "44.91667000",
+      "longitude": "8.16667000"
+    },
+    {
+      "id": 59116,
+      "name": "Provincia di Biella",
+      "latitude": "45.58713000",
+      "longitude": "8.08594000"
+    },
+    {
+      "id": 59129,
+      "name": "Provincia di Cuneo",
+      "latitude": "44.51667000",
+      "longitude": "7.56667000"
+    },
+    {
+      "id": 59152,
+      "name": "Provincia di Novara",
+      "latitude": "45.58533000",
+      "longitude": "8.57781000"
+    },
+    {
+      "id": 59186,
+      "name": "Provincia di Vercelli",
+      "latitude": "45.33188000",
+      "longitude": "8.41415000"
+    },
+    {
+      "id": 59104,
+      "name": "Provincia Verbano-Cusio-Ossola",
+      "latitude": "45.93333000",
+      "longitude": "8.55000000"
+    },
+    {
+      "id": 59192,
+      "name": "Prunetto",
+      "latitude": "44.48894000",
+      "longitude": "8.14374000"
+    },
+    {
+      "id": 59214,
+      "name": "Quagliuzzo",
+      "latitude": "45.42654000",
+      "longitude": "7.78101000"
+    },
+    {
+      "id": 59216,
+      "name": "Quaranti",
+      "latitude": "44.75095000",
+      "longitude": "8.44914000"
+    },
+    {
+      "id": 59219,
+      "name": "Quaregna",
+      "latitude": "45.58116000",
+      "longitude": "8.16372000"
+    },
+    {
+      "id": 59220,
+      "name": "Quargnento",
+      "latitude": "44.94566000",
+      "longitude": "8.48821000"
+    },
+    {
+      "id": 59221,
+      "name": "Quarna Sopra",
+      "latitude": "45.87307000",
+      "longitude": "8.37355000"
+    },
+    {
+      "id": 59222,
+      "name": "Quarna Sotto",
+      "latitude": "45.86917000",
+      "longitude": "8.36332000"
+    },
+    {
+      "id": 59223,
+      "name": "Quarona",
+      "latitude": "45.76044000",
+      "longitude": "8.26749000"
+    },
+    {
+      "id": 59234,
+      "name": "Quassolo",
+      "latitude": "45.52294000",
+      "longitude": "7.83305000"
+    },
+    {
+      "id": 59235,
+      "name": "Quattordio",
+      "latitude": "44.89877000",
+      "longitude": "8.40495000"
+    },
+    {
+      "id": 59243,
+      "name": "Quincinetto",
+      "latitude": "45.56157000",
+      "longitude": "7.80834000"
+    },
+    {
+      "id": 59248,
+      "name": "Quinto Vercellese",
+      "latitude": "45.37920000",
+      "longitude": "8.36210000"
+    },
+    {
+      "id": 59257,
+      "name": "Racconigi",
+      "latitude": "44.76598000",
+      "longitude": "7.67893000"
+    },
+    {
+      "id": 59289,
+      "name": "Rassa",
+      "latitude": "45.76821000",
+      "longitude": "8.01208000"
+    },
+    {
+      "id": 59303,
+      "name": "Re",
+      "latitude": "46.13148000",
+      "longitude": "8.54569000"
+    },
+    {
+      "id": 59308,
+      "name": "Reano",
+      "latitude": "45.05217000",
+      "longitude": "7.42779000"
+    },
+    {
+      "id": 59312,
+      "name": "Recetto",
+      "latitude": "45.45965000",
+      "longitude": "8.43503000"
+    },
+    {
+      "id": 59316,
+      "name": "Refrancore",
+      "latitude": "44.93635000",
+      "longitude": "8.34084000"
+    },
+    {
+      "id": 59340,
+      "name": "Revello",
+      "latitude": "44.65451000",
+      "longitude": "7.39026000"
+    },
+    {
+      "id": 59342,
+      "name": "Revigliasco",
+      "latitude": "45.01589000",
+      "longitude": "7.73306000"
+    },
+    {
+      "id": 59343,
+      "name": "Revigliasco d'Asti",
+      "latitude": "44.85755000",
+      "longitude": "8.16044000"
+    },
+    {
+      "id": 59361,
+      "name": "Ribordone",
+      "latitude": "45.43255000",
+      "longitude": "7.50231000"
+    },
+    {
+      "id": 59363,
+      "name": "Ricaldone",
+      "latitude": "44.73235000",
+      "longitude": "8.46814000"
+    },
+    {
+      "id": 59364,
+      "name": "Ricca",
+      "latitude": "44.66127000",
+      "longitude": "8.04527000"
+    },
+    {
+      "id": 59376,
+      "name": "Rifreddo",
+      "latitude": "44.65073000",
+      "longitude": "7.34642000"
+    },
+    {
+      "id": 59382,
+      "name": "Rima",
+      "latitude": "45.88542000",
+      "longitude": "7.99864000"
+    },
+    {
+      "id": 59383,
+      "name": "Rimasco",
+      "latitude": "45.86025000",
+      "longitude": "8.06412000"
+    },
+    {
+      "id": 59384,
+      "name": "Rimella",
+      "latitude": "45.90807000",
+      "longitude": "8.18222000"
+    },
+    {
+      "id": 59414,
+      "name": "Rittana",
+      "latitude": "44.35103000",
+      "longitude": "7.39843000"
+    },
+    {
+      "id": 59415,
+      "name": "Riva",
+      "latitude": "44.89252000",
+      "longitude": "7.38189000"
+    },
+    {
+      "id": 59417,
+      "name": "Riva Presso Chieri",
+      "latitude": "44.98338000",
+      "longitude": "7.87313000"
+    },
+    {
+      "id": 59418,
+      "name": "Riva Valdobbia",
+      "latitude": "45.83097000",
+      "longitude": "7.95661000"
+    },
+    {
+      "id": 59421,
+      "name": "Rivalba",
+      "latitude": "45.11669000",
+      "longitude": "7.88811000"
+    },
+    {
+      "id": 59423,
+      "name": "Rivalta Bormida",
+      "latitude": "44.70975000",
+      "longitude": "8.55175000"
+    },
+    {
+      "id": 59424,
+      "name": "Rivalta di Torino",
+      "latitude": "45.03268000",
+      "longitude": "7.52042000"
+    },
+    {
+      "id": 59427,
+      "name": "Rivara",
+      "latitude": "45.33042000",
+      "longitude": "7.64900000"
+    },
+    {
+      "id": 59428,
+      "name": "Rivarolo Canavese",
+      "latitude": "45.32829000",
+      "longitude": "7.72110000"
+    },
+    {
+      "id": 59431,
+      "name": "Rivarone",
+      "latitude": "44.97686000",
+      "longitude": "8.71565000"
+    },
+    {
+      "id": 59432,
+      "name": "Rivarossa",
+      "latitude": "45.24954000",
+      "longitude": "7.71953000"
+    },
+    {
+      "id": 59434,
+      "name": "Rive",
+      "latitude": "45.21364000",
+      "longitude": "8.41701000"
+    },
+    {
+      "id": 59441,
+      "name": "Rivoli",
+      "latitude": "45.07073000",
+      "longitude": "7.51465000"
+    },
+    {
+      "id": 59448,
+      "name": "Roapiana",
+      "latitude": "44.34079000",
+      "longitude": "7.82329000"
+    },
+    {
+      "id": 59449,
+      "name": "Roaschia",
+      "latitude": "44.27023000",
+      "longitude": "7.45573000"
+    },
+    {
+      "id": 59450,
+      "name": "Roascio",
+      "latitude": "44.41714000",
+      "longitude": "8.02234000"
+    },
+    {
+      "id": 59451,
+      "name": "Roasio",
+      "latitude": "45.60457000",
+      "longitude": "8.28482000"
+    },
+    {
+      "id": 59452,
+      "name": "Roata Rossi",
+      "latitude": "44.44383000",
+      "longitude": "7.52572000"
+    },
+    {
+      "id": 59453,
+      "name": "Roatto",
+      "latitude": "44.95205000",
+      "longitude": "8.02693000"
+    },
+    {
+      "id": 59454,
+      "name": "Robassomero",
+      "latitude": "45.19841000",
+      "longitude": "7.56754000"
+    },
+    {
+      "id": 59462,
+      "name": "Robella",
+      "latitude": "45.10165000",
+      "longitude": "8.10193000"
+    },
+    {
+      "id": 59463,
+      "name": "Robilante",
+      "latitude": "44.29288000",
+      "longitude": "7.51367000"
+    },
+    {
+      "id": 59464,
+      "name": "Roburent",
+      "latitude": "44.30633000",
+      "longitude": "7.89224000"
+    },
+    {
+      "id": 59465,
+      "name": "Rocca Canavese",
+      "latitude": "45.30870000",
+      "longitude": "7.57875000"
+    },
+    {
+      "id": 59467,
+      "name": "Rocca Cigliè",
+      "latitude": "44.44523000",
+      "longitude": "7.95094000"
+    },
+    {
+      "id": 59481,
+      "name": "Rocca d'Arazzo",
+      "latitude": "44.87205000",
+      "longitude": "8.28464000"
+    },
+    {
+      "id": 59468,
+      "name": "Rocca De' Baldi",
+      "latitude": "44.42363000",
+      "longitude": "7.76114000"
+    },
+    {
+      "id": 59469,
+      "name": "Rocca Grimalda",
+      "latitude": "44.67145000",
+      "longitude": "8.64845000"
+    },
+    {
+      "id": 59493,
+      "name": "Roccabruna",
+      "latitude": "44.47453000",
+      "longitude": "7.34373000"
+    },
+    {
+      "id": 59497,
+      "name": "Roccaforte Ligure",
+      "latitude": "44.67780000",
+      "longitude": "9.02800000"
+    },
+    {
+      "id": 59498,
+      "name": "Roccaforte Mondovì",
+      "latitude": "44.31721000",
+      "longitude": "7.74426000"
+    },
+    {
+      "id": 59523,
+      "name": "Roccasparvera",
+      "latitude": "44.34213000",
+      "longitude": "7.44153000"
+    },
+    {
+      "id": 59527,
+      "name": "Roccaverano",
+      "latitude": "44.59224000",
+      "longitude": "8.27214000"
+    },
+    {
+      "id": 59529,
+      "name": "Roccavione",
+      "latitude": "44.31355000",
+      "longitude": "7.47845000"
+    },
+    {
+      "id": 59536,
+      "name": "Rocchetta Belbo",
+      "latitude": "44.63604000",
+      "longitude": "8.17534000"
+    },
+    {
+      "id": 59537,
+      "name": "Rocchetta Ligure",
+      "latitude": "44.70655000",
+      "longitude": "9.05046000"
+    },
+    {
+      "id": 59540,
+      "name": "Rocchetta Palafea",
+      "latitude": "44.70744000",
+      "longitude": "8.34534000"
+    },
+    {
+      "id": 59542,
+      "name": "Rocchetta Tanaro",
+      "latitude": "44.85865000",
+      "longitude": "8.34564000"
+    },
+    {
+      "id": 59545,
+      "name": "Roddi",
+      "latitude": "44.67964000",
+      "longitude": "7.97544000"
+    },
+    {
+      "id": 59546,
+      "name": "Roddino",
+      "latitude": "44.57384000",
+      "longitude": "8.01914000"
+    },
+    {
+      "id": 59548,
+      "name": "Rodello",
+      "latitude": "44.62854000",
+      "longitude": "8.05684000"
+    },
+    {
+      "id": 59568,
+      "name": "Roletto",
+      "latitude": "44.92444000",
+      "longitude": "7.33232000"
+    },
+    {
+      "id": 59571,
+      "name": "Romagnano Sesia",
+      "latitude": "45.63279000",
+      "longitude": "8.38697000"
+    },
+    {
+      "id": 59577,
+      "name": "Romano Canavese",
+      "latitude": "45.39925000",
+      "longitude": "7.86885000"
+    },
+    {
+      "id": 59584,
+      "name": "Romentino",
+      "latitude": "45.46296000",
+      "longitude": "8.71811000"
+    },
+    {
+      "id": 59602,
+      "name": "Ronco Biellese",
+      "latitude": "45.57846000",
+      "longitude": "8.09072000"
+    },
+    {
+      "id": 59604,
+      "name": "Ronco Canavese",
+      "latitude": "45.50081000",
+      "longitude": "7.54702000"
+    },
+    {
+      "id": 59615,
+      "name": "Rondissone",
+      "latitude": "45.24630000",
+      "longitude": "7.96426000"
+    },
+    {
+      "id": 59616,
+      "name": "Ronsecco",
+      "latitude": "45.25284000",
+      "longitude": "8.27749000"
+    },
+    {
+      "id": 59620,
+      "name": "Roppolo",
+      "latitude": "45.42056000",
+      "longitude": "8.06972000"
+    },
+    {
+      "id": 59622,
+      "name": "Rorà",
+      "latitude": "44.79214000",
+      "longitude": "7.19902000"
+    },
+    {
+      "id": 59621,
+      "name": "Roreto",
+      "latitude": "44.66932000",
+      "longitude": "7.83423000"
+    },
+    {
+      "id": 59628,
+      "name": "Rosazza",
+      "latitude": "45.67576000",
+      "longitude": "7.97712000"
+    },
+    {
+      "id": 59640,
+      "name": "Rosignano Monferrato",
+      "latitude": "45.08055000",
+      "longitude": "8.39974000"
+    },
+    {
+      "id": 59645,
+      "name": "Rossa",
+      "latitude": "45.83327000",
+      "longitude": "8.12432000"
+    },
+    {
+      "id": 59646,
+      "name": "Rossana",
+      "latitude": "44.54470000",
+      "longitude": "7.43193000"
+    },
+    {
+      "id": 59652,
+      "name": "Rosta",
+      "latitude": "45.06795000",
+      "longitude": "7.46512000"
+    },
+    {
+      "id": 59666,
+      "name": "Roure",
+      "latitude": "45.00214000",
+      "longitude": "7.13161000"
+    },
+    {
+      "id": 59668,
+      "name": "Rovasenda",
+      "latitude": "45.53866000",
+      "longitude": "8.31592000"
+    },
+    {
+      "id": 59691,
+      "name": "Rubiana",
+      "latitude": "45.13622000",
+      "longitude": "7.38439000"
+    },
+    {
+      "id": 59695,
+      "name": "Rueglio",
+      "latitude": "45.46826000",
+      "longitude": "7.75462000"
+    },
+    {
+      "id": 59697,
+      "name": "Ruffia",
+      "latitude": "44.70598000",
+      "longitude": "7.60391000"
+    },
+    {
+      "id": 59712,
+      "name": "Sabbia",
+      "latitude": "45.85720000",
+      "longitude": "8.23580000"
+    },
+    {
+      "id": 59724,
+      "name": "Sagliano Micca",
+      "latitude": "45.62576000",
+      "longitude": "8.04332000"
+    },
+    {
+      "id": 59740,
+      "name": "Sala Biellese",
+      "latitude": "45.50856000",
+      "longitude": "7.95800000"
+    },
+    {
+      "id": 59744,
+      "name": "Sala Monferrato",
+      "latitude": "45.07546000",
+      "longitude": "8.36119000"
+    },
+    {
+      "id": 59749,
+      "name": "Salasco",
+      "latitude": "45.32556000",
+      "longitude": "8.26423000"
+    },
+    {
+      "id": 59750,
+      "name": "Salassa",
+      "latitude": "45.36175000",
+      "longitude": "7.68297000"
+    },
+    {
+      "id": 59751,
+      "name": "Salbertrand",
+      "latitude": "45.07350000",
+      "longitude": "6.88744000"
+    },
+    {
+      "id": 59754,
+      "name": "Sale",
+      "latitude": "44.97932000",
+      "longitude": "8.80963000"
+    },
+    {
+      "id": 59757,
+      "name": "Sale delle Langhe",
+      "latitude": "44.39523000",
+      "longitude": "8.08014000"
+    },
+    {
+      "id": 59756,
+      "name": "Sale San Giovanni",
+      "latitude": "44.39914000",
+      "longitude": "8.07794000"
+    },
+    {
+      "id": 59760,
+      "name": "Salerano Canavese",
+      "latitude": "45.45806000",
+      "longitude": "7.85112000"
+    },
+    {
+      "id": 59766,
+      "name": "Sali Vercellese",
+      "latitude": "45.30986000",
+      "longitude": "8.32893000"
+    },
+    {
+      "id": 59769,
+      "name": "Saliceto",
+      "latitude": "44.41334000",
+      "longitude": "8.16864000"
+    },
+    {
+      "id": 59778,
+      "name": "Salmour",
+      "latitude": "44.57556000",
+      "longitude": "7.79148000"
+    },
+    {
+      "id": 59784,
+      "name": "Saluggia",
+      "latitude": "45.23687000",
+      "longitude": "8.01460000"
+    },
+    {
+      "id": 59785,
+      "name": "Salussola",
+      "latitude": "45.44666000",
+      "longitude": "8.11100000"
+    },
+    {
+      "id": 59786,
+      "name": "Saluzzo",
+      "latitude": "44.64671000",
+      "longitude": "7.49309000"
+    },
+    {
+      "id": 59794,
+      "name": "Salza di Pinerolo",
+      "latitude": "44.94004000",
+      "longitude": "7.05241000"
+    },
+    {
+      "id": 59808,
+      "name": "Sambuco",
+      "latitude": "44.33510000",
+      "longitude": "7.07878000"
+    },
+    {
+      "id": 59813,
+      "name": "Samone",
+      "latitude": "45.44914000",
+      "longitude": "7.84198000"
+    },
+    {
+      "id": 59815,
+      "name": "Sampeyre",
+      "latitude": "44.57846000",
+      "longitude": "7.19039000"
+    },
+    {
+      "id": 59827,
+      "name": "San Benedetto Belbo",
+      "latitude": "44.49014000",
+      "longitude": "8.05784000"
+    },
+    {
+      "id": 59834,
+      "name": "San Benigno Canavese",
+      "latitude": "45.22617000",
+      "longitude": "7.78427000"
+    },
+    {
+      "id": 59835,
+      "name": "San Bernardino Verbano",
+      "latitude": "45.95638000",
+      "longitude": "8.51922000"
+    },
+    {
+      "id": 59855,
+      "name": "San Carlo Canavese",
+      "latitude": "45.24455000",
+      "longitude": "7.60572000"
+    },
+    {
+      "id": 59876,
+      "name": "San Colombano Belmonte",
+      "latitude": "45.38225000",
+      "longitude": "7.62101000"
+    },
+    {
+      "id": 59883,
+      "name": "San Cristoforo",
+      "latitude": "44.69304000",
+      "longitude": "8.74939000"
+    },
+    {
+      "id": 59887,
+      "name": "San Damiano d'Asti",
+      "latitude": "44.83344000",
+      "longitude": "8.06353000"
+    },
+    {
+      "id": 59885,
+      "name": "San Damiano Macra",
+      "latitude": "44.48848000",
+      "longitude": "7.25606000"
+    },
+    {
+      "id": 59890,
+      "name": "San Defendente",
+      "latitude": "44.39088000",
+      "longitude": "7.49091000"
+    },
+    {
+      "id": 59893,
+      "name": "San Didero",
+      "latitude": "45.13544000",
+      "longitude": "7.21301000"
+    },
+    {
+      "id": 59927,
+      "name": "San Francesco al Campo",
+      "latitude": "45.22732000",
+      "longitude": "7.65479000"
+    },
+    {
+      "id": 59936,
+      "name": "San Germano Chisone",
+      "latitude": "44.90204000",
+      "longitude": "7.23662000"
+    },
+    {
+      "id": 59937,
+      "name": "San Germano Vercellese",
+      "latitude": "45.35090000",
+      "longitude": "8.24717000"
+    },
+    {
+      "id": 59945,
+      "name": "San Giacomo Vercellese",
+      "latitude": "45.49816000",
+      "longitude": "8.32673000"
+    },
+    {
+      "id": 59948,
+      "name": "San Gillio",
+      "latitude": "45.14050000",
+      "longitude": "7.53285000"
+    },
+    {
+      "id": 59953,
+      "name": "San Giorgio",
+      "latitude": "45.10778000",
+      "longitude": "8.41421000"
+    },
+    {
+      "id": 59955,
+      "name": "San Giorgio Canavese",
+      "latitude": "45.33557000",
+      "longitude": "7.79823000"
+    },
+    {
+      "id": 59958,
+      "name": "San Giorgio Monferrato",
+      "latitude": "45.10735000",
+      "longitude": "8.41614000"
+    },
+    {
+      "id": 59961,
+      "name": "San Giorgio Scarampi",
+      "latitude": "44.61094000",
+      "longitude": "8.24244000"
+    },
+    {
+      "id": 59977,
+      "name": "San Giorio",
+      "latitude": "45.12752000",
+      "longitude": "7.17683000"
+    },
+    {
+      "id": 60006,
+      "name": "San Giuliano Vecchio",
+      "latitude": "44.88902000",
+      "longitude": "8.76057000"
+    },
+    {
+      "id": 60010,
+      "name": "San Giuseppe",
+      "latitude": "45.14701000",
+      "longitude": "7.04271000"
+    },
+    {
+      "id": 60017,
+      "name": "San Giusto Canavese",
+      "latitude": "45.31535000",
+      "longitude": "7.81001000"
+    },
+    {
+      "id": 60037,
+      "name": "San Lorenzo",
+      "latitude": "46.12720000",
+      "longitude": "8.20065000"
+    },
+    {
+      "id": 60071,
+      "name": "San Martino Alfieri",
+      "latitude": "44.81795000",
+      "longitude": "8.10994000"
+    },
+    {
+      "id": 60074,
+      "name": "San Martino Canavese",
+      "latitude": "45.39453000",
+      "longitude": "7.81622000"
+    },
+    {
+      "id": 60098,
+      "name": "San Marzano Oliveto",
+      "latitude": "44.75445000",
+      "longitude": "8.29534000"
+    },
+    {
+      "id": 60102,
+      "name": "San Maurizio",
+      "latitude": "45.21705000",
+      "longitude": "7.63052000"
+    },
+    {
+      "id": 60103,
+      "name": "San Maurizio D'Opaglio",
+      "latitude": "45.77299000",
+      "longitude": "8.39599000"
+    },
+    {
+      "id": 60110,
+      "name": "San Mauro Torinese",
+      "latitude": "45.10359000",
+      "longitude": "7.76803000"
+    },
+    {
+      "id": 60118,
+      "name": "San Michele Mondovì",
+      "latitude": "44.37595000",
+      "longitude": "7.90829000"
+    },
+    {
+      "id": 60131,
+      "name": "San Nazzaro Sesia",
+      "latitude": "45.43804000",
+      "longitude": "8.42498000"
+    },
+    {
+      "id": 60159,
+      "name": "San Paolo Solbrito",
+      "latitude": "44.95065000",
+      "longitude": "7.97073000"
+    },
+    {
+      "id": 60180,
+      "name": "San Pietro Mosezzo",
+      "latitude": "45.45455000",
+      "longitude": "8.54450000"
+    },
+    {
+      "id": 60182,
+      "name": "San Pietro Val Lemina",
+      "latitude": "44.90654000",
+      "longitude": "7.31092000"
+    },
+    {
+      "id": 60209,
+      "name": "San Ponso",
+      "latitude": "45.35101000",
+      "longitude": "7.67111000"
+    },
+    {
+      "id": 60219,
+      "name": "San Raffaele Cimena",
+      "latitude": "45.14665000",
+      "longitude": "7.84932000"
+    },
+    {
+      "id": 60223,
+      "name": "San Rocco",
+      "latitude": "44.39653000",
+      "longitude": "7.47230000"
+    },
+    {
+      "id": 60231,
+      "name": "San Salvatore Monferrato",
+      "latitude": "44.99489000",
+      "longitude": "8.56639000"
+    },
+    {
+      "id": 60236,
+      "name": "San Sebastiano Curone",
+      "latitude": "44.78633000",
+      "longitude": "9.06446000"
+    },
+    {
+      "id": 60238,
+      "name": "San Sebastiano da Po",
+      "latitude": "45.16755000",
+      "longitude": "7.95723000"
+    },
+    {
+      "id": 60241,
+      "name": "San Secondo di Pinerolo",
+      "latitude": "44.86644000",
+      "longitude": "7.29842000"
+    },
+    {
+      "id": 60299,
+      "name": "Sandigliano",
+      "latitude": "45.52204000",
+      "longitude": "8.07660000"
+    },
+    {
+      "id": 60303,
+      "name": "Sanfrè",
+      "latitude": "44.75180000",
+      "longitude": "7.80289000"
+    },
+    {
+      "id": 60302,
+      "name": "Sanfront",
+      "latitude": "44.64698000",
+      "longitude": "7.32243000"
+    },
+    {
+      "id": 60304,
+      "name": "Sangano",
+      "latitude": "45.02508000",
+      "longitude": "7.44987000"
+    },
+    {
+      "id": 60317,
+      "name": "Sant'Agata Fossili",
+      "latitude": "44.78475000",
+      "longitude": "8.92115000"
+    },
+    {
+      "id": 60329,
+      "name": "Sant'Albano Stura",
+      "latitude": "44.50759000",
+      "longitude": "7.72282000"
+    },
+    {
+      "id": 60337,
+      "name": "Sant'Ambrogio di Torino",
+      "latitude": "45.09622000",
+      "longitude": "7.36600000"
+    },
+    {
+      "id": 60378,
+      "name": "Sant'Antonino di Susa",
+      "latitude": "45.10763000",
+      "longitude": "7.27333000"
+    },
+    {
+      "id": 60381,
+      "name": "Sant'Antonio",
+      "latitude": "44.75887000",
+      "longitude": "8.06996000"
+    },
+    {
+      "id": 60466,
+      "name": "Santa Maria Maggiore",
+      "latitude": "46.13683000",
+      "longitude": "8.46108000"
+    },
+    {
+      "id": 60500,
+      "name": "Santa Vittoria d'Alba",
+      "latitude": "44.69864000",
+      "longitude": "7.93733000"
+    },
+    {
+      "id": 60505,
+      "name": "Santena",
+      "latitude": "44.94624000",
+      "longitude": "7.77303000"
+    },
+    {
+      "id": 60508,
+      "name": "Santhià",
+      "latitude": "45.36795000",
+      "longitude": "8.17012000"
+    },
+    {
+      "id": 60510,
+      "name": "Santino",
+      "latitude": "45.95606000",
+      "longitude": "8.51914000"
+    },
+    {
+      "id": 60512,
+      "name": "Santo Stefano Belbo",
+      "latitude": "44.71023000",
+      "longitude": "8.23269000"
+    },
+    {
+      "id": 60515,
+      "name": "Santo Stefano Roero",
+      "latitude": "44.78844000",
+      "longitude": "7.94093000"
+    },
+    {
+      "id": 60544,
+      "name": "Sardigliano",
+      "latitude": "44.75240000",
+      "longitude": "8.89575000"
+    },
+    {
+      "id": 60547,
+      "name": "Sarezzano",
+      "latitude": "44.86878000",
+      "longitude": "8.91237000"
+    },
+    {
+      "id": 60581,
+      "name": "Sauze d'Oulx",
+      "latitude": "45.02659000",
+      "longitude": "6.86074000"
+    },
+    {
+      "id": 60582,
+      "name": "Sauze di Cesana",
+      "latitude": "44.94058000",
+      "longitude": "6.85988000"
+    },
+    {
+      "id": 60587,
+      "name": "Savigliano",
+      "latitude": "44.64808000",
+      "longitude": "7.65677000"
+    },
+    {
+      "id": 60600,
+      "name": "Savonera",
+      "latitude": "45.11368000",
+      "longitude": "7.61506000"
+    },
+    {
+      "id": 60603,
+      "name": "Scagnello",
+      "latitude": "44.33333000",
+      "longitude": "7.98644000"
+    },
+    {
+      "id": 60608,
+      "name": "Scalenghe",
+      "latitude": "44.88990000",
+      "longitude": "7.49423000"
+    },
+    {
+      "id": 60634,
+      "name": "Scarmagno",
+      "latitude": "45.38492000",
+      "longitude": "7.84110000"
+    },
+    {
+      "id": 60635,
+      "name": "Scarnafigi",
+      "latitude": "44.67944000",
+      "longitude": "7.56513000"
+    },
+    {
+      "id": 60657,
+      "name": "Sciolze",
+      "latitude": "45.09453000",
+      "longitude": "7.87818000"
+    },
+    {
+      "id": 60663,
+      "name": "Scopa",
+      "latitude": "45.79297000",
+      "longitude": "8.11402000"
+    },
+    {
+      "id": 60664,
+      "name": "Scopello",
+      "latitude": "45.77369000",
+      "longitude": "8.09435000"
+    },
+    {
+      "id": 60672,
+      "name": "Scurzolengo",
+      "latitude": "44.96485000",
+      "longitude": "8.27914000"
+    },
+    {
+      "id": 60711,
+      "name": "Selve Marcone",
+      "latitude": "45.61976000",
+      "longitude": "8.08742000"
+    },
+    {
+      "id": 60733,
+      "name": "Seppiana",
+      "latitude": "46.05828000",
+      "longitude": "8.21661000"
+    },
+    {
+      "id": 60748,
+      "name": "Serole",
+      "latitude": "44.55404000",
+      "longitude": "8.25974000"
+    },
+    {
+      "id": 60760,
+      "name": "Serralunga d'Alba",
+      "latitude": "44.61004000",
+      "longitude": "7.99944000"
+    },
+    {
+      "id": 60761,
+      "name": "Serralunga di Crea",
+      "latitude": "45.10110000",
+      "longitude": "8.28069000"
+    },
+    {
+      "id": 60772,
+      "name": "Serravalle Langhe",
+      "latitude": "44.55995000",
+      "longitude": "8.05944000"
+    },
+    {
+      "id": 60774,
+      "name": "Serravalle Scrivia",
+      "latitude": "44.72277000",
+      "longitude": "8.85635000"
+    },
+    {
+      "id": 60775,
+      "name": "Serravalle Sesia",
+      "latitude": "45.68485000",
+      "longitude": "8.30850000"
+    },
+    {
+      "id": 60779,
+      "name": "Serre",
+      "latitude": "44.54033000",
+      "longitude": "7.09032000"
+    },
+    {
+      "id": 60790,
+      "name": "Sessame",
+      "latitude": "44.67064000",
+      "longitude": "8.33684000"
+    },
+    {
+      "id": 60804,
+      "name": "Sestriere",
+      "latitude": "44.95864000",
+      "longitude": "6.87751000"
+    },
+    {
+      "id": 60809,
+      "name": "Settime",
+      "latitude": "44.96175000",
+      "longitude": "8.11433000"
+    },
+    {
+      "id": 60813,
+      "name": "Settimo Rottaro",
+      "latitude": "45.40776000",
+      "longitude": "7.99352000"
+    },
+    {
+      "id": 60815,
+      "name": "Settimo Torinese",
+      "latitude": "45.13925000",
+      "longitude": "7.77008000"
+    },
+    {
+      "id": 60816,
+      "name": "Settimo Vittone",
+      "latitude": "45.54929000",
+      "longitude": "7.83328000"
+    },
+    {
+      "id": 60823,
+      "name": "Sezzadio",
+      "latitude": "44.78485000",
+      "longitude": "8.57255000"
+    },
+    {
+      "id": 60854,
+      "name": "Sillavengo",
+      "latitude": "45.52067000",
+      "longitude": "8.44103000"
+    },
+    {
+      "id": 60856,
+      "name": "Silvano d'Orba",
+      "latitude": "44.68580000",
+      "longitude": "8.67182000"
+    },
+    {
+      "id": 60867,
+      "name": "Sinio",
+      "latitude": "44.60034000",
+      "longitude": "8.01994000"
+    },
+    {
+      "id": 60886,
+      "name": "Sizzano",
+      "latitude": "45.57663000",
+      "longitude": "8.43613000"
+    },
+    {
+      "id": 60898,
+      "name": "Soglio",
+      "latitude": "44.99625000",
+      "longitude": "8.07843000"
+    },
+    {
+      "id": 60914,
+      "name": "Solero",
+      "latitude": "44.91835000",
+      "longitude": "8.50754000"
+    },
+    {
+      "id": 60922,
+      "name": "Solonghello",
+      "latitude": "45.12905000",
+      "longitude": "8.28323000"
+    },
+    {
+      "id": 60927,
+      "name": "Somano",
+      "latitude": "44.53534000",
+      "longitude": "8.00784000"
+    },
+    {
+      "id": 60932,
+      "name": "Sommariva del Bosco",
+      "latitude": "44.77257000",
+      "longitude": "7.78177000"
+    },
+    {
+      "id": 60931,
+      "name": "Sommariva Perno",
+      "latitude": "44.74564000",
+      "longitude": "7.90063000"
+    },
+    {
+      "id": 60943,
+      "name": "Soprana",
+      "latitude": "45.63947000",
+      "longitude": "8.19892000"
+    },
+    {
+      "id": 60952,
+      "name": "Sordevolo",
+      "latitude": "45.57346000",
+      "longitude": "7.97342000"
+    },
+    {
+      "id": 60962,
+      "name": "Soriso",
+      "latitude": "45.74037000",
+      "longitude": "8.40953000"
+    },
+    {
+      "id": 60972,
+      "name": "Sostegno",
+      "latitude": "45.65287000",
+      "longitude": "8.26982000"
+    },
+    {
+      "id": 60987,
+      "name": "Sozzago",
+      "latitude": "45.39832000",
+      "longitude": "8.72271000"
+    },
+    {
+      "id": 60991,
+      "name": "Sparone",
+      "latitude": "45.41442000",
+      "longitude": "7.54516000"
+    },
+    {
+      "id": 61007,
+      "name": "Spigno Monferrato",
+      "latitude": "44.54314000",
+      "longitude": "8.33395000"
+    },
+    {
+      "id": 61018,
+      "name": "Spineto Scrivia",
+      "latitude": "44.83735000",
+      "longitude": "8.87375000"
+    },
+    {
+      "id": 61020,
+      "name": "Spinetta Marengo",
+      "latitude": "44.88554000",
+      "longitude": "8.67750000"
+    },
+    {
+      "id": 61038,
+      "name": "Staffa",
+      "latitude": "45.96855000",
+      "longitude": "7.96708000"
+    },
+    {
+      "id": 61058,
+      "name": "Stazzano",
+      "latitude": "44.72728000",
+      "longitude": "8.86846000"
+    },
+    {
+      "id": 61087,
+      "name": "Strambinello",
+      "latitude": "45.42306000",
+      "longitude": "7.76992000"
+    },
+    {
+      "id": 61088,
+      "name": "Strambino",
+      "latitude": "45.37990000",
+      "longitude": "7.88967000"
+    },
+    {
+      "id": 61093,
+      "name": "Stresa",
+      "latitude": "45.88158000",
+      "longitude": "8.53834000"
+    },
+    {
+      "id": 61095,
+      "name": "Strevi",
+      "latitude": "44.69985000",
+      "longitude": "8.52470000"
+    },
+    {
+      "id": 61100,
+      "name": "Stroppiana",
+      "latitude": "45.23037000",
+      "longitude": "8.45461000"
+    },
+    {
+      "id": 61101,
+      "name": "Stroppo",
+      "latitude": "44.50653000",
+      "longitude": "7.12652000"
+    },
+    {
+      "id": 61122,
+      "name": "Suno",
+      "latitude": "45.63137000",
+      "longitude": "8.54437000"
+    },
+    {
+      "id": 61128,
+      "name": "Susa",
+      "latitude": "45.13677000",
+      "longitude": "7.05809000"
+    },
+    {
+      "id": 61143,
+      "name": "Tagliaferro",
+      "latitude": "44.97850000",
+      "longitude": "7.66430000"
+    },
+    {
+      "id": 61146,
+      "name": "Tagliolo Monferrato",
+      "latitude": "44.63835000",
+      "longitude": "8.66585000"
+    },
+    {
+      "id": 61164,
+      "name": "Tarantasca",
+      "latitude": "44.49322000",
+      "longitude": "7.54459000"
+    },
+    {
+      "id": 61172,
+      "name": "Tassarolo",
+      "latitude": "44.72811000",
+      "longitude": "8.77164000"
+    },
+    {
+      "id": 61179,
+      "name": "Tavagnasco",
+      "latitude": "45.54448000",
+      "longitude": "7.82293000"
+    },
+    {
+      "id": 61194,
+      "name": "Tavigliano",
+      "latitude": "45.62206000",
+      "longitude": "8.05172000"
+    },
+    {
+      "id": 61218,
+      "name": "Terdobbiate",
+      "latitude": "45.37588000",
+      "longitude": "8.69458000"
+    },
+    {
+      "id": 61231,
+      "name": "Ternengo",
+      "latitude": "45.58896000",
+      "longitude": "8.11372000"
+    },
+    {
+      "id": 61253,
+      "name": "Terruggia",
+      "latitude": "45.08199000",
+      "longitude": "8.44428000"
+    },
+    {
+      "id": 61256,
+      "name": "Terzo",
+      "latitude": "44.67045000",
+      "longitude": "8.42164000"
+    },
+    {
+      "id": 61266,
+      "name": "Tetti Neirotti",
+      "latitude": "45.05338000",
+      "longitude": "7.54077000"
+    },
+    {
+      "id": 61267,
+      "name": "Tettorosso",
+      "latitude": "44.47284000",
+      "longitude": "7.34291000"
+    },
+    {
+      "id": 61275,
+      "name": "Ticineto",
+      "latitude": "45.09627000",
+      "longitude": "8.55315000"
+    },
+    {
+      "id": 61278,
+      "name": "Tigliole",
+      "latitude": "44.88625000",
+      "longitude": "8.07663000"
+    },
+    {
+      "id": 61294,
+      "name": "Toceno",
+      "latitude": "46.14468000",
+      "longitude": "8.46902000"
+    },
+    {
+      "id": 61300,
+      "name": "Tollegno",
+      "latitude": "45.59077000",
+      "longitude": "8.05089000"
+    },
+    {
+      "id": 61308,
+      "name": "Tonco",
+      "latitude": "45.02344000",
+      "longitude": "8.18942000"
+    },
+    {
+      "id": 61309,
+      "name": "Tonengo",
+      "latitude": "45.11765000",
+      "longitude": "8.00213000"
+    },
+    {
+      "id": 61310,
+      "name": "Tonengo-Casale",
+      "latitude": "45.28609000",
+      "longitude": "7.93964000"
+    },
+    {
+      "id": 61329,
+      "name": "Torino",
+      "latitude": "45.13333000",
+      "longitude": "7.36667000"
+    },
+    {
+      "id": 61333,
+      "name": "Tornaco",
+      "latitude": "45.35651000",
+      "longitude": "8.71745000"
+    },
+    {
+      "id": 61344,
+      "name": "Torrazza Piemonte",
+      "latitude": "45.21535000",
+      "longitude": "7.97673000"
+    },
+    {
+      "id": 61346,
+      "name": "Torrazzo",
+      "latitude": "45.49874000",
+      "longitude": "7.95428000"
+    },
+    {
+      "id": 61350,
+      "name": "Torre Bormida",
+      "latitude": "44.56274000",
+      "longitude": "8.15444000"
+    },
+    {
+      "id": 61352,
+      "name": "Torre Canavese",
+      "latitude": "45.39206000",
+      "longitude": "7.75982000"
+    },
+    {
+      "id": 61356,
+      "name": "Torre Mondovì",
+      "latitude": "44.35283000",
+      "longitude": "7.89964000"
+    },
+    {
+      "id": 61359,
+      "name": "Torre Pellice",
+      "latitude": "44.82102000",
+      "longitude": "7.21672000"
+    },
+    {
+      "id": 61360,
+      "name": "Torre San Giorgio",
+      "latitude": "44.73574000",
+      "longitude": "7.52813000"
+    },
+    {
+      "id": 61388,
+      "name": "Torresina",
+      "latitude": "44.43364000",
+      "longitude": "8.03674000"
+    },
+    {
+      "id": 61407,
+      "name": "Torrion Quartara",
+      "latitude": "45.41819000",
+      "longitude": "8.61472000"
+    },
+    {
+      "id": 61412,
+      "name": "Tortona",
+      "latitude": "44.89784000",
+      "longitude": "8.86374000"
+    },
+    {
+      "id": 61436,
+      "name": "Trana",
+      "latitude": "45.03862000",
+      "longitude": "7.42100000"
+    },
+    {
+      "id": 61442,
+      "name": "Trarego",
+      "latitude": "46.03435000",
+      "longitude": "8.66998000"
+    },
+    {
+      "id": 61446,
+      "name": "Trasquera",
+      "latitude": "46.21338000",
+      "longitude": "8.21271000"
+    },
+    {
+      "id": 61448,
+      "name": "Trausella",
+      "latitude": "45.48996000",
+      "longitude": "7.76312000"
+    },
+    {
+      "id": 61452,
+      "name": "Traversella",
+      "latitude": "45.50907000",
+      "longitude": "7.74938000"
+    },
+    {
+      "id": 61454,
+      "name": "Traves",
+      "latitude": "45.26795000",
+      "longitude": "7.43081000"
+    },
+    {
+      "id": 61466,
+      "name": "Trecate",
+      "latitude": "45.43399000",
+      "longitude": "8.73640000"
+    },
+    {
+      "id": 61476,
+      "name": "Treiso",
+      "latitude": "44.68974000",
+      "longitude": "8.08814000"
+    },
+    {
+      "id": 61507,
+      "name": "Treville",
+      "latitude": "45.09685000",
+      "longitude": "8.35954000"
+    },
+    {
+      "id": 61512,
+      "name": "Trezzo Tinella",
+      "latitude": "44.67704000",
+      "longitude": "8.10754000"
+    },
+    {
+      "id": 61520,
+      "name": "Tricerro",
+      "latitude": "45.23570000",
+      "longitude": "8.32746000"
+    },
+    {
+      "id": 61529,
+      "name": "Trinità",
+      "latitude": "44.50730000",
+      "longitude": "7.75637000"
+    },
+    {
+      "id": 61532,
+      "name": "Trino",
+      "latitude": "45.19538000",
+      "longitude": "8.29621000"
+    },
+    {
+      "id": 61536,
+      "name": "Trisobbio",
+      "latitude": "44.66063000",
+      "longitude": "8.58621000"
+    },
+    {
+      "id": 61540,
+      "name": "Trivero-Prativero-Ponzone",
+      "latitude": "45.66047000",
+      "longitude": "8.17402000"
+    },
+    {
+      "id": 61548,
+      "name": "Trofarello",
+      "latitude": "44.98238000",
+      "longitude": "7.74688000"
+    },
+    {
+      "id": 61553,
+      "name": "Trontano",
+      "latitude": "46.12248000",
+      "longitude": "8.33322000"
+    },
+    {
+      "id": 61555,
+      "name": "Tronzano Vercellese",
+      "latitude": "45.34226000",
+      "longitude": "8.17368000"
+    },
+    {
+      "id": 61575,
+      "name": "Turin",
+      "latitude": "45.07049000",
+      "longitude": "7.68682000"
+    },
+    {
+      "id": 61617,
+      "name": "Usseaux",
+      "latitude": "45.04894000",
+      "longitude": "7.02851000"
+    },
+    {
+      "id": 61618,
+      "name": "Usseglio",
+      "latitude": "45.23274000",
+      "longitude": "7.21993000"
+    },
+    {
+      "id": 61624,
+      "name": "Vaccheria",
+      "latitude": "44.72700000",
+      "longitude": "8.04295000"
+    },
+    {
+      "id": 61635,
+      "name": "Vaglio Serra",
+      "latitude": "44.79635000",
+      "longitude": "8.33894000"
+    },
+    {
+      "id": 61639,
+      "name": "Vaie",
+      "latitude": "45.10234000",
+      "longitude": "7.28941000"
+    },
+    {
+      "id": 61645,
+      "name": "Val della Torre",
+      "latitude": "45.15515000",
+      "longitude": "7.44501000"
+    },
+    {
+      "id": 61652,
+      "name": "Valdengo",
+      "latitude": "45.56706000",
+      "longitude": "8.13832000"
+    },
+    {
+      "id": 61654,
+      "name": "Valdieri",
+      "latitude": "44.27763000",
+      "longitude": "7.39763000"
+    },
+    {
+      "id": 61659,
+      "name": "Valduggia",
+      "latitude": "45.72722000",
+      "longitude": "8.32730000"
+    },
+    {
+      "id": 61663,
+      "name": "Valentino",
+      "latitude": "45.15558000",
+      "longitude": "8.09391000"
+    },
+    {
+      "id": 61664,
+      "name": "Valenza",
+      "latitude": "45.01242000",
+      "longitude": "8.64379000"
+    },
+    {
+      "id": 61669,
+      "name": "Valfenera",
+      "latitude": "44.90175000",
+      "longitude": "7.96433000"
+    },
+    {
+      "id": 61673,
+      "name": "Valgioie",
+      "latitude": "45.06400000",
+      "longitude": "7.34927000"
+    },
+    {
+      "id": 61675,
+      "name": "Valgrana",
+      "latitude": "44.41181000",
+      "longitude": "7.38068000"
+    },
+    {
+      "id": 61681,
+      "name": "Vallanzengo",
+      "latitude": "45.60327000",
+      "longitude": "8.15042000"
+    },
+    {
+      "id": 61689,
+      "name": "Valle Mosso",
+      "latitude": "45.63069000",
+      "longitude": "8.14764000"
+    },
+    {
+      "id": 61691,
+      "name": "Valle San Bartolomeo",
+      "latitude": "44.95017000",
+      "longitude": "8.64040000"
+    },
+    {
+      "id": 61692,
+      "name": "Valle San Nicolao",
+      "latitude": "45.60706000",
+      "longitude": "8.14102000"
+    },
+    {
+      "id": 61723,
+      "name": "Vallo Torinese",
+      "latitude": "45.22355000",
+      "longitude": "7.49632000"
+    },
+    {
+      "id": 61726,
+      "name": "Valloriate",
+      "latitude": "44.33763000",
+      "longitude": "7.37393000"
+    },
+    {
+      "id": 61728,
+      "name": "Valmacca",
+      "latitude": "45.10101000",
+      "longitude": "8.58382000"
+    },
+    {
+      "id": 61729,
+      "name": "Valmadonna",
+      "latitude": "44.97444000",
+      "longitude": "8.61146000"
+    },
+    {
+      "id": 61731,
+      "name": "Valmala",
+      "latitude": "44.54423000",
+      "longitude": "7.34603000"
+    },
+    {
+      "id": 61736,
+      "name": "Valperga",
+      "latitude": "45.37004000",
+      "longitude": "7.66124000"
+    },
+    {
+      "id": 61737,
+      "name": "Valprato Soana",
+      "latitude": "45.52166000",
+      "longitude": "7.54948000"
+    },
+    {
+      "id": 61741,
+      "name": "Valstrona",
+      "latitude": "45.90767000",
+      "longitude": "8.34322000"
+    },
+    {
+      "id": 61755,
+      "name": "Vanzone",
+      "latitude": "45.97785000",
+      "longitude": "8.10826000"
+    },
+    {
+      "id": 61756,
+      "name": "Vaprio D'Agogna",
+      "latitude": "45.60322000",
+      "longitude": "8.55402000"
+    },
+    {
+      "id": 61759,
+      "name": "Varallo",
+      "latitude": "45.81383000",
+      "longitude": "8.25814000"
+    },
+    {
+      "id": 61760,
+      "name": "Varallo Pombia",
+      "latitude": "45.66784000",
+      "longitude": "8.62850000"
+    },
+    {
+      "id": 61771,
+      "name": "Varisella",
+      "latitude": "45.20835000",
+      "longitude": "7.48381000"
+    },
+    {
+      "id": 61776,
+      "name": "Varzo",
+      "latitude": "46.20736000",
+      "longitude": "8.25267000"
+    },
+    {
+      "id": 61784,
+      "name": "Vauda Canavese Superiore",
+      "latitude": "45.27947000",
+      "longitude": "7.61945000"
+    },
+    {
+      "id": 61797,
+      "name": "Veglio",
+      "latitude": "45.64057000",
+      "longitude": "8.11412000"
+    },
+    {
+      "id": 61809,
+      "name": "Venaria Reale",
+      "latitude": "45.12597000",
+      "longitude": "7.63136000"
+    },
+    {
+      "id": 61811,
+      "name": "Venasca",
+      "latitude": "44.56134000",
+      "longitude": "7.39698000"
+    },
+    {
+      "id": 61812,
+      "name": "Venaus",
+      "latitude": "45.15710000",
+      "longitude": "7.01070000"
+    },
+    {
+      "id": 61834,
+      "name": "Verbania",
+      "latitude": "45.92136000",
+      "longitude": "8.55183000"
+    },
+    {
+      "id": 61838,
+      "name": "Vercelli",
+      "latitude": "45.32163000",
+      "longitude": "8.41989000"
+    },
+    {
+      "id": 61844,
+      "name": "Verduno",
+      "latitude": "44.66614000",
+      "longitude": "7.93074000"
+    },
+    {
+      "id": 61849,
+      "name": "Vergnasco",
+      "latitude": "45.48803000",
+      "longitude": "8.08553000"
+    },
+    {
+      "id": 61853,
+      "name": "Vernante",
+      "latitude": "44.24447000",
+      "longitude": "7.53455000"
+    },
+    {
+      "id": 61861,
+      "name": "Verolengo",
+      "latitude": "45.19040000",
+      "longitude": "7.97126000"
+    },
+    {
+      "id": 61868,
+      "name": "Verrone",
+      "latitude": "45.50824000",
+      "longitude": "8.11514000"
+    },
+    {
+      "id": 61870,
+      "name": "Verrua Savoia",
+      "latitude": "45.15675000",
+      "longitude": "8.09223000"
+    },
+    {
+      "id": 61874,
+      "name": "Veruno",
+      "latitude": "45.68887000",
+      "longitude": "8.52863000"
+    },
+    {
+      "id": 61878,
+      "name": "Verzuolo",
+      "latitude": "44.59279000",
+      "longitude": "7.48164000"
+    },
+    {
+      "id": 61882,
+      "name": "Vesime",
+      "latitude": "44.63535000",
+      "longitude": "8.22683000"
+    },
+    {
+      "id": 61883,
+      "name": "Vespolate",
+      "latitude": "45.34953000",
+      "longitude": "8.66878000"
+    },
+    {
+      "id": 61886,
+      "name": "Vestignè",
+      "latitude": "45.38655000",
+      "longitude": "7.95336000"
+    },
+    {
+      "id": 61892,
+      "name": "Vezza d'Alba",
+      "latitude": "44.76274000",
+      "longitude": "8.00793000"
+    },
+    {
+      "id": 61902,
+      "name": "Viale",
+      "latitude": "45.00015000",
+      "longitude": "8.04993000"
+    },
+    {
+      "id": 61903,
+      "name": "Vialfrè",
+      "latitude": "45.38076000",
+      "longitude": "7.81822000"
+    },
+    {
+      "id": 61906,
+      "name": "Viarigi",
+      "latitude": "44.98055000",
+      "longitude": "8.35714000"
+    },
+    {
+      "id": 61916,
+      "name": "Vico Canavese",
+      "latitude": "45.49342000",
+      "longitude": "7.77887000"
+    },
+    {
+      "id": 61921,
+      "name": "Vicoforte",
+      "latitude": "44.36393000",
+      "longitude": "7.86264000"
+    },
+    {
+      "id": 61923,
+      "name": "Vicolungo",
+      "latitude": "45.47522000",
+      "longitude": "8.46124000"
+    },
+    {
+      "id": 61932,
+      "name": "Vidracco",
+      "latitude": "45.43066000",
+      "longitude": "7.75742000"
+    },
+    {
+      "id": 61936,
+      "name": "Viganella",
+      "latitude": "46.05173000",
+      "longitude": "8.19374000"
+    },
+    {
+      "id": 61951,
+      "name": "Vigliano Biellese",
+      "latitude": "45.56317000",
+      "longitude": "8.10509000"
+    },
+    {
+      "id": 61952,
+      "name": "Vigliano d'Asti",
+      "latitude": "44.83405000",
+      "longitude": "8.22914000"
+    },
+    {
+      "id": 61956,
+      "name": "Vignale Monferrato",
+      "latitude": "45.00996000",
+      "longitude": "8.39703000"
+    },
+    {
+      "id": 61963,
+      "name": "Vignole Borbera",
+      "latitude": "44.70819000",
+      "longitude": "8.89026000"
+    },
+    {
+      "id": 61965,
+      "name": "Vignolo",
+      "latitude": "44.36364000",
+      "longitude": "7.47208000"
+    },
+    {
+      "id": 61966,
+      "name": "Vignone",
+      "latitude": "45.96118000",
+      "longitude": "8.56372000"
+    },
+    {
+      "id": 61974,
+      "name": "Vigone",
+      "latitude": "44.84236000",
+      "longitude": "7.49774000"
+    },
+    {
+      "id": 61979,
+      "name": "Viguzzolo",
+      "latitude": "44.90567000",
+      "longitude": "8.91968000"
+    },
+    {
+      "id": 61982,
+      "name": "Villa",
+      "latitude": "44.74606000",
+      "longitude": "7.90066000"
+    },
+    {
+      "id": 62038,
+      "name": "Villa del Bosco",
+      "latitude": "45.61669000",
+      "longitude": "8.27776000"
+    },
+    {
+      "id": 62021,
+      "name": "Villa San Secondo",
+      "latitude": "45.00513000",
+      "longitude": "8.13462000"
+    },
+    {
+      "id": 62044,
+      "name": "Villa-Borgo",
+      "latitude": "44.69865000",
+      "longitude": "7.93486000"
+    },
+    {
+      "id": 62051,
+      "name": "Villadeati",
+      "latitude": "45.07225000",
+      "longitude": "8.16793000"
+    },
+    {
+      "id": 62053,
+      "name": "Villadossola",
+      "latitude": "46.07080000",
+      "longitude": "8.26709000"
+    },
+    {
+      "id": 62054,
+      "name": "Villafalletto",
+      "latitude": "44.54624000",
+      "longitude": "7.54069000"
+    },
+    {
+      "id": 62060,
+      "name": "Villafranca d'Asti",
+      "latitude": "44.91539000",
+      "longitude": "8.02658000"
+    },
+    {
+      "id": 62057,
+      "name": "Villafranca Piemonte",
+      "latitude": "44.78824000",
+      "longitude": "7.50788000"
+    },
+    {
+      "id": 62079,
+      "name": "Villalvernia",
+      "latitude": "44.81387000",
+      "longitude": "8.85532000"
+    },
+    {
+      "id": 62085,
+      "name": "Villamiroglio",
+      "latitude": "45.13455000",
+      "longitude": "8.17103000"
+    },
+    {
+      "id": 62096,
+      "name": "Villanova Biellese",
+      "latitude": "45.48156000",
+      "longitude": "8.19432000"
+    },
+    {
+      "id": 62097,
+      "name": "Villanova Canavese",
+      "latitude": "45.24355000",
+      "longitude": "7.55212000"
+    },
+    {
+      "id": 62107,
+      "name": "Villanova d'Asti",
+      "latitude": "44.94299000",
+      "longitude": "7.93671000"
+    },
+    {
+      "id": 62099,
+      "name": "Villanova Mondovì",
+      "latitude": "44.34804000",
+      "longitude": "7.76752000"
+    },
+    {
+      "id": 62100,
+      "name": "Villanova Monferrato",
+      "latitude": "45.18111000",
+      "longitude": "8.47813000"
+    },
+    {
+      "id": 62102,
+      "name": "Villanova Solaro",
+      "latitude": "44.72994000",
+      "longitude": "7.57443000"
+    },
+    {
+      "id": 62121,
+      "name": "Villar Dora",
+      "latitude": "45.11465000",
+      "longitude": "7.38352000"
+    },
+    {
+      "id": 62122,
+      "name": "Villar Focchiardo",
+      "latitude": "45.11244000",
+      "longitude": "7.23841000"
+    },
+    {
+      "id": 62123,
+      "name": "Villar Pellice",
+      "latitude": "44.80893000",
+      "longitude": "7.15978000"
+    },
+    {
+      "id": 62124,
+      "name": "Villar Perosa",
+      "latitude": "44.91849000",
+      "longitude": "7.24821000"
+    },
+    {
+      "id": 62125,
+      "name": "Villar San Costanzo",
+      "latitude": "44.48473000",
+      "longitude": "7.38223000"
+    },
+    {
+      "id": 62126,
+      "name": "Villarbasse",
+      "latitude": "45.04514000",
+      "longitude": "7.46842000"
+    },
+    {
+      "id": 62127,
+      "name": "Villarboit",
+      "latitude": "45.43775000",
+      "longitude": "8.33694000"
+    },
+    {
+      "id": 62128,
+      "name": "Villareggia",
+      "latitude": "45.30885000",
+      "longitude": "7.97724000"
+    },
+    {
+      "id": 62130,
+      "name": "Villaromagnano",
+      "latitude": "44.84965000",
+      "longitude": "8.88775000"
+    },
+    {
+      "id": 62141,
+      "name": "Villastellone",
+      "latitude": "44.92201000",
+      "longitude": "7.74360000"
+    },
+    {
+      "id": 62142,
+      "name": "Villata",
+      "latitude": "45.38650000",
+      "longitude": "8.43279000"
+    },
+    {
+      "id": 62152,
+      "name": "Villette",
+      "latitude": "46.13188000",
+      "longitude": "8.53422000"
+    },
+    {
+      "id": 62160,
+      "name": "Vinadio",
+      "latitude": "44.30759000",
+      "longitude": "7.17628000"
+    },
+    {
+      "id": 62162,
+      "name": "Vinchio",
+      "latitude": "44.81095000",
+      "longitude": "8.32094000"
+    },
+    {
+      "id": 62164,
+      "name": "Vinovo",
+      "latitude": "44.94674000",
+      "longitude": "7.63252000"
+    },
+    {
+      "id": 62165,
+      "name": "Vinzaglio",
+      "latitude": "45.32309000",
+      "longitude": "8.51979000"
+    },
+    {
+      "id": 62166,
+      "name": "Viola",
+      "latitude": "44.29081000",
+      "longitude": "7.96491000"
+    },
+    {
+      "id": 62169,
+      "name": "Virle Piemonte",
+      "latitude": "44.86369000",
+      "longitude": "7.57033000"
+    },
+    {
+      "id": 62171,
+      "name": "Vische",
+      "latitude": "45.33566000",
+      "longitude": "7.94482000"
+    },
+    {
+      "id": 62174,
+      "name": "Visone",
+      "latitude": "44.66184000",
+      "longitude": "8.50075000"
+    },
+    {
+      "id": 62177,
+      "name": "Vistrorio",
+      "latitude": "45.44147000",
+      "longitude": "7.76781000"
+    },
+    {
+      "id": 62196,
+      "name": "Viù",
+      "latitude": "45.23785000",
+      "longitude": "7.37333000"
+    },
+    {
+      "id": 62192,
+      "name": "Viverone",
+      "latitude": "45.42726000",
+      "longitude": "8.04942000"
+    },
+    {
+      "id": 62199,
+      "name": "Vocca",
+      "latitude": "45.83269000",
+      "longitude": "8.19580000"
+    },
+    {
+      "id": 62203,
+      "name": "Vogogna",
+      "latitude": "46.01002000",
+      "longitude": "8.29137000"
+    },
+    {
+      "id": 62210,
+      "name": "Volpedo",
+      "latitude": "44.88887000",
+      "longitude": "8.98615000"
+    },
+    {
+      "id": 62211,
+      "name": "Volpeglino",
+      "latitude": "44.89296000",
+      "longitude": "8.95945000"
+    },
+    {
+      "id": 62212,
+      "name": "Volpiano",
+      "latitude": "45.19940000",
+      "longitude": "7.77546000"
+    },
+    {
+      "id": 62214,
+      "name": "Voltaggio",
+      "latitude": "44.62095000",
+      "longitude": "8.84274000"
+    },
+    {
+      "id": 62223,
+      "name": "Volvera",
+      "latitude": "44.95484000",
+      "longitude": "7.51142000"
+    },
+    {
+      "id": 62225,
+      "name": "Vottignasco",
+      "latitude": "44.56413000",
+      "longitude": "7.57913000"
+    },
+    {
+      "id": 62261,
+      "name": "Zimone",
+      "latitude": "45.44912000",
+      "longitude": "8.03734000"
+    },
+    {
+      "id": 62278,
+      "name": "Zubiena",
+      "latitude": "45.49266000",
+      "longitude": "7.99552000"
+    },
+    {
+      "id": 62284,
+      "name": "Zumaglia",
+      "latitude": "45.59386000",
+      "longitude": "8.08942000"
+    }
+  ],
+  "country": {
+    "id": 107,
+    "name": "Italy",
+    "iso3": "ITA",
+    "iso2": "IT",
+    "numeric_code": "380",
+    "phone_code": "39",
+    "capital": "Rome",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".it",
+    "native": "Italia",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Rome",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이탈리아",
+      "pt-BR": "Itália",
+      "pt": "Itália",
+      "nl": "Italië",
+      "hr": "Italija",
+      "fa": "ایتالیا",
+      "de": "Italien",
+      "es": "Italia",
+      "fr": "Italie",
+      "ja": "イタリア",
+      "it": "Italia",
+      "cn": "意大利",
+      "tr": "İtalya"
+    },
+    "latitude": "42.83333333",
+    "longitude": "12.83333333",
+    "emoji": "🇮🇹",
+    "emojiU": "U+1F1EE U+1F1F9"
+  }
+}

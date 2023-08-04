@@ -1,0 +1,120 @@
+{
+  "id": 2159,
+  "name": "Elazığ",
+  "state_code": "23",
+  "latitude": "38.49648040",
+  "longitude": "39.21990290",
+  "type": "province",
+  "cities": [
+    {
+      "id": 107246,
+      "name": "Ağın",
+      "latitude": "38.93792000",
+      "longitude": "38.71155000"
+    },
+    {
+      "id": 153354,
+      "name": "Alacakaya",
+      "latitude": "38.46269800",
+      "longitude": "39.86275800"
+    },
+    {
+      "id": 107197,
+      "name": "Arıcak",
+      "latitude": "38.56340000",
+      "longitude": "40.12480000"
+    },
+    {
+      "id": 107288,
+      "name": "Baskil",
+      "latitude": "38.56866000",
+      "longitude": "38.81634000"
+    },
+    {
+      "id": 107901,
+      "name": "Karakoçan",
+      "latitude": "38.95178000",
+      "longitude": "40.02706000"
+    },
+    {
+      "id": 107964,
+      "name": "Keban",
+      "latitude": "38.79380000",
+      "longitude": "38.73517000"
+    },
+    {
+      "id": 108027,
+      "name": "Kovancılar",
+      "latitude": "38.71882000",
+      "longitude": "39.86268000"
+    },
+    {
+      "id": 108137,
+      "name": "Maden",
+      "latitude": "38.39354000",
+      "longitude": "39.67252000"
+    },
+    {
+      "id": 108188,
+      "name": "Merkez",
+      "latitude": "38.66790000",
+      "longitude": "39.21567000"
+    },
+    {
+      "id": 108308,
+      "name": "Palu",
+      "latitude": "38.69135000",
+      "longitude": "39.91984000"
+    },
+    {
+      "id": 108479,
+      "name": "Sivrice",
+      "latitude": "38.44223000",
+      "longitude": "39.30938000"
+    }
+  ],
+  "country": {
+    "id": 225,
+    "name": "Turkey",
+    "iso3": "TUR",
+    "iso2": "TR",
+    "numeric_code": "792",
+    "phone_code": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currency_name": "Turkish lira",
+    "currency_symbol": "₺",
+    "tld": ".tr",
+    "native": "Türkiye",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Europe/Istanbul",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "터키",
+      "pt-BR": "Turquia",
+      "pt": "Turquia",
+      "nl": "Turkije",
+      "hr": "Turska",
+      "fa": "ترکیه",
+      "de": "Türkei",
+      "es": "Turquía",
+      "fr": "Turquie",
+      "ja": "トルコ",
+      "it": "Turchia",
+      "cn": "土耳其",
+      "tr": "Türkiye"
+    },
+    "latitude": "39.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇷",
+    "emojiU": "U+1F1F9 U+1F1F7"
+  }
+}

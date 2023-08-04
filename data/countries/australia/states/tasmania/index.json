@@ -1,0 +1,990 @@
+{
+  "id": 3908,
+  "name": "Tasmania",
+  "state_code": "TAS",
+  "latitude": "-41.45451960",
+  "longitude": "145.97066470",
+  "type": "state",
+  "cities": [
+    {
+      "id": 3916,
+      "name": "Acton Park",
+      "latitude": "-42.87932000",
+      "longitude": "147.48459000"
+    },
+    {
+      "id": 4047,
+      "name": "Austins Ferry",
+      "latitude": "-42.76667000",
+      "longitude": "147.25000000"
+    },
+    {
+      "id": 4062,
+      "name": "Bagdad",
+      "latitude": "-42.62968000",
+      "longitude": "147.22339000"
+    },
+    {
+      "id": 4145,
+      "name": "Battery Point",
+      "latitude": "-42.88995000",
+      "longitude": "147.33324000"
+    },
+    {
+      "id": 4160,
+      "name": "Beaconsfield",
+      "latitude": "-41.20227000",
+      "longitude": "146.81723000"
+    },
+    {
+      "id": 4170,
+      "name": "Beauty Point",
+      "latitude": "-41.16216000",
+      "longitude": "146.82146000"
+    },
+    {
+      "id": 4200,
+      "name": "Bellerive",
+      "latitude": "-42.87551000",
+      "longitude": "147.37030000"
+    },
+    {
+      "id": 4239,
+      "name": "Berriedale",
+      "latitude": "-42.81667000",
+      "longitude": "147.25000000"
+    },
+    {
+      "id": 4289,
+      "name": "Blackmans Bay",
+      "latitude": "-43.00311000",
+      "longitude": "147.31694000"
+    },
+    {
+      "id": 4292,
+      "name": "Blackstone Heights",
+      "latitude": "-41.45977000",
+      "longitude": "147.08407000"
+    },
+    {
+      "id": 4387,
+      "name": "Break O'Day",
+      "latitude": "-41.39069000",
+      "longitude": "147.97477000"
+    },
+    {
+      "id": 4398,
+      "name": "Bridgewater",
+      "latitude": "-42.73719000",
+      "longitude": "147.22784000"
+    },
+    {
+      "id": 4399,
+      "name": "Bridport",
+      "latitude": "-41.00046000",
+      "longitude": "147.39175000"
+    },
+    {
+      "id": 4404,
+      "name": "Brighton",
+      "latitude": "-42.72673000",
+      "longitude": "147.24233000"
+    },
+    {
+      "id": 4484,
+      "name": "Burnie",
+      "latitude": "-41.19650000",
+      "longitude": "145.81136000"
+    },
+    {
+      "id": 4540,
+      "name": "Cambridge",
+      "latitude": "-42.83333000",
+      "longitude": "147.45000000"
+    },
+    {
+      "id": 4649,
+      "name": "Central Coast",
+      "latitude": "-41.26999000",
+      "longitude": "146.05916000"
+    },
+    {
+      "id": 4653,
+      "name": "Central Highlands",
+      "latitude": "-42.19653000",
+      "longitude": "146.63934000"
+    },
+    {
+      "id": 4689,
+      "name": "Chigwell",
+      "latitude": "-42.80912000",
+      "longitude": "147.24480000"
+    },
+    {
+      "id": 4707,
+      "name": "Circular Head",
+      "latitude": "-41.01991000",
+      "longitude": "145.08366000"
+    },
+    {
+      "id": 4717,
+      "name": "Claremont",
+      "latitude": "-42.78333000",
+      "longitude": "147.25000000"
+    },
+    {
+      "id": 4720,
+      "name": "Clarence",
+      "latitude": "-42.87369000",
+      "longitude": "147.44725000"
+    },
+    {
+      "id": 4725,
+      "name": "Clarendon Vale",
+      "latitude": "-42.88988000",
+      "longitude": "147.44368000"
+    },
+    {
+      "id": 4878,
+      "name": "Cressy",
+      "latitude": "-41.68561000",
+      "longitude": "147.07792000"
+    },
+    {
+      "id": 4911,
+      "name": "Currie",
+      "latitude": "-39.92976000",
+      "longitude": "143.85385000"
+    },
+    {
+      "id": 4917,
+      "name": "Cygnet",
+      "latitude": "-43.15333000",
+      "longitude": "147.07253000"
+    },
+    {
+      "id": 4967,
+      "name": "Deloraine",
+      "latitude": "-41.52477000",
+      "longitude": "146.65701000"
+    },
+    {
+      "id": 4981,
+      "name": "Derwent Valley",
+      "latitude": "-42.80383000",
+      "longitude": "146.52970000"
+    },
+    {
+      "id": 4984,
+      "name": "Devonport",
+      "latitude": "-41.21296000",
+      "longitude": "146.32401000"
+    },
+    {
+      "id": 4999,
+      "name": "Dodges Ferry",
+      "latitude": "-42.85315000",
+      "longitude": "147.62263000"
+    },
+    {
+      "id": 5015,
+      "name": "Dorset",
+      "latitude": "-41.04789000",
+      "longitude": "147.73167000"
+    },
+    {
+      "id": 5052,
+      "name": "Dynnyrne",
+      "latitude": "-42.90541000",
+      "longitude": "147.31576000"
+    },
+    {
+      "id": 5073,
+      "name": "East Devonport",
+      "latitude": "-41.18792000",
+      "longitude": "146.38660000"
+    },
+    {
+      "id": 5085,
+      "name": "East Launceston",
+      "latitude": "-41.43843000",
+      "longitude": "147.15101000"
+    },
+    {
+      "id": 5191,
+      "name": "Evandale",
+      "latitude": "-41.56858000",
+      "longitude": "147.25271000"
+    },
+    {
+      "id": 5250,
+      "name": "Flinders",
+      "latitude": "-40.03799000",
+      "longitude": "148.13965000"
+    },
+    {
+      "id": 5277,
+      "name": "Franklin",
+      "latitude": "-43.08884000",
+      "longitude": "147.00906000"
+    },
+    {
+      "id": 5297,
+      "name": "Gagebrook",
+      "latitude": "-42.74770000",
+      "longitude": "147.26984000"
+    },
+    {
+      "id": 5319,
+      "name": "Geeveston",
+      "latitude": "-43.16337000",
+      "longitude": "146.92549000"
+    },
+    {
+      "id": 5320,
+      "name": "Geilston Bay",
+      "latitude": "-42.82955000",
+      "longitude": "147.34630000"
+    },
+    {
+      "id": 5324,
+      "name": "George Town",
+      "latitude": "-41.11982000",
+      "longitude": "147.01731000"
+    },
+    {
+      "id": 5350,
+      "name": "Glamorgan/Spring Bay",
+      "latitude": "-42.27832000",
+      "longitude": "147.96675000"
+    },
+    {
+      "id": 5385,
+      "name": "Glenorchy",
+      "latitude": "-42.83188000",
+      "longitude": "147.22954000"
+    },
+    {
+      "id": 5409,
+      "name": "Goodwood",
+      "latitude": "-42.82822000",
+      "longitude": "147.29301000"
+    },
+    {
+      "id": 5438,
+      "name": "Granton",
+      "latitude": "-42.75149000",
+      "longitude": "147.22795000"
+    },
+    {
+      "id": 5503,
+      "name": "Hadspen",
+      "latitude": "-41.50059000",
+      "longitude": "147.07359000"
+    },
+    {
+      "id": 5582,
+      "name": "Herdsmans Cove",
+      "latitude": "-42.75066000",
+      "longitude": "147.26483000"
+    },
+    {
+      "id": 5609,
+      "name": "Hillcrest",
+      "latitude": "-41.06324000",
+      "longitude": "145.89437000"
+    },
+    {
+      "id": 5621,
+      "name": "Hobart",
+      "latitude": "-42.87936000",
+      "longitude": "147.32941000"
+    },
+    {
+      "id": 5622,
+      "name": "Hobart city centre",
+      "latitude": "-42.88280000",
+      "longitude": "147.32582000"
+    },
+    {
+      "id": 5660,
+      "name": "Howrah",
+      "latitude": "-42.88728000",
+      "longitude": "147.40554000"
+    },
+    {
+      "id": 5673,
+      "name": "Huon Valley",
+      "latitude": "-43.29385000",
+      "longitude": "146.56555000"
+    },
+    {
+      "id": 5674,
+      "name": "Huonville",
+      "latitude": "-43.03124000",
+      "longitude": "147.04813000"
+    },
+    {
+      "id": 5700,
+      "name": "Invermay",
+      "latitude": "-41.42036000",
+      "longitude": "147.13358000"
+    },
+    {
+      "id": 5835,
+      "name": "Kentish",
+      "latitude": "-41.46341000",
+      "longitude": "146.17726000"
+    },
+    {
+      "id": 5865,
+      "name": "King Island",
+      "latitude": "-39.87215000",
+      "longitude": "143.99153000"
+    },
+    {
+      "id": 5867,
+      "name": "Kingborough",
+      "latitude": "-42.97451000",
+      "longitude": "147.25113000"
+    },
+    {
+      "id": 5872,
+      "name": "Kings Meadows",
+      "latitude": "-41.47041000",
+      "longitude": "147.16196000"
+    },
+    {
+      "id": 5882,
+      "name": "Kingston",
+      "latitude": "-42.97638000",
+      "longitude": "147.30351000"
+    },
+    {
+      "id": 5887,
+      "name": "Kingston Beach",
+      "latitude": "-42.98021000",
+      "longitude": "147.31941000"
+    },
+    {
+      "id": 5982,
+      "name": "Latrobe",
+      "latitude": "-41.21551000",
+      "longitude": "146.40656000"
+    },
+    {
+      "id": 5984,
+      "name": "Lauderdale",
+      "latitude": "-42.91364000",
+      "longitude": "147.48747000"
+    },
+    {
+      "id": 5985,
+      "name": "Launceston",
+      "latitude": "-41.43876000",
+      "longitude": "147.13467000"
+    },
+    {
+      "id": 5986,
+      "name": "Launceston city centre",
+      "latitude": "-41.43352000",
+      "longitude": "147.13780000"
+    },
+    {
+      "id": 6000,
+      "name": "Legana",
+      "latitude": "-41.36572000",
+      "longitude": "147.04584000"
+    },
+    {
+      "id": 6005,
+      "name": "Lenah Valley",
+      "latitude": "-42.87146000",
+      "longitude": "147.27514000"
+    },
+    {
+      "id": 6028,
+      "name": "Lindisfarne",
+      "latitude": "-42.84837000",
+      "longitude": "147.36192000"
+    },
+    {
+      "id": 6064,
+      "name": "Longford",
+      "latitude": "-41.60512000",
+      "longitude": "147.11887000"
+    },
+    {
+      "id": 6087,
+      "name": "Lutana",
+      "latitude": "-42.83475000",
+      "longitude": "147.31152000"
+    },
+    {
+      "id": 6177,
+      "name": "Margate",
+      "latitude": "-43.02814000",
+      "longitude": "147.26256000"
+    },
+    {
+      "id": 6207,
+      "name": "Mayfield",
+      "latitude": "-41.38760000",
+      "longitude": "147.13052000"
+    },
+    {
+      "id": 6229,
+      "name": "Meander Valley",
+      "latitude": "-41.64952000",
+      "longitude": "146.54572000"
+    },
+    {
+      "id": 6268,
+      "name": "Miandetta",
+      "latitude": "-41.19550000",
+      "longitude": "146.35322000"
+    },
+    {
+      "id": 6282,
+      "name": "Midway Point",
+      "latitude": "-42.79480000",
+      "longitude": "147.52883000"
+    },
+    {
+      "id": 6350,
+      "name": "Montello",
+      "latitude": "-41.05762000",
+      "longitude": "145.89626000"
+    },
+    {
+      "id": 6355,
+      "name": "Montrose",
+      "latitude": "-42.82895000",
+      "longitude": "147.24735000"
+    },
+    {
+      "id": 6359,
+      "name": "Moonah",
+      "latitude": "-42.84617000",
+      "longitude": "147.30228000"
+    },
+    {
+      "id": 6389,
+      "name": "Mornington",
+      "latitude": "-42.86267000",
+      "longitude": "147.39819000"
+    },
+    {
+      "id": 6446,
+      "name": "Mount Nelson",
+      "latitude": "-42.92073000",
+      "longitude": "147.32069000"
+    },
+    {
+      "id": 6459,
+      "name": "Mount Stuart",
+      "latitude": "-42.87157000",
+      "longitude": "147.30164000"
+    },
+    {
+      "id": 6467,
+      "name": "Mowbray",
+      "latitude": "-41.40243000",
+      "longitude": "147.15059000"
+    },
+    {
+      "id": 6560,
+      "name": "New Norfolk",
+      "latitude": "-42.78261000",
+      "longitude": "147.05870000"
+    },
+    {
+      "id": 6561,
+      "name": "New Town",
+      "latitude": "-42.85758000",
+      "longitude": "147.30869000"
+    },
+    {
+      "id": 6571,
+      "name": "Newnham",
+      "latitude": "-41.38969000",
+      "longitude": "147.11397000"
+    },
+    {
+      "id": 6575,
+      "name": "Newstead",
+      "latitude": "-41.44108000",
+      "longitude": "147.16183000"
+    },
+    {
+      "id": 6632,
+      "name": "North Hobart",
+      "latitude": "-42.87406000",
+      "longitude": "147.31597000"
+    },
+    {
+      "id": 6668,
+      "name": "Northern Midlands",
+      "latitude": "-41.87988000",
+      "longitude": "147.45776000"
+    },
+    {
+      "id": 6674,
+      "name": "Norwood",
+      "latitude": "-41.45920000",
+      "longitude": "147.18077000"
+    },
+    {
+      "id": 6697,
+      "name": "Oakdowns",
+      "latitude": "-42.90178000",
+      "longitude": "147.45595000"
+    },
+    {
+      "id": 6715,
+      "name": "Old Beach",
+      "latitude": "-42.77758000",
+      "longitude": "147.26659000"
+    },
+    {
+      "id": 6787,
+      "name": "Park Grove",
+      "latitude": "-41.05478000",
+      "longitude": "145.88201000"
+    },
+    {
+      "id": 6828,
+      "name": "Penguin",
+      "latitude": "-41.12258000",
+      "longitude": "146.07318000"
+    },
+    {
+      "id": 6839,
+      "name": "Perth",
+      "latitude": "-41.57231000",
+      "longitude": "147.17096000"
+    },
+    {
+      "id": 6906,
+      "name": "Port Sorell",
+      "latitude": "-41.16652000",
+      "longitude": "146.55283000"
+    },
+    {
+      "id": 6924,
+      "name": "Prospect Vale",
+      "latitude": "-41.48100000",
+      "longitude": "147.10406000"
+    },
+    {
+      "id": 6943,
+      "name": "Queenstown",
+      "latitude": "-42.08050000",
+      "longitude": "145.55646000"
+    },
+    {
+      "id": 6959,
+      "name": "Ranelagh",
+      "latitude": "-43.00977000",
+      "longitude": "147.03764000"
+    },
+    {
+      "id": 6970,
+      "name": "Ravenswood",
+      "latitude": "-41.41593000",
+      "longitude": "147.18250000"
+    },
+    {
+      "id": 7009,
+      "name": "Richmond",
+      "latitude": "-42.73554000",
+      "longitude": "147.43833000"
+    },
+    {
+      "id": 7021,
+      "name": "Risdon Vale",
+      "latitude": "-42.81242000",
+      "longitude": "147.35654000"
+    },
+    {
+      "id": 7024,
+      "name": "Riverside",
+      "latitude": "-41.42105000",
+      "longitude": "147.05086000"
+    },
+    {
+      "id": 7039,
+      "name": "Rocherlea",
+      "latitude": "-41.38083000",
+      "longitude": "147.15738000"
+    },
+    {
+      "id": 7050,
+      "name": "Rokeby",
+      "latitude": "-42.89875000",
+      "longitude": "147.44917000"
+    },
+    {
+      "id": 7053,
+      "name": "Romaine",
+      "latitude": "-41.09944000",
+      "longitude": "145.89376000"
+    },
+    {
+      "id": 7070,
+      "name": "Rosetta",
+      "latitude": "-42.82105000",
+      "longitude": "147.25258000"
+    },
+    {
+      "id": 7115,
+      "name": "Saint Leonards",
+      "latitude": "-41.45672000",
+      "longitude": "147.19952000"
+    },
+    {
+      "id": 7134,
+      "name": "Sandford",
+      "latitude": "-42.93333000",
+      "longitude": "147.50000000"
+    },
+    {
+      "id": 7141,
+      "name": "Sandy Bay",
+      "latitude": "-42.89449000",
+      "longitude": "147.32439000"
+    },
+    {
+      "id": 7156,
+      "name": "Scottsdale",
+      "latitude": "-41.15780000",
+      "longitude": "147.51727000"
+    },
+    {
+      "id": 7185,
+      "name": "Seven Mile Beach",
+      "latitude": "-42.85863000",
+      "longitude": "147.50532000"
+    },
+    {
+      "id": 7194,
+      "name": "Shearwater",
+      "latitude": "-41.15673000",
+      "longitude": "146.53178000"
+    },
+    {
+      "id": 7195,
+      "name": "Sheffield",
+      "latitude": "-41.39947000",
+      "longitude": "146.33897000"
+    },
+    {
+      "id": 7209,
+      "name": "Shorewell Park",
+      "latitude": "-41.06990000",
+      "longitude": "145.87689000"
+    },
+    {
+      "id": 7231,
+      "name": "Smithton",
+      "latitude": "-40.84587000",
+      "longitude": "145.12498000"
+    },
+    {
+      "id": 7234,
+      "name": "Snug",
+      "latitude": "-43.06669000",
+      "longitude": "147.25468000"
+    },
+    {
+      "id": 7242,
+      "name": "Somerset",
+      "latitude": "-41.04065000",
+      "longitude": "145.83055000"
+    },
+    {
+      "id": 7246,
+      "name": "Sorell",
+      "latitude": "-42.78908000",
+      "longitude": "147.69488000"
+    },
+    {
+      "id": 7265,
+      "name": "South Hobart",
+      "latitude": "-42.89459000",
+      "longitude": "147.30924000"
+    },
+    {
+      "id": 7272,
+      "name": "South Launceston",
+      "latitude": "-41.45506000",
+      "longitude": "147.14556000"
+    },
+    {
+      "id": 7296,
+      "name": "Southern Midlands",
+      "latitude": "-42.41785000",
+      "longitude": "147.43414000"
+    },
+    {
+      "id": 7306,
+      "name": "Spreyton",
+      "latitude": "-41.23524000",
+      "longitude": "146.35108000"
+    },
+    {
+      "id": 7326,
+      "name": "St Helens",
+      "latitude": "-41.32028000",
+      "longitude": "148.23889000"
+    },
+    {
+      "id": 7375,
+      "name": "Summerhill",
+      "latitude": "-41.46747000",
+      "longitude": "147.12796000"
+    },
+    {
+      "id": 7441,
+      "name": "Taroona",
+      "latitude": "-42.94520000",
+      "longitude": "147.34840000"
+    },
+    {
+      "id": 7446,
+      "name": "Tasman Peninsula",
+      "latitude": "-43.16245000",
+      "longitude": "147.94739000"
+    },
+    {
+      "id": 7556,
+      "name": "Tranmere",
+      "latitude": "-42.92179000",
+      "longitude": "147.41701000"
+    },
+    {
+      "id": 7563,
+      "name": "Trevallyn",
+      "latitude": "-41.44246000",
+      "longitude": "147.10484000"
+    },
+    {
+      "id": 7583,
+      "name": "Turners Beach",
+      "latitude": "-41.16060000",
+      "longitude": "146.23193000"
+    },
+    {
+      "id": 7599,
+      "name": "Ulverstone",
+      "latitude": "-41.16026000",
+      "longitude": "146.18242000"
+    },
+    {
+      "id": 7606,
+      "name": "Upper Burnie",
+      "latitude": "-41.07139000",
+      "longitude": "145.89960000"
+    },
+    {
+      "id": 7701,
+      "name": "Waratah/Wynyard",
+      "latitude": "-41.30709000",
+      "longitude": "145.45831000"
+    },
+    {
+      "id": 7715,
+      "name": "Warrane",
+      "latitude": "-42.85546000",
+      "longitude": "147.38297000"
+    },
+    {
+      "id": 7748,
+      "name": "Waverley",
+      "latitude": "-41.43602000",
+      "longitude": "147.18588000"
+    },
+    {
+      "id": 7782,
+      "name": "West Coast",
+      "latitude": "-42.45246000",
+      "longitude": "145.52264000"
+    },
+    {
+      "id": 7790,
+      "name": "West Hobart",
+      "latitude": "-42.87658000",
+      "longitude": "147.30688000"
+    },
+    {
+      "id": 7796,
+      "name": "West Launceston",
+      "latitude": "-41.45092000",
+      "longitude": "147.13114000"
+    },
+    {
+      "id": 7800,
+      "name": "West Moonah",
+      "latitude": "-42.84996000",
+      "longitude": "147.28181000"
+    },
+    {
+      "id": 7807,
+      "name": "West Tamar",
+      "latitude": "-41.26441000",
+      "longitude": "146.89123000"
+    },
+    {
+      "id": 7809,
+      "name": "West Ulverstone",
+      "latitude": "-41.14744000",
+      "longitude": "146.12670000"
+    },
+    {
+      "id": 7818,
+      "name": "Westbury",
+      "latitude": "-41.52914000",
+      "longitude": "146.83914000"
+    },
+    {
+      "id": 7975,
+      "name": "Wynyard",
+      "latitude": "-40.98970000",
+      "longitude": "145.72617000"
+    },
+    {
+      "id": 8029,
+      "name": "Youngtown",
+      "latitude": "-41.48332000",
+      "longitude": "147.17067000"
+    }
+  ],
+  "country": {
+    "id": 14,
+    "name": "Australia",
+    "iso3": "AUS",
+    "iso2": "AU",
+    "numeric_code": "036",
+    "phone_code": "61",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".au",
+    "native": "Australia",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "timezones": [
+      {
+        "zoneName": "Antarctica/Macquarie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "MIST",
+        "tzName": "Macquarie Island Station Time"
+      },
+      {
+        "zoneName": "Australia/Adelaide",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Brisbane",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Broken_Hill",
+        "gmtOffset": 37800,
+        "gmtOffsetName": "UTC+10:30",
+        "abbreviation": "ACDT",
+        "tzName": "Australian Central Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Currie",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Darwin",
+        "gmtOffset": 34200,
+        "gmtOffsetName": "UTC+09:30",
+        "abbreviation": "ACST",
+        "tzName": "Australian Central Standard Time"
+      },
+      {
+        "zoneName": "Australia/Eucla",
+        "gmtOffset": 31500,
+        "gmtOffsetName": "UTC+08:45",
+        "abbreviation": "ACWST",
+        "tzName": "Australian Central Western Standard Time (Unofficial)"
+      },
+      {
+        "zoneName": "Australia/Hobart",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Lindeman",
+        "gmtOffset": 36000,
+        "gmtOffsetName": "UTC+10:00",
+        "abbreviation": "AEST",
+        "tzName": "Australian Eastern Standard Time"
+      },
+      {
+        "zoneName": "Australia/Lord_Howe",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "LHST",
+        "tzName": "Lord Howe Summer Time"
+      },
+      {
+        "zoneName": "Australia/Melbourne",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      },
+      {
+        "zoneName": "Australia/Perth",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "AWST",
+        "tzName": "Australian Western Standard Time"
+      },
+      {
+        "zoneName": "Australia/Sydney",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "AEDT",
+        "tzName": "Australian Eastern Daylight Saving Time"
+      }
+    ],
+    "translations": {
+      "kr": "호주",
+      "pt-BR": "Austrália",
+      "pt": "Austrália",
+      "nl": "Australië",
+      "hr": "Australija",
+      "fa": "استرالیا",
+      "de": "Australien",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "it": "Australia",
+      "cn": "澳大利亚",
+      "tr": "Avustralya"
+    },
+    "latitude": "-27.00000000",
+    "longitude": "133.00000000",
+    "emoji": "🇦🇺",
+    "emojiU": "U+1F1E6 U+1F1FA"
+  }
+}

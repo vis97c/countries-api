@@ -1,0 +1,90 @@
+{
+  "id": 3805,
+  "name": "Trà Vinh",
+  "state_code": "51",
+  "latitude": "9.81274100",
+  "longitude": "106.29929120",
+  "type": null,
+  "cities": [
+    {
+      "id": 130265,
+      "name": "Huyện Càng Long",
+      "latitude": "9.95883000",
+      "longitude": "106.21395000"
+    },
+    {
+      "id": 130272,
+      "name": "Huyện Cầu Kè",
+      "latitude": "9.86738000",
+      "longitude": "106.07916000"
+    },
+    {
+      "id": 130273,
+      "name": "Huyện Cầu Ngang",
+      "latitude": "9.77186000",
+      "longitude": "106.43654000"
+    },
+    {
+      "id": 130460,
+      "name": "Huyện Tiểu Cần",
+      "latitude": "9.80350000",
+      "longitude": "106.20594000"
+    },
+    {
+      "id": 130465,
+      "name": "Huyện Trà Cú",
+      "latitude": "9.69706000",
+      "longitude": "106.29423000"
+    },
+    {
+      "id": 130617,
+      "name": "Trà Vinh",
+      "latitude": "9.94719000",
+      "longitude": "106.34225000"
+    }
+  ],
+  "country": {
+    "id": 240,
+    "name": "Vietnam",
+    "iso3": "VNM",
+    "iso2": "VN",
+    "numeric_code": "704",
+    "phone_code": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currency_name": "Vietnamese đồng",
+    "currency_symbol": "₫",
+    "tld": ".vn",
+    "native": "Việt Nam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Ho_Chi_Minh",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "베트남",
+      "pt-BR": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام",
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "cn": "越南",
+      "tr": "Vietnam"
+    },
+    "latitude": "16.16666666",
+    "longitude": "107.83333333",
+    "emoji": "🇻🇳",
+    "emojiU": "U+1F1FB U+1F1F3"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": 5086,
+  "name": "Bonaire",
+  "state_code": "BQ1",
+  "latitude": "12.20189020",
+  "longitude": "-68.26238220",
+  "type": "special municipality",
+  "cities": [
+    {
+      "id": 150058,
+      "name": "Boven Bolivia",
+      "latitude": "12.18190000",
+      "longitude": "-68.21810000"
+    },
+    {
+      "id": 150059,
+      "name": "Dorp Tera Kora",
+      "latitude": "12.13333000",
+      "longitude": "-68.26667000"
+    },
+    {
+      "id": 150060,
+      "name": "Oranjestad",
+      "latitude": "17.48333333",
+      "longitude": "-62.98333333"
+    },
+    {
+      "id": 150061,
+      "name": "Rincon",
+      "latitude": "12.23833333",
+      "longitude": "-68.33250000"
+    },
+    {
+      "id": 150062,
+      "name": "St. Johns",
+      "latitude": "17.62100750",
+      "longitude": "-63.24316830"
+    },
+    {
+      "id": 150063,
+      "name": "The Bottom",
+      "latitude": "17.62611111",
+      "longitude": "-63.24916667"
+    },
+    {
+      "id": 150064,
+      "name": "Windwardside",
+      "latitude": "17.62864000",
+      "longitude": "-63.23136000"
+    },
+    {
+      "id": 150065,
+      "name": "Zion's Hill",
+      "latitude": "17.64300000",
+      "longitude": "-63.22649000"
+    }
+  ],
+  "country": {
+    "id": 155,
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "iso3": "BES",
+    "iso2": "BQ",
+    "numeric_code": "535",
+    "phone_code": "599",
+    "capital": "Kralendijk",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".an",
+    "native": "Caribisch Nederland",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Anguilla",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "보네르 섬",
+      "pt-BR": "Bonaire",
+      "pt": "Bonaire",
+      "fa": "بونیر",
+      "de": "Bonaire, Sint Eustatius und Saba",
+      "fr": "Bonaire, Saint-Eustache et Saba",
+      "it": "Bonaire, Saint-Eustache e Saba",
+      "cn": "博内尔岛、圣尤斯特歇斯和萨巴岛",
+      "tr": "Karayip Hollandasi"
+    },
+    "latitude": "12.15000000",
+    "longitude": "-68.26666700",
+    "emoji": "🇧🇶",
+    "emojiU": "U+1F1E7 U+1F1F6"
+  }
+}

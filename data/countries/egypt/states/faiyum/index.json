@@ -1,0 +1,84 @@
+{
+  "id": 3238,
+  "name": "Faiyum",
+  "state_code": "FYM",
+  "latitude": "29.30840210",
+  "longitude": "30.84284970",
+  "type": null,
+  "cities": [
+    {
+      "id": 31769,
+      "name": "Al Fayyūm",
+      "latitude": "29.30995000",
+      "longitude": "30.84180000"
+    },
+    {
+      "id": 31782,
+      "name": "Al Wāsiţah",
+      "latitude": "29.33778000",
+      "longitude": "31.20556000"
+    },
+    {
+      "id": 31818,
+      "name": "Ibshawāy",
+      "latitude": "29.35896000",
+      "longitude": "30.68061000"
+    },
+    {
+      "id": 31823,
+      "name": "Iţsā",
+      "latitude": "29.23760000",
+      "longitude": "30.78944000"
+    },
+    {
+      "id": 31877,
+      "name": "Ţāmiyah",
+      "latitude": "29.47639000",
+      "longitude": "30.96119000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

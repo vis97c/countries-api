@@ -1,0 +1,78 @@
+{
+  "id": 1254,
+  "name": "Ouham Prefecture",
+  "state_code": "AC",
+  "latitude": "7.09091100",
+  "longitude": "17.66888700",
+  "type": null,
+  "cities": [
+    {
+      "id": 17300,
+      "name": "Batangafo",
+      "latitude": "7.30082000",
+      "longitude": "18.28330000"
+    },
+    {
+      "id": 17309,
+      "name": "Bossangoa",
+      "latitude": "6.49263000",
+      "longitude": "17.45518000"
+    },
+    {
+      "id": 17311,
+      "name": "Bouca",
+      "latitude": "6.50734000",
+      "longitude": "18.27670000"
+    },
+    {
+      "id": 17320,
+      "name": "Kabo",
+      "latitude": "7.69937000",
+      "longitude": "18.62903000"
+    }
+  ],
+  "country": {
+    "id": 42,
+    "name": "Central African Republic",
+    "iso3": "CAF",
+    "iso2": "CF",
+    "numeric_code": "140",
+    "phone_code": "236",
+    "capital": "Bangui",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".cf",
+    "native": "Ködörösêse tî Bêafrîka",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bangui",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "중앙아프리카 공화국",
+      "pt-BR": "República Centro-Africana",
+      "pt": "República Centro-Africana",
+      "nl": "Centraal-Afrikaanse Republiek",
+      "hr": "Srednjoafrička Republika",
+      "fa": "جمهوری آفریقای مرکزی",
+      "de": "Zentralafrikanische Republik",
+      "es": "República Centroafricana",
+      "fr": "République centrafricaine",
+      "ja": "中央アフリカ共和国",
+      "it": "Repubblica Centrafricana",
+      "cn": "中非",
+      "tr": "Orta Afrika Cumhuriyeti"
+    },
+    "latitude": "7.00000000",
+    "longitude": "21.00000000",
+    "emoji": "🇨🇫",
+    "emojiU": "U+1F1E8 U+1F1EB"
+  }
+}

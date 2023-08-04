@@ -1,0 +1,186 @@
+{
+  "id": 3492,
+  "name": "Nakhon Sawan",
+  "state_code": "60",
+  "latitude": "15.69873820",
+  "longitude": "100.11996000",
+  "type": null,
+  "cities": [
+    {
+      "id": 105248,
+      "name": "Amphoe Banphot Phisai",
+      "latitude": "15.99714000",
+      "longitude": "99.99409000"
+    },
+    {
+      "id": 105312,
+      "name": "Amphoe Chum Ta Bong",
+      "latitude": "15.68311000",
+      "longitude": "99.56908000"
+    },
+    {
+      "id": 105314,
+      "name": "Amphoe Chumsaeng",
+      "latitude": "15.84745000",
+      "longitude": "100.28971000"
+    },
+    {
+      "id": 105374,
+      "name": "Amphoe Kao Liao",
+      "latitude": "15.88778000",
+      "longitude": "100.09647000"
+    },
+    {
+      "id": 105456,
+      "name": "Amphoe Krok Phra",
+      "latitude": "15.58638000",
+      "longitude": "100.01815000"
+    },
+    {
+      "id": 105489,
+      "name": "Amphoe Lat Yao",
+      "latitude": "15.77526000",
+      "longitude": "99.80046000"
+    },
+    {
+      "id": 105508,
+      "name": "Amphoe Mae Poen",
+      "latitude": "15.70656000",
+      "longitude": "99.34827000"
+    },
+    {
+      "id": 105519,
+      "name": "Amphoe Mae Wong",
+      "latitude": "15.83538000",
+      "longitude": "99.40785000"
+    },
+    {
+      "id": 105557,
+      "name": "Amphoe Mueang Nakhon Sawan",
+      "latitude": "15.71991000",
+      "longitude": "100.10067000"
+    },
+    {
+      "id": 105658,
+      "name": "Amphoe Nong Bua",
+      "latitude": "15.86591000",
+      "longitude": "100.62860000"
+    },
+    {
+      "id": 105718,
+      "name": "Amphoe Phai Sali",
+      "latitude": "15.58723000",
+      "longitude": "100.68530000"
+    },
+    {
+      "id": 105736,
+      "name": "Amphoe Phayuha Khiri",
+      "latitude": "15.50783000",
+      "longitude": "100.21226000"
+    },
+    {
+      "id": 106262,
+      "name": "Amphoe Tak Fa",
+      "latitude": "15.38249000",
+      "longitude": "100.46693000"
+    },
+    {
+      "id": 106263,
+      "name": "Amphoe Takhli",
+      "latitude": "15.25928000",
+      "longitude": "100.38058000"
+    },
+    {
+      "id": 106287,
+      "name": "Amphoe Tha Tako",
+      "latitude": "15.65434000",
+      "longitude": "100.45939000"
+    },
+    {
+      "id": 106514,
+      "name": "Kao Liao",
+      "latitude": "15.85053000",
+      "longitude": "100.07914000"
+    },
+    {
+      "id": 106556,
+      "name": "Lat Yao",
+      "latitude": "15.75100000",
+      "longitude": "99.78925000"
+    },
+    {
+      "id": 106584,
+      "name": "Nakhon Sawan",
+      "latitude": "15.70472000",
+      "longitude": "100.13717000"
+    },
+    {
+      "id": 106594,
+      "name": "Nong Bua",
+      "latitude": "15.86458000",
+      "longitude": "100.58581000"
+    },
+    {
+      "id": 106618,
+      "name": "Phai Sali",
+      "latitude": "15.60003000",
+      "longitude": "100.64937000"
+    },
+    {
+      "id": 106630,
+      "name": "Phayuha Khiri",
+      "latitude": "15.45525000",
+      "longitude": "100.13533000"
+    },
+    {
+      "id": 106715,
+      "name": "Takhli",
+      "latitude": "15.26336000",
+      "longitude": "100.34378000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

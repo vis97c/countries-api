@@ -1,0 +1,127 @@
+{
+  "id": 1940,
+  "name": "Pahang",
+  "state_code": "06",
+  "latitude": "3.81263180",
+  "longitude": "103.32562040",
+  "type": null,
+  "cities": [
+    {
+      "id": 76428,
+      "name": "Bentong Town",
+      "latitude": "3.52229000",
+      "longitude": "101.90866000"
+    },
+    {
+      "id": 76452,
+      "name": "Jerantut",
+      "latitude": "3.93600000",
+      "longitude": "102.36260000"
+    },
+    {
+      "id": 76469,
+      "name": "Kampung Bukit Tinggi Bentong",
+      "latitude": "3.34944000",
+      "longitude": "101.82631000"
+    },
+    {
+      "id": 76477,
+      "name": "Kampung Tekek",
+      "latitude": "2.81470000",
+      "longitude": "104.15920000"
+    },
+    {
+      "id": 76496,
+      "name": "Kuala Lipis",
+      "latitude": "4.18420000",
+      "longitude": "102.04680000"
+    },
+    {
+      "id": 76505,
+      "name": "Kuantan",
+      "latitude": "3.80770000",
+      "longitude": "103.32600000"
+    },
+    {
+      "id": 76523,
+      "name": "Mentekab",
+      "latitude": "3.48540000",
+      "longitude": "102.34840000"
+    },
+    {
+      "id": 76537,
+      "name": "Pekan",
+      "latitude": "3.48360000",
+      "longitude": "103.39960000"
+    },
+    {
+      "id": 76551,
+      "name": "Raub",
+      "latitude": "3.78990000",
+      "longitude": "101.85700000"
+    },
+    {
+      "id": 76575,
+      "name": "Tanah Rata",
+      "latitude": "4.46361000",
+      "longitude": "101.37630000"
+    },
+    {
+      "id": 76584,
+      "name": "Temerluh",
+      "latitude": "3.45060000",
+      "longitude": "102.41760000"
+    }
+  ],
+  "country": {
+    "id": 132,
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "iso2": "MY",
+    "numeric_code": "458",
+    "phone_code": "60",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "native": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "translations": {
+      "kr": "말레이시아",
+      "pt-BR": "Malásia",
+      "pt": "Malásia",
+      "nl": "Maleisië",
+      "hr": "Malezija",
+      "fa": "مالزی",
+      "de": "Malaysia",
+      "es": "Malasia",
+      "fr": "Malaisie",
+      "ja": "マレーシア",
+      "it": "Malesia",
+      "cn": "马来西亚",
+      "tr": "Malezya"
+    },
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
+  }
+}

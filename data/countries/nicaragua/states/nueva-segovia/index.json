@@ -1,0 +1,126 @@
+{
+  "id": 4964,
+  "name": "Nueva Segovia",
+  "state_code": "NS",
+  "latitude": "13.76570610",
+  "longitude": "-86.53700390",
+  "type": "department",
+  "cities": [
+    {
+      "id": 149132,
+      "name": "Ciudad Antigua",
+      "latitude": "13.63929030",
+      "longitude": "-86.31189830"
+    },
+    {
+      "id": 149133,
+      "name": "Dipilto",
+      "latitude": "13.72225520",
+      "longitude": "-86.51366060"
+    },
+    {
+      "id": 149134,
+      "name": "El Jícaro",
+      "latitude": "13.72222480",
+      "longitude": "-86.14115420"
+    },
+    {
+      "id": 149135,
+      "name": "Jalapa",
+      "latitude": "13.92071420",
+      "longitude": "-86.14212330"
+    },
+    {
+      "id": 149136,
+      "name": "Macuelizo",
+      "latitude": "13.65192960",
+      "longitude": "-86.61427170"
+    },
+    {
+      "id": 149137,
+      "name": "Mozonte",
+      "latitude": "13.65956840",
+      "longitude": "-86.44536490"
+    },
+    {
+      "id": 149138,
+      "name": "Murra",
+      "latitude": "13.75927550",
+      "longitude": "-86.02196840"
+    },
+    {
+      "id": 149139,
+      "name": "Ocotal",
+      "latitude": "13.63411380",
+      "longitude": "-86.50107470"
+    },
+    {
+      "id": 149140,
+      "name": "Quilalí",
+      "latitude": "13.56491080",
+      "longitude": "-86.02921480"
+    },
+    {
+      "id": 149141,
+      "name": "San Fernando",
+      "latitude": "13.67873430",
+      "longitude": "-86.32079750"
+    },
+    {
+      "id": 149142,
+      "name": "Santa María",
+      "latitude": "13.74665480",
+      "longitude": "-86.71124070"
+    },
+    {
+      "id": 149143,
+      "name": "Wiwilí",
+      "latitude": "13.62076450",
+      "longitude": "-85.83169700"
+    }
+  ],
+  "country": {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso3": "NIC",
+    "iso2": "NI",
+    "numeric_code": "558",
+    "phone_code": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "currency_name": "Nicaraguan córdoba",
+    "currency_symbol": "C$",
+    "tld": ".ni",
+    "native": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Managua",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "니카라과",
+      "pt-BR": "Nicarágua",
+      "pt": "Nicarágua",
+      "nl": "Nicaragua",
+      "hr": "Nikaragva",
+      "fa": "نیکاراگوئه",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fr": "Nicaragua",
+      "ja": "ニカラグア",
+      "it": "Nicaragua",
+      "cn": "尼加拉瓜",
+      "tr": "Nikaragua"
+    },
+    "latitude": "13.00000000",
+    "longitude": "-85.00000000",
+    "emoji": "🇳🇮",
+    "emojiU": "U+1F1F3 U+1F1EE"
+  }
+}

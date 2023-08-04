@@ -1,0 +1,96 @@
+{
+  "id": 3236,
+  "name": "Asyut",
+  "state_code": "AST",
+  "latitude": "27.21338310",
+  "longitude": "31.44561790",
+  "type": null,
+  "cities": [
+    {
+      "id": 31755,
+      "name": "Abnūb",
+      "latitude": "27.26960000",
+      "longitude": "31.15105000"
+    },
+    {
+      "id": 31758,
+      "name": "Abū Tīj",
+      "latitude": "27.04411000",
+      "longitude": "31.31897000"
+    },
+    {
+      "id": 31764,
+      "name": "Al Badārī",
+      "latitude": "26.99257000",
+      "longitude": "31.41554000"
+    },
+    {
+      "id": 31781,
+      "name": "Al Qūşīyah",
+      "latitude": "27.44020000",
+      "longitude": "30.81841000"
+    },
+    {
+      "id": 31792,
+      "name": "Asyūţ",
+      "latitude": "27.18096000",
+      "longitude": "31.18368000"
+    },
+    {
+      "id": 31807,
+      "name": "Dayrūţ",
+      "latitude": "27.55602000",
+      "longitude": "30.80764000"
+    },
+    {
+      "id": 31836,
+      "name": "Manfalūţ",
+      "latitude": "27.31040000",
+      "longitude": "30.97004000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

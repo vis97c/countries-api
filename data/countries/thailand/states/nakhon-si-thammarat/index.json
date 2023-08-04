@@ -1,0 +1,228 @@
+{
+  "id": 3520,
+  "name": "Nakhon Si Thammarat",
+  "state_code": "80",
+  "latitude": "8.43248310",
+  "longitude": "99.95990330",
+  "type": null,
+  "cities": [
+    {
+      "id": 105225,
+      "name": "Amphoe Bang Khan",
+      "latitude": "8.01208000",
+      "longitude": "99.48449000"
+    },
+    {
+      "id": 105267,
+      "name": "Amphoe Cha-uat",
+      "latitude": "7.95645000",
+      "longitude": "99.98929000"
+    },
+    {
+      "id": 105278,
+      "name": "Amphoe Chaloem Phra Kiat",
+      "latitude": "8.18333000",
+      "longitude": "100.05000000"
+    },
+    {
+      "id": 105284,
+      "name": "Amphoe Chang Klang",
+      "latitude": "8.35697000",
+      "longitude": "99.64592000"
+    },
+    {
+      "id": 105290,
+      "name": "Amphoe Chawang",
+      "latitude": "8.46322000",
+      "longitude": "99.51107000"
+    },
+    {
+      "id": 105291,
+      "name": "Amphoe Chian Yai",
+      "latitude": "8.11719000",
+      "longitude": "100.15819000"
+    },
+    {
+      "id": 105309,
+      "name": "Amphoe Chulabhorn",
+      "latitude": "8.07591000",
+      "longitude": "99.85365000"
+    },
+    {
+      "id": 105350,
+      "name": "Amphoe Hua Sai",
+      "latitude": "8.01181000",
+      "longitude": "100.24614000"
+    },
+    {
+      "id": 105389,
+      "name": "Amphoe Khanom",
+      "latitude": "9.18317000",
+      "longitude": "99.80192000"
+    },
+    {
+      "id": 105482,
+      "name": "Amphoe Lan Saka",
+      "latitude": "8.37799000",
+      "longitude": "99.78328000"
+    },
+    {
+      "id": 105558,
+      "name": "Amphoe Mueang Nakhon Si Thammarat",
+      "latitude": "8.44013000",
+      "longitude": "99.98537000"
+    },
+    {
+      "id": 105607,
+      "name": "Amphoe Na Bon",
+      "latitude": "8.26976000",
+      "longitude": "99.55694000"
+    },
+    {
+      "id": 105688,
+      "name": "Amphoe Nopphitam",
+      "latitude": "8.75166000",
+      "longitude": "99.67087000"
+    },
+    {
+      "id": 105704,
+      "name": "Amphoe Pak Phanang",
+      "latitude": "8.30711000",
+      "longitude": "100.17361000"
+    },
+    {
+      "id": 105742,
+      "name": "Amphoe Phipun",
+      "latitude": "8.60289000",
+      "longitude": "99.59528000"
+    },
+    {
+      "id": 105761,
+      "name": "Amphoe Phra Phrom",
+      "latitude": "8.32652000",
+      "longitude": "99.93240000"
+    },
+    {
+      "id": 105772,
+      "name": "Amphoe Phrom Khiri",
+      "latitude": "8.54242000",
+      "longitude": "99.79229000"
+    },
+    {
+      "id": 105812,
+      "name": "Amphoe Ron Phibun",
+      "latitude": "8.17997000",
+      "longitude": "99.89248000"
+    },
+    {
+      "id": 106231,
+      "name": "Amphoe Sichon",
+      "latitude": "8.94981000",
+      "longitude": "99.81322000"
+    },
+    {
+      "id": 106284,
+      "name": "Amphoe Tha Sala",
+      "latitude": "8.69367000",
+      "longitude": "99.88539000"
+    },
+    {
+      "id": 106296,
+      "name": "Amphoe Tham Phannara",
+      "latitude": "8.45822000",
+      "longitude": "99.37718000"
+    },
+    {
+      "id": 106317,
+      "name": "Amphoe Thung Song",
+      "latitude": "8.11757000",
+      "longitude": "99.66907000"
+    },
+    {
+      "id": 106320,
+      "name": "Amphoe Thung Yai",
+      "latitude": "8.28708000",
+      "longitude": "99.37196000"
+    },
+    {
+      "id": 106470,
+      "name": "Chawang",
+      "latitude": "8.42614000",
+      "longitude": "99.50472000"
+    },
+    {
+      "id": 106585,
+      "name": "Nakhon Si Thammarat",
+      "latitude": "8.43333000",
+      "longitude": "99.96667000"
+    },
+    {
+      "id": 106611,
+      "name": "Pak Phanang",
+      "latitude": "8.35109000",
+      "longitude": "100.20195000"
+    },
+    {
+      "id": 106669,
+      "name": "Ron Phibun",
+      "latitude": "8.17911000",
+      "longitude": "99.85425000"
+    },
+    {
+      "id": 106726,
+      "name": "Tham Phannara",
+      "latitude": "8.42045000",
+      "longitude": "99.39517000"
+    },
+    {
+      "id": 106733,
+      "name": "Thung Song",
+      "latitude": "8.16453000",
+      "longitude": "99.68039000"
+    }
+  ],
+  "country": {
+    "id": 219,
+    "name": "Thailand",
+    "iso3": "THA",
+    "iso2": "TH",
+    "numeric_code": "764",
+    "phone_code": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currency_name": "Thai baht",
+    "currency_symbol": "฿",
+    "tld": ".th",
+    "native": "ประเทศไทย",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Bangkok",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "ICT",
+        "tzName": "Indochina Time"
+      }
+    ],
+    "translations": {
+      "kr": "태국",
+      "pt-BR": "Tailândia",
+      "pt": "Tailândia",
+      "nl": "Thailand",
+      "hr": "Tajland",
+      "fa": "تایلند",
+      "de": "Thailand",
+      "es": "Tailandia",
+      "fr": "Thaïlande",
+      "ja": "タイ",
+      "it": "Tailandia",
+      "cn": "泰国",
+      "tr": "Tayland"
+    },
+    "latitude": "15.00000000",
+    "longitude": "100.00000000",
+    "emoji": "🇹🇭",
+    "emojiU": "U+1F1F9 U+1F1ED"
+  }
+}

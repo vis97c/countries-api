@@ -1,0 +1,72 @@
+{
+  "id": 3224,
+  "name": "Damietta",
+  "state_code": "DT",
+  "latitude": "31.36257990",
+  "longitude": "31.67393710",
+  "type": null,
+  "cities": [
+    {
+      "id": 31794,
+      "name": "Az Zarqā",
+      "latitude": "31.20864000",
+      "longitude": "31.63528000"
+    },
+    {
+      "id": 31805,
+      "name": "Damietta",
+      "latitude": "31.41648000",
+      "longitude": "31.81332000"
+    },
+    {
+      "id": 31815,
+      "name": "Fāraskūr",
+      "latitude": "31.32977000",
+      "longitude": "31.71507000"
+    }
+  ],
+  "country": {
+    "id": 65,
+    "name": "Egypt",
+    "iso3": "EGY",
+    "iso2": "EG",
+    "numeric_code": "818",
+    "phone_code": "20",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currency_name": "Egyptian pound",
+    "currency_symbol": "ج.م",
+    "tld": ".eg",
+    "native": "مصر‎",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "이집트",
+      "pt-BR": "Egito",
+      "pt": "Egipto",
+      "nl": "Egypte",
+      "hr": "Egipat",
+      "fa": "مصر",
+      "de": "Ägypten",
+      "es": "Egipto",
+      "fr": "Égypte",
+      "ja": "エジプト",
+      "it": "Egitto",
+      "cn": "埃及",
+      "tr": "Mısır"
+    },
+    "latitude": "27.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇪🇬",
+    "emojiU": "U+1F1EA U+1F1EC"
+  }
+}

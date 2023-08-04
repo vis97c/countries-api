@@ -1,0 +1,189 @@
+{
+  "id": 25,
+  "name": "Bermuda",
+  "iso3": "BMU",
+  "iso2": "BM",
+  "numeric_code": "060",
+  "phone_code": "+1-441",
+  "capital": "Hamilton",
+  "currency": "BMD",
+  "currency_name": "Bermudian dollar",
+  "currency_symbol": "$",
+  "tld": ".bm",
+  "native": "Bermuda",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Bermuda",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "kr": "버뮤다",
+    "pt-BR": "Bermudas",
+    "pt": "Bermudas",
+    "nl": "Bermuda",
+    "hr": "Bermudi",
+    "fa": "برمودا",
+    "de": "Bermuda",
+    "es": "Bermudas",
+    "fr": "Bermudes",
+    "ja": "バミューダ",
+    "it": "Bermuda",
+    "cn": "百慕大",
+    "tr": "Bermuda"
+  },
+  "latitude": "32.33333333",
+  "longitude": "-64.75000000",
+  "emoji": "🇧🇲",
+  "emojiU": "U+1F1E7 U+1F1F2",
+  "states": [
+    {
+      "id": 4860,
+      "name": "Devonshire",
+      "state_code": "DEV",
+      "latitude": "32.30380620",
+      "longitude": "-64.76069540",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153518,
+          "name": "Devonshire",
+          "latitude": "32.29300000",
+          "longitude": "-64.80000000"
+        }
+      ]
+    },
+    {
+      "id": 4861,
+      "name": "Hamilton",
+      "state_code": "HA",
+      "latitude": "32.34494320",
+      "longitude": "-64.72365000",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153515,
+          "name": "Hamilton",
+          "latitude": "32.29400000",
+          "longitude": "-64.78300000"
+        }
+      ]
+    },
+    {
+      "id": 4863,
+      "name": "Paget",
+      "state_code": "PAG",
+      "latitude": "32.28107400",
+      "longitude": "-64.77847870",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153516,
+          "name": "Paget",
+          "latitude": "32.27800000",
+          "longitude": "-64.76900000"
+        }
+      ]
+    },
+    {
+      "id": 4864,
+      "name": "Pembroke",
+      "state_code": "PEM",
+      "latitude": "32.30076720",
+      "longitude": "-64.79626300",
+      "type": "municipality",
+      "cities": []
+    },
+    {
+      "id": 4866,
+      "name": "Saint George's",
+      "state_code": "SGE",
+      "latitude": "17.12577590",
+      "longitude": "-62.56198110",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153514,
+          "name": "St. George's",
+          "latitude": "32.38100000",
+          "longitude": "-64.67400000"
+        },
+        {
+          "id": 153517,
+          "name": "Tucker’s Town",
+          "latitude": "32.33280000",
+          "longitude": "64.68810000"
+        }
+      ]
+    },
+    {
+      "id": 4867,
+      "name": "Sandys",
+      "state_code": "SAN",
+      "latitude": "32.29995280",
+      "longitude": "-64.86741030",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153513,
+          "name": "Somerset",
+          "latitude": "32.28200000",
+          "longitude": "-64.84400000"
+        }
+      ]
+    },
+    {
+      "id": 4868,
+      "name": "Smith's",
+      "state_code": "SMI",
+      "latitude": "32.31339660",
+      "longitude": "-64.73105880",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153512,
+          "name": "Flatts",
+          "latitude": "32.32800000",
+          "longitude": "-64.73600000"
+        }
+      ]
+    },
+    {
+      "id": 4869,
+      "name": "Southampton",
+      "state_code": "SOU",
+      "latitude": "32.25400950",
+      "longitude": "-64.82590580",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153511,
+          "name": "Southampton",
+          "latitude": "32.24900000",
+          "longitude": "-64.86100000"
+        }
+      ]
+    },
+    {
+      "id": 4870,
+      "name": "Warwick",
+      "state_code": "WAR",
+      "latitude": "32.26615340",
+      "longitude": "-64.80811980",
+      "type": "municipality",
+      "cities": [
+        {
+          "id": 153510,
+          "name": "Warwick",
+          "latitude": "32.26700000",
+          "longitude": "-64.80600000"
+        }
+      ]
+    }
+  ]
+}

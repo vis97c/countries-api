@@ -1,0 +1,189 @@
+{
+  "id": 1796,
+  "name": "Sulawesi Tenggara",
+  "state_code": "SG",
+  "latitude": "-4.14491000",
+  "longitude": "122.17460500",
+  "type": "province",
+  "cities": [
+    {
+      "id": 56372,
+      "name": "Kabupaten Bombana",
+      "latitude": "-4.62570000",
+      "longitude": "121.81641000"
+    },
+    {
+      "id": 56386,
+      "name": "Kabupaten Buton",
+      "latitude": "-5.31667000",
+      "longitude": "122.91667000"
+    },
+    {
+      "id": 56387,
+      "name": "Kabupaten Buton Selatan",
+      "latitude": "-5.56667000",
+      "longitude": "122.70000000"
+    },
+    {
+      "id": 56388,
+      "name": "Kabupaten Buton Tengah",
+      "latitude": "-5.31667000",
+      "longitude": "122.33333000"
+    },
+    {
+      "id": 56389,
+      "name": "Kabupaten Buton Utara",
+      "latitude": "-5.01457000",
+      "longitude": "122.93015000"
+    },
+    {
+      "id": 56461,
+      "name": "Kabupaten Kolaka",
+      "latitude": "-4.08333000",
+      "longitude": "121.66667000"
+    },
+    {
+      "id": 56462,
+      "name": "Kabupaten Kolaka Timur",
+      "latitude": "-4.01807000",
+      "longitude": "121.86172000"
+    },
+    {
+      "id": 56463,
+      "name": "Kabupaten Kolaka Utara",
+      "latitude": "-3.10452000",
+      "longitude": "121.12427000"
+    },
+    {
+      "id": 56464,
+      "name": "Kabupaten Konawe",
+      "latitude": "-3.91717000",
+      "longitude": "122.08823000"
+    },
+    {
+      "id": 56465,
+      "name": "Kabupaten Konawe Kepulauan",
+      "latitude": "-4.11656000",
+      "longitude": "123.10181000"
+    },
+    {
+      "id": 56466,
+      "name": "Kabupaten Konawe Selatan",
+      "latitude": "-4.19191000",
+      "longitude": "122.44854000"
+    },
+    {
+      "id": 56467,
+      "name": "Kabupaten Konawe Utara",
+      "latitude": "-3.41552000",
+      "longitude": "121.99081000"
+    },
+    {
+      "id": 56545,
+      "name": "Kabupaten Muna",
+      "latitude": "-4.96667000",
+      "longitude": "122.66667000"
+    },
+    {
+      "id": 56546,
+      "name": "Kabupaten Muna Barat",
+      "latitude": "-4.83333000",
+      "longitude": "122.48333000"
+    },
+    {
+      "id": 56703,
+      "name": "Katabu",
+      "latitude": "-4.93330000",
+      "longitude": "122.51670000"
+    },
+    {
+      "id": 56712,
+      "name": "Kendari",
+      "latitude": "-3.97780000",
+      "longitude": "122.51507000"
+    },
+    {
+      "id": 56737,
+      "name": "Kota Baubau",
+      "latitude": "-5.47700000",
+      "longitude": "122.61660000"
+    },
+    {
+      "id": 56758,
+      "name": "Kota Kendari",
+      "latitude": "-3.98333000",
+      "longitude": "122.50000000"
+    },
+    {
+      "id": 57049,
+      "name": "Wakatobi Regency",
+      "latitude": "-5.31934000",
+      "longitude": "123.59480000"
+    }
+  ],
+  "country": {
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phone_code": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Jakarta",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Jayapura",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "WIT",
+        "tzName": "Eastern Indonesian Time"
+      },
+      {
+        "zoneName": "Asia/Makassar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "WITA",
+        "tzName": "Central Indonesia Time"
+      },
+      {
+        "zoneName": "Asia/Pontianak",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "WIB",
+        "tzName": "Western Indonesian Time"
+      }
+    ],
+    "translations": {
+      "kr": "인도네시아",
+      "pt-BR": "Indonésia",
+      "pt": "Indonésia",
+      "nl": "Indonesië",
+      "hr": "Indonezija",
+      "fa": "اندونزی",
+      "de": "Indonesien",
+      "es": "Indonesia",
+      "fr": "Indonésie",
+      "ja": "インドネシア",
+      "it": "Indonesia",
+      "cn": "印度尼西亚",
+      "tr": "Endonezya"
+    },
+    "latitude": "-5.00000000",
+    "longitude": "120.00000000",
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": 299,
+  "name": "Zamfara",
+  "state_code": "ZA",
+  "latitude": "12.12218050",
+  "longitude": "6.22358190",
+  "type": "state",
+  "cities": [
+    {
+      "id": 76773,
+      "name": "Anka",
+      "latitude": "12.11347000",
+      "longitude": "5.92681000"
+    },
+    {
+      "id": 76829,
+      "name": "Dan Sadau",
+      "latitude": "11.29621000",
+      "longitude": "6.49520000"
+    },
+    {
+      "id": 76893,
+      "name": "Gummi",
+      "latitude": "12.14484000",
+      "longitude": "5.11776000"
+    },
+    {
+      "id": 76894,
+      "name": "Gusau",
+      "latitude": "12.17024000",
+      "longitude": "6.66412000"
+    },
+    {
+      "id": 76980,
+      "name": "Kaura Namoda",
+      "latitude": "12.59371000",
+      "longitude": "6.58648000"
+    },
+    {
+      "id": 76998,
+      "name": "Kwatarkwashi",
+      "latitude": "12.14082000",
+      "longitude": "6.82196000"
+    },
+    {
+      "id": 77025,
+      "name": "Maru",
+      "latitude": "12.33360000",
+      "longitude": "6.40372000"
+    },
+    {
+      "id": 77034,
+      "name": "Moriki",
+      "latitude": "12.87405000",
+      "longitude": "6.48754000"
+    },
+    {
+      "id": 77100,
+      "name": "Sauri",
+      "latitude": "11.72655000",
+      "longitude": "6.78374000"
+    },
+    {
+      "id": 77115,
+      "name": "Tsafe",
+      "latitude": "11.95775000",
+      "longitude": "6.92083000"
+    }
+  ],
+  "country": {
+    "id": 161,
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "iso2": "NG",
+    "numeric_code": "566",
+    "phone_code": "234",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currency_name": "Nigerian naira",
+    "currency_symbol": "₦",
+    "tld": ".ng",
+    "native": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "나이지리아",
+      "pt-BR": "Nigéria",
+      "pt": "Nigéria",
+      "nl": "Nigeria",
+      "hr": "Nigerija",
+      "fa": "نیجریه",
+      "de": "Nigeria",
+      "es": "Nigeria",
+      "fr": "Nigéria",
+      "ja": "ナイジェリア",
+      "it": "Nigeria",
+      "cn": "尼日利亚",
+      "tr": "Nijerya"
+    },
+    "latitude": "10.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇬",
+    "emojiU": "U+1F1F3 U+1F1EC"
+  }
+}

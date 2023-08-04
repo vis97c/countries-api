@@ -1,0 +1,216 @@
+{
+  "id": 4717,
+  "name": "Varna Province",
+  "state_code": "03",
+  "latitude": "43.20464770",
+  "longitude": "27.91054880",
+  "type": null,
+  "cities": [
+    {
+      "id": 9252,
+      "name": "Aksakovo",
+      "latitude": "43.25615000",
+      "longitude": "27.82105000"
+    },
+    {
+      "id": 9260,
+      "name": "Asparuhovo",
+      "latitude": "43.18067000",
+      "longitude": "27.88823000"
+    },
+    {
+      "id": 9263,
+      "name": "Balgarevo",
+      "latitude": "43.40296000",
+      "longitude": "28.41189000"
+    },
+    {
+      "id": 9272,
+      "name": "Beloslav",
+      "latitude": "43.18960000",
+      "longitude": "27.70429000"
+    },
+    {
+      "id": 9293,
+      "name": "Byala",
+      "latitude": "42.87426000",
+      "longitude": "27.88865000"
+    },
+    {
+      "id": 9304,
+      "name": "Dalgopol",
+      "latitude": "43.05000000",
+      "longitude": "27.35000000"
+    },
+    {
+      "id": 9307,
+      "name": "Devnya",
+      "latitude": "43.22222000",
+      "longitude": "27.56944000"
+    },
+    {
+      "id": 9313,
+      "name": "Dolni Chiflik",
+      "latitude": "42.99296000",
+      "longitude": "27.71596000"
+    },
+    {
+      "id": 9364,
+      "name": "Kiten",
+      "latitude": "43.08333000",
+      "longitude": "27.31667000"
+    },
+    {
+      "id": 9412,
+      "name": "Obshtina Aksakovo",
+      "latitude": "43.31667000",
+      "longitude": "27.85000000"
+    },
+    {
+      "id": 9418,
+      "name": "Obshtina Avren",
+      "latitude": "43.10000000",
+      "longitude": "27.71667000"
+    },
+    {
+      "id": 9427,
+      "name": "Obshtina Beloslav",
+      "latitude": "43.20000000",
+      "longitude": "27.73333000"
+    },
+    {
+      "id": 9444,
+      "name": "Obshtina Byala",
+      "latitude": "42.88333000",
+      "longitude": "27.81667000"
+    },
+    {
+      "id": 9452,
+      "name": "Obshtina Dalgopol",
+      "latitude": "43.05000000",
+      "longitude": "27.35000000"
+    },
+    {
+      "id": 9454,
+      "name": "Obshtina Devnya",
+      "latitude": "43.22056000",
+      "longitude": "27.60052000"
+    },
+    {
+      "id": 9461,
+      "name": "Obshtina Dolni Chiflik",
+      "latitude": "42.96667000",
+      "longitude": "27.68333000"
+    },
+    {
+      "id": 9565,
+      "name": "Obshtina Provadia",
+      "latitude": "43.18333000",
+      "longitude": "27.40000000"
+    },
+    {
+      "id": 9606,
+      "name": "Obshtina Suvorovo",
+      "latitude": "43.33333000",
+      "longitude": "27.65000000"
+    },
+    {
+      "id": 9623,
+      "name": "Obshtina Valchidol",
+      "latitude": "43.45000000",
+      "longitude": "27.50000000"
+    },
+    {
+      "id": 9624,
+      "name": "Obshtina Varna",
+      "latitude": "43.21667000",
+      "longitude": "27.91667000"
+    },
+    {
+      "id": 9629,
+      "name": "Obshtina Vetrino",
+      "latitude": "43.31667000",
+      "longitude": "27.43333000"
+    },
+    {
+      "id": 9663,
+      "name": "Provadia",
+      "latitude": "43.18333000",
+      "longitude": "27.43333000"
+    },
+    {
+      "id": 9714,
+      "name": "Suvorovo",
+      "latitude": "43.33058000",
+      "longitude": "27.59908000"
+    },
+    {
+      "id": 9734,
+      "name": "Valchidol",
+      "latitude": "43.40000000",
+      "longitude": "27.55000000"
+    },
+    {
+      "id": 9735,
+      "name": "Varna",
+      "latitude": "43.21667000",
+      "longitude": "27.91667000"
+    },
+    {
+      "id": 9740,
+      "name": "Vetrino",
+      "latitude": "43.31667000",
+      "longitude": "27.43333000"
+    },
+    {
+      "id": 9751,
+      "name": "Zlatni Pyasatsi",
+      "latitude": "43.28500000",
+      "longitude": "28.04180000"
+    }
+  ],
+  "country": {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "iso2": "BG",
+    "numeric_code": "100",
+    "phone_code": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "currency_name": "Bulgarian lev",
+    "currency_symbol": "Лв.",
+    "tld": ".bg",
+    "native": "България",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Sofia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "불가리아",
+      "pt-BR": "Bulgária",
+      "pt": "Bulgária",
+      "nl": "Bulgarije",
+      "hr": "Bugarska",
+      "fa": "بلغارستان",
+      "de": "Bulgarien",
+      "es": "Bulgaria",
+      "fr": "Bulgarie",
+      "ja": "ブルガリア",
+      "it": "Bulgaria",
+      "cn": "保加利亚",
+      "tr": "Bulgaristan"
+    },
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "emoji": "🇧🇬",
+    "emojiU": "U+1F1E7 U+1F1EC"
+  }
+}

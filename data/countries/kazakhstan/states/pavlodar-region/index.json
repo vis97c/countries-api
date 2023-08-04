@@ -1,0 +1,162 @@
+{
+  "id": 146,
+  "name": "Pavlodar Region",
+  "state_code": "PAV",
+  "latitude": "52.28784440",
+  "longitude": "76.97334530",
+  "type": null,
+  "cities": [
+    {
+      "id": 65599,
+      "name": "Aksu",
+      "latitude": "52.04023000",
+      "longitude": "76.92748000"
+    },
+    {
+      "id": 65637,
+      "name": "Bayanaul",
+      "latitude": "50.79304000",
+      "longitude": "75.70123000"
+    },
+    {
+      "id": 65644,
+      "name": "Belogor’ye",
+      "latitude": "51.52983000",
+      "longitude": "77.47146000"
+    },
+    {
+      "id": 65673,
+      "name": "Ekibastuz",
+      "latitude": "51.72371000",
+      "longitude": "75.32287000"
+    },
+    {
+      "id": 65685,
+      "name": "Irtyshsk",
+      "latitude": "53.33365000",
+      "longitude": "75.45775000"
+    },
+    {
+      "id": 65686,
+      "name": "Kalkaman",
+      "latitude": "51.95349000",
+      "longitude": "76.02723000"
+    },
+    {
+      "id": 65713,
+      "name": "Leninskiy",
+      "latitude": "52.25346000",
+      "longitude": "76.78211000"
+    },
+    {
+      "id": 65727,
+      "name": "Mayqayyng",
+      "latitude": "51.45981000",
+      "longitude": "75.80232000"
+    },
+    {
+      "id": 65744,
+      "name": "Pavlodar",
+      "latitude": "52.28333000",
+      "longitude": "76.96667000"
+    },
+    {
+      "id": 65756,
+      "name": "Qashyr",
+      "latitude": "53.06649000",
+      "longitude": "76.10489000"
+    },
+    {
+      "id": 65843,
+      "name": "Zhelezinka",
+      "latitude": "53.53880000",
+      "longitude": "75.31326000"
+    }
+  ],
+  "country": {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "numeric_code": "398",
+    "phone_code": "7",
+    "capital": "Astana",
+    "currency": "KZT",
+    "currency_name": "Kazakhstani tenge",
+    "currency_symbol": "лв",
+    "tld": ".kz",
+    "native": "Қазақстан",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Almaty",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "ALMT",
+        "tzName": "Alma-Ata Time[1"
+      },
+      {
+        "zoneName": "Asia/Aqtau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Aqtobe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "AQTT",
+        "tzName": "Aqtobe Time"
+      },
+      {
+        "zoneName": "Asia/Atyrau",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "MSD+1",
+        "tzName": "Moscow Daylight Time+1"
+      },
+      {
+        "zoneName": "Asia/Oral",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "ORAT",
+        "tzName": "Oral Time"
+      },
+      {
+        "zoneName": "Asia/Qostanay",
+        "gmtOffset": 21600,
+        "gmtOffsetName": "UTC+06:00",
+        "abbreviation": "QYZST",
+        "tzName": "Qyzylorda Summer Time"
+      },
+      {
+        "zoneName": "Asia/Qyzylorda",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "QYZT",
+        "tzName": "Qyzylorda Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "카자흐스탄",
+      "pt-BR": "Cazaquistão",
+      "pt": "Cazaquistão",
+      "nl": "Kazachstan",
+      "hr": "Kazahstan",
+      "fa": "قزاقستان",
+      "de": "Kasachstan",
+      "es": "Kazajistán",
+      "fr": "Kazakhstan",
+      "ja": "カザフスタン",
+      "it": "Kazakistan",
+      "cn": "哈萨克斯坦",
+      "tr": "Kazakistan"
+    },
+    "latitude": "48.00000000",
+    "longitude": "68.00000000",
+    "emoji": "🇰🇿",
+    "emojiU": "U+1F1F0 U+1F1FF"
+  }
+}
