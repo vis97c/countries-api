@@ -18,13 +18,16 @@ export function makeJsonResponse(response: Response) {
 	 * Returns a JSON response object with the status
 	 */
 	function JsonResponse(data: Record<string, any> | any[]): void;
-	function JsonResponse(errMsg: string, errStatus?: number): void;
+	function JsonResponse(errMsg: string, errStatus?: number, headers?: Record<string, any>): void;
 	function JsonResponse(
 		dataOrErrMsg: string | Record<string, any> | any[],
-		errStatus: number = 400
+		errStatus: number = 400,
+		headers?: Record<string, any>
 	): void {
 		const errorMsg = typeof dataOrErrMsg === "string" ? dataOrErrMsg : null;
 		const data = errorMsg ? null : dataOrErrMsg;
+
+		if (headers) response.set(headers);
 
 		// 400 by default when a error message is provided
 		response.status(errorMsg ? errStatus : 200).json({ error: errorMsg || null, data });
