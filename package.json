@@ -3,7 +3,25 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "author": "Victor Saa <vis97c@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vis97c/countries-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vis97c/countries-api/issues"
+  },
+  "homepage": "https://github.com/vis97c/countries-api#readme",
+  "keywords": [
+    "indicatives",
+    "countries with indicatives",
+    "countries",
+    "countries and states",
+    "countries with states and cities",
+    "states and cities",
+    "rest",
+    "api"
+  ],
+  "author": "@vis97c <vis97c@outlook.com>",
   "license": "MIT",
   "engines": {
     "node": ">=16.19.0",
