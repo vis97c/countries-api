@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import path from "node:path";
 import monitor from "express-status-monitor";
 import _ from "lodash";
@@ -20,6 +21,9 @@ const logger = new AccessLogger(requestQuantity, requestTime, requestBlockTime);
 
 /** Allow monitoring '/status' */
 if (process.env.DEBUG) app.use(monitor());
+
+app.disable("x-powered-by");
+app.use(cors());
 
 /** Limits the number of request from any ip */
 app.use(function (req, res, next) {
