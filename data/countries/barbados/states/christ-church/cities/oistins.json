@@ -10,5 +10,49 @@
     "latitude": "36.00604070",
     "longitude": "-95.92112100",
     "type": null
+  },
+  "country": {
+    "id": 20,
+    "name": "Barbados",
+    "iso3": "BRB",
+    "iso2": "BB",
+    "numeric_code": "052",
+    "phone_code": "+1-246",
+    "capital": "Bridgetown",
+    "currency": "BBD",
+    "currency_name": "Barbadian dollar",
+    "currency_symbol": "Bds$",
+    "tld": ".bb",
+    "native": "Barbados",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Barbados",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "바베이도스",
+      "pt-BR": "Barbados",
+      "pt": "Barbados",
+      "nl": "Barbados",
+      "hr": "Barbados",
+      "fa": "باربادوس",
+      "de": "Barbados",
+      "es": "Barbados",
+      "fr": "Barbade",
+      "ja": "バルバドス",
+      "it": "Barbados",
+      "cn": "巴巴多斯",
+      "tr": "Barbados"
+    },
+    "latitude": "13.16666666",
+    "longitude": "-59.53333333",
+    "emoji": "🇧🇧",
+    "emojiU": "U+1F1E7 U+1F1E7"
   }
 }

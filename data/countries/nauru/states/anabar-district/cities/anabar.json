@@ -10,5 +10,49 @@
     "latitude": "-0.51335170",
     "longitude": "166.94846240",
     "type": null
+  },
+  "country": {
+    "id": 153,
+    "name": "Nauru",
+    "iso3": "NRU",
+    "iso2": "NR",
+    "numeric_code": "520",
+    "phone_code": "674",
+    "capital": "Yaren",
+    "currency": "AUD",
+    "currency_name": "Australian dollar",
+    "currency_symbol": "$",
+    "tld": ".nr",
+    "native": "Nauru",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Nauru",
+        "gmtOffset": 43200,
+        "gmtOffsetName": "UTC+12:00",
+        "abbreviation": "NRT",
+        "tzName": "Nauru Time"
+      }
+    ],
+    "translations": {
+      "kr": "나우루",
+      "pt-BR": "Nauru",
+      "pt": "Nauru",
+      "nl": "Nauru",
+      "hr": "Nauru",
+      "fa": "نائورو",
+      "de": "Nauru",
+      "es": "Nauru",
+      "fr": "Nauru",
+      "ja": "ナウル",
+      "it": "Nauru",
+      "cn": "瑙鲁",
+      "tr": "Nauru"
+    },
+    "latitude": "-0.53333333",
+    "longitude": "166.91666666",
+    "emoji": "🇳🇷",
+    "emojiU": "U+1F1F3 U+1F1F7"
   }
 }

@@ -10,5 +10,63 @@
     "latitude": "48.23881470",
     "longitude": "96.07030190",
     "type": null
+  },
+  "country": {
+    "id": 146,
+    "name": "Mongolia",
+    "iso3": "MNG",
+    "iso2": "MN",
+    "numeric_code": "496",
+    "phone_code": "976",
+    "capital": "Ulan Bator",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "native": "Монгол улс",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Choibalsan",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CHOT",
+        "tzName": "Choibalsan Standard Time"
+      },
+      {
+        "zoneName": "Asia/Hovd",
+        "gmtOffset": 25200,
+        "gmtOffsetName": "UTC+07:00",
+        "abbreviation": "HOVT",
+        "tzName": "Hovd Time"
+      },
+      {
+        "zoneName": "Asia/Ulaanbaatar",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "ULAT",
+        "tzName": "Ulaanbaatar Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "몽골",
+      "pt-BR": "Mongólia",
+      "pt": "Mongólia",
+      "nl": "Mongolië",
+      "hr": "Mongolija",
+      "fa": "مغولستان",
+      "de": "Mongolei",
+      "es": "Mongolia",
+      "fr": "Mongolie",
+      "ja": "モンゴル",
+      "it": "Mongolia",
+      "cn": "蒙古",
+      "tr": "Moğolistan"
+    },
+    "latitude": "46.00000000",
+    "longitude": "105.00000000",
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3"
   }
 }

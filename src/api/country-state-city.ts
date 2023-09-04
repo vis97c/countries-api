@@ -76,14 +76,18 @@ const CountryStateCityHandler: RequestHandler = async function (req, res) {
 		}
 
 		const statePath = path.join(statesPath, _.kebabCase(state.name));
+		const withCountry = typeof req.query.country === "string";
 		const citiesPath = path.join(statePath, "cities");
 		const cityParam = req.params.city?.toLowerCase();
 
 		// Specific state
 		if (!cityParam) {
 			const stateData: iState = await getJson(path.join(statePath, "index"));
+			const mappedState = mapStateData(stateData);
 
-			return JsonRes(mapStateData(stateData));
+			if (withCountry) mappedState.country = mapCountryData(country);
+
+			return JsonRes(mappedState);
 		}
 
 		const cities: iCity[] = await getJson(path.join(citiesPath, "index"));
@@ -98,11 +102,16 @@ const CountryStateCityHandler: RequestHandler = async function (req, res) {
 			return JsonRes(`No city with the given data was found within "${state.name}"`, 404);
 		}
 
-		// Specific city
 		const cityPath = path.join(citiesPath, _.kebabCase(city.name));
+		const withState = typeof req.query.state === "string";
 		const cityData: iCity = await getJson(cityPath);
+		const mappedCity = mapCityData(cityData);
 
-		return JsonRes(mapCityData(cityData));
+		if (withState) mappedCity.state = mapStateData(state);
+		if (withCountry) mappedCity.country = mapCountryData(country);
+
+		// Specific city
+		return JsonRes(mappedCity);
 	} catch (error) {
 		// handle unexpected errors
 		if (process.env.DEBUG) console.error(error);

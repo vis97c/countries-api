@@ -10,5 +10,49 @@
     "latitude": "4.76138620",
     "longitude": "-8.22129790",
     "type": null
+  },
+  "country": {
+    "id": 123,
+    "name": "Liberia",
+    "iso3": "LBR",
+    "iso2": "LR",
+    "numeric_code": "430",
+    "phone_code": "231",
+    "capital": "Monrovia",
+    "currency": "LRD",
+    "currency_name": "Liberian dollar",
+    "currency_symbol": "$",
+    "tld": ".lr",
+    "native": "Liberia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "라이베리아",
+      "pt-BR": "Libéria",
+      "pt": "Libéria",
+      "nl": "Liberia",
+      "hr": "Liberija",
+      "fa": "لیبریا",
+      "de": "Liberia",
+      "es": "Liberia",
+      "fr": "Liberia",
+      "ja": "リベリア",
+      "it": "Liberia",
+      "cn": "利比里亚",
+      "tr": "Liberya"
+    },
+    "latitude": "6.50000000",
+    "longitude": "-9.50000000",
+    "emoji": "🇱🇷",
+    "emojiU": "U+1F1F1 U+1F1F7"
   }
 }

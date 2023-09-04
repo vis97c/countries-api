@@ -10,5 +10,49 @@
     "latitude": "37.63159500",
     "longitude": "-97.34584090",
     "type": null
+  },
+  "country": {
+    "id": 38,
+    "name": "Cameroon",
+    "iso3": "CMR",
+    "iso2": "CM",
+    "numeric_code": "120",
+    "phone_code": "237",
+    "capital": "Yaounde",
+    "currency": "XAF",
+    "currency_name": "Central African CFA franc",
+    "currency_symbol": "FCFA",
+    "tld": ".cm",
+    "native": "Cameroon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Douala",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "카메룬",
+      "pt-BR": "Camarões",
+      "pt": "Camarões",
+      "nl": "Kameroen",
+      "hr": "Kamerun",
+      "fa": "کامرون",
+      "de": "Kamerun",
+      "es": "Camerún",
+      "fr": "Cameroun",
+      "ja": "カメルーン",
+      "it": "Camerun",
+      "cn": "喀麦隆",
+      "tr": "Kamerun"
+    },
+    "latitude": "6.00000000",
+    "longitude": "12.00000000",
+    "emoji": "🇨🇲",
+    "emojiU": "U+1F1E8 U+1F1F2"
   }
 }

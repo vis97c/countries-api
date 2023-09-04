@@ -10,5 +10,49 @@
     "latitude": "32.29995280",
     "longitude": "-64.86741030",
     "type": "municipality"
+  },
+  "country": {
+    "id": 25,
+    "name": "Bermuda",
+    "iso3": "BMU",
+    "iso2": "BM",
+    "numeric_code": "060",
+    "phone_code": "+1-441",
+    "capital": "Hamilton",
+    "currency": "BMD",
+    "currency_name": "Bermudian dollar",
+    "currency_symbol": "$",
+    "tld": ".bm",
+    "native": "Bermuda",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Bermuda",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "버뮤다",
+      "pt-BR": "Bermudas",
+      "pt": "Bermudas",
+      "nl": "Bermuda",
+      "hr": "Bermudi",
+      "fa": "برمودا",
+      "de": "Bermuda",
+      "es": "Bermudas",
+      "fr": "Bermudes",
+      "ja": "バミューダ",
+      "it": "Bermuda",
+      "cn": "百慕大",
+      "tr": "Bermuda"
+    },
+    "latitude": "32.33333333",
+    "longitude": "-64.75000000",
+    "emoji": "🇧🇲",
+    "emojiU": "U+1F1E7 U+1F1F2"
   }
 }

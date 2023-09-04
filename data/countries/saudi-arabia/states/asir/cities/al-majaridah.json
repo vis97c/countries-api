@@ -10,5 +10,49 @@
     "latitude": "19.09690620",
     "longitude": "42.86378750",
     "type": "region"
+  },
+  "country": {
+    "id": 194,
+    "name": "Saudi Arabia",
+    "iso3": "SAU",
+    "iso2": "SA",
+    "numeric_code": "682",
+    "phone_code": "966",
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "currency_name": "Saudi riyal",
+    "currency_symbol": "﷼",
+    "tld": ".sa",
+    "native": "المملكة العربية السعودية",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Riyadh",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "사우디아라비아",
+      "pt-BR": "Arábia Saudita",
+      "pt": "Arábia Saudita",
+      "nl": "Saoedi-Arabië",
+      "hr": "Saudijska Arabija",
+      "fa": "عربستان سعودی",
+      "de": "Saudi-Arabien",
+      "es": "Arabia Saudí",
+      "fr": "Arabie Saoudite",
+      "ja": "サウジアラビア",
+      "it": "Arabia Saudita",
+      "cn": "沙特阿拉伯",
+      "tr": "Suudi Arabistan"
+    },
+    "latitude": "25.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇸🇦",
+    "emojiU": "U+1F1F8 U+1F1E6"
   }
 }

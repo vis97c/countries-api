@@ -10,5 +10,49 @@
     "latitude": "50.85034630",
     "longitude": "4.35172110",
     "type": null
+  },
+  "country": {
+    "id": 22,
+    "name": "Belgium",
+    "iso3": "BEL",
+    "iso2": "BE",
+    "numeric_code": "056",
+    "phone_code": "32",
+    "capital": "Brussels",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".be",
+    "native": "België",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Brussels",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "벨기에",
+      "pt-BR": "Bélgica",
+      "pt": "Bélgica",
+      "nl": "België",
+      "hr": "Belgija",
+      "fa": "بلژیک",
+      "de": "Belgien",
+      "es": "Bélgica",
+      "fr": "Belgique",
+      "ja": "ベルギー",
+      "it": "Belgio",
+      "cn": "比利时",
+      "tr": "Belçika"
+    },
+    "latitude": "50.83333333",
+    "longitude": "4.00000000",
+    "emoji": "🇧🇪",
+    "emojiU": "U+1F1E7 U+1F1EA"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "-6.36771250",
     "longitude": "31.26263660",
     "type": "Region"
+  },
+  "country": {
+    "id": 218,
+    "name": "Tanzania",
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "numeric_code": "834",
+    "phone_code": "255",
+    "capital": "Dodoma",
+    "currency": "TZS",
+    "currency_name": "Tanzanian shilling",
+    "currency_symbol": "TSh",
+    "tld": ".tz",
+    "native": "Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dar_es_Salaam",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "탄자니아",
+      "pt-BR": "Tanzânia",
+      "pt": "Tanzânia",
+      "nl": "Tanzania",
+      "hr": "Tanzanija",
+      "fa": "تانزانیا",
+      "de": "Tansania",
+      "es": "Tanzania",
+      "fr": "Tanzanie",
+      "ja": "タンザニア",
+      "it": "Tanzania",
+      "cn": "坦桑尼亚",
+      "tr": "Tanzanya"
+    },
+    "latitude": "-6.00000000",
+    "longitude": "35.00000000",
+    "emoji": "🇹🇿",
+    "emojiU": "U+1F1F9 U+1F1FF"
   }
 }

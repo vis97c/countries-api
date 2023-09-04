@@ -10,5 +10,49 @@
     "latitude": "13.82118710",
     "longitude": "-60.90019340",
     "type": null
+  },
+  "country": {
+    "id": 186,
+    "name": "Saint Lucia",
+    "iso3": "LCA",
+    "iso2": "LC",
+    "numeric_code": "662",
+    "phone_code": "+1-758",
+    "capital": "Castries",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".lc",
+    "native": "Saint Lucia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/St_Lucia",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "세인트루시아",
+      "pt-BR": "Santa Lúcia",
+      "pt": "Santa Lúcia",
+      "nl": "Saint Lucia",
+      "hr": "Sveta Lucija",
+      "fa": "سنت لوسیا",
+      "de": "Saint Lucia",
+      "es": "Santa Lucía",
+      "fr": "Saint-Lucie",
+      "ja": "セントルシア",
+      "it": "Santa Lucia",
+      "cn": "圣卢西亚",
+      "tr": "Saint Lucia"
+    },
+    "latitude": "13.88333333",
+    "longitude": "-60.96666666",
+    "emoji": "🇱🇨",
+    "emojiU": "U+1F1F1 U+1F1E8"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "42.73522470",
     "longitude": "42.16893620",
     "type": null
+  },
+  "country": {
+    "id": 81,
+    "name": "Georgia",
+    "iso3": "GEO",
+    "iso2": "GE",
+    "numeric_code": "268",
+    "phone_code": "995",
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "currency_name": "Georgian lari",
+    "currency_symbol": "ლ",
+    "tld": ".ge",
+    "native": "საქართველო",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tbilisi",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GET",
+        "tzName": "Georgia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "조지아",
+      "pt-BR": "Geórgia",
+      "pt": "Geórgia",
+      "nl": "Georgië",
+      "hr": "Gruzija",
+      "fa": "گرجستان",
+      "de": "Georgien",
+      "es": "Georgia",
+      "fr": "Géorgie",
+      "ja": "グルジア",
+      "it": "Georgia",
+      "cn": "格鲁吉亚",
+      "tr": "Gürcistan"
+    },
+    "latitude": "42.00000000",
+    "longitude": "43.50000000",
+    "emoji": "🇬🇪",
+    "emojiU": "U+1F1EC U+1F1EA"
   }
 }

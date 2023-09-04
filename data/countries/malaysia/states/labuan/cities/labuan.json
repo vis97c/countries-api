@@ -10,5 +10,56 @@
     "latitude": "5.28314560",
     "longitude": "115.23082500",
     "type": null
+  },
+  "country": {
+    "id": 132,
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "iso2": "MY",
+    "numeric_code": "458",
+    "phone_code": "60",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "native": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Kuala_Lumpur",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      },
+      {
+        "zoneName": "Asia/Kuching",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "MYT",
+        "tzName": "Malaysia Time"
+      }
+    ],
+    "translations": {
+      "kr": "말레이시아",
+      "pt-BR": "Malásia",
+      "pt": "Malásia",
+      "nl": "Maleisië",
+      "hr": "Malezija",
+      "fa": "مالزی",
+      "de": "Malaysia",
+      "es": "Malasia",
+      "fr": "Malaisie",
+      "ja": "マレーシア",
+      "it": "Malesia",
+      "cn": "马来西亚",
+      "tr": "Malezya"
+    },
+    "latitude": "2.50000000",
+    "longitude": "112.50000000",
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE"
   }
 }

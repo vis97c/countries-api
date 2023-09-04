@@ -10,5 +10,49 @@
     "latitude": "47.63891340",
     "longitude": "28.13718160",
     "type": null
+  },
+  "country": {
+    "id": 144,
+    "name": "Moldova",
+    "iso3": "MDA",
+    "iso2": "MD",
+    "numeric_code": "498",
+    "phone_code": "373",
+    "capital": "Chisinau",
+    "currency": "MDL",
+    "currency_name": "Moldovan leu",
+    "currency_symbol": "L",
+    "tld": ".md",
+    "native": "Moldova",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Chisinau",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "몰도바",
+      "pt-BR": "Moldávia",
+      "pt": "Moldávia",
+      "nl": "Moldavië",
+      "hr": "Moldova",
+      "fa": "مولداوی",
+      "de": "Moldawie",
+      "es": "Moldavia",
+      "fr": "Moldavie",
+      "ja": "モルドバ共和国",
+      "it": "Moldavia",
+      "cn": "摩尔多瓦",
+      "tr": "Moldova"
+    },
+    "latitude": "47.00000000",
+    "longitude": "29.00000000",
+    "emoji": "🇲🇩",
+    "emojiU": "U+1F1F2 U+1F1E9"
   }
 }

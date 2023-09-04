@@ -10,5 +10,49 @@
     "latitude": "-28.53055390",
     "longitude": "30.89582420",
     "type": null
+  },
+  "country": {
+    "id": 204,
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "numeric_code": "710",
+    "phone_code": "27",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currency_name": "South African rand",
+    "currency_symbol": "R",
+    "tld": ".za",
+    "native": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "남아프리카 공화국",
+      "pt-BR": "República Sul-Africana",
+      "pt": "República Sul-Africana",
+      "nl": "Zuid-Afrika",
+      "hr": "Južnoafrička Republika",
+      "fa": "آفریقای جنوبی",
+      "de": "Republik Südafrika",
+      "es": "República de Sudáfrica",
+      "fr": "Afrique du Sud",
+      "ja": "南アフリカ",
+      "it": "Sud Africa",
+      "cn": "南非",
+      "tr": "Güney Afrika Cumhuriyeti"
+    },
+    "latitude": "-29.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇿🇦",
+    "emojiU": "U+1F1FF U+1F1E6"
   }
 }

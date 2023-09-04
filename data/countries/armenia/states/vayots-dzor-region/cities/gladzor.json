@@ -10,5 +10,49 @@
     "latitude": "39.76419960",
     "longitude": "45.33375280",
     "type": null
+  },
+  "country": {
+    "id": 12,
+    "name": "Armenia",
+    "iso3": "ARM",
+    "iso2": "AM",
+    "numeric_code": "051",
+    "phone_code": "374",
+    "capital": "Yerevan",
+    "currency": "AMD",
+    "currency_name": "Armenian dram",
+    "currency_symbol": "֏",
+    "tld": ".am",
+    "native": "Հայաստան",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Yerevan",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "AMT",
+        "tzName": "Armenia Time"
+      }
+    ],
+    "translations": {
+      "kr": "아르메니아",
+      "pt-BR": "Armênia",
+      "pt": "Arménia",
+      "nl": "Armenië",
+      "hr": "Armenija",
+      "fa": "ارمنستان",
+      "de": "Armenien",
+      "es": "Armenia",
+      "fr": "Arménie",
+      "ja": "アルメニア",
+      "it": "Armenia",
+      "cn": "亚美尼亚",
+      "tr": "Ermenistan"
+    },
+    "latitude": "40.00000000",
+    "longitude": "45.00000000",
+    "emoji": "🇦🇲",
+    "emojiU": "U+1F1E6 U+1F1F2"
   }
 }

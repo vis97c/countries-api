@@ -10,5 +10,49 @@
     "latitude": "56.83074160",
     "longitude": "9.49305270",
     "type": null
+  },
+  "country": {
+    "id": 59,
+    "name": "Denmark",
+    "iso3": "DNK",
+    "iso2": "DK",
+    "numeric_code": "208",
+    "phone_code": "45",
+    "capital": "Copenhagen",
+    "currency": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "Kr.",
+    "tld": ".dk",
+    "native": "Danmark",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Copenhagen",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "덴마크",
+      "pt-BR": "Dinamarca",
+      "pt": "Dinamarca",
+      "nl": "Denemarken",
+      "hr": "Danska",
+      "fa": "دانمارک",
+      "de": "Dänemark",
+      "es": "Dinamarca",
+      "fr": "Danemark",
+      "ja": "デンマーク",
+      "it": "Danimarca",
+      "cn": "丹麦",
+      "tr": "Danimarka"
+    },
+    "latitude": "56.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇩🇰",
+    "emojiU": "U+1F1E9 U+1F1F0"
   }
 }

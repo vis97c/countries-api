@@ -10,5 +10,49 @@
     "latitude": "63.56217350",
     "longitude": "24.00136310",
     "type": "region"
+  },
+  "country": {
+    "id": 74,
+    "name": "Finland",
+    "iso3": "FIN",
+    "iso2": "FI",
+    "numeric_code": "246",
+    "phone_code": "358",
+    "capital": "Helsinki",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".fi",
+    "native": "Suomi",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Helsinki",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "핀란드",
+      "pt-BR": "Finlândia",
+      "pt": "Finlândia",
+      "nl": "Finland",
+      "hr": "Finska",
+      "fa": "فنلاند",
+      "de": "Finnland",
+      "es": "Finlandia",
+      "fr": "Finlande",
+      "ja": "フィンランド",
+      "it": "Finlandia",
+      "cn": "芬兰",
+      "tr": "Finlandiya"
+    },
+    "latitude": "64.00000000",
+    "longitude": "26.00000000",
+    "emoji": "🇫🇮",
+    "emojiU": "U+1F1EB U+1F1EE"
   }
 }

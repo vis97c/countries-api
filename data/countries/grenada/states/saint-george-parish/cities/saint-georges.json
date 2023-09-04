@@ -10,5 +10,49 @@
     "latitude": null,
     "longitude": null,
     "type": null
+  },
+  "country": {
+    "id": 87,
+    "name": "Grenada",
+    "iso3": "GRD",
+    "iso2": "GD",
+    "numeric_code": "308",
+    "phone_code": "+1-473",
+    "capital": "St. George's",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".gd",
+    "native": "Grenada",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Grenada",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "그레나다",
+      "pt-BR": "Granada",
+      "pt": "Granada",
+      "nl": "Grenada",
+      "hr": "Grenada",
+      "fa": "گرنادا",
+      "de": "Grenada",
+      "es": "Grenada",
+      "fr": "Grenade",
+      "ja": "グレナダ",
+      "it": "Grenada",
+      "cn": "格林纳达",
+      "tr": "Grenada"
+    },
+    "latitude": "12.11666666",
+    "longitude": "-61.66666666",
+    "emoji": "🇬🇩",
+    "emojiU": "U+1F1EC U+1F1E9"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "18.40977070",
     "longitude": "-78.13363800",
     "type": null
+  },
+  "country": {
+    "id": 108,
+    "name": "Jamaica",
+    "iso3": "JAM",
+    "iso2": "JM",
+    "numeric_code": "388",
+    "phone_code": "+1-876",
+    "capital": "Kingston",
+    "currency": "JMD",
+    "currency_name": "Jamaican dollar",
+    "currency_symbol": "J$",
+    "tld": ".jm",
+    "native": "Jamaica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Jamaica",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EST",
+        "tzName": "Eastern Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "자메이카",
+      "pt-BR": "Jamaica",
+      "pt": "Jamaica",
+      "nl": "Jamaica",
+      "hr": "Jamajka",
+      "fa": "جامائیکا",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "fr": "Jamaïque",
+      "ja": "ジャマイカ",
+      "it": "Giamaica",
+      "cn": "牙买加",
+      "tr": "Jamaika"
+    },
+    "latitude": "18.25000000",
+    "longitude": "-77.50000000",
+    "emoji": "🇯🇲",
+    "emojiU": "U+1F1EF U+1F1F2"
   }
 }

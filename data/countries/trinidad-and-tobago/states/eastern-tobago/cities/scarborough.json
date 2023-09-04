@@ -10,5 +10,49 @@
     "latitude": "11.29793480",
     "longitude": "-60.55885240",
     "type": null
+  },
+  "country": {
+    "id": 223,
+    "name": "Trinidad And Tobago",
+    "iso3": "TTO",
+    "iso2": "TT",
+    "numeric_code": "780",
+    "phone_code": "+1-868",
+    "capital": "Port of Spain",
+    "currency": "TTD",
+    "currency_name": "Trinidad and Tobago dollar",
+    "currency_symbol": "$",
+    "tld": ".tt",
+    "native": "Trinidad and Tobago",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/Port_of_Spain",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "트리니다드 토바고",
+      "pt-BR": "Trinidad e Tobago",
+      "pt": "Trindade e Tobago",
+      "nl": "Trinidad en Tobago",
+      "hr": "Trinidad i Tobago",
+      "fa": "ترینیداد و توباگو",
+      "de": "Trinidad und Tobago",
+      "es": "Trinidad y Tobago",
+      "fr": "Trinité et Tobago",
+      "ja": "トリニダード・トバゴ",
+      "it": "Trinidad e Tobago",
+      "cn": "特立尼达和多巴哥",
+      "tr": "Trinidad Ve Tobago"
+    },
+    "latitude": "11.00000000",
+    "longitude": "-61.00000000",
+    "emoji": "🇹🇹",
+    "emojiU": "U+1F1F9 U+1F1F9"
   }
 }

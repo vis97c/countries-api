@@ -10,5 +10,49 @@
     "latitude": "59.96530050",
     "longitude": "7.45051440",
     "type": "county"
+  },
+  "country": {
+    "id": 165,
+    "name": "Norway",
+    "iso3": "NOR",
+    "iso2": "NO",
+    "numeric_code": "578",
+    "phone_code": "47",
+    "capital": "Oslo",
+    "currency": "NOK",
+    "currency_name": "Norwegian krone",
+    "currency_symbol": "kr",
+    "tld": ".no",
+    "native": "Norge",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Oslo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "노르웨이",
+      "pt-BR": "Noruega",
+      "pt": "Noruega",
+      "nl": "Noorwegen",
+      "hr": "Norveška",
+      "fa": "نروژ",
+      "de": "Norwegen",
+      "es": "Noruega",
+      "fr": "Norvège",
+      "ja": "ノルウェー",
+      "it": "Norvegia",
+      "cn": "挪威",
+      "tr": "Norveç"
+    },
+    "latitude": "62.00000000",
+    "longitude": "10.00000000",
+    "emoji": "🇳🇴",
+    "emojiU": "U+1F1F3 U+1F1F4"
   }
 }

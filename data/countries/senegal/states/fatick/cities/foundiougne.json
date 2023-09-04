@@ -10,5 +10,49 @@
     "latitude": "14.33901670",
     "longitude": "-16.41114250",
     "type": null
+  },
+  "country": {
+    "id": 195,
+    "name": "Senegal",
+    "iso3": "SEN",
+    "iso2": "SN",
+    "numeric_code": "686",
+    "phone_code": "221",
+    "capital": "Dakar",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".sn",
+    "native": "Sénégal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "세네갈",
+      "pt-BR": "Senegal",
+      "pt": "Senegal",
+      "nl": "Senegal",
+      "hr": "Senegal",
+      "fa": "سنگال",
+      "de": "Senegal",
+      "es": "Senegal",
+      "fr": "Sénégal",
+      "ja": "セネガル",
+      "it": "Senegal",
+      "cn": "塞内加尔",
+      "tr": "Senegal"
+    },
+    "latitude": "14.00000000",
+    "longitude": "-14.00000000",
+    "emoji": "🇸🇳",
+    "emojiU": "U+1F1F8 U+1F1F3"
   }
 }

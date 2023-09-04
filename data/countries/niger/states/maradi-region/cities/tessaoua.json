@@ -10,5 +10,49 @@
     "latitude": "13.80180740",
     "longitude": "7.43813550",
     "type": null
+  },
+  "country": {
+    "id": 160,
+    "name": "Niger",
+    "iso3": "NER",
+    "iso2": "NE",
+    "numeric_code": "562",
+    "phone_code": "227",
+    "capital": "Niamey",
+    "currency": "XOF",
+    "currency_name": "West African CFA franc",
+    "currency_symbol": "CFA",
+    "tld": ".ne",
+    "native": "Niger",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Niamey",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "니제르",
+      "pt-BR": "Níger",
+      "pt": "Níger",
+      "nl": "Niger",
+      "hr": "Niger",
+      "fa": "نیجر",
+      "de": "Niger",
+      "es": "Níger",
+      "fr": "Niger",
+      "ja": "ニジェール",
+      "it": "Niger",
+      "cn": "尼日尔",
+      "tr": "Nijer"
+    },
+    "latitude": "16.00000000",
+    "longitude": "8.00000000",
+    "emoji": "🇳🇪",
+    "emojiU": "U+1F1F3 U+1F1EA"
   }
 }

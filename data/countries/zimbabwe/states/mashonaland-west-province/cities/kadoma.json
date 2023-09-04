@@ -10,5 +10,49 @@
     "latitude": "-17.48510290",
     "longitude": "29.78892480",
     "type": null
+  },
+  "country": {
+    "id": 247,
+    "name": "Zimbabwe",
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "numeric_code": "716",
+    "phone_code": "263",
+    "capital": "Harare",
+    "currency": "ZWL",
+    "currency_name": "Zimbabwe Dollar",
+    "currency_symbol": "$",
+    "tld": ".zw",
+    "native": "Zimbabwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Harare",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "짐바브웨",
+      "pt-BR": "Zimbabwe",
+      "pt": "Zimbabué",
+      "nl": "Zimbabwe",
+      "hr": "Zimbabve",
+      "fa": "زیمباوه",
+      "de": "Simbabwe",
+      "es": "Zimbabue",
+      "fr": "Zimbabwe",
+      "ja": "ジンバブエ",
+      "it": "Zimbabwe",
+      "cn": "津巴布韦",
+      "tr": "Zimbabve"
+    },
+    "latitude": "-20.00000000",
+    "longitude": "30.00000000",
+    "emoji": "🇿🇼",
+    "emojiU": "U+1F1FF U+1F1FC"
   }
 }

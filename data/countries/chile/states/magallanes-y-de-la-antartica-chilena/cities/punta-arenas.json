@@ -10,5 +10,63 @@
     "latitude": "-52.20643160",
     "longitude": "-72.16850010",
     "type": null
+  },
+  "country": {
+    "id": 44,
+    "name": "Chile",
+    "iso3": "CHL",
+    "iso2": "CL",
+    "numeric_code": "152",
+    "phone_code": "56",
+    "capital": "Santiago",
+    "currency": "CLP",
+    "currency_name": "Chilean peso",
+    "currency_symbol": "$",
+    "tld": ".cl",
+    "native": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Punta_Arenas",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "America/Santiago",
+        "gmtOffset": -10800,
+        "gmtOffsetName": "UTC-03:00",
+        "abbreviation": "CLST",
+        "tzName": "Chile Summer Time"
+      },
+      {
+        "zoneName": "Pacific/Easter",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "EASST",
+        "tzName": "Easter Island Summer Time"
+      }
+    ],
+    "translations": {
+      "kr": "칠리",
+      "pt-BR": "Chile",
+      "pt": "Chile",
+      "nl": "Chili",
+      "hr": "Čile",
+      "fa": "شیلی",
+      "de": "Chile",
+      "es": "Chile",
+      "fr": "Chili",
+      "ja": "チリ",
+      "it": "Cile",
+      "cn": "智利",
+      "tr": "Şili"
+    },
+    "latitude": "-30.00000000",
+    "longitude": "-71.00000000",
+    "emoji": "🇨🇱",
+    "emojiU": "U+1F1E8 U+1F1F1"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "-8.05923530",
     "longitude": "159.14470810",
     "type": null
+  },
+  "country": {
+    "id": 202,
+    "name": "Solomon Islands",
+    "iso3": "SLB",
+    "iso2": "SB",
+    "numeric_code": "090",
+    "phone_code": "677",
+    "capital": "Honiara",
+    "currency": "SBD",
+    "currency_name": "Solomon Islands dollar",
+    "currency_symbol": "Si$",
+    "tld": ".sb",
+    "native": "Solomon Islands",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Guadalcanal",
+        "gmtOffset": 39600,
+        "gmtOffsetName": "UTC+11:00",
+        "abbreviation": "SBT",
+        "tzName": "Solomon Islands Time"
+      }
+    ],
+    "translations": {
+      "kr": "솔로몬 제도",
+      "pt-BR": "Ilhas Salomão",
+      "pt": "Ilhas Salomão",
+      "nl": "Salomonseilanden",
+      "hr": "Solomonski Otoci",
+      "fa": "جزایر سلیمان",
+      "de": "Salomonen",
+      "es": "Islas Salomón",
+      "fr": "Îles Salomon",
+      "ja": "ソロモン諸島",
+      "it": "Isole Salomone",
+      "cn": "所罗门群岛",
+      "tr": "Solomon Adalari"
+    },
+    "latitude": "-8.00000000",
+    "longitude": "159.00000000",
+    "emoji": "🇸🇧",
+    "emojiU": "U+1F1F8 U+1F1E7"
   }
 }

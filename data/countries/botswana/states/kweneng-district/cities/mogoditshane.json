@@ -10,5 +10,49 @@
     "latitude": "-23.83672490",
     "longitude": "25.28375850",
     "type": null
+  },
+  "country": {
+    "id": 29,
+    "name": "Botswana",
+    "iso3": "BWA",
+    "iso2": "BW",
+    "numeric_code": "072",
+    "phone_code": "267",
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "currency_name": "Botswana pula",
+    "currency_symbol": "P",
+    "tld": ".bw",
+    "native": "Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "보츠와나",
+      "pt-BR": "Botsuana",
+      "pt": "Botsuana",
+      "nl": "Botswana",
+      "hr": "Bocvana",
+      "fa": "بوتسوانا",
+      "de": "Botswana",
+      "es": "Botswana",
+      "fr": "Botswana",
+      "ja": "ボツワナ",
+      "it": "Botswana",
+      "cn": "博茨瓦纳",
+      "tr": "Botsvana"
+    },
+    "latitude": "-22.00000000",
+    "longitude": "24.00000000",
+    "emoji": "🇧🇼",
+    "emojiU": "U+1F1E7 U+1F1FC"
   }
 }

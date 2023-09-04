@@ -10,5 +10,49 @@
     "latitude": "37.09024000",
     "longitude": "-95.71289100",
     "type": null
+  },
+  "country": {
+    "id": 222,
+    "name": "Tonga",
+    "iso3": "TON",
+    "iso2": "TO",
+    "numeric_code": "776",
+    "phone_code": "676",
+    "capital": "Nuku'alofa",
+    "currency": "TOP",
+    "currency_name": "Tongan paʻanga",
+    "currency_symbol": "$",
+    "tld": ".to",
+    "native": "Tonga",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "timezones": [
+      {
+        "zoneName": "Pacific/Tongatapu",
+        "gmtOffset": 46800,
+        "gmtOffsetName": "UTC+13:00",
+        "abbreviation": "TOT",
+        "tzName": "Tonga Time"
+      }
+    ],
+    "translations": {
+      "kr": "통가",
+      "pt-BR": "Tonga",
+      "pt": "Tonga",
+      "nl": "Tonga",
+      "hr": "Tonga",
+      "fa": "تونگا",
+      "de": "Tonga",
+      "es": "Tonga",
+      "fr": "Tonga",
+      "ja": "トンガ",
+      "it": "Tonga",
+      "cn": "汤加",
+      "tr": "Tonga"
+    },
+    "latitude": "-20.00000000",
+    "longitude": "-175.00000000",
+    "emoji": "🇹🇴",
+    "emojiU": "U+1F1F9 U+1F1F4"
   }
 }

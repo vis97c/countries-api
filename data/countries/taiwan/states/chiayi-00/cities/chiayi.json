@@ -10,5 +10,49 @@
     "latitude": "23.45184280",
     "longitude": "120.25546150",
     "type": "city"
+  },
+  "country": {
+    "id": 216,
+    "name": "Taiwan",
+    "iso3": "TWN",
+    "iso2": "TW",
+    "numeric_code": "158",
+    "phone_code": "886",
+    "capital": "Taipei",
+    "currency": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "currency_symbol": "$",
+    "tld": ".tw",
+    "native": "臺灣",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Taipei",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "CST",
+        "tzName": "China Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "대만",
+      "pt-BR": "Taiwan",
+      "pt": "Taiwan",
+      "nl": "Taiwan",
+      "hr": "Tajvan",
+      "fa": "تایوان",
+      "de": "Taiwan",
+      "es": "Taiwán",
+      "fr": "Taïwan",
+      "ja": "台湾（中華民国）",
+      "it": "Taiwan",
+      "cn": "中国台湾",
+      "tr": "Tayvan"
+    },
+    "latitude": "23.50000000",
+    "longitude": "121.00000000",
+    "emoji": "🇹🇼",
+    "emojiU": "U+1F1F9 U+1F1FC"
   }
 }

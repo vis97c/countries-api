@@ -10,5 +10,48 @@
     "latitude": "34.91936070",
     "longitude": "47.48329250",
     "type": "province"
+  },
+  "country": {
+    "id": 103,
+    "name": "Iran",
+    "iso3": "IRN",
+    "iso2": "IR",
+    "numeric_code": "364",
+    "phone_code": "98",
+    "capital": "Tehran",
+    "currency": "IRR",
+    "currency_name": "Iranian rial",
+    "currency_symbol": "﷼",
+    "tld": ".ir",
+    "native": "ایران",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Tehran",
+        "gmtOffset": 12600,
+        "gmtOffsetName": "UTC+03:30",
+        "abbreviation": "IRDT",
+        "tzName": "Iran Daylight Time"
+      }
+    ],
+    "translations": {
+      "kr": "이란",
+      "pt-BR": "Irã",
+      "pt": "Irão",
+      "nl": "Iran",
+      "hr": "Iran",
+      "fa": "ایران",
+      "de": "Iran",
+      "es": "Iran",
+      "fr": "Iran",
+      "ja": "イラン・イスラム共和国",
+      "cn": "伊朗",
+      "tr": "İran"
+    },
+    "latitude": "32.00000000",
+    "longitude": "53.00000000",
+    "emoji": "🇮🇷",
+    "emojiU": "U+1F1EE U+1F1F7"
   }
 }

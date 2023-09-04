@@ -1,5 +1,6 @@
 export interface iCity {
 	state?: Omit<iState, "cities">;
+	country?: Omit<iCountry, "states">;
 	// intenals
 	name: string;
 }

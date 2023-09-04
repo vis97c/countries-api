@@ -10,5 +10,49 @@
     "latitude": "-9.01131710",
     "longitude": "125.52200120",
     "type": null
+  },
+  "country": {
+    "id": 63,
+    "name": "East Timor",
+    "iso3": "TLS",
+    "iso2": "TL",
+    "numeric_code": "626",
+    "phone_code": "670",
+    "capital": "Dili",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".tl",
+    "native": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dili",
+        "gmtOffset": 32400,
+        "gmtOffsetName": "UTC+09:00",
+        "abbreviation": "TLT",
+        "tzName": "Timor Leste Time"
+      }
+    ],
+    "translations": {
+      "kr": "동티모르",
+      "pt-BR": "Timor Leste",
+      "pt": "Timor Leste",
+      "nl": "Oost-Timor",
+      "hr": "Istočni Timor",
+      "fa": "تیمور شرقی",
+      "de": "Timor-Leste",
+      "es": "Timor Oriental",
+      "fr": "Timor oriental",
+      "ja": "東ティモール",
+      "it": "Timor Est",
+      "cn": "东帝汶",
+      "tr": "Doğu Timor"
+    },
+    "latitude": "-8.83333333",
+    "longitude": "125.91666666",
+    "emoji": "🇹🇱",
+    "emojiU": "U+1F1F9 U+1F1F1"
   }
 }

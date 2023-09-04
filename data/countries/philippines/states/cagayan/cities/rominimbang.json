@@ -10,5 +10,49 @@
     "latitude": "18.24896290",
     "longitude": "121.87878330",
     "type": "province"
+  },
+  "country": {
+    "id": 174,
+    "name": "Philippines",
+    "iso3": "PHL",
+    "iso2": "PH",
+    "numeric_code": "608",
+    "phone_code": "63",
+    "capital": "Manila",
+    "currency": "PHP",
+    "currency_name": "Philippine peso",
+    "currency_symbol": "₱",
+    "tld": ".ph",
+    "native": "Pilipinas",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Manila",
+        "gmtOffset": 28800,
+        "gmtOffsetName": "UTC+08:00",
+        "abbreviation": "PHT",
+        "tzName": "Philippine Time"
+      }
+    ],
+    "translations": {
+      "kr": "필리핀",
+      "pt-BR": "Filipinas",
+      "pt": "Filipinas",
+      "nl": "Filipijnen",
+      "hr": "Filipini",
+      "fa": "جزایر الندفیلیپین",
+      "de": "Philippinen",
+      "es": "Filipinas",
+      "fr": "Philippines",
+      "ja": "フィリピン",
+      "it": "Filippine",
+      "cn": "菲律宾",
+      "tr": "Filipinler"
+    },
+    "latitude": "13.00000000",
+    "longitude": "122.00000000",
+    "emoji": "🇵🇭",
+    "emojiU": "U+1F1F5 U+1F1ED"
   }
 }

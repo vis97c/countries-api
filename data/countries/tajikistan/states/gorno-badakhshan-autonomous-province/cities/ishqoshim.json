@@ -10,5 +10,49 @@
     "latitude": "38.41273200",
     "longitude": "73.08774900",
     "type": null
+  },
+  "country": {
+    "id": 217,
+    "name": "Tajikistan",
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "numeric_code": "762",
+    "phone_code": "992",
+    "capital": "Dushanbe",
+    "currency": "TJS",
+    "currency_name": "Tajikistani somoni",
+    "currency_symbol": "SM",
+    "tld": ".tj",
+    "native": "Тоҷикистон",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Dushanbe",
+        "gmtOffset": 18000,
+        "gmtOffsetName": "UTC+05:00",
+        "abbreviation": "TJT",
+        "tzName": "Tajikistan Time"
+      }
+    ],
+    "translations": {
+      "kr": "타지키스탄",
+      "pt-BR": "Tajiquistão",
+      "pt": "Tajiquistão",
+      "nl": "Tadzjikistan",
+      "hr": "Tađikistan",
+      "fa": "تاجیکستان",
+      "de": "Tadschikistan",
+      "es": "Tayikistán",
+      "fr": "Tadjikistan",
+      "ja": "タジキスタン",
+      "it": "Tagikistan",
+      "cn": "塔吉克斯坦",
+      "tr": "Tacikistan"
+    },
+    "latitude": "39.00000000",
+    "longitude": "71.00000000",
+    "emoji": "🇹🇯",
+    "emojiU": "U+1F1F9 U+1F1EF"
   }
 }

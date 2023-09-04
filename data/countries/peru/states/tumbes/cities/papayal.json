@@ -10,5 +10,49 @@
     "latitude": "-3.55649210",
     "longitude": "-80.42708850",
     "type": null
+  },
+  "country": {
+    "id": 173,
+    "name": "Peru",
+    "iso3": "PER",
+    "iso2": "PE",
+    "numeric_code": "604",
+    "phone_code": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "currency_name": "Peruvian sol",
+    "currency_symbol": "S/.",
+    "tld": ".pe",
+    "native": "Perú",
+    "region": "Americas",
+    "subregion": "South America",
+    "timezones": [
+      {
+        "zoneName": "America/Lima",
+        "gmtOffset": -18000,
+        "gmtOffsetName": "UTC-05:00",
+        "abbreviation": "PET",
+        "tzName": "Peru Time"
+      }
+    ],
+    "translations": {
+      "kr": "페루",
+      "pt-BR": "Peru",
+      "pt": "Peru",
+      "nl": "Peru",
+      "hr": "Peru",
+      "fa": "پرو",
+      "de": "Peru",
+      "es": "Perú",
+      "fr": "Pérou",
+      "ja": "ペルー",
+      "it": "Perù",
+      "cn": "秘鲁",
+      "tr": "Peru"
+    },
+    "latitude": "-10.00000000",
+    "longitude": "-76.00000000",
+    "emoji": "🇵🇪",
+    "emojiU": "U+1F1F5 U+1F1EA"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "13.42573660",
     "longitude": "-14.00723480",
     "type": null
+  },
+  "country": {
+    "id": 80,
+    "name": "Gambia The",
+    "iso3": "GMB",
+    "iso2": "GM",
+    "numeric_code": "270",
+    "phone_code": "220",
+    "capital": "Banjul",
+    "currency": "GMD",
+    "currency_name": "Gambian dalasi",
+    "currency_symbol": "D",
+    "tld": ".gm",
+    "native": "Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ],
+    "translations": {
+      "kr": "감비아",
+      "pt-BR": "Gâmbia",
+      "pt": "Gâmbia",
+      "nl": "Gambia",
+      "hr": "Gambija",
+      "fa": "گامبیا",
+      "de": "Gambia",
+      "es": "Gambia",
+      "fr": "Gambie",
+      "ja": "ガンビア",
+      "it": "Gambia",
+      "cn": "冈比亚",
+      "tr": "Gambiya"
+    },
+    "latitude": "13.46666666",
+    "longitude": "-16.56666666",
+    "emoji": "🇬🇲",
+    "emojiU": "U+1F1EC U+1F1F2"
   }
 }

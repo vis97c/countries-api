@@ -10,5 +10,56 @@
     "latitude": "34.70713010",
     "longitude": "33.02261740",
     "type": "district"
+  },
+  "country": {
+    "id": 57,
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "iso2": "CY",
+    "numeric_code": "196",
+    "phone_code": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "native": "Κύπρος",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "timezones": [
+      {
+        "zoneName": "Asia/Famagusta",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      },
+      {
+        "zoneName": "Asia/Nicosia",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ],
+    "translations": {
+      "kr": "키프로스",
+      "pt-BR": "Chipre",
+      "pt": "Chipre",
+      "nl": "Cyprus",
+      "hr": "Cipar",
+      "fa": "قبرس",
+      "de": "Zypern",
+      "es": "Chipre",
+      "fr": "Chypre",
+      "ja": "キプロス",
+      "it": "Cipro",
+      "cn": "塞浦路斯",
+      "tr": "Kuzey Kıbrıs Türk Cumhuriyeti"
+    },
+    "latitude": "35.00000000",
+    "longitude": "33.00000000",
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE"
   }
 }

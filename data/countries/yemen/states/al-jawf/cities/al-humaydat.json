@@ -10,5 +10,49 @@
     "latitude": "16.79018190",
     "longitude": "45.29938620",
     "type": null
+  },
+  "country": {
+    "id": 245,
+    "name": "Yemen",
+    "iso3": "YEM",
+    "iso2": "YE",
+    "numeric_code": "887",
+    "phone_code": "967",
+    "capital": "Sanaa",
+    "currency": "YER",
+    "currency_name": "Yemeni rial",
+    "currency_symbol": "﷼",
+    "tld": ".ye",
+    "native": "اليَمَن",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Aden",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "AST",
+        "tzName": "Arabia Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "예멘",
+      "pt-BR": "Iêmen",
+      "pt": "Iémen",
+      "nl": "Jemen",
+      "hr": "Jemen",
+      "fa": "یمن",
+      "de": "Jemen",
+      "es": "Yemen",
+      "fr": "Yémen",
+      "ja": "イエメン",
+      "it": "Yemen",
+      "cn": "也门",
+      "tr": "Yemen"
+    },
+    "latitude": "15.00000000",
+    "longitude": "48.00000000",
+    "emoji": "🇾🇪",
+    "emojiU": "U+1F1FE U+1F1EA"
   }
 }

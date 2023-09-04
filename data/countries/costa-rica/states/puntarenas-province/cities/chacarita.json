@@ -10,5 +10,49 @@
     "latitude": "9.21695310",
     "longitude": "-83.33618800",
     "type": null
+  },
+  "country": {
+    "id": 53,
+    "name": "Costa Rica",
+    "iso3": "CRI",
+    "iso2": "CR",
+    "numeric_code": "188",
+    "phone_code": "506",
+    "capital": "San Jose",
+    "currency": "CRC",
+    "currency_name": "Costa Rican colón",
+    "currency_symbol": "₡",
+    "tld": ".cr",
+    "native": "Costa Rica",
+    "region": "Americas",
+    "subregion": "Central America",
+    "timezones": [
+      {
+        "zoneName": "America/Costa_Rica",
+        "gmtOffset": -21600,
+        "gmtOffsetName": "UTC-06:00",
+        "abbreviation": "CST",
+        "tzName": "Central Standard Time (North America"
+      }
+    ],
+    "translations": {
+      "kr": "코스타리카",
+      "pt-BR": "Costa Rica",
+      "pt": "Costa Rica",
+      "nl": "Costa Rica",
+      "hr": "Kostarika",
+      "fa": "کاستاریکا",
+      "de": "Costa Rica",
+      "es": "Costa Rica",
+      "fr": "Costa Rica",
+      "ja": "コスタリカ",
+      "it": "Costa Rica",
+      "cn": "哥斯达黎加",
+      "tr": "Kosta Rika"
+    },
+    "latitude": "10.00000000",
+    "longitude": "-84.00000000",
+    "emoji": "🇨🇷",
+    "emojiU": "U+1F1E8 U+1F1F7"
   }
 }

@@ -10,5 +10,49 @@
     "latitude": "39.75091860",
     "longitude": "-94.84505560",
     "type": null
+  },
+  "country": {
+    "id": 188,
+    "name": "Saint Vincent And The Grenadines",
+    "iso3": "VCT",
+    "iso2": "VC",
+    "numeric_code": "670",
+    "phone_code": "+1-784",
+    "capital": "Kingstown",
+    "currency": "XCD",
+    "currency_name": "Eastern Caribbean dollar",
+    "currency_symbol": "$",
+    "tld": ".vc",
+    "native": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "timezones": [
+      {
+        "zoneName": "America/St_Vincent",
+        "gmtOffset": -14400,
+        "gmtOffsetName": "UTC-04:00",
+        "abbreviation": "AST",
+        "tzName": "Atlantic Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "세인트빈센트 그레나딘",
+      "pt-BR": "São Vicente e Granadinas",
+      "pt": "São Vicente e Granadinas",
+      "nl": "Saint Vincent en de Grenadines",
+      "hr": "Sveti Vincent i Grenadini",
+      "fa": "سنت وینسنت و گرنادین‌ها",
+      "de": "Saint Vincent und die Grenadinen",
+      "es": "San Vicente y Granadinas",
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "ja": "セントビンセントおよびグレナディーン諸島",
+      "it": "Saint Vincent e Grenadine",
+      "cn": "圣文森特和格林纳丁斯",
+      "tr": "Saint Vincent Ve Grenadinler"
+    },
+    "latitude": "13.25000000",
+    "longitude": "-61.20000000",
+    "emoji": "🇻🇨",
+    "emojiU": "U+1F1FB U+1F1E8"
   }
 }

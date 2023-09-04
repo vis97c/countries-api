@@ -10,5 +10,49 @@
     "latitude": "24.34198460",
     "longitude": "56.72989040",
     "type": null
+  },
+  "country": {
+    "id": 166,
+    "name": "Oman",
+    "iso3": "OMN",
+    "iso2": "OM",
+    "numeric_code": "512",
+    "phone_code": "968",
+    "capital": "Muscat",
+    "currency": "OMR",
+    "currency_name": "Omani rial",
+    "currency_symbol": ".ع.ر",
+    "tld": ".om",
+    "native": "عمان",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "timezones": [
+      {
+        "zoneName": "Asia/Muscat",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "GST",
+        "tzName": "Gulf Standard Time"
+      }
+    ],
+    "translations": {
+      "kr": "오만",
+      "pt-BR": "Omã",
+      "pt": "Omã",
+      "nl": "Oman",
+      "hr": "Oman",
+      "fa": "عمان",
+      "de": "Oman",
+      "es": "Omán",
+      "fr": "Oman",
+      "ja": "オマーン",
+      "it": "oman",
+      "cn": "阿曼",
+      "tr": "Umman"
+    },
+    "latitude": "21.00000000",
+    "longitude": "57.00000000",
+    "emoji": "🇴🇲",
+    "emojiU": "U+1F1F4 U+1F1F2"
   }
 }

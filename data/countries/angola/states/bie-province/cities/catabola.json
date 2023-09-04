@@ -10,5 +10,49 @@
     "latitude": "-12.57279070",
     "longitude": "17.66888700",
     "type": null
+  },
+  "country": {
+    "id": 7,
+    "name": "Angola",
+    "iso3": "AGO",
+    "iso2": "AO",
+    "numeric_code": "024",
+    "phone_code": "244",
+    "capital": "Luanda",
+    "currency": "AOA",
+    "currency_name": "Angolan kwanza",
+    "currency_symbol": "Kz",
+    "tld": ".ao",
+    "native": "Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ],
+    "translations": {
+      "kr": "앙골라",
+      "pt-BR": "Angola",
+      "pt": "Angola",
+      "nl": "Angola",
+      "hr": "Angola",
+      "fa": "آنگولا",
+      "de": "Angola",
+      "es": "Angola",
+      "fr": "Angola",
+      "ja": "アンゴラ",
+      "it": "Angola",
+      "cn": "安哥拉",
+      "tr": "Angola"
+    },
+    "latitude": "-12.50000000",
+    "longitude": "18.50000000",
+    "emoji": "🇦🇴",
+    "emojiU": "U+1F1E6 U+1F1F4"
   }
 }

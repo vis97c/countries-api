@@ -10,5 +10,49 @@
     "latitude": "48.02585400",
     "longitude": "13.97236650",
     "type": null
+  },
+  "country": {
+    "id": 15,
+    "name": "Austria",
+    "iso3": "AUT",
+    "iso2": "AT",
+    "numeric_code": "040",
+    "phone_code": "43",
+    "capital": "Vienna",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".at",
+    "native": "Österreich",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "timezones": [
+      {
+        "zoneName": "Europe/Vienna",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ],
+    "translations": {
+      "kr": "오스트리아",
+      "pt-BR": "áustria",
+      "pt": "áustria",
+      "nl": "Oostenrijk",
+      "hr": "Austrija",
+      "fa": "اتریش",
+      "de": "Österreich",
+      "es": "Austria",
+      "fr": "Autriche",
+      "ja": "オーストリア",
+      "it": "Austria",
+      "cn": "奥地利",
+      "tr": "Avusturya"
+    },
+    "latitude": "47.33333333",
+    "longitude": "13.33333333",
+    "emoji": "🇦🇹",
+    "emojiU": "U+1F1E6 U+1F1F9"
   }
 }
