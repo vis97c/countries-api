@@ -9,6 +9,7 @@ import {
 	getJson,
 	makeMapStateData,
 	mapCityData,
+	getMatches,
 } from "../utils";
 
 const supportedLangs = ["kr", "pt", "nl", "hr", "fa", "de", "es", "fr", "ja", "it", "cn", "tr"];
@@ -41,10 +42,10 @@ const CountryStateCityHandler: RequestHandler = async function (req, res) {
 		// All countries
 		if (!countryParam) return JsonRes(countries.map(mapCountryData));
 
-		const country = countries.find(({ name, iso2, translations }) => {
-			const matchable = [iso2, name, _.startCase(name), ...Object.values(translations)];
+		const country = countries.find(({ name, iso2, iso3, translations }) => {
+			const matchable = [...getMatches(name), iso2, iso3, ...Object.values(translations)];
 
-			return matchable.map((v) => v.toLowerCase()).includes(countryParam);
+			return matchable.map((v) => v && v.toLowerCase()).includes(countryParam);
 		});
 
 		// Country does not exist
@@ -63,7 +64,7 @@ const CountryStateCityHandler: RequestHandler = async function (req, res) {
 
 		const states: iState[] = await getJson(path.join(statesPath, "index"));
 		const state = states.find(({ name, state_code }) => {
-			const matchable = [state_code, name, _.startCase(name)];
+			const matchable = [...getMatches(name), state_code];
 
 			return matchable.map((v) => v.toLowerCase()).includes(stateParam);
 		});
@@ -92,7 +93,7 @@ const CountryStateCityHandler: RequestHandler = async function (req, res) {
 
 		const cities: iCity[] = await getJson(path.join(citiesPath, "index"));
 		const city = cities.find(({ name }) => {
-			const matchable = [name, _.startCase(name)];
+			const matchable = getMatches(name);
 
 			return matchable.map((v) => v.toLowerCase()).includes(cityParam);
 		});

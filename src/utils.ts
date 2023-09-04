@@ -25,6 +25,19 @@ interface iMappedCountry {
 	states?: iMappedState[];
 }
 
+export function getMatches(name: string): string[] {
+	const deburr = _.deburr(name);
+
+	return [
+		name,
+		deburr,
+		_.kebabCase(name),
+		_.kebabCase(deburr),
+		name.split(" ")[0],
+		deburr.split(" ")[0],
+	];
+}
+
 export async function getJson(filePath: string) {
 	return JSON.parse(
 		await fs.promises.readFile(`${filePath}.json`, {
