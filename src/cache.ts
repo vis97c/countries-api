@@ -24,6 +24,7 @@ export default function CacheHandler(duration: number): RequestHandler {
 			res.send = (function (_super) {
 				return function (this: any, body) {
 					cache.put(key, { body, headers: res.getHeaders() }, duration * 1000);
+
 					return _super.call(this, body);
 				};
 			})(res.send);

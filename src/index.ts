@@ -2,7 +2,6 @@ import express from "express";
 import cors from "cors";
 import path from "node:path";
 import monitor from "express-status-monitor";
-import _ from "lodash";
 
 import CountryStateCityHandler from "./api/country-state-city";
 import CacheHandler from "./cache";
@@ -33,6 +32,7 @@ app.use(function (req, res, next) {
 		// cancel the request here
 		return JsonResponse("Too many requests", 429, { "Retry-After": requestBlockTime });
 	}
+
 	next();
 });
 

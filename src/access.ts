@@ -26,7 +26,7 @@ export default class AccessLogger {
 		const now = Date.now();
 		const limit = now - this.time;
 
-		for (let ip in this.requests) {
+		for (const ip in this.requests) {
 			const { accessTimes, blockUntil } = this.requests[ip];
 
 			// if not currently blocking this one
@@ -41,6 +41,7 @@ export default class AccessLogger {
 				// accumulating forever
 				if (accessTimes.length > this.quantity * 2 && accessTimes[0] < limit) {
 					let index = 0;
+
 					for (let i = 1; i < accessTimes.length; i++) {
 						if (accessTimes[i] < limit) {
 							index = i;
@@ -80,6 +81,7 @@ export default class AccessLogger {
 		for (let i = accessTimes.length - 1; i >= 0; i--) {
 			if (accessTimes[i] > limit) {
 				++count;
+
 				continue;
 			}
 
@@ -90,6 +92,7 @@ export default class AccessLogger {
 		if (count > this.quantity) {
 			// block from now until (now + this.blockTime)
 			this.requests[ip].blockUntil = now + this.blockTime;
+
 			return false;
 		}
 

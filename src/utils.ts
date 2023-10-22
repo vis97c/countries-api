@@ -1,5 +1,4 @@
 import type { Response } from "express";
-import path from "node:path";
 import fs from "node:fs";
 import _ from "lodash";
 
@@ -54,7 +53,7 @@ export function makeJsonResponse(response: Response) {
 	function JsonResponse(errMsg: string, errStatus?: number, headers?: Record<string, any>): void;
 	function JsonResponse(
 		dataOrErrMsg: string | Record<string, any> | any[],
-		errStatus: number = 400,
+		errStatus = 400,
 		headers?: Record<string, any>
 	): void {
 		const errorMsg = typeof dataOrErrMsg === "string" ? dataOrErrMsg : null;
@@ -73,7 +72,7 @@ export function mapCityData({ name }: iCity): iMappedCity {
 	return { name };
 }
 
-export function makeMapStateData(withCities: boolean = false) {
+export function makeMapStateData(withCities = false) {
 	return function mapStateData({ name, state_code, cities }: iState): iMappedState {
 		const mappedCities = cities && cities.map(mapCityData);
 
@@ -81,11 +80,7 @@ export function makeMapStateData(withCities: boolean = false) {
 	};
 }
 
-export function makeMapCountryData(
-	lang?: string,
-	withStates: boolean = false,
-	withCities: boolean = false
-) {
+export function makeMapCountryData(lang?: string, withStates = false, withCities = false) {
 	return function mapCountryData({
 		name,
 		iso2,
@@ -95,6 +90,7 @@ export function makeMapCountryData(
 	}: iCountry): iMappedCountry {
 		const mapStateData = makeMapStateData(withCities);
 		const mappedStates = states && states.map(mapStateData);
+
 		return {
 			name: (lang && translations[lang]) ?? name,
 			indicative: phone_code.charAt(0) === "+" ? phone_code : `+${phone_code}`,

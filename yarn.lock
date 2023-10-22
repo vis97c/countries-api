@@ -125,10 +125,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@open-xamu-co/eslint-config@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@open-xamu-co/eslint-config/-/eslint-config-1.0.1.tgz"
-  integrity sha512-6TNzwvzydYnTlTU3ezA8FkmmpGy+gOICysiU0L1VJnnlpAo1cCpw9DRU2f93DhTCH34frknMOUcZtx9nosmjuA==
+"@open-xamu-co/eslint-config@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@open-xamu-co/eslint-config/-/eslint-config-3.0.0.tgz#045f1dc24cba4e805c6ea963c7f112b7194b3439"
+  integrity sha512-XLb1T/kPJZZOgguU5YXeeJPekPFSV7XBMy84YFkoLwSciWfgRLWuEMcwzd2bgOdslT9KwvYI9Ar07LORMyGGTQ==
 
 "@pkgr/utils@^2.3.1":
   version "2.4.2"
