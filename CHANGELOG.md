@@ -1,5 +1,12 @@
 Countries Nuxt Module
 
+## [1.0.2](https://github.com/vis97c/countries-api/compare/v1.0.1...v1.0.2) (2024-02-18)
+
+
+### Bug Fixes
+
+* omit extensions ([43a0a23](https://github.com/vis97c/countries-api/commit/43a0a23641635060af7cb9e673ae59bc7783a8e4))
+
 ## [1.0.1](https://github.com/vis97c/countries-api/compare/v1.0.0...v1.0.1) (2024-02-18)
 
 
