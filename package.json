@@ -1,0 +1,108 @@
+{
+  "name": "@nuxtjs/countries",
+  "version": "0.0.1",
+  "description": "Nuxt 3 module & countries api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vis97c/countries-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vis97c/countries-api/issues"
+  },
+  "homepage": "https://github.com/vis97c/countries-api#readme",
+  "keywords": [
+    "indicatives",
+    "countries with indicatives",
+    "countries",
+    "countries and states",
+    "countries with states and cities",
+    "states and cities",
+    "rest",
+    "api",
+    "nuxt",
+    "nuxt module",
+    "nuxt server module"
+  ],
+  "author": "@vis97c <vis97c@outlook.com>",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/types.d.ts",
+      "import": "./dist/module.mjs",
+      "require": "./dist/module.cjs"
+    }
+  },
+  "main": "./dist/module.cjs",
+  "types": "./dist/types.d.ts",
+  "engines": {
+    "node": ">=18",
+    "yarn": ">=1.22.4"
+  },
+  "scripts": {
+    "lint:eslint": "eslint --ext .ts,.js,.vue --ignore-path .gitignore .",
+    "lint:prettier": "prettier . --check --ignore-unknown",
+    "lint": "yarn lint:eslint && yarn lint:prettier",
+    "countries": "node data/index.js",
+    "build": "yarn countries && yarn build:prepack && nuxt-module-build build",
+    "build:prepack": "nuxt-module-build build --stub && nuxt-module-build prepare && nuxi prepare playground",
+    "dev": "nuxi dev playground",
+    "dev:build": "yarn countries && nuxi build playground",
+    "test": "vitest run",
+    "test:watch": "vitest watch",
+    "release": "semantic-release",
+    "release:dry": "semantic-release --dry-run"
+  },
+  "dependencies": {
+    "@nuxt/kit": "^3.10.1",
+    "@open-xamu-co/ui-nuxt": "^3.0.0-next.2",
+    "@open-xamu-co/ui-styles": "^3.0.0-next.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
+    "@nuxt/devtools": "^1.0.6",
+    "@nuxt/module-builder": "^0.5.4",
+    "@nuxt/schema": "^3.8.2",
+    "@nuxt/test-utils": "^3.8.1",
+    "@open-xamu-co/eslint-config": "^3.0.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@types/lodash": "^4.14.196",
+    "@types/node": "^18.14.0",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-import-resolver-typescript": "^3.5.5",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-svelte": "^2.32.4",
+    "eslint-plugin-vue": "^9.15.1",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "nuxt": "^3.10.1",
+    "prettier": "^3.0.0",
+    "semantic-release": "^17.1.1",
+    "typescript": "^5.1.6",
+    "vitest": "^0.33.0"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "yarn check --integrity && lint-staged"
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "lint-staged": {
+    "*.{js,ts,vue}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
+  }
+}

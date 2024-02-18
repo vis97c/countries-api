@@ -1,0 +1,126 @@
+# Javascript Node CircleCI 2.1 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2.1
+orbs:
+    node: circleci/node@5.2.0
+defaults: &defaults
+    working_directory: ~/repo
+    docker:
+        - image: cimg/node:18.19.0
+
+jobs:
+    setup:
+        <<: *defaults
+        steps:
+            - checkout
+            # Download and cache dependencies
+            - node/install-packages:
+                  cache-version: v1
+                  pkg-manager: yarn
+            - persist_to_workspace:
+                  root: ~/repo
+                  paths:
+                      - node_modules
+
+    check_commit_message:
+        <<: *defaults
+        steps:
+            - checkout
+            - attach_workspace:
+                  at: ~/repo
+            - run:
+                  name: Define environment variable with lastest commit's message
+                  command: |
+                      echo 'export COMMIT_MESSAGE=$(git log -1 --pretty=format:"%s")' >> $BASH_ENV
+                      source $BASH_ENV
+            - run:
+                  name: Lint commit message
+                  command: echo "$COMMIT_MESSAGE" | npx commitlint
+
+    build:
+        <<: *defaults
+        steps:
+            - checkout
+            - attach_workspace:
+                  at: ~/repo
+            - run:
+                  name: Build distributables
+                  command: yarn build
+            - persist_to_workspace:
+                  root: ~/repo
+                  paths:
+                      - .nuxt
+                      - dist
+
+    check_code:
+        <<: *defaults
+        steps:
+            - checkout
+            - attach_workspace:
+                  at: ~/repo
+            - run:
+                  name: Lint & check
+                  command: yarn lint
+
+    dry_release:
+        <<: *defaults
+        steps:
+            - checkout
+            - attach_workspace:
+                  at: ~/repo
+            - run:
+                  name: Dry release
+                  command: yarn release:dry
+
+    release:
+        <<: *defaults
+        steps:
+            - checkout
+            - attach_workspace:
+                  at: ~/repo
+            - run:
+                  name: Release to npm
+                  command: yarn release
+
+workflows:
+    check_and_release_workflow:
+        jobs:
+            - setup
+            - check_commit_message:
+                  requires:
+                      - setup
+            - build:
+                  requires:
+                      - check_commit_message
+            - check_code:
+                  requires:
+                      - build
+            - dry_release:
+                  context: npm-deploy
+                  requires:
+                      - check_code
+                  filters:
+                      branches:
+                          only:
+                              - master
+                              - next
+            - approve_release:
+                  type: approval
+                  requires:
+                      - dry_release
+                  filters:
+                      branches:
+                          only:
+                              - master
+                              - next
+            - release:
+                  context: npm-deploy
+                  requires:
+                      - approve_release
+                  filters:
+                      branches:
+                          only:
+                              - master
+                              - next

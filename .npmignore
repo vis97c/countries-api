@@ -1,0 +1,18 @@
+# folders
+.vscode
+.circleci
+docs
+src
+node_modules
+playground
+data
+
+# files
+.releaserc
+Procfile
+template.njk
+package-lock.json
+*.lock
+*.tsbuildinfo
+*.log
+*.html
