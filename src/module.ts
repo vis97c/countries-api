@@ -2,7 +2,7 @@
 import { defineNuxtModule, createResolver, addServerHandler } from "@nuxt/kit";
 import path from "node:path";
 
-import type { CountriesModuleOptions } from "./types.js";
+import type { CountriesModuleOptions } from "./types";
 
 export default defineNuxtModule<CountriesModuleOptions>({
 	meta: {

@@ -3,7 +3,7 @@ import _ from "lodash";
 
 import { setResponseStatus } from "#imports";
 
-import type { iCity, iCountry, iState, tSupportedLangs } from "../../types.js";
+import type { iCity, iCountry, iState, tSupportedLangs } from "../../types";
 
 export const supportedLangs: tSupportedLangs[] = [
 	"kr",
