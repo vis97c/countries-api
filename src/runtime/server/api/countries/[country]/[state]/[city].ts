@@ -3,7 +3,7 @@ import _ from "lodash";
 
 import { defineCachedEventHandler, getQuery, getRouterParam, useStorage } from "#imports";
 
-import type { iCountry, tSupportedLangs } from "../../../../../../types.js";
+import type { iCountry, tSupportedLangs } from "../../../../../../types";
 import {
 	getMatches,
 	makeJsonResponse,
@@ -11,7 +11,7 @@ import {
 	makeMapStateData,
 	mapCityData,
 	supportedLangs,
-} from "../../../../utils.js";
+} from "../../../../utils";
 
 /** Request chache in seconds */
 const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;

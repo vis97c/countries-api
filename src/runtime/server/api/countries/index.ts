@@ -1,8 +1,8 @@
 /* eslint-disable import/no-unresolved */
 import { defineCachedEventHandler, getQuery, setResponseStatus, useStorage } from "#imports";
 
-import type { iCountry, tSupportedLangs } from "../../../../types.js";
-import { makeMapCountryData, supportedLangs } from "../../utils.js";
+import type { iCountry, tSupportedLangs } from "../../../../types";
+import { makeMapCountryData, supportedLangs } from "../../utils";
 
 /** Request chache in seconds */
 const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;
