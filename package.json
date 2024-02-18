@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/vis97c/countries-api.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/vis97c/countries-api/issues"
   },
