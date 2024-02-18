@@ -31,22 +31,22 @@ export default defineNuxtModule<CountriesModuleOptions>({
 		// all countries
 		addServerHandler({
 			route: base,
-			handler: resolve(apiPath, "countries/index.ts"),
+			handler: resolve(apiPath, "countries/index"),
 		});
 		// single country
 		addServerHandler({
 			route: path.join(base, ":country"),
-			handler: resolve(apiPath, "countries/[country]/index.ts"),
+			handler: resolve(apiPath, "countries/[country]/index"),
 		});
 		// single state
 		addServerHandler({
 			route: path.join(base, ":country", ":state"),
-			handler: resolve(apiPath, "countries/[country]/[state]/index.ts"),
+			handler: resolve(apiPath, "countries/[country]/[state]/index"),
 		});
 		// single city
 		addServerHandler({
 			route: path.join(base, ":country", ":state", ":city"),
-			handler: resolve(apiPath, "countries/[country]/[state]/[city].ts"),
+			handler: resolve(apiPath, "countries/[country]/[state]/[city]"),
 		});
 	},
 });

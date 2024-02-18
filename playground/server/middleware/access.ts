@@ -116,8 +116,6 @@ export default defineEventHandler((event) => {
 		event.node.req.connection.remoteAddress ||
 		event.node.req.socket.remoteAddress;
 
-	console.log(ip);
-
 	if (ip && !logger.check(ip)) {
 		// cancel the request here
 		setResponseStatus(event, 429);
