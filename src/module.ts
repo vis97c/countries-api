@@ -6,7 +6,7 @@ import type { CountriesModuleOptions } from "./types.js";
 
 export default defineNuxtModule<CountriesModuleOptions>({
 	meta: {
-		name: "@nuxtjs/countries",
+		name: "nuxt-countries-api",
 		configKey: "countries",
 		compatibility: { nuxt: "^3.0.0" },
 	},

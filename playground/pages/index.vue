@@ -18,7 +18,7 @@
 					<p>
 						<b>
 							Use the
-							<XamuActionLink href="https://www.npmjs.com/package/@nuxtjs/countries">
+							<XamuActionLink href="https://www.npmjs.com/package/nuxt-countries-api">
 								nuxt module
 							</XamuActionLink>
 							for faster responses.
