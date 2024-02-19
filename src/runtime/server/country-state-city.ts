@@ -46,12 +46,16 @@ export default defineCachedEventHandler(
 
 			const mapCountryData = makeMapCountryData(lang, withStates, withCities);
 			const mapStateData = makeMapStateData(withCities);
-			const countryParam = getRouterParam(event, "country")?.toLowerCase();
+			const countryParam = getRouterParam(event, "country");
+
 			const countries: iCountry[] = await storage.getItem("index.json");
 			const country = countries.find(({ name, iso2, iso3, translations }) => {
 				const matchable = [...getMatches(name), iso2, iso3, ...Object.values(translations)];
 
-				return matchable.map((v) => v && v.toLowerCase()).includes(countryParam);
+				return matchable
+					.filter((v): v is string => !!v)
+					.map((v) => v.toLowerCase())
+					.includes(countryParam?.toLowerCase());
 			});
 
 			// Country does not exist
@@ -62,15 +66,18 @@ export default defineCachedEventHandler(
 			const countryPath = `${_.kebabCase(country.name)}.json`;
 			const countryData: iCountry = await storage.getItem(countryPath);
 			const mappedCountry = mapCountryData(countryData);
-			const stateParam = getRouterParam(event, "state")?.toLowerCase();
+			const stateParam = getRouterParam(event, "state");
 			const stateData = countryData.states?.find(({ name, state_code }) => {
 				const matchable = [...getMatches(name), state_code];
 
-				return matchable.map((v) => v.toLowerCase()).includes(stateParam);
+				return matchable
+					.filter((v) => !!v)
+					.map((v) => v.toLowerCase())
+					.includes(stateParam?.toLowerCase());
 			});
 
 			// State does not exist
-			if (!stateData) {
+			if (!stateParam || !stateData) {
 				return JsonResponse(
 					`No state with the given data was found within "${mappedCountry.name}"`,
 					404
@@ -78,15 +85,18 @@ export default defineCachedEventHandler(
 			}
 
 			const withCountry = typeof query.country === "string";
-			const cityParam = getRouterParam(event, "city")?.toLowerCase();
+			const cityParam = getRouterParam(event, "city");
 			const cityData = stateData.cities?.find(({ name }) => {
 				const matchable = getMatches(name);
 
-				return matchable.map((v) => v.toLowerCase()).includes(cityParam);
+				return matchable
+					.filter((v) => !!v)
+					.map((v) => v.toLowerCase())
+					.includes(cityParam?.toLowerCase());
 			});
 
 			// City does not exist
-			if (!cityData) {
+			if (!cityParam || !cityData) {
 				return JsonResponse(
 					`No city with the given data was found within "${stateData.name}"`,
 					404

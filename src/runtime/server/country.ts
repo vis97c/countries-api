@@ -38,15 +38,15 @@ export default defineCachedEventHandler(
 			}
 
 			const mapCountryData = makeMapCountryData(lang, withStates, withCities);
-			const countryParam = getRouterParam(event, "country")?.toLowerCase();
+			const countryParam = getRouterParam(event, "country");
 			const countries: iCountry[] = await storage.getItem("index.json");
 			const country = countries.find(({ name, iso2, iso3, translations }) => {
 				const matchable = [...getMatches(name), iso2, iso3, ...Object.values(translations)];
 
 				return matchable
-					.map((v) => v?.toLowerCase())
-					.filter((v) => !!v)
-					.includes(countryParam);
+					.filter((v): v is string => !!v)
+					.map((v) => v.toLowerCase())
+					.includes(countryParam?.toLowerCase());
 			});
 
 			// Country does not exist
