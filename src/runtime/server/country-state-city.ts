@@ -3,14 +3,15 @@ import _ from "lodash";
 
 import { defineCachedEventHandler, getQuery, getRouterParam, useStorage } from "#imports";
 
-import type { iCountry, tSupportedLangs } from "../../../../../../types";
+import type { iCountry, tSupportedLangs } from "../../types";
 import {
 	getMatches,
 	makeJsonResponse,
 	makeMapCountryData,
 	makeMapStateData,
+	mapCityData,
 	supportedLangs,
-} from "../../../../utils";
+} from "./utils";
 
 /** Request chache in seconds */
 const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;
@@ -54,7 +55,9 @@ export default defineCachedEventHandler(
 			});
 
 			// Country does not exist
-			if (!country) return JsonResponse("No country with the given data was found", 404);
+			if (!countryParam || !country) {
+				return JsonResponse("No country with the given data was found", 404);
+			}
 
 			const countryPath = `${_.kebabCase(country.name)}.json`;
 			const countryData: iCountry = await storage.getItem(countryPath);
@@ -75,12 +78,29 @@ export default defineCachedEventHandler(
 			}
 
 			const withCountry = typeof query.country === "string";
-			const mappedState = mapStateData(stateData);
+			const cityParam = getRouterParam(event, "city")?.toLowerCase();
+			const cityData = stateData.cities?.find(({ name }) => {
+				const matchable = getMatches(name);
 
-			if (withCountry) mappedState.country = mappedCountry;
+				return matchable.map((v) => v.toLowerCase()).includes(cityParam);
+			});
 
-			// Specific state
-			return JsonResponse(mappedState);
+			// City does not exist
+			if (!cityData) {
+				return JsonResponse(
+					`No city with the given data was found within "${stateData.name}"`,
+					404
+				);
+			}
+
+			const withState = typeof query.state === "string";
+			const mappedCity = mapCityData(cityData);
+
+			if (withState) mappedCity.state = mapStateData(stateData);
+			if (withCountry) mappedCity.country = mappedCountry;
+
+			// Specific city
+			return JsonResponse(mappedCity);
 		} catch (error) {
 			// handle unexpected errors
 			if (process.env.DEBUG) console.error(error);

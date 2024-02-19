@@ -45,7 +45,32 @@ export interface CountriesModuleOptions {
 	/**
 	 * nuxt server route base
 	 *
-	 * @default "/api/countries"
+	 * @default "/_countries"
 	 */
 	base?: string;
+}
+
+export interface iMappedCity {
+	name: string;
+	state?: iMappedState;
+	country?: iMappedCountry;
+}
+
+export interface iMappedState {
+	name: string;
+	code: string;
+	cities?: iMappedCity[];
+	country?: iMappedCountry;
+}
+
+export interface iMappedCountry {
+	name: string;
+	code: string;
+	indicative: string;
+	states?: iMappedState[];
+}
+
+export interface iJsonResponse<T> {
+	error: string | null;
+	data: T | null;
 }

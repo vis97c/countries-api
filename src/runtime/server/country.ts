@@ -3,8 +3,8 @@ import _ from "lodash";
 
 import { defineCachedEventHandler, getQuery, getRouterParam, useStorage } from "#imports";
 
-import type { iCountry, tSupportedLangs } from "../../../../../types";
-import { getMatches, makeJsonResponse, makeMapCountryData, supportedLangs } from "../../../utils";
+import type { iCountry, tSupportedLangs } from "../../types";
+import { getMatches, makeJsonResponse, makeMapCountryData, supportedLangs } from "./utils";
 
 /** Request chache in seconds */
 const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;
@@ -43,11 +43,16 @@ export default defineCachedEventHandler(
 			const country = countries.find(({ name, iso2, iso3, translations }) => {
 				const matchable = [...getMatches(name), iso2, iso3, ...Object.values(translations)];
 
-				return matchable.map((v) => v && v.toLowerCase()).includes(countryParam);
+				return matchable
+					.map((v) => v?.toLowerCase())
+					.filter((v) => !!v)
+					.includes(countryParam);
 			});
 
 			// Country does not exist
-			if (!country) return JsonResponse("No country with the given data was found", 404);
+			if (!countryParam || !country) {
+				return JsonResponse("No country with the given data was found", 404);
+			}
 
 			const countryPath = `${_.kebabCase(country.name)}.json`;
 			const countryData: iCountry = await storage.getItem(countryPath);
