@@ -1,8 +1,8 @@
 /* eslint-disable import/no-unresolved */
-import { defineCachedEventHandler, getQuery, setResponseStatus, useStorage } from "#imports";
+import { defineCachedEventHandler, getQuery, useStorage } from "#imports";
 
-import type { iCountry, tSupportedLangs } from "../../../../types";
-import { makeMapCountryData, supportedLangs } from "../../utils";
+import type { iCountry, tSupportedLangs } from "../../types";
+import { makeJsonResponse, makeMapCountryData, supportedLangs } from "./utils";
 
 /** Request chache in seconds */
 const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;
@@ -12,6 +12,8 @@ const maxAge = Number(process.env.REQUEST_CACHE) || 60 * 60 * 24;
  */
 export default defineCachedEventHandler(
 	async (event) => {
+		const JsonResponse = makeJsonResponse(event);
+
 		try {
 			const query = getQuery(event);
 			const lang = <tSupportedLangs | undefined>query.lang;
@@ -22,18 +24,14 @@ export default defineCachedEventHandler(
 			// Check for lang errors
 			if (lang) {
 				if (typeof lang !== "string") {
-					setResponseStatus(event, 422);
-
-					return { errors: "Non supported lang format was given", data: null };
+					return JsonResponse("Non supported lang format was given", 422);
 				} else if (!supportedLangs.includes(lang)) {
 					const langs = supportedLangs.join(", ");
 
-					setResponseStatus(event, 422);
-
-					return {
-						errors: `Unsupported translation, supported ones are: ${langs}`,
-						data: null,
-					};
+					return JsonResponse(
+						`Unsupported translation, supported ones are: ${langs}`,
+						422
+					);
 				}
 			}
 
@@ -41,16 +39,12 @@ export default defineCachedEventHandler(
 			const countries: iCountry[] = await storage.getItem("index.json");
 
 			// All countries
-			setResponseStatus(event, 200);
-
-			return { errors: null, data: countries.map(mapCountryData) };
+			return JsonResponse(countries.map(mapCountryData));
 		} catch (error) {
 			// handle unexpected errors
 			if (process.env.DEBUG) console.error(error);
 
-			setResponseStatus(event, 500);
-
-			return { errors: "Something went wrong", data: null };
+			return JsonResponse("Something went wrong", 500);
 		}
 	},
 	{ maxAge }

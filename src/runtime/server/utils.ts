@@ -3,7 +3,16 @@ import _ from "lodash";
 
 import { setResponseStatus } from "#imports";
 
-import type { iCity, iCountry, iState, tSupportedLangs } from "../../types";
+import type {
+	iCity,
+	iCountry,
+	iJsonResponse,
+	iMappedCity,
+	iMappedCountry,
+	iMappedState,
+	iState,
+	tSupportedLangs,
+} from "../../types";
 
 export const supportedLangs: tSupportedLangs[] = [
 	"kr",
@@ -20,26 +29,6 @@ export const supportedLangs: tSupportedLangs[] = [
 	"tr",
 ];
 
-interface iMappedCity {
-	name: string;
-	state?: iMappedState;
-	country?: iMappedCountry;
-}
-
-interface iMappedState {
-	name: string;
-	code: string;
-	cities?: iMappedCity[];
-	country?: iMappedCountry;
-}
-
-interface iMappedCountry {
-	name: string;
-	code: string;
-	indicative: string;
-	states?: iMappedState[];
-}
-
 export function getMatches(name: string): string[] {
 	const deburr = _.deburr(name);
 
@@ -51,11 +40,6 @@ export function getMatches(name: string): string[] {
 		name.split(" ")[0],
 		deburr.split(" ")[0],
 	];
-}
-
-interface iJsonResponse<T> {
-	error: string | null;
-	data: T | null;
 }
 
 export function makeJsonResponse(event: any) {

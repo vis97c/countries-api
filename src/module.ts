@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 import { defineNuxtModule, createResolver, addServerHandler } from "@nuxt/kit";
-import path from "node:path";
 
 import type { CountriesModuleOptions } from "./types";
 
@@ -10,12 +9,12 @@ export default defineNuxtModule<CountriesModuleOptions>({
 		configKey: "countries",
 		compatibility: { nuxt: "^3.0.0" },
 	},
-	defaults: { base: "/api/countries" },
+	defaults: { base: "/_countries" },
 	async setup(moduleOptions, nuxt) {
 		const { base = "" } = moduleOptions;
 		const { resolve } = createResolver(import.meta.url);
 		const runtimePath = resolve("./runtime");
-		const apiPath = resolve(runtimePath, "server/api");
+		const apiPath = resolve(runtimePath, "server");
 
 		// @ts-ignore
 		nuxt.options.appConfig.countries = moduleOptions;
@@ -31,22 +30,22 @@ export default defineNuxtModule<CountriesModuleOptions>({
 		// all countries
 		addServerHandler({
 			route: base,
-			handler: resolve(apiPath, "countries/index"),
+			handler: resolve(apiPath, "countries"),
 		});
 		// single country
 		addServerHandler({
-			route: path.join(base, ":country"),
-			handler: resolve(apiPath, "countries/[country]/index"),
+			route: `${base}/:country`,
+			handler: resolve(apiPath, "country"),
 		});
 		// single state
 		addServerHandler({
-			route: path.join(base, ":country", ":state"),
-			handler: resolve(apiPath, "countries/[country]/[state]/index"),
+			route: `${base}/:country/:state`,
+			handler: resolve(apiPath, "country-state"),
 		});
 		// single city
 		addServerHandler({
-			route: path.join(base, ":country", ":state", ":city"),
-			handler: resolve(apiPath, "countries/[country]/[state]/[city]"),
+			route: `${base}/:country/:state/:city`,
+			handler: resolve(apiPath, "country-state-city"),
 		});
 	},
 });
