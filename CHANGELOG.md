@@ -1,5 +1,13 @@
 Countries Nuxt Module
 
+## [1.0.3](https://github.com/vis97c/countries-api/compare/v1.0.2...v1.0.3) (2024-02-19)
+
+
+### Bug Fixes
+
+* broken api paths on windows ([9337e74](https://github.com/vis97c/countries-api/commit/9337e744aef0632fec520e6ef481168ba843a56b))
+* improve matching & error handling ([e4fa74e](https://github.com/vis97c/countries-api/commit/e4fa74efcaa11146017c14b90fa22528502b16e9))
+
 ## [1.0.2](https://github.com/vis97c/countries-api/compare/v1.0.1...v1.0.2) (2024-02-18)
 
 
