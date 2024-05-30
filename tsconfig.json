@@ -2,6 +2,12 @@
   "extends": "./.nuxt/tsconfig.json",
   "compilerOptions": {
     "module": "ESNext",
-    "moduleResolution": "Bundler"
+    "moduleResolution": "Bundler",
+    "lib": [
+      "ESNext",
+      "ESNext.asynciterable",
+      "DOM",
+      "DOM.Iterable"
+    ]
   }
 }
