@@ -56,10 +56,9 @@ export default defineCachedEventHandler(
 
 			const countryPath = `${_.kebabCase(country.name)}.json`;
 			const countryData: iCountry = await storage.getItem(countryPath);
-			const mappedCountry = mapCountryData(countryData);
 
 			// Specific country
-			return JsonResponse(mappedCountry);
+			return JsonResponse(mapCountryData(countryData));
 		} catch (error) {
 			// handle unexpected errors
 			if (process.env.DEBUG) console.error(error);

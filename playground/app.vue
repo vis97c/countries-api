@@ -7,6 +7,10 @@
 </template>
 
 <style>
+	body {
+		overflow: visible;
+		height: auto;
+	}
 	#appex {
 		min-height: 100%;
 		display: flex;
@@ -17,5 +21,8 @@
 	}
 	.view {
 		width: 100%;
+	}
+	.avatar {
+		border-radius: 0;
 	}
 </style>

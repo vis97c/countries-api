@@ -65,7 +65,6 @@ export default defineCachedEventHandler(
 
 			const countryPath = `${_.kebabCase(country.name)}.json`;
 			const countryData: iCountry = await storage.getItem(countryPath);
-			const mappedCountry = mapCountryData(countryData);
 			const stateParam = getRouterParam(event, "state");
 			const stateData = countryData.states?.find(({ name, state_code }) => {
 				const matchable = [...getMatches(name), state_code];
@@ -79,12 +78,11 @@ export default defineCachedEventHandler(
 			// State does not exist
 			if (!stateParam || !stateData) {
 				return JsonResponse(
-					`No state with the given data was found within "${mappedCountry.name}"`,
+					`No state with the given data was found within "${countryData.name}"`,
 					404
 				);
 			}
 
-			const withCountry = typeof query.country === "string";
 			const cityParam = getRouterParam(event, "city");
 			const cityData = stateData.cities?.find(({ name }) => {
 				const matchable = getMatches(name);
@@ -103,11 +101,12 @@ export default defineCachedEventHandler(
 				);
 			}
 
-			const withState = typeof query.state === "string";
 			const mappedCity = mapCityData(cityData);
+			const withCountry = typeof query.country === "string";
+			const withState = typeof query.state === "string";
 
 			if (withState) mappedCity.state = mapStateData(stateData);
-			if (withCountry) mappedCity.country = mappedCountry;
+			if (withCountry) mappedCity.country = mapCountryData(countryData);
 
 			// Specific city
 			return JsonResponse(mappedCity);

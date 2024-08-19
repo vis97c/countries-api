@@ -2,7 +2,10 @@
 	<div class="view">
 		<div class="view-item --pY-60">
 			<div class="holder flx --flxColumn --flx-center-start --gap-30">
-				<h1 class="--txtColor">Countries API</h1>
+				<h1 class="flx --flxRow --flx-start-center">
+					<img class="avatar --size-sm --bgColor-none" src="/countries-api.png" />
+					<span class="--txtColor">Countries API</span>
+				</h1>
 				<div class="txt --gaping-5">
 					<p class="--txtColor-dark5">
 						Public REST API with countries data, based on

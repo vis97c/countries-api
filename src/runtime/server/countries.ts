@@ -17,8 +17,6 @@ export default defineCachedEventHandler(
 		try {
 			const query = getQuery(event);
 			const lang = <tSupportedLangs | undefined>query.lang;
-			const withStates = typeof query.states === "string";
-			const withCities = typeof query.cities === "string";
 			const storage = useStorage("assets:countries");
 
 			// Check for lang errors
@@ -35,7 +33,7 @@ export default defineCachedEventHandler(
 				}
 			}
 
-			const mapCountryData = makeMapCountryData(lang, withStates, withCities);
+			const mapCountryData = makeMapCountryData(lang);
 			const countries: iCountry[] = await storage.getItem("index.json");
 
 			// All countries

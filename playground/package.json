@@ -7,9 +7,6 @@
     "build": "nuxi build",
     "generate": "nuxi generate"
   },
-  "dependencies": {
-    "@open-xamu-co/ui-styles": "*"
-  },
   "devDependencies": {
     "nuxt": "latest"
   }

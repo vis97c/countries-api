@@ -41,7 +41,7 @@ export default defineNuxtConfig({
 
 | Name | Type   | Default          | Description                         |
 | ---- | ------ | ---------------- | ----------------------------------- |
-| base | string | "/api/countries" | Base path to be user on nuxt server |
+| base | string | "/api/countries" | Base path to be used on nuxt server |
 
 ## Development
 

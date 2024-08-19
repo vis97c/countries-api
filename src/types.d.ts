@@ -25,6 +25,8 @@ export interface iState {
 	// intenals
 	name: string;
 	state_code: string;
+	latitude: string;
+	longitude: string;
 }
 
 export interface iCountry {
@@ -34,6 +36,10 @@ export interface iCountry {
 	iso2: string;
 	iso3?: string;
 	phone_code: string;
+	currency: string;
+	emoji: string;
+	latitude: string;
+	longitude: string;
 	translations: Record<tSupportedLangs, string>;
 	timezones?: Array<Record<string, any>>;
 }
@@ -59,6 +65,8 @@ export interface iMappedCity {
 export interface iMappedState {
 	name: string;
 	code: string;
+	latitude: string;
+	longitude: string;
 	cities?: iMappedCity[];
 	country?: iMappedCountry;
 }
@@ -67,6 +75,10 @@ export interface iMappedCountry {
 	name: string;
 	code: string;
 	indicative: string;
+	currency: string;
+	emoji: string;
+	latitude: string;
+	longitude: string;
 	states?: iMappedState[];
 }
 
