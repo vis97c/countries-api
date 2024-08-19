@@ -74,10 +74,17 @@ export function mapCityData({ name }: iCity): iMappedCity {
 }
 
 export function makeMapStateData(withCities = false) {
-	return function mapStateData({ name, state_code, cities }: iState): iMappedState {
-		const mappedCities = cities && cities.map(mapCityData);
+	return function mapStateData({ name, state_code, latitude, longitude, cities }: iState) {
+		const state: iMappedState = {
+			name,
+			code: state_code,
+			latitude,
+			longitude,
+		};
 
-		return { name, code: state_code, cities: (withCities && mappedCities) || undefined };
+		if (withCities) state.cities = (cities || []).map(mapCityData);
+
+		return state;
 	};
 }
 
@@ -86,17 +93,25 @@ export function makeMapCountryData(lang?: tSupportedLangs, withStates = false, w
 		name,
 		iso2,
 		phone_code,
+		currency,
+		emoji,
+		latitude,
+		longitude,
 		translations,
 		states,
-	}: iCountry): iMappedCountry {
-		const mapStateData = makeMapStateData(withCities);
-		const mappedStates = states && states.map(mapStateData);
-
-		return {
+	}: iCountry) {
+		const country: iMappedCountry = {
 			name: (lang && translations[lang]) ?? name,
-			indicative: phone_code.charAt(0) === "+" ? phone_code : `+${phone_code}`,
+			indicative: `+${phone_code.replace("+", "")}`,
+			currency,
+			emoji,
+			latitude,
+			longitude,
 			code: iso2,
-			states: (withStates && mappedStates) || undefined,
 		};
+
+		if (withStates) country.states = (states || []).map(makeMapStateData(withCities));
+
+		return country;
 	};
 }

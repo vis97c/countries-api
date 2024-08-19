@@ -34,8 +34,6 @@ async function makeDir(dirPaths, callback) {
  */
 (async function () {
 	const start = Date.now();
-	let processed = 0;
-	let proccessTime = 0;
 	const file = "countries+states+cities.json";
 	const countries = JSON.parse(
 		await fsp.readFile(path.join("data", file), {
@@ -51,38 +49,32 @@ async function makeDir(dirPaths, callback) {
 	}
 
 	makeDir([countriesPath], async (countryStart) => {
+		let processed = 0;
+		let proccessTime = 0;
+
 		for (const country of countries) {
 			const countryPath = path.join(countriesPath, _.kebabCase(country.name));
 
 			console.log(
 				`Creating file for ${country.name}, which has ${country.states.length} states`
 			);
-
 			// write country
 			await writeFile(`${countryPath}.json`, country);
 
-			const countryProcessTime = Date.now() - countryStart;
+			const countryProcessTime = Date.now() - proccessTime - countryStart;
 
 			processed += 1;
 			proccessTime += countryProcessTime;
-
 			console.log(
 				"\x1b[33m%s\x1b[0m",
 				`Done with ${country.name} in ${countryProcessTime}ms`
 			);
 
-			// last country
+			// last country, write countries index
 			if (processed === countries.length) {
-				// write countries index
 				await writeFile(
 					path.join(countriesPath, "index.json"),
-					countries.map(({ id, name, iso2, phone_code, translations }) => ({
-						id,
-						name,
-						iso2,
-						phone_code,
-						translations,
-					}))
+					countries.map(({ states, ...country }) => country)
 				);
 
 				// time output
