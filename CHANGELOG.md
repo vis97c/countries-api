@@ -1,5 +1,18 @@
 Countries Nuxt Module
 
+# [1.1.0](https://github.com/vis97c/countries-api/compare/v1.0.3...v1.1.0) (2024-08-19)
+
+
+### Bug Fixes
+
+* add icon ([9e6b868](https://github.com/vis97c/countries-api/commit/9e6b8680174eafea116ba5358ee2958497a2cc16))
+* allow crawler indexing ([9137356](https://github.com/vis97c/countries-api/commit/91373564c6b971c20e2d66d7123f3b49dc6f47ae))
+
+
+### Features
+
+* expose currency, location & emoji ([1252f63](https://github.com/vis97c/countries-api/commit/1252f639c2e5afdf406d01ea327f06c1facb7db5))
+
 ## [1.0.3](https://github.com/vis97c/countries-api/compare/v1.0.2...v1.0.3) (2024-02-19)
 
 
