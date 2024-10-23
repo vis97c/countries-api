@@ -1,6 +1,6 @@
 <template>
-	<Body class="--minHeight-full flx --flx-center">
-		<main id="appex" class="flx --flxColumn --flx-center-start">
+	<Body class="--minHeight-full flx --flxColumn --flx-center-stretch">
+		<main id="appex" class="flx --flxColumn --flx-center-start --width-100">
 			<NuxtPage />
 		</main>
 	</Body>
@@ -24,5 +24,8 @@
 	}
 	.avatar {
 		border-radius: 0;
+	}
+	[id] {
+		scroll-margin-top: 2rem;
 	}
 </style>

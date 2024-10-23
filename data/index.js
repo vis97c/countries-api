@@ -55,9 +55,7 @@ async function makeDir(dirPaths, callback) {
 		for (const country of countries) {
 			const countryPath = path.join(countriesPath, _.kebabCase(country.name));
 
-			console.log(
-				`Creating file for ${country.name}, which has ${country.states.length} states`
-			);
+			console.log(`Creating file for ${country.name}, which has ${country.states.length} states`);
 			// write country
 			await writeFile(`${countryPath}.json`, country);
 
@@ -65,10 +63,7 @@ async function makeDir(dirPaths, callback) {
 
 			processed += 1;
 			proccessTime += countryProcessTime;
-			console.log(
-				"\x1b[33m%s\x1b[0m",
-				`Done with ${country.name} in ${countryProcessTime}ms`
-			);
+			console.log("\x1b[33m%s\x1b[0m", `Done with ${country.name} in ${countryProcessTime}ms`);
 
 			// last country, write countries index
 			if (processed === countries.length) {

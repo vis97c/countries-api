@@ -32,23 +32,14 @@ export const supportedLangs: tSupportedLangs[] = [
 export function getMatches(name: string): string[] {
 	const deburr = _.deburr(name);
 
-	return [
-		name,
-		deburr,
-		_.kebabCase(name),
-		_.kebabCase(deburr),
-		name.split(" ")[0],
-		deburr.split(" ")[0],
-	];
+	return [name, deburr, _.kebabCase(name), _.kebabCase(deburr), name.split(" ")[0], deburr.split(" ")[0]];
 }
 
 export function makeJsonResponse(event: any) {
 	/**
 	 * Returns a JSON response object with the status
 	 */
-	function JsonResponse<T extends Record<string, any> | Record<string, any>[]>(
-		data: T
-	): iJsonResponse<T>;
+	function JsonResponse<T extends Record<string, any> | Record<string, any>[]>(data: T): iJsonResponse<T>;
 	function JsonResponse<T extends Record<string, any> | Record<string, any>[]>(
 		errMsg: string,
 		errStatus?: number

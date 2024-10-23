@@ -1,16 +1,4 @@
-export type tSupportedLangs =
-	| "kr"
-	| "pt"
-	| "nl"
-	| "hr"
-	| "fa"
-	| "de"
-	| "es"
-	| "fr"
-	| "ja"
-	| "it"
-	| "cn"
-	| "tr";
+export type tSupportedLangs = "kr" | "pt" | "nl" | "hr" | "fa" | "de" | "es" | "fr" | "ja" | "it" | "cn" | "tr";
 
 export interface iCity {
 	state?: Omit<iState, "cities">;

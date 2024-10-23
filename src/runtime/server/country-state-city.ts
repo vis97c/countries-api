@@ -37,10 +37,7 @@ export default defineCachedEventHandler(
 				} else if (!supportedLangs.includes(lang)) {
 					const langs = supportedLangs.join(", ");
 
-					return JsonResponse(
-						`Unsupported translation, supported ones are: ${langs}`,
-						422
-					);
+					return JsonResponse(`Unsupported translation, supported ones are: ${langs}`, 422);
 				}
 			}
 
@@ -77,10 +74,7 @@ export default defineCachedEventHandler(
 
 			// State does not exist
 			if (!stateParam || !stateData) {
-				return JsonResponse(
-					`No state with the given data was found within "${countryData.name}"`,
-					404
-				);
+				return JsonResponse(`No state with the given data was found within "${countryData.name}"`, 404);
 			}
 
 			const cityParam = getRouterParam(event, "city");
@@ -95,10 +89,7 @@ export default defineCachedEventHandler(
 
 			// City does not exist
 			if (!cityParam || !cityData) {
-				return JsonResponse(
-					`No city with the given data was found within "${stateData.name}"`,
-					404
-				);
+				return JsonResponse(`No city with the given data was found within "${stateData.name}"`, 404);
 			}
 
 			const mappedCity = mapCityData(cityData);

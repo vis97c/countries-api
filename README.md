@@ -34,7 +34,7 @@ export default defineNuxtConfig({
 export default defineNuxtConfig({
 	modules: ["nuxt-countries-api"],
 	countries: {
-		base: "/api/countries",
+		base: "/_countries",
 	},
 });
 ```

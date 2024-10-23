@@ -11,6 +11,9 @@
 	"extends": [
 		"@open-xamu-co/eslint-config"
 	],
+	"ignorePatterns": [
+		"*Html.vue"
+	],
 	"overrides": [
 		{
 			"files": [
